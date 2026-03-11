@@ -177,6 +177,7 @@ def fetch_catalog() -> list[dict]:
             "downloadURL":   f"{HUB}/{model_id}/resolve/main/{filename}",
             "filename":      filename,
             "badge":         meta.get("badge"),
+            "hfDownloads":   entry.get("downloads", 0),
         })
         seen_base.add(base)
         print(f"  + {nice_name(repo)} ({param_b}B, {size_gb} GB)")
