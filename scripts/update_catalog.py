@@ -82,7 +82,12 @@ def nice_name(repo: str) -> str:
         s = s.replace(suffix, "")
     # Remove version tags like -v0.3
     s = re.sub(r"-v\d+\.\d+$", "", s)
-    return re.sub(r"[-_]+", " ", s).strip()
+    s = re.sub(r"[-_]+", " ", s).strip()
+    # Capitalize words that start with a lowercase letter (preserve existing casing like SmolLM2)
+    s = " ".join(w[0].upper() + w[1:] if w and w[0].islower() else w for w in s.split())
+    # Uppercase parameter size suffix (e.g. "2b" -> "2B", "1.5b" -> "1.5B")
+    s = re.sub(r"(\d+\.?\d*)([Bb])\b", lambda m: m.group(1) + "B", s)
+    return s
 
 
 def make_id(repo: str) -> str:
