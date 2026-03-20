@@ -113,7 +113,7 @@ def fetch_rss(url: str, source: str) -> list[dict]:
 def fetch_trending() -> list[dict]:
     try:
         r = requests.get(HF_API, headers=HEADERS, timeout=10, params={
-            'sort': 'downloads', 'direction': '-1', 'limit': '10', 'filter': 'gguf',
+            'sort': 'trendingScore', 'direction': '-1', 'limit': '10', 'filter': 'gguf',
         })
         r.raise_for_status()
         models = r.json()
