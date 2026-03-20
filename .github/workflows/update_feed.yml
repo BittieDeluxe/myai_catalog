@@ -31,5 +31,6 @@ jobs:
           git add feed.json
           git diff --staged --quiet || (
             git commit -m "chore: update feed [skip ci]" &&
+            git pull --rebase &&
             git push
           )

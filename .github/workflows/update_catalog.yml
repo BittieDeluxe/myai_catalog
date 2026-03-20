@@ -35,5 +35,6 @@ jobs:
           git add catalog.json
           git diff --staged --quiet || (
             git commit -m "chore: update model catalog [skip ci]" &&
+            git pull --rebase &&
             git push
           )
