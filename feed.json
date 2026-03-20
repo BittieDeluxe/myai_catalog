@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-20T22:11:17Z",
+  "updated": "2026-03-20T23:58:52Z",
   "news": [
     {
       "title": "Microsoft rolls back some of its Copilot AI bloat on Windows",
@@ -23,6 +23,13 @@
       "snippet": "CEO&#160;Jensen Huang took the stage at&#160;Nvidia&#8217;s GTC conference&#160;this week in his signature leather jacket to deliver a two-and-a-half-hour keynote, projecting&#160;$1 trillion&#160;in "
     },
     {
+      "title": "Trump takes another shot at dismantling state AI regulation",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/898055/trump-new-ai-policy-framework",
+      "source": "The Verge",
+      "publishedAt": "2026-03-20T18:17:02Z",
+      "snippet": "The Trump administration on Friday unveiled its new legislative blueprint for AI regulation, and the seven-point plan includes a clear message: The federal government should avoid many AI regulations "
+    },
+    {
       "title": "WordPress.com now lets AI agents write and publish posts, and more",
       "url": "https://techcrunch.com/2026/03/20/wordpress-com-now-lets-ai-agents-write-and-publish-posts-and-more/",
       "source": "TechCrunch",
@@ -35,6 +42,27 @@
       "source": "TechCrunch",
       "publishedAt": "2026-03-20T16:14:04Z",
       "snippet": "Trump\u2019s AI framework pushes federal preemption of state laws, emphasizes innovation, and shifts responsibility for child safety toward parents while laying out lighter-touch rules for tech companies."
+    },
+    {
+      "title": "Google Search is now using AI to replace headlines",
+      "url": "https://www.theverge.com/tech/896490/google-replace-news-headlines-in-search-canary-coal-mine-experiment",
+      "source": "The Verge",
+      "publishedAt": "2026-03-20T14:30:00Z",
+      "snippet": "Since roughly the turn of the millennium, Google Search has been the bedrock of the web. People loved Google's trustworthy \"10 blue links\" search experience and its unspoken promise: The website you c"
+    },
+    {
+      "title": "Amazon is making an Alexa phone",
+      "url": "https://www.theverge.com/tech/897915/amazon-transformer-alexa-phone",
+      "source": "The Verge",
+      "publishedAt": "2026-03-20T13:42:51Z",
+      "snippet": "Over 10 years after shelving the Fire Phone, Amazon is reportedly planning to launch another smartphone, this time focused on Alexa. According to Reuters, the phone, which is code-named \"Transformer,\""
+    },
+    {
+      "title": "Why people really hate AI",
+      "url": "https://www.theverge.com/podcast/897900/ai-trust-gap-killer-app-vergecast",
+      "source": "The Verge",
+      "publishedAt": "2026-03-20T13:27:53Z",
+      "snippet": "There's a big, and increasing, disconnect in culture right now when it comes to artificial intelligence. Companies of all shapes and sizes are hunting for places to deploy AI and can't stop talking ab"
     },
     {
       "title": "The best AI investment might be in energy tech",
@@ -51,6 +79,13 @@
       "snippet": "These physical notetakers transcribe audio and give users summaries and action items of meetings using AI. Some even offer live translation."
     },
     {
+      "title": "OpenAI is planning a desktop \u2018superapp\u2019",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/897778/openai-chatgpt-codex-atlas-browser-superapp",
+      "source": "The Verge",
+      "publishedAt": "2026-03-20T00:09:38Z",
+      "snippet": "OpenAI is working on a desktop \"superapp\" that merges its ChatGPT app, the Codex AI coding app, and its AI-powered Atlas browser into one app, The Wall Street Journal reports. The company is making th"
+    },
+    {
       "title": "Jeff Bezos reportedly wants $100 billion to buy and transform old manufacturing firms with AI",
       "url": "https://techcrunch.com/2026/03/19/jeff-bezos-reportedly-wants-100-billion-to-buy-and-transform-old-manufacturing-firms-with-ai/",
       "source": "TechCrunch",
@@ -63,6 +98,13 @@
       "source": "TechCrunch",
       "publishedAt": "2026-03-19T19:09:02Z",
       "snippet": "AI bots may outnumber humans online by 2027, says Cloudflare CEO Matthew Prince, as generative AI agents dramatically increase web traffic and infrastructure demands."
+    },
+    {
+      "title": "A rogue AI led to a serious security incident at Meta",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/897528/meta-rogue-ai-agent-security-incident",
+      "source": "The Verge",
+      "publishedAt": "2026-03-19T18:20:05Z",
+      "snippet": "For almost two hours last week, Meta employees had unauthorized access to company and user data thanks to an AI agent that gave an employee inaccurate technical advice, as previously reported by The I"
     },
     {
       "title": "Meta rolls out new AI content enforcement systems while reducing reliance on third-party vendors",
@@ -86,11 +128,25 @@
       "snippet": "Nominate your startup, or one you know, for TechCrunch Startup Battlefield 200 before May 27. Chance to win $100,000 equity-free funding and VC access."
     },
     {
+      "title": "Adobe\u2019s AI image generator can now be trained on your own art",
+      "url": "https://www.theverge.com/tech/897243/adobe-firefly-ai-custom-models-image-public-beta",
+      "source": "The Verge",
+      "publishedAt": "2026-03-19T13:00:00Z",
+      "snippet": "Adobe is launching customizable AI image generators that can mimic specific artistic styles and character designs. The Firefly Custom Models are available in public beta starting today, allowing creat"
+    },
+    {
       "title": "Amazon brings Alexa+ to the UK",
       "url": "https://techcrunch.com/2026/03/19/amazon-brings-alexa-to-the-uk/",
       "source": "TechCrunch",
       "publishedAt": "2026-03-19T12:27:24Z",
       "snippet": "The company is currently letting users in the U.K. try out Alexa+ for free via an early access program."
+    },
+    {
+      "title": "Fitbit&#8217;s AI health coach will soon be able to read your medical records",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/897250/fitbits-ai-health-coach-reads-medical-records",
+      "source": "The Verge",
+      "publishedAt": "2026-03-19T12:27:23Z",
+      "snippet": "Would you share your medical records with a personal trainer? How about a virtual one? Google, which this week announced it is giving Fitbit's AI health coach the ability to read your medical records,"
     },
     {
       "title": "Multiverse Computing pushes its compressed AI models into the mainstream",
@@ -105,13 +161,52 @@
       "source": "TechCrunch",
       "publishedAt": "2026-03-18T23:42:46Z",
       "snippet": "A rogue AI agent inadvertently exposed Meta company and user data to engineers who didn't have permission to see it."
+    },
+    {
+      "title": "David Sacks\u2019 big Iran warning gets big time ignored",
+      "url": "https://www.theverge.com/column/896949/regulator-david-sacks-iran-polymarket",
+      "source": "The Verge",
+      "publishedAt": "2026-03-18T18:44:21Z",
+      "snippet": "Hello and welcome to Regulator, a newsletter for Verge subscribers about the politics of technology and the technology of politics - now landing in your inbox on Wednesdays! If someone has forwarded t"
+    },
+    {
+      "title": "ChatGPT did not cure a dog\u2019s cancer",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/896878/ai-did-not-cure-this-dogs-cancer",
+      "source": "The Verge",
+      "publishedAt": "2026-03-18T18:14:39Z",
+      "snippet": "When an Australian tech entrepreneur with no background in biology or medicine said ChatGPT helped save his dog from cancer, the story spread with the kind of validation Big Tech has long craved: proo"
     }
   ],
   "trending": [
     {
-      "id": "ggml-org/models-moved",
-      "displayName": "models moved",
-      "downloads": 2182513
+      "id": "HauhauCS/Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive",
+      "displayName": "Qwen3.5 35B A3B Uncensored HauhauCS Aggressive",
+      "downloads": 210848
+    },
+    {
+      "id": "HauhauCS/Qwen3.5-9B-Uncensored-HauhauCS-Aggressive",
+      "displayName": "Qwen3.5 9B Uncensored HauhauCS Aggressive",
+      "downloads": 321498
+    },
+    {
+      "id": "Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
+      "displayName": "Qwen3.5 27B Claude 4.6 Opus Reasoning Distilled",
+      "downloads": 397345
+    },
+    {
+      "id": "Tesslate/OmniCoder-9B-GGUF",
+      "displayName": "OmniCoder 9B",
+      "downloads": 44540
+    },
+    {
+      "id": "HauhauCS/Qwen3.5-4B-Uncensored-HauhauCS-Aggressive",
+      "displayName": "Qwen3.5 4B Uncensored HauhauCS Aggressive",
+      "downloads": 113042
+    },
+    {
+      "id": "RuneXX/LTX-2.3-Workflows",
+      "displayName": "LTX 2.3 Workflows",
+      "downloads": 0
     },
     {
       "id": "unsloth/Qwen3.5-35B-A3B-GGUF",
@@ -119,9 +214,9 @@
       "downloads": 1942724
     },
     {
-      "id": "mixedbread-ai/mxbai-embed-large-v1",
-      "displayName": "mxbai embed large v1",
-      "downloads": 1784545
+      "id": "HauhauCS/Qwen3.5-27B-Uncensored-HauhauCS-Aggressive",
+      "displayName": "Qwen3.5 27B Uncensored HauhauCS Aggressive",
+      "downloads": 121818
     },
     {
       "id": "unsloth/Qwen3.5-9B-GGUF",
@@ -129,34 +224,9 @@
       "downloads": 1168140
     },
     {
-      "id": "ggml-org/tinygemma3-GGUF",
-      "displayName": "tinygemma3",
-      "downloads": 1165422
-    },
-    {
-      "id": "bartowski/gemma-2-2b-it-GGUF",
-      "displayName": "gemma 2 2b",
-      "downloads": 955045
-    },
-    {
-      "id": "unsloth/Qwen3.5-27B-GGUF",
-      "displayName": "Qwen3.5 27B",
-      "downloads": 829149
-    },
-    {
-      "id": "hugging-quants/Llama-3.2-1B-Instruct-Q8_0-GGUF",
-      "displayName": "Llama 3.2 1B Q8_0",
-      "downloads": 759129
-    },
-    {
-      "id": "lmstudio-community/Qwen3.5-9B-GGUF",
-      "displayName": "Qwen3.5 9B",
-      "downloads": 729092
-    },
-    {
-      "id": "ggml-org/stories15M_MOE",
-      "displayName": "stories15M_MOE",
-      "downloads": 590832
+      "id": "unsloth/LTX-2.3-GGUF",
+      "displayName": "LTX 2.3",
+      "downloads": 152414
     }
   ]
 }
