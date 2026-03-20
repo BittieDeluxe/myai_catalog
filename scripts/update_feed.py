@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Fetch AI news from RSS feeds + HuggingFace trending GGUF models, write feed.json."""
+"""Fetch AI news from RSS/Atom feeds + HuggingFace trending GGUF models, write feed.json."""
 
 import json
 import re
@@ -18,6 +18,15 @@ HF_API = "https://huggingface.co/api/models"
 HEADERS = {"User-Agent": "MyAI-FeedBot/1.0 (https://github.com/BittieDeluxe/myai_catalog)"}
 
 
+def strip_namespaces(xml_bytes: bytes) -> bytes:
+    """Strip XML namespace declarations and prefixes so ElementTree tags are plain."""
+    s = xml_bytes.decode('utf-8', errors='replace')
+    s = re.sub(r'\s+xmlns(?::\w+)?="[^"]*"', '', s)       # remove xmlns attrs
+    s = re.sub(r'<(/?)\w+:(\w+)', r'<\1\2', s)             # strip ns prefixes from tags
+    s = re.sub(r'\s\w+:(\w+)=', r' \1=', s)                # strip ns prefixes from attrs
+    return s.encode('utf-8')
+
+
 def strip_html(html: str) -> str:
     text = re.sub(r'<[^>]+>', '', html)
     return (text
@@ -29,11 +38,22 @@ def strip_html(html: str) -> str:
 def to_iso8601(date_str: str) -> str | None:
     if not date_str:
         return None
+    # Try RFC 822 (RSS)
     try:
         dt = parsedate_to_datetime(date_str.strip())
         return dt.astimezone(timezone.utc).strftime('%Y-%m-%dT%H:%M:%SZ')
     except Exception:
-        return None
+        pass
+    # Try ISO 8601 (Atom)
+    for fmt in ('%Y-%m-%dT%H:%M:%SZ', '%Y-%m-%dT%H:%M:%S%z'):
+        try:
+            dt = datetime.strptime(date_str.strip()[:25], fmt)
+            if dt.tzinfo is None:
+                dt = dt.replace(tzinfo=timezone.utc)
+            return dt.astimezone(timezone.utc).strftime('%Y-%m-%dT%H:%M:%SZ')
+        except Exception:
+            pass
+    return None
 
 
 def fetch_rss(url: str, source: str) -> list[dict]:
@@ -45,21 +65,39 @@ def fetch_rss(url: str, source: str) -> list[dict]:
         return []
 
     try:
-        root = ET.fromstring(r.content)
+        root = ET.fromstring(strip_namespaces(r.content))
     except ET.ParseError as e:
         print(f"Warning: could not parse {source} XML: {e}", file=sys.stderr)
         return []
 
+    # Support both RSS <item> and Atom <entry>
+    entries = root.findall('.//item') or root.findall('.//entry')
+
     items = []
-    for item in root.findall('.//item'):
-        title = (item.findtext('title') or '').strip()
-        link  = (item.findtext('link')  or '').strip()
-        if not title or not link:
+    for entry in entries:
+        title = (entry.findtext('title') or '').strip()
+        if not title:
             continue
 
-        pub      = item.findtext('pubDate') or ''
-        raw_desc = item.findtext('description') or ''
-        snippet  = (strip_html(raw_desc)[:200] or None)
+        # RSS: <link> text node. Atom: <link href="..." rel="alternate"/>
+        link = ''
+        link_el = entry.find('link')
+        if link_el is not None:
+            link = link_el.get('href') or (link_el.text or '')
+        link = link.strip()
+        if not link:
+            continue
+
+        # Date: RSS uses pubDate, Atom uses published or updated
+        pub = (entry.findtext('pubDate') or
+               entry.findtext('published') or
+               entry.findtext('updated') or '')
+
+        # Description: RSS uses description, Atom uses summary or content
+        raw_desc = (entry.findtext('description') or
+                    entry.findtext('summary') or
+                    entry.findtext('content') or '')
+        snippet = strip_html(raw_desc)[:200] or None
 
         items.append({
             'title':       title,
