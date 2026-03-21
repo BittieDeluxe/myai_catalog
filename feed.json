@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-21T20:21:46Z",
+  "updated": "2026-03-21T22:20:17Z",
   "news": [
     {
       "title": "Publisher pulls horror novel \u2018Shy Girl\u2019 over AI concerns",
@@ -209,14 +209,14 @@
       "downloads": 0
     },
     {
-      "id": "unsloth/Qwen3.5-35B-A3B-GGUF",
-      "displayName": "Qwen3.5 35B A3B",
-      "downloads": 1989824
-    },
-    {
       "id": "Jackrong/Qwen3.5-9B-Claude-4.6-Opus-Reasoning-Distilled-v2-GGUF",
       "displayName": "Qwen3.5 9B Claude 4.6 Opus Reasoning Distilled v2",
       "downloads": 19216
+    },
+    {
+      "id": "unsloth/Qwen3.5-35B-A3B-GGUF",
+      "displayName": "Qwen3.5 35B A3B",
+      "downloads": 1989824
     },
     {
       "id": "HauhauCS/Qwen3.5-27B-Uncensored-HauhauCS-Aggressive",
