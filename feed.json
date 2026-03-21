@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-21T06:37:45Z",
+  "updated": "2026-03-21T08:28:07Z",
   "news": [
     {
       "title": "New court filing reveals Pentagon told Anthropic the two sides were nearly aligned \u2014 a week after Trump declared the relationship kaput",
@@ -181,27 +181,32 @@
     {
       "id": "HauhauCS/Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive",
       "displayName": "Qwen3.5 35B A3B Uncensored HauhauCS Aggressive",
-      "downloads": 210848
+      "downloads": 249720
     },
     {
       "id": "HauhauCS/Qwen3.5-9B-Uncensored-HauhauCS-Aggressive",
       "displayName": "Qwen3.5 9B Uncensored HauhauCS Aggressive",
-      "downloads": 321498
+      "downloads": 335992
     },
     {
       "id": "Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
       "displayName": "Qwen3.5 27B Claude 4.6 Opus Reasoning Distilled",
-      "downloads": 397345
+      "downloads": 413519
     },
     {
       "id": "Tesslate/OmniCoder-9B-GGUF",
       "displayName": "OmniCoder 9B",
-      "downloads": 44540
+      "downloads": 47690
     },
     {
       "id": "HauhauCS/Qwen3.5-4B-Uncensored-HauhauCS-Aggressive",
       "displayName": "Qwen3.5 4B Uncensored HauhauCS Aggressive",
-      "downloads": 113042
+      "downloads": 119073
+    },
+    {
+      "id": "unsloth/Qwen3.5-35B-A3B-GGUF",
+      "displayName": "Qwen3.5 35B A3B",
+      "downloads": 1989824
     },
     {
       "id": "RuneXX/LTX-2.3-Workflows",
@@ -209,24 +214,19 @@
       "downloads": 0
     },
     {
-      "id": "unsloth/Qwen3.5-35B-A3B-GGUF",
-      "displayName": "Qwen3.5 35B A3B",
-      "downloads": 1942724
-    },
-    {
       "id": "Jackrong/Qwen3.5-9B-Claude-4.6-Opus-Reasoning-Distilled-v2-GGUF",
       "displayName": "Qwen3.5 9B Claude 4.6 Opus Reasoning Distilled v2",
-      "downloads": 11882
+      "downloads": 19216
     },
     {
       "id": "unsloth/Qwen3.5-9B-GGUF",
       "displayName": "Qwen3.5 9B",
-      "downloads": 1168140
+      "downloads": 1224061
     },
     {
       "id": "HauhauCS/Qwen3.5-27B-Uncensored-HauhauCS-Aggressive",
       "displayName": "Qwen3.5 27B Uncensored HauhauCS Aggressive",
-      "downloads": 121818
+      "downloads": 141257
     }
   ]
 }
