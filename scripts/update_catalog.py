@@ -12,6 +12,7 @@ import os
 import re
 import sys
 import requests
+from concurrent.futures import ThreadPoolExecutor, as_completed
 
 API    = "https://huggingface.co/api"
 HUB    = "https://huggingface.co"
@@ -23,6 +24,13 @@ QUANTS = ["Q4_K_M", "Q4_K_S", "Q4_0", "Q5_K_M"]
 HEADERS = {}
 if token := os.environ.get("HF_TOKEN"):
     HEADERS["Authorization"] = f"Bearer {token}"
+
+CATEGORIES = [
+    {"name": "Reasoning",  "icon": "brain.head.profile",                     "search": "R1"},
+    {"name": "Coding",     "icon": "chevron.left.forwardslash.chevron.right", "search": "Coder"},
+    {"name": "General",    "icon": "bubble.left.and.bubble.right",            "search": "Llama"},
+    {"name": "Creative",   "icon": "pencil.and.sparkles",                     "search": "Hermes"},
+]
 
 # Curated descriptions and badges for well-known models.
 # Keys are the repo name with "-GGUF" and "-Instruct"/"-it" stripped, lowercased.
@@ -105,6 +113,79 @@ def meta_key(repo: str) -> str:
     for suffix in ["-Instruct", "-instruct", "-it", "-chat"]:
         s = s.replace(suffix, "")
     return s.lower()
+
+
+def build_model_entry(model_id: str) -> dict | None:
+    """Fetch model details and build a ModelDefinition-compatible dict."""
+    try:
+        r = requests.get(f"{API}/models/{model_id}", headers=HEADERS, timeout=10)
+        r.raise_for_status()
+        detail = r.json()
+    except Exception:
+        return None
+
+    siblings = detail.get("siblings", [])
+    chosen = best_gguf_file(siblings)
+    if not chosen:
+        return None
+
+    fname = chosen["rfilename"]
+    size_bytes = chosen.get("size")
+    repo = model_id.split("/")[-1]
+    param_b = parse_params_b(repo)
+
+    if size_bytes:
+        size_gb = round(size_bytes / 1_073_741_824, 2)
+    elif param_b:
+        size_gb = round(param_b * 0.55, 1)
+    else:
+        return None
+
+    ram_gb = round(size_gb * 1.3 + 0.3, 1)
+    detected_quant = next((q for q in QUANTS if q.lower() in fname.lower()), "Q4")
+
+    if param_b:
+        p_str = str(int(param_b)) + "B" if param_b == int(param_b) else str(param_b) + "B"
+        description = f"A {p_str} parameter model. Quantized to {detected_quant}."
+    else:
+        description = f"Quantized to {detected_quant}."
+
+    return {
+        "id":            make_id(repo),
+        "name":          nice_name(repo),
+        "description":   description,
+        "sizeGB":        size_gb,
+        "ramRequiredGB": ram_gb,
+        "downloadURL":   f"{HUB}/{model_id}/resolve/main/{fname}",
+        "filename":      fname,
+        "hfDownloads":   detail.get("downloads", 0),
+    }
+
+
+def fetch_category(name: str, icon: str, search: str) -> dict:
+    """Fetch top 5 downloadable bartowski models for a category."""
+    params = {"author": AUTHOR, "filter": "gguf",
+              "sort": "downloads", "direction": "-1", "limit": "8"}
+    if search:
+        params["search"] = search
+    try:
+        r = requests.get(f"{API}/models", headers=HEADERS, timeout=10, params=params)
+        r.raise_for_status()
+        summaries = r.json()
+    except Exception as e:
+        print(f"Warning: could not fetch {name} category: {e}", file=sys.stderr)
+        return {"name": name, "icon": icon, "models": []}
+
+    models = []
+    with ThreadPoolExecutor(max_workers=4) as ex:
+        futures = {ex.submit(build_model_entry, s["id"]): s["id"] for s in summaries}
+        for future in as_completed(futures):
+            entry = future.result()
+            if entry:
+                models.append(entry)
+
+    models.sort(key=lambda m: m.get("hfDownloads", 0), reverse=True)
+    return {"name": name, "icon": icon, "models": models[:5]}
 
 
 def fetch_catalog() -> list[dict]:
@@ -199,10 +280,23 @@ def main() -> None:
         print(f"\nSanity check failed: only {len(catalog)} models found. Aborting.")
         sys.exit(0)
 
-    with open("catalog.json", "w") as f:
-        json.dump(catalog, f, indent=2)
+    # Categories (fetch all in parallel)
+    print("\nFetching category models...")
+    categories = []
+    with ThreadPoolExecutor(max_workers=4) as ex:
+        futures = {ex.submit(fetch_category, c["name"], c["icon"], c["search"]): c["name"]
+                   for c in CATEGORIES}
+        for future in as_completed(futures):
+            categories.append(future.result())
+    order = {c["name"]: i for i, c in enumerate(CATEGORIES)}
+    categories.sort(key=lambda c: order.get(c["name"], 99))
 
-    print(f"\nWrote {len(catalog)} models to catalog.json")
+    output = {"models": catalog, "categories": categories}
+    with open("catalog.json", "w") as f:
+        json.dump(output, f, indent=2)
+
+    model_count = sum(len(c["models"]) for c in categories)
+    print(f"\nWrote {len(catalog)} catalog models + {model_count} category models to catalog.json")
 
 
 if __name__ == "__main__":
