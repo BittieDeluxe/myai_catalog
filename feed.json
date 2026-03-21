@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-21T08:28:07Z",
+  "updated": "2026-03-21T10:22:34Z",
   "news": [
     {
       "title": "New court filing reveals Pentagon told Anthropic the two sides were nearly aligned \u2014 a week after Trump declared the relationship kaput",
@@ -204,14 +204,14 @@
       "downloads": 119073
     },
     {
-      "id": "unsloth/Qwen3.5-35B-A3B-GGUF",
-      "displayName": "Qwen3.5 35B A3B",
-      "downloads": 1989824
-    },
-    {
       "id": "RuneXX/LTX-2.3-Workflows",
       "displayName": "LTX 2.3 Workflows",
       "downloads": 0
+    },
+    {
+      "id": "unsloth/Qwen3.5-35B-A3B-GGUF",
+      "displayName": "Qwen3.5 35B A3B",
+      "downloads": 1989824
     },
     {
       "id": "Jackrong/Qwen3.5-9B-Claude-4.6-Opus-Reasoning-Distilled-v2-GGUF",
