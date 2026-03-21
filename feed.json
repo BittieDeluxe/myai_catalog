@@ -1,6 +1,20 @@
 {
-  "updated": "2026-03-21T16:24:50Z",
+  "updated": "2026-03-21T18:30:56Z",
   "news": [
+    {
+      "title": "Delve accused of misleading customers with \u2018fake compliance\u2019",
+      "url": "https://techcrunch.com/2026/03/21/delve-accused-of-misleading-customers-with-fake-compliance/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-03-21T17:00:05Z",
+      "snippet": "An anonymous Substack post accuses compliance startup Delve of \u201cfalsely\u201d convincing \u201chundreds of customers they were compliant\u201d with privacy and security regulations."
+    },
+    {
+      "title": "Why Wall Street wasn\u2019t won over by Nvidia\u2019s big conference",
+      "url": "https://techcrunch.com/2026/03/21/why-wall-street-wasnt-won-over-by-nvidias-big-conference/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-03-21T16:28:00Z",
+      "snippet": "Despite investor fears of an AI bubble, Nvidia's latest conference shows that most in the industry aren't concerned by that possibility."
+    },
     {
       "title": "The gen AI Kool-Aid tastes like eugenics",
       "url": "https://www.theverge.com/entertainment/897923/ghost-in-the-machine-valerie-veatch-interview",
@@ -156,25 +170,11 @@
       "snippet": "Adobe is launching customizable AI image generators that can mimic specific artistic styles and character designs. The Firefly Custom Models are available in public beta starting today, allowing creat"
     },
     {
-      "title": "Amazon brings Alexa+ to the UK",
-      "url": "https://techcrunch.com/2026/03/19/amazon-brings-alexa-to-the-uk/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-03-19T12:27:24Z",
-      "snippet": "The company is currently letting users in the U.K. try out Alexa+ for free via an early access program."
-    },
-    {
       "title": "Fitbit&#8217;s AI health coach will soon be able to read your medical records",
       "url": "https://www.theverge.com/ai-artificial-intelligence/897250/fitbits-ai-health-coach-reads-medical-records",
       "source": "The Verge",
       "publishedAt": "2026-03-19T12:27:23Z",
       "snippet": "Would you share your medical records with a personal trainer? How about a virtual one? Google, which this week announced it is giving Fitbit's AI health coach the ability to read your medical records,"
-    },
-    {
-      "title": "Multiverse Computing pushes its compressed AI models into the mainstream",
-      "url": "https://techcrunch.com/2026/03/19/multiverse-computing-pushes-its-compressed-ai-models-into-the-mainstream/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-03-19T08:00:00Z",
-      "snippet": "After compressing models from major AI labs, including OpenAI, Meta, DeepSeek, and Mistral AI, Multiverse Computing has launched both an app that showcases the capabilities of its compressed models an"
     }
   ],
   "trending": [
