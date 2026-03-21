@@ -8,7 +8,7 @@
     "downloadURL": "https://huggingface.co/bartowski/gemma-2-2b-it-GGUF/resolve/main/gemma-2-2b-it-Q4_K_M.gguf",
     "filename": "gemma-2-2b-it-Q4_K_M.gguf",
     "badge": null,
-    "hfDownloads": 930772
+    "hfDownloads": 955045
   },
   {
     "id": "llama-3.2-3b-q4",
@@ -19,7 +19,7 @@
     "downloadURL": "https://huggingface.co/bartowski/Llama-3.2-3B-Instruct-GGUF/resolve/main/Llama-3.2-3B-Instruct-Q4_K_M.gguf",
     "filename": "Llama-3.2-3B-Instruct-Q4_K_M.gguf",
     "badge": null,
-    "hfDownloads": 420568
+    "hfDownloads": 429432
   },
   {
     "id": "smollm2-1.7b-q4",
@@ -30,18 +30,7 @@
     "downloadURL": "https://huggingface.co/bartowski/SmolLM2-1.7B-Instruct-GGUF/resolve/main/SmolLM2-1.7B-Instruct-Q4_K_M.gguf",
     "filename": "SmolLM2-1.7B-Instruct-Q4_K_M.gguf",
     "badge": null,
-    "hfDownloads": 169042
-  },
-  {
-    "id": "llama-3.2-1b-q4",
-    "name": "Llama 3.2 1B",
-    "description": "1.0B parameter model, Q4 quantized.",
-    "sizeGB": 0.55,
-    "ramRequiredGB": 1.0,
-    "downloadURL": "https://huggingface.co/bartowski/Llama-3.2-1B-Instruct-GGUF/resolve/main/Llama-3.2-1B-Instruct-Q4_K_M.gguf",
-    "filename": "Llama-3.2-1B-Instruct-Q4_K_M.gguf",
-    "badge": null,
-    "hfDownloads": 99529
+    "hfDownloads": 173931
   },
   {
     "id": "qwen_qwen3.5-4b-q4",
@@ -52,7 +41,18 @@
     "downloadURL": "https://huggingface.co/bartowski/Qwen_Qwen3.5-4B-GGUF/resolve/main/Qwen_Qwen3.5-4B-Q4_K_M.gguf",
     "filename": "Qwen_Qwen3.5-4B-Q4_K_M.gguf",
     "badge": null,
-    "hfDownloads": 92030
+    "hfDownloads": 101630
+  },
+  {
+    "id": "llama-3.2-1b-q4",
+    "name": "Llama 3.2 1B",
+    "description": "1.0B parameter model, Q4 quantized.",
+    "sizeGB": 0.55,
+    "ramRequiredGB": 1.0,
+    "downloadURL": "https://huggingface.co/bartowski/Llama-3.2-1B-Instruct-GGUF/resolve/main/Llama-3.2-1B-Instruct-Q4_K_M.gguf",
+    "filename": "Llama-3.2-1B-Instruct-Q4_K_M.gguf",
+    "badge": null,
+    "hfDownloads": 98095
   },
   {
     "id": "qwen_qwen3.5-0.8b-q4",
@@ -63,7 +63,7 @@
     "downloadURL": "https://huggingface.co/bartowski/Qwen_Qwen3.5-0.8B-GGUF/resolve/main/Qwen_Qwen3.5-0.8B-Q4_K_M.gguf",
     "filename": "Qwen_Qwen3.5-0.8B-Q4_K_M.gguf",
     "badge": null,
-    "hfDownloads": 64008
+    "hfDownloads": 73322
   },
   {
     "id": "qwen_qwen3.5-2b-q4",
@@ -74,7 +74,7 @@
     "downloadURL": "https://huggingface.co/bartowski/Qwen_Qwen3.5-2B-GGUF/resolve/main/Qwen_Qwen3.5-2B-Q4_K_M.gguf",
     "filename": "Qwen_Qwen3.5-2B-Q4_K_M.gguf",
     "badge": null,
-    "hfDownloads": 57121
+    "hfDownloads": 65799
   },
   {
     "id": "google_gemma-3-4b-q4",
@@ -85,7 +85,7 @@
     "downloadURL": "https://huggingface.co/bartowski/google_gemma-3-4b-it-GGUF/resolve/main/google_gemma-3-4b-it-Q4_K_M.gguf",
     "filename": "google_gemma-3-4b-it-Q4_K_M.gguf",
     "badge": null,
-    "hfDownloads": 42556
+    "hfDownloads": 42717
   },
   {
     "id": "deepseek-r1-distill-qwen-1.5b-q4",
@@ -96,7 +96,7 @@
     "downloadURL": "https://huggingface.co/bartowski/DeepSeek-R1-Distill-Qwen-1.5B-GGUF/resolve/main/DeepSeek-R1-Distill-Qwen-1.5B-Q4_K_M.gguf",
     "filename": "DeepSeek-R1-Distill-Qwen-1.5B-Q4_K_M.gguf",
     "badge": null,
-    "hfDownloads": 19836
+    "hfDownloads": 19988
   },
   {
     "id": "qwen2.5-1.5b-q4",
@@ -107,7 +107,7 @@
     "downloadURL": "https://huggingface.co/bartowski/Qwen2.5-1.5B-Instruct-GGUF/resolve/main/Qwen2.5-1.5B-Instruct-Q4_K_M.gguf",
     "filename": "Qwen2.5-1.5B-Instruct-Q4_K_M.gguf",
     "badge": null,
-    "hfDownloads": 18151
+    "hfDownloads": 18510
   },
   {
     "id": "qwen2.5-3b-q4",
@@ -118,7 +118,7 @@
     "downloadURL": "https://huggingface.co/bartowski/Qwen2.5-3B-Instruct-GGUF/resolve/main/Qwen2.5-3B-Instruct-Q4_K_M.gguf",
     "filename": "Qwen2.5-3B-Instruct-Q4_K_M.gguf",
     "badge": null,
-    "hfDownloads": 17659
+    "hfDownloads": 17716
   },
   {
     "id": "qwen2-vl-2b-q4",
@@ -129,6 +129,6 @@
     "downloadURL": "https://huggingface.co/bartowski/Qwen2-VL-2B-Instruct-GGUF/resolve/main/Qwen2-VL-2B-Instruct-Q4_K_M.gguf",
     "filename": "Qwen2-VL-2B-Instruct-Q4_K_M.gguf",
     "badge": null,
-    "hfDownloads": 13978
+    "hfDownloads": 13947
   }
 ]
