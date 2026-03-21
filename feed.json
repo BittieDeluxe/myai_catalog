@@ -1,6 +1,13 @@
 {
-  "updated": "2026-03-21T18:30:56Z",
+  "updated": "2026-03-21T20:21:46Z",
   "news": [
+    {
+      "title": "Publisher pulls horror novel \u2018Shy Girl\u2019 over AI concerns",
+      "url": "https://techcrunch.com/2026/03/21/publisher-pulls-horror-novel-shy-girl-over-ai-concerns/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-03-21T19:30:27Z",
+      "snippet": "Hachette Book Group said it will not be publishing \u201cShy Girl\u201d over concerns that artificial intelligence was used to generate the text."
+    },
     {
       "title": "Delve accused of misleading customers with \u2018fake compliance\u2019",
       "url": "https://techcrunch.com/2026/03/21/delve-accused-of-misleading-customers-with-fake-compliance/",
@@ -154,13 +161,6 @@
       "source": "TechCrunch",
       "publishedAt": "2026-03-19T16:14:00Z",
       "snippet": "Delivery couriers will be able to earn money by completing activities like filming everyday tasks or recording themselves speaking in another language."
-    },
-    {
-      "title": "TechCrunch\u00a0Startup Battlefield 200 nominations\u00a0are still\u00a0open",
-      "url": "https://techcrunch.com/2026/03/19/techcrunch-startup-battlefield-200-nominations-are-still-open/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-03-19T15:00:00Z",
-      "snippet": "Nominate your startup, or one you know, for TechCrunch Startup Battlefield 200 before May 27. Chance to win $100,000 equity-free funding and VC access."
     },
     {
       "title": "Adobe\u2019s AI image generator can now be trained on your own art",
