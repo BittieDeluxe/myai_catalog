@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-21T14:23:27Z",
+  "updated": "2026-03-21T16:24:50Z",
   "news": [
     {
       "title": "The gen AI Kool-Aid tastes like eugenics",
@@ -219,14 +219,14 @@
       "downloads": 19216
     },
     {
-      "id": "unsloth/Qwen3.5-9B-GGUF",
-      "displayName": "Qwen3.5 9B",
-      "downloads": 1224061
-    },
-    {
       "id": "HauhauCS/Qwen3.5-27B-Uncensored-HauhauCS-Aggressive",
       "displayName": "Qwen3.5 27B Uncensored HauhauCS Aggressive",
       "downloads": 141257
+    },
+    {
+      "id": "unsloth/Qwen3.5-9B-GGUF",
+      "displayName": "Qwen3.5 9B",
+      "downloads": 1224061
     }
   ]
 }
