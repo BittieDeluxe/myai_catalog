@@ -1,6 +1,13 @@
 {
-  "updated": "2026-03-21T00:18:15Z",
+  "updated": "2026-03-21T01:44:08Z",
   "news": [
+    {
+      "title": "New court filing reveals Pentagon told Anthropic the two sides were nearly aligned \u2014 a week after Trump declared the relationship kaput",
+      "url": "https://techcrunch.com/2026/03/20/new-court-filing-reveals-pentagon-told-anthropic-the-two-sides-were-nearly-aligned-a-week-after-trump-declared-the-relationship-kaput/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-03-21T01:40:28Z",
+      "snippet": "Anthropic submitted two sworn declarations to a California federal court late Friday afternoon, pushing back on the Pentagon's assertion that the AI company poses an \"unacceptable risk to national sec"
+    },
     {
       "title": "Microsoft rolls back some of its Copilot AI bloat on Windows",
       "url": "https://techcrunch.com/2026/03/20/microsoft-rolls-back-some-of-its-copilot-ai-bloat-on-windows/",
@@ -156,13 +163,6 @@
       "snippet": "After compressing models from major AI labs, including OpenAI, Meta, DeepSeek, and Mistral AI, Multiverse Computing has launched both an app that showcases the capabilities of its compressed models an"
     },
     {
-      "title": "Meta is having trouble with rogue AI agents",
-      "url": "https://techcrunch.com/2026/03/18/meta-is-having-trouble-with-rogue-ai-agents/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-03-18T23:42:46Z",
-      "snippet": "A rogue AI agent inadvertently exposed Meta company and user data to engineers who didn't have permission to see it."
-    },
-    {
       "title": "David Sacks\u2019 big Iran warning gets big time ignored",
       "url": "https://www.theverge.com/column/896949/regulator-david-sacks-iran-polymarket",
       "source": "The Verge",
@@ -219,14 +219,14 @@
       "downloads": 121818
     },
     {
+      "id": "Jackrong/Qwen3.5-9B-Claude-4.6-Opus-Reasoning-Distilled-v2-GGUF",
+      "displayName": "Qwen3.5 9B Claude 4.6 Opus Reasoning Distilled v2",
+      "downloads": 11882
+    },
+    {
       "id": "unsloth/Qwen3.5-9B-GGUF",
       "displayName": "Qwen3.5 9B",
       "downloads": 1168140
-    },
-    {
-      "id": "unsloth/LTX-2.3-GGUF",
-      "displayName": "LTX 2.3",
-      "downloads": 152414
     }
   ]
 }
