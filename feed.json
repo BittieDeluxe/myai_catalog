@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-22T01:55:24Z",
+  "updated": "2026-03-22T04:18:28Z",
   "news": [
     {
       "title": "Publisher pulls horror novel \u2018Shy Girl\u2019 over AI concerns",
@@ -204,14 +204,14 @@
       "downloads": 119073
     },
     {
-      "id": "RuneXX/LTX-2.3-Workflows",
-      "displayName": "LTX 2.3 Workflows",
-      "downloads": 0
-    },
-    {
       "id": "Jackrong/Qwen3.5-9B-Claude-4.6-Opus-Reasoning-Distilled-v2-GGUF",
       "displayName": "Qwen3.5 9B Claude 4.6 Opus Reasoning Distilled v2",
       "downloads": 19216
+    },
+    {
+      "id": "RuneXX/LTX-2.3-Workflows",
+      "displayName": "LTX 2.3 Workflows",
+      "downloads": 0
     },
     {
       "id": "unsloth/Qwen3.5-35B-A3B-GGUF",
