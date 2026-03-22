@@ -1,6 +1,20 @@
 {
-  "updated": "2026-03-22T18:31:35Z",
+  "updated": "2026-03-22T20:22:32Z",
   "news": [
+    {
+      "title": "Do you want to build a robot snowman?",
+      "url": "https://techcrunch.com/2026/03/22/do-you-want-to-build-a-robot-snowman/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-03-22T19:45:07Z",
+      "snippet": "On the latest episode of the Equity podcast, we recapped CEO Jensen Huang\u2019s GTC keynote and debated what it means for Nvidia\u2019s future."
+    },
+    {
+      "title": "Cursor admits its new coding model was built on top of Moonshot AI\u2019s Kimi",
+      "url": "https://techcrunch.com/2026/03/22/cursor-admits-its-new-coding-model-was-built-on-top-of-moonshot-ais-kimi/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-03-22T18:41:09Z",
+      "snippet": "Building on top of a Chinese model feels particularly fraught right now."
+    },
     {
       "title": "Crimson Desert dev apologizes for use of AI art",
       "url": "https://www.theverge.com/games/898771/crimson-desert-dev-apologizes-ai-art",
@@ -156,25 +170,11 @@
       "snippet": "Power has become one of the biggest bottlenecks in rolling out new AI data centers. That's creating an opening for investors."
     },
     {
-      "title": "These AI notetaking devices can help you record and transcribe your meetings",
-      "url": "https://techcrunch.com/2026/03/20/ai-notetaker-hardware-devices-pins-pendants-record-transcribe/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-03-20T11:31:38Z",
-      "snippet": "These physical notetakers transcribe audio and give users summaries and action items of meetings using AI. Some even offer live translation."
-    },
-    {
       "title": "OpenAI is planning a desktop \u2018superapp\u2019",
       "url": "https://www.theverge.com/ai-artificial-intelligence/897778/openai-chatgpt-codex-atlas-browser-superapp",
       "source": "The Verge",
       "publishedAt": "2026-03-20T00:09:38Z",
       "snippet": "OpenAI is working on a desktop \"superapp\" that merges its ChatGPT app, the Codex AI coding app, and its AI-powered Atlas browser into one app, The Wall Street Journal reports. The company is making th"
-    },
-    {
-      "title": "Jeff Bezos reportedly wants $100 billion to buy and transform old manufacturing firms with AI",
-      "url": "https://techcrunch.com/2026/03/19/jeff-bezos-reportedly-wants-100-billion-to-buy-and-transform-old-manufacturing-firms-with-ai/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-03-19T22:09:24Z",
-      "snippet": "The Amazon magnate has a new project centered around acquiring industrial firms and revamping them with AI technology."
     }
   ],
   "trending": [
@@ -194,14 +194,14 @@
       "downloads": 436539
     },
     {
-      "id": "Tesslate/OmniCoder-9B-GGUF",
-      "displayName": "OmniCoder 9B",
-      "downloads": 51068
-    },
-    {
       "id": "Jackrong/Qwen3.5-9B-Claude-4.6-Opus-Reasoning-Distilled-v2-GGUF",
       "displayName": "Qwen3.5 9B Claude 4.6 Opus Reasoning Distilled v2",
       "downloads": 24394
+    },
+    {
+      "id": "Tesslate/OmniCoder-9B-GGUF",
+      "displayName": "OmniCoder 9B",
+      "downloads": 51068
     },
     {
       "id": "HauhauCS/Qwen3.5-4B-Uncensored-HauhauCS-Aggressive",
@@ -219,14 +219,14 @@
       "downloads": 160273
     },
     {
-      "id": "unsloth/Qwen3.5-35B-A3B-GGUF",
-      "displayName": "Qwen3.5 35B A3B",
-      "downloads": 2026907
-    },
-    {
       "id": "Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-v2-GGUF",
       "displayName": "Qwen3.5 27B Claude 4.6 Opus Reasoning Distilled v2",
       "downloads": 23250
+    },
+    {
+      "id": "unsloth/Qwen3.5-35B-A3B-GGUF",
+      "displayName": "Qwen3.5 35B A3B",
+      "downloads": 2026907
     }
   ]
 }
