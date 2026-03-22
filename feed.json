@@ -1,6 +1,13 @@
 {
-  "updated": "2026-03-22T04:18:28Z",
+  "updated": "2026-03-22T06:45:33Z",
   "news": [
+    {
+      "title": "Are AI tokens the new signing bonus or just a cost of doing business?",
+      "url": "https://techcrunch.com/2026/03/21/are-ai-tokens-the-new-signing-bonus-or-just-a-cost-of-doing-business/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-03-22T06:20:43Z",
+      "snippet": "Maybe tokens really will become the fourth pillar of engineering compensation. But engineers might want to hold the line before embracing this as a straightforward win."
+    },
     {
       "title": "Publisher pulls horror novel \u2018Shy Girl\u2019 over AI concerns",
       "url": "https://techcrunch.com/2026/03/21/publisher-pulls-horror-novel-shy-girl-over-ai-concerns/",
@@ -156,13 +163,6 @@
       "snippet": "Meta believes these AI systems can detect more violations with greater accuracy, better prevent scams, respond more quickly to real-world events, and reduce over-enforcement."
     },
     {
-      "title": "DoorDash launches a new \u2018Tasks\u2019 app that pays couriers to submit videos to train AI",
-      "url": "https://techcrunch.com/2026/03/19/doordash-launches-a-new-tasks-app-that-pays-couriers-to-submit-videos-to-train-ai/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-03-19T16:14:00Z",
-      "snippet": "Delivery couriers will be able to earn money by completing activities like filming everyday tasks or recording themselves speaking in another language."
-    },
-    {
       "title": "Adobe\u2019s AI image generator can now be trained on your own art",
       "url": "https://www.theverge.com/tech/897243/adobe-firefly-ai-custom-models-image-public-beta",
       "source": "The Verge",
@@ -224,9 +224,9 @@
       "downloads": 141257
     },
     {
-      "id": "nvidia/NVIDIA-Nemotron-3-Nano-4B-GGUF",
-      "displayName": "NVIDIA Nemotron 3 Nano 4B",
-      "downloads": 5055
+      "id": "Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-v2-GGUF",
+      "displayName": "Qwen3.5 27B Claude 4.6 Opus Reasoning Distilled v2",
+      "downloads": 18075
     }
   ]
 }
