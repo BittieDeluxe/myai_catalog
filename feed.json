@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-22T06:45:33Z",
+  "updated": "2026-03-22T08:30:13Z",
   "news": [
     {
       "title": "Are AI tokens the new signing bonus or just a cost of doing business?",
@@ -181,32 +181,32 @@
     {
       "id": "HauhauCS/Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive",
       "displayName": "Qwen3.5 35B A3B Uncensored HauhauCS Aggressive",
-      "downloads": 249720
+      "downloads": 275623
     },
     {
       "id": "HauhauCS/Qwen3.5-9B-Uncensored-HauhauCS-Aggressive",
       "displayName": "Qwen3.5 9B Uncensored HauhauCS Aggressive",
-      "downloads": 335992
+      "downloads": 350452
     },
     {
       "id": "Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
       "displayName": "Qwen3.5 27B Claude 4.6 Opus Reasoning Distilled",
-      "downloads": 413519
+      "downloads": 436539
     },
     {
       "id": "Tesslate/OmniCoder-9B-GGUF",
       "displayName": "OmniCoder 9B",
-      "downloads": 47690
+      "downloads": 51068
     },
     {
       "id": "HauhauCS/Qwen3.5-4B-Uncensored-HauhauCS-Aggressive",
       "displayName": "Qwen3.5 4B Uncensored HauhauCS Aggressive",
-      "downloads": 119073
+      "downloads": 125461
     },
     {
       "id": "Jackrong/Qwen3.5-9B-Claude-4.6-Opus-Reasoning-Distilled-v2-GGUF",
       "displayName": "Qwen3.5 9B Claude 4.6 Opus Reasoning Distilled v2",
-      "downloads": 19216
+      "downloads": 24394
     },
     {
       "id": "RuneXX/LTX-2.3-Workflows",
@@ -216,17 +216,17 @@
     {
       "id": "unsloth/Qwen3.5-35B-A3B-GGUF",
       "displayName": "Qwen3.5 35B A3B",
-      "downloads": 1989824
+      "downloads": 2026907
     },
     {
       "id": "HauhauCS/Qwen3.5-27B-Uncensored-HauhauCS-Aggressive",
       "displayName": "Qwen3.5 27B Uncensored HauhauCS Aggressive",
-      "downloads": 141257
+      "downloads": 160273
     },
     {
       "id": "Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-v2-GGUF",
       "displayName": "Qwen3.5 27B Claude 4.6 Opus Reasoning Distilled v2",
-      "downloads": 18075
+      "downloads": 23250
     }
   ]
 }
