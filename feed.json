@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-21T22:20:17Z",
+  "updated": "2026-03-22T01:55:24Z",
   "news": [
     {
       "title": "Publisher pulls horror novel \u2018Shy Girl\u2019 over AI concerns",
@@ -224,9 +224,9 @@
       "downloads": 141257
     },
     {
-      "id": "unsloth/Qwen3.5-9B-GGUF",
-      "displayName": "Qwen3.5 9B",
-      "downloads": 1224061
+      "id": "nvidia/NVIDIA-Nemotron-3-Nano-4B-GGUF",
+      "displayName": "NVIDIA Nemotron 3 Nano 4B",
+      "downloads": 5055
     }
   ]
 }
