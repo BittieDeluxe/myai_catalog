@@ -1,6 +1,13 @@
 {
-  "updated": "2026-03-22T16:25:41Z",
+  "updated": "2026-03-22T18:31:35Z",
   "news": [
+    {
+      "title": "Crimson Desert dev apologizes for use of AI art",
+      "url": "https://www.theverge.com/games/898771/crimson-desert-dev-apologizes-ai-art",
+      "source": "The Verge",
+      "publishedAt": "2026-03-22T17:34:34Z",
+      "snippet": "Reviews of Crimson Desert have been mixed, but the bigger issue for the game has been the discovery of what appeared to be AI-generated assets in the final release. Now the developer has acknowledged "
+    },
     {
       "title": "Elon Musk unveils chip manufacturing plans for SpaceX and Tesla",
       "url": "https://techcrunch.com/2026/03/22/elon-musk-unveils-chip-manufacturing-plans-for-spacex-and-tesla/",
@@ -168,13 +175,6 @@
       "source": "TechCrunch",
       "publishedAt": "2026-03-19T22:09:24Z",
       "snippet": "The Amazon magnate has a new project centered around acquiring industrial firms and revamping them with AI technology."
-    },
-    {
-      "title": "A rogue AI led to a serious security incident at Meta",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/897528/meta-rogue-ai-agent-security-incident",
-      "source": "The Verge",
-      "publishedAt": "2026-03-19T18:20:05Z",
-      "snippet": "For almost two hours last week, Meta employees had unauthorized access to company and user data thanks to an AI agent that gave an employee inaccurate technical advice, as previously reported by The I"
     }
   ],
   "trending": [
