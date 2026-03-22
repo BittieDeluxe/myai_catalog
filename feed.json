@@ -1,6 +1,20 @@
 {
-  "updated": "2026-03-22T14:24:23Z",
+  "updated": "2026-03-22T16:25:41Z",
   "news": [
+    {
+      "title": "Elon Musk unveils chip manufacturing plans for SpaceX and Tesla",
+      "url": "https://techcrunch.com/2026/03/22/elon-musk-unveils-chip-manufacturing-plans-for-spacex-and-tesla/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-03-22T16:20:00Z",
+      "snippet": "Elon Musk recently outlined ambitious plans for a chip-building collaboration Tesla and SpaceX \u2014 but he has a history of overpromising."
+    },
+    {
+      "title": "Delve accused of misleading customers with \u2018fake compliance\u2019",
+      "url": "https://techcrunch.com/2026/03/22/delve-accused-of-misleading-customers-with-fake-compliance/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-03-22T14:43:51Z",
+      "snippet": "An anonymous Substack post accuses compliance startup Delve of \u201cfalsely\u201d convincing \u201chundreds of customers they were compliant\u201d with privacy and security regulations."
+    },
     {
       "title": "Musk says he\u2019s building Terafab chip plant in Austin, Texas",
       "url": "https://www.theverge.com/ai-artificial-intelligence/898722/musk-terafab-chip-plant",
@@ -35,13 +49,6 @@
       "source": "TechCrunch",
       "publishedAt": "2026-03-21T19:30:27Z",
       "snippet": "Hachette Book Group said it will not be publishing \u201cShy Girl\u201d over concerns that artificial intelligence was used to generate the text."
-    },
-    {
-      "title": "Delve accused of misleading customers with \u2018fake compliance\u2019",
-      "url": "https://techcrunch.com/2026/03/21/delve-accused-of-misleading-customers-with-fake-compliance/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-03-21T17:00:05Z",
-      "snippet": "An anonymous Substack post accuses compliance startup Delve of \u201cfalsely\u201d convincing \u201chundreds of customers they were compliant\u201d with privacy and security regulations."
     },
     {
       "title": "Why Wall Street wasn\u2019t won over by Nvidia\u2019s big conference",
@@ -163,13 +170,6 @@
       "snippet": "The Amazon magnate has a new project centered around acquiring industrial firms and revamping them with AI technology."
     },
     {
-      "title": "Online bot traffic will exceed human traffic by 2027, Cloudflare CEO says",
-      "url": "https://techcrunch.com/2026/03/19/online-bot-traffic-will-exceed-human-traffic-by-2027-cloudflare-ceo-says/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-03-19T19:09:02Z",
-      "snippet": "AI bots may outnumber humans online by 2027, says Cloudflare CEO Matthew Prince, as generative AI agents dramatically increase web traffic and infrastructure demands."
-    },
-    {
       "title": "A rogue AI led to a serious security incident at Meta",
       "url": "https://www.theverge.com/ai-artificial-intelligence/897528/meta-rogue-ai-agent-security-incident",
       "source": "The Verge",
@@ -214,14 +214,14 @@
       "downloads": 0
     },
     {
-      "id": "unsloth/Qwen3.5-35B-A3B-GGUF",
-      "displayName": "Qwen3.5 35B A3B",
-      "downloads": 2026907
-    },
-    {
       "id": "HauhauCS/Qwen3.5-27B-Uncensored-HauhauCS-Aggressive",
       "displayName": "Qwen3.5 27B Uncensored HauhauCS Aggressive",
       "downloads": 160273
+    },
+    {
+      "id": "unsloth/Qwen3.5-35B-A3B-GGUF",
+      "displayName": "Qwen3.5 35B A3B",
+      "downloads": 2026907
     },
     {
       "id": "Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-v2-GGUF",
