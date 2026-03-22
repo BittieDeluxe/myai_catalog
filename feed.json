@@ -1,6 +1,13 @@
 {
-  "updated": "2026-03-22T12:42:27Z",
+  "updated": "2026-03-22T14:24:23Z",
   "news": [
+    {
+      "title": "Musk says he\u2019s building Terafab chip plant in Austin, Texas",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/898722/musk-terafab-chip-plant",
+      "source": "The Verge",
+      "publishedAt": "2026-03-22T14:06:48Z",
+      "snippet": "Elon Musk announced plans to build a Terafab plant in Austin, Texas, that will be jointly run by Tesla and SpaceX. The goal is to eventually build chips at scale for robotics, artificial intelligence,"
+    },
     {
       "title": "AI was everywhere at gaming\u2019s big developer conference \u2014 except the games",
       "url": "https://www.theverge.com/games/897982/gdc-2026-ai-game-developer-conference",
@@ -168,13 +175,6 @@
       "source": "The Verge",
       "publishedAt": "2026-03-19T18:20:05Z",
       "snippet": "For almost two hours last week, Meta employees had unauthorized access to company and user data thanks to an AI agent that gave an employee inaccurate technical advice, as previously reported by The I"
-    },
-    {
-      "title": "Adobe\u2019s AI image generator can now be trained on your own art",
-      "url": "https://www.theverge.com/tech/897243/adobe-firefly-ai-custom-models-image-public-beta",
-      "source": "The Verge",
-      "publishedAt": "2026-03-19T13:00:00Z",
-      "snippet": "Adobe is launching customizable AI image generators that can mimic specific artistic styles and character designs. The Firefly Custom Models are available in public beta starting today, allowing creat"
     }
   ],
   "trending": [
