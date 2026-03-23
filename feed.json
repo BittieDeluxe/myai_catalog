@@ -1,6 +1,13 @@
 {
-  "updated": "2026-03-22T22:21:39Z",
+  "updated": "2026-03-23T01:56:31Z",
   "news": [
+    {
+      "title": "AI influencer awards season is upon us",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/898781/ai-personality-of-the-year-influencer-contest",
+      "source": "The Verge",
+      "publishedAt": "2026-03-23T00:01:00Z",
+      "snippet": "First came the AI beauty pageant. Then the AI music contests. Now, there is an award for AI Personality of the Year - perhaps the inevitable next step for the AI influencer economy as it transforms fr"
+    },
     {
       "title": "Do you want to build a robot snowman?",
       "url": "https://techcrunch.com/2026/03/22/do-you-want-to-build-a-robot-snowman/",
@@ -168,13 +175,6 @@
       "source": "TechCrunch",
       "publishedAt": "2026-03-20T12:00:00Z",
       "snippet": "Power has become one of the biggest bottlenecks in rolling out new AI data centers. That's creating an opening for investors."
-    },
-    {
-      "title": "OpenAI is planning a desktop \u2018superapp\u2019",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/897778/openai-chatgpt-codex-atlas-browser-superapp",
-      "source": "The Verge",
-      "publishedAt": "2026-03-20T00:09:38Z",
-      "snippet": "OpenAI is working on a desktop \"superapp\" that merges its ChatGPT app, the Codex AI coding app, and its AI-powered Atlas browser into one app, The Wall Street Journal reports. The company is making th"
     }
   ],
   "trending": [
