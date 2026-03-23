@@ -1,12 +1,19 @@
 {
-  "updated": "2026-03-23T16:54:14Z",
+  "updated": "2026-03-23T18:48:57Z",
   "news": [
     {
-      "title": "Littlebird raises $11M for its AI-assisted \u2018recall\u2019 tool that reads your computer screen",
-      "url": "https://techcrunch.com/2026/03/23/littlebird-raises-11m-to-capture-context-from-your-computer-so-you-can-query-your-data/",
+      "title": "Vibe-coding startup Lovable is on the hunt for acquisitions",
+      "url": "https://techcrunch.com/2026/03/23/vibe-coding-startup-lovable-is-on-the-hunt-for-acquisitions/",
       "source": "TechCrunch",
-      "publishedAt": "2026-03-23T16:00:00Z",
-      "snippet": "Littlebird is building an AI that reads your screen in real time to capture context, answer questions, and automate tasks, without relying on screenshots."
+      "publishedAt": "2026-03-23T18:22:04Z",
+      "snippet": "Lovable's founder said the fast-growing vibe coding startup is looking for startups and teams to join its company."
+    },
+    {
+      "title": "Apple sets June date for WWDC 2026, teasing \u201cAI advancements\u201d",
+      "url": "https://techcrunch.com/2026/03/23/apple-wwdc-june-8-12-ai-advancements-siri-developers-conference/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-03-23T18:00:45Z",
+      "snippet": "Apple will host its next Worldwide Developers Conference the week of June 8. The company is expected to announce major updates to Siri with advanced AI capabilities."
     },
     {
       "title": "Startup Gimlet Labs is solving the AI inference bottleneck in a surprisingly elegant way",
@@ -16,18 +23,25 @@
       "snippet": "Gimlet Labs just raised an $80 million Series A for tech that lets AI run across NVIDIA, AMD, Intel, ARM, Cerebras and d-Matrix chips, simultaneously."
     },
     {
+      "title": "Littlebird raises $11M for its AI-assisted \u2018recall\u2019 tool that reads your computer screen",
+      "url": "https://techcrunch.com/2026/03/23/littlebird-raises-11m-to-capture-context-from-your-computer-so-you-can-query-your-data/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-03-23T16:00:00Z",
+      "snippet": "Littlebird is building an AI that reads your screen in real time to capture context, answer questions, and automate tasks, without relying on screenshots."
+    },
+    {
       "title": "Elizabeth Warren calls Pentagon\u2019s decision to bar Anthropic \u2018retaliation\u2019",
       "url": "https://techcrunch.com/2026/03/23/elizabeth-warren-anthropic-pentagon-defense-supply-chain-risk-retaliation/",
       "source": "TechCrunch",
       "publishedAt": "2026-03-23T15:22:57Z",
-      "snippet": "In a letter to Defense Secretary Pete Hegseth, Senator Elizabeth Warren (D-MA) equated the DoD's decision to label Anthropic a \"supply chain risk\" as retaliation, arguing that the Pentagon could simpl"
+      "snippet": "In a letter to Defense Secretary Pete Hegseth, Senator Elizabeth Warren (D-MA) equated the DOD's decision to label Anthropic a \"supply-chain risk\" as retaliation, arguing that the Pentagon could simpl"
     },
     {
-      "title": "Sam Altman-backed fusion startup Helion in talks with OpenAI",
-      "url": "https://techcrunch.com/2026/03/23/sam-altman-backed-fusion-startup-helion-in-talks-with-openai/",
+      "title": "Sam Altman-backed fusion startup Helion in talks to sell power to OpenAI",
+      "url": "https://techcrunch.com/2026/03/23/sam-altman-openai-fusion-energy-board-helion/",
       "source": "TechCrunch",
       "publishedAt": "2026-03-23T15:03:36Z",
-      "snippet": "Helion is reportedly negotiating a deal that would see it sell 12.5% of its power output to OpenAI."
+      "snippet": "OpenAI CEO Sam Altman is stepping down as board chair of Helion. His departure comes as reports that the two companies are negotiating a deal that would see Helion sell 12.5% of its power output to Op"
     },
     {
       "title": "Confronting the CEO of the AI company that impersonated me",
@@ -140,20 +154,6 @@
       "source": "TechCrunch",
       "publishedAt": "2026-03-21T01:40:28Z",
       "snippet": "Anthropic submitted two sworn declarations to a California federal court late Friday afternoon, pushing back on the Pentagon's assertion that the AI company poses an \"unacceptable risk to national sec"
-    },
-    {
-      "title": "Microsoft rolls back some of its Copilot AI bloat on Windows",
-      "url": "https://techcrunch.com/2026/03/20/microsoft-rolls-back-some-of-its-copilot-ai-bloat-on-windows/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-03-20T20:53:09Z",
-      "snippet": "The company is reducing Copilot entry points on Windows, starting with Photos, Widgets, Notepad, and other apps."
-    },
-    {
-      "title": "What happened at Nvidia GTC:\u00a0NemoClaw, Robot Olaf, and a\u00a0$1 trillion\u00a0bet",
-      "url": "https://techcrunch.com/video/what-happened-at-nvidia-gtc-nemoclaw-robot-olaf-and-a-1-trillion-bet/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-03-20T20:02:35Z",
-      "snippet": "CEO&#160;Jensen Huang took the stage at&#160;Nvidia&#8217;s GTC conference&#160;this week in his signature leather jacket to deliver a two-and-a-half-hour keynote, projecting&#160;$1 trillion&#160;in "
     },
     {
       "title": "Trump takes another shot at dismantling state AI regulation",
