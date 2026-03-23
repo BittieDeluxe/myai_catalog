@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-23T07:05:04Z",
+  "updated": "2026-03-23T08:50:54Z",
   "news": [
     {
       "title": "AI influencer awards season is upon us",
@@ -181,32 +181,32 @@
     {
       "id": "HauhauCS/Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive",
       "displayName": "Qwen3.5 35B A3B Uncensored HauhauCS Aggressive",
-      "downloads": 275623
+      "downloads": 299865
     },
     {
       "id": "HauhauCS/Qwen3.5-9B-Uncensored-HauhauCS-Aggressive",
       "displayName": "Qwen3.5 9B Uncensored HauhauCS Aggressive",
-      "downloads": 350452
+      "downloads": 366607
     },
     {
       "id": "Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
       "displayName": "Qwen3.5 27B Claude 4.6 Opus Reasoning Distilled",
-      "downloads": 436539
+      "downloads": 447707
     },
     {
       "id": "Jackrong/Qwen3.5-9B-Claude-4.6-Opus-Reasoning-Distilled-v2-GGUF",
       "displayName": "Qwen3.5 9B Claude 4.6 Opus Reasoning Distilled v2",
-      "downloads": 24394
+      "downloads": 29690
     },
     {
       "id": "Tesslate/OmniCoder-9B-GGUF",
       "displayName": "OmniCoder 9B",
-      "downloads": 51068
+      "downloads": 53172
     },
     {
       "id": "HauhauCS/Qwen3.5-4B-Uncensored-HauhauCS-Aggressive",
       "displayName": "Qwen3.5 4B Uncensored HauhauCS Aggressive",
-      "downloads": 125461
+      "downloads": 132694
     },
     {
       "id": "RuneXX/LTX-2.3-Workflows",
@@ -216,17 +216,17 @@
     {
       "id": "HauhauCS/Qwen3.5-27B-Uncensored-HauhauCS-Aggressive",
       "displayName": "Qwen3.5 27B Uncensored HauhauCS Aggressive",
-      "downloads": 160273
+      "downloads": 169122
     },
     {
       "id": "Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-v2-GGUF",
       "displayName": "Qwen3.5 27B Claude 4.6 Opus Reasoning Distilled v2",
-      "downloads": 23250
+      "downloads": 29103
     },
     {
       "id": "nvidia/NVIDIA-Nemotron-3-Nano-4B-GGUF",
       "displayName": "NVIDIA Nemotron 3 Nano 4B",
-      "downloads": 6259
+      "downloads": 7341
     }
   ]
 }
