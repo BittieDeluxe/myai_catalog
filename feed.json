@@ -1,15 +1,36 @@
 {
-  "updated": "2026-03-23T18:48:57Z",
+  "updated": "2026-03-23T20:34:33Z",
   "news": [
+    {
+      "title": "Bernie Sanders\u2019 AI \u2018gotcha\u2019 video flops, but the memes are great",
+      "url": "https://techcrunch.com/2026/03/23/bernie-sanders-ai-gotcha-video-flops-but-the-memes-are-great/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-03-23T20:15:59Z",
+      "snippet": "Sen. Bernie Sanders thinks he's tricked Claude into revealing the AI industry's secrets, but he really just exposed how agreeable chatbots can become."
+    },
+    {
+      "title": "Google\u2019s new Pixel 10 ads made me go \u2018wait, WHAT are they trying to sell?\u2019",
+      "url": "https://www.theverge.com/tech/898992/google-pixel-10-ads-moving-on-stalker-lying-beach-view-100-zoom",
+      "source": "The Verge",
+      "publishedAt": "2026-03-23T19:49:11Z",
+      "snippet": "Ever watch a TV ad and wonder \"How did this get approved?\" Today, Google has not one but two new ad spots for its six-month-old Pixel 10 phones, and\u2026 let's just say they may not come across as intende"
+    },
+    {
+      "title": "Nvidia CEO Jensen Huang says &#8216;I think we&#8217;ve achieved AGI&#8217;",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/899086/jensen-huang-nvidia-agi",
+      "source": "The Verge",
+      "publishedAt": "2026-03-23T19:42:33Z",
+      "snippet": "On a Monday episode of the Lex Fridman podcast, Nvidia CEO Jensen Huang made a hot-button statement: \"I think we've achieved AGI.\" AGI, or artificial general intelligence, is a vaguely defined term th"
+    },
     {
       "title": "Vibe-coding startup Lovable is on the hunt for acquisitions",
       "url": "https://techcrunch.com/2026/03/23/vibe-coding-startup-lovable-is-on-the-hunt-for-acquisitions/",
       "source": "TechCrunch",
       "publishedAt": "2026-03-23T18:22:04Z",
-      "snippet": "Lovable's founder said the fast-growing vibe coding startup is looking for startups and teams to join its company."
+      "snippet": "Lovable's founder said the fast-growing vibe-coding startup is looking for startups and teams to join its company."
     },
     {
-      "title": "Apple sets June date for WWDC 2026, teasing \u201cAI advancements\u201d",
+      "title": "Apple sets June date for WWDC 2026, teasing \u2018AI advancements\u2019",
       "url": "https://techcrunch.com/2026/03/23/apple-wwdc-june-8-12-ai-advancements-siri-developers-conference/",
       "source": "TechCrunch",
       "publishedAt": "2026-03-23T18:00:45Z",
@@ -149,32 +170,11 @@
       "snippet": "I've been testing out Gemini's new task automation on the Pixel 10 Pro and the Galaxy S26 Ultra, which for the first time lets Gemini take the wheel and use apps for you. It's limited to a small subse"
     },
     {
-      "title": "New court filing reveals Pentagon told Anthropic the two sides were nearly aligned \u2014 a week after Trump declared the relationship kaput",
-      "url": "https://techcrunch.com/2026/03/20/new-court-filing-reveals-pentagon-told-anthropic-the-two-sides-were-nearly-aligned-a-week-after-trump-declared-the-relationship-kaput/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-03-21T01:40:28Z",
-      "snippet": "Anthropic submitted two sworn declarations to a California federal court late Friday afternoon, pushing back on the Pentagon's assertion that the AI company poses an \"unacceptable risk to national sec"
-    },
-    {
       "title": "Trump takes another shot at dismantling state AI regulation",
       "url": "https://www.theverge.com/ai-artificial-intelligence/898055/trump-new-ai-policy-framework",
       "source": "The Verge",
       "publishedAt": "2026-03-20T18:17:02Z",
       "snippet": "The Trump administration on Friday unveiled its new legislative blueprint for AI regulation, and the seven-point plan includes a clear message: The federal government should avoid many AI regulations "
-    },
-    {
-      "title": "Google Search is now using AI to replace headlines",
-      "url": "https://www.theverge.com/tech/896490/google-replace-news-headlines-in-search-canary-coal-mine-experiment",
-      "source": "The Verge",
-      "publishedAt": "2026-03-20T14:30:00Z",
-      "snippet": "Since roughly the turn of the millennium, Google Search has been the bedrock of the web. People loved Google's trustworthy \"10 blue links\" search experience and its unspoken promise: The website you c"
-    },
-    {
-      "title": "Amazon is making an Alexa phone",
-      "url": "https://www.theverge.com/tech/897915/amazon-transformer-alexa-phone",
-      "source": "The Verge",
-      "publishedAt": "2026-03-20T13:42:51Z",
-      "snippet": "Over 10 years after shelving the Fire Phone, Amazon is reportedly planning to launch another smartphone, this time focused on Alexa. According to Reuters, the phone, which is code-named \"Transformer,\""
     }
   ],
   "trending": [
