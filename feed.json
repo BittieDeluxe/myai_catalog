@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-23T01:56:31Z",
+  "updated": "2026-03-23T04:28:55Z",
   "news": [
     {
       "title": "AI influencer awards season is upon us",
@@ -224,9 +224,9 @@
       "downloads": 23250
     },
     {
-      "id": "unsloth/Qwen3.5-35B-A3B-GGUF",
-      "displayName": "Qwen3.5 35B A3B",
-      "downloads": 2026907
+      "id": "nvidia/NVIDIA-Nemotron-3-Nano-4B-GGUF",
+      "displayName": "NVIDIA Nemotron 3 Nano 4B",
+      "downloads": 6259
     }
   ]
 }
