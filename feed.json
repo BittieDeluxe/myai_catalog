@@ -1,6 +1,34 @@
 {
-  "updated": "2026-03-23T14:51:54Z",
+  "updated": "2026-03-23T16:54:14Z",
   "news": [
+    {
+      "title": "Littlebird raises $11M for its AI-assisted \u2018recall\u2019 tool that reads your computer screen",
+      "url": "https://techcrunch.com/2026/03/23/littlebird-raises-11m-to-capture-context-from-your-computer-so-you-can-query-your-data/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-03-23T16:00:00Z",
+      "snippet": "Littlebird is building an AI that reads your screen in real time to capture context, answer questions, and automate tasks, without relying on screenshots."
+    },
+    {
+      "title": "Startup Gimlet Labs is solving the AI inference bottleneck in a surprisingly elegant way",
+      "url": "https://techcrunch.com/2026/03/23/startup-gimlet-labs-is-solving-the-ai-inference-bottleneck-in-a-surprisingly-elegant-way/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-03-23T16:00:00Z",
+      "snippet": "Gimlet Labs just raised an $80 million Series A for tech that lets AI run across NVIDIA, AMD, Intel, ARM, Cerebras and d-Matrix chips, simultaneously."
+    },
+    {
+      "title": "Elizabeth Warren calls Pentagon\u2019s decision to bar Anthropic \u2018retaliation\u2019",
+      "url": "https://techcrunch.com/2026/03/23/elizabeth-warren-anthropic-pentagon-defense-supply-chain-risk-retaliation/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-03-23T15:22:57Z",
+      "snippet": "In a letter to Defense Secretary Pete Hegseth, Senator Elizabeth Warren (D-MA) equated the DoD's decision to label Anthropic a \"supply chain risk\" as retaliation, arguing that the Pentagon could simpl"
+    },
+    {
+      "title": "Sam Altman-backed fusion startup Helion in talks with OpenAI",
+      "url": "https://techcrunch.com/2026/03/23/sam-altman-backed-fusion-startup-helion-in-talks-with-openai/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-03-23T15:03:36Z",
+      "snippet": "Helion is reportedly negotiating a deal that would see it sell 12.5% of its power output to OpenAI."
+    },
     {
       "title": "Confronting the CEO of the AI company that impersonated me",
       "url": "https://www.theverge.com/podcast/898715/superhuman-grammarly-expert-review-shishir-mehrotra-interview-ai-impersonation",
@@ -128,32 +156,11 @@
       "snippet": "CEO&#160;Jensen Huang took the stage at&#160;Nvidia&#8217;s GTC conference&#160;this week in his signature leather jacket to deliver a two-and-a-half-hour keynote, projecting&#160;$1 trillion&#160;in "
     },
     {
-      "title": "Nvidia has an\u00a0OpenClaw\u00a0strategy. Do you?",
-      "url": "https://techcrunch.com/podcast/nvidia-has-an-openclaw-strategy-do-you/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-03-20T19:48:38Z",
-      "snippet": "CEO&#160;Jensen Huang took the stage at&#160;Nvidia&#8217;s GTC conference&#160;this week in his signature leather jacket to deliver a two-and-a-half-hour keynote, projecting&#160;$1 trillion&#160;in "
-    },
-    {
       "title": "Trump takes another shot at dismantling state AI regulation",
       "url": "https://www.theverge.com/ai-artificial-intelligence/898055/trump-new-ai-policy-framework",
       "source": "The Verge",
       "publishedAt": "2026-03-20T18:17:02Z",
       "snippet": "The Trump administration on Friday unveiled its new legislative blueprint for AI regulation, and the seven-point plan includes a clear message: The federal government should avoid many AI regulations "
-    },
-    {
-      "title": "WordPress.com now lets AI agents write and publish posts, and more",
-      "url": "https://techcrunch.com/2026/03/20/wordpress-com-now-lets-ai-agents-write-and-publish-posts-and-more/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-03-20T16:43:09Z",
-      "snippet": "New AI agents on WordPress.com could lower barriers to publishing while increasing machine-generated content across the web."
-    },
-    {
-      "title": "Trump\u2019s AI framework targets state laws, shifts child safety burden to parents",
-      "url": "https://techcrunch.com/2026/03/20/trumps-ai-framework-targets-state-laws-shifts-child-safety-burden-to-parents/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-03-20T16:14:04Z",
-      "snippet": "Trump\u2019s AI framework pushes federal preemption of state laws, emphasizes innovation, and shifts responsibility for child safety toward parents while laying out lighter-touch rules for tech companies."
     },
     {
       "title": "Google Search is now using AI to replace headlines",
@@ -168,13 +175,6 @@
       "source": "The Verge",
       "publishedAt": "2026-03-20T13:42:51Z",
       "snippet": "Over 10 years after shelving the Fire Phone, Amazon is reportedly planning to launch another smartphone, this time focused on Alexa. According to Reuters, the phone, which is code-named \"Transformer,\""
-    },
-    {
-      "title": "The best AI investment might be in energy tech",
-      "url": "https://techcrunch.com/2026/03/20/the-best-ai-investment-might-be-in-energy-tech/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-03-20T12:00:00Z",
-      "snippet": "Power has become one of the biggest bottlenecks in rolling out new AI data centers. That's creating an opening for investors."
     }
   ],
   "trending": [
@@ -209,14 +209,14 @@
       "downloads": 29103
     },
     {
-      "id": "HauhauCS/Qwen3.5-4B-Uncensored-HauhauCS-Aggressive",
-      "displayName": "Qwen3.5 4B Uncensored HauhauCS Aggressive",
-      "downloads": 132694
-    },
-    {
       "id": "RuneXX/LTX-2.3-Workflows",
       "displayName": "LTX 2.3 Workflows",
       "downloads": 0
+    },
+    {
+      "id": "HauhauCS/Qwen3.5-4B-Uncensored-HauhauCS-Aggressive",
+      "displayName": "Qwen3.5 4B Uncensored HauhauCS Aggressive",
+      "downloads": 132694
     },
     {
       "id": "HauhauCS/Qwen3.5-27B-Uncensored-HauhauCS-Aggressive",
