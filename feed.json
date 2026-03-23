@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-23T08:50:54Z",
+  "updated": "2026-03-23T10:50:28Z",
   "news": [
     {
       "title": "AI influencer awards season is upon us",
@@ -189,14 +189,14 @@
       "downloads": 366607
     },
     {
-      "id": "Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
-      "displayName": "Qwen3.5 27B Claude 4.6 Opus Reasoning Distilled",
-      "downloads": 447707
-    },
-    {
       "id": "Jackrong/Qwen3.5-9B-Claude-4.6-Opus-Reasoning-Distilled-v2-GGUF",
       "displayName": "Qwen3.5 9B Claude 4.6 Opus Reasoning Distilled v2",
       "downloads": 29690
+    },
+    {
+      "id": "Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
+      "displayName": "Qwen3.5 27B Claude 4.6 Opus Reasoning Distilled",
+      "downloads": 447707
     },
     {
       "id": "Tesslate/OmniCoder-9B-GGUF",
@@ -214,14 +214,14 @@
       "downloads": 0
     },
     {
-      "id": "HauhauCS/Qwen3.5-27B-Uncensored-HauhauCS-Aggressive",
-      "displayName": "Qwen3.5 27B Uncensored HauhauCS Aggressive",
-      "downloads": 169122
-    },
-    {
       "id": "Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-v2-GGUF",
       "displayName": "Qwen3.5 27B Claude 4.6 Opus Reasoning Distilled v2",
       "downloads": 29103
+    },
+    {
+      "id": "HauhauCS/Qwen3.5-27B-Uncensored-HauhauCS-Aggressive",
+      "displayName": "Qwen3.5 27B Uncensored HauhauCS Aggressive",
+      "downloads": 169122
     },
     {
       "id": "nvidia/NVIDIA-Nemotron-3-Nano-4B-GGUF",
