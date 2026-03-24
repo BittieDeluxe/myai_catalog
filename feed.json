@@ -1,6 +1,20 @@
 {
-  "updated": "2026-03-24T10:48:43Z",
+  "updated": "2026-03-24T13:03:24Z",
   "news": [
+    {
+      "title": "Mirage raises $75M to continue building models for its AI video editing app Captions",
+      "url": "https://techcrunch.com/2026/03/24/mirage-raises-75m-to-continue-building-models-for-its-ai-video-editing-app-captions/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-03-24T13:00:00Z",
+      "snippet": "Mirage, the maker of video editing app Captions, has raised $75 million in growth financing from General Catalyst's Customer Value Fund (CVF)."
+    },
+    {
+      "title": "Agile Robots\u00a0becomes the latest robotics company to partner with Google DeepMind",
+      "url": "https://techcrunch.com/2026/03/24/agile-robots-becomes-the-latest-robotics-company-to-partner-with-google-deepmind/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-03-24T12:05:00Z",
+      "snippet": "Agile Robots will incorporate Google DeepMind's robotics foundation models into its bots while collecting data for the AI research lab."
+    },
     {
       "title": "Air Street becomes one of the largest solo VCs in Europe with $232M fund",
       "url": "https://techcrunch.com/2026/03/23/air-street-becomes-one-of-the-largest-solo-vcs-in-europe-with-232m-fund/",
@@ -142,20 +156,6 @@
       "snippet": "Shortly after Amazon  announced its $50 billion investment in OpenAI, AWS invited me on a private tour of the chip lab at the heart of the deal."
     },
     {
-      "title": "Are AI tokens the new signing bonus or just a cost of doing business?",
-      "url": "https://techcrunch.com/2026/03/21/are-ai-tokens-the-new-signing-bonus-or-just-a-cost-of-doing-business/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-03-22T06:20:43Z",
-      "snippet": "Maybe tokens really will become the fourth pillar of engineering compensation. But engineers might want to hold the line before embracing this as a straightforward win."
-    },
-    {
-      "title": "Publisher pulls horror novel \u2018Shy Girl\u2019 over AI concerns",
-      "url": "https://techcrunch.com/2026/03/21/publisher-pulls-horror-novel-shy-girl-over-ai-concerns/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-03-21T19:30:27Z",
-      "snippet": "Hachette Book Group said it will not be publishing \u201cShy Girl\u201d over concerns that artificial intelligence was used to generate the text."
-    },
-    {
       "title": "The gen AI Kool-Aid tastes like eugenics",
       "url": "https://www.theverge.com/entertainment/897923/ghost-in-the-machine-valerie-veatch-interview",
       "source": "The Verge",
@@ -214,19 +214,19 @@
       "downloads": 0
     },
     {
-      "id": "HauhauCS/Qwen3.5-4B-Uncensored-HauhauCS-Aggressive",
-      "displayName": "Qwen3.5 4B Uncensored HauhauCS Aggressive",
-      "downloads": 138329
+      "id": "Jackrong/Qwen3.5-4B-Claude-4.6-Opus-Reasoning-Distilled-v2-GGUF",
+      "displayName": "Qwen3.5 4B Claude 4.6 Opus Reasoning Distilled v2",
+      "downloads": 19908
+    },
+    {
+      "id": "HauhauCS/Qwen3.5-27B-Uncensored-HauhauCS-Aggressive",
+      "displayName": "Qwen3.5 27B Uncensored HauhauCS Aggressive",
+      "downloads": 175101
     },
     {
       "id": "nvidia/NVIDIA-Nemotron-3-Nano-4B-GGUF",
       "displayName": "NVIDIA Nemotron 3 Nano 4B",
       "downloads": 8769
-    },
-    {
-      "id": "Jackrong/Qwen3.5-4B-Claude-4.6-Opus-Reasoning-Distilled-v2-GGUF",
-      "displayName": "Qwen3.5 4B Claude 4.6 Opus Reasoning Distilled v2",
-      "downloads": 19908
     }
   ]
 }
