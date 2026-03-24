@@ -1,6 +1,48 @@
 {
-  "updated": "2026-03-24T20:37:25Z",
+  "updated": "2026-03-24T22:26:10Z",
   "news": [
+    {
+      "title": "Kentucky woman rejects $26 million offer to turn her farm into a data center",
+      "url": "https://techcrunch.com/2026/03/24/kentucky-woman-rejects-26-million-offer-to-turn-her-farm-into-a-data-center/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-03-24T22:22:57Z",
+      "snippet": "A \"major artificial intelligence company\" reportedly offered a Kentucky women $26 million to build a data center on their farm."
+    },
+    {
+      "title": "OpenAI just gave up on Sora and its billion-dollar Disney deal",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/899850/openai-sora-ai-chatgpt",
+      "source": "The Verge",
+      "publishedAt": "2026-03-24T21:08:10Z",
+      "snippet": "On Tuesday afternoon, OpenAI announced \"We're saying goodbye to Sora,\" the video generation tool that it launched at the end of 2024, and centered in a massive licensing deal with Disney only a few mo"
+    },
+    {
+      "title": "Anthropic hands Claude Code more control, but keeps it on a leash",
+      "url": "https://techcrunch.com/2026/03/24/anthropic-hands-claude-code-more-control-but-keeps-it-on-a-leash/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-03-24T21:00:30Z",
+      "snippet": "Anthropic\u2019s new auto mode for Claude Code lets AI execute tasks with fewer approvals, reflecting a broader shift toward more autonomous tools that balance speed with safety through built-in safeguards"
+    },
+    {
+      "title": "Spotify tests new tool to stop AI slop from being attributed to real artists",
+      "url": "https://techcrunch.com/2026/03/24/spotify-tests-new-tool-to-stop-ai-slop-from-being-attributed-to-real-artists/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-03-24T20:56:25Z",
+      "snippet": "The idea behind the new tool is to give artists more control over which tracks are associated with their name on Spotify."
+    },
+    {
+      "title": "Arm\u2019s first CPU ever will plug into Meta\u2019s AI datacenters later this year",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/899823/arm-agi-cpu-meta",
+      "source": "The Verge",
+      "publishedAt": "2026-03-24T20:43:14Z",
+      "snippet": "After decades of only licensing its chip designs for others to use, UK-based Arm revealed the first chip it's producing on its own, and the first customer. Dubbed the Arm AGI CPU, it's another chip de"
+    },
+    {
+      "title": "Databricks bought two startups to underpin its new AI security product",
+      "url": "https://techcrunch.com/2026/03/24/databricks-buys-two-startups-lakewatch-antimatter-siftd-ai-security/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-03-24T20:40:56Z",
+      "snippet": "With an overflowing war chest from its recent $5 billion raise, Databricks is buying startups and looking for more. It acquired Antimatter and SiftD.ai."
+    },
     {
       "title": "Arm is releasing the\u00a0first in-house chip in its 35-year history",
       "url": "https://techcrunch.com/2026/03/24/arm-is-releasing-its-first-in-house-chip-in-its-35-year-history/",
@@ -107,34 +149,6 @@
       "snippet": "On a Monday episode of the Lex Fridman podcast, Nvidia CEO Jensen Huang made a hot-button statement: \"I think we've achieved AGI.\" AGI, or artificial general intelligence, is a vaguely defined term th"
     },
     {
-      "title": "Vibe-coding startup Lovable is on the hunt for acquisitions",
-      "url": "https://techcrunch.com/2026/03/23/vibe-coding-startup-lovable-is-on-the-hunt-for-acquisitions/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-03-23T18:22:04Z",
-      "snippet": "Lovable's founder said the fast-growing vibe-coding startup is looking for startups and teams to join its company."
-    },
-    {
-      "title": "Apple sets June date for WWDC 2026, teasing \u2018AI advancements\u2019",
-      "url": "https://techcrunch.com/2026/03/23/apple-wwdc-june-8-12-ai-advancements-siri-developers-conference/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-03-23T18:00:45Z",
-      "snippet": "Apple will host its next Worldwide Developers Conference the week of June 8. The company is expected to announce major updates to Siri with advanced AI capabilities."
-    },
-    {
-      "title": "Startup Gimlet Labs is solving the AI inference bottleneck in a surprisingly elegant way",
-      "url": "https://techcrunch.com/2026/03/23/startup-gimlet-labs-is-solving-the-ai-inference-bottleneck-in-a-surprisingly-elegant-way/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-03-23T16:00:00Z",
-      "snippet": "Gimlet Labs just raised an $80 million Series A for tech that lets AI run across NVIDIA, AMD, Intel, ARM, Cerebras and d-Matrix chips, simultaneously."
-    },
-    {
-      "title": "Littlebird raises $11M for its AI-assisted \u2018recall\u2019 tool that reads your computer screen",
-      "url": "https://techcrunch.com/2026/03/23/littlebird-raises-11m-to-capture-context-from-your-computer-so-you-can-query-your-data/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-03-23T16:00:00Z",
-      "snippet": "Littlebird is building an AI that reads your screen in real time to capture context, answer questions, and automate tasks, without relying on screenshots."
-    },
-    {
       "title": "Confronting the CEO of the AI company that impersonated me",
       "url": "https://www.theverge.com/podcast/898715/superhuman-grammarly-expert-review-shishir-mehrotra-interview-ai-impersonation",
       "source": "The Verge",
@@ -161,20 +175,6 @@
       "source": "The Verge",
       "publishedAt": "2026-03-22T14:06:48Z",
       "snippet": "Elon Musk announced plans to build a Terafab plant in Austin, Texas, that will be jointly run by Tesla and SpaceX. The goal is to eventually build chips at scale for robotics, artificial intelligence,"
-    },
-    {
-      "title": "AI was everywhere at gaming\u2019s big developer conference \u2014 except the games",
-      "url": "https://www.theverge.com/games/897982/gdc-2026-ai-game-developer-conference",
-      "source": "The Verge",
-      "publishedAt": "2026-03-22T12:00:00Z",
-      "snippet": "AI was everywhere at the GDC Festival of Gaming this year. Vendors at the event pitched generative AI tools for things like making AI-driven NPCs and even entire games from a chat box. On the show flo"
-    },
-    {
-      "title": "The gen AI Kool-Aid tastes like eugenics",
-      "url": "https://www.theverge.com/entertainment/897923/ghost-in-the-machine-valerie-veatch-interview",
-      "source": "The Verge",
-      "publishedAt": "2026-03-21T14:00:00Z",
-      "snippet": "Like many people, director Valerie Veatch was intrigued when OpenAI first released its Sora text-to-video generative AI model to the public in 2024. Though she didn't fully understand the technology, "
     }
   ],
   "trending": [
@@ -194,14 +194,14 @@
       "downloads": 43905
     },
     {
-      "id": "Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-v2-GGUF",
-      "displayName": "Qwen3.5 27B Claude 4.6 Opus Reasoning Distilled v2",
-      "downloads": 33782
-    },
-    {
       "id": "Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
       "displayName": "Qwen3.5 27B Claude 4.6 Opus Reasoning Distilled",
       "downloads": 460662
+    },
+    {
+      "id": "Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-v2-GGUF",
+      "displayName": "Qwen3.5 27B Claude 4.6 Opus Reasoning Distilled v2",
+      "downloads": 33782
     },
     {
       "id": "Tesslate/OmniCoder-9B-GGUF",
@@ -219,14 +219,14 @@
       "downloads": 19908
     },
     {
-      "id": "nvidia/NVIDIA-Nemotron-3-Nano-4B-GGUF",
-      "displayName": "NVIDIA Nemotron 3 Nano 4B",
-      "downloads": 8769
-    },
-    {
       "id": "HauhauCS/Qwen3.5-27B-Uncensored-HauhauCS-Aggressive",
       "displayName": "Qwen3.5 27B Uncensored HauhauCS Aggressive",
       "downloads": 175101
+    },
+    {
+      "id": "nvidia/NVIDIA-Nemotron-3-Nano-4B-GGUF",
+      "displayName": "NVIDIA Nemotron 3 Nano 4B",
+      "downloads": 8769
     }
   ]
 }
