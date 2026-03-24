@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-24T04:15:53Z",
+  "updated": "2026-03-24T06:59:40Z",
   "news": [
     {
       "title": "Air Street becomes one of the largest solo VCs in Europe with $232M fund",
@@ -219,14 +219,14 @@
       "downloads": 132694
     },
     {
-      "id": "HauhauCS/Qwen3.5-27B-Uncensored-HauhauCS-Aggressive",
-      "displayName": "Qwen3.5 27B Uncensored HauhauCS Aggressive",
-      "downloads": 169122
-    },
-    {
       "id": "Jackrong/Qwen3.5-4B-Claude-4.6-Opus-Reasoning-Distilled-v2-GGUF",
       "displayName": "Qwen3.5 4B Claude 4.6 Opus Reasoning Distilled v2",
       "downloads": 17167
+    },
+    {
+      "id": "HauhauCS/Qwen3.5-27B-Uncensored-HauhauCS-Aggressive",
+      "displayName": "Qwen3.5 27B Uncensored HauhauCS Aggressive",
+      "downloads": 169122
     }
   ]
 }
