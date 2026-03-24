@@ -1,6 +1,27 @@
 {
-  "updated": "2026-03-24T18:58:07Z",
+  "updated": "2026-03-24T20:37:25Z",
   "news": [
+    {
+      "title": "Arm is releasing the\u00a0first in-house chip in its 35-year history",
+      "url": "https://techcrunch.com/2026/03/24/arm-is-releasing-its-first-in-house-chip-in-its-35-year-history/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-03-24T19:48:54Z",
+      "snippet": "Arm is producing its own CPU for the first time. It developed the CPU with Meta, which is also the chip's first customer."
+    },
+    {
+      "title": "OpenAI\u2019s plans to make ChatGPT more like Amazon aren\u2019t going so well",
+      "url": "https://techcrunch.com/2026/03/24/openais-plans-to-make-chatgpt-more-like-amazon-arent-going-so-well/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-03-24T19:27:56Z",
+      "snippet": "OpenAI says it's moving away from Instant Checkout, which allowed users to buy items directly through the ChatGPT interface."
+    },
+    {
+      "title": "Google TV\u2019s new Gemini features keep fans updated on sports teams and more",
+      "url": "https://techcrunch.com/2026/03/24/google-tv-new-gemini-features-keep-fans-updated-on-sports-teams-deep-dives-visual-answers/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-03-24T19:12:11Z",
+      "snippet": "Three Gemini-powered features are coming to your Google TV. This includes visual responses, deep dives, and sports briefs."
+    },
     {
       "title": "OpenAI adds open source tools to help developers build for teen safety",
       "url": "https://techcrunch.com/2026/03/24/openai-adds-open-source-tools-to-help-developers-build-for-teen-safety/",
@@ -114,20 +135,6 @@
       "snippet": "Littlebird is building an AI that reads your screen in real time to capture context, answer questions, and automate tasks, without relying on screenshots."
     },
     {
-      "title": "Elizabeth Warren calls Pentagon\u2019s decision to bar Anthropic \u2018retaliation\u2019",
-      "url": "https://techcrunch.com/2026/03/23/elizabeth-warren-anthropic-pentagon-defense-supply-chain-risk-retaliation/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-03-23T15:22:57Z",
-      "snippet": "In a letter to Defense Secretary Pete Hegseth, Senator Elizabeth Warren (D-MA) equated the DOD's decision to label Anthropic a \"supply-chain risk\" as retaliation, arguing that the Pentagon could simpl"
-    },
-    {
-      "title": "Sam Altman-backed fusion startup Helion in talks to sell power to OpenAI",
-      "url": "https://techcrunch.com/2026/03/23/sam-altman-openai-fusion-energy-board-helion/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-03-23T15:03:36Z",
-      "snippet": "OpenAI CEO Sam Altman is stepping down as board chair of Helion. His departure comes as reports that the two companies are negotiating a deal that would see Helion sell 12.5% of its power output to Op"
-    },
-    {
       "title": "Confronting the CEO of the AI company that impersonated me",
       "url": "https://www.theverge.com/podcast/898715/superhuman-grammarly-expert-review-shishir-mehrotra-interview-ai-impersonation",
       "source": "The Verge",
@@ -140,13 +147,6 @@
       "source": "The Verge",
       "publishedAt": "2026-03-23T00:01:00Z",
       "snippet": "First came the AI beauty pageant. Then the AI music contests. Now, there is an award for AI Personality of the Year - perhaps the inevitable next step for the AI influencer economy as it fights for le"
-    },
-    {
-      "title": "Do you want to build a robot snowman?",
-      "url": "https://techcrunch.com/2026/03/22/do-you-want-to-build-a-robot-snowman/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-03-22T19:45:07Z",
-      "snippet": "On the latest episode of the Equity podcast, we recapped CEO Jensen Huang\u2019s GTC keynote and debated what it means for Nvidia\u2019s future."
     },
     {
       "title": "Crimson Desert dev apologizes for use of AI art",
@@ -194,14 +194,14 @@
       "downloads": 43905
     },
     {
-      "id": "Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
-      "displayName": "Qwen3.5 27B Claude 4.6 Opus Reasoning Distilled",
-      "downloads": 460662
-    },
-    {
       "id": "Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-v2-GGUF",
       "displayName": "Qwen3.5 27B Claude 4.6 Opus Reasoning Distilled v2",
       "downloads": 33782
+    },
+    {
+      "id": "Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
+      "displayName": "Qwen3.5 27B Claude 4.6 Opus Reasoning Distilled",
+      "downloads": 460662
     },
     {
       "id": "Tesslate/OmniCoder-9B-GGUF",
