@@ -1,6 +1,34 @@
 {
-  "updated": "2026-03-24T16:57:18Z",
+  "updated": "2026-03-24T18:58:07Z",
   "news": [
+    {
+      "title": "OpenAI adds open source tools to help developers build for teen safety",
+      "url": "https://techcrunch.com/2026/03/24/openai-adds-open-source-tools-to-help-developers-build-for-teen-safety/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-03-24T18:41:34Z",
+      "snippet": "Rather than working from scratch to figure out how to make AI safer for teens, developers can use these policies to fortify what they build."
+    },
+    {
+      "title": "Talat\u2019s AI meeting notes stay on your machine, not in the cloud",
+      "url": "https://techcrunch.com/2026/03/24/talats-ai-meeting-notes-stay-on-your-machine-not-in-the-cloud/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-03-24T18:41:33Z",
+      "snippet": "The subscription-free AI meeting notes app is a local-first twist on notetaking tools like Granola."
+    },
+    {
+      "title": "Doss raises $55M for AI inventory management that plugs into ERP",
+      "url": "https://techcrunch.com/2026/03/24/doss-raises-55m-for-ai-inventory-management-that-plugs-into-erp/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-03-24T17:18:29Z",
+      "snippet": "Doss's AI-powered inventory management system integrates with existing ERP systems. The Series B round was co-led by Madrona and Premji Invest."
+    },
+    {
+      "title": "ChatGPT and Gemini are fighting to be the AI bot that sells you stuff",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/899677/openai-google-gemini-ai-shopping-features",
+      "source": "The Verge",
+      "publishedAt": "2026-03-24T17:13:00Z",
+      "snippet": "The AI-powered shopping rivalry is heating up as Google and OpenAI launch new features to help you buy things while interacting with their chatbots. Now, Google is teaming up with Gap Inc to allow its"
+    },
     {
       "title": "Meet the former Apple designer building a new AI interface at Hark",
       "url": "https://techcrunch.com/2026/03/24/meet-the-former-apple-designer-building-a-new-ai-interface-at-hark/",
@@ -121,32 +149,11 @@
       "snippet": "On the latest episode of the Equity podcast, we recapped CEO Jensen Huang\u2019s GTC keynote and debated what it means for Nvidia\u2019s future."
     },
     {
-      "title": "Cursor admits its new coding model was built on top of Moonshot AI\u2019s Kimi",
-      "url": "https://techcrunch.com/2026/03/22/cursor-admits-its-new-coding-model-was-built-on-top-of-moonshot-ais-kimi/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-03-22T18:41:09Z",
-      "snippet": "Building on top of a Chinese model feels particularly fraught right now."
-    },
-    {
       "title": "Crimson Desert dev apologizes for use of AI art",
       "url": "https://www.theverge.com/games/898771/crimson-desert-dev-apologizes-ai-art",
       "source": "The Verge",
       "publishedAt": "2026-03-22T17:34:34Z",
       "snippet": "Reviews of Crimson Desert have been mixed, but the bigger issue for the game has been the discovery of what appeared to be AI-generated assets in the final release. Now the developer has acknowledged "
-    },
-    {
-      "title": "Elon Musk unveils chip manufacturing plans for SpaceX and Tesla",
-      "url": "https://techcrunch.com/2026/03/22/elon-musk-unveils-chip-manufacturing-plans-for-spacex-and-tesla/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-03-22T16:20:00Z",
-      "snippet": "Elon Musk recently outlined ambitious plans for a chip-building collaboration Tesla and SpaceX \u2014 but he has a history of overpromising."
-    },
-    {
-      "title": "Delve accused of misleading customers with \u2018fake compliance\u2019",
-      "url": "https://techcrunch.com/2026/03/22/delve-accused-of-misleading-customers-with-fake-compliance/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-03-22T14:43:51Z",
-      "snippet": "An anonymous Substack post accuses compliance startup Delve of \u201cfalsely\u201d convincing \u201chundreds of customers they were compliant\u201d with privacy and security regulations."
     },
     {
       "title": "Musk says he\u2019s building a Terafab chip plant in Austin, Texas",
@@ -168,13 +175,6 @@
       "source": "The Verge",
       "publishedAt": "2026-03-21T14:00:00Z",
       "snippet": "Like many people, director Valerie Veatch was intrigued when OpenAI first released its Sora text-to-video generative AI model to the public in 2024. Though she didn't fully understand the technology, "
-    },
-    {
-      "title": "Gemini task automation is slow, clunky, and super impressive",
-      "url": "https://www.theverge.com/tech/898282/gemini-task-automation-uber-doordash-hands-on",
-      "source": "The Verge",
-      "publishedAt": "2026-03-21T11:30:00Z",
-      "snippet": "I've been testing out Gemini's new task automation on the Pixel 10 Pro and the Galaxy S26 Ultra, which for the first time lets Gemini take the wheel and use apps for you. It's limited to a small subse"
     }
   ],
   "trending": [
