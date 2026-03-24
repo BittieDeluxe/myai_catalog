@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-24T08:47:00Z",
+  "updated": "2026-03-24T10:48:43Z",
   "news": [
     {
       "title": "Air Street becomes one of the largest solo VCs in Europe with $232M fund",
@@ -219,14 +219,14 @@
       "downloads": 138329
     },
     {
+      "id": "nvidia/NVIDIA-Nemotron-3-Nano-4B-GGUF",
+      "displayName": "NVIDIA Nemotron 3 Nano 4B",
+      "downloads": 8769
+    },
+    {
       "id": "Jackrong/Qwen3.5-4B-Claude-4.6-Opus-Reasoning-Distilled-v2-GGUF",
       "displayName": "Qwen3.5 4B Claude 4.6 Opus Reasoning Distilled v2",
       "downloads": 19908
-    },
-    {
-      "id": "HauhauCS/Qwen3.5-27B-Uncensored-HauhauCS-Aggressive",
-      "displayName": "Qwen3.5 27B Uncensored HauhauCS Aggressive",
-      "downloads": 175101
     }
   ]
 }
