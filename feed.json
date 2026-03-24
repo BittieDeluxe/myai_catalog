@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-24T06:59:40Z",
+  "updated": "2026-03-24T08:47:00Z",
   "news": [
     {
       "title": "Air Street becomes one of the largest solo VCs in Europe with $232M fund",
@@ -181,32 +181,32 @@
     {
       "id": "HauhauCS/Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive",
       "displayName": "Qwen3.5 35B A3B Uncensored HauhauCS Aggressive",
-      "downloads": 299865
+      "downloads": 326131
     },
     {
       "id": "HauhauCS/Qwen3.5-9B-Uncensored-HauhauCS-Aggressive",
       "displayName": "Qwen3.5 9B Uncensored HauhauCS Aggressive",
-      "downloads": 366607
+      "downloads": 385054
     },
     {
       "id": "Jackrong/Qwen3.5-9B-Claude-4.6-Opus-Reasoning-Distilled-v2-GGUF",
       "displayName": "Qwen3.5 9B Claude 4.6 Opus Reasoning Distilled v2",
-      "downloads": 29690
+      "downloads": 43905
     },
     {
       "id": "Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
       "displayName": "Qwen3.5 27B Claude 4.6 Opus Reasoning Distilled",
-      "downloads": 447707
+      "downloads": 460662
     },
     {
       "id": "Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-v2-GGUF",
       "displayName": "Qwen3.5 27B Claude 4.6 Opus Reasoning Distilled v2",
-      "downloads": 29103
+      "downloads": 33782
     },
     {
       "id": "Tesslate/OmniCoder-9B-GGUF",
       "displayName": "OmniCoder 9B",
-      "downloads": 53172
+      "downloads": 56180
     },
     {
       "id": "RuneXX/LTX-2.3-Workflows",
@@ -216,17 +216,17 @@
     {
       "id": "HauhauCS/Qwen3.5-4B-Uncensored-HauhauCS-Aggressive",
       "displayName": "Qwen3.5 4B Uncensored HauhauCS Aggressive",
-      "downloads": 132694
+      "downloads": 138329
     },
     {
       "id": "Jackrong/Qwen3.5-4B-Claude-4.6-Opus-Reasoning-Distilled-v2-GGUF",
       "displayName": "Qwen3.5 4B Claude 4.6 Opus Reasoning Distilled v2",
-      "downloads": 17167
+      "downloads": 19908
     },
     {
       "id": "HauhauCS/Qwen3.5-27B-Uncensored-HauhauCS-Aggressive",
       "displayName": "Qwen3.5 27B Uncensored HauhauCS Aggressive",
-      "downloads": 169122
+      "downloads": 175101
     }
   ]
 }
