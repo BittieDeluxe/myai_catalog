@@ -1,6 +1,13 @@
 {
-  "updated": "2026-03-24T13:03:24Z",
+  "updated": "2026-03-24T14:54:20Z",
   "news": [
+    {
+      "title": "Anthropic\u2019s Claude Code and Cowork can control your computer",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/899430/anthropic-claude-code-cowork-ai-control-computer",
+      "source": "The Verge",
+      "publishedAt": "2026-03-24T13:32:23Z",
+      "snippet": "Anthropic has updated Claude to perform tasks in its Code and Cowork AI tools autonomously by using your computer for you. The new feature can be used to automatically open files, use web browsers and"
+    },
     {
       "title": "Mirage raises $75M to continue building models for its AI video editing app Captions",
       "url": "https://techcrunch.com/2026/03/24/mirage-raises-75m-to-continue-building-models-for-its-ai-video-editing-app-captions/",
@@ -168,13 +175,6 @@
       "source": "The Verge",
       "publishedAt": "2026-03-21T11:30:00Z",
       "snippet": "I've been testing out Gemini's new task automation on the Pixel 10 Pro and the Galaxy S26 Ultra, which for the first time lets Gemini take the wheel and use apps for you. It's limited to a small subse"
-    },
-    {
-      "title": "Trump takes another shot at dismantling state AI regulation",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/898055/trump-new-ai-policy-framework",
-      "source": "The Verge",
-      "publishedAt": "2026-03-20T18:17:02Z",
-      "snippet": "The Trump administration on Friday unveiled its new legislative blueprint for AI regulation, and the seven-point plan includes a clear message: The federal government should avoid many AI regulations "
     }
   ],
   "trending": [
@@ -219,14 +219,14 @@
       "downloads": 19908
     },
     {
-      "id": "HauhauCS/Qwen3.5-27B-Uncensored-HauhauCS-Aggressive",
-      "displayName": "Qwen3.5 27B Uncensored HauhauCS Aggressive",
-      "downloads": 175101
-    },
-    {
       "id": "nvidia/NVIDIA-Nemotron-3-Nano-4B-GGUF",
       "displayName": "NVIDIA Nemotron 3 Nano 4B",
       "downloads": 8769
+    },
+    {
+      "id": "HauhauCS/Qwen3.5-4B-Uncensored-HauhauCS-Aggressive",
+      "displayName": "Qwen3.5 4B Uncensored HauhauCS Aggressive",
+      "downloads": 138329
     }
   ]
 }
