@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-24T01:48:22Z",
+  "updated": "2026-03-24T04:15:53Z",
   "news": [
     {
       "title": "Air Street becomes one of the largest solo VCs in Europe with $232M fund",
@@ -199,14 +199,14 @@
       "downloads": 447707
     },
     {
-      "id": "Tesslate/OmniCoder-9B-GGUF",
-      "displayName": "OmniCoder 9B",
-      "downloads": 53172
-    },
-    {
       "id": "Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-v2-GGUF",
       "displayName": "Qwen3.5 27B Claude 4.6 Opus Reasoning Distilled v2",
       "downloads": 29103
+    },
+    {
+      "id": "Tesslate/OmniCoder-9B-GGUF",
+      "displayName": "OmniCoder 9B",
+      "downloads": 53172
     },
     {
       "id": "RuneXX/LTX-2.3-Workflows",
@@ -224,9 +224,9 @@
       "downloads": 169122
     },
     {
-      "id": "nvidia/NVIDIA-Nemotron-3-Nano-4B-GGUF",
-      "displayName": "NVIDIA Nemotron 3 Nano 4B",
-      "downloads": 7341
+      "id": "Jackrong/Qwen3.5-4B-Claude-4.6-Opus-Reasoning-Distilled-v2-GGUF",
+      "displayName": "Qwen3.5 4B Claude 4.6 Opus Reasoning Distilled v2",
+      "downloads": 17167
     }
   ]
 }
