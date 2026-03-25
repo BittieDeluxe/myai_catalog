@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-25T01:53:54Z",
+  "updated": "2026-03-25T04:18:23Z",
   "news": [
     {
       "title": "With $3.5B in fresh capital, Kleiner Perkins is going all in on AI",
@@ -184,14 +184,14 @@
       "downloads": 326131
     },
     {
-      "id": "HauhauCS/Qwen3.5-9B-Uncensored-HauhauCS-Aggressive",
-      "displayName": "Qwen3.5 9B Uncensored HauhauCS Aggressive",
-      "downloads": 385054
-    },
-    {
       "id": "Jackrong/Qwen3.5-9B-Claude-4.6-Opus-Reasoning-Distilled-v2-GGUF",
       "displayName": "Qwen3.5 9B Claude 4.6 Opus Reasoning Distilled v2",
       "downloads": 43905
+    },
+    {
+      "id": "HauhauCS/Qwen3.5-9B-Uncensored-HauhauCS-Aggressive",
+      "displayName": "Qwen3.5 9B Uncensored HauhauCS Aggressive",
+      "downloads": 385054
     },
     {
       "id": "Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-v2-GGUF",
@@ -204,14 +204,14 @@
       "downloads": 460662
     },
     {
-      "id": "Tesslate/OmniCoder-9B-GGUF",
-      "displayName": "OmniCoder 9B",
-      "downloads": 56180
-    },
-    {
       "id": "RuneXX/LTX-2.3-Workflows",
       "displayName": "LTX 2.3 Workflows",
       "downloads": 0
+    },
+    {
+      "id": "Tesslate/OmniCoder-9B-GGUF",
+      "displayName": "OmniCoder 9B",
+      "downloads": 56180
     },
     {
       "id": "Jackrong/Qwen3.5-4B-Claude-4.6-Opus-Reasoning-Distilled-v2-GGUF",
