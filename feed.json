@@ -1,6 +1,20 @@
 {
-  "updated": "2026-03-25T16:58:37Z",
+  "updated": "2026-03-25T18:52:03Z",
   "news": [
+    {
+      "title": "Can you monitor a situation without monitors? The Polymarket sports bar tried",
+      "url": "https://www.theverge.com/column/900536/alliance-for-a-better-future-polymarket",
+      "source": "The Verge",
+      "publishedAt": "2026-03-25T18:19:32Z",
+      "snippet": "Hello and welcome to Regulator, a newsletter for Verge readers who are political junkies, and Washington insiders hooked on technology. If this email has been forwarded to you but you're not a subscri"
+    },
+    {
+      "title": "Bernie Sanders and AOC propose a ban on data center construction",
+      "url": "https://techcrunch.com/2026/03/25/bernie-sanders-and-aoc-propose-a-ban-on-data-center-construction/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-03-25T17:15:50Z",
+      "snippet": "Senator Bernie Sanders and Rep. Alexandria Ocasio-Cortez introduced companion legislation to halt construction on new data centers until Congress passes comprehensive AI regulation."
+    },
     {
       "title": "Google launches Lyria 3 Pro music generation model",
       "url": "https://techcrunch.com/2026/03/25/google-launches-lyria-3-pro-music-generation-model/",
@@ -83,7 +97,7 @@
       "url": "https://techcrunch.com/2026/03/25/lucid-bots-raises-20m-to-keep-up-with-demand-for-its-window-washing-drones/",
       "source": "TechCrunch",
       "publishedAt": "2026-03-25T11:00:00Z",
-      "snippet": "Lucid Bots has seen demand accelerate over the last year for its window cleaning drones and power washing robots."
+      "snippet": "Lucid Bots has seen demand accelerate over the last year for its window-cleaning drones and power-washing robots."
     },
     {
       "title": "With $3.5B in fresh capital, Kleiner Perkins is going all in on AI",
@@ -149,13 +163,6 @@
       "snippet": "Arm is producing its own CPU for the first time. It developed the CPU with Meta, which is also the chip's first customer."
     },
     {
-      "title": "OpenAI\u2019s plans to make ChatGPT more like Amazon aren\u2019t going so well",
-      "url": "https://techcrunch.com/2026/03/24/openais-plans-to-make-chatgpt-more-like-amazon-arent-going-so-well/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-03-24T19:27:56Z",
-      "snippet": "OpenAI says it's moving away from Instant Checkout, which allowed users to buy items directly through the ChatGPT interface."
-    },
-    {
       "title": "ChatGPT and Gemini are fighting to be the AI bot that sells you stuff",
       "url": "https://www.theverge.com/ai-artificial-intelligence/899677/openai-google-gemini-ai-shopping-features",
       "source": "The Verge",
@@ -168,13 +175,6 @@
       "source": "The Verge",
       "publishedAt": "2026-03-24T13:32:23Z",
       "snippet": "Anthropic has updated Claude to perform tasks in its Code and Cowork AI tools autonomously by using your computer for you. The new feature can be used to automatically open files, use web browsers and"
-    },
-    {
-      "title": "Google\u2019s new Pixel 10 ads made me go \u2018Wait, WHAT are they trying to sell?\u2019",
-      "url": "https://www.theverge.com/tech/898992/google-pixel-10-ads-moving-on-stalker-lying-beach-view-100-zoom",
-      "source": "The Verge",
-      "publishedAt": "2026-03-23T19:49:11Z",
-      "snippet": "Ever watch a TV ad and wonder, \"How did this get approved?\" Today, Google has not one but two new ad spots for its six-month-old Pixel 10 phones, and\u2026 let's just say they may not come across as intend"
     }
   ],
   "trending": [
@@ -189,14 +189,14 @@
       "downloads": 55120
     },
     {
-      "id": "Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
-      "displayName": "Qwen3.5 27B Claude 4.6 Opus Reasoning Distilled",
-      "downloads": 480176
-    },
-    {
       "id": "Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-v2-GGUF",
       "displayName": "Qwen3.5 27B Claude 4.6 Opus Reasoning Distilled v2",
       "downloads": 41277
+    },
+    {
+      "id": "Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
+      "displayName": "Qwen3.5 27B Claude 4.6 Opus Reasoning Distilled",
+      "downloads": 480176
     },
     {
       "id": "HauhauCS/Qwen3.5-9B-Uncensored-HauhauCS-Aggressive",
