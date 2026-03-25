@@ -1,6 +1,27 @@
 {
-  "updated": "2026-03-25T20:35:02Z",
+  "updated": "2026-03-25T22:32:02Z",
   "news": [
+    {
+      "title": "The AI skills gap is here, says AI company, and power users are pulling ahead",
+      "url": "https://techcrunch.com/2026/03/25/the-ai-skills-gap-is-here-says-ai-company-and-power-users-are-pulling-ahead/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-03-25T21:44:13Z",
+      "snippet": "Anthropic finds AI isn\u2019t replacing jobs yet, but early data shows growing inequality as experienced users gain an edge, raising concerns about future displacement and workforce divides."
+    },
+    {
+      "title": "Meta is laying off hundreds of employees as it pours money into AI",
+      "url": "https://www.theverge.com/tech/900946/meta-layoffs-hundreds-employees",
+      "source": "The Verge",
+      "publishedAt": "2026-03-25T21:10:32Z",
+      "snippet": "Meta is laying off hundreds of employees across its company, according to reports from The New York Times, NBC News, and The Information. The job cuts impact workers on Meta's recruiting, social media"
+    },
+    {
+      "title": "Google unveils TurboQuant, a new AI memory compression algorithm \u2014\u00a0and yes, the internet is calling it \u2018Pied Piper\u2019",
+      "url": "https://techcrunch.com/2026/03/25/google-turboquant-ai-memory-compression-silicon-valley-pied-piper/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-03-25T20:38:45Z",
+      "snippet": "Google\u2019s TurboQuant has the internet joking about Pied Piper from HBO's \"Silicon Valley.\" The compression algorithm promises to shrink AI\u2019s \u201cworking memory\u201d by up to 6x, but it\u2019s still just a lab expe"
+    },
     {
       "title": "Disney\u2019s big bets on the metaverse and AI slop aren\u2019t going so well",
       "url": "https://www.theverge.com/streaming/900837/disney-open-ai-sora-epic-fortnite-metaverse",
@@ -149,32 +170,11 @@
       "snippet": "On Tuesday afternoon, OpenAI announced \"We're saying goodbye to Sora,\" the video generation tool that it launched at the end of 2024, and centered in a massive licensing deal with Disney only a few mo"
     },
     {
-      "title": "Anthropic hands Claude Code more control, but keeps it on a leash",
-      "url": "https://techcrunch.com/2026/03/24/anthropic-hands-claude-code-more-control-but-keeps-it-on-a-leash/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-03-24T21:00:30Z",
-      "snippet": "Anthropic\u2019s new auto mode for Claude Code lets AI execute tasks with fewer approvals, reflecting a broader shift toward more autonomous tools that balance speed with safety through built-in safeguards"
-    },
-    {
-      "title": "Spotify tests new tool to stop AI slop from being attributed to real artists",
-      "url": "https://techcrunch.com/2026/03/24/spotify-tests-new-tool-to-stop-ai-slop-from-being-attributed-to-real-artists/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-03-24T20:56:25Z",
-      "snippet": "The idea behind the new tool is to give artists more control over which tracks are associated with their name on Spotify."
-    },
-    {
       "title": "Arm\u2019s first CPU ever will plug into Meta\u2019s AI data centers later this year",
       "url": "https://www.theverge.com/ai-artificial-intelligence/899823/arm-agi-cpu-meta",
       "source": "The Verge",
       "publishedAt": "2026-03-24T20:43:14Z",
       "snippet": "After decades of only licensing its chip designs for others to use, UK-based Arm revealed the first chip it's producing on its own, and the first customer. Dubbed the Arm AGI CPU, it's another chip de"
-    },
-    {
-      "title": "ChatGPT and Gemini are fighting to be the AI bot that sells you stuff",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/899677/openai-google-gemini-ai-shopping-features",
-      "source": "The Verge",
-      "publishedAt": "2026-03-24T17:13:00Z",
-      "snippet": "The AI-powered shopping rivalry is heating up as Google and OpenAI launch new features to help you buy things while interacting with their chatbots. Now, Google is teaming up with Gap Inc to allow its"
     }
   ],
   "trending": [
@@ -182,6 +182,11 @@
       "id": "HauhauCS/Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive",
       "displayName": "Qwen3.5 35B A3B Uncensored HauhauCS Aggressive",
       "downloads": 401358
+    },
+    {
+      "id": "Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
+      "displayName": "Qwen3.5 27B Claude 4.6 Opus Reasoning Distilled",
+      "downloads": 480176
     },
     {
       "id": "Jackrong/Qwen3.5-9B-Claude-4.6-Opus-Reasoning-Distilled-v2-GGUF",
@@ -194,19 +199,14 @@
       "downloads": 41277
     },
     {
-      "id": "Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
-      "displayName": "Qwen3.5 27B Claude 4.6 Opus Reasoning Distilled",
-      "downloads": 480176
-    },
-    {
       "id": "HauhauCS/Qwen3.5-9B-Uncensored-HauhauCS-Aggressive",
       "displayName": "Qwen3.5 9B Uncensored HauhauCS Aggressive",
       "downloads": 418903
     },
     {
-      "id": "Tesslate/OmniCoder-9B-GGUF",
-      "displayName": "OmniCoder 9B",
-      "downloads": 60434
+      "id": "RuneXX/LTX-2.3-Workflows",
+      "displayName": "LTX 2.3 Workflows",
+      "downloads": 0
     },
     {
       "id": "Jackrong/Qwen3.5-4B-Claude-4.6-Opus-Reasoning-Distilled-v2-GGUF",
@@ -214,9 +214,9 @@
       "downloads": 24127
     },
     {
-      "id": "RuneXX/LTX-2.3-Workflows",
-      "displayName": "LTX 2.3 Workflows",
-      "downloads": 0
+      "id": "Tesslate/OmniCoder-9B-GGUF",
+      "displayName": "OmniCoder 9B",
+      "downloads": 60434
     },
     {
       "id": "Jackrong/Qwen3.5-9B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
