@@ -1,6 +1,20 @@
 {
-  "updated": "2026-03-25T18:52:03Z",
+  "updated": "2026-03-25T20:35:02Z",
   "news": [
+    {
+      "title": "Disney\u2019s big bets on the metaverse and AI slop aren\u2019t going so well",
+      "url": "https://www.theverge.com/streaming/900837/disney-open-ai-sora-epic-fortnite-metaverse",
+      "source": "The Verge",
+      "publishedAt": "2026-03-25T20:02:48Z",
+      "snippet": "Less than a week into his tenure as Disney's newly-appointed CEO, Josh D'Amaro is already dealing with two separate crises that have cast a shadow over the company's future plans. OpenAI is shutting d"
+    },
+    {
+      "title": "Melania Trump wants a robot to homeschool your child",
+      "url": "https://techcrunch.com/2026/03/25/melania-trump-wants-a-robot-to-homeschool-your-child/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-03-25T18:55:41Z",
+      "snippet": "The first lady sees AI and robotics playing a prominent role in the future of American education."
+    },
     {
       "title": "Can you monitor a situation without monitors? The Polymarket sports bar tried",
       "url": "https://www.theverge.com/column/900536/alliance-for-a-better-future-polymarket",
@@ -42,6 +56,13 @@
       "source": "The Verge",
       "publishedAt": "2026-03-25T16:00:00Z",
       "snippet": "Google is expanding the capabilities of its Lyria 3 music-making AI, enabling it to create tracks up to three minutes long and from within multiple other Google Products. Until now, Lyria had been lim"
+    },
+    {
+      "title": "Harvey confirms $11B valuation: Sequoia triples down",
+      "url": "https://techcrunch.com/2026/03/25/harvey-confirms-11b-valuation-sequoia-triples-down/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-03-25T15:27:15Z",
+      "snippet": "Investors like Sequoia, Andreessen Horowitz,  Kleiner Perkins, and Elad Gil can't get enough of AI legal tech startup Harvey."
     },
     {
       "title": "Senate Democrats are trying to \u2018codify\u2019 Anthropic&#8217;s red lines on autonomous weapons and mass surveillance",
@@ -149,32 +170,11 @@
       "snippet": "After decades of only licensing its chip designs for others to use, UK-based Arm revealed the first chip it's producing on its own, and the first customer. Dubbed the Arm AGI CPU, it's another chip de"
     },
     {
-      "title": "Databricks bought two startups to underpin its new AI security product",
-      "url": "https://techcrunch.com/2026/03/24/databricks-buys-two-startups-lakewatch-antimatter-siftd-ai-security/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-03-24T20:40:56Z",
-      "snippet": "With an overflowing war chest from its recent $5 billion raise, Databricks is buying startups and looking for more. It acquired Antimatter and SiftD.ai."
-    },
-    {
-      "title": "Arm is releasing the\u00a0first in-house chip in its 35-year history",
-      "url": "https://techcrunch.com/2026/03/24/arm-is-releasing-its-first-in-house-chip-in-its-35-year-history/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-03-24T19:48:54Z",
-      "snippet": "Arm is producing its own CPU for the first time. It developed the CPU with Meta, which is also the chip's first customer."
-    },
-    {
       "title": "ChatGPT and Gemini are fighting to be the AI bot that sells you stuff",
       "url": "https://www.theverge.com/ai-artificial-intelligence/899677/openai-google-gemini-ai-shopping-features",
       "source": "The Verge",
       "publishedAt": "2026-03-24T17:13:00Z",
       "snippet": "The AI-powered shopping rivalry is heating up as Google and OpenAI launch new features to help you buy things while interacting with their chatbots. Now, Google is teaming up with Gap Inc to allow its"
-    },
-    {
-      "title": "Anthropic\u2019s Claude Code and Cowork can control your computer",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/899430/anthropic-claude-code-cowork-ai-control-computer",
-      "source": "The Verge",
-      "publishedAt": "2026-03-24T13:32:23Z",
-      "snippet": "Anthropic has updated Claude to perform tasks in its Code and Cowork AI tools autonomously by using your computer for you. The new feature can be used to automatically open files, use web browsers and"
     }
   ],
   "trending": [
@@ -209,14 +209,14 @@
       "downloads": 60434
     },
     {
-      "id": "RuneXX/LTX-2.3-Workflows",
-      "displayName": "LTX 2.3 Workflows",
-      "downloads": 0
-    },
-    {
       "id": "Jackrong/Qwen3.5-4B-Claude-4.6-Opus-Reasoning-Distilled-v2-GGUF",
       "displayName": "Qwen3.5 4B Claude 4.6 Opus Reasoning Distilled v2",
       "downloads": 24127
+    },
+    {
+      "id": "RuneXX/LTX-2.3-Workflows",
+      "displayName": "LTX 2.3 Workflows",
+      "downloads": 0
     },
     {
       "id": "Jackrong/Qwen3.5-9B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
