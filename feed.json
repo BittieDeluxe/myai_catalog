@@ -1,12 +1,26 @@
 {
-  "updated": "2026-03-24T22:26:10Z",
+  "updated": "2026-03-25T01:53:54Z",
   "news": [
     {
-      "title": "Kentucky woman rejects $26 million offer to turn her farm into a data center",
+      "title": "With $3.5B in fresh capital, Kleiner Perkins is going all in on AI",
+      "url": "https://techcrunch.com/2026/03/24/with-3-5b-in-fresh-capital-kleiner-perkins-is-going-all-in-on-ai/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-03-25T00:47:20Z",
+      "snippet": "The fundraise includes $1 billion for investing in early-stage startups, and $2.5 billion for late-stage growth businesses."
+    },
+    {
+      "title": "OpenAI\u2019s Sora was the creepiest app on your phone \u2014 now it\u2019s shutting down",
+      "url": "https://techcrunch.com/2026/03/24/openais-sora-was-the-creepiest-app-on-your-phone-now-its-shutting-down/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-03-24T23:57:55Z",
+      "snippet": "Though the underlying Sora 2 video- and audio-generation model is scarily impressive, there was not sustained interest in an AI-only social feed."
+    },
+    {
+      "title": "Kentucky woman rejects $26M offer to turn her farm into a data center",
       "url": "https://techcrunch.com/2026/03/24/kentucky-woman-rejects-26-million-offer-to-turn-her-farm-into-a-data-center/",
       "source": "TechCrunch",
       "publishedAt": "2026-03-24T22:22:57Z",
-      "snippet": "A \"major artificial intelligence company\" reportedly offered a Kentucky women $26 million to build a data center on their farm."
+      "snippet": "A \"major artificial intelligence company\" reportedly offered a Kentucky family $26 million to build a data center on their farm."
     },
     {
       "title": "OpenAI just gave up on Sora and its billion-dollar Disney deal",
@@ -30,7 +44,7 @@
       "snippet": "The idea behind the new tool is to give artists more control over which tracks are associated with their name on Spotify."
     },
     {
-      "title": "Arm\u2019s first CPU ever will plug into Meta\u2019s AI datacenters later this year",
+      "title": "Arm\u2019s first CPU ever will plug into Meta\u2019s AI data centers later this year",
       "url": "https://www.theverge.com/ai-artificial-intelligence/899823/arm-agi-cpu-meta",
       "source": "The Verge",
       "publishedAt": "2026-03-24T20:43:14Z",
@@ -121,20 +135,6 @@
       "snippet": "Agile Robots will incorporate Google DeepMind's robotics foundation models into its bots while collecting data for the AI research lab."
     },
     {
-      "title": "Air Street becomes one of the largest solo VCs in Europe with $232M fund",
-      "url": "https://techcrunch.com/2026/03/23/air-street-becomes-one-of-the-largest-solo-vcs-in-europe-with-232m-fund/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-03-23T22:36:39Z",
-      "snippet": "London\u2019s Air Street Capital has raised a large Fund III with eyes locked on backing early-stage European and North American AI companies."
-    },
-    {
-      "title": "Bernie Sanders\u2019 AI \u2018gotcha\u2019 video flops, but the memes are great",
-      "url": "https://techcrunch.com/2026/03/23/bernie-sanders-ai-gotcha-video-flops-but-the-memes-are-great/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-03-23T20:15:59Z",
-      "snippet": "Sen. Bernie Sanders thinks he's tricked Claude into revealing the AI industry's secrets, but he really just exposed how agreeable chatbots can become."
-    },
-    {
       "title": "Google\u2019s new Pixel 10 ads made me go \u2018Wait, WHAT are they trying to sell?\u2019",
       "url": "https://www.theverge.com/tech/898992/google-pixel-10-ads-moving-on-stalker-lying-beach-view-100-zoom",
       "source": "The Verge",
@@ -194,14 +194,14 @@
       "downloads": 43905
     },
     {
-      "id": "Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
-      "displayName": "Qwen3.5 27B Claude 4.6 Opus Reasoning Distilled",
-      "downloads": 460662
-    },
-    {
       "id": "Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-v2-GGUF",
       "displayName": "Qwen3.5 27B Claude 4.6 Opus Reasoning Distilled v2",
       "downloads": 33782
+    },
+    {
+      "id": "Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
+      "displayName": "Qwen3.5 27B Claude 4.6 Opus Reasoning Distilled",
+      "downloads": 460662
     },
     {
       "id": "Tesslate/OmniCoder-9B-GGUF",
