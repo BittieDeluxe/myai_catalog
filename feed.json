@@ -1,6 +1,27 @@
 {
-  "updated": "2026-03-25T10:44:14Z",
+  "updated": "2026-03-25T13:01:17Z",
   "news": [
+    {
+      "title": "With Sift Stack, two ex-SpaceX engineers are bringing the software that helped launch rockets to the factory floor",
+      "url": "https://techcrunch.com/2026/03/25/with-sift-stack-two-ex-spacex-engineers-are-bringing-the-software-that-helped-launch-rockets-to-the-factory-floor/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-03-25T13:00:00Z",
+      "snippet": "Sift is building the data infrastructure for advanced manufacturing."
+    },
+    {
+      "title": "Anthropic\u2019s Claude Code gets \u2018safer\u2019 auto mode",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/900201/anthropic-claude-code-auto-mode",
+      "source": "The Verge",
+      "publishedAt": "2026-03-25T11:39:46Z",
+      "snippet": "Anthropic has launched an \"auto mode\" for Claude Code, a new tool that lets AI make permissions-level decisions on users' behalf. The company says the feature offers vibe coders a safer alternative be"
+    },
+    {
+      "title": "Lucid Bots raises $20M to keep up with demand for its\u00a0window-washing drones",
+      "url": "https://techcrunch.com/2026/03/25/lucid-bots-raises-20m-to-keep-up-with-demand-for-its-window-washing-drones/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-03-25T11:00:00Z",
+      "snippet": "Lucid Bots has seen demand accelerate over the last year for its window cleaning drones and power washing robots."
+    },
     {
       "title": "With $3.5B in fresh capital, Kleiner Perkins is going all in on AI",
       "url": "https://techcrunch.com/2026/03/24/with-3-5b-in-fresh-capital-kleiner-perkins-is-going-all-in-on-ai/",
@@ -121,20 +142,6 @@
       "snippet": "Anthropic has updated Claude to perform tasks in its Code and Cowork AI tools autonomously by using your computer for you. The new feature can be used to automatically open files, use web browsers and"
     },
     {
-      "title": "Mirage raises $75M to continue building models for its AI video-editing app Captions",
-      "url": "https://techcrunch.com/2026/03/24/mirage-raises-75m-to-continue-building-models-for-its-ai-video-editing-app-captions/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-03-24T13:00:00Z",
-      "snippet": "Mirage, the maker of video-editing app Captions, has raised $75 million in growth financing from General Catalyst's Customer Value Fund (CVF)."
-    },
-    {
-      "title": "Agile Robots\u00a0becomes the latest robotics company to partner with Google DeepMind",
-      "url": "https://techcrunch.com/2026/03/24/agile-robots-becomes-the-latest-robotics-company-to-partner-with-google-deepmind/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-03-24T12:05:00Z",
-      "snippet": "Agile Robots will incorporate Google DeepMind's robotics foundation models into its bots while collecting data for the AI research lab."
-    },
-    {
       "title": "Google\u2019s new Pixel 10 ads made me go \u2018Wait, WHAT are they trying to sell?\u2019",
       "url": "https://www.theverge.com/tech/898992/google-pixel-10-ads-moving-on-stalker-lying-beach-view-100-zoom",
       "source": "The Verge",
@@ -168,13 +175,6 @@
       "source": "The Verge",
       "publishedAt": "2026-03-22T17:34:34Z",
       "snippet": "Reviews of Crimson Desert have been mixed, but the bigger issue for the game has been the discovery of what appeared to be AI-generated assets in the final release. Now the developer has acknowledged "
-    },
-    {
-      "title": "Musk says he\u2019s building a Terafab chip plant in Austin, Texas",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/898722/musk-terafab-chip-plant",
-      "source": "The Verge",
-      "publishedAt": "2026-03-22T14:06:48Z",
-      "snippet": "Elon Musk announced plans to build a Terafab plant in Austin, Texas, that will be jointly run by Tesla and SpaceX. The goal is to eventually build chips at scale for robotics, artificial intelligence,"
     }
   ],
   "trending": [
@@ -194,24 +194,24 @@
       "downloads": 480176
     },
     {
-      "id": "HauhauCS/Qwen3.5-9B-Uncensored-HauhauCS-Aggressive",
-      "displayName": "Qwen3.5 9B Uncensored HauhauCS Aggressive",
-      "downloads": 418903
-    },
-    {
       "id": "Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-v2-GGUF",
       "displayName": "Qwen3.5 27B Claude 4.6 Opus Reasoning Distilled v2",
       "downloads": 41277
     },
     {
-      "id": "RuneXX/LTX-2.3-Workflows",
-      "displayName": "LTX 2.3 Workflows",
-      "downloads": 0
+      "id": "HauhauCS/Qwen3.5-9B-Uncensored-HauhauCS-Aggressive",
+      "displayName": "Qwen3.5 9B Uncensored HauhauCS Aggressive",
+      "downloads": 418903
     },
     {
       "id": "Tesslate/OmniCoder-9B-GGUF",
       "displayName": "OmniCoder 9B",
       "downloads": 60434
+    },
+    {
+      "id": "RuneXX/LTX-2.3-Workflows",
+      "displayName": "LTX 2.3 Workflows",
+      "downloads": 0
     },
     {
       "id": "Jackrong/Qwen3.5-4B-Claude-4.6-Opus-Reasoning-Distilled-v2-GGUF",
