@@ -1,6 +1,41 @@
 {
-  "updated": "2026-03-25T14:55:45Z",
+  "updated": "2026-03-25T16:58:37Z",
   "news": [
+    {
+      "title": "Google launches Lyria 3 Pro music generation model",
+      "url": "https://techcrunch.com/2026/03/25/google-launches-lyria-3-pro-music-generation-model/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-03-25T16:37:43Z",
+      "snippet": "Google is launching Lyria 3 Pro, an upgraded music model that generates longer, more customizable tracks, as it expands AI music tools across Gemini, enterprise products, and other services."
+    },
+    {
+      "title": "Reddit accounts with \u2018fishy\u2019 bot-like behavior will soon need to prove they\u2019re human",
+      "url": "https://www.theverge.com/tech/900363/reddit-human-verification-bots-crackdown",
+      "source": "The Verge",
+      "publishedAt": "2026-03-25T16:10:00Z",
+      "snippet": "Reddit is taking new steps to identify bots on the platform - a process that may require some users to confirm that they're human. In a post on Wednesday, Reddit CEO Steve Huffman writes that the comp"
+    },
+    {
+      "title": "Reddit takes on the bots with new \u2018human verification\u2019 requirements for fishy behavior",
+      "url": "https://techcrunch.com/2026/03/25/reddit-bots-new-human-verification-requirements/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-03-25T16:10:00Z",
+      "snippet": "Reddit will require suspected automated accounts to verify they\u2019re human, as it ramps up efforts to curb bot-driven spam and manipulation."
+    },
+    {
+      "title": "Google Lyria 3 Pro makes longer AI songs",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/900425/google-lyria-3-pro-ai-music",
+      "source": "The Verge",
+      "publishedAt": "2026-03-25T16:00:00Z",
+      "snippet": "Google is expanding the capabilities of its Lyria 3 music-making AI, enabling it to create tracks up to three minutes long and from within multiple other Google Products. Until now, Lyria had been lim"
+    },
+    {
+      "title": "Senate Democrats are trying to \u2018codify\u2019 Anthropic&#8217;s red lines on autonomous weapons and mass surveillance",
+      "url": "https://www.theverge.com/policy/900341/senator-schiff-anthropic-autonomous-weapons-mass-surveillance",
+      "source": "The Verge",
+      "publishedAt": "2026-03-25T15:05:46Z",
+      "snippet": "Anthropic's fight with the Pentagon is expanding to Congress. Sen. Adam Schiff (D-CA) is working on a new bill to \"codify\" Anthropic's red lines and ensure humans make the ultimate decisions in questi"
+    },
     {
       "title": "Granola raises $125M, hits $1.5B valuation as it expands from meeting notetaker to enterprise AI app",
       "url": "https://techcrunch.com/2026/03/25/granola-raises-125m-hits-1-5b-valuation-as-it-expands-from-meeting-notetaker-to-enterprise-ai-app/",
@@ -20,7 +55,7 @@
       "url": "https://www.theverge.com/policy/900340/trump-tech-panel-mark-zuckerberg-jensen-huang",
       "source": "The Verge",
       "publishedAt": "2026-03-25T14:41:21Z",
-      "snippet": "Meta CEO Mark Zuckerberg, Oracle CEO Larry Ellison, Nvidia CEO Jensen Huang, and Google cofounder Sergey Brin will be the first four members of the President's Council of Advisors on Science and Techn"
+      "snippet": "Meta CEO Mark Zuckerberg, Oracle CTO and executive chairman Larry Ellison, Nvidia CEO Jensen Huang, and Google cofounder Sergey Brin will be the first four members of the President's Council of Adviso"
     },
     {
       "title": "Meta turns to AI to make shopping easier on Instagram and Facebook",
@@ -30,7 +65,7 @@
       "snippet": "Meta is using generative AI to provide more product and brand information to consumers when they're shopping in its apps."
     },
     {
-      "title": "With Sift Stack, two ex-SpaceX engineers are bringing the software that helped launch rockets to the factory floor",
+      "title": "With Sift, two ex-SpaceX engineers are bringing the software that helped launch rockets to the factory floor",
       "url": "https://techcrunch.com/2026/03/25/with-sift-stack-two-ex-spacex-engineers-are-bringing-the-software-that-helped-launch-rockets-to-the-factory-floor/",
       "source": "TechCrunch",
       "publishedAt": "2026-03-25T13:00:00Z",
@@ -55,7 +90,7 @@
       "url": "https://techcrunch.com/2026/03/24/with-3-5b-in-fresh-capital-kleiner-perkins-is-going-all-in-on-ai/",
       "source": "TechCrunch",
       "publishedAt": "2026-03-25T00:47:20Z",
-      "snippet": "The fundraise includes $1 billion for investing in early-stage startups, and $2.5 billion for late-stage growth businesses."
+      "snippet": "The fundraise includes $1 billion for investing in early-stage startups and $2.5 billion for late-stage growth businesses."
     },
     {
       "title": "OpenAI\u2019s Sora was the creepiest app on your phone \u2014 now it\u2019s shutting down",
@@ -121,20 +156,6 @@
       "snippet": "OpenAI says it's moving away from Instant Checkout, which allowed users to buy items directly through the ChatGPT interface."
     },
     {
-      "title": "Google TV\u2019s new Gemini features keep fans updated on sports teams and more",
-      "url": "https://techcrunch.com/2026/03/24/google-tv-new-gemini-features-keep-fans-updated-on-sports-teams-deep-dives-visual-answers/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-03-24T19:12:11Z",
-      "snippet": "Three Gemini-powered features are coming to your Google TV. This includes visual responses, deep dives, and sports briefs."
-    },
-    {
-      "title": "OpenAI adds open source tools to help developers build for teen safety",
-      "url": "https://techcrunch.com/2026/03/24/openai-adds-open-source-tools-to-help-developers-build-for-teen-safety/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-03-24T18:41:34Z",
-      "snippet": "Rather than working from scratch to figure out how to make AI safer for teens, developers can use these policies to fortify what they build."
-    },
-    {
       "title": "ChatGPT and Gemini are fighting to be the AI bot that sells you stuff",
       "url": "https://www.theverge.com/ai-artificial-intelligence/899677/openai-google-gemini-ai-shopping-features",
       "source": "The Verge",
@@ -154,27 +175,6 @@
       "source": "The Verge",
       "publishedAt": "2026-03-23T19:49:11Z",
       "snippet": "Ever watch a TV ad and wonder, \"How did this get approved?\" Today, Google has not one but two new ad spots for its six-month-old Pixel 10 phones, and\u2026 let's just say they may not come across as intend"
-    },
-    {
-      "title": "Nvidia CEO Jensen Huang says &#8216;I think we&#8217;ve achieved AGI&#8217;",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/899086/jensen-huang-nvidia-agi",
-      "source": "The Verge",
-      "publishedAt": "2026-03-23T19:42:33Z",
-      "snippet": "On a Monday episode of the Lex Fridman podcast, Nvidia CEO Jensen Huang made a hot-button statement: \"I think we've achieved AGI.\" AGI, or artificial general intelligence, is a vaguely defined term th"
-    },
-    {
-      "title": "Confronting the CEO of the AI company that impersonated me",
-      "url": "https://www.theverge.com/podcast/898715/superhuman-grammarly-expert-review-shishir-mehrotra-interview-ai-impersonation",
-      "source": "The Verge",
-      "publishedAt": "2026-03-23T13:30:00Z",
-      "snippet": "Today, I\u2019m talking with Shishir Mehrotra, who is CEO of Superhuman \u2014 that\u2019s the company formerly known as Grammarly, which is still its flagship product.&#160; Shishir also used to be the chief produc"
-    },
-    {
-      "title": "AI influencer awards season is upon us",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/898781/ai-personality-of-the-year-influencer-contest",
-      "source": "The Verge",
-      "publishedAt": "2026-03-23T00:01:00Z",
-      "snippet": "First came the AI beauty pageant. Then the AI music contests. Now, there is an award for AI Personality of the Year - perhaps the inevitable next step for the AI influencer economy as it fights for le"
     }
   ],
   "trending": [
@@ -204,14 +204,14 @@
       "downloads": 418903
     },
     {
-      "id": "RuneXX/LTX-2.3-Workflows",
-      "displayName": "LTX 2.3 Workflows",
-      "downloads": 0
-    },
-    {
       "id": "Tesslate/OmniCoder-9B-GGUF",
       "displayName": "OmniCoder 9B",
       "downloads": 60434
+    },
+    {
+      "id": "RuneXX/LTX-2.3-Workflows",
+      "displayName": "LTX 2.3 Workflows",
+      "downloads": 0
     },
     {
       "id": "Jackrong/Qwen3.5-4B-Claude-4.6-Opus-Reasoning-Distilled-v2-GGUF",
@@ -219,14 +219,14 @@
       "downloads": 24127
     },
     {
+      "id": "Jackrong/Qwen3.5-9B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
+      "displayName": "Qwen3.5 9B Claude 4.6 Opus Reasoning Distilled",
+      "downloads": 149497
+    },
+    {
       "id": "HauhauCS/Qwen3.5-27B-Uncensored-HauhauCS-Aggressive",
       "displayName": "Qwen3.5 27B Uncensored HauhauCS Aggressive",
       "downloads": 185065
-    },
-    {
-      "id": "nvidia/NVIDIA-Nemotron-3-Nano-4B-GGUF",
-      "displayName": "NVIDIA Nemotron 3 Nano 4B",
-      "downloads": 10230
     }
   ]
 }
