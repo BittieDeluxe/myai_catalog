@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-25T08:44:31Z",
+  "updated": "2026-03-25T10:44:14Z",
   "news": [
     {
       "title": "With $3.5B in fresh capital, Kleiner Perkins is going all in on AI",
@@ -189,14 +189,14 @@
       "downloads": 55120
     },
     {
-      "id": "HauhauCS/Qwen3.5-9B-Uncensored-HauhauCS-Aggressive",
-      "displayName": "Qwen3.5 9B Uncensored HauhauCS Aggressive",
-      "downloads": 418903
-    },
-    {
       "id": "Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
       "displayName": "Qwen3.5 27B Claude 4.6 Opus Reasoning Distilled",
       "downloads": 480176
+    },
+    {
+      "id": "HauhauCS/Qwen3.5-9B-Uncensored-HauhauCS-Aggressive",
+      "displayName": "Qwen3.5 9B Uncensored HauhauCS Aggressive",
+      "downloads": 418903
     },
     {
       "id": "Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-v2-GGUF",
