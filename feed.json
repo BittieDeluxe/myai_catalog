@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-25T06:58:03Z",
+  "updated": "2026-03-25T08:44:31Z",
   "news": [
     {
       "title": "With $3.5B in fresh capital, Kleiner Perkins is going all in on AI",
@@ -181,27 +181,27 @@
     {
       "id": "HauhauCS/Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive",
       "displayName": "Qwen3.5 35B A3B Uncensored HauhauCS Aggressive",
-      "downloads": 326131
+      "downloads": 401358
     },
     {
       "id": "Jackrong/Qwen3.5-9B-Claude-4.6-Opus-Reasoning-Distilled-v2-GGUF",
       "displayName": "Qwen3.5 9B Claude 4.6 Opus Reasoning Distilled v2",
-      "downloads": 43905
+      "downloads": 55120
     },
     {
       "id": "HauhauCS/Qwen3.5-9B-Uncensored-HauhauCS-Aggressive",
       "displayName": "Qwen3.5 9B Uncensored HauhauCS Aggressive",
-      "downloads": 385054
+      "downloads": 418903
     },
     {
       "id": "Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
       "displayName": "Qwen3.5 27B Claude 4.6 Opus Reasoning Distilled",
-      "downloads": 460662
+      "downloads": 480176
     },
     {
       "id": "Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-v2-GGUF",
       "displayName": "Qwen3.5 27B Claude 4.6 Opus Reasoning Distilled v2",
-      "downloads": 33782
+      "downloads": 41277
     },
     {
       "id": "RuneXX/LTX-2.3-Workflows",
@@ -211,22 +211,22 @@
     {
       "id": "Tesslate/OmniCoder-9B-GGUF",
       "displayName": "OmniCoder 9B",
-      "downloads": 56180
+      "downloads": 60434
     },
     {
       "id": "Jackrong/Qwen3.5-4B-Claude-4.6-Opus-Reasoning-Distilled-v2-GGUF",
       "displayName": "Qwen3.5 4B Claude 4.6 Opus Reasoning Distilled v2",
-      "downloads": 19908
+      "downloads": 24127
     },
     {
       "id": "HauhauCS/Qwen3.5-27B-Uncensored-HauhauCS-Aggressive",
       "displayName": "Qwen3.5 27B Uncensored HauhauCS Aggressive",
-      "downloads": 175101
+      "downloads": 185065
     },
     {
       "id": "nvidia/NVIDIA-Nemotron-3-Nano-4B-GGUF",
       "displayName": "NVIDIA Nemotron 3 Nano 4B",
-      "downloads": 8769
+      "downloads": 10230
     }
   ]
 }
