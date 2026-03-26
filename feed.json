@@ -1,6 +1,27 @@
 {
-  "updated": "2026-03-26T13:05:59Z",
+  "updated": "2026-03-26T15:00:36Z",
   "news": [
+    {
+      "title": "Senators are pushing to find out how much electricity data centers actually use",
+      "url": "https://www.theverge.com/policy/901404/senators-warren-hawley-eia-letter-data-centers",
+      "source": "The Verge",
+      "publishedAt": "2026-03-26T14:25:32Z",
+      "snippet": "On Thursday, senators Elizabeth Warren (D-MA) and Josh Hawley (R-MO) sent a letter to the Energy Information Administration (EIA) urging it to begin collecting \"comprehensive, annual energy-use disclo"
+    },
+    {
+      "title": "Conntour raises $7M from General Catalyst, YC to build an AI search engine for security video systems",
+      "url": "https://techcrunch.com/2026/03/26/conntour-raises-7m-from-general-catalyst-yc-to-build-an-ai-search-engine-for-security-video-systems/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-03-26T13:41:00Z",
+      "snippet": "Conntour uses AI models to let security teams query camera feeds using natural language to find any object, person, or situation."
+    },
+    {
+      "title": "Cohere launches an open-source voice model specifically for transcription",
+      "url": "https://techcrunch.com/2026/03/26/cohere-launches-an-open-source-voice-model-specifically-for-transcription/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-03-26T13:30:00Z",
+      "snippet": "Relatively light at just 2 billion parameters, the model is meant for use with consumer-grade GPUs for those who want to self-host it. It currently supports 14 languages."
+    },
     {
       "title": "Webtoon is adding AI localization tools to its comics platform",
       "url": "https://www.theverge.com/ai-artificial-intelligence/899108/webtoon-canvas-ai-translation-localization-yongsoo-kim",
@@ -154,27 +175,6 @@
       "source": "TechCrunch",
       "publishedAt": "2026-03-25T14:45:20Z",
       "snippet": "Meta CEO Mark Zuckerberg said in a memo to staff that small businesses have always been a big part of the company's business model, and that while tens of millions of entrepreneurs already use its pla"
-    },
-    {
-      "title": "Mark Zuckerberg and Jensen Huang are part of Trump\u2019s new \u2018tech panel\u2019",
-      "url": "https://www.theverge.com/policy/900340/trump-tech-panel-mark-zuckerberg-jensen-huang",
-      "source": "The Verge",
-      "publishedAt": "2026-03-25T14:41:21Z",
-      "snippet": "Meta CEO Mark Zuckerberg, Oracle CTO and executive chairman Larry Ellison, Nvidia CEO Jensen Huang, and Google cofounder Sergey Brin will be the first four members of the President's Council of Adviso"
-    },
-    {
-      "title": "Meta turns to AI to make shopping easier on Instagram and Facebook",
-      "url": "https://techcrunch.com/2026/03/25/meta-turns-to-ai-to-make-shopping-easier-on-instagram-and-facebook/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-03-25T14:16:17Z",
-      "snippet": "Meta is using generative AI to provide more product and brand information to consumers when they're shopping in its apps."
-    },
-    {
-      "title": "With Sift, two ex-SpaceX engineers are bringing the software that helped launch rockets to the factory floor",
-      "url": "https://techcrunch.com/2026/03/25/with-sift-stack-two-ex-spacex-engineers-are-bringing-the-software-that-helped-launch-rockets-to-the-factory-floor/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-03-25T13:00:00Z",
-      "snippet": "Sift is building the data infrastructure for advanced manufacturing."
     }
   ],
   "trending": [
