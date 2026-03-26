@@ -1,6 +1,13 @@
 {
-  "updated": "2026-03-26T02:00:11Z",
+  "updated": "2026-03-26T05:39:40Z",
   "news": [
+    {
+      "title": "The least surprising chapter of the Manus story is what\u2019s happening right now",
+      "url": "https://techcrunch.com/2026/03/25/the-least-surprising-chapter-of-the-manus-story-is-whats-happening-right-now/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-03-26T02:46:48Z",
+      "snippet": "Did anyone think there would not be a reckoning over this tie-up?"
+    },
     {
       "title": "Mercor competitor Deccan AI raises $25M, sources experts from India",
       "url": "https://techcrunch.com/2026/03/25/deccan-ai-raises-25m-as-ai-training-push-relies-on-india-based-workforce/",
@@ -156,13 +163,6 @@
       "snippet": "The fundraise includes $1 billion for investing in early-stage startups and $2.5 billion for late-stage growth businesses."
     },
     {
-      "title": "OpenAI\u2019s Sora was the creepiest app on your phone \u2014 now it\u2019s shutting down",
-      "url": "https://techcrunch.com/2026/03/24/openais-sora-was-the-creepiest-app-on-your-phone-now-its-shutting-down/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-03-24T23:57:55Z",
-      "snippet": "Though the underlying Sora 2 video- and audio-generation model is scarily impressive, there was not sustained interest in an AI-only social feed."
-    },
-    {
       "title": "OpenAI just gave up on Sora and its billion-dollar Disney deal",
       "url": "https://www.theverge.com/ai-artificial-intelligence/899850/openai-sora-ai-chatgpt",
       "source": "The Verge",
@@ -204,11 +204,6 @@
       "downloads": 418903
     },
     {
-      "id": "Tesslate/OmniCoder-9B-GGUF",
-      "displayName": "OmniCoder 9B",
-      "downloads": 60434
-    },
-    {
       "id": "Jackrong/Qwen3.5-4B-Claude-4.6-Opus-Reasoning-Distilled-v2-GGUF",
       "displayName": "Qwen3.5 4B Claude 4.6 Opus Reasoning Distilled v2",
       "downloads": 24127
@@ -222,6 +217,11 @@
       "id": "Jackrong/Qwen3.5-9B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
       "displayName": "Qwen3.5 9B Claude 4.6 Opus Reasoning Distilled",
       "downloads": 149497
+    },
+    {
+      "id": "Tesslate/OmniCoder-9B-GGUF",
+      "displayName": "OmniCoder 9B",
+      "downloads": 60434
     },
     {
       "id": "HauhauCS/Qwen3.5-27B-Uncensored-HauhauCS-Aggressive",
