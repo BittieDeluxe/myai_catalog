@@ -1,12 +1,33 @@
 {
-  "updated": "2026-03-26T15:00:36Z",
+  "updated": "2026-03-26T16:56:51Z",
   "news": [
+    {
+      "title": "Meta gets ready to launch two new Ray-Ban AI glasses",
+      "url": "https://www.theverge.com/column/901314/meta-new-ray-ban-ai-glasses",
+      "source": "The Verge",
+      "publishedAt": "2026-03-26T16:30:00Z",
+      "snippet": "This is Lowpass by Janko Roettgers, a newsletter on the ever-evolving intersection of tech and entertainment, syndicated just for The Verge subscribers once a week. Meta and its AI glasses hardware pa"
+    },
+    {
+      "title": "ByteDance\u2019s new AI video generation model, Dreamina Seedance 2.0, comes to CapCut",
+      "url": "https://techcrunch.com/2026/03/26/bytedances-new-ai-video-generation-model-dreamina-seedance-2-0-comes-to-capcut/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-03-26T15:25:13Z",
+      "snippet": "The new model in CapCut will have built-in protections for making video from real faces or unauthorized intellectual property."
+    },
+    {
+      "title": "Wikipedia bans AI-generated articles",
+      "url": "https://www.theverge.com/tech/901461/wikipedia-ai-generated-article-ban",
+      "source": "The Verge",
+      "publishedAt": "2026-03-26T15:02:52Z",
+      "snippet": "Wikipedia will no longer allow editors to write or rewrite articles using AI. The update, which was added to Wikipedia's guidelines late last week, cites the tendency for AI-written articles to violat"
+    },
     {
       "title": "Senators are pushing to find out how much electricity data centers actually use",
       "url": "https://www.theverge.com/policy/901404/senators-warren-hawley-eia-letter-data-centers",
       "source": "The Verge",
       "publishedAt": "2026-03-26T14:25:32Z",
-      "snippet": "On Thursday, senators Elizabeth Warren (D-MA) and Josh Hawley (R-MO) sent a letter to the Energy Information Administration (EIA) urging it to begin collecting \"comprehensive, annual energy-use disclo"
+      "snippet": "On Thursday, senators Elizabeth Warren (D-MA) and Josh Hawley (R-MO) sent a letter to the Energy Information Administration (EIA) asking it to collect \"comprehensive, annual energy-use disclosures\" on"
     },
     {
       "title": "Conntour raises $7M from General Catalyst, YC to build an AI search engine for security video systems",
@@ -16,7 +37,7 @@
       "snippet": "Conntour uses AI models to let security teams query camera feeds using natural language to find any object, person, or situation."
     },
     {
-      "title": "Cohere launches an open-source voice model specifically for transcription",
+      "title": "Cohere launches an open source voice model specifically for transcription",
       "url": "https://techcrunch.com/2026/03/26/cohere-launches-an-open-source-voice-model-specifically-for-transcription/",
       "source": "TechCrunch",
       "publishedAt": "2026-03-26T13:30:00Z",
@@ -51,11 +72,11 @@
       "snippet": "OpenAI &#8203;has paused plans to release a sexualized \"adult mode\" for ChatGPT, in its latest move to refocus on the company's core &#8203;products. According to The Financial Times, the erotic chatb"
     },
     {
-      "title": "Mistral releases a new open-source model for speech generation",
+      "title": "Mistral releases a new open source model for speech generation",
       "url": "https://techcrunch.com/2026/03/26/mistral-releases-a-new-open-source-model-for-speech-generation/",
       "source": "TechCrunch",
       "publishedAt": "2026-03-26T11:30:00Z",
-      "snippet": "Mistral's new speech model can run on a smartwatch or a smartphone."
+      "snippet": "The model, which lets enterprises build voice agents for sales and customer engagement, puts Mistral in direct competition with the likes of ElevenLabs, Deepgram, and OpenAI."
     },
     {
       "title": "The least surprising chapter of the Manus story is what\u2019s happening right now",
@@ -142,13 +163,6 @@
       "snippet": "Reddit will require suspected automated accounts to verify they\u2019re human, as it ramps up efforts to curb bot-driven spam and manipulation."
     },
     {
-      "title": "Google Lyria 3 Pro makes longer AI songs",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/900425/google-lyria-3-pro-ai-music",
-      "source": "The Verge",
-      "publishedAt": "2026-03-25T16:00:00Z",
-      "snippet": "Google is expanding the capabilities of its Lyria 3 music-making AI, enabling it to create tracks up to three minutes long and from within multiple other Google Products. Until now, Lyria had been lim"
-    },
-    {
       "title": "Harvey confirms $11B valuation: Sequoia triples down",
       "url": "https://techcrunch.com/2026/03/25/harvey-confirms-11b-valuation-sequoia-triples-down/",
       "source": "TechCrunch",
@@ -156,25 +170,11 @@
       "snippet": "Investors like Sequoia, Andreessen Horowitz,  Kleiner Perkins, and Elad Gil can't get enough of AI legal tech startup Harvey."
     },
     {
-      "title": "Senate Democrats are trying to \u2018codify\u2019 Anthropic&#8217;s red lines on autonomous weapons and mass surveillance",
-      "url": "https://www.theverge.com/policy/900341/senator-schiff-anthropic-autonomous-weapons-mass-surveillance",
-      "source": "The Verge",
-      "publishedAt": "2026-03-25T15:05:46Z",
-      "snippet": "Anthropic's fight with the Pentagon is expanding to Congress. Sen. Adam Schiff (D-CA) is working on a new bill to \"codify\" Anthropic's red lines and ensure humans make the ultimate decisions in questi"
-    },
-    {
       "title": "Granola raises $125M, hits $1.5B valuation as it expands from meeting notetaker to enterprise AI app",
       "url": "https://techcrunch.com/2026/03/25/granola-raises-125m-hits-1-5b-valuation-as-it-expands-from-meeting-notetaker-to-enterprise-ai-app/",
       "source": "TechCrunch",
       "publishedAt": "2026-03-25T14:48:40Z",
       "snippet": "Granola's valuation jumped from $250 million to $1.5 billion with this round, and it has added more support for AI agents after users previously complained."
-    },
-    {
-      "title": "Meta launches new initiative to support entrepreneurship, drive AI adoption",
-      "url": "https://techcrunch.com/2026/03/25/meta-launches-new-initiative-to-support-entrepreneurship-drive-ai-adoption/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-03-25T14:45:20Z",
-      "snippet": "Meta CEO Mark Zuckerberg said in a memo to staff that small businesses have always been a big part of the company's business model, and that while tens of millions of entrepreneurs already use its pla"
     }
   ],
   "trending": [
