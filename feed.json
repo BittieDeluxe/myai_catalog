@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-26T19:00:28Z",
+  "updated": "2026-03-26T20:32:27Z",
   "news": [
     {
       "title": "Google&#8217;s &#8216;live&#8217; AI search assistant can handle conversations in dozens more languages",
@@ -13,7 +13,7 @@
       "url": "https://techcrunch.com/2026/03/26/openai-abandons-yet-another-side-quest-chatgpts-erotic-mode/",
       "source": "TechCrunch",
       "publishedAt": "2026-03-26T18:34:02Z",
-      "snippet": "It's only the latest of several side project that the AI startup has ditched over the past week."
+      "snippet": "It's only the latest of several side projects that the AI startup has ditched over the past week."
     },
     {
       "title": "Data centers get ready \u2014 the Senate wants to see your power bills",
@@ -224,9 +224,9 @@
       "downloads": 53600
     },
     {
-      "id": "Tesslate/OmniCoder-9B-GGUF",
-      "displayName": "OmniCoder 9B",
-      "downloads": 64426
+      "id": "HauhauCS/Qwen3.5-27B-Uncensored-HauhauCS-Aggressive",
+      "displayName": "Qwen3.5 27B Uncensored HauhauCS Aggressive",
+      "downloads": 191830
     }
   ]
 }
