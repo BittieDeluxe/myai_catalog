@@ -1,6 +1,27 @@
 {
-  "updated": "2026-03-26T16:56:51Z",
+  "updated": "2026-03-26T19:00:28Z",
   "news": [
+    {
+      "title": "Google&#8217;s &#8216;live&#8217; AI search assistant can handle conversations in dozens more languages",
+      "url": "https://www.theverge.com/tech/901816/google-search-live-ai-assistant-expansion",
+      "source": "The Verge",
+      "publishedAt": "2026-03-26T18:47:51Z",
+      "snippet": "Google is expanding access to Search Live, a feature that lets you search for information using your voice and camera. The AI search assistant is now available in more than 200 countries and territori"
+    },
+    {
+      "title": "OpenAI abandons yet another side quest: ChatGPT\u2019s erotic mode",
+      "url": "https://techcrunch.com/2026/03/26/openai-abandons-yet-another-side-quest-chatgpts-erotic-mode/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-03-26T18:34:02Z",
+      "snippet": "It's only the latest of several side project that the AI startup has ditched over the past week."
+    },
+    {
+      "title": "Data centers get ready \u2014 the Senate wants to see your power bills",
+      "url": "https://techcrunch.com/2026/03/26/data-centers-get-ready-the-senate-wants-to-see-your-power-bills/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-03-26T18:23:31Z",
+      "snippet": "Senators Josh Hawley and Elizabeth Warren want the Energy Information Administration to gather more details about how data centers use power \u2014\u00a0and how that affects the grid."
+    },
     {
       "title": "Meta gets ready to launch two new Ray-Ban AI glasses",
       "url": "https://www.theverge.com/column/901314/meta-new-ray-ban-ai-glasses",
@@ -58,7 +79,7 @@
       "snippet": "European lawmakers have voted to delay key parts of the EU AI Act, the bloc's flagship law for regulating artificial intelligence, while also backing proposals to ban nudify apps. The measures, approv"
     },
     {
-      "title": "A \u2018pound of flesh\u2019 from data centers: one senator\u2019s answer to AI job losses",
+      "title": "A \u2018pound of flesh\u2019 from data centers: One senator\u2019s answer to AI job losses",
       "url": "https://techcrunch.com/2026/03/26/a-pound-of-flesh-from-data-centers-one-senators-answer-to-ai-job-losses/",
       "source": "TechCrunch",
       "publishedAt": "2026-03-26T12:00:00Z",
@@ -149,32 +170,11 @@
       "snippet": "Google is launching Lyria 3 Pro, an upgraded music model that generates longer, more customizable tracks, as it expands AI music tools across Gemini, enterprise products, and other services."
     },
     {
-      "title": "Reddit accounts with \u2018fishy\u2019 bot-like behavior will soon need to prove they\u2019re human",
-      "url": "https://www.theverge.com/tech/900363/reddit-human-verification-bots-crackdown",
-      "source": "The Verge",
-      "publishedAt": "2026-03-25T16:10:00Z",
-      "snippet": "Reddit is taking new steps to identify bots on the platform - a process that may require some users to confirm that they're human. In a post on Wednesday, Reddit CEO Steve Huffman writes that the comp"
-    },
-    {
       "title": "Reddit takes on the bots with new \u2018human verification\u2019 requirements for fishy behavior",
       "url": "https://techcrunch.com/2026/03/25/reddit-bots-new-human-verification-requirements/",
       "source": "TechCrunch",
       "publishedAt": "2026-03-25T16:10:00Z",
       "snippet": "Reddit will require suspected automated accounts to verify they\u2019re human, as it ramps up efforts to curb bot-driven spam and manipulation."
-    },
-    {
-      "title": "Harvey confirms $11B valuation: Sequoia triples down",
-      "url": "https://techcrunch.com/2026/03/25/harvey-confirms-11b-valuation-sequoia-triples-down/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-03-25T15:27:15Z",
-      "snippet": "Investors like Sequoia, Andreessen Horowitz,  Kleiner Perkins, and Elad Gil can't get enough of AI legal tech startup Harvey."
-    },
-    {
-      "title": "Granola raises $125M, hits $1.5B valuation as it expands from meeting notetaker to enterprise AI app",
-      "url": "https://techcrunch.com/2026/03/25/granola-raises-125m-hits-1-5b-valuation-as-it-expands-from-meeting-notetaker-to-enterprise-ai-app/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-03-25T14:48:40Z",
-      "snippet": "Granola's valuation jumped from $250 million to $1.5 billion with this round, and it has added more support for AI agents after users previously complained."
     }
   ],
   "trending": [
@@ -189,14 +189,14 @@
       "downloads": 57056
     },
     {
-      "id": "Jackrong/Qwen3.5-9B-Claude-4.6-Opus-Reasoning-Distilled-v2-GGUF",
-      "displayName": "Qwen3.5 9B Claude 4.6 Opus Reasoning Distilled v2",
-      "downloads": 66854
-    },
-    {
       "id": "Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
       "displayName": "Qwen3.5 27B Claude 4.6 Opus Reasoning Distilled",
       "downloads": 510875
+    },
+    {
+      "id": "Jackrong/Qwen3.5-9B-Claude-4.6-Opus-Reasoning-Distilled-v2-GGUF",
+      "displayName": "Qwen3.5 9B Claude 4.6 Opus Reasoning Distilled v2",
+      "downloads": 66854
     },
     {
       "id": "HauhauCS/Qwen3.5-9B-Uncensored-HauhauCS-Aggressive",
@@ -204,14 +204,14 @@
       "downloads": 439617
     },
     {
-      "id": "RuneXX/LTX-2.3-Workflows",
-      "displayName": "LTX 2.3 Workflows",
-      "downloads": 0
-    },
-    {
       "id": "Jackrong/Qwen3.5-4B-Claude-4.6-Opus-Reasoning-Distilled-v2-GGUF",
       "displayName": "Qwen3.5 4B Claude 4.6 Opus Reasoning Distilled v2",
       "downloads": 28237
+    },
+    {
+      "id": "RuneXX/LTX-2.3-Workflows",
+      "displayName": "LTX 2.3 Workflows",
+      "downloads": 0
     },
     {
       "id": "Jackrong/Qwen3.5-9B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
@@ -219,14 +219,14 @@
       "downloads": 158473
     },
     {
-      "id": "Tesslate/OmniCoder-9B-GGUF",
-      "displayName": "OmniCoder 9B",
-      "downloads": 64426
-    },
-    {
       "id": "HauhauCS/Qwen3.5-122B-A10B-Uncensored-HauhauCS-Aggressive",
       "displayName": "Qwen3.5 122B A10B Uncensored HauhauCS Aggressive",
       "downloads": 53600
+    },
+    {
+      "id": "Tesslate/OmniCoder-9B-GGUF",
+      "displayName": "OmniCoder 9B",
+      "downloads": 64426
     }
   ]
 }
