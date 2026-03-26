@@ -1,6 +1,34 @@
 {
-  "updated": "2026-03-26T20:32:27Z",
+  "updated": "2026-03-26T22:25:42Z",
   "news": [
+    {
+      "title": "Wikipedia cracks down on the use of AI in article writing",
+      "url": "https://techcrunch.com/2026/03/26/wikipedia-cracks-down-on-the-use-of-ai-in-article-writing/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-03-26T21:50:10Z",
+      "snippet": "The site, whose policies are subject to change, has struggled with the issue of AI-generated writing."
+    },
+    {
+      "title": "Google is making it easier to import another AI\u2019s memory into Gemini",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/902085/google-gemini-import-memory-chat-history",
+      "source": "The Verge",
+      "publishedAt": "2026-03-26T21:44:37Z",
+      "snippet": "Google is rolling out two new Gemini tools on Thursday which could attract users who are thinking about switching their preferred AI chatbot but don't want to \"retrain\" a new AI. Gemini's new \"Import "
+    },
+    {
+      "title": "Apple will reportedly allow other AI chatbots to plug into Siri",
+      "url": "https://www.theverge.com/tech/902048/apple-siri-ai-chatbot-update-ios-27",
+      "source": "The Verge",
+      "publishedAt": "2026-03-26T21:31:27Z",
+      "snippet": "Apple's iOS 27 update will allow users to choose the AI chatbot they want to link with Siri. That's according to a report from Bloomberg's Mark Gurman, who says third-party chatbots downloaded from th"
+    },
+    {
+      "title": "Apple\u2019s AI Playlist Playground is bad at music",
+      "url": "https://www.theverge.com/report/902005/apple-ai-playlist-playground-bad-at-music",
+      "source": "The Verge",
+      "publishedAt": "2026-03-26T20:51:31Z",
+      "snippet": "Apple Music: \"What do you want to hear?\" Me: \"Atmospheric instrumental black metal to write to.\" Apple Music: \"Here's three metal songs with vocals, a field recording, an ambient electronic track, and"
+    },
     {
       "title": "Google&#8217;s &#8216;live&#8217; AI search assistant can handle conversations in dozens more languages",
       "url": "https://www.theverge.com/tech/901816/google-search-live-ai-assistant-expansion",
@@ -79,7 +107,7 @@
       "snippet": "European lawmakers have voted to delay key parts of the EU AI Act, the bloc's flagship law for regulating artificial intelligence, while also backing proposals to ban nudify apps. The measures, approv"
     },
     {
-      "title": "A \u2018pound of flesh\u2019 from data centers: One senator\u2019s answer to AI job losses",
+      "title": "A \u2018pound of flesh\u2019 from data centers: one senator\u2019s answer to AI job losses",
       "url": "https://techcrunch.com/2026/03/26/a-pound-of-flesh-from-data-centers-one-senators-answer-to-ai-job-losses/",
       "source": "TechCrunch",
       "publishedAt": "2026-03-26T12:00:00Z",
@@ -121,13 +149,6 @@
       "snippet": "Anthropic finds AI isn\u2019t replacing jobs yet, but early data shows growing inequality as experienced users gain an edge, raising concerns about future displacement and workforce divides."
     },
     {
-      "title": "Meta is laying off hundreds of employees as it pours money into AI",
-      "url": "https://www.theverge.com/tech/900946/meta-layoffs-hundreds-employees",
-      "source": "The Verge",
-      "publishedAt": "2026-03-25T21:10:32Z",
-      "snippet": "Meta is laying off hundreds of employees across its company, according to reports from The New York Times, NBC News, and The Information. The job cuts impact workers on Meta's recruiting, social media"
-    },
-    {
       "title": "Google unveils TurboQuant, a new AI memory compression algorithm \u2014\u00a0and yes, the internet is calling it \u2018Pied Piper\u2019",
       "url": "https://techcrunch.com/2026/03/25/google-turboquant-ai-memory-compression-silicon-valley-pied-piper/",
       "source": "TechCrunch",
@@ -135,25 +156,11 @@
       "snippet": "Google\u2019s TurboQuant has the internet joking about Pied Piper from HBO's \"Silicon Valley.\" The compression algorithm promises to shrink AI\u2019s \u201cworking memory\u201d by up to 6x, but it\u2019s still just a lab expe"
     },
     {
-      "title": "Disney\u2019s big bets on the metaverse and AI slop aren\u2019t going so well",
-      "url": "https://www.theverge.com/streaming/900837/disney-open-ai-sora-epic-fortnite-metaverse",
-      "source": "The Verge",
-      "publishedAt": "2026-03-25T20:02:48Z",
-      "snippet": "Less than a week into his tenure as Disney's newly appointed CEO, Josh D'Amaro, is already dealing with two separate crises that have cast a shadow over the company's future plans. OpenAI is shutting "
-    },
-    {
       "title": "Melania Trump wants a robot to homeschool your child",
       "url": "https://techcrunch.com/2026/03/25/melania-trump-wants-a-robot-to-homeschool-your-child/",
       "source": "TechCrunch",
       "publishedAt": "2026-03-25T18:55:41Z",
       "snippet": "The first lady sees AI and robotics playing a prominent role in the future of American education."
-    },
-    {
-      "title": "Can you monitor a situation without monitors? The Polymarket sports bar tried",
-      "url": "https://www.theverge.com/column/900536/alliance-for-a-better-future-polymarket",
-      "source": "The Verge",
-      "publishedAt": "2026-03-25T18:19:32Z",
-      "snippet": "Hello and welcome to Regulator, a newsletter for Verge readers who are political junkies, and Washington insiders hooked on technology. If this email has been forwarded to you but you're not a subscri"
     },
     {
       "title": "Bernie Sanders and AOC propose a ban on data center construction",
@@ -168,13 +175,6 @@
       "source": "TechCrunch",
       "publishedAt": "2026-03-25T16:37:43Z",
       "snippet": "Google is launching Lyria 3 Pro, an upgraded music model that generates longer, more customizable tracks, as it expands AI music tools across Gemini, enterprise products, and other services."
-    },
-    {
-      "title": "Reddit takes on the bots with new \u2018human verification\u2019 requirements for fishy behavior",
-      "url": "https://techcrunch.com/2026/03/25/reddit-bots-new-human-verification-requirements/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-03-25T16:10:00Z",
-      "snippet": "Reddit will require suspected automated accounts to verify they\u2019re human, as it ramps up efforts to curb bot-driven spam and manipulation."
     }
   ],
   "trending": [
