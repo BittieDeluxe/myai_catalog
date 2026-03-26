@@ -1,6 +1,41 @@
 {
-  "updated": "2026-03-26T10:50:07Z",
+  "updated": "2026-03-26T13:05:59Z",
   "news": [
+    {
+      "title": "Webtoon is adding AI localization tools to its comics platform",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/899108/webtoon-canvas-ai-translation-localization-yongsoo-kim",
+      "source": "The Verge",
+      "publishedAt": "2026-03-26T13:00:00Z",
+      "snippet": "Canvas, Webtoon's platform for user-uploaded comics, is about to get a major overhaul that's designed to help creators make more money and share their art with a wider audience. Today, Webtoon announc"
+    },
+    {
+      "title": "EU backs nude app ban and delays to landmark AI rules",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/901315/eu-ai-act-delays-ban-nudify-apps",
+      "source": "The Verge",
+      "publishedAt": "2026-03-26T12:49:01Z",
+      "snippet": "European lawmakers have voted to delay key parts of the EU AI Act, the bloc's flagship law for regulating artificial intelligence, while also backing proposals to ban nudify apps. The measures, approv"
+    },
+    {
+      "title": "A \u2018pound of flesh\u2019 from data centers: one senator\u2019s answer to AI job losses",
+      "url": "https://techcrunch.com/2026/03/26/a-pound-of-flesh-from-data-centers-one-senators-answer-to-ai-job-losses/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-03-26T12:00:00Z",
+      "snippet": "Fears of AI-driven job loss are growing fast, and they\u2019re fueling backlash against data centers. Sen. Mark Warner suggests taxing them to help workers survive the transition."
+    },
+    {
+      "title": "OpenAI shelves erotic chatbot &#8216;indefinitely&#8217;",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/901293/openai-adult-mode-erotic-chatbot-shelved-indefinitely",
+      "source": "The Verge",
+      "publishedAt": "2026-03-26T11:58:09Z",
+      "snippet": "OpenAI &#8203;has paused plans to release a sexualized \"adult mode\" for ChatGPT, in its latest move to refocus on the company's core &#8203;products. According to The Financial Times, the erotic chatb"
+    },
+    {
+      "title": "Mistral releases a new open-source model for speech generation",
+      "url": "https://techcrunch.com/2026/03/26/mistral-releases-a-new-open-source-model-for-speech-generation/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-03-26T11:30:00Z",
+      "snippet": "Mistral's new speech model can run on a smartwatch or a smartphone."
+    },
     {
       "title": "The least surprising chapter of the Manus story is what\u2019s happening right now",
       "url": "https://techcrunch.com/2026/03/25/the-least-surprising-chapter-of-the-manus-story-is-whats-happening-right-now/",
@@ -140,41 +175,6 @@
       "source": "TechCrunch",
       "publishedAt": "2026-03-25T13:00:00Z",
       "snippet": "Sift is building the data infrastructure for advanced manufacturing."
-    },
-    {
-      "title": "Anthropic\u2019s Claude Code gets \u2018safer\u2019 auto mode",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/900201/anthropic-claude-code-auto-mode",
-      "source": "The Verge",
-      "publishedAt": "2026-03-25T11:39:46Z",
-      "snippet": "Anthropic has launched an \"auto mode\" for Claude Code, a new tool that lets AI make permissions-level decisions on users' behalf. The company says the feature offers vibe coders a safer alternative be"
-    },
-    {
-      "title": "Lucid Bots raises $20M to keep up with demand for its\u00a0window-washing drones",
-      "url": "https://techcrunch.com/2026/03/25/lucid-bots-raises-20m-to-keep-up-with-demand-for-its-window-washing-drones/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-03-25T11:00:00Z",
-      "snippet": "Lucid Bots has seen demand accelerate over the last year for its window-cleaning drones and power-washing robots."
-    },
-    {
-      "title": "With $3.5B in fresh capital, Kleiner Perkins is going all in on AI",
-      "url": "https://techcrunch.com/2026/03/24/with-3-5b-in-fresh-capital-kleiner-perkins-is-going-all-in-on-ai/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-03-25T00:47:20Z",
-      "snippet": "The fundraise includes $1 billion for investing in early-stage startups and $2.5 billion for late-stage growth businesses."
-    },
-    {
-      "title": "OpenAI just gave up on Sora and its billion-dollar Disney deal",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/899850/openai-sora-ai-chatgpt",
-      "source": "The Verge",
-      "publishedAt": "2026-03-24T21:08:10Z",
-      "snippet": "On Tuesday afternoon, OpenAI announced \"We're saying goodbye to Sora,\" the video generation tool that it launched at the end of 2024, and centered in a massive licensing deal with Disney only a few mo"
-    },
-    {
-      "title": "Arm\u2019s first CPU ever will plug into Meta\u2019s AI data centers later this year",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/899823/arm-agi-cpu-meta",
-      "source": "The Verge",
-      "publishedAt": "2026-03-24T20:43:14Z",
-      "snippet": "After decades of only licensing its chip designs for others to use, UK-based Arm revealed the first chip it's producing on its own, and the first customer. Dubbed the Arm AGI CPU, it's another chip de"
     }
   ],
   "trending": [
@@ -204,14 +204,14 @@
       "downloads": 439617
     },
     {
-      "id": "Jackrong/Qwen3.5-4B-Claude-4.6-Opus-Reasoning-Distilled-v2-GGUF",
-      "displayName": "Qwen3.5 4B Claude 4.6 Opus Reasoning Distilled v2",
-      "downloads": 28237
-    },
-    {
       "id": "RuneXX/LTX-2.3-Workflows",
       "displayName": "LTX 2.3 Workflows",
       "downloads": 0
+    },
+    {
+      "id": "Jackrong/Qwen3.5-4B-Claude-4.6-Opus-Reasoning-Distilled-v2-GGUF",
+      "displayName": "Qwen3.5 4B Claude 4.6 Opus Reasoning Distilled v2",
+      "downloads": 28237
     },
     {
       "id": "Jackrong/Qwen3.5-9B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
