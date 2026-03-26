@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-26T08:49:53Z",
+  "updated": "2026-03-26T10:50:07Z",
   "news": [
     {
       "title": "The least surprising chapter of the Manus story is what\u2019s happening right now",
@@ -41,7 +41,7 @@
       "url": "https://www.theverge.com/streaming/900837/disney-open-ai-sora-epic-fortnite-metaverse",
       "source": "The Verge",
       "publishedAt": "2026-03-25T20:02:48Z",
-      "snippet": "Less than a week into his tenure as Disney's newly-appointed CEO, Josh D'Amaro is already dealing with two separate crises that have cast a shadow over the company's future plans. OpenAI is shutting d"
+      "snippet": "Less than a week into his tenure as Disney's newly appointed CEO, Josh D'Amaro, is already dealing with two separate crises that have cast a shadow over the company's future plans. OpenAI is shutting "
     },
     {
       "title": "Melania Trump wants a robot to homeschool your child",
@@ -204,14 +204,14 @@
       "downloads": 439617
     },
     {
-      "id": "RuneXX/LTX-2.3-Workflows",
-      "displayName": "LTX 2.3 Workflows",
-      "downloads": 0
-    },
-    {
       "id": "Jackrong/Qwen3.5-4B-Claude-4.6-Opus-Reasoning-Distilled-v2-GGUF",
       "displayName": "Qwen3.5 4B Claude 4.6 Opus Reasoning Distilled v2",
       "downloads": 28237
+    },
+    {
+      "id": "RuneXX/LTX-2.3-Workflows",
+      "displayName": "LTX 2.3 Workflows",
+      "downloads": 0
     },
     {
       "id": "Jackrong/Qwen3.5-9B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
@@ -224,9 +224,9 @@
       "downloads": 64426
     },
     {
-      "id": "HauhauCS/Qwen3.5-27B-Uncensored-HauhauCS-Aggressive",
-      "displayName": "Qwen3.5 27B Uncensored HauhauCS Aggressive",
-      "downloads": 191830
+      "id": "HauhauCS/Qwen3.5-122B-A10B-Uncensored-HauhauCS-Aggressive",
+      "displayName": "Qwen3.5 122B A10B Uncensored HauhauCS Aggressive",
+      "downloads": 53600
     }
   ]
 }
