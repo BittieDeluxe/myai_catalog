@@ -1,6 +1,13 @@
 {
-  "updated": "2026-03-27T18:51:14Z",
+  "updated": "2026-03-27T20:34:42Z",
   "news": [
+    {
+      "title": "Memory chip giant SK hynix could help end \u2018RAMmageddon\u2019 with blockbuster US IPO",
+      "url": "https://techcrunch.com/2026/03/27/memory-chip-giant-sk-hynix-could-help-end-rammageddon-with-blockbuster-us-ipo/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-03-27T19:11:28Z",
+      "snippet": "SK hynix\u2019s potential U.S. listing could raise $10-$14 billion to help it build more capacity, encourage others to follow, and end the 'RAMmageddon' memory shortage."
+    },
     {
       "title": "The latest in data centers, AI, and energy",
       "url": "https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy",
@@ -168,13 +175,6 @@
       "source": "TechCrunch",
       "publishedAt": "2026-03-26T02:46:48Z",
       "snippet": "Did anyone think there would not be a reckoning over this tie-up?"
-    },
-    {
-      "title": "Mercor competitor Deccan AI raises $25M, sources experts from India",
-      "url": "https://techcrunch.com/2026/03/25/deccan-ai-raises-25m-as-ai-training-push-relies-on-india-based-workforce/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-03-26T00:30:00Z",
-      "snippet": "Deccan AI concentrates its workforce in India to manage quality in a fast-growing but fragmented AI training market."
     }
   ],
   "trending": [
