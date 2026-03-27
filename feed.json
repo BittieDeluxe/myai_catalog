@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-27T12:58:00Z",
+  "updated": "2026-03-27T14:46:10Z",
   "news": [
     {
       "title": "Anthropic wins injunction against Trump administration over Defense Department saga",
@@ -224,9 +224,9 @@
       "downloads": 58927
     },
     {
-      "id": "HauhauCS/Qwen3.5-27B-Uncensored-HauhauCS-Aggressive",
-      "displayName": "Qwen3.5 27B Uncensored HauhauCS Aggressive",
-      "downloads": 208861
+      "id": "unsloth/Qwen3.5-27B-GGUF",
+      "displayName": "Qwen3.5 27B",
+      "downloads": 957284
     }
   ]
 }
