@@ -1,6 +1,13 @@
 {
-  "updated": "2026-03-27T16:51:16Z",
+  "updated": "2026-03-27T18:51:14Z",
   "news": [
+    {
+      "title": "The latest in data centers, AI, and energy",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy",
+      "source": "The Verge",
+      "publishedAt": "2026-03-27T18:35:53Z",
+      "snippet": "Massive new data centers are the physical foundation for tech companies\u2019 hopes and dreams for AI. But the rush to expand warehouses full of energy-hungry servers has also kicked up fights across the w"
+    },
     {
       "title": "VCs are betting billions on AI\u2019s next wave, so why is OpenAI killing Sora?",
       "url": "https://techcrunch.com/podcast/vcs-are-betting-billions-on-ais-next-wave-so-why-is-openai-killing-sora/",
@@ -142,13 +149,6 @@
       "snippet": "Relatively light at just 2 billion parameters, the model is meant for use with consumer-grade GPUs for those who want to self-host it. It currently supports 14 languages."
     },
     {
-      "title": "Webtoon is adding AI localization tools to its comics platform",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/899108/webtoon-canvas-ai-translation-localization-yongsoo-kim",
-      "source": "The Verge",
-      "publishedAt": "2026-03-26T13:00:00Z",
-      "snippet": "Canvas, Webtoon's platform for user-uploaded comics, is about to get a major overhaul that's designed to help creators make more money and share their art with a wider audience. Today, Webtoon announc"
-    },
-    {
       "title": "A \u2018pound of flesh\u2019 from data centers: one senator\u2019s answer to AI job losses",
       "url": "https://techcrunch.com/2026/03/26/a-pound-of-flesh-from-data-centers-one-senators-answer-to-ai-job-losses/",
       "source": "TechCrunch",
@@ -209,14 +209,14 @@
       "downloads": 0
     },
     {
-      "id": "Jackrong/Qwen3.5-4B-Claude-4.6-Opus-Reasoning-Distilled-v2-GGUF",
-      "displayName": "Qwen3.5 4B Claude 4.6 Opus Reasoning Distilled v2",
-      "downloads": 33540
-    },
-    {
       "id": "Jackrong/Qwen3.5-9B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
       "displayName": "Qwen3.5 9B Claude 4.6 Opus Reasoning Distilled",
       "downloads": 168090
+    },
+    {
+      "id": "Jackrong/Qwen3.5-4B-Claude-4.6-Opus-Reasoning-Distilled-v2-GGUF",
+      "displayName": "Qwen3.5 4B Claude 4.6 Opus Reasoning Distilled v2",
+      "downloads": 33540
     },
     {
       "id": "HauhauCS/Qwen3.5-122B-A10B-Uncensored-HauhauCS-Aggressive",
