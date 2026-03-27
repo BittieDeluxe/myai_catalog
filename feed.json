@@ -1,6 +1,13 @@
 {
-  "updated": "2026-03-27T20:34:42Z",
+  "updated": "2026-03-27T22:28:13Z",
   "news": [
+    {
+      "title": "Why SoftBank\u2019s new $40B loan points to a 2026 OpenAI IPO",
+      "url": "https://techcrunch.com/2026/03/27/why-softbanks-new-40b-loan-points-to-a-2026-openai-ipo/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-03-27T21:44:45Z",
+      "snippet": "Wall Street giants JPMorgan and Goldman Sachs are extending a 12-month, unsecured loan to the Japanese conglomerate."
+    },
     {
       "title": "Memory chip giant SK hynix could help end \u2018RAMmageddon\u2019 with blockbuster US IPO",
       "url": "https://techcrunch.com/2026/03/27/memory-chip-giant-sk-hynix-could-help-end-rammageddon-with-blockbuster-us-ipo/",
@@ -168,13 +175,6 @@
       "source": "TechCrunch",
       "publishedAt": "2026-03-26T11:30:00Z",
       "snippet": "The model, which lets enterprises build voice agents for sales and customer engagement, puts Mistral in direct competition with the likes of ElevenLabs, Deepgram, and OpenAI."
-    },
-    {
-      "title": "The least surprising chapter of the Manus story is what\u2019s happening right now",
-      "url": "https://techcrunch.com/2026/03/25/the-least-surprising-chapter-of-the-manus-story-is-whats-happening-right-now/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-03-26T02:46:48Z",
-      "snippet": "Did anyone think there would not be a reckoning over this tie-up?"
     }
   ],
   "trending": [
@@ -219,14 +219,14 @@
       "downloads": 33540
     },
     {
-      "id": "HauhauCS/Qwen3.5-122B-A10B-Uncensored-HauhauCS-Aggressive",
-      "displayName": "Qwen3.5 122B A10B Uncensored HauhauCS Aggressive",
-      "downloads": 58927
-    },
-    {
       "id": "unsloth/Qwen3.5-27B-GGUF",
       "displayName": "Qwen3.5 27B",
       "downloads": 957284
+    },
+    {
+      "id": "HauhauCS/Qwen3.5-122B-A10B-Uncensored-HauhauCS-Aggressive",
+      "displayName": "Qwen3.5 122B A10B Uncensored HauhauCS Aggressive",
+      "downloads": 58927
     }
   ]
 }
