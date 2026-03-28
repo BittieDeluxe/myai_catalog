@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-28T08:34:45Z",
+  "updated": "2026-03-28T10:28:12Z",
   "news": [
     {
       "title": "Why SoftBank\u2019s new $40B loan points to a 2026 OpenAI IPO",
@@ -204,14 +204,14 @@
       "downloads": 481733
     },
     {
-      "id": "RuneXX/LTX-2.3-Workflows",
-      "displayName": "LTX 2.3 Workflows",
-      "downloads": 0
-    },
-    {
       "id": "Jackrong/Qwen3.5-9B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
       "displayName": "Qwen3.5 9B Claude 4.6 Opus Reasoning Distilled",
       "downloads": 175718
+    },
+    {
+      "id": "RuneXX/LTX-2.3-Workflows",
+      "displayName": "LTX 2.3 Workflows",
+      "downloads": 0
     },
     {
       "id": "unsloth/Qwen3.5-27B-GGUF",
