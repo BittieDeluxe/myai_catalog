@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-27T22:28:13Z",
+  "updated": "2026-03-28T01:52:14Z",
   "news": [
     {
       "title": "Why SoftBank\u2019s new $40B loan points to a 2026 OpenAI IPO",
@@ -219,14 +219,14 @@
       "downloads": 33540
     },
     {
-      "id": "unsloth/Qwen3.5-27B-GGUF",
-      "displayName": "Qwen3.5 27B",
-      "downloads": 957284
-    },
-    {
       "id": "HauhauCS/Qwen3.5-122B-A10B-Uncensored-HauhauCS-Aggressive",
       "displayName": "Qwen3.5 122B A10B Uncensored HauhauCS Aggressive",
       "downloads": 58927
+    },
+    {
+      "id": "unsloth/Qwen3.5-27B-GGUF",
+      "displayName": "Qwen3.5 27B",
+      "downloads": 957284
     }
   ]
 }
