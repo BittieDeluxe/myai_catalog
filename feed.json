@@ -1,6 +1,13 @@
 {
-  "updated": "2026-03-28T10:28:12Z",
+  "updated": "2026-03-28T12:46:46Z",
   "news": [
+    {
+      "title": "Why OpenAI killed Sora",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/902368/openai-sora-dead-ai-video-generation-competition",
+      "source": "The Verge",
+      "publishedAt": "2026-03-28T12:00:00Z",
+      "snippet": "On Tuesday morning, everything was business as usual at OpenAI. By the end of the day, the company had announced that it would scrap its video-generation app, Sora, and reverse plans for video generat"
+    },
     {
       "title": "Why SoftBank\u2019s new $40B loan points to a 2026 OpenAI IPO",
       "url": "https://techcrunch.com/2026/03/27/why-softbanks-new-40b-loan-points-to-a-2026-openai-ipo/",
@@ -142,13 +149,6 @@
       "snippet": "Wikipedia will no longer allow editors to write or rewrite articles using AI. The update, which was added to Wikipedia's guidelines late last week, cites the tendency for AI-written articles to violat"
     },
     {
-      "title": "Senators are pushing to find out how much electricity data centers actually use",
-      "url": "https://www.theverge.com/policy/901404/senators-warren-hawley-eia-letter-data-centers",
-      "source": "The Verge",
-      "publishedAt": "2026-03-26T14:25:32Z",
-      "snippet": "On Thursday, senators Elizabeth Warren (D-MA) and Josh Hawley (R-MO) sent a letter to the Energy Information Administration (EIA) asking it to collect \"comprehensive, annual energy-use disclosures\" on"
-    },
-    {
       "title": "Conntour raises $7M from General Catalyst, YC to build an AI search engine for security video systems",
       "url": "https://techcrunch.com/2026/03/26/conntour-raises-7m-from-general-catalyst-yc-to-build-an-ai-search-engine-for-security-video-systems/",
       "source": "TechCrunch",
@@ -204,24 +204,24 @@
       "downloads": 481733
     },
     {
-      "id": "Jackrong/Qwen3.5-9B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
-      "displayName": "Qwen3.5 9B Claude 4.6 Opus Reasoning Distilled",
-      "downloads": 175718
-    },
-    {
       "id": "RuneXX/LTX-2.3-Workflows",
       "displayName": "LTX 2.3 Workflows",
       "downloads": 0
     },
     {
-      "id": "unsloth/Qwen3.5-27B-GGUF",
-      "displayName": "Qwen3.5 27B",
-      "downloads": 949339
+      "id": "Jackrong/Qwen3.5-9B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
+      "displayName": "Qwen3.5 9B Claude 4.6 Opus Reasoning Distilled",
+      "downloads": 175718
     },
     {
       "id": "HauhauCS/Qwen3.5-122B-A10B-Uncensored-HauhauCS-Aggressive",
       "displayName": "Qwen3.5 122B A10B Uncensored HauhauCS Aggressive",
       "downloads": 62470
+    },
+    {
+      "id": "unsloth/Qwen3.5-27B-GGUF",
+      "displayName": "Qwen3.5 27B",
+      "downloads": 949339
     },
     {
       "id": "Jackrong/Qwen3.5-4B-Claude-4.6-Opus-Reasoning-Distilled-v2-GGUF",
