@@ -1,6 +1,13 @@
 {
-  "updated": "2026-03-28T16:29:02Z",
+  "updated": "2026-03-28T18:34:57Z",
   "news": [
+    {
+      "title": "Suno leans into customization with v5.5",
+      "url": "https://www.theverge.com/entertainment/903056/suno-ai-music-v5-5-model",
+      "source": "The Verge",
+      "publishedAt": "2026-03-28T18:33:10Z",
+      "snippet": "Suno just released one of its biggest updates yet with v5.5 of its AI music model. Where previous updates focused mostly on improving fidelity and creating more natural vocals, v5.5 is about giving us"
+    },
     {
       "title": "Elon Musk\u2019s last co-founder reportedly leaves xAI",
       "url": "https://techcrunch.com/2026/03/28/elon-musks-last-co-founder-reportedly-leaves-xai/",
@@ -16,7 +23,7 @@
       "snippet": "Estimates for total Claude consumer users are all over the map (we've seen figures ranging from 18 million to 30 million). Anthropic hasn't disclosed this data, but a spokesperson did tell TechCrunch "
     },
     {
-      "title": "TikTok&#8217;s policy for AI ads isn&#8217;t working",
+      "title": "Why can\u2019t TikTok identify AI generated ads when I can?",
       "url": "https://www.theverge.com/ai-artificial-intelligence/900400/tiktok-ai-ads-labels-samsung-disclosure",
       "source": "The Verge",
       "publishedAt": "2026-03-28T14:00:00Z",
@@ -149,13 +156,6 @@
       "snippet": "Senators Josh Hawley and Elizabeth Warren want the Energy Information Administration to gather more details about how data centers use power \u2014\u00a0and how that affects the grid."
     },
     {
-      "title": "Meta gets ready to launch two new Ray-Ban AI glasses",
-      "url": "https://www.theverge.com/column/901314/meta-new-ray-ban-ai-glasses",
-      "source": "The Verge",
-      "publishedAt": "2026-03-26T16:30:00Z",
-      "snippet": "This is Lowpass by Janko Roettgers, a newsletter on the ever-evolving intersection of tech and entertainment, syndicated just for The Verge subscribers once a week. Meta and its AI glasses hardware pa"
-    },
-    {
       "title": "ByteDance\u2019s new AI video generation model, Dreamina Seedance 2.0, comes to CapCut",
       "url": "https://techcrunch.com/2026/03/26/bytedances-new-ai-video-generation-model-dreamina-seedance-2-0-comes-to-capcut/",
       "source": "TechCrunch",
@@ -204,14 +204,14 @@
       "downloads": 481733
     },
     {
-      "id": "Jackrong/Qwen3.5-9B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
-      "displayName": "Qwen3.5 9B Claude 4.6 Opus Reasoning Distilled",
-      "downloads": 175718
-    },
-    {
       "id": "unsloth/Qwen3.5-27B-GGUF",
       "displayName": "Qwen3.5 27B",
       "downloads": 949339
+    },
+    {
+      "id": "Jackrong/Qwen3.5-9B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
+      "displayName": "Qwen3.5 9B Claude 4.6 Opus Reasoning Distilled",
+      "downloads": 175718
     },
     {
       "id": "RuneXX/LTX-2.3-Workflows",
