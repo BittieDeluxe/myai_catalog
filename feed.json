@@ -1,6 +1,20 @@
 {
-  "updated": "2026-03-28T12:46:46Z",
+  "updated": "2026-03-28T14:28:38Z",
   "news": [
+    {
+      "title": "Anthropic\u2019s Claude popularity with paying consumers is skyrocketing",
+      "url": "https://techcrunch.com/2026/03/28/anthropics-claude-popularity-with-paying-consumers-is-skyrocketing/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-03-28T14:15:00Z",
+      "snippet": "Estimates for total Claude consumer users are all over the map (we've seen figures ranging from 18 million to 30 million). Anthropic hasn't disclosed this data, but a spokesperson did tell TechCrunch "
+    },
+    {
+      "title": "TikTok&#8217;s policy for AI ads isn&#8217;t working",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/900400/tiktok-ai-ads-labels-samsung-disclosure",
+      "source": "The Verge",
+      "publishedAt": "2026-03-28T14:00:00Z",
+      "snippet": "I've been struggling to tell whether the ads appearing in my TikTok feeds have been made with generative AI tools. As someone who spends a great deal of time scrutinizing images and videos for the usu"
+    },
     {
       "title": "Why OpenAI killed Sora",
       "url": "https://www.theverge.com/ai-artificial-intelligence/902368/openai-sora-dead-ai-video-generation-competition",
@@ -142,13 +156,6 @@
       "snippet": "The new model in CapCut will have built-in protections for making video from real faces or unauthorized intellectual property."
     },
     {
-      "title": "Wikipedia bans AI-generated articles",
-      "url": "https://www.theverge.com/tech/901461/wikipedia-ai-generated-article-ban",
-      "source": "The Verge",
-      "publishedAt": "2026-03-26T15:02:52Z",
-      "snippet": "Wikipedia will no longer allow editors to write or rewrite articles using AI. The update, which was added to Wikipedia's guidelines late last week, cites the tendency for AI-written articles to violat"
-    },
-    {
       "title": "Conntour raises $7M from General Catalyst, YC to build an AI search engine for security video systems",
       "url": "https://techcrunch.com/2026/03/26/conntour-raises-7m-from-general-catalyst-yc-to-build-an-ai-search-engine-for-security-video-systems/",
       "source": "TechCrunch",
@@ -168,13 +175,6 @@
       "source": "TechCrunch",
       "publishedAt": "2026-03-26T12:00:00Z",
       "snippet": "Fears of AI-driven job loss are growing fast, and they\u2019re fueling backlash against data centers. Sen. Mark Warner suggests taxing them to help workers survive the transition."
-    },
-    {
-      "title": "Mistral releases a new open source model for speech generation",
-      "url": "https://techcrunch.com/2026/03/26/mistral-releases-a-new-open-source-model-for-speech-generation/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-03-26T11:30:00Z",
-      "snippet": "The model, which lets enterprises build voice agents for sales and customer engagement, puts Mistral in direct competition with the likes of ElevenLabs, Deepgram, and OpenAI."
     }
   ],
   "trending": [
@@ -209,6 +209,11 @@
       "downloads": 0
     },
     {
+      "id": "unsloth/Qwen3.5-27B-GGUF",
+      "displayName": "Qwen3.5 27B",
+      "downloads": 949339
+    },
+    {
       "id": "Jackrong/Qwen3.5-9B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
       "displayName": "Qwen3.5 9B Claude 4.6 Opus Reasoning Distilled",
       "downloads": 175718
@@ -217,11 +222,6 @@
       "id": "HauhauCS/Qwen3.5-122B-A10B-Uncensored-HauhauCS-Aggressive",
       "displayName": "Qwen3.5 122B A10B Uncensored HauhauCS Aggressive",
       "downloads": 62470
-    },
-    {
-      "id": "unsloth/Qwen3.5-27B-GGUF",
-      "displayName": "Qwen3.5 27B",
-      "downloads": 949339
     },
     {
       "id": "Jackrong/Qwen3.5-4B-Claude-4.6-Opus-Reasoning-Distilled-v2-GGUF",
