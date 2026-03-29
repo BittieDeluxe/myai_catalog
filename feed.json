@@ -1,6 +1,13 @@
 {
-  "updated": "2026-03-29T20:27:30Z",
+  "updated": "2026-03-29T22:26:44Z",
   "news": [
+    {
+      "title": "Bluesky\u2019s new app is an AI for customizing your feed",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/903190/bluesky-attie-ai-custom-feeds",
+      "source": "The Verge",
+      "publishedAt": "2026-03-29T21:44:41Z",
+      "snippet": "The latest app from the team behind Bluesky is Attie, an AI assistant that lets you build your own algorithm. At the Atmosphere conference, Bluesky's former CEO, Jay Graber, and CTO Paul Frazee, unvei"
+    },
     {
       "title": "Sora\u2019s shutdown could be a reality check moment for AI video",
       "url": "https://techcrunch.com/2026/03/29/soras-shutdown-could-be-a-reality-check-moment-for-ai-video/",
@@ -154,13 +161,6 @@
       "source": "The Verge",
       "publishedAt": "2026-03-26T20:51:31Z",
       "snippet": "Apple Music: \"What do you want to hear?\" Me: \"Atmospheric instrumental black metal to write to.\" Apple Music: \"Here's three metal songs with vocals, a field recording, an ambient electronic track, and"
-    },
-    {
-      "title": "Google&#8217;s &#8216;live&#8217; AI search assistant can handle conversations in dozens more languages",
-      "url": "https://www.theverge.com/tech/901816/google-search-live-ai-assistant-expansion",
-      "source": "The Verge",
-      "publishedAt": "2026-03-26T18:47:51Z",
-      "snippet": "Google is expanding access to Search Live, a feature that lets you search for information using your voice and camera. The AI search assistant is now available in more than 200 countries and territori"
     },
     {
       "title": "OpenAI abandons yet another side quest: ChatGPT\u2019s erotic mode",
