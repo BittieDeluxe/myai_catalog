@@ -1,6 +1,13 @@
 {
-  "updated": "2026-03-30T02:06:09Z",
+  "updated": "2026-03-30T05:56:52Z",
   "news": [
+    {
+      "title": "Why OpenAI really shut down Sora",
+      "url": "https://techcrunch.com/2026/03/29/why-openai-really-shut-down-sora/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-03-30T03:09:38Z",
+      "snippet": "OpenAI's decision last week to shut down Sora, its AI video-generation tool, just six months after releasing it to the public raised immediate suspicions. The app had invited users to upload their own"
+    },
     {
       "title": "All the latest in AI &#8216;music&#8217;",
       "url": "https://www.theverge.com/ai-artificial-intelligence/903196/ai-music-suno-udio-art-lawsuit",
@@ -168,13 +175,6 @@
       "source": "TechCrunch",
       "publishedAt": "2026-03-26T18:34:02Z",
       "snippet": "It's only the latest of several side projects that the AI startup has ditched over the past week."
-    },
-    {
-      "title": "Data centers get ready \u2014 the Senate wants to see your power bills",
-      "url": "https://techcrunch.com/2026/03/26/data-centers-get-ready-the-senate-wants-to-see-your-power-bills/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-03-26T18:23:31Z",
-      "snippet": "Senators Josh Hawley and Elizabeth Warren want the Energy Information Administration to gather more details about how data centers use power \u2014\u00a0and how that affects the grid."
     }
   ],
   "trending": [
@@ -194,14 +194,14 @@
       "downloads": 639881
     },
     {
-      "id": "Jackrong/Qwen3.5-9B-Claude-4.6-Opus-Reasoning-Distilled-v2-GGUF",
-      "displayName": "Qwen3.5 9B Claude 4.6 Opus Reasoning Distilled v2",
-      "downloads": 101422
-    },
-    {
       "id": "HauhauCS/Qwen3.5-9B-Uncensored-HauhauCS-Aggressive",
       "displayName": "Qwen3.5 9B Uncensored HauhauCS Aggressive",
       "downloads": 505084
+    },
+    {
+      "id": "Jackrong/Qwen3.5-9B-Claude-4.6-Opus-Reasoning-Distilled-v2-GGUF",
+      "displayName": "Qwen3.5 9B Claude 4.6 Opus Reasoning Distilled v2",
+      "downloads": 101422
     },
     {
       "id": "unsloth/Qwen3.5-27B-GGUF",
