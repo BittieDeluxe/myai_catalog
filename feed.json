@@ -1,6 +1,13 @@
 {
-  "updated": "2026-03-30T15:00:33Z",
+  "updated": "2026-03-30T16:52:19Z",
   "news": [
+    {
+      "title": "Okta&#8217;s CEO is betting big on AI agent identity",
+      "url": "https://www.theverge.com/podcast/902264/oktas-ceo-is-betting-big-on-ai-agent-identity",
+      "source": "The Verge",
+      "publishedAt": "2026-03-30T15:15:00Z",
+      "snippet": "Today, I\u2019m talking with Todd McKinnon, who is co-founder and CEO of Okta, a platform that lets big companies manage security and identity across all the apps and services their employees use. Think of"
+    },
     {
       "title": "Mantis Biotech is making \u2018digital twins\u2019 of humans to help solve medicine\u2019s data availability problem",
       "url": "https://techcrunch.com/2026/03/30/mantis-biotech-is-making-digital-twins-of-humans-to-help-solve-medicines-data-availability-problem/",
@@ -168,13 +175,6 @@
       "source": "The Verge",
       "publishedAt": "2026-03-26T21:44:37Z",
       "snippet": "After Anthropic updated its tool for copying another AI's memory into Claude earlier this month, Google Gemini is rolling out new \"Import Memory\" and \"Import Chat History\" features on desktop that can"
-    },
-    {
-      "title": "Apple will reportedly allow other AI chatbots to plug into Siri",
-      "url": "https://www.theverge.com/tech/902048/apple-siri-ai-chatbot-update-ios-27",
-      "source": "The Verge",
-      "publishedAt": "2026-03-26T21:31:27Z",
-      "snippet": "Apple's iOS 27 update will allow users to choose the AI chatbot they want to link with Siri. That's according to a report from Bloomberg's Mark Gurman, who says third-party chatbots downloaded from th"
     }
   ],
   "trending": [
@@ -204,14 +204,14 @@
       "downloads": 112559
     },
     {
-      "id": "kpsss34/FHDR_Uncensored",
-      "displayName": "FHDR_Uncensored",
-      "downloads": 225991
-    },
-    {
       "id": "unsloth/Qwen3.5-27B-GGUF",
       "displayName": "Qwen3.5 27B",
       "downloads": 942875
+    },
+    {
+      "id": "kpsss34/FHDR_Uncensored",
+      "displayName": "FHDR_Uncensored",
+      "downloads": 225991
     },
     {
       "id": "Jackrong/Qwen3.5-9B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
