@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-30T05:56:52Z",
+  "updated": "2026-03-30T07:43:30Z",
   "news": [
     {
       "title": "Why OpenAI really shut down Sora",
@@ -181,42 +181,42 @@
     {
       "id": "HauhauCS/Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive",
       "displayName": "Qwen3.5 35B A3B Uncensored HauhauCS Aggressive",
-      "downloads": 518613
+      "downloads": 569033
     },
     {
       "id": "Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-v2-GGUF",
       "displayName": "Qwen3.5 27B Claude 4.6 Opus Reasoning Distilled v2",
-      "downloads": 101380
+      "downloads": 140733
     },
     {
       "id": "Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
       "displayName": "Qwen3.5 27B Claude 4.6 Opus Reasoning Distilled",
-      "downloads": 639881
+      "downloads": 678028
     },
     {
       "id": "HauhauCS/Qwen3.5-9B-Uncensored-HauhauCS-Aggressive",
       "displayName": "Qwen3.5 9B Uncensored HauhauCS Aggressive",
-      "downloads": 505084
+      "downloads": 530075
     },
     {
       "id": "Jackrong/Qwen3.5-9B-Claude-4.6-Opus-Reasoning-Distilled-v2-GGUF",
       "displayName": "Qwen3.5 9B Claude 4.6 Opus Reasoning Distilled v2",
-      "downloads": 101422
+      "downloads": 112559
     },
     {
       "id": "unsloth/Qwen3.5-27B-GGUF",
       "displayName": "Qwen3.5 27B",
-      "downloads": 950579
+      "downloads": 942875
     },
     {
       "id": "Jackrong/Qwen3.5-9B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
       "displayName": "Qwen3.5 9B Claude 4.6 Opus Reasoning Distilled",
-      "downloads": 183773
+      "downloads": 190062
     },
     {
       "id": "kpsss34/FHDR_Uncensored",
       "displayName": "FHDR_Uncensored",
-      "downloads": 222143
+      "downloads": 225991
     },
     {
       "id": "RuneXX/LTX-2.3-Workflows",
@@ -226,7 +226,7 @@
     {
       "id": "Tesslate/OmniCoder-9B-GGUF",
       "displayName": "OmniCoder 9B",
-      "downloads": 77660
+      "downloads": 79958
     }
   ]
 }
