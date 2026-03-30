@@ -1,6 +1,13 @@
 {
-  "updated": "2026-03-30T20:40:54Z",
+  "updated": "2026-03-30T22:31:31Z",
   "news": [
+    {
+      "title": "15% of Americans say they\u2019d be willing to work for an AI boss",
+      "url": "https://techcrunch.com/2026/03/30/ai-boss-supervisor-us-quinnipiac-poll/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-03-30T21:39:51Z",
+      "snippet": "Your human manager may soon be a chatbot. Across organizations, AI is being used to replace layers of management in what some are calling \"The Great Flattening.\""
+    },
     {
       "title": "As more Americans adopt AI tools, fewer say they can trust the results",
       "url": "https://techcrunch.com/2026/03/30/ai-trust-adoption-poll-more-americans-adopt-tools-fewer-say-they-can-trust-the-results/",
@@ -140,13 +147,6 @@
       "source": "TechCrunch",
       "publishedAt": "2026-03-27T21:44:45Z",
       "snippet": "Wall Street giants JPMorgan and Goldman Sachs are extending a 12-month, unsecured loan to the Japanese conglomerate."
-    },
-    {
-      "title": "Memory chip giant SK hynix could help end \u2018RAMmageddon\u2019 with blockbuster US IPO",
-      "url": "https://techcrunch.com/2026/03/27/memory-chip-giant-sk-hynix-could-help-end-rammageddon-with-blockbuster-us-ipo/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-03-27T19:11:28Z",
-      "snippet": "SK hynix\u2019s potential U.S. listing could raise $10-$14 billion to help it build more capacity, encourage others to follow, and end the 'RAMmageddon' memory shortage."
     },
     {
       "title": "The latest in data centers, AI, and energy",
