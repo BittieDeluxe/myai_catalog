@@ -1,6 +1,13 @@
 {
-  "updated": "2026-03-31T13:09:52Z",
+  "updated": "2026-03-31T14:58:33Z",
   "news": [
+    {
+      "title": "Exclusive: Runway launches $10M fund, Builders program to support early stage AI startups",
+      "url": "https://techcrunch.com/2026/03/31/exclusive-runway-launches-10m-fund-builders-program-to-support-early-stage-ai-startups/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-03-31T14:00:00Z",
+      "snippet": "Runway is launching a $10 million fund and startup program to back companies building with its AI video models, as it pushes toward interactive, real-time \u201cvideo intelligence\u201d applications."
+    },
     {
       "title": "You can order Grubhub and Uber Eats \u2018conversationally\u2019 with Alexa Plus",
       "url": "https://www.theverge.com/ai-artificial-intelligence/903938/alexa-plus-order-food-grubhub-uber-eats",
@@ -133,13 +140,6 @@
       "source": "The Verge",
       "publishedAt": "2026-03-28T18:33:10Z",
       "snippet": "Suno just released one of its biggest updates yet with v5.5 of its AI music model. Where previous updates focused mostly on improving fidelity and creating more natural vocals, v5.5 is about giving us"
-    },
-    {
-      "title": "Elon Musk\u2019s last co-founder reportedly leaves xAI",
-      "url": "https://techcrunch.com/2026/03/28/elon-musks-last-co-founder-reportedly-leaves-xai/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-03-28T16:11:16Z",
-      "snippet": "All but two of Musk's 11 xAI co-founders departed before this week."
     },
     {
       "title": "Why can\u2019t TikTok identify AI generated ads when I can?",
