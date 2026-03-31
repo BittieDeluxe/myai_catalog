@@ -1,6 +1,20 @@
 {
-  "updated": "2026-03-31T16:53:44Z",
+  "updated": "2026-03-31T18:57:12Z",
   "news": [
+    {
+      "title": "The Galaxy S26\u2019s photo app can sloppify your memories",
+      "url": "https://www.theverge.com/tech/904176/samsung-galaxy-s26-ai-photo-assist-slop",
+      "source": "The Verge",
+      "publishedAt": "2026-03-31T18:15:00Z",
+      "snippet": "The Google Pixel 9 walked so that the Samsung Galaxy S26 could run. Google introduced AI editing tools to Photos slowly. It started with changes to the background - make the sky more blue, or remove c"
+    },
+    {
+      "title": "Alexa+ gets new food ordering experiences with Uber Eats and Grubhub",
+      "url": "https://techcrunch.com/2026/03/31/alexa-plus-new-food-ordering-experiences-with-uber-eats-and-grubhub/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-03-31T17:41:35Z",
+      "snippet": "You can now order from Uber Eats and Grubhub using Alexa+, an experience Amazon says will be similar to chatting with a waiter at a restaurant or placing an order at a drive-thru."
+    },
     {
       "title": "Art schools are being torn apart by AI",
       "url": "https://www.theverge.com/tech/903954/art-schools-generative-ai-education-creative-jobs",
@@ -135,13 +149,6 @@
       "snippet": "Is this just normal corporate strategy, or are we about to see a broader pullback on AI-generated video?"
     },
     {
-      "title": "Bluesky leans into AI with Attie, an app for building custom feeds",
-      "url": "https://techcrunch.com/2026/03/28/bluesky-leans-into-ai-with-attie-an-app-for-building-custom-feeds/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-03-28T23:00:00Z",
-      "snippet": "Bluesky\u2019s new app Attie uses AI to help people build custom feeds the open social networking protocol atproto."
-    },
-    {
       "title": "Suno leans into customization with v5.5",
       "url": "https://www.theverge.com/entertainment/903056/suno-ai-music-v5-5-model",
       "source": "The Verge",
@@ -168,13 +175,6 @@
       "source": "The Verge",
       "publishedAt": "2026-03-27T18:35:53Z",
       "snippet": "Massive new data centers are the physical foundation for tech companies\u2019 hopes and dreams for AI. But the rush to expand warehouses full of energy-hungry servers has also kicked up fights across the w"
-    },
-    {
-      "title": "Judge sides with Anthropic to temporarily block the Pentagon&#8217;s ban",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/902149/anthropic-dod-pentagon-lawsuit-supply-chain-risk-injunction",
-      "source": "The Verge",
-      "publishedAt": "2026-03-27T00:33:44Z",
-      "snippet": "After Anthropic's weeks-long standoff with the Pentagon, the company won one milestone: A judge granted Anthropic a preliminary injunction in its lawsuit, which sought to reverse its government blackl"
     }
   ],
   "trending": [
@@ -184,14 +184,14 @@
       "downloads": 155487
     },
     {
-      "id": "HauhauCS/Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive",
-      "displayName": "Qwen3.5 35B A3B Uncensored HauhauCS Aggressive",
-      "downloads": 592823
-    },
-    {
       "id": "HauhauCS/Qwen3.5-9B-Uncensored-HauhauCS-Aggressive",
       "displayName": "Qwen3.5 9B Uncensored HauhauCS Aggressive",
       "downloads": 623469
+    },
+    {
+      "id": "HauhauCS/Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive",
+      "displayName": "Qwen3.5 35B A3B Uncensored HauhauCS Aggressive",
+      "downloads": 592823
     },
     {
       "id": "Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
