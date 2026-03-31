@@ -1,12 +1,19 @@
 {
-  "updated": "2026-03-30T22:31:31Z",
+  "updated": "2026-03-31T02:02:05Z",
   "news": [
     {
-      "title": "15% of Americans say they\u2019d be willing to work for an AI boss",
-      "url": "https://techcrunch.com/2026/03/30/ai-boss-supervisor-us-quinnipiac-poll/",
+      "title": "15% of Americans say they\u2019d be willing to work for an AI boss, according to new poll",
+      "url": "https://techcrunch.com/2026/03/30/ai-work-boss-supervisor-us-quinnipiac-poll/",
       "source": "TechCrunch",
-      "publishedAt": "2026-03-30T21:39:51Z",
-      "snippet": "Your human manager may soon be a chatbot. Across organizations, AI is being used to replace layers of management in what some are calling \"The Great Flattening.\""
+      "publishedAt": "2026-03-30T23:41:48Z",
+      "snippet": "According to a Quinnipiac University poll, 15% of Americans say they'd be willing to have a job where their direct supervisor was an AI program that assigned tasks and set schedules."
+    },
+    {
+      "title": "Popular AI gateway startup LiteLLM ditches controversial startup Delve",
+      "url": "https://techcrunch.com/2026/03/30/popular-ai-gateway-startup-litellm-ditches-controversial-startup-delve/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-03-30T23:08:12Z",
+      "snippet": "LiteLLM had obtained two security compliance certifications via Delve and fell victim to some horrific credential-stealing malware last week."
     },
     {
       "title": "As more Americans adopt AI tools, fewer say they can trust the results",
@@ -140,13 +147,6 @@
       "source": "The Verge",
       "publishedAt": "2026-03-28T12:00:00Z",
       "snippet": "On Tuesday morning, everything was business as usual at OpenAI. By the end of the day, the company had announced that it would scrap its video-generation app, Sora, and reverse plans for video generat"
-    },
-    {
-      "title": "Why SoftBank\u2019s new $40B loan points to a 2026 OpenAI IPO",
-      "url": "https://techcrunch.com/2026/03/27/why-softbanks-new-40b-loan-points-to-a-2026-openai-ipo/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-03-27T21:44:45Z",
-      "snippet": "Wall Street giants JPMorgan and Goldman Sachs are extending a 12-month, unsecured loan to the Japanese conglomerate."
     },
     {
       "title": "The latest in data centers, AI, and energy",
