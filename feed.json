@@ -1,8 +1,22 @@
 {
-  "updated": "2026-03-31T14:58:33Z",
+  "updated": "2026-03-31T16:53:44Z",
   "news": [
     {
-      "title": "Exclusive: Runway launches $10M fund, Builders program to support early stage AI startups",
+      "title": "Art schools are being torn apart by AI",
+      "url": "https://www.theverge.com/tech/903954/art-schools-generative-ai-education-creative-jobs",
+      "source": "The Verge",
+      "publishedAt": "2026-03-31T15:00:00Z",
+      "snippet": "When my baby brother, a 3D modelling and animation student, talks to me about his projects and studies, the pride I usually feel is becoming increasingly tainted by a growing sense of dread. As a crea"
+    },
+    {
+      "title": "Nomadic raises $8.4 million to wrangle the data pouring off autonomous vehicles",
+      "url": "https://techcrunch.com/2026/03/31/nomadic-raises-8-4-million-to-wrangle-the-data-pouring-off-avs/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-03-31T15:00:00Z",
+      "snippet": "The company turns footage from robots into structured, searchable datasets with a deep learning model."
+    },
+    {
+      "title": "Exclusive: Runway launches $10M fund, Builders program to support early-stage AI startups",
       "url": "https://techcrunch.com/2026/03/31/exclusive-runway-launches-10m-fund-builders-program-to-support-early-stage-ai-startups/",
       "source": "TechCrunch",
       "publishedAt": "2026-03-31T14:00:00Z",
@@ -128,13 +142,6 @@
       "snippet": "Bluesky\u2019s new app Attie uses AI to help people build custom feeds the open social networking protocol atproto."
     },
     {
-      "title": "Stanford study outlines dangers of asking AI chatbots for personal advice",
-      "url": "https://techcrunch.com/2026/03/28/stanford-study-outlines-dangers-of-asking-ai-chatbots-for-personal-advice/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-03-28T20:45:54Z",
-      "snippet": "While there\u2019s been plenty of debate about AI sycophancy, a new study by Stanford computer scientists attempts to measure how harmful that tendency might be."
-    },
-    {
       "title": "Suno leans into customization with v5.5",
       "url": "https://www.theverge.com/entertainment/903056/suno-ai-music-v5-5-model",
       "source": "The Verge",
@@ -168,13 +175,6 @@
       "source": "The Verge",
       "publishedAt": "2026-03-27T00:33:44Z",
       "snippet": "After Anthropic's weeks-long standoff with the Pentagon, the company won one milestone: A judge granted Anthropic a preliminary injunction in its lawsuit, which sought to reverse its government blackl"
-    },
-    {
-      "title": "David Sacks is no longer the White House AI and Crypto Czar",
-      "url": "https://www.theverge.com/policy/902140/david-sacks-out-ai-crypto-czar",
-      "source": "The Verge",
-      "publishedAt": "2026-03-26T23:40:22Z",
-      "snippet": "David Sacks, the venture capitalist and tech billionaire who'd become Silicon Valley's primary advocate inside the White House and a key architect of its aggressive AI policy initiatives, revealed on "
     }
   ],
   "trending": [
