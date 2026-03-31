@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-31T07:07:40Z",
+  "updated": "2026-03-31T08:54:12Z",
   "news": [
     {
       "title": "15% of Americans say they\u2019d be willing to work for an AI boss, according to new poll",
@@ -181,42 +181,42 @@
     {
       "id": "Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-v2-GGUF",
       "displayName": "Qwen3.5 27B Claude 4.6 Opus Reasoning Distilled v2",
-      "downloads": 140733
+      "downloads": 155487
     },
     {
       "id": "HauhauCS/Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive",
       "displayName": "Qwen3.5 35B A3B Uncensored HauhauCS Aggressive",
-      "downloads": 569033
+      "downloads": 592823
     },
     {
       "id": "HauhauCS/Qwen3.5-9B-Uncensored-HauhauCS-Aggressive",
       "displayName": "Qwen3.5 9B Uncensored HauhauCS Aggressive",
-      "downloads": 530075
+      "downloads": 623469
     },
     {
       "id": "Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
       "displayName": "Qwen3.5 27B Claude 4.6 Opus Reasoning Distilled",
-      "downloads": 678028
+      "downloads": 703925
     },
     {
       "id": "Jackrong/Qwen3.5-9B-Claude-4.6-Opus-Reasoning-Distilled-v2-GGUF",
       "displayName": "Qwen3.5 9B Claude 4.6 Opus Reasoning Distilled v2",
-      "downloads": 112559
+      "downloads": 120161
     },
     {
       "id": "kpsss34/FHDR_Uncensored",
       "displayName": "FHDR_Uncensored",
-      "downloads": 225991
+      "downloads": 249272
     },
     {
       "id": "unsloth/Qwen3.5-27B-GGUF",
       "displayName": "Qwen3.5 27B",
-      "downloads": 942875
+      "downloads": 925110
     },
     {
       "id": "Jackrong/Qwen3.5-9B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
       "displayName": "Qwen3.5 9B Claude 4.6 Opus Reasoning Distilled",
-      "downloads": 190062
+      "downloads": 195452
     },
     {
       "id": "RuneXX/LTX-2.3-Workflows",
@@ -226,7 +226,7 @@
     {
       "id": "Tesslate/OmniCoder-9B-GGUF",
       "displayName": "OmniCoder 9B",
-      "downloads": 79958
+      "downloads": 81717
     }
   ]
 }
