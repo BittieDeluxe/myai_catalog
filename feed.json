@@ -1,5 +1,5 @@
 {
-  "updated": "2026-03-31T05:42:30Z",
+  "updated": "2026-03-31T07:07:40Z",
   "news": [
     {
       "title": "15% of Americans say they\u2019d be willing to work for an AI boss, according to new poll",
@@ -204,14 +204,14 @@
       "downloads": 112559
     },
     {
-      "id": "unsloth/Qwen3.5-27B-GGUF",
-      "displayName": "Qwen3.5 27B",
-      "downloads": 942875
-    },
-    {
       "id": "kpsss34/FHDR_Uncensored",
       "displayName": "FHDR_Uncensored",
       "downloads": 225991
+    },
+    {
+      "id": "unsloth/Qwen3.5-27B-GGUF",
+      "displayName": "Qwen3.5 27B",
+      "downloads": 942875
     },
     {
       "id": "Jackrong/Qwen3.5-9B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
