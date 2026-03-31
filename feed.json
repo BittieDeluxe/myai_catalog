@@ -1,6 +1,13 @@
 {
-  "updated": "2026-03-31T18:57:12Z",
+  "updated": "2026-03-31T20:39:28Z",
   "news": [
+    {
+      "title": "Yupp.ai shuts down after raising $33M from a16z crypto\u2019s Chris Dixon",
+      "url": "https://techcrunch.com/2026/03/31/yupp-ai-shuts-down-33m-a16z-crypto-chris-dixon/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-03-31T20:01:07Z",
+      "snippet": "Less than a year after launching, with checks from some of the biggest names in Silicon Valley, crowdsourced AI model feedback startup Yupp.ai is closing its business, the company said Tuesday."
+    },
     {
       "title": "The Galaxy S26\u2019s photo app can sloppify your memories",
       "url": "https://www.theverge.com/tech/904176/samsung-galaxy-s26-ai-photo-assist-slop",
@@ -140,13 +147,6 @@
       "source": "The Verge",
       "publishedAt": "2026-03-29T21:44:41Z",
       "snippet": "The latest app from the team behind Bluesky is Attie, an AI assistant that lets you build your own algorithm. At the Atmosphere conference, Bluesky's former CEO, Jay Graber, and CTO Paul Frazee, unvei"
-    },
-    {
-      "title": "Sora\u2019s shutdown could be a reality check moment for AI video",
-      "url": "https://techcrunch.com/2026/03/29/soras-shutdown-could-be-a-reality-check-moment-for-ai-video/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-03-29T16:30:00Z",
-      "snippet": "Is this just normal corporate strategy, or are we about to see a broader pullback on AI-generated video?"
     },
     {
       "title": "Suno leans into customization with v5.5",
