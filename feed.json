@@ -1,6 +1,20 @@
 {
-  "updated": "2026-03-31T10:50:23Z",
+  "updated": "2026-03-31T13:09:52Z",
   "news": [
+    {
+      "title": "You can order Grubhub and Uber Eats \u2018conversationally\u2019 with Alexa Plus",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/903938/alexa-plus-order-food-grubhub-uber-eats",
+      "source": "The Verge",
+      "publishedAt": "2026-03-31T13:00:00Z",
+      "snippet": "Amazon is giving you a new way to order food through Grubhub and Uber Eats with Alexa without having to endure an awkward exchange just to add fries. Amazon said the entire process is meant to be conv"
+    },
+    {
+      "title": "With its new app store, Ring bets on AI to go beyond home security",
+      "url": "https://techcrunch.com/2026/03/31/ring-app-store-bets-on-ai-to-go-beyond-home-security/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-03-31T13:00:00Z",
+      "snippet": "Ring's app store will allow the company to target broader use cases beyond security, like elder care or business needs."
+    },
     {
       "title": "15% of Americans say they\u2019d be willing to work for an AI boss, according to new poll",
       "url": "https://techcrunch.com/2026/03/30/ai-work-boss-supervisor-us-quinnipiac-poll/",
@@ -128,13 +142,6 @@
       "snippet": "All but two of Musk's 11 xAI co-founders departed before this week."
     },
     {
-      "title": "Anthropic\u2019s Claude popularity with paying consumers is skyrocketing",
-      "url": "https://techcrunch.com/2026/03/28/anthropics-claude-popularity-with-paying-consumers-is-skyrocketing/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-03-28T14:15:00Z",
-      "snippet": "Estimates for total Claude consumer users are all over the map (we've seen figures ranging from 18 million to 30 million). Anthropic hasn't disclosed this data, but a spokesperson did tell TechCrunch "
-    },
-    {
       "title": "Why can\u2019t TikTok identify AI generated ads when I can?",
       "url": "https://www.theverge.com/ai-artificial-intelligence/900400/tiktok-ai-ads-labels-samsung-disclosure",
       "source": "The Verge",
@@ -168,13 +175,6 @@
       "source": "The Verge",
       "publishedAt": "2026-03-26T23:40:22Z",
       "snippet": "David Sacks, the venture capitalist and tech billionaire who'd become Silicon Valley's primary advocate inside the White House and a key architect of its aggressive AI policy initiatives, revealed on "
-    },
-    {
-      "title": "Google is making it easier to import another AI\u2019s memory into Gemini",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/902085/google-gemini-import-memory-chat-history",
-      "source": "The Verge",
-      "publishedAt": "2026-03-26T21:44:37Z",
-      "snippet": "After Anthropic updated its tool for copying another AI's memory into Claude earlier this month, Google Gemini is rolling out new \"Import Memory\" and \"Import Chat History\" features on desktop that can"
     }
   ],
   "trending": [
