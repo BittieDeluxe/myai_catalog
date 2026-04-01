@@ -1,6 +1,13 @@
 {
-  "updated": "2026-04-01T08:59:29Z",
+  "updated": "2026-04-01T10:51:32Z",
   "news": [
+    {
+      "title": "Baidu\u2019s robotaxis froze in traffic creating chaos",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/905012/baidu-apollo-robotaxi-freeze-china",
+      "source": "The Verge",
+      "publishedAt": "2026-04-01T10:39:52Z",
+      "snippet": "Numerous robotaxis operated by Chinese tech giant Baidu froze in a major city on Tuesday, reportedly trapping passengers inside, stranding them on highways, and causing at least one accident in snarle"
+    },
     {
       "title": "Mercor says it was hit by cyberattack tied to compromise of open-source LiteLLM project",
       "url": "https://techcrunch.com/2026/03/31/mercor-says-it-was-hit-by-cyberattack-tied-to-compromise-of-open-source-litellm-project/",
@@ -168,13 +175,6 @@
       "source": "The Verge",
       "publishedAt": "2026-03-28T18:33:10Z",
       "snippet": "Suno just released one of its biggest updates yet with v5.5 of its AI music model. Where previous updates focused mostly on improving fidelity and creating more natural vocals, v5.5 is about giving us"
-    },
-    {
-      "title": "Why can\u2019t TikTok identify AI generated ads when I can?",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/900400/tiktok-ai-ads-labels-samsung-disclosure",
-      "source": "The Verge",
-      "publishedAt": "2026-03-28T14:00:00Z",
-      "snippet": "I've been struggling to tell whether the ads appearing in my TikTok feeds have been made with generative AI tools. As someone who spends a great deal of time scrutinizing images and videos for the usu"
     }
   ],
   "trending": [
@@ -204,14 +204,14 @@
       "downloads": 249371
     },
     {
-      "id": "Jackrong/Qwen3.5-9B-Claude-4.6-Opus-Reasoning-Distilled-v2-GGUF",
-      "displayName": "Qwen3.5 9B Claude 4.6 Opus Reasoning Distilled v2",
-      "downloads": 122383
-    },
-    {
       "id": "prism-ml/Bonsai-8B-gguf",
       "displayName": "Bonsai 8B",
       "downloads": 1486
+    },
+    {
+      "id": "Jackrong/Qwen3.5-9B-Claude-4.6-Opus-Reasoning-Distilled-v2-GGUF",
+      "displayName": "Qwen3.5 9B Claude 4.6 Opus Reasoning Distilled v2",
+      "downloads": 122383
     },
     {
       "id": "unsloth/Qwen3.5-27B-GGUF",
