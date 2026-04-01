@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-01T02:10:26Z",
+  "updated": "2026-04-01T05:52:50Z",
   "news": [
     {
       "title": "Mercor says it was hit by cyberattack tied to compromise of open-source LiteLLM project",
@@ -214,6 +214,11 @@
       "downloads": 925110
     },
     {
+      "id": "prism-ml/Bonsai-8B-gguf",
+      "displayName": "Bonsai 8B",
+      "downloads": 80
+    },
+    {
       "id": "Jackrong/Qwen3.5-9B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
       "displayName": "Qwen3.5 9B Claude 4.6 Opus Reasoning Distilled",
       "downloads": 195452
@@ -222,11 +227,6 @@
       "id": "RuneXX/LTX-2.3-Workflows",
       "displayName": "LTX 2.3 Workflows",
       "downloads": 0
-    },
-    {
-      "id": "Tesslate/OmniCoder-9B-GGUF",
-      "displayName": "OmniCoder 9B",
-      "downloads": 81717
     }
   ]
 }
