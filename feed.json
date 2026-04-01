@@ -1,6 +1,13 @@
 {
-  "updated": "2026-04-01T20:40:03Z",
+  "updated": "2026-04-01T22:33:44Z",
   "news": [
+    {
+      "title": "Anthropic took down thousands of GitHub repos trying to yank its leaked source code \u2014 a move the company says was an accident",
+      "url": "https://techcrunch.com/2026/04/01/anthropic-took-down-thousands-of-github-repos-trying-to-yank-its-leaked-source-code-a-move-the-company-says-was-an-accident/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-04-01T22:12:13Z",
+      "snippet": "Anthropic executives said it was an accident and retracted the bulk of the takedown notices."
+    },
     {
       "title": "Meta\u2019s natural gas binge could power South Dakota",
       "url": "https://techcrunch.com/2026/04/01/metas-natural-gas-binge-could-power-south-dakota/",
@@ -149,13 +156,6 @@
       "snippet": "LiteLLM had obtained two security compliance certifications via Delve and fell victim to some horrific credential-stealing malware last week."
     },
     {
-      "title": "As more Americans adopt AI tools, fewer say they can trust the results",
-      "url": "https://techcrunch.com/2026/03/30/ai-trust-adoption-poll-more-americans-adopt-tools-fewer-say-they-can-trust-the-results/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-03-30T20:24:53Z",
-      "snippet": "AI adoption is rising in the U.S., but trust remains low, with most Americans concerned about transparency, regulation, and the technology\u2019s broader societal impact, according to a new Quinnipiac poll"
-    },
-    {
       "title": "Okta&#8217;s CEO is betting big on AI agent identity",
       "url": "https://www.theverge.com/podcast/902264/oktas-ceo-is-betting-big-on-ai-agent-identity",
       "source": "The Verge",
@@ -209,14 +209,14 @@
       "downloads": 249371
     },
     {
-      "id": "Jackrong/Qwen3.5-9B-Claude-4.6-Opus-Reasoning-Distilled-v2-GGUF",
-      "displayName": "Qwen3.5 9B Claude 4.6 Opus Reasoning Distilled v2",
-      "downloads": 122383
-    },
-    {
       "id": "Jackrong/Qwopus3.5-9B-v3-GGUF",
       "displayName": "Qwopus3.5 9B v3",
       "downloads": 1954
+    },
+    {
+      "id": "Jackrong/Qwen3.5-9B-Claude-4.6-Opus-Reasoning-Distilled-v2-GGUF",
+      "displayName": "Qwen3.5 9B Claude 4.6 Opus Reasoning Distilled v2",
+      "downloads": 122383
     },
     {
       "id": "unsloth/Qwen3.5-27B-GGUF",
