@@ -1,12 +1,19 @@
 {
-  "updated": "2026-04-01T16:49:52Z",
+  "updated": "2026-04-01T18:56:35Z",
   "news": [
+    {
+      "title": "Meta\u2019s natural gas binge could power South Dakota",
+      "url": "https://techcrunch.com/2026/04/01/metas-natural-gas-binge-could-power-south-dakota/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-04-01T18:35:36Z",
+      "snippet": "Meta's upcoming Hyperion AI data center will be powered by 10 new natural gas plants."
+    },
     {
       "title": "Cognichip wants AI to design the chips that power AI, and just raised $60M to try",
       "url": "https://techcrunch.com/2026/04/01/cognichip-wants-ai-to-design-the-chips-that-power-ai-and-just-raised-60m-to-try/",
       "source": "TechCrunch",
       "publishedAt": "2026-04-01T16:00:00Z",
-      "snippet": "The firm says it can can reduce the cost of chip development by more than 75% and cut the timeline by more than half."
+      "snippet": "The firm says it can reduce the cost of chip development by more than 75% and cut the timeline by more than half."
     },
     {
       "title": "Less than a month: StrictlyVC San Francisco brings leaders from TDK Ventures, Replit, and more together",
@@ -30,7 +37,7 @@
       "snippet": "Numerous robotaxis operated by Chinese tech giant Baidu froze in a major city on Tuesday, reportedly trapping passengers inside, stranding them on highways, and causing at least one accident in snarle"
     },
     {
-      "title": "Mercor says it was hit by cyberattack tied to compromise of open-source LiteLLM project",
+      "title": "Mercor says it was hit by cyberattack tied to compromise of open source LiteLLM project",
       "url": "https://techcrunch.com/2026/03/31/mercor-says-it-was-hit-by-cyberattack-tied-to-compromise-of-open-source-litellm-project/",
       "source": "TechCrunch",
       "publishedAt": "2026-04-01T01:42:59Z",
@@ -156,13 +163,6 @@
       "snippet": "Today, I\u2019m talking with Todd McKinnon, who is co-founder and CEO of Okta, a platform that lets big companies manage security and identity across all the apps and services their employees use. Think of"
     },
     {
-      "title": "Mantis Biotech is making \u2018digital twins\u2019 of humans to help solve medicine\u2019s data availability problem",
-      "url": "https://techcrunch.com/2026/03/30/mantis-biotech-is-making-digital-twins-of-humans-to-help-solve-medicines-data-availability-problem/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-03-30T14:30:00Z",
-      "snippet": "Mantis takes disparate sources of data to make synthetic datasets that can be used to build so-called \"digital twins\" of the human body, representing anatomy, physiology and behavior."
-    },
-    {
       "title": "All the latest in AI &#8216;music&#8217;",
       "url": "https://www.theverge.com/ai-artificial-intelligence/903196/ai-music-suno-udio-art-lawsuit",
       "source": "The Verge",
@@ -214,14 +214,14 @@
       "downloads": 122383
     },
     {
-      "id": "unsloth/Qwen3.5-27B-GGUF",
-      "displayName": "Qwen3.5 27B",
-      "downloads": 873735
-    },
-    {
       "id": "Jackrong/Qwopus3.5-9B-v3-GGUF",
       "displayName": "Qwopus3.5 9B v3",
       "downloads": 1954
+    },
+    {
+      "id": "unsloth/Qwen3.5-27B-GGUF",
+      "displayName": "Qwen3.5 27B",
+      "downloads": 873735
     },
     {
       "id": "RuneXX/LTX-2.3-Workflows",
