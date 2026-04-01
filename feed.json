@@ -1,6 +1,13 @@
 {
-  "updated": "2026-04-01T15:00:53Z",
+  "updated": "2026-04-01T16:49:52Z",
   "news": [
+    {
+      "title": "Cognichip wants AI to design the chips that power AI, and just raised $60M to try",
+      "url": "https://techcrunch.com/2026/04/01/cognichip-wants-ai-to-design-the-chips-that-power-ai-and-just-raised-60m-to-try/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-04-01T16:00:00Z",
+      "snippet": "The firm says it can can reduce the cost of chip development by more than 75% and cut the timeline by more than half."
+    },
     {
       "title": "Less than a month: StrictlyVC San Francisco brings leaders from TDK Ventures, Replit, and more together",
       "url": "https://techcrunch.com/2026/04/01/join-the-first-strictlyvc-of-2026-in-sf-with-leaders-from-tdk-ventures-and-replits-co-founder/",
@@ -156,13 +163,6 @@
       "snippet": "Mantis takes disparate sources of data to make synthetic datasets that can be used to build so-called \"digital twins\" of the human body, representing anatomy, physiology and behavior."
     },
     {
-      "title": "ScaleOps raises $130M to improve computing efficiency amid AI demand",
-      "url": "https://techcrunch.com/2026/03/30/scaleops-130m-series-c-kubernetes-efficiency-ai-demand-funding/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-03-30T13:52:02Z",
-      "snippet": "ScaleOps just raised $130M to tackle GPU shortages and soaring AI cloud costs by automating infrastructure in real time."
-    },
-    {
       "title": "All the latest in AI &#8216;music&#8217;",
       "url": "https://www.theverge.com/ai-artificial-intelligence/903196/ai-music-suno-udio-art-lawsuit",
       "source": "The Verge",
@@ -219,14 +219,14 @@
       "downloads": 873735
     },
     {
-      "id": "RuneXX/LTX-2.3-Workflows",
-      "displayName": "LTX 2.3 Workflows",
-      "downloads": 0
-    },
-    {
       "id": "Jackrong/Qwopus3.5-9B-v3-GGUF",
       "displayName": "Qwopus3.5 9B v3",
       "downloads": 1954
+    },
+    {
+      "id": "RuneXX/LTX-2.3-Workflows",
+      "displayName": "LTX 2.3 Workflows",
+      "downloads": 0
     }
   ]
 }
