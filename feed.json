@@ -1,8 +1,15 @@
 {
-  "updated": "2026-04-01T10:51:32Z",
+  "updated": "2026-04-01T13:13:09Z",
   "news": [
     {
-      "title": "Baidu\u2019s robotaxis froze in traffic creating chaos",
+      "title": "AI can push your Stream Deck buttons for you",
+      "url": "https://www.theverge.com/tech/905021/elgato-stream-deck-mcp-ai-agent-update",
+      "source": "The Verge",
+      "publishedAt": "2026-04-01T12:38:58Z",
+      "snippet": "If you're tired of controlling Stream Deck devices by manually pushing buttons, then good news: Elgato will now let you delegate that task to a chatbot instead. The Stream Deck 7.4 software update rel"
+    },
+    {
+      "title": "Baidu\u2019s robotaxis froze in traffic, creating chaos",
       "url": "https://www.theverge.com/ai-artificial-intelligence/905012/baidu-apollo-robotaxi-freeze-china",
       "source": "The Verge",
       "publishedAt": "2026-04-01T10:39:52Z",
@@ -168,13 +175,6 @@
       "source": "The Verge",
       "publishedAt": "2026-03-29T21:44:41Z",
       "snippet": "The latest app from the team behind Bluesky is Attie, an AI assistant that lets you build your own algorithm. At the Atmosphere conference, Bluesky's former CEO, Jay Graber, and CTO Paul Frazee, unvei"
-    },
-    {
-      "title": "Suno leans into customization with v5.5",
-      "url": "https://www.theverge.com/entertainment/903056/suno-ai-music-v5-5-model",
-      "source": "The Verge",
-      "publishedAt": "2026-03-28T18:33:10Z",
-      "snippet": "Suno just released one of its biggest updates yet with v5.5 of its AI music model. Where previous updates focused mostly on improving fidelity and creating more natural vocals, v5.5 is about giving us"
     }
   ],
   "trending": [
@@ -199,14 +199,14 @@
       "downloads": 708727
     },
     {
-      "id": "kpsss34/FHDR_Uncensored",
-      "displayName": "FHDR_Uncensored",
-      "downloads": 249371
-    },
-    {
       "id": "prism-ml/Bonsai-8B-gguf",
       "displayName": "Bonsai 8B",
       "downloads": 1486
+    },
+    {
+      "id": "kpsss34/FHDR_Uncensored",
+      "displayName": "FHDR_Uncensored",
+      "downloads": 249371
     },
     {
       "id": "Jackrong/Qwen3.5-9B-Claude-4.6-Opus-Reasoning-Distilled-v2-GGUF",
@@ -224,9 +224,9 @@
       "downloads": 0
     },
     {
-      "id": "Jackrong/Qwen3.5-9B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
-      "displayName": "Qwen3.5 9B Claude 4.6 Opus Reasoning Distilled",
-      "downloads": 202235
+      "id": "Jackrong/Qwopus3.5-9B-v3-GGUF",
+      "displayName": "Qwopus3.5 9B v3",
+      "downloads": 1954
     }
   ]
 }
