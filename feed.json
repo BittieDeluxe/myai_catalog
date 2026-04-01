@@ -1,6 +1,27 @@
 {
-  "updated": "2026-03-31T22:30:53Z",
+  "updated": "2026-04-01T02:10:26Z",
   "news": [
+    {
+      "title": "Mercor says it was hit by cyberattack tied to compromise of open-source LiteLLM project",
+      "url": "https://techcrunch.com/2026/03/31/mercor-says-it-was-hit-by-cyberattack-tied-to-compromise-of-open-source-litellm-project/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-04-01T01:42:59Z",
+      "snippet": "The AI recruiting startup confirmed a security incident after an extortion hacking crew took credit for stealing data from the company's systems."
+    },
+    {
+      "title": "Anthropic is having a month",
+      "url": "https://techcrunch.com/2026/03/31/anthropic-is-having-a-month/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-03-31T23:58:26Z",
+      "snippet": "A human really borks things at Anthropic for the second time this week."
+    },
+    {
+      "title": "Salesforce announces an AI-heavy makeover for Slack, with 30 new features",
+      "url": "https://techcrunch.com/2026/03/31/salesforce-announces-an-ai-heavy-makeover-for-slack-with-30-new-features/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-03-31T22:46:25Z",
+      "snippet": "Slack just got a whole lot more useful."
+    },
     {
       "title": "Claude Code leak exposes a Tamagotchi-style \u2018pet\u2019 and an always-on agent",
       "url": "https://www.theverge.com/ai-artificial-intelligence/904776/anthropic-claude-source-code-leak",
@@ -126,27 +147,6 @@
       "source": "TechCrunch",
       "publishedAt": "2026-03-30T13:00:00Z",
       "snippet": "The startup, which is planning to go public later this year, designs chips specifically for AI inference, another challenger to Nvidia's dominance."
-    },
-    {
-      "title": "Mistral AI raises $830M in debt to set up a data center near Paris",
-      "url": "https://techcrunch.com/2026/03/30/mistral-ai-raises-830m-in-debt-to-set-up-a-data-center-near-paris/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-03-30T12:49:51Z",
-      "snippet": "Mistral aims to start operating the data center by the second quarter of 2026."
-    },
-    {
-      "title": "Qodo raises $70M for code verification as AI coding scales",
-      "url": "https://techcrunch.com/2026/03/30/qodo-bets-on-code-verification-as-ai-coding-scales-raises-70m/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-03-30T12:30:00Z",
-      "snippet": "As AI floods software development with code, Qodo is betting the real challenge is making sure it actually works."
-    },
-    {
-      "title": "Starcloud raises $170 million Series A to build data centers in space",
-      "url": "https://techcrunch.com/2026/03/30/starcloud-raises-170-million-series-ato-build-data-centers-in-space/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-03-30T11:00:00Z",
-      "snippet": "Starcloud becomes the fastest Y Combinator startup to reach unicorn status, just 17 months after demo day."
     },
     {
       "title": "All the latest in AI &#8216;music&#8217;",
