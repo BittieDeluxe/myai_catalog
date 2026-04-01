@@ -1,6 +1,13 @@
 {
-  "updated": "2026-04-01T13:13:09Z",
+  "updated": "2026-04-01T15:00:53Z",
   "news": [
+    {
+      "title": "Less than a month: StrictlyVC San Francisco brings leaders from TDK Ventures, Replit, and more together",
+      "url": "https://techcrunch.com/2026/04/01/join-the-first-strictlyvc-of-2026-in-sf-with-leaders-from-tdk-ventures-and-replits-co-founder/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-04-01T14:00:00Z",
+      "snippet": "StrictlyVC San Francisco brings leaders from TDK Ventures, Replit, and more together on April 30. Space is limited. Register here for your pass."
+    },
     {
       "title": "AI can push your Stream Deck buttons for you",
       "url": "https://www.theverge.com/tech/905021/elgato-stream-deck-mcp-ai-agent-update",
@@ -156,13 +163,6 @@
       "snippet": "ScaleOps just raised $130M to tackle GPU shortages and soaring AI cloud costs by automating infrastructure in real time."
     },
     {
-      "title": "AI chip startup Rebellions raises $400 million at $2.3B valuation in pre-IPO round",
-      "url": "https://techcrunch.com/2026/03/30/ai-chip-startup-rebellions-raises-400-million-at-2-3b-valuation-in-pre-ipo-round/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-03-30T13:00:00Z",
-      "snippet": "The startup, which is planning to go public later this year, designs chips specifically for AI inference, another challenger to Nvidia's dominance."
-    },
-    {
       "title": "All the latest in AI &#8216;music&#8217;",
       "url": "https://www.theverge.com/ai-artificial-intelligence/903196/ai-music-suno-udio-art-lawsuit",
       "source": "The Verge",
@@ -194,14 +194,14 @@
       "downloads": 599974
     },
     {
-      "id": "Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
-      "displayName": "Qwen3.5 27B Claude 4.6 Opus Reasoning Distilled",
-      "downloads": 708727
-    },
-    {
       "id": "prism-ml/Bonsai-8B-gguf",
       "displayName": "Bonsai 8B",
       "downloads": 1486
+    },
+    {
+      "id": "Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
+      "displayName": "Qwen3.5 27B Claude 4.6 Opus Reasoning Distilled",
+      "downloads": 708727
     },
     {
       "id": "kpsss34/FHDR_Uncensored",
