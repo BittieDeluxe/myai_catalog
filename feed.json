@@ -1,6 +1,20 @@
 {
-  "updated": "2026-04-02T16:53:31Z",
+  "updated": "2026-04-02T18:52:16Z",
   "news": [
+    {
+      "title": "Elon Musk is about to be a very busy boy!",
+      "url": "https://www.theverge.com/tech/906027/elon-musk-lawsuit-ipo-spacex-tesla",
+      "source": "The Verge",
+      "publishedAt": "2026-04-02T18:15:00Z",
+      "snippet": "To be honest, I thought Elon Musk would confidentially file for SpaceX's IPO on the 20th of this month, rather than the 1st. But maybe that just means he's moved on to other numbers, and we should all"
+    },
+    {
+      "title": "OpenAI just bought TBPN",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/906022/openai-buys-tbpn",
+      "source": "The Verge",
+      "publishedAt": "2026-04-02T17:40:07Z",
+      "snippet": "OpenAI has purchased TBPN, an online talk show that often interviews AI executives and other tech leaders. The show goes live every weekday at 2PM PT, often for a three-hour duration, counting OpenAI "
+    },
     {
       "title": "Microsoft takes on AI rivals with three new foundational models",
       "url": "https://techcrunch.com/2026/04/02/microsoft-takes-on-ai-rivals-with-three-new-foundational-models/",
@@ -142,13 +156,6 @@
       "snippet": "You can now order from Uber Eats and Grubhub using Alexa+, an experience Amazon says will be similar to chatting with a waiter at a restaurant or placing an order at a drive-thru."
     },
     {
-      "title": "Art schools are being torn apart by AI",
-      "url": "https://www.theverge.com/tech/903954/art-schools-generative-ai-education-creative-jobs",
-      "source": "The Verge",
-      "publishedAt": "2026-03-31T15:00:00Z",
-      "snippet": "When my baby brother, a 3D modelling and animation student, talks to me about his projects and studies, the pride I usually feel is becoming increasingly tainted by a growing sense of dread. As a crea"
-    },
-    {
       "title": "Nomadic raises $8.4 million to wrangle the data pouring off autonomous vehicles",
       "url": "https://techcrunch.com/2026/03/31/nomadic-raises-8-4-million-to-wrangle-the-data-pouring-off-avs/",
       "source": "TechCrunch",
@@ -161,13 +168,6 @@
       "source": "TechCrunch",
       "publishedAt": "2026-03-31T14:00:00Z",
       "snippet": "Runway is launching a $10 million fund and startup program to back companies building with its AI video models, as it pushes toward interactive, real-time \u201cvideo intelligence\u201d applications."
-    },
-    {
-      "title": "You can order Grubhub and Uber Eats \u2018conversationally\u2019 with Alexa Plus",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/903938/alexa-plus-order-food-grubhub-uber-eats",
-      "source": "The Verge",
-      "publishedAt": "2026-03-31T13:00:00Z",
-      "snippet": "Amazon is giving you a new way to order food through Grubhub and Uber Eats with Alexa without having to endure an awkward exchange just to add fries. Amazon said the entire process is meant to be conv"
     },
     {
       "title": "With its new app store, Ring bets on AI to go beyond home security",
