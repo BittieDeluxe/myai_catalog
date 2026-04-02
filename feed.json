@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-02T04:33:18Z",
+  "updated": "2026-04-02T07:07:02Z",
   "news": [
     {
       "title": "Anthropic took down thousands of GitHub repos trying to yank its leaked source code \u2014 a move the company says was an accident",
@@ -204,24 +204,24 @@
       "downloads": 708727
     },
     {
-      "id": "kpsss34/FHDR_Uncensored",
-      "displayName": "FHDR_Uncensored",
-      "downloads": 249371
-    },
-    {
       "id": "Jackrong/Qwopus3.5-9B-v3-GGUF",
       "displayName": "Qwopus3.5 9B v3",
       "downloads": 1954
     },
     {
-      "id": "Jackrong/Qwen3.5-9B-Claude-4.6-Opus-Reasoning-Distilled-v2-GGUF",
-      "displayName": "Qwen3.5 9B Claude 4.6 Opus Reasoning Distilled v2",
-      "downloads": 122383
+      "id": "kpsss34/FHDR_Uncensored",
+      "displayName": "FHDR_Uncensored",
+      "downloads": 249371
     },
     {
       "id": "unsloth/Qwen3.5-27B-GGUF",
       "displayName": "Qwen3.5 27B",
       "downloads": 873735
+    },
+    {
+      "id": "Jackrong/Qwen3.5-9B-Claude-4.6-Opus-Reasoning-Distilled-v2-GGUF",
+      "displayName": "Qwen3.5 9B Claude 4.6 Opus Reasoning Distilled v2",
+      "downloads": 122383
     },
     {
       "id": "RuneXX/LTX-2.3-Workflows",
