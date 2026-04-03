@@ -1,8 +1,15 @@
 {
-  "updated": "2026-04-03T20:31:42Z",
+  "updated": "2026-04-03T22:28:54Z",
   "news": [
     {
-      "title": "Anthropic buys biotech startup Coefficient Bio in $400M deal: reports",
+      "title": "OpenAI executive shuffle includes new role for COO Brad Lightcap to lead \u2018special projects\u2019",
+      "url": "https://techcrunch.com/2026/04/03/openai-executive-shuffle-new-roles-coo-brad-lightcap-fidji-simo-kate-rouch/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-04-03T20:35:34Z",
+      "snippet": "In addition to Lightcap's new role, OpenAI CMO Kate Rouch will be stepping away from the company to focus on cancer recovery, with a plan to return when her health allows."
+    },
+    {
+      "title": "Anthropic buys biotech startup Coefficient Bio in $400M deal: Reports",
       "url": "https://techcrunch.com/2026/04/03/anthropic-buys-biotech-startup-coefficient-bio-in-400m-deal-reports/",
       "source": "TechCrunch",
       "publishedAt": "2026-04-03T20:28:40Z",
@@ -168,13 +175,6 @@
       "source": "TechCrunch",
       "publishedAt": "2026-03-31T23:58:26Z",
       "snippet": "A human really borks things at Anthropic for the second time this week."
-    },
-    {
-      "title": "Salesforce announces an AI-heavy makeover for Slack, with 30 new features",
-      "url": "https://techcrunch.com/2026/03/31/salesforce-announces-an-ai-heavy-makeover-for-slack-with-30-new-features/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-03-31T22:46:25Z",
-      "snippet": "Slack just got a whole lot more useful."
     }
   ],
   "trending": [
@@ -224,9 +224,9 @@
       "downloads": 771614
     },
     {
-      "id": "kpsss34/FHDR_Uncensored",
-      "displayName": "FHDR_Uncensored",
-      "downloads": 251217
+      "id": "unsloth/gemma-4-E4B-it-GGUF",
+      "displayName": "gemma 4 E4B",
+      "downloads": 58899
     }
   ]
 }
