@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-03T16:35:31Z",
+  "updated": "2026-04-03T18:40:54Z",
   "news": [
     {
       "title": "The Facebook insider building content moderation for the AI era",
@@ -219,14 +219,14 @@
       "downloads": 771614
     },
     {
-      "id": "kpsss34/FHDR_Uncensored",
-      "displayName": "FHDR_Uncensored",
-      "downloads": 251217
-    },
-    {
       "id": "Jackrong/Qwopus3.5-27B-v3-GGUF",
       "displayName": "Qwopus3.5 27B v3",
       "downloads": 10567
+    },
+    {
+      "id": "kpsss34/FHDR_Uncensored",
+      "displayName": "FHDR_Uncensored",
+      "downloads": 251217
     }
   ]
 }
