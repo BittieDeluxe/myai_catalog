@@ -1,6 +1,20 @@
 {
-  "updated": "2026-04-03T12:56:28Z",
+  "updated": "2026-04-03T14:39:57Z",
   "news": [
+    {
+      "title": "The Facebook insider building content moderation for the AI era",
+      "url": "https://techcrunch.com/2026/04/03/moonbounce-fundraise-content-moderation-for-the-ai-era/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-04-03T14:00:15Z",
+      "snippet": "Moonbounce has raised $12 million to grow its AI control engine that converts content moderation policies into consistent, predictable AI behavior."
+    },
+    {
+      "title": "Apple\u2019s best product ever",
+      "url": "https://www.theverge.com/podcast/906548/best-apple-product-vergecast",
+      "source": "The Verge",
+      "publishedAt": "2026-04-03T12:52:41Z",
+      "snippet": "All week, we've been asking you to help us rank the 50 best products Apple ever made, as we mark the company's 50th anniversary. Thanks to everyone who pitched in - we ended up with more than 1.6 mill"
+    },
     {
       "title": "Chatbots are now prescribing psychiatric drugs",
       "url": "https://www.theverge.com/ai-artificial-intelligence/906525/ai-chatbot-prescribe-refill-psychiatric-drugs",
@@ -135,13 +149,6 @@
       "snippet": "Slack just got a whole lot more useful."
     },
     {
-      "title": "Claude Code leak exposes a Tamagotchi-style \u2018pet\u2019 and an always-on agent",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/904776/anthropic-claude-source-code-leak",
-      "source": "The Verge",
-      "publishedAt": "2026-03-31T22:24:19Z",
-      "snippet": "After Anthropic released Claude Code's 2.1.88 update, users quickly discovered that it contained a package with a source map file containing its TypeScript codebase, with one person on X calling atten"
-    },
-    {
       "title": "OpenAI, not yet public, raises $3B from retail investors in monster $122B fund raise",
       "url": "https://techcrunch.com/2026/03/31/openai-not-yet-public-raises-3b-from-retail-investors-in-monster-122b-fund-raise/",
       "source": "TechCrunch",
@@ -168,13 +175,6 @@
       "source": "TechCrunch",
       "publishedAt": "2026-03-31T15:00:00Z",
       "snippet": "The company turns footage from robots into structured, searchable datasets with a deep learning model."
-    },
-    {
-      "title": "Exclusive: Runway launches $10M fund, Builders program to support early-stage AI startups",
-      "url": "https://techcrunch.com/2026/03/31/exclusive-runway-launches-10m-fund-builders-program-to-support-early-stage-ai-startups/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-03-31T14:00:00Z",
-      "snippet": "Runway is launching a $10 million fund and startup program to back companies building with its AI video models, as it pushes toward interactive, real-time \u201cvideo intelligence\u201d applications."
     }
   ],
   "trending": [
@@ -209,14 +209,14 @@
       "downloads": 19991
     },
     {
-      "id": "Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
-      "displayName": "Qwen3.5 27B Claude 4.6 Opus Reasoning Distilled",
-      "downloads": 771614
-    },
-    {
       "id": "unsloth/gemma-4-31B-it-GGUF",
       "displayName": "gemma 4 31B",
       "downloads": 83931
+    },
+    {
+      "id": "Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
+      "displayName": "Qwen3.5 27B Claude 4.6 Opus Reasoning Distilled",
+      "downloads": 771614
     },
     {
       "id": "kpsss34/FHDR_Uncensored",
