@@ -1,6 +1,41 @@
 {
-  "updated": "2026-04-03T18:40:54Z",
+  "updated": "2026-04-03T20:31:42Z",
   "news": [
+    {
+      "title": "Anthropic buys biotech startup Coefficient Bio in $400M deal: reports",
+      "url": "https://techcrunch.com/2026/04/03/anthropic-buys-biotech-startup-coefficient-bio-in-400m-deal-reports/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-04-03T20:28:40Z",
+      "snippet": "Anthropic has purchased the stealth biotech AI startup Coefficient Bio in a $400 million stock deal, according to The Information and Eric Newcomer."
+    },
+    {
+      "title": "OpenAI\u2019s AGI boss is taking a leave of absence",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/906965/openais-agi-boss-is-taking-a-leave-of-absence",
+      "source": "The Verge",
+      "publishedAt": "2026-04-03T20:22:59Z",
+      "snippet": "OpenAI is undergoing another round of C-suite changes, according to an internal memo viewed by The Verge. Fidji Simo, OpenAI's CEO of AGI deployment - who was until recently the company's CEO of Appli"
+    },
+    {
+      "title": "Anthropic ramps up its political activities with a new PAC",
+      "url": "https://techcrunch.com/2026/04/03/anthropic-ramps-up-its-political-activities-with-a-new-pac/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-04-03T20:22:18Z",
+      "snippet": "With the midterms right around the corner, the new group is positioned to back candidates who support the AI company's policy agenda."
+    },
+    {
+      "title": "AI companies are building huge natural gas plants to power data centers. What could go wrong?",
+      "url": "https://techcrunch.com/2026/04/03/ai-energy-microsoft-meta-google-natural-gas-mining-fomo/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-04-03T19:48:22Z",
+      "snippet": "Meta, Microsoft, and Google are all betting big on new natural gas power plants to run their AI data centers. They may regret it."
+    },
+    {
+      "title": "People would rather have an Amazon warehouse in their backyard than a data center",
+      "url": "https://techcrunch.com/2026/04/03/people-would-rather-have-an-amazon-warehouse-in-their-backyard-than-a-data-center/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-04-03T19:20:36Z",
+      "snippet": "A new poll shows that the debate over data centers is far from settled."
+    },
     {
       "title": "The Facebook insider building content moderation for the AI era",
       "url": "https://techcrunch.com/2026/04/03/moonbounce-fundraise-content-moderation-for-the-ai-era/",
@@ -121,13 +156,6 @@
       "snippet": "If you're tired of controlling Stream Deck devices by manually pushing buttons, then good news: Elgato will now let you delegate that task to a chatbot instead. The Stream Deck 7.4 software update rel"
     },
     {
-      "title": "Baidu\u2019s robotaxis froze in traffic, creating chaos",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/905012/baidu-apollo-robotaxi-freeze-china",
-      "source": "The Verge",
-      "publishedAt": "2026-04-01T10:39:52Z",
-      "snippet": "Numerous robotaxis operated by Chinese tech giant Baidu froze in a major city on Tuesday, reportedly trapping passengers inside, stranding them on highways, and causing at least one accident in snarle"
-    },
-    {
       "title": "Mercor says it was hit by cyberattack tied to compromise of open source LiteLLM project",
       "url": "https://techcrunch.com/2026/03/31/mercor-says-it-was-hit-by-cyberattack-tied-to-compromise-of-open-source-litellm-project/",
       "source": "TechCrunch",
@@ -147,34 +175,6 @@
       "source": "TechCrunch",
       "publishedAt": "2026-03-31T22:46:25Z",
       "snippet": "Slack just got a whole lot more useful."
-    },
-    {
-      "title": "OpenAI, not yet public, raises $3B from retail investors in monster $122B fund raise",
-      "url": "https://techcrunch.com/2026/03/31/openai-not-yet-public-raises-3b-from-retail-investors-in-monster-122b-fund-raise/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-03-31T21:25:04Z",
-      "snippet": "OpenAI's latest funding round, led by Amazon, Nvidia, and SoftBank, values the AI lab at $852 billion as it nears an IPO."
-    },
-    {
-      "title": "Yupp shuts down after raising $33M from a16z crypto\u2019s Chris Dixon",
-      "url": "https://techcrunch.com/2026/03/31/yupp-ai-shuts-down-33m-a16z-crypto-chris-dixon/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-03-31T20:01:07Z",
-      "snippet": "Less than a year after launching, with checks from some of the biggest names in Silicon Valley, crowdsourced AI model feedback startup Yupp is closing its business, the company said Tuesday."
-    },
-    {
-      "title": "Alexa+ gets new food ordering experiences with Uber Eats and Grubhub",
-      "url": "https://techcrunch.com/2026/03/31/alexa-plus-new-food-ordering-experiences-with-uber-eats-and-grubhub/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-03-31T17:41:35Z",
-      "snippet": "You can now order from Uber Eats and Grubhub using Alexa+, an experience Amazon says will be similar to chatting with a waiter at a restaurant or placing an order at a drive-thru."
-    },
-    {
-      "title": "Nomadic raises $8.4 million to wrangle the data pouring off autonomous vehicles",
-      "url": "https://techcrunch.com/2026/03/31/nomadic-raises-8-4-million-to-wrangle-the-data-pouring-off-avs/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-03-31T15:00:00Z",
-      "snippet": "The company turns footage from robots into structured, searchable datasets with a deep learning model."
     }
   ],
   "trending": [
@@ -214,14 +214,14 @@
       "downloads": 83931
     },
     {
-      "id": "Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
-      "displayName": "Qwen3.5 27B Claude 4.6 Opus Reasoning Distilled",
-      "downloads": 771614
-    },
-    {
       "id": "Jackrong/Qwopus3.5-27B-v3-GGUF",
       "displayName": "Qwopus3.5 27B v3",
       "downloads": 10567
+    },
+    {
+      "id": "Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
+      "displayName": "Qwen3.5 27B Claude 4.6 Opus Reasoning Distilled",
+      "downloads": 771614
     },
     {
       "id": "kpsss34/FHDR_Uncensored",
