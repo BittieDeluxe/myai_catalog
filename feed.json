@@ -1,6 +1,20 @@
 {
-  "updated": "2026-04-04T16:31:04Z",
+  "updated": "2026-04-04T18:36:43Z",
   "news": [
+    {
+      "title": "A folk musician became a target for AI fakes and a copyright troll",
+      "url": "https://www.theverge.com/entertainment/907111/murphy-campbell-folk-music-ai-copyright",
+      "source": "The Verge",
+      "publishedAt": "2026-04-04T17:52:10Z",
+      "snippet": "In January, folk artist Murphy Campbell discovered several songs on her Spotify profile that did not belong there. They were songs that she had recorded, but she'd never uploaded them to Spotify, and "
+    },
+    {
+      "title": "Anthropic says Claude Code subscribers will need to pay extra for OpenClaw usage",
+      "url": "https://techcrunch.com/2026/04/04/anthropic-says-claude-code-subscribers-will-need-to-pay-extra-for-openclaw-support/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-04-04T16:32:22Z",
+      "snippet": "It\u2019s about to become more expensive for Claude Code subscribers to use Anthropic\u2019s coding assistant with OpenClaw and other third-party tools."
+    },
     {
       "title": "Really, you made this without AI? Prove it",
       "url": "https://www.theverge.com/tech/906453/human-made-ai-free-logo-creative-content",
@@ -135,13 +149,6 @@
       "snippet": "For the past seven years, the California-based startup Kintsugi has been developing AI designed to detect signs of depression and anxiety from a person's speech. But after failing to secure FDA cleara"
     },
     {
-      "title": "Microsoft\u2019s new \u2018superintelligence\u2019 game plan is all about business",
-      "url": "https://www.theverge.com/report/905791/mustafa-suleyman-microsoft-ai-transcription-model",
-      "source": "The Verge",
-      "publishedAt": "2026-04-02T14:00:00Z",
-      "snippet": "Mustafa Suleyman has been preparing for his new job description for a long time. Suleyman is Microsoft's inaugural CEO of AI, but after the company underwent a large-scale restructuring in mid-March, "
-    },
-    {
       "title": "Anthropic took down thousands of GitHub repos trying to yank its leaked source code \u2014 a move the company says was an accident",
       "url": "https://techcrunch.com/2026/04/01/anthropic-took-down-thousands-of-github-repos-trying-to-yank-its-leaked-source-code-a-move-the-company-says-was-an-accident/",
       "source": "TechCrunch",
@@ -168,13 +175,6 @@
       "source": "TechCrunch",
       "publishedAt": "2026-04-01T14:00:00Z",
       "snippet": "StrictlyVC San Francisco brings leaders from TDK Ventures, Replit, and more together on April 30. Space is limited. Register here for your pass."
-    },
-    {
-      "title": "Mercor says it was hit by cyberattack tied to compromise of open source LiteLLM project",
-      "url": "https://techcrunch.com/2026/03/31/mercor-says-it-was-hit-by-cyberattack-tied-to-compromise-of-open-source-litellm-project/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-04-01T01:42:59Z",
-      "snippet": "The AI recruiting startup confirmed a security incident after an extortion hacking crew took credit for stealing data from the company's systems."
     }
   ],
   "trending": [
