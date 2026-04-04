@@ -1,6 +1,20 @@
 {
-  "updated": "2026-04-03T22:28:54Z",
+  "updated": "2026-04-04T01:52:31Z",
   "news": [
+    {
+      "title": "Anthropic is having a moment in the private markets; SpaceX could spoil the party",
+      "url": "https://techcrunch.com/2026/04/03/anthropic-is-having-a-moment-in-the-private-markets-spacex-could-spoil-the-party/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-04-04T01:31:00Z",
+      "snippet": "Glen Anderson, president of Rainmaker Securities, says the secondary market for private shares has never been more active \u2014 with Anthropic the hottest trade around, OpenAI losing ground, and SpaceX's "
+    },
+    {
+      "title": "Anthropic essentially bans OpenClaw from Claude by making subscribers pay extra",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/907074/anthropic-openclaw-claude-subscription-ban",
+      "source": "The Verge",
+      "publishedAt": "2026-04-03T23:52:49Z",
+      "snippet": "Using OpenClaw with Claude AI is about to get a lot more expensive, thanks to Anthropic's new policy changes. Beginning April 4th at 3PM ET, users will \"no longer be able to use your Claude subscripti"
+    },
     {
       "title": "OpenAI executive shuffle includes new role for COO Brad Lightcap to lead \u2018special projects\u2019",
       "url": "https://techcrunch.com/2026/04/03/openai-executive-shuffle-new-roles-coo-brad-lightcap-fidji-simo-kate-rouch/",
@@ -20,7 +34,7 @@
       "url": "https://www.theverge.com/ai-artificial-intelligence/906965/openais-agi-boss-is-taking-a-leave-of-absence",
       "source": "The Verge",
       "publishedAt": "2026-04-03T20:22:59Z",
-      "snippet": "OpenAI is undergoing another round of C-suite changes, according to an internal memo viewed by The Verge. Fidji Simo, OpenAI's CEO of AGI deployment - who was until recently the company's CEO of Appli"
+      "snippet": "OpenAI is undergoing another round of C-suite changes, according to an internal memo viewed by The Verge. Fidji Simo, OpenAI's CEO of AGI deployment - who was until recently the company's CEO of appli"
     },
     {
       "title": "Anthropic ramps up its political activities with a new PAC",
@@ -31,7 +45,7 @@
     },
     {
       "title": "AI companies are building huge natural gas plants to power data centers. What could go wrong?",
-      "url": "https://techcrunch.com/2026/04/03/ai-energy-microsoft-meta-google-natural-gas-mining-fomo/",
+      "url": "https://techcrunch.com/2026/04/03/ai-companies-are-building-huge-natural-gas-plants-to-power-data-centers-what-could-go-wrong/",
       "source": "TechCrunch",
       "publishedAt": "2026-04-03T19:48:22Z",
       "snippet": "Meta, Microsoft, and Google are all betting big on new natural gas power plants to run their AI data centers. They may regret it."
@@ -156,25 +170,11 @@
       "snippet": "StrictlyVC San Francisco brings leaders from TDK Ventures, Replit, and more together on April 30. Space is limited. Register here for your pass."
     },
     {
-      "title": "AI can push your Stream Deck buttons for you",
-      "url": "https://www.theverge.com/tech/905021/elgato-stream-deck-mcp-ai-agent-update",
-      "source": "The Verge",
-      "publishedAt": "2026-04-01T12:38:58Z",
-      "snippet": "If you're tired of controlling Stream Deck devices by manually pushing buttons, then good news: Elgato will now let you delegate that task to a chatbot instead. The Stream Deck 7.4 software update rel"
-    },
-    {
       "title": "Mercor says it was hit by cyberattack tied to compromise of open source LiteLLM project",
       "url": "https://techcrunch.com/2026/03/31/mercor-says-it-was-hit-by-cyberattack-tied-to-compromise-of-open-source-litellm-project/",
       "source": "TechCrunch",
       "publishedAt": "2026-04-01T01:42:59Z",
       "snippet": "The AI recruiting startup confirmed a security incident after an extortion hacking crew took credit for stealing data from the company's systems."
-    },
-    {
-      "title": "Anthropic is having a month",
-      "url": "https://techcrunch.com/2026/03/31/anthropic-is-having-a-month/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-03-31T23:58:26Z",
-      "snippet": "A human really borks things at Anthropic for the second time this week."
     }
   ],
   "trending": [
@@ -199,14 +199,14 @@
       "downloads": 99223
     },
     {
-      "id": "HauhauCS/Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive",
-      "displayName": "Qwen3.5 35B A3B Uncensored HauhauCS Aggressive",
-      "downloads": 652331
-    },
-    {
       "id": "Jackrong/Qwopus3.5-9B-v3-GGUF",
       "displayName": "Qwopus3.5 9B v3",
       "downloads": 19991
+    },
+    {
+      "id": "HauhauCS/Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive",
+      "displayName": "Qwen3.5 35B A3B Uncensored HauhauCS Aggressive",
+      "downloads": 652331
     },
     {
       "id": "unsloth/gemma-4-31B-it-GGUF",
@@ -219,14 +219,14 @@
       "downloads": 10567
     },
     {
-      "id": "Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
-      "displayName": "Qwen3.5 27B Claude 4.6 Opus Reasoning Distilled",
-      "downloads": 771614
-    },
-    {
       "id": "unsloth/gemma-4-E4B-it-GGUF",
       "displayName": "gemma 4 E4B",
       "downloads": 58899
+    },
+    {
+      "id": "Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
+      "displayName": "Qwen3.5 27B Claude 4.6 Opus Reasoning Distilled",
+      "downloads": 771614
     }
   ]
 }
