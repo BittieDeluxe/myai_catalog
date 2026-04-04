@@ -1,6 +1,13 @@
 {
-  "updated": "2026-04-04T12:46:10Z",
+  "updated": "2026-04-04T14:31:14Z",
   "news": [
+    {
+      "title": "Really, you made this without AI? Prove it",
+      "url": "https://www.theverge.com/tech/906453/human-made-ai-free-logo-creative-content",
+      "source": "The Verge",
+      "publishedAt": "2026-04-04T13:00:00Z",
+      "snippet": "\"This looks like AI.\" It's a phrase I dread seeing as a writer who dabbles in illustration and amateur photography. In a world where generative AI technology is increasingly adept at mimicking the wor"
+    },
     {
       "title": "Anthropic is having a moment in the private markets; SpaceX could spoil the party",
       "url": "https://techcrunch.com/2026/04/03/anthropic-is-having-a-moment-in-the-private-markets-spacex-could-spoil-the-party/",
@@ -133,13 +140,6 @@
       "source": "The Verge",
       "publishedAt": "2026-04-02T14:00:00Z",
       "snippet": "Mustafa Suleyman has been preparing for his new job description for a long time. Suleyman is Microsoft's inaugural CEO of AI, but after the company underwent a large-scale restructuring in mid-March, "
-    },
-    {
-      "title": "Google Home\u2019s latest update makes Gemini better at understanding your commands",
-      "url": "https://www.theverge.com/tech/905805/google-home-gemini-temperature-controls-lighting",
-      "source": "The Verge",
-      "publishedAt": "2026-04-02T13:30:12Z",
-      "snippet": "Google is launching another update to its Home app, which is supposed to make controlling your smart home with its Gemini AI assistant \"more natural and reliable,\" according to this week's release not"
     },
     {
       "title": "Anthropic took down thousands of GitHub repos trying to yank its leaked source code \u2014 a move the company says was an accident",
