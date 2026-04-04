@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-04T06:56:13Z",
+  "updated": "2026-04-04T08:37:06Z",
   "news": [
     {
       "title": "Anthropic is having a moment in the private markets; SpaceX could spoil the party",
@@ -181,52 +181,52 @@
     {
       "id": "prism-ml/Bonsai-8B-gguf",
       "displayName": "Bonsai 8B",
-      "downloads": 26164
+      "downloads": 32930
     },
     {
       "id": "Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-v2-GGUF",
       "displayName": "Qwen3.5 27B Claude 4.6 Opus Reasoning Distilled v2",
-      "downloads": 227053
+      "downloads": 241087
     },
     {
       "id": "HauhauCS/Qwen3.5-9B-Uncensored-HauhauCS-Aggressive",
       "displayName": "Qwen3.5 9B Uncensored HauhauCS Aggressive",
-      "downloads": 700218
+      "downloads": 715586
     },
     {
       "id": "unsloth/gemma-4-26B-A4B-it-GGUF",
       "displayName": "gemma 4 26B A4B",
-      "downloads": 99223
+      "downloads": 301284
     },
     {
       "id": "Jackrong/Qwopus3.5-9B-v3-GGUF",
       "displayName": "Qwopus3.5 9B v3",
-      "downloads": 19991
+      "downloads": 30569
     },
     {
       "id": "HauhauCS/Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive",
       "displayName": "Qwen3.5 35B A3B Uncensored HauhauCS Aggressive",
-      "downloads": 652331
+      "downloads": 676494
     },
     {
       "id": "unsloth/gemma-4-31B-it-GGUF",
       "displayName": "gemma 4 31B",
-      "downloads": 83931
+      "downloads": 273734
     },
     {
       "id": "Jackrong/Qwopus3.5-27B-v3-GGUF",
       "displayName": "Qwopus3.5 27B v3",
-      "downloads": 10567
+      "downloads": 25979
     },
     {
       "id": "unsloth/gemma-4-E4B-it-GGUF",
       "displayName": "gemma 4 E4B",
-      "downloads": 58899
+      "downloads": 203879
     },
     {
       "id": "Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
       "displayName": "Qwen3.5 27B Claude 4.6 Opus Reasoning Distilled",
-      "downloads": 771614
+      "downloads": 798379
     }
   ]
 }
