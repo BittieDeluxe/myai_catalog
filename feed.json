@@ -1,6 +1,13 @@
 {
-  "updated": "2026-04-05T10:29:30Z",
+  "updated": "2026-04-05T12:50:46Z",
   "news": [
+    {
+      "title": "Grammarly\u2019s sloppelganger saga",
+      "url": "https://www.theverge.com/column/906606/grammarly-expert-review-ai-saga",
+      "source": "The Verge",
+      "publishedAt": "2026-04-05T12:00:00Z",
+      "snippet": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the ups and downs of AI, follow Stevie Bonifield. The Stepback arrives in our subscribers' "
+    },
     {
       "title": "A folk musician became a target for AI fakes and a copyright troll",
       "url": "https://www.theverge.com/entertainment/907111/murphy-campbell-folk-music-ai-copyright",
@@ -140,13 +147,6 @@
       "source": "TechCrunch",
       "publishedAt": "2026-04-02T16:00:00Z",
       "snippet": "Google is adding a way to customize and instruct avatars for video creation in the Vids app."
-    },
-    {
-      "title": "It\u2019s not easy to get depression-detecting AI through the FDA",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/905864/depression-detecting-ai-kintsugi-clinical-ai-startup-shut-down",
-      "source": "The Verge",
-      "publishedAt": "2026-04-02T15:33:23Z",
-      "snippet": "For the past seven years, the California-based startup Kintsugi has been developing AI designed to detect signs of depression and anxiety from a person's speech. But after failing to secure FDA cleara"
     },
     {
       "title": "Anthropic took down thousands of GitHub repos trying to yank its leaked source code \u2014 a move the company says was an accident",
