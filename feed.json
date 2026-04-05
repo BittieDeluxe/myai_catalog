@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-05T02:05:40Z",
+  "updated": "2026-04-05T05:43:05Z",
   "news": [
     {
       "title": "A folk musician became a target for AI fakes and a copyright troll",
@@ -184,14 +184,14 @@
       "downloads": 32930
     },
     {
-      "id": "Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-v2-GGUF",
-      "displayName": "Qwen3.5 27B Claude 4.6 Opus Reasoning Distilled v2",
-      "downloads": 241087
-    },
-    {
       "id": "HauhauCS/Qwen3.5-9B-Uncensored-HauhauCS-Aggressive",
       "displayName": "Qwen3.5 9B Uncensored HauhauCS Aggressive",
       "downloads": 715586
+    },
+    {
+      "id": "Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-v2-GGUF",
+      "displayName": "Qwen3.5 27B Claude 4.6 Opus Reasoning Distilled v2",
+      "downloads": 241087
     },
     {
       "id": "unsloth/gemma-4-26B-A4B-it-GGUF",
