@@ -1,6 +1,20 @@
 {
-  "updated": "2026-04-05T12:50:46Z",
+  "updated": "2026-04-05T14:32:18Z",
   "news": [
+    {
+      "title": "I let Gemini in Google Maps plan my day and it went surprisingly well",
+      "url": "https://www.theverge.com/tech/907015/gemini-google-maps-hands-on",
+      "source": "The Verge",
+      "publishedAt": "2026-04-05T14:00:00Z",
+      "snippet": "You may be familiar with Gemini as the thing that's in every Google service you use - whether you want it or not. While it's been a constant, sometimes unwelcome presence in Gmail for at least the pas"
+    },
+    {
+      "title": "In Japan, the robot isn\u2019t coming for your job; it\u2019s filling the one nobody wants",
+      "url": "https://techcrunch.com/2026/04/05/japan-is-proving-experimental-physical-ai-is-ready-for-the-real-world/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-04-05T14:00:00Z",
+      "snippet": "Driven by labor shortages, Japan is pushing physical AI from pilot projects into real-world deployment."
+    },
     {
       "title": "Grammarly\u2019s sloppelganger saga",
       "url": "https://www.theverge.com/column/906606/grammarly-expert-review-ai-saga",
@@ -128,13 +142,6 @@
       "snippet": "To be honest, I thought Elon Musk would confidentially file for SpaceX's IPO on the 20th of this month, rather than the 1st. But maybe that just means he's moved on to other numbers, and we should all"
     },
     {
-      "title": "OpenAI just bought TBPN",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/906022/openai-buys-tbpn",
-      "source": "The Verge",
-      "publishedAt": "2026-04-02T17:40:07Z",
-      "snippet": "OpenAI has purchased TBPN, an online talk show that often interviews AI executives and other tech leaders. The show goes live every weekday at 2PM PT, often for a three-hour duration, counting OpenAI "
-    },
-    {
       "title": "Microsoft takes on AI rivals with three new foundational models",
       "url": "https://techcrunch.com/2026/04/02/microsoft-takes-on-ai-rivals-with-three-new-foundational-models/",
       "source": "TechCrunch",
@@ -168,13 +175,6 @@
       "source": "TechCrunch",
       "publishedAt": "2026-04-01T16:00:00Z",
       "snippet": "The firm says it can reduce the cost of chip development by more than 75% and cut the timeline by more than half."
-    },
-    {
-      "title": "Less than a month: StrictlyVC San Francisco brings leaders from TDK Ventures, Replit, and more together",
-      "url": "https://techcrunch.com/2026/04/01/join-the-first-strictlyvc-of-2026-in-sf-with-leaders-from-tdk-ventures-and-replits-co-founder/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-04-01T14:00:00Z",
-      "snippet": "StrictlyVC San Francisco brings leaders from TDK Ventures, Replit, and more together on April 30. Space is limited. Register here for your pass."
     }
   ],
   "trending": [
