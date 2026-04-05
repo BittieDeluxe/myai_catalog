@@ -1,6 +1,20 @@
 {
-  "updated": "2026-04-05T14:32:18Z",
+  "updated": "2026-04-05T16:32:45Z",
   "news": [
+    {
+      "title": "Suno is a music copyright nightmare",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/906896/sunos-copyright-ai-music-covers",
+      "source": "The Verge",
+      "publishedAt": "2026-04-05T16:00:00Z",
+      "snippet": "AI music platform Suno's policy is that it does not permit the use of copyrighted material. You can upload your own tracks to remix or set your original lyrics to AI-generated music. But, it's suppose"
+    },
+    {
+      "title": "Can orbital data centers help justify a massive valuation for SpaceX?",
+      "url": "https://techcrunch.com/2026/04/05/can-orbital-data-centers-help-justify-a-massive-valuation-for-spacex/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-04-05T15:40:58Z",
+      "snippet": "On the latest episode of TechCrunch\u2019s Equity podcast, we debated Elon Musk's vision for data centers in space."
+    },
     {
       "title": "I let Gemini in Google Maps plan my day and it went surprisingly well",
       "url": "https://www.theverge.com/tech/907015/gemini-google-maps-hands-on",
@@ -135,13 +149,6 @@
       "snippet": "TBPN, Silicon Valley's cult-favorite tech podcast, will operate independently, even as it's overseen by chief political operative Chris Lehane."
     },
     {
-      "title": "Elon Musk is about to be a very busy boy!",
-      "url": "https://www.theverge.com/tech/906027/elon-musk-lawsuit-ipo-spacex-tesla",
-      "source": "The Verge",
-      "publishedAt": "2026-04-02T18:15:00Z",
-      "snippet": "To be honest, I thought Elon Musk would confidentially file for SpaceX's IPO on the 20th of this month, rather than the 1st. But maybe that just means he's moved on to other numbers, and we should all"
-    },
-    {
       "title": "Microsoft takes on AI rivals with three new foundational models",
       "url": "https://techcrunch.com/2026/04/02/microsoft-takes-on-ai-rivals-with-three-new-foundational-models/",
       "source": "TechCrunch",
@@ -168,13 +175,6 @@
       "source": "TechCrunch",
       "publishedAt": "2026-04-01T18:35:36Z",
       "snippet": "Meta's upcoming Hyperion AI data center will be powered by 10 new natural gas plants."
-    },
-    {
-      "title": "Cognichip wants AI to design the chips that power AI, and just raised $60M to try",
-      "url": "https://techcrunch.com/2026/04/01/cognichip-wants-ai-to-design-the-chips-that-power-ai-and-just-raised-60m-to-try/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-04-01T16:00:00Z",
-      "snippet": "The firm says it can reduce the cost of chip development by more than 75% and cut the timeline by more than half."
     }
   ],
   "trending": [
@@ -224,9 +224,9 @@
       "downloads": 688440
     },
     {
-      "id": "Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
-      "displayName": "Qwen3.5 27B Claude 4.6 Opus Reasoning Distilled",
-      "downloads": 822072
+      "id": "HauhauCS/Gemma-4-E4B-Uncensored-HauhauCS-Aggressive",
+      "displayName": "Gemma 4 E4B Uncensored HauhauCS Aggressive",
+      "downloads": 57589
     }
   ]
 }
