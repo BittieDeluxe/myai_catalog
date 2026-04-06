@@ -1,6 +1,13 @@
 {
-  "updated": "2026-04-06T18:53:25Z",
+  "updated": "2026-04-06T20:34:04Z",
   "news": [
+    {
+      "title": "Google quietly launched an AI dictation app that works offline",
+      "url": "https://techcrunch.com/2026/04/06/google-quietly-releases-an-offline-first-ai-dictation-app-on-ios/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-04-06T18:54:33Z",
+      "snippet": "Google's new offline-first dictation app uses Gemma AI models to take on the apps like Wispr Flow."
+    },
     {
       "title": "Iran threatens \u2018Stargate\u2019 AI data centers",
       "url": "https://techcrunch.com/2026/04/06/iran-threatens-stargate-ai-data-centers/",
@@ -163,13 +170,6 @@
       "snippet": "With the midterms right around the corner, the new group is positioned to back candidates who support the AI company's policy agenda."
     },
     {
-      "title": "AI companies are building huge natural gas plants to power data centers. What could go wrong?",
-      "url": "https://techcrunch.com/2026/04/03/ai-companies-are-building-huge-natural-gas-plants-to-power-data-centers-what-could-go-wrong/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-04-03T19:48:22Z",
-      "snippet": "Meta, Microsoft, and Google are all betting big on new natural gas power plants to run their AI data centers. They may regret it."
-    },
-    {
       "title": "Apple\u2019s best product ever",
       "url": "https://www.theverge.com/podcast/906548/best-apple-product-vergecast",
       "source": "The Verge",
@@ -219,14 +219,14 @@
       "downloads": 418980
     },
     {
-      "id": "HauhauCS/Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive",
-      "displayName": "Qwen3.5 35B A3B Uncensored HauhauCS Aggressive",
-      "downloads": 722769
-    },
-    {
       "id": "HauhauCS/Gemma-4-E4B-Uncensored-HauhauCS-Aggressive",
       "displayName": "Gemma 4 E4B Uncensored HauhauCS Aggressive",
       "downloads": 99038
+    },
+    {
+      "id": "HauhauCS/Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive",
+      "displayName": "Qwen3.5 35B A3B Uncensored HauhauCS Aggressive",
+      "downloads": 722769
     }
   ]
 }
