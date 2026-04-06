@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-06T07:46:07Z",
+  "updated": "2026-04-06T09:04:35Z",
   "news": [
     {
       "title": "Copilot is \u2018for entertainment purposes only,\u2019 according to Microsoft\u2019s terms of use",
@@ -189,14 +189,14 @@
       "downloads": 272020
     },
     {
-      "id": "HauhauCS/Qwen3.5-9B-Uncensored-HauhauCS-Aggressive",
-      "displayName": "Qwen3.5 9B Uncensored HauhauCS Aggressive",
-      "downloads": 751402
-    },
-    {
       "id": "unsloth/gemma-4-26B-A4B-it-GGUF",
       "displayName": "gemma 4 26B A4B",
       "downloads": 649596
+    },
+    {
+      "id": "HauhauCS/Qwen3.5-9B-Uncensored-HauhauCS-Aggressive",
+      "displayName": "Qwen3.5 9B Uncensored HauhauCS Aggressive",
+      "downloads": 751402
     },
     {
       "id": "Jackrong/Qwopus3.5-9B-v3-GGUF",
