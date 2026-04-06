@@ -1,6 +1,27 @@
 {
-  "updated": "2026-04-06T13:02:06Z",
+  "updated": "2026-04-06T14:42:43Z",
   "news": [
+    {
+      "title": "Startup Battlefield 200 applications open: A chance for VC access, TechCrunch coverage, and $100K",
+      "url": "https://techcrunch.com/2026/04/06/startup-battlefield-200-applications-open-get-vc-access-techcrunch-coverage-and-100k/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-04-06T14:30:00Z",
+      "snippet": "Nominate your startup, or one you know that deserves the spotlight, and finish the process by applying. Selected 200 have a chance at VC access, TechCrunch coverage, and $100K for Startup Battlefield "
+    },
+    {
+      "title": "How to use the new ChatGPT app integrations, including DoorDash, Spotify, Uber, and others",
+      "url": "https://techcrunch.com/2026/04/06/how-to-use-chatgpt-apps-doordash-spotify-uber/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-04-06T14:11:42Z",
+      "snippet": "Learn how to use Spotify, Canva, Figma, Expedia, and other apps directly in ChatGPT."
+    },
+    {
+      "title": "Ticket savings of up to $500 this week for TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/04/06/massive-ticket-savings-of-up-to-500-this-week-for-techcrunch-disrupt-2026/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-04-06T14:00:00Z",
+      "snippet": "Starting today, you have 5 days to save\u00a0nearly $500\u00a0on your ticket to\u00a0TechCrunch\u00a0Disrupt 2026. This offer disappears Friday, April 10, at 11:59 p.m. PT. Register here to secure these low rates."
+    },
     {
       "title": "Spain\u2019s Xoople raises $130 million Series B to map the Earth for AI",
       "url": "https://techcrunch.com/2026/04/06/spains-xoople-raises-130-million-series-b-to-map-the-earth-for-ai/",
@@ -154,27 +175,6 @@
       "source": "The Verge",
       "publishedAt": "2026-04-02T21:56:16Z",
       "snippet": "If you use the AI-powered note-taking app Granola, you might want to double-check your privacy settings. Though Granola says your notes are \"private by default,\" it makes them viewable to anyone with "
-    },
-    {
-      "title": "OpenAI acquires TBPN, the buzzy founder-led business talk show",
-      "url": "https://techcrunch.com/2026/04/02/openai-acquires-tbpn-the-buzzy-founder-led-business-talk-show/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-04-02T19:21:00Z",
-      "snippet": "TBPN, Silicon Valley's cult-favorite tech podcast, will operate independently, even as it's overseen by chief political operative Chris Lehane."
-    },
-    {
-      "title": "Microsoft takes on AI rivals with three new foundational models",
-      "url": "https://techcrunch.com/2026/04/02/microsoft-takes-on-ai-rivals-with-three-new-foundational-models/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-04-02T16:48:16Z",
-      "snippet": "MAI released models that can transcribe voice into text as well as generate audio and images after the group's formation six months ago."
-    },
-    {
-      "title": "Google now lets you direct avatars through prompts in its Vids app",
-      "url": "https://techcrunch.com/2026/04/02/google-now-lets-you-direct-avatars-through-prompts-in-its-vids-app/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-04-02T16:00:00Z",
-      "snippet": "Google is adding a way to customize and instruct avatars for video creation in the Vids app."
     }
   ],
   "trending": [
@@ -184,14 +184,14 @@
       "downloads": 45185
     },
     {
-      "id": "Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-v2-GGUF",
-      "displayName": "Qwen3.5 27B Claude 4.6 Opus Reasoning Distilled v2",
-      "downloads": 272020
-    },
-    {
       "id": "unsloth/gemma-4-26B-A4B-it-GGUF",
       "displayName": "gemma 4 26B A4B",
       "downloads": 649596
+    },
+    {
+      "id": "Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-v2-GGUF",
+      "displayName": "Qwen3.5 27B Claude 4.6 Opus Reasoning Distilled v2",
+      "downloads": 272020
     },
     {
       "id": "HauhauCS/Qwen3.5-9B-Uncensored-HauhauCS-Aggressive",
