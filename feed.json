@@ -1,8 +1,29 @@
 {
-  "updated": "2026-04-06T14:42:43Z",
+  "updated": "2026-04-06T16:41:34Z",
   "news": [
     {
-      "title": "Startup Battlefield 200 applications open: A chance for VC access, TechCrunch coverage, and $100K",
+      "title": "OpenAI\u2019s vision for the AI economy: public wealth funds, robot taxes, and a four-day work week",
+      "url": "https://techcrunch.com/2026/04/06/openais-vision-for-the-ai-economy-public-wealth-funds-robot-taxes-and-a-four-day-work-week/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-04-06T15:55:55Z",
+      "snippet": "OpenAI proposes taxes on AI profits, public wealth funds, and expanded safety nets to address job loss and inequality, blending redistribution with capitalism as policymakers debate AI\u2019s economic impa"
+    },
+    {
+      "title": "Iran threatens OpenAI\u2019s Stargate data center in Abu Dhabi",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/907427/iran-openai-stargate-datacenter-uae-abu-dhabi-threat",
+      "source": "The Verge",
+      "publishedAt": "2026-04-06T15:54:19Z",
+      "snippet": "Iran's Islamic Revolutionary Guard Corps (IRGC) has published a video threatening OpenAI's planned Abu Dhabi datacenter if the US follows through on threats to attack the country's power plants, as re"
+    },
+    {
+      "title": "Cisco CEO Chuck Robbins wants data centers in space",
+      "url": "https://www.theverge.com/podcast/906727/cisco-ceo-chuck-robbins-data-centers-space-ai-elon-musk-interview",
+      "source": "The Verge",
+      "publishedAt": "2026-04-06T15:15:00Z",
+      "snippet": "Today, I\u2019m talking with Chuck Robbins, CEO of Cisco. Cisco is one of those big companies that everyone has heard of but that most of us don\u2019t have to interact with very much; it\u2019s not really a consume"
+    },
+    {
+      "title": "Startup Battlefield 200 applications open: a chance for VC access, TechCrunch coverage, and $100K",
       "url": "https://techcrunch.com/2026/04/06/startup-battlefield-200-applications-open-get-vc-access-techcrunch-coverage-and-100k/",
       "source": "TechCrunch",
       "publishedAt": "2026-04-06T14:30:00Z",
@@ -149,32 +170,11 @@
       "snippet": "A new poll shows that the debate over data centers is far from settled."
     },
     {
-      "title": "The Facebook insider building content moderation for the AI era",
-      "url": "https://techcrunch.com/2026/04/03/moonbounce-fundraise-content-moderation-for-the-ai-era/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-04-03T14:00:15Z",
-      "snippet": "Moonbounce has raised $12 million to grow its AI control engine that converts content moderation policies into consistent, predictable AI behavior."
-    },
-    {
       "title": "Apple\u2019s best product ever",
       "url": "https://www.theverge.com/podcast/906548/best-apple-product-vergecast",
       "source": "The Verge",
       "publishedAt": "2026-04-03T12:52:41Z",
       "snippet": "All week, we've been asking you to help us rank the 50 best products Apple ever made, as we mark the company's 50th anniversary. Thanks to everyone who pitched in - we ended up with more than 1.6 mill"
-    },
-    {
-      "title": "Chatbots are now prescribing psychiatric drugs",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/906525/ai-chatbot-prescribe-refill-psychiatric-drugs",
-      "source": "The Verge",
-      "publishedAt": "2026-04-03T11:43:21Z",
-      "snippet": "Utah is allowing an AI system to prescribe psychiatric drugs without a doctor. It's only the second time the state - and the country - has delegated this kind of clinical authority to AI. State offici"
-    },
-    {
-      "title": "PSA: Anyone with a link can view your Granola notes by default",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/906253/granola-note-links-ai-training-psa",
-      "source": "The Verge",
-      "publishedAt": "2026-04-02T21:56:16Z",
-      "snippet": "If you use the AI-powered note-taking app Granola, you might want to double-check your privacy settings. Though Granola says your notes are \"private by default,\" it makes them viewable to anyone with "
     }
   ],
   "trending": [
