@@ -1,8 +1,15 @@
 {
-  "updated": "2026-04-07T18:58:55Z",
+  "updated": "2026-04-07T20:42:18Z",
   "news": [
     {
-      "title": "Firmus, the \u2018Southgate\u2019 AI datacenter builder backed by Nvidia, hits $5.5B valuation",
+      "title": "Spotify&#8217;s Prompted Playlists can help you find new podcasts to listen to",
+      "url": "https://www.theverge.com/entertainment/908339/spotify-prompted-playlists-podcasts",
+      "source": "The Verge",
+      "publishedAt": "2026-04-07T20:13:23Z",
+      "snippet": "On Tuesday, Spotify expanded its Prompted Playlists feature to include podcasts, an update that could make it easier for Premium users to find new shows to listen to. Prompted Playlists were originall"
+    },
+    {
+      "title": "Firmus, the \u2018Southgate\u2019 AI data center builder backed by Nvidia, hits $5.5B valuation",
       "url": "https://techcrunch.com/2026/04/07/firmus-the-southgate-ai-datacenter-builder-backed-by-nvidia-hits-5-5b-valuation/",
       "source": "TechCrunch",
       "publishedAt": "2026-04-07T18:46:55Z",
@@ -13,7 +20,7 @@
       "url": "https://techcrunch.com/2026/04/07/intel-signs-on-to-elon-musks-terafab-chips-project/",
       "source": "TechCrunch",
       "publishedAt": "2026-04-07T18:10:01Z",
-      "snippet": "The partnership brings semiconductor experience to Musk's latest high-tech project."
+      "snippet": "Intel will join SpaceX and Tesla in an effort to build a new U.S. semiconductor factory in Texas, although the scope of its contributions are unclear."
     },
     {
       "title": "A new Anthropic model found security problems &#8216;in every major operating system and web browser&#8217;",
@@ -168,13 +175,6 @@
       "source": "The Verge",
       "publishedAt": "2026-04-05T12:00:00Z",
       "snippet": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the ups and downs of AI, follow Stevie Bonifield. The Stepback arrives in our subscribers' "
-    },
-    {
-      "title": "A folk musician became a target for AI fakes and a copyright troll",
-      "url": "https://www.theverge.com/entertainment/907111/murphy-campbell-folk-music-ai-copyright",
-      "source": "The Verge",
-      "publishedAt": "2026-04-04T17:52:10Z",
-      "snippet": "In January, folk artist Murphy Campbell discovered several songs on her Spotify profile that did not belong there. They were songs that she had recorded, but she'd never uploaded them to Spotify, and "
     }
   ],
   "trending": [
