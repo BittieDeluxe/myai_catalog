@@ -1,6 +1,13 @@
 {
-  "updated": "2026-04-07T08:57:42Z",
+  "updated": "2026-04-07T10:52:07Z",
   "news": [
+    {
+      "title": "Gemini is making it faster for distressed users to reach mental health resources",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/907842/google-gemini-mental-health-interface-update",
+      "source": "The Verge",
+      "publishedAt": "2026-04-07T10:09:57Z",
+      "snippet": "Google says it has updated Gemini to better direct users to get mental health resources during moments of crisis. The change comes as the tech giant faces a wrongful death lawsuit alleging its chatbot"
+    },
     {
       "title": "AI startup Rocket offers vibe McKinsey-style reports at a fraction of the cost",
       "url": "https://techcrunch.com/2026/04/06/indian-startup-rocket-wants-its-ai-to-do-mckinsey-style-consulting-at-a-fraction-of-the-cost/",
@@ -168,13 +175,6 @@
       "source": "The Verge",
       "publishedAt": "2026-04-03T20:22:59Z",
       "snippet": "OpenAI is undergoing another round of C-suite changes, according to an internal memo viewed by The Verge. Fidji Simo, OpenAI's CEO of AGI deployment - who was until recently the company's CEO of appli"
-    },
-    {
-      "title": "Apple\u2019s best product ever",
-      "url": "https://www.theverge.com/podcast/906548/best-apple-product-vergecast",
-      "source": "The Verge",
-      "publishedAt": "2026-04-03T12:52:41Z",
-      "snippet": "All week, we've been asking you to help us rank the 50 best products Apple ever made, as we mark the company's 50th anniversary. Thanks to everyone who pitched in - we ended up with more than 1.6 mill"
     }
   ],
   "trending": [
