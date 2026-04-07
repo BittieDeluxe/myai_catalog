@@ -1,12 +1,47 @@
 {
-  "updated": "2026-04-07T15:04:08Z",
+  "updated": "2026-04-07T16:53:48Z",
   "news": [
+    {
+      "title": "Uber is the latest to be won over by Amazon\u2019s AI chips",
+      "url": "https://techcrunch.com/2026/04/07/uber-is-the-latest-to-be-won-over-by-amazons-ai-chips/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-04-07T16:46:59Z",
+      "snippet": "Uber is expanding its AWS contract to run more of its ride-sharing features on Amazon's chips. This is a thumb-of-the nose at Oracle and Google."
+    },
+    {
+      "title": "Suno and major music labels reportedly clash over AI music sharing",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/908119/suno-sony-universal-music-ai-disagreement",
+      "source": "The Verge",
+      "publishedAt": "2026-04-07T16:21:22Z",
+      "snippet": "The AI-powered musicmaker Suno is struggling to reach licensing deals with Universal Music Group and Sony Music Entertainment. That's according to a report from the Financial Times, which says both si"
+    },
+    {
+      "title": "Anthropic\u00a0ups compute deal with Google and Broadcom amid skyrocketing demand",
+      "url": "https://techcrunch.com/2026/04/07/anthropic-compute-deal-google-broadcom-tpus/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-04-07T16:05:56Z",
+      "snippet": "Anthropic bulked up its compute deal with Google and Broadcom as the company has seen its run-rate revenue surge to $30 billion."
+    },
+    {
+      "title": "Intel will help build Elon Musk\u2019s Terafab AI chip factory",
+      "url": "https://www.theverge.com/transportation/907976/elon-musk-terafab-intel-ai-chip-spacex-tesla",
+      "source": "The Verge",
+      "publishedAt": "2026-04-07T15:43:17Z",
+      "snippet": "Elon Musk's Terafab AI chip project in Austin, Texas, is gaining a crucial new partner: Intel. On Tuesday, the American chipmaker announced it was signing on to help design and build the sprawling fac"
+    },
+    {
+      "title": "Google Maps can now write captions for your photos using AI",
+      "url": "https://techcrunch.com/2026/04/07/google-maps-can-now-write-captions-for-your-photos-using-ai/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-04-07T15:30:00Z",
+      "snippet": "Gemini can now create captions when users are looking to share a photo or video."
+    },
     {
       "title": "4\u00a0days left to save close to $500 on TechCrunch Disrupt 2026 passes",
       "url": "https://techcrunch.com/2026/04/07/4-days-left-to-save-close-to-500-on-techcrunch-disrupt-2026-passes/",
       "source": "TechCrunch",
       "publishedAt": "2026-04-07T14:00:00Z",
-      "snippet": "4 days left to save up to $482 on your\u00a0TechCrunch disrupt 2026 ticket. These low rates will disappear on April 10 at 11:59 p.m. PT. Register here."
+      "snippet": "Four days left to save up to $482 on your\u00a0TechCrunch Disrupt 2026 ticket. These low rates will disappear on April 10 at 11:59 p.m. PT. Register now."
     },
     {
       "title": "The AI gold rush is pulling private wealth into riskier, earlier bets",
@@ -114,25 +149,11 @@
       "snippet": "AI music platform Suno's policy is that it does not permit the use of copyrighted material. You can upload your own tracks to remix or set your original lyrics to AI-generated music. But, it's suppose"
     },
     {
-      "title": "Can orbital data centers help justify a massive valuation for SpaceX?",
-      "url": "https://techcrunch.com/2026/04/05/can-orbital-data-centers-help-justify-a-massive-valuation-for-spacex/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-04-05T15:40:58Z",
-      "snippet": "On the latest episode of TechCrunch\u2019s Equity podcast, we debated Elon Musk's vision for data centers in space."
-    },
-    {
       "title": "I let Gemini in Google Maps plan my day and it went surprisingly well",
       "url": "https://www.theverge.com/tech/907015/gemini-google-maps-hands-on",
       "source": "The Verge",
       "publishedAt": "2026-04-05T14:00:00Z",
       "snippet": "You may be familiar with Gemini as the thing that's in every Google service you use - whether you want it or not. While it's been a constant, sometimes unwelcome presence in Gmail for at least the pas"
-    },
-    {
-      "title": "In Japan, the robot isn\u2019t coming for your job; it\u2019s filling the one nobody wants",
-      "url": "https://techcrunch.com/2026/04/05/japan-is-proving-experimental-physical-ai-is-ready-for-the-real-world/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-04-05T14:00:00Z",
-      "snippet": "Driven by labor shortages, Japan is pushing physical AI from pilot projects into real-world deployment."
     },
     {
       "title": "Grammarly\u2019s sloppelganger saga",
@@ -149,32 +170,11 @@
       "snippet": "In January, folk artist Murphy Campbell discovered several songs on her Spotify profile that did not belong there. They were songs that she had recorded, but she'd never uploaded them to Spotify, and "
     },
     {
-      "title": "Anthropic says Claude Code subscribers will need to pay extra for OpenClaw usage",
-      "url": "https://techcrunch.com/2026/04/04/anthropic-says-claude-code-subscribers-will-need-to-pay-extra-for-openclaw-support/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-04-04T16:32:22Z",
-      "snippet": "It\u2019s about to become more expensive for Claude Code subscribers to use Anthropic\u2019s coding assistant with OpenClaw and other third-party tools."
-    },
-    {
       "title": "Really, you made this without AI? Prove it",
       "url": "https://www.theverge.com/tech/906453/human-made-ai-free-logo-creative-content",
       "source": "The Verge",
       "publishedAt": "2026-04-04T13:00:00Z",
       "snippet": "\"This looks like AI.\" It's a phrase I dread seeing as a writer who dabbles in illustration and amateur photography. In a world where generative AI technology is increasingly adept at mimicking the wor"
-    },
-    {
-      "title": "Anthropic essentially bans OpenClaw from Claude by making subscribers pay extra",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/907074/anthropic-openclaw-claude-subscription-ban",
-      "source": "The Verge",
-      "publishedAt": "2026-04-03T23:52:49Z",
-      "snippet": "Using OpenClaw with Claude AI is about to get a lot more expensive, thanks to Anthropic's new policy changes. Beginning April 4th at 3PM ET, users will \"no longer be able to use your Claude subscripti"
-    },
-    {
-      "title": "OpenAI\u2019s AGI boss is taking a leave of absence",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/906965/openais-agi-boss-is-taking-a-leave-of-absence",
-      "source": "The Verge",
-      "publishedAt": "2026-04-03T20:22:59Z",
-      "snippet": "OpenAI is undergoing another round of C-suite changes, according to an internal memo viewed by The Verge. Fidji Simo, OpenAI's CEO of AGI deployment - who was until recently the company's CEO of appli"
     }
   ],
   "trending": [
@@ -209,14 +209,14 @@
       "downloads": 775478
     },
     {
-      "id": "Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-v2-GGUF",
-      "displayName": "Qwen3.5 27B Claude 4.6 Opus Reasoning Distilled v2",
-      "downloads": 292760
-    },
-    {
       "id": "unsloth/gemma-4-E4B-it-GGUF",
       "displayName": "gemma 4 E4B",
       "downloads": 531000
+    },
+    {
+      "id": "Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-v2-GGUF",
+      "displayName": "Qwen3.5 27B Claude 4.6 Opus Reasoning Distilled v2",
+      "downloads": 292760
     },
     {
       "id": "HauhauCS/Gemma-4-E4B-Uncensored-HauhauCS-Aggressive",
