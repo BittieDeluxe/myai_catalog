@@ -237,7 +237,7 @@
       "downloadURL": "https://huggingface.co/bartowski/Qwen_Qwen3.5-4B-GGUF/resolve/main/Qwen_Qwen3.5-4B-Q2_K.gguf",
       "filename": "Qwen_Qwen3.5-4B-Q2_K.gguf",
       "badge": null,
-      "hfDownloads": 216049,
+      "hfDownloads": 224727,
       "quantization": "Q2_K"
     },
     {
@@ -249,7 +249,7 @@
       "downloadURL": "https://huggingface.co/bartowski/Qwen_Qwen3.5-4B-GGUF/resolve/main/Qwen_Qwen3.5-4B-Q3_K_M.gguf",
       "filename": "Qwen_Qwen3.5-4B-Q3_K_M.gguf",
       "badge": "Most Compatible",
-      "hfDownloads": 216049,
+      "hfDownloads": 224727,
       "quantization": "Q3_K_M"
     },
     {
@@ -261,7 +261,7 @@
       "downloadURL": "https://huggingface.co/bartowski/Qwen_Qwen3.5-4B-GGUF/resolve/main/Qwen_Qwen3.5-4B-Q4_K_S.gguf",
       "filename": "Qwen_Qwen3.5-4B-Q4_K_S.gguf",
       "badge": null,
-      "hfDownloads": 216049,
+      "hfDownloads": 224727,
       "quantization": "Q4_K_S"
     },
     {
@@ -273,7 +273,7 @@
       "downloadURL": "https://huggingface.co/bartowski/Qwen_Qwen3.5-4B-GGUF/resolve/main/Qwen_Qwen3.5-4B-Q4_K_M.gguf",
       "filename": "Qwen_Qwen3.5-4B-Q4_K_M.gguf",
       "badge": null,
-      "hfDownloads": 216049,
+      "hfDownloads": 224727,
       "quantization": "Q4_K_M"
     },
     {
@@ -285,7 +285,7 @@
       "downloadURL": "https://huggingface.co/bartowski/Qwen_Qwen3.5-4B-GGUF/resolve/main/Qwen_Qwen3.5-4B-Q4_0.gguf",
       "filename": "Qwen_Qwen3.5-4B-Q4_0.gguf",
       "badge": null,
-      "hfDownloads": 216049,
+      "hfDownloads": 224727,
       "quantization": "Q4_0"
     },
     {
@@ -297,7 +297,7 @@
       "downloadURL": "https://huggingface.co/bartowski/Qwen_Qwen3.5-4B-GGUF/resolve/main/Qwen_Qwen3.5-4B-Q5_K_M.gguf",
       "filename": "Qwen_Qwen3.5-4B-Q5_K_M.gguf",
       "badge": null,
-      "hfDownloads": 216049,
+      "hfDownloads": 224727,
       "quantization": "Q5_K_M"
     },
     {
@@ -309,7 +309,7 @@
       "downloadURL": "https://huggingface.co/bartowski/Qwen_Qwen3.5-4B-GGUF/resolve/main/Qwen_Qwen3.5-4B-Q6_K.gguf",
       "filename": "Qwen_Qwen3.5-4B-Q6_K.gguf",
       "badge": null,
-      "hfDownloads": 216049,
+      "hfDownloads": 224727,
       "quantization": "Q6_K"
     },
     {
@@ -321,7 +321,7 @@
       "downloadURL": "https://huggingface.co/bartowski/Qwen_Qwen3.5-4B-GGUF/resolve/main/Qwen_Qwen3.5-4B-Q8_0.gguf",
       "filename": "Qwen_Qwen3.5-4B-Q8_0.gguf",
       "badge": "High Quality",
-      "hfDownloads": 216049,
+      "hfDownloads": 224727,
       "quantization": "Q8_0"
     },
     {
@@ -333,7 +333,7 @@
       "downloadURL": "https://huggingface.co/bartowski/Qwen_Qwen3.5-0.8B-GGUF/resolve/main/Qwen_Qwen3.5-0.8B-Q2_K.gguf",
       "filename": "Qwen_Qwen3.5-0.8B-Q2_K.gguf",
       "badge": null,
-      "hfDownloads": 194050,
+      "hfDownloads": 203683,
       "quantization": "Q2_K"
     },
     {
@@ -345,7 +345,7 @@
       "downloadURL": "https://huggingface.co/bartowski/Qwen_Qwen3.5-0.8B-GGUF/resolve/main/Qwen_Qwen3.5-0.8B-Q3_K_M.gguf",
       "filename": "Qwen_Qwen3.5-0.8B-Q3_K_M.gguf",
       "badge": "Most Compatible",
-      "hfDownloads": 194050,
+      "hfDownloads": 203683,
       "quantization": "Q3_K_M"
     },
     {
@@ -357,7 +357,7 @@
       "downloadURL": "https://huggingface.co/bartowski/Qwen_Qwen3.5-0.8B-GGUF/resolve/main/Qwen_Qwen3.5-0.8B-Q4_K_S.gguf",
       "filename": "Qwen_Qwen3.5-0.8B-Q4_K_S.gguf",
       "badge": null,
-      "hfDownloads": 194050,
+      "hfDownloads": 203683,
       "quantization": "Q4_K_S"
     },
     {
@@ -369,7 +369,7 @@
       "downloadURL": "https://huggingface.co/bartowski/Qwen_Qwen3.5-0.8B-GGUF/resolve/main/Qwen_Qwen3.5-0.8B-Q4_K_M.gguf",
       "filename": "Qwen_Qwen3.5-0.8B-Q4_K_M.gguf",
       "badge": null,
-      "hfDownloads": 194050,
+      "hfDownloads": 203683,
       "quantization": "Q4_K_M"
     },
     {
@@ -381,7 +381,7 @@
       "downloadURL": "https://huggingface.co/bartowski/Qwen_Qwen3.5-0.8B-GGUF/resolve/main/Qwen_Qwen3.5-0.8B-Q4_0.gguf",
       "filename": "Qwen_Qwen3.5-0.8B-Q4_0.gguf",
       "badge": null,
-      "hfDownloads": 194050,
+      "hfDownloads": 203683,
       "quantization": "Q4_0"
     },
     {
@@ -393,7 +393,7 @@
       "downloadURL": "https://huggingface.co/bartowski/Qwen_Qwen3.5-0.8B-GGUF/resolve/main/Qwen_Qwen3.5-0.8B-Q5_K_M.gguf",
       "filename": "Qwen_Qwen3.5-0.8B-Q5_K_M.gguf",
       "badge": null,
-      "hfDownloads": 194050,
+      "hfDownloads": 203683,
       "quantization": "Q5_K_M"
     },
     {
@@ -405,7 +405,7 @@
       "downloadURL": "https://huggingface.co/bartowski/Qwen_Qwen3.5-0.8B-GGUF/resolve/main/Qwen_Qwen3.5-0.8B-Q6_K.gguf",
       "filename": "Qwen_Qwen3.5-0.8B-Q6_K.gguf",
       "badge": null,
-      "hfDownloads": 194050,
+      "hfDownloads": 203683,
       "quantization": "Q6_K"
     },
     {
@@ -417,7 +417,7 @@
       "downloadURL": "https://huggingface.co/bartowski/Qwen_Qwen3.5-0.8B-GGUF/resolve/main/Qwen_Qwen3.5-0.8B-Q8_0.gguf",
       "filename": "Qwen_Qwen3.5-0.8B-Q8_0.gguf",
       "badge": "High Quality",
-      "hfDownloads": 194050,
+      "hfDownloads": 203683,
       "quantization": "Q8_0"
     },
     {
@@ -429,7 +429,7 @@
       "downloadURL": "https://huggingface.co/bartowski/Qwen_Qwen3.5-2B-GGUF/resolve/main/Qwen_Qwen3.5-2B-Q2_K.gguf",
       "filename": "Qwen_Qwen3.5-2B-Q2_K.gguf",
       "badge": null,
-      "hfDownloads": 182230,
+      "hfDownloads": 192082,
       "quantization": "Q2_K"
     },
     {
@@ -441,7 +441,7 @@
       "downloadURL": "https://huggingface.co/bartowski/Qwen_Qwen3.5-2B-GGUF/resolve/main/Qwen_Qwen3.5-2B-Q3_K_M.gguf",
       "filename": "Qwen_Qwen3.5-2B-Q3_K_M.gguf",
       "badge": "Most Compatible",
-      "hfDownloads": 182230,
+      "hfDownloads": 192082,
       "quantization": "Q3_K_M"
     },
     {
@@ -453,7 +453,7 @@
       "downloadURL": "https://huggingface.co/bartowski/Qwen_Qwen3.5-2B-GGUF/resolve/main/Qwen_Qwen3.5-2B-Q4_K_S.gguf",
       "filename": "Qwen_Qwen3.5-2B-Q4_K_S.gguf",
       "badge": null,
-      "hfDownloads": 182230,
+      "hfDownloads": 192082,
       "quantization": "Q4_K_S"
     },
     {
@@ -465,7 +465,7 @@
       "downloadURL": "https://huggingface.co/bartowski/Qwen_Qwen3.5-2B-GGUF/resolve/main/Qwen_Qwen3.5-2B-Q4_K_M.gguf",
       "filename": "Qwen_Qwen3.5-2B-Q4_K_M.gguf",
       "badge": null,
-      "hfDownloads": 182230,
+      "hfDownloads": 192082,
       "quantization": "Q4_K_M"
     },
     {
@@ -477,7 +477,7 @@
       "downloadURL": "https://huggingface.co/bartowski/Qwen_Qwen3.5-2B-GGUF/resolve/main/Qwen_Qwen3.5-2B-Q4_0.gguf",
       "filename": "Qwen_Qwen3.5-2B-Q4_0.gguf",
       "badge": null,
-      "hfDownloads": 182230,
+      "hfDownloads": 192082,
       "quantization": "Q4_0"
     },
     {
@@ -489,7 +489,7 @@
       "downloadURL": "https://huggingface.co/bartowski/Qwen_Qwen3.5-2B-GGUF/resolve/main/Qwen_Qwen3.5-2B-Q5_K_M.gguf",
       "filename": "Qwen_Qwen3.5-2B-Q5_K_M.gguf",
       "badge": null,
-      "hfDownloads": 182230,
+      "hfDownloads": 192082,
       "quantization": "Q5_K_M"
     },
     {
@@ -501,7 +501,7 @@
       "downloadURL": "https://huggingface.co/bartowski/Qwen_Qwen3.5-2B-GGUF/resolve/main/Qwen_Qwen3.5-2B-Q6_K.gguf",
       "filename": "Qwen_Qwen3.5-2B-Q6_K.gguf",
       "badge": null,
-      "hfDownloads": 182230,
+      "hfDownloads": 192082,
       "quantization": "Q6_K"
     },
     {
@@ -513,7 +513,7 @@
       "downloadURL": "https://huggingface.co/bartowski/Qwen_Qwen3.5-2B-GGUF/resolve/main/Qwen_Qwen3.5-2B-Q8_0.gguf",
       "filename": "Qwen_Qwen3.5-2B-Q8_0.gguf",
       "badge": "High Quality",
-      "hfDownloads": 182230,
+      "hfDownloads": 192082,
       "quantization": "Q8_0"
     },
     {
@@ -597,7 +597,7 @@
       "downloadURL": "https://huggingface.co/bartowski/google_gemma-4-E4B-it-GGUF/resolve/main/google_gemma-4-E4B-it-Q2_K.gguf",
       "filename": "google_gemma-4-E4B-it-Q2_K.gguf",
       "badge": null,
-      "hfDownloads": 36256,
+      "hfDownloads": 53628,
       "quantization": "Q2_K"
     },
     {
@@ -609,7 +609,7 @@
       "downloadURL": "https://huggingface.co/bartowski/google_gemma-4-E4B-it-GGUF/resolve/main/google_gemma-4-E4B-it-Q3_K_M.gguf",
       "filename": "google_gemma-4-E4B-it-Q3_K_M.gguf",
       "badge": "Most Compatible",
-      "hfDownloads": 36256,
+      "hfDownloads": 53628,
       "quantization": "Q3_K_M"
     },
     {
@@ -621,7 +621,7 @@
       "downloadURL": "https://huggingface.co/bartowski/google_gemma-4-E4B-it-GGUF/resolve/main/google_gemma-4-E4B-it-Q4_K_S.gguf",
       "filename": "google_gemma-4-E4B-it-Q4_K_S.gguf",
       "badge": null,
-      "hfDownloads": 36256,
+      "hfDownloads": 53628,
       "quantization": "Q4_K_S"
     },
     {
@@ -633,7 +633,7 @@
       "downloadURL": "https://huggingface.co/bartowski/google_gemma-4-E4B-it-GGUF/resolve/main/google_gemma-4-E4B-it-Q4_K_M.gguf",
       "filename": "google_gemma-4-E4B-it-Q4_K_M.gguf",
       "badge": null,
-      "hfDownloads": 36256,
+      "hfDownloads": 53628,
       "quantization": "Q4_K_M"
     },
     {
@@ -645,7 +645,7 @@
       "downloadURL": "https://huggingface.co/bartowski/google_gemma-4-E4B-it-GGUF/resolve/main/google_gemma-4-E4B-it-Q4_0.gguf",
       "filename": "google_gemma-4-E4B-it-Q4_0.gguf",
       "badge": null,
-      "hfDownloads": 36256,
+      "hfDownloads": 53628,
       "quantization": "Q4_0"
     },
     {
@@ -657,7 +657,7 @@
       "downloadURL": "https://huggingface.co/bartowski/google_gemma-4-E4B-it-GGUF/resolve/main/google_gemma-4-E4B-it-Q5_K_M.gguf",
       "filename": "google_gemma-4-E4B-it-Q5_K_M.gguf",
       "badge": null,
-      "hfDownloads": 36256,
+      "hfDownloads": 53628,
       "quantization": "Q5_K_M"
     },
     {
@@ -669,7 +669,7 @@
       "downloadURL": "https://huggingface.co/bartowski/google_gemma-4-E4B-it-GGUF/resolve/main/google_gemma-4-E4B-it-Q6_K.gguf",
       "filename": "google_gemma-4-E4B-it-Q6_K.gguf",
       "badge": null,
-      "hfDownloads": 36256,
+      "hfDownloads": 53628,
       "quantization": "Q6_K"
     },
     {
@@ -681,7 +681,7 @@
       "downloadURL": "https://huggingface.co/bartowski/google_gemma-4-E4B-it-GGUF/resolve/main/google_gemma-4-E4B-it-Q8_0.gguf",
       "filename": "google_gemma-4-E4B-it-Q8_0.gguf",
       "badge": "High Quality",
-      "hfDownloads": 36256,
+      "hfDownloads": 53628,
       "quantization": "Q8_0"
     },
     {
@@ -693,7 +693,7 @@
       "downloadURL": "https://huggingface.co/bartowski/google_gemma-4-E2B-it-GGUF/resolve/main/google_gemma-4-E2B-it-Q2_K.gguf",
       "filename": "google_gemma-4-E2B-it-Q2_K.gguf",
       "badge": null,
-      "hfDownloads": 28198,
+      "hfDownloads": 35463,
       "quantization": "Q2_K"
     },
     {
@@ -705,7 +705,7 @@
       "downloadURL": "https://huggingface.co/bartowski/google_gemma-4-E2B-it-GGUF/resolve/main/google_gemma-4-E2B-it-Q3_K_M.gguf",
       "filename": "google_gemma-4-E2B-it-Q3_K_M.gguf",
       "badge": "Most Compatible",
-      "hfDownloads": 28198,
+      "hfDownloads": 35463,
       "quantization": "Q3_K_M"
     },
     {
@@ -717,7 +717,7 @@
       "downloadURL": "https://huggingface.co/bartowski/google_gemma-4-E2B-it-GGUF/resolve/main/google_gemma-4-E2B-it-Q4_K_S.gguf",
       "filename": "google_gemma-4-E2B-it-Q4_K_S.gguf",
       "badge": null,
-      "hfDownloads": 28198,
+      "hfDownloads": 35463,
       "quantization": "Q4_K_S"
     },
     {
@@ -729,7 +729,7 @@
       "downloadURL": "https://huggingface.co/bartowski/google_gemma-4-E2B-it-GGUF/resolve/main/google_gemma-4-E2B-it-Q4_K_M.gguf",
       "filename": "google_gemma-4-E2B-it-Q4_K_M.gguf",
       "badge": null,
-      "hfDownloads": 28198,
+      "hfDownloads": 35463,
       "quantization": "Q4_K_M"
     },
     {
@@ -741,7 +741,7 @@
       "downloadURL": "https://huggingface.co/bartowski/google_gemma-4-E2B-it-GGUF/resolve/main/google_gemma-4-E2B-it-Q4_0.gguf",
       "filename": "google_gemma-4-E2B-it-Q4_0.gguf",
       "badge": null,
-      "hfDownloads": 28198,
+      "hfDownloads": 35463,
       "quantization": "Q4_0"
     },
     {
@@ -753,7 +753,7 @@
       "downloadURL": "https://huggingface.co/bartowski/google_gemma-4-E2B-it-GGUF/resolve/main/google_gemma-4-E2B-it-Q5_K_M.gguf",
       "filename": "google_gemma-4-E2B-it-Q5_K_M.gguf",
       "badge": null,
-      "hfDownloads": 28198,
+      "hfDownloads": 35463,
       "quantization": "Q5_K_M"
     },
     {
@@ -765,7 +765,7 @@
       "downloadURL": "https://huggingface.co/bartowski/google_gemma-4-E2B-it-GGUF/resolve/main/google_gemma-4-E2B-it-Q6_K.gguf",
       "filename": "google_gemma-4-E2B-it-Q6_K.gguf",
       "badge": null,
-      "hfDownloads": 28198,
+      "hfDownloads": 35463,
       "quantization": "Q6_K"
     },
     {
@@ -777,7 +777,7 @@
       "downloadURL": "https://huggingface.co/bartowski/google_gemma-4-E2B-it-GGUF/resolve/main/google_gemma-4-E2B-it-Q8_0.gguf",
       "filename": "google_gemma-4-E2B-it-Q8_0.gguf",
       "badge": "High Quality",
-      "hfDownloads": 28198,
+      "hfDownloads": 35463,
       "quantization": "Q8_0"
     },
     {
@@ -789,7 +789,7 @@
       "downloadURL": "https://huggingface.co/bartowski/google_gemma-3-4b-it-GGUF/resolve/main/google_gemma-3-4b-it-Q2_K.gguf",
       "filename": "google_gemma-3-4b-it-Q2_K.gguf",
       "badge": null,
-      "hfDownloads": 27533,
+      "hfDownloads": 28446,
       "quantization": "Q2_K"
     },
     {
@@ -801,7 +801,7 @@
       "downloadURL": "https://huggingface.co/bartowski/google_gemma-3-4b-it-GGUF/resolve/main/google_gemma-3-4b-it-Q3_K_M.gguf",
       "filename": "google_gemma-3-4b-it-Q3_K_M.gguf",
       "badge": "Most Compatible",
-      "hfDownloads": 27533,
+      "hfDownloads": 28446,
       "quantization": "Q3_K_M"
     },
     {
@@ -813,7 +813,7 @@
       "downloadURL": "https://huggingface.co/bartowski/google_gemma-3-4b-it-GGUF/resolve/main/google_gemma-3-4b-it-Q4_K_S.gguf",
       "filename": "google_gemma-3-4b-it-Q4_K_S.gguf",
       "badge": null,
-      "hfDownloads": 27533,
+      "hfDownloads": 28446,
       "quantization": "Q4_K_S"
     },
     {
@@ -825,7 +825,7 @@
       "downloadURL": "https://huggingface.co/bartowski/google_gemma-3-4b-it-GGUF/resolve/main/google_gemma-3-4b-it-Q4_K_M.gguf",
       "filename": "google_gemma-3-4b-it-Q4_K_M.gguf",
       "badge": null,
-      "hfDownloads": 27533,
+      "hfDownloads": 28446,
       "quantization": "Q4_K_M"
     },
     {
@@ -837,7 +837,7 @@
       "downloadURL": "https://huggingface.co/bartowski/google_gemma-3-4b-it-GGUF/resolve/main/google_gemma-3-4b-it-Q4_0.gguf",
       "filename": "google_gemma-3-4b-it-Q4_0.gguf",
       "badge": null,
-      "hfDownloads": 27533,
+      "hfDownloads": 28446,
       "quantization": "Q4_0"
     },
     {
@@ -849,7 +849,7 @@
       "downloadURL": "https://huggingface.co/bartowski/google_gemma-3-4b-it-GGUF/resolve/main/google_gemma-3-4b-it-Q5_K_M.gguf",
       "filename": "google_gemma-3-4b-it-Q5_K_M.gguf",
       "badge": null,
-      "hfDownloads": 27533,
+      "hfDownloads": 28446,
       "quantization": "Q5_K_M"
     },
     {
@@ -861,7 +861,7 @@
       "downloadURL": "https://huggingface.co/bartowski/google_gemma-3-4b-it-GGUF/resolve/main/google_gemma-3-4b-it-Q6_K.gguf",
       "filename": "google_gemma-3-4b-it-Q6_K.gguf",
       "badge": null,
-      "hfDownloads": 27533,
+      "hfDownloads": 28446,
       "quantization": "Q6_K"
     },
     {
@@ -873,7 +873,7 @@
       "downloadURL": "https://huggingface.co/bartowski/google_gemma-3-4b-it-GGUF/resolve/main/google_gemma-3-4b-it-Q8_0.gguf",
       "filename": "google_gemma-3-4b-it-Q8_0.gguf",
       "badge": "High Quality",
-      "hfDownloads": 27533,
+      "hfDownloads": 28446,
       "quantization": "Q8_0"
     },
     {
@@ -885,7 +885,7 @@
       "downloadURL": "https://huggingface.co/bartowski/DeepSeek-R1-Distill-Qwen-1.5B-GGUF/resolve/main/DeepSeek-R1-Distill-Qwen-1.5B-Q2_K.gguf",
       "filename": "DeepSeek-R1-Distill-Qwen-1.5B-Q2_K.gguf",
       "badge": null,
-      "hfDownloads": 17066,
+      "hfDownloads": 16480,
       "quantization": "Q2_K"
     },
     {
@@ -897,7 +897,7 @@
       "downloadURL": "https://huggingface.co/bartowski/DeepSeek-R1-Distill-Qwen-1.5B-GGUF/resolve/main/DeepSeek-R1-Distill-Qwen-1.5B-Q3_K_M.gguf",
       "filename": "DeepSeek-R1-Distill-Qwen-1.5B-Q3_K_M.gguf",
       "badge": "Most Compatible",
-      "hfDownloads": 17066,
+      "hfDownloads": 16480,
       "quantization": "Q3_K_M"
     },
     {
@@ -909,7 +909,7 @@
       "downloadURL": "https://huggingface.co/bartowski/DeepSeek-R1-Distill-Qwen-1.5B-GGUF/resolve/main/DeepSeek-R1-Distill-Qwen-1.5B-Q4_K_S.gguf",
       "filename": "DeepSeek-R1-Distill-Qwen-1.5B-Q4_K_S.gguf",
       "badge": null,
-      "hfDownloads": 17066,
+      "hfDownloads": 16480,
       "quantization": "Q4_K_S"
     },
     {
@@ -921,7 +921,7 @@
       "downloadURL": "https://huggingface.co/bartowski/DeepSeek-R1-Distill-Qwen-1.5B-GGUF/resolve/main/DeepSeek-R1-Distill-Qwen-1.5B-Q4_K_M.gguf",
       "filename": "DeepSeek-R1-Distill-Qwen-1.5B-Q4_K_M.gguf",
       "badge": null,
-      "hfDownloads": 17066,
+      "hfDownloads": 16480,
       "quantization": "Q4_K_M"
     },
     {
@@ -933,7 +933,7 @@
       "downloadURL": "https://huggingface.co/bartowski/DeepSeek-R1-Distill-Qwen-1.5B-GGUF/resolve/main/DeepSeek-R1-Distill-Qwen-1.5B-Q4_0.gguf",
       "filename": "DeepSeek-R1-Distill-Qwen-1.5B-Q4_0.gguf",
       "badge": null,
-      "hfDownloads": 17066,
+      "hfDownloads": 16480,
       "quantization": "Q4_0"
     },
     {
@@ -945,7 +945,7 @@
       "downloadURL": "https://huggingface.co/bartowski/DeepSeek-R1-Distill-Qwen-1.5B-GGUF/resolve/main/DeepSeek-R1-Distill-Qwen-1.5B-Q5_K_M.gguf",
       "filename": "DeepSeek-R1-Distill-Qwen-1.5B-Q5_K_M.gguf",
       "badge": null,
-      "hfDownloads": 17066,
+      "hfDownloads": 16480,
       "quantization": "Q5_K_M"
     },
     {
@@ -957,7 +957,7 @@
       "downloadURL": "https://huggingface.co/bartowski/DeepSeek-R1-Distill-Qwen-1.5B-GGUF/resolve/main/DeepSeek-R1-Distill-Qwen-1.5B-Q6_K.gguf",
       "filename": "DeepSeek-R1-Distill-Qwen-1.5B-Q6_K.gguf",
       "badge": null,
-      "hfDownloads": 17066,
+      "hfDownloads": 16480,
       "quantization": "Q6_K"
     },
     {
@@ -969,7 +969,7 @@
       "downloadURL": "https://huggingface.co/bartowski/DeepSeek-R1-Distill-Qwen-1.5B-GGUF/resolve/main/DeepSeek-R1-Distill-Qwen-1.5B-Q8_0.gguf",
       "filename": "DeepSeek-R1-Distill-Qwen-1.5B-Q8_0.gguf",
       "badge": "High Quality",
-      "hfDownloads": 17066,
+      "hfDownloads": 16480,
       "quantization": "Q8_0"
     },
     {
@@ -1075,102 +1075,6 @@
       "icon": "brain.head.profile",
       "models": [
         {
-          "id": "deepseek-r1-distill-qwen-32b-q2",
-          "name": "DeepSeek R1 Distill Qwen 32B",
-          "description": "32B parameter model, quantized to Q2_K.",
-          "sizeGB": 9.9,
-          "ramRequiredGB": 13.2,
-          "downloadURL": "https://huggingface.co/bartowski/DeepSeek-R1-Distill-Qwen-32B-GGUF/resolve/main/DeepSeek-R1-Distill-Qwen-32B-Q2_K.gguf",
-          "filename": "DeepSeek-R1-Distill-Qwen-32B-Q2_K.gguf",
-          "badge": null,
-          "hfDownloads": 32200,
-          "quantization": "Q2_K"
-        },
-        {
-          "id": "deepseek-r1-distill-qwen-32b-q3",
-          "name": "DeepSeek R1 Distill Qwen 32B",
-          "description": "32B parameter model, quantized to Q3_K_M.",
-          "sizeGB": 13.4,
-          "ramRequiredGB": 17.7,
-          "downloadURL": "https://huggingface.co/bartowski/DeepSeek-R1-Distill-Qwen-32B-GGUF/resolve/main/DeepSeek-R1-Distill-Qwen-32B-Q3_K_M.gguf",
-          "filename": "DeepSeek-R1-Distill-Qwen-32B-Q3_K_M.gguf",
-          "badge": "Most Compatible",
-          "hfDownloads": 32200,
-          "quantization": "Q3_K_M"
-        },
-        {
-          "id": "deepseek-r1-distill-qwen-32b-q4ks",
-          "name": "DeepSeek R1 Distill Qwen 32B",
-          "description": "32B parameter model, quantized to Q4_K_S.",
-          "sizeGB": 16.6,
-          "ramRequiredGB": 21.9,
-          "downloadURL": "https://huggingface.co/bartowski/DeepSeek-R1-Distill-Qwen-32B-GGUF/resolve/main/DeepSeek-R1-Distill-Qwen-32B-Q4_K_S.gguf",
-          "filename": "DeepSeek-R1-Distill-Qwen-32B-Q4_K_S.gguf",
-          "badge": null,
-          "hfDownloads": 32200,
-          "quantization": "Q4_K_S"
-        },
-        {
-          "id": "deepseek-r1-distill-qwen-32b-q4",
-          "name": "DeepSeek R1 Distill Qwen 32B",
-          "description": "32B parameter model, quantized to Q4_K_M.",
-          "sizeGB": 17.6,
-          "ramRequiredGB": 23.2,
-          "downloadURL": "https://huggingface.co/bartowski/DeepSeek-R1-Distill-Qwen-32B-GGUF/resolve/main/DeepSeek-R1-Distill-Qwen-32B-Q4_K_M.gguf",
-          "filename": "DeepSeek-R1-Distill-Qwen-32B-Q4_K_M.gguf",
-          "badge": null,
-          "hfDownloads": 32200,
-          "quantization": "Q4_K_M"
-        },
-        {
-          "id": "deepseek-r1-distill-qwen-32b-q40",
-          "name": "DeepSeek R1 Distill Qwen 32B",
-          "description": "32B parameter model, quantized to Q4_0.",
-          "sizeGB": 16.3,
-          "ramRequiredGB": 21.5,
-          "downloadURL": "https://huggingface.co/bartowski/DeepSeek-R1-Distill-Qwen-32B-GGUF/resolve/main/DeepSeek-R1-Distill-Qwen-32B-Q4_0.gguf",
-          "filename": "DeepSeek-R1-Distill-Qwen-32B-Q4_0.gguf",
-          "badge": null,
-          "hfDownloads": 32200,
-          "quantization": "Q4_0"
-        },
-        {
-          "id": "deepseek-r1-distill-qwen-32b-q5",
-          "name": "DeepSeek R1 Distill Qwen 32B",
-          "description": "32B parameter model, quantized to Q5_K_M.",
-          "sizeGB": 20.8,
-          "ramRequiredGB": 27.3,
-          "downloadURL": "https://huggingface.co/bartowski/DeepSeek-R1-Distill-Qwen-32B-GGUF/resolve/main/DeepSeek-R1-Distill-Qwen-32B-Q5_K_M.gguf",
-          "filename": "DeepSeek-R1-Distill-Qwen-32B-Q5_K_M.gguf",
-          "badge": null,
-          "hfDownloads": 32200,
-          "quantization": "Q5_K_M"
-        },
-        {
-          "id": "deepseek-r1-distill-qwen-32b-q6",
-          "name": "DeepSeek R1 Distill Qwen 32B",
-          "description": "32B parameter model, quantized to Q6_K.",
-          "sizeGB": 24.0,
-          "ramRequiredGB": 31.5,
-          "downloadURL": "https://huggingface.co/bartowski/DeepSeek-R1-Distill-Qwen-32B-GGUF/resolve/main/DeepSeek-R1-Distill-Qwen-32B-Q6_K.gguf",
-          "filename": "DeepSeek-R1-Distill-Qwen-32B-Q6_K.gguf",
-          "badge": null,
-          "hfDownloads": 32200,
-          "quantization": "Q6_K"
-        },
-        {
-          "id": "deepseek-r1-distill-qwen-32b-q8",
-          "name": "DeepSeek R1 Distill Qwen 32B",
-          "description": "32B parameter model, quantized to Q8_0.",
-          "sizeGB": 27.8,
-          "ramRequiredGB": 36.4,
-          "downloadURL": "https://huggingface.co/bartowski/DeepSeek-R1-Distill-Qwen-32B-GGUF/resolve/main/DeepSeek-R1-Distill-Qwen-32B-Q8_0.gguf",
-          "filename": "DeepSeek-R1-Distill-Qwen-32B-Q8_0.gguf",
-          "badge": "High Quality",
-          "hfDownloads": 32200,
-          "quantization": "Q8_0"
-        },
-        {
           "id": "deepseek-r1-distill-qwen-7b-q2",
           "name": "DeepSeek R1 Distill Qwen 7B",
           "description": "7B parameter model, quantized to Q2_K.",
@@ -1179,7 +1083,7 @@
           "downloadURL": "https://huggingface.co/bartowski/DeepSeek-R1-Distill-Qwen-7B-GGUF/resolve/main/DeepSeek-R1-Distill-Qwen-7B-Q2_K.gguf",
           "filename": "DeepSeek-R1-Distill-Qwen-7B-Q2_K.gguf",
           "badge": null,
-          "hfDownloads": 31865,
+          "hfDownloads": 36503,
           "quantization": "Q2_K"
         },
         {
@@ -1191,7 +1095,7 @@
           "downloadURL": "https://huggingface.co/bartowski/DeepSeek-R1-Distill-Qwen-7B-GGUF/resolve/main/DeepSeek-R1-Distill-Qwen-7B-Q3_K_M.gguf",
           "filename": "DeepSeek-R1-Distill-Qwen-7B-Q3_K_M.gguf",
           "badge": "Most Compatible",
-          "hfDownloads": 31865,
+          "hfDownloads": 36503,
           "quantization": "Q3_K_M"
         },
         {
@@ -1203,7 +1107,7 @@
           "downloadURL": "https://huggingface.co/bartowski/DeepSeek-R1-Distill-Qwen-7B-GGUF/resolve/main/DeepSeek-R1-Distill-Qwen-7B-Q4_K_S.gguf",
           "filename": "DeepSeek-R1-Distill-Qwen-7B-Q4_K_S.gguf",
           "badge": null,
-          "hfDownloads": 31865,
+          "hfDownloads": 36503,
           "quantization": "Q4_K_S"
         },
         {
@@ -1215,7 +1119,7 @@
           "downloadURL": "https://huggingface.co/bartowski/DeepSeek-R1-Distill-Qwen-7B-GGUF/resolve/main/DeepSeek-R1-Distill-Qwen-7B-Q4_K_M.gguf",
           "filename": "DeepSeek-R1-Distill-Qwen-7B-Q4_K_M.gguf",
           "badge": null,
-          "hfDownloads": 31865,
+          "hfDownloads": 36503,
           "quantization": "Q4_K_M"
         },
         {
@@ -1227,7 +1131,7 @@
           "downloadURL": "https://huggingface.co/bartowski/DeepSeek-R1-Distill-Qwen-7B-GGUF/resolve/main/DeepSeek-R1-Distill-Qwen-7B-Q4_0.gguf",
           "filename": "DeepSeek-R1-Distill-Qwen-7B-Q4_0.gguf",
           "badge": null,
-          "hfDownloads": 31865,
+          "hfDownloads": 36503,
           "quantization": "Q4_0"
         },
         {
@@ -1239,7 +1143,7 @@
           "downloadURL": "https://huggingface.co/bartowski/DeepSeek-R1-Distill-Qwen-7B-GGUF/resolve/main/DeepSeek-R1-Distill-Qwen-7B-Q5_K_M.gguf",
           "filename": "DeepSeek-R1-Distill-Qwen-7B-Q5_K_M.gguf",
           "badge": null,
-          "hfDownloads": 31865,
+          "hfDownloads": 36503,
           "quantization": "Q5_K_M"
         },
         {
@@ -1251,7 +1155,7 @@
           "downloadURL": "https://huggingface.co/bartowski/DeepSeek-R1-Distill-Qwen-7B-GGUF/resolve/main/DeepSeek-R1-Distill-Qwen-7B-Q6_K.gguf",
           "filename": "DeepSeek-R1-Distill-Qwen-7B-Q6_K.gguf",
           "badge": null,
-          "hfDownloads": 31865,
+          "hfDownloads": 36503,
           "quantization": "Q6_K"
         },
         {
@@ -1263,7 +1167,103 @@
           "downloadURL": "https://huggingface.co/bartowski/DeepSeek-R1-Distill-Qwen-7B-GGUF/resolve/main/DeepSeek-R1-Distill-Qwen-7B-Q8_0.gguf",
           "filename": "DeepSeek-R1-Distill-Qwen-7B-Q8_0.gguf",
           "badge": "High Quality",
-          "hfDownloads": 31865,
+          "hfDownloads": 36503,
+          "quantization": "Q8_0"
+        },
+        {
+          "id": "deepseek-r1-distill-qwen-32b-q2",
+          "name": "DeepSeek R1 Distill Qwen 32B",
+          "description": "32B parameter model, quantized to Q2_K.",
+          "sizeGB": 9.9,
+          "ramRequiredGB": 13.2,
+          "downloadURL": "https://huggingface.co/bartowski/DeepSeek-R1-Distill-Qwen-32B-GGUF/resolve/main/DeepSeek-R1-Distill-Qwen-32B-Q2_K.gguf",
+          "filename": "DeepSeek-R1-Distill-Qwen-32B-Q2_K.gguf",
+          "badge": null,
+          "hfDownloads": 32155,
+          "quantization": "Q2_K"
+        },
+        {
+          "id": "deepseek-r1-distill-qwen-32b-q3",
+          "name": "DeepSeek R1 Distill Qwen 32B",
+          "description": "32B parameter model, quantized to Q3_K_M.",
+          "sizeGB": 13.4,
+          "ramRequiredGB": 17.7,
+          "downloadURL": "https://huggingface.co/bartowski/DeepSeek-R1-Distill-Qwen-32B-GGUF/resolve/main/DeepSeek-R1-Distill-Qwen-32B-Q3_K_M.gguf",
+          "filename": "DeepSeek-R1-Distill-Qwen-32B-Q3_K_M.gguf",
+          "badge": "Most Compatible",
+          "hfDownloads": 32155,
+          "quantization": "Q3_K_M"
+        },
+        {
+          "id": "deepseek-r1-distill-qwen-32b-q4ks",
+          "name": "DeepSeek R1 Distill Qwen 32B",
+          "description": "32B parameter model, quantized to Q4_K_S.",
+          "sizeGB": 16.6,
+          "ramRequiredGB": 21.9,
+          "downloadURL": "https://huggingface.co/bartowski/DeepSeek-R1-Distill-Qwen-32B-GGUF/resolve/main/DeepSeek-R1-Distill-Qwen-32B-Q4_K_S.gguf",
+          "filename": "DeepSeek-R1-Distill-Qwen-32B-Q4_K_S.gguf",
+          "badge": null,
+          "hfDownloads": 32155,
+          "quantization": "Q4_K_S"
+        },
+        {
+          "id": "deepseek-r1-distill-qwen-32b-q4",
+          "name": "DeepSeek R1 Distill Qwen 32B",
+          "description": "32B parameter model, quantized to Q4_K_M.",
+          "sizeGB": 17.6,
+          "ramRequiredGB": 23.2,
+          "downloadURL": "https://huggingface.co/bartowski/DeepSeek-R1-Distill-Qwen-32B-GGUF/resolve/main/DeepSeek-R1-Distill-Qwen-32B-Q4_K_M.gguf",
+          "filename": "DeepSeek-R1-Distill-Qwen-32B-Q4_K_M.gguf",
+          "badge": null,
+          "hfDownloads": 32155,
+          "quantization": "Q4_K_M"
+        },
+        {
+          "id": "deepseek-r1-distill-qwen-32b-q40",
+          "name": "DeepSeek R1 Distill Qwen 32B",
+          "description": "32B parameter model, quantized to Q4_0.",
+          "sizeGB": 16.3,
+          "ramRequiredGB": 21.5,
+          "downloadURL": "https://huggingface.co/bartowski/DeepSeek-R1-Distill-Qwen-32B-GGUF/resolve/main/DeepSeek-R1-Distill-Qwen-32B-Q4_0.gguf",
+          "filename": "DeepSeek-R1-Distill-Qwen-32B-Q4_0.gguf",
+          "badge": null,
+          "hfDownloads": 32155,
+          "quantization": "Q4_0"
+        },
+        {
+          "id": "deepseek-r1-distill-qwen-32b-q5",
+          "name": "DeepSeek R1 Distill Qwen 32B",
+          "description": "32B parameter model, quantized to Q5_K_M.",
+          "sizeGB": 20.8,
+          "ramRequiredGB": 27.3,
+          "downloadURL": "https://huggingface.co/bartowski/DeepSeek-R1-Distill-Qwen-32B-GGUF/resolve/main/DeepSeek-R1-Distill-Qwen-32B-Q5_K_M.gguf",
+          "filename": "DeepSeek-R1-Distill-Qwen-32B-Q5_K_M.gguf",
+          "badge": null,
+          "hfDownloads": 32155,
+          "quantization": "Q5_K_M"
+        },
+        {
+          "id": "deepseek-r1-distill-qwen-32b-q6",
+          "name": "DeepSeek R1 Distill Qwen 32B",
+          "description": "32B parameter model, quantized to Q6_K.",
+          "sizeGB": 24.0,
+          "ramRequiredGB": 31.5,
+          "downloadURL": "https://huggingface.co/bartowski/DeepSeek-R1-Distill-Qwen-32B-GGUF/resolve/main/DeepSeek-R1-Distill-Qwen-32B-Q6_K.gguf",
+          "filename": "DeepSeek-R1-Distill-Qwen-32B-Q6_K.gguf",
+          "badge": null,
+          "hfDownloads": 32155,
+          "quantization": "Q6_K"
+        },
+        {
+          "id": "deepseek-r1-distill-qwen-32b-q8",
+          "name": "DeepSeek R1 Distill Qwen 32B",
+          "description": "32B parameter model, quantized to Q8_0.",
+          "sizeGB": 27.8,
+          "ramRequiredGB": 36.4,
+          "downloadURL": "https://huggingface.co/bartowski/DeepSeek-R1-Distill-Qwen-32B-GGUF/resolve/main/DeepSeek-R1-Distill-Qwen-32B-Q8_0.gguf",
+          "filename": "DeepSeek-R1-Distill-Qwen-32B-Q8_0.gguf",
+          "badge": "High Quality",
+          "hfDownloads": 32155,
           "quantization": "Q8_0"
         },
         {
@@ -1275,7 +1275,7 @@
           "downloadURL": "https://huggingface.co/bartowski/DeepSeek-R1-Distill-Qwen-14B-GGUF/resolve/main/DeepSeek-R1-Distill-Qwen-14B-Q2_K.gguf",
           "filename": "DeepSeek-R1-Distill-Qwen-14B-Q2_K.gguf",
           "badge": null,
-          "hfDownloads": 24981,
+          "hfDownloads": 24804,
           "quantization": "Q2_K"
         },
         {
@@ -1287,7 +1287,7 @@
           "downloadURL": "https://huggingface.co/bartowski/DeepSeek-R1-Distill-Qwen-14B-GGUF/resolve/main/DeepSeek-R1-Distill-Qwen-14B-Q3_K_M.gguf",
           "filename": "DeepSeek-R1-Distill-Qwen-14B-Q3_K_M.gguf",
           "badge": "Most Compatible",
-          "hfDownloads": 24981,
+          "hfDownloads": 24804,
           "quantization": "Q3_K_M"
         },
         {
@@ -1299,7 +1299,7 @@
           "downloadURL": "https://huggingface.co/bartowski/DeepSeek-R1-Distill-Qwen-14B-GGUF/resolve/main/DeepSeek-R1-Distill-Qwen-14B-Q4_K_S.gguf",
           "filename": "DeepSeek-R1-Distill-Qwen-14B-Q4_K_S.gguf",
           "badge": null,
-          "hfDownloads": 24981,
+          "hfDownloads": 24804,
           "quantization": "Q4_K_S"
         },
         {
@@ -1311,7 +1311,7 @@
           "downloadURL": "https://huggingface.co/bartowski/DeepSeek-R1-Distill-Qwen-14B-GGUF/resolve/main/DeepSeek-R1-Distill-Qwen-14B-Q4_K_M.gguf",
           "filename": "DeepSeek-R1-Distill-Qwen-14B-Q4_K_M.gguf",
           "badge": null,
-          "hfDownloads": 24981,
+          "hfDownloads": 24804,
           "quantization": "Q4_K_M"
         },
         {
@@ -1323,7 +1323,7 @@
           "downloadURL": "https://huggingface.co/bartowski/DeepSeek-R1-Distill-Qwen-14B-GGUF/resolve/main/DeepSeek-R1-Distill-Qwen-14B-Q4_0.gguf",
           "filename": "DeepSeek-R1-Distill-Qwen-14B-Q4_0.gguf",
           "badge": null,
-          "hfDownloads": 24981,
+          "hfDownloads": 24804,
           "quantization": "Q4_0"
         },
         {
@@ -1335,7 +1335,7 @@
           "downloadURL": "https://huggingface.co/bartowski/DeepSeek-R1-Distill-Qwen-14B-GGUF/resolve/main/DeepSeek-R1-Distill-Qwen-14B-Q5_K_M.gguf",
           "filename": "DeepSeek-R1-Distill-Qwen-14B-Q5_K_M.gguf",
           "badge": null,
-          "hfDownloads": 24981,
+          "hfDownloads": 24804,
           "quantization": "Q5_K_M"
         },
         {
@@ -1347,7 +1347,7 @@
           "downloadURL": "https://huggingface.co/bartowski/DeepSeek-R1-Distill-Qwen-14B-GGUF/resolve/main/DeepSeek-R1-Distill-Qwen-14B-Q6_K.gguf",
           "filename": "DeepSeek-R1-Distill-Qwen-14B-Q6_K.gguf",
           "badge": null,
-          "hfDownloads": 24981,
+          "hfDownloads": 24804,
           "quantization": "Q6_K"
         },
         {
@@ -1359,7 +1359,7 @@
           "downloadURL": "https://huggingface.co/bartowski/DeepSeek-R1-Distill-Qwen-14B-GGUF/resolve/main/DeepSeek-R1-Distill-Qwen-14B-Q8_0.gguf",
           "filename": "DeepSeek-R1-Distill-Qwen-14B-Q8_0.gguf",
           "badge": "High Quality",
-          "hfDownloads": 24981,
+          "hfDownloads": 24804,
           "quantization": "Q8_0"
         },
         {
@@ -1371,7 +1371,7 @@
           "downloadURL": "https://huggingface.co/bartowski/DeepSeek-R1-Distill-Llama-70B-GGUF/resolve/main/DeepSeek-R1-Distill-Llama-70B-Q2_K.gguf",
           "filename": "DeepSeek-R1-Distill-Llama-70B-Q2_K.gguf",
           "badge": null,
-          "hfDownloads": 22758,
+          "hfDownloads": 22654,
           "quantization": "Q2_K"
         },
         {
@@ -1383,7 +1383,7 @@
           "downloadURL": "https://huggingface.co/bartowski/DeepSeek-R1-Distill-Llama-70B-GGUF/resolve/main/DeepSeek-R1-Distill-Llama-70B-Q3_K_M.gguf",
           "filename": "DeepSeek-R1-Distill-Llama-70B-Q3_K_M.gguf",
           "badge": "Most Compatible",
-          "hfDownloads": 22758,
+          "hfDownloads": 22654,
           "quantization": "Q3_K_M"
         },
         {
@@ -1395,7 +1395,7 @@
           "downloadURL": "https://huggingface.co/bartowski/DeepSeek-R1-Distill-Llama-70B-GGUF/resolve/main/DeepSeek-R1-Distill-Llama-70B-Q4_K_S.gguf",
           "filename": "DeepSeek-R1-Distill-Llama-70B-Q4_K_S.gguf",
           "badge": null,
-          "hfDownloads": 22758,
+          "hfDownloads": 22654,
           "quantization": "Q4_K_S"
         },
         {
@@ -1407,7 +1407,7 @@
           "downloadURL": "https://huggingface.co/bartowski/DeepSeek-R1-Distill-Llama-70B-GGUF/resolve/main/DeepSeek-R1-Distill-Llama-70B-Q4_K_M.gguf",
           "filename": "DeepSeek-R1-Distill-Llama-70B-Q4_K_M.gguf",
           "badge": null,
-          "hfDownloads": 22758,
+          "hfDownloads": 22654,
           "quantization": "Q4_K_M"
         },
         {
@@ -1419,7 +1419,7 @@
           "downloadURL": "https://huggingface.co/bartowski/DeepSeek-R1-Distill-Llama-70B-GGUF/resolve/main/DeepSeek-R1-Distill-Llama-70B-Q4_0.gguf",
           "filename": "DeepSeek-R1-Distill-Llama-70B-Q4_0.gguf",
           "badge": null,
-          "hfDownloads": 22758,
+          "hfDownloads": 22654,
           "quantization": "Q4_0"
         },
         {
@@ -1431,7 +1431,7 @@
           "downloadURL": "https://huggingface.co/bartowski/DeepSeek-R1-Distill-Llama-70B-GGUF/resolve/main/DeepSeek-R1-Distill-Llama-70B-Q5_K_M/DeepSeek-R1-Distill-Llama-70B-Q5_K_M-00001-of-00002.gguf",
           "filename": "DeepSeek-R1-Distill-Llama-70B-Q5_K_M/DeepSeek-R1-Distill-Llama-70B-Q5_K_M-00001-of-00002.gguf",
           "badge": null,
-          "hfDownloads": 22758,
+          "hfDownloads": 22654,
           "quantization": "Q5_K_M"
         },
         {
@@ -1443,7 +1443,7 @@
           "downloadURL": "https://huggingface.co/bartowski/DeepSeek-R1-Distill-Llama-70B-GGUF/resolve/main/DeepSeek-R1-Distill-Llama-70B-Q6_K/DeepSeek-R1-Distill-Llama-70B-Q6_K-00001-of-00002.gguf",
           "filename": "DeepSeek-R1-Distill-Llama-70B-Q6_K/DeepSeek-R1-Distill-Llama-70B-Q6_K-00001-of-00002.gguf",
           "badge": null,
-          "hfDownloads": 22758,
+          "hfDownloads": 22654,
           "quantization": "Q6_K"
         },
         {
@@ -1455,7 +1455,7 @@
           "downloadURL": "https://huggingface.co/bartowski/DeepSeek-R1-Distill-Llama-70B-GGUF/resolve/main/DeepSeek-R1-Distill-Llama-70B-Q8_0/DeepSeek-R1-Distill-Llama-70B-Q8_0-00001-of-00002.gguf",
           "filename": "DeepSeek-R1-Distill-Llama-70B-Q8_0/DeepSeek-R1-Distill-Llama-70B-Q8_0-00001-of-00002.gguf",
           "badge": "High Quality",
-          "hfDownloads": 22758,
+          "hfDownloads": 22654,
           "quantization": "Q8_0"
         },
         {
@@ -1467,7 +1467,7 @@
           "downloadURL": "https://huggingface.co/bartowski/DeepSeek-R1-Distill-Llama-8B-GGUF/resolve/main/DeepSeek-R1-Distill-Llama-8B-Q2_K.gguf",
           "filename": "DeepSeek-R1-Distill-Llama-8B-Q2_K.gguf",
           "badge": null,
-          "hfDownloads": 18721,
+          "hfDownloads": 19191,
           "quantization": "Q2_K"
         },
         {
@@ -1479,7 +1479,7 @@
           "downloadURL": "https://huggingface.co/bartowski/DeepSeek-R1-Distill-Llama-8B-GGUF/resolve/main/DeepSeek-R1-Distill-Llama-8B-Q3_K_M.gguf",
           "filename": "DeepSeek-R1-Distill-Llama-8B-Q3_K_M.gguf",
           "badge": "Most Compatible",
-          "hfDownloads": 18721,
+          "hfDownloads": 19191,
           "quantization": "Q3_K_M"
         },
         {
@@ -1491,7 +1491,7 @@
           "downloadURL": "https://huggingface.co/bartowski/DeepSeek-R1-Distill-Llama-8B-GGUF/resolve/main/DeepSeek-R1-Distill-Llama-8B-Q4_K_S.gguf",
           "filename": "DeepSeek-R1-Distill-Llama-8B-Q4_K_S.gguf",
           "badge": null,
-          "hfDownloads": 18721,
+          "hfDownloads": 19191,
           "quantization": "Q4_K_S"
         },
         {
@@ -1503,7 +1503,7 @@
           "downloadURL": "https://huggingface.co/bartowski/DeepSeek-R1-Distill-Llama-8B-GGUF/resolve/main/DeepSeek-R1-Distill-Llama-8B-Q4_K_M.gguf",
           "filename": "DeepSeek-R1-Distill-Llama-8B-Q4_K_M.gguf",
           "badge": null,
-          "hfDownloads": 18721,
+          "hfDownloads": 19191,
           "quantization": "Q4_K_M"
         },
         {
@@ -1515,7 +1515,7 @@
           "downloadURL": "https://huggingface.co/bartowski/DeepSeek-R1-Distill-Llama-8B-GGUF/resolve/main/DeepSeek-R1-Distill-Llama-8B-Q4_0.gguf",
           "filename": "DeepSeek-R1-Distill-Llama-8B-Q4_0.gguf",
           "badge": null,
-          "hfDownloads": 18721,
+          "hfDownloads": 19191,
           "quantization": "Q4_0"
         },
         {
@@ -1527,7 +1527,7 @@
           "downloadURL": "https://huggingface.co/bartowski/DeepSeek-R1-Distill-Llama-8B-GGUF/resolve/main/DeepSeek-R1-Distill-Llama-8B-Q5_K_M.gguf",
           "filename": "DeepSeek-R1-Distill-Llama-8B-Q5_K_M.gguf",
           "badge": null,
-          "hfDownloads": 18721,
+          "hfDownloads": 19191,
           "quantization": "Q5_K_M"
         },
         {
@@ -1539,7 +1539,7 @@
           "downloadURL": "https://huggingface.co/bartowski/DeepSeek-R1-Distill-Llama-8B-GGUF/resolve/main/DeepSeek-R1-Distill-Llama-8B-Q6_K.gguf",
           "filename": "DeepSeek-R1-Distill-Llama-8B-Q6_K.gguf",
           "badge": null,
-          "hfDownloads": 18721,
+          "hfDownloads": 19191,
           "quantization": "Q6_K"
         },
         {
@@ -1551,7 +1551,7 @@
           "downloadURL": "https://huggingface.co/bartowski/DeepSeek-R1-Distill-Llama-8B-GGUF/resolve/main/DeepSeek-R1-Distill-Llama-8B-Q8_0.gguf",
           "filename": "DeepSeek-R1-Distill-Llama-8B-Q8_0.gguf",
           "badge": "High Quality",
-          "hfDownloads": 18721,
+          "hfDownloads": 19191,
           "quantization": "Q8_0"
         }
       ]
@@ -2295,7 +2295,7 @@
           "downloadURL": "https://huggingface.co/bartowski/DeepSeek-R1-Distill-Llama-70B-GGUF/resolve/main/DeepSeek-R1-Distill-Llama-70B-Q2_K.gguf",
           "filename": "DeepSeek-R1-Distill-Llama-70B-Q2_K.gguf",
           "badge": null,
-          "hfDownloads": 22758,
+          "hfDownloads": 22654,
           "quantization": "Q2_K"
         },
         {
@@ -2307,7 +2307,7 @@
           "downloadURL": "https://huggingface.co/bartowski/DeepSeek-R1-Distill-Llama-70B-GGUF/resolve/main/DeepSeek-R1-Distill-Llama-70B-Q3_K_M.gguf",
           "filename": "DeepSeek-R1-Distill-Llama-70B-Q3_K_M.gguf",
           "badge": "Most Compatible",
-          "hfDownloads": 22758,
+          "hfDownloads": 22654,
           "quantization": "Q3_K_M"
         },
         {
@@ -2319,7 +2319,7 @@
           "downloadURL": "https://huggingface.co/bartowski/DeepSeek-R1-Distill-Llama-70B-GGUF/resolve/main/DeepSeek-R1-Distill-Llama-70B-Q4_K_S.gguf",
           "filename": "DeepSeek-R1-Distill-Llama-70B-Q4_K_S.gguf",
           "badge": null,
-          "hfDownloads": 22758,
+          "hfDownloads": 22654,
           "quantization": "Q4_K_S"
         },
         {
@@ -2331,7 +2331,7 @@
           "downloadURL": "https://huggingface.co/bartowski/DeepSeek-R1-Distill-Llama-70B-GGUF/resolve/main/DeepSeek-R1-Distill-Llama-70B-Q4_K_M.gguf",
           "filename": "DeepSeek-R1-Distill-Llama-70B-Q4_K_M.gguf",
           "badge": null,
-          "hfDownloads": 22758,
+          "hfDownloads": 22654,
           "quantization": "Q4_K_M"
         },
         {
@@ -2343,7 +2343,7 @@
           "downloadURL": "https://huggingface.co/bartowski/DeepSeek-R1-Distill-Llama-70B-GGUF/resolve/main/DeepSeek-R1-Distill-Llama-70B-Q4_0.gguf",
           "filename": "DeepSeek-R1-Distill-Llama-70B-Q4_0.gguf",
           "badge": null,
-          "hfDownloads": 22758,
+          "hfDownloads": 22654,
           "quantization": "Q4_0"
         },
         {
@@ -2355,7 +2355,7 @@
           "downloadURL": "https://huggingface.co/bartowski/DeepSeek-R1-Distill-Llama-70B-GGUF/resolve/main/DeepSeek-R1-Distill-Llama-70B-Q5_K_M/DeepSeek-R1-Distill-Llama-70B-Q5_K_M-00001-of-00002.gguf",
           "filename": "DeepSeek-R1-Distill-Llama-70B-Q5_K_M/DeepSeek-R1-Distill-Llama-70B-Q5_K_M-00001-of-00002.gguf",
           "badge": null,
-          "hfDownloads": 22758,
+          "hfDownloads": 22654,
           "quantization": "Q5_K_M"
         },
         {
@@ -2367,7 +2367,7 @@
           "downloadURL": "https://huggingface.co/bartowski/DeepSeek-R1-Distill-Llama-70B-GGUF/resolve/main/DeepSeek-R1-Distill-Llama-70B-Q6_K/DeepSeek-R1-Distill-Llama-70B-Q6_K-00001-of-00002.gguf",
           "filename": "DeepSeek-R1-Distill-Llama-70B-Q6_K/DeepSeek-R1-Distill-Llama-70B-Q6_K-00001-of-00002.gguf",
           "badge": null,
-          "hfDownloads": 22758,
+          "hfDownloads": 22654,
           "quantization": "Q6_K"
         },
         {
@@ -2379,7 +2379,7 @@
           "downloadURL": "https://huggingface.co/bartowski/DeepSeek-R1-Distill-Llama-70B-GGUF/resolve/main/DeepSeek-R1-Distill-Llama-70B-Q8_0/DeepSeek-R1-Distill-Llama-70B-Q8_0-00001-of-00002.gguf",
           "filename": "DeepSeek-R1-Distill-Llama-70B-Q8_0/DeepSeek-R1-Distill-Llama-70B-Q8_0-00001-of-00002.gguf",
           "badge": "High Quality",
-          "hfDownloads": 22758,
+          "hfDownloads": 22654,
           "quantization": "Q8_0"
         },
         {
@@ -2391,7 +2391,7 @@
           "downloadURL": "https://huggingface.co/bartowski/DeepSeek-R1-Distill-Llama-8B-GGUF/resolve/main/DeepSeek-R1-Distill-Llama-8B-Q2_K.gguf",
           "filename": "DeepSeek-R1-Distill-Llama-8B-Q2_K.gguf",
           "badge": null,
-          "hfDownloads": 18721,
+          "hfDownloads": 19191,
           "quantization": "Q2_K"
         },
         {
@@ -2403,7 +2403,7 @@
           "downloadURL": "https://huggingface.co/bartowski/DeepSeek-R1-Distill-Llama-8B-GGUF/resolve/main/DeepSeek-R1-Distill-Llama-8B-Q3_K_M.gguf",
           "filename": "DeepSeek-R1-Distill-Llama-8B-Q3_K_M.gguf",
           "badge": "Most Compatible",
-          "hfDownloads": 18721,
+          "hfDownloads": 19191,
           "quantization": "Q3_K_M"
         },
         {
@@ -2415,7 +2415,7 @@
           "downloadURL": "https://huggingface.co/bartowski/DeepSeek-R1-Distill-Llama-8B-GGUF/resolve/main/DeepSeek-R1-Distill-Llama-8B-Q4_K_S.gguf",
           "filename": "DeepSeek-R1-Distill-Llama-8B-Q4_K_S.gguf",
           "badge": null,
-          "hfDownloads": 18721,
+          "hfDownloads": 19191,
           "quantization": "Q4_K_S"
         },
         {
@@ -2427,7 +2427,7 @@
           "downloadURL": "https://huggingface.co/bartowski/DeepSeek-R1-Distill-Llama-8B-GGUF/resolve/main/DeepSeek-R1-Distill-Llama-8B-Q4_K_M.gguf",
           "filename": "DeepSeek-R1-Distill-Llama-8B-Q4_K_M.gguf",
           "badge": null,
-          "hfDownloads": 18721,
+          "hfDownloads": 19191,
           "quantization": "Q4_K_M"
         },
         {
@@ -2439,7 +2439,7 @@
           "downloadURL": "https://huggingface.co/bartowski/DeepSeek-R1-Distill-Llama-8B-GGUF/resolve/main/DeepSeek-R1-Distill-Llama-8B-Q4_0.gguf",
           "filename": "DeepSeek-R1-Distill-Llama-8B-Q4_0.gguf",
           "badge": null,
-          "hfDownloads": 18721,
+          "hfDownloads": 19191,
           "quantization": "Q4_0"
         },
         {
@@ -2451,7 +2451,7 @@
           "downloadURL": "https://huggingface.co/bartowski/DeepSeek-R1-Distill-Llama-8B-GGUF/resolve/main/DeepSeek-R1-Distill-Llama-8B-Q5_K_M.gguf",
           "filename": "DeepSeek-R1-Distill-Llama-8B-Q5_K_M.gguf",
           "badge": null,
-          "hfDownloads": 18721,
+          "hfDownloads": 19191,
           "quantization": "Q5_K_M"
         },
         {
@@ -2463,7 +2463,7 @@
           "downloadURL": "https://huggingface.co/bartowski/DeepSeek-R1-Distill-Llama-8B-GGUF/resolve/main/DeepSeek-R1-Distill-Llama-8B-Q6_K.gguf",
           "filename": "DeepSeek-R1-Distill-Llama-8B-Q6_K.gguf",
           "badge": null,
-          "hfDownloads": 18721,
+          "hfDownloads": 19191,
           "quantization": "Q6_K"
         },
         {
@@ -2475,7 +2475,7 @@
           "downloadURL": "https://huggingface.co/bartowski/DeepSeek-R1-Distill-Llama-8B-GGUF/resolve/main/DeepSeek-R1-Distill-Llama-8B-Q8_0.gguf",
           "filename": "DeepSeek-R1-Distill-Llama-8B-Q8_0.gguf",
           "badge": "High Quality",
-          "hfDownloads": 18721,
+          "hfDownloads": 19191,
           "quantization": "Q8_0"
         }
       ]
@@ -2673,7 +2673,7 @@
           "downloadURL": "https://huggingface.co/bartowski/NousResearch_Hermes-4-14B-GGUF/resolve/main/NousResearch_Hermes-4-14B-Q2_K.gguf",
           "filename": "NousResearch_Hermes-4-14B-Q2_K.gguf",
           "badge": null,
-          "hfDownloads": 3152,
+          "hfDownloads": 3360,
           "quantization": "Q2_K"
         },
         {
@@ -2685,7 +2685,7 @@
           "downloadURL": "https://huggingface.co/bartowski/NousResearch_Hermes-4-14B-GGUF/resolve/main/NousResearch_Hermes-4-14B-Q3_K_M.gguf",
           "filename": "NousResearch_Hermes-4-14B-Q3_K_M.gguf",
           "badge": "Most Compatible",
-          "hfDownloads": 3152,
+          "hfDownloads": 3360,
           "quantization": "Q3_K_M"
         },
         {
@@ -2697,7 +2697,7 @@
           "downloadURL": "https://huggingface.co/bartowski/NousResearch_Hermes-4-14B-GGUF/resolve/main/NousResearch_Hermes-4-14B-Q4_K_S.gguf",
           "filename": "NousResearch_Hermes-4-14B-Q4_K_S.gguf",
           "badge": null,
-          "hfDownloads": 3152,
+          "hfDownloads": 3360,
           "quantization": "Q4_K_S"
         },
         {
@@ -2709,7 +2709,7 @@
           "downloadURL": "https://huggingface.co/bartowski/NousResearch_Hermes-4-14B-GGUF/resolve/main/NousResearch_Hermes-4-14B-Q4_K_M.gguf",
           "filename": "NousResearch_Hermes-4-14B-Q4_K_M.gguf",
           "badge": null,
-          "hfDownloads": 3152,
+          "hfDownloads": 3360,
           "quantization": "Q4_K_M"
         },
         {
@@ -2721,7 +2721,7 @@
           "downloadURL": "https://huggingface.co/bartowski/NousResearch_Hermes-4-14B-GGUF/resolve/main/NousResearch_Hermes-4-14B-Q4_0.gguf",
           "filename": "NousResearch_Hermes-4-14B-Q4_0.gguf",
           "badge": null,
-          "hfDownloads": 3152,
+          "hfDownloads": 3360,
           "quantization": "Q4_0"
         },
         {
@@ -2733,7 +2733,7 @@
           "downloadURL": "https://huggingface.co/bartowski/NousResearch_Hermes-4-14B-GGUF/resolve/main/NousResearch_Hermes-4-14B-Q5_K_M.gguf",
           "filename": "NousResearch_Hermes-4-14B-Q5_K_M.gguf",
           "badge": null,
-          "hfDownloads": 3152,
+          "hfDownloads": 3360,
           "quantization": "Q5_K_M"
         },
         {
@@ -2745,7 +2745,7 @@
           "downloadURL": "https://huggingface.co/bartowski/NousResearch_Hermes-4-14B-GGUF/resolve/main/NousResearch_Hermes-4-14B-Q6_K.gguf",
           "filename": "NousResearch_Hermes-4-14B-Q6_K.gguf",
           "badge": null,
-          "hfDownloads": 3152,
+          "hfDownloads": 3360,
           "quantization": "Q6_K"
         },
         {
@@ -2757,7 +2757,7 @@
           "downloadURL": "https://huggingface.co/bartowski/NousResearch_Hermes-4-14B-GGUF/resolve/main/NousResearch_Hermes-4-14B-Q8_0.gguf",
           "filename": "NousResearch_Hermes-4-14B-Q8_0.gguf",
           "badge": "High Quality",
-          "hfDownloads": 3152,
+          "hfDownloads": 3360,
           "quantization": "Q8_0"
         },
         {
