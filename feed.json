@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-07T07:10:29Z",
+  "updated": "2026-04-07T08:57:42Z",
   "news": [
     {
       "title": "AI startup Rocket offers vibe McKinsey-style reports at a fraction of the cost",
@@ -181,52 +181,52 @@
     {
       "id": "prism-ml/Bonsai-8B-gguf",
       "displayName": "Bonsai 8B",
-      "downloads": 45185
+      "downloads": 52632
     },
     {
       "id": "unsloth/gemma-4-26B-A4B-it-GGUF",
       "displayName": "gemma 4 26B A4B",
-      "downloads": 649596
+      "downloads": 826592
     },
     {
       "id": "unsloth/gemma-4-31B-it-GGUF",
       "displayName": "gemma 4 31B",
-      "downloads": 503482
+      "downloads": 605867
     },
     {
       "id": "Jackrong/Qwopus3.5-9B-v3-GGUF",
       "displayName": "Qwopus3.5 9B v3",
-      "downloads": 53441
+      "downloads": 65995
     },
     {
       "id": "Jackrong/Qwopus3.5-27B-v3-GGUF",
       "displayName": "Qwopus3.5 27B v3",
-      "downloads": 48113
+      "downloads": 55601
     },
     {
       "id": "Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-v2-GGUF",
       "displayName": "Qwen3.5 27B Claude 4.6 Opus Reasoning Distilled v2",
-      "downloads": 272020
+      "downloads": 292760
     },
     {
       "id": "HauhauCS/Qwen3.5-9B-Uncensored-HauhauCS-Aggressive",
       "displayName": "Qwen3.5 9B Uncensored HauhauCS Aggressive",
-      "downloads": 751402
+      "downloads": 775478
     },
     {
       "id": "unsloth/gemma-4-E4B-it-GGUF",
       "displayName": "gemma 4 E4B",
-      "downloads": 418980
+      "downloads": 531000
     },
     {
       "id": "HauhauCS/Gemma-4-E4B-Uncensored-HauhauCS-Aggressive",
       "displayName": "Gemma 4 E4B Uncensored HauhauCS Aggressive",
-      "downloads": 99038
+      "downloads": 148886
     },
     {
       "id": "HauhauCS/Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive",
       "displayName": "Qwen3.5 35B A3B Uncensored HauhauCS Aggressive",
-      "downloads": 722769
+      "downloads": 778877
     }
   ]
 }
