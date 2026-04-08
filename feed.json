@@ -1,6 +1,20 @@
 {
-  "updated": "2026-04-08T19:10:43Z",
+  "updated": "2026-04-08T20:38:39Z",
   "news": [
+    {
+      "title": "OpenAI made economic proposals \u2014 here\u2019s what DC thinks of them",
+      "url": "https://www.theverge.com/column/908880/openai-made-economic-proposals-heres-what-dc-thinks-of-them",
+      "source": "The Verge",
+      "publishedAt": "2026-04-08T20:14:00Z",
+      "snippet": "Happy ceasefire day and welcome to Regulator, a newsletter for Verge subscribers about Big Tech's rocky journey through the world of politics. If you're not a subscriber yet, you can do so here, but m"
+    },
+    {
+      "title": "AWS boss explains why investing billions in both Anthropic and OpenAI is an OK conflict",
+      "url": "https://techcrunch.com/2026/04/08/aws-boss-explains-why-investing-billions-in-both-anthropic-and-openai-is-an-ok-conflict/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-04-08T20:09:14Z",
+      "snippet": "AWS has an ingrained culture of handling coopetition, he explained, because the cloud giant also competes with its partners."
+    },
     {
       "title": "Tubi is the first streamer to launch a native app within ChatGPT",
       "url": "https://techcrunch.com/2026/04/08/tubi-is-the-first-streamer-to-launch-a-native-app-within-chatgpt/",
@@ -149,13 +163,6 @@
       "snippet": "Google is rolling out new features to make it easier for users to contribute local knowledge to Maps. Most notably, Gemini can now create captions when users are looking to share a photo or video abou"
     },
     {
-      "title": "4\u00a0days left to save close to $500 on TechCrunch Disrupt 2026 passes",
-      "url": "https://techcrunch.com/2026/04/07/4-days-left-to-save-close-to-500-on-techcrunch-disrupt-2026-passes/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-04-07T14:00:00Z",
-      "snippet": "Four days left to save up to $482 on your\u00a0TechCrunch Disrupt 2026 ticket. These low rates will disappear on April 10 at 11:59 p.m. PT. Register now."
-    },
-    {
       "title": "Gemini is making it faster for distressed users to reach mental health resources",
       "url": "https://www.theverge.com/ai-artificial-intelligence/907842/google-gemini-mental-health-interface-update",
       "source": "The Verge",
@@ -168,25 +175,18 @@
       "source": "The Verge",
       "publishedAt": "2026-04-06T15:54:19Z",
       "snippet": "Iran's Islamic Revolutionary Guard Corps (IRGC) has published a video threatening OpenAI's planned Abu Dhabi data center if the US follows through on threats to attack the country's power plants, as r"
-    },
-    {
-      "title": "Cisco CEO Chuck Robbins wants data centers in space",
-      "url": "https://www.theverge.com/podcast/906727/cisco-ceo-chuck-robbins-data-centers-space-ai-elon-musk-interview",
-      "source": "The Verge",
-      "publishedAt": "2026-04-06T15:15:00Z",
-      "snippet": "Today, I\u2019m talking with Chuck Robbins, CEO of Cisco. Cisco is one of those big companies that everyone has heard of but that most of us don\u2019t have to interact with very much; it\u2019s not really a consume"
     }
   ],
   "trending": [
     {
-      "id": "prism-ml/Bonsai-8B-gguf",
-      "displayName": "Bonsai 8B",
-      "downloads": 59633
-    },
-    {
       "id": "unsloth/gemma-4-26B-A4B-it-GGUF",
       "displayName": "gemma 4 26B A4B",
       "downloads": 992783
+    },
+    {
+      "id": "prism-ml/Bonsai-8B-gguf",
+      "displayName": "Bonsai 8B",
+      "downloads": 59633
     },
     {
       "id": "unsloth/gemma-4-31B-it-GGUF",
