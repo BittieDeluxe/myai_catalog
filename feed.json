@@ -1,6 +1,13 @@
 {
-  "updated": "2026-04-08T16:57:35Z",
+  "updated": "2026-04-08T19:10:43Z",
   "news": [
+    {
+      "title": "Tubi is the first streamer to launch a native app within ChatGPT",
+      "url": "https://techcrunch.com/2026/04/08/tubi-is-the-first-streamer-to-launch-a-native-app-within-chatgpt/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-04-08T18:23:06Z",
+      "snippet": "Tubi becomes the first streaming service to offer an app integration within ChatGPT, the AI chatbot that millions of users turn to for answers."
+    },
     {
       "title": "Meta is reentering the AI race with a new model called Muse Spark",
       "url": "https://www.theverge.com/tech/908769/meta-muse-spark-ai-model-launch-rollout",
@@ -147,13 +154,6 @@
       "source": "TechCrunch",
       "publishedAt": "2026-04-07T14:00:00Z",
       "snippet": "Four days left to save up to $482 on your\u00a0TechCrunch Disrupt 2026 ticket. These low rates will disappear on April 10 at 11:59 p.m. PT. Register now."
-    },
-    {
-      "title": "The AI gold rush is pulling private wealth into riskier, earlier bets",
-      "url": "https://techcrunch.com/2026/04/07/the-ai-gold-rush-is-pulling-private-wealth-into-riskier-earlier-bets/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-04-07T13:00:00Z",
-      "snippet": "On a recent episode of Equity, we  talked to Arena Private Wealth to explore a growing trend: family offices bypassing VCs to gain direct exposure to AI startups, turning them from passive investors i"
     },
     {
       "title": "Gemini is making it faster for distressed users to reach mental health resources",
