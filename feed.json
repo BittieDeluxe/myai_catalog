@@ -1,6 +1,13 @@
 {
-  "updated": "2026-04-08T10:53:13Z",
+  "updated": "2026-04-08T13:13:38Z",
   "news": [
+    {
+      "title": "Unionized ProPublica staff are on strike over AI, layoffs, and wages",
+      "url": "https://www.theverge.com/news/908401/propublica-union-strike-negotiations-ai-layoffs",
+      "source": "The Verge",
+      "publishedAt": "2026-04-08T11:53:28Z",
+      "snippet": "Unionized staff at ProPublica, one of the country's leading nonprofit newsrooms, are walking off the job for 24 hours beginning Wednesday and asking the public to honor a digital picket line. The roug"
+    },
     {
       "title": "Google quietly launched an AI dictation app that works offline",
       "url": "https://techcrunch.com/2026/04/07/google-quietly-releases-an-offline-first-ai-dictation-app-on-ios/",
@@ -168,13 +175,6 @@
       "source": "The Verge",
       "publishedAt": "2026-04-05T14:00:00Z",
       "snippet": "You may be familiar with Gemini as the thing that's in every Google service you use - whether you want it or not. While it's been a constant, sometimes unwelcome presence in Gmail for at least the pas"
-    },
-    {
-      "title": "Grammarly\u2019s sloppelganger saga",
-      "url": "https://www.theverge.com/column/906606/grammarly-expert-review-ai-saga",
-      "source": "The Verge",
-      "publishedAt": "2026-04-05T12:00:00Z",
-      "snippet": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the ups and downs of AI, follow Stevie Bonifield. The Stepback arrives in our subscribers' "
     }
   ],
   "trending": [
@@ -199,14 +199,14 @@
       "downloads": 64274
     },
     {
-      "id": "unsloth/gemma-4-E4B-it-GGUF",
-      "displayName": "gemma 4 E4B",
-      "downloads": 634015
-    },
-    {
       "id": "HauhauCS/Gemma-4-E4B-Uncensored-HauhauCS-Aggressive",
       "displayName": "Gemma 4 E4B Uncensored HauhauCS Aggressive",
       "downloads": 193995
+    },
+    {
+      "id": "unsloth/gemma-4-E4B-it-GGUF",
+      "displayName": "gemma 4 E4B",
+      "downloads": 634015
     },
     {
       "id": "HauhauCS/Qwen3.5-9B-Uncensored-HauhauCS-Aggressive",
