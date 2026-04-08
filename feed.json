@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-08T07:12:45Z",
+  "updated": "2026-04-08T08:56:48Z",
   "news": [
     {
       "title": "Google quietly launched an AI dictation app that works offline",
@@ -181,52 +181,52 @@
     {
       "id": "prism-ml/Bonsai-8B-gguf",
       "displayName": "Bonsai 8B",
-      "downloads": 52632
+      "downloads": 59633
     },
     {
       "id": "unsloth/gemma-4-26B-A4B-it-GGUF",
       "displayName": "gemma 4 26B A4B",
-      "downloads": 826592
+      "downloads": 992783
     },
     {
       "id": "unsloth/gemma-4-31B-it-GGUF",
       "displayName": "gemma 4 31B",
-      "downloads": 605867
+      "downloads": 686025
     },
     {
       "id": "Jackrong/Qwopus3.5-27B-v3-GGUF",
       "displayName": "Qwopus3.5 27B v3",
-      "downloads": 55601
+      "downloads": 64274
     },
     {
       "id": "unsloth/gemma-4-E4B-it-GGUF",
       "displayName": "gemma 4 E4B",
-      "downloads": 531000
-    },
-    {
-      "id": "Jackrong/Qwopus3.5-9B-v3-GGUF",
-      "displayName": "Qwopus3.5 9B v3",
-      "downloads": 65995
+      "downloads": 634015
     },
     {
       "id": "HauhauCS/Gemma-4-E4B-Uncensored-HauhauCS-Aggressive",
       "displayName": "Gemma 4 E4B Uncensored HauhauCS Aggressive",
-      "downloads": 148886
+      "downloads": 193995
     },
     {
       "id": "HauhauCS/Qwen3.5-9B-Uncensored-HauhauCS-Aggressive",
       "displayName": "Qwen3.5 9B Uncensored HauhauCS Aggressive",
-      "downloads": 775478
+      "downloads": 796814
+    },
+    {
+      "id": "Jackrong/Qwopus3.5-9B-v3-GGUF",
+      "displayName": "Qwopus3.5 9B v3",
+      "downloads": 76914
     },
     {
       "id": "Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-v2-GGUF",
       "displayName": "Qwen3.5 27B Claude 4.6 Opus Reasoning Distilled v2",
-      "downloads": 292760
+      "downloads": 305859
     },
     {
       "id": "HauhauCS/Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive",
       "displayName": "Qwen3.5 35B A3B Uncensored HauhauCS Aggressive",
-      "downloads": 778877
+      "downloads": 815445
     }
   ]
 }
