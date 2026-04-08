@@ -1,6 +1,27 @@
 {
-  "updated": "2026-04-08T15:06:34Z",
+  "updated": "2026-04-08T16:57:35Z",
   "news": [
+    {
+      "title": "Meta is reentering the AI race with a new model called Muse Spark",
+      "url": "https://www.theverge.com/tech/908769/meta-muse-spark-ai-model-launch-rollout",
+      "source": "The Verge",
+      "publishedAt": "2026-04-08T16:12:54Z",
+      "snippet": "Meta Superintelligence Labs is launching its first model since Mark Zuckerberg spent billions overhauling the company's AI efforts. Called Muse Spark, the model now powers the Meta AI app and the Meta"
+    },
+    {
+      "title": "Astropad\u2019s Workbench reimagines remote desktop for AI agents, not IT support",
+      "url": "https://techcrunch.com/2026/04/08/astropads-workbench-reimagines-remote-desktop-for-ai-agents-not-it-support/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-04-08T16:01:09Z",
+      "snippet": "Astropad\u2019s Workbench lets users remotely monitor and control AI agents on Mac Minis from iPhone or iPad, with low-latency streaming and mobile access."
+    },
+    {
+      "title": "OpenAI releases a new safety blueprint to address the rise in child sexual exploitation",
+      "url": "https://techcrunch.com/2026/04/08/openai-releases-a-new-safety-blueprint-to-address-the-rise-in-child-sexual-exploitation/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-04-08T15:23:44Z",
+      "snippet": "OpenAI's new Child Safety Blueprint aims to tackle the alarming rise in child sexual exploitation linked to advancements in AI."
+    },
     {
       "title": "Databricks co-founder wins prestigious ACM award, says \u2018AGI is here already\u2019",
       "url": "https://techcrunch.com/2026/04/08/databricks-matei-zaharia-wins-acm-computing-prize-agi/",
@@ -13,7 +34,7 @@
       "url": "https://techcrunch.com/2026/04/08/final-3-days-to-save-up-to-500-on-your-techcrunch-disrupt-2026-pass/",
       "source": "TechCrunch",
       "publishedAt": "2026-04-08T14:00:00Z",
-      "snippet": "Save up to $500\u00a0on your TechCrunch Disrupt 2026 pass until\u00a0April 10, 11:59 p.m. PT. Secure your spot at the center of the tech ecosystem. Register here."
+      "snippet": "Save up to $500\u00a0on your TechCrunch Disrupt 2026 pass until\u00a0April 10, 11:59 p.m. PT. Secure your spot at the center of the tech ecosystem. Register today."
     },
     {
       "title": "The vibes are off at OpenAI",
@@ -142,20 +163,6 @@
       "snippet": "Google says it has updated Gemini to better direct users to get mental health resources during moments of crisis. The change comes as the tech giant faces a wrongful death lawsuit alleging its chatbot"
     },
     {
-      "title": "AI startup Rocket offers vibe McKinsey-style reports at a fraction of the cost",
-      "url": "https://techcrunch.com/2026/04/06/indian-startup-rocket-wants-its-ai-to-do-mckinsey-style-consulting-at-a-fraction-of-the-cost/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-04-07T05:30:00Z",
-      "snippet": "Rocket's new AI platform combines strategy, product building, and competitive intelligence, aiming to move beyond code generation."
-    },
-    {
-      "title": "OpenAI alums have been quietly investing from a new, potentially $100M fund",
-      "url": "https://techcrunch.com/2026/04/06/openai-alums-have-been-quietly-investing-from-a-new-potentially-100m-fund/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-04-06T21:54:26Z",
-      "snippet": "Zero Shot, a new venture capital fund with deep ties to OpenAI, is aiming to raise $100 million for its first fund. It has already written some checks."
-    },
-    {
       "title": "Iran threatens OpenAI\u2019s Stargate data center in Abu Dhabi",
       "url": "https://www.theverge.com/ai-artificial-intelligence/907427/iran-openai-stargate-datacenter-uae-abu-dhabi-threat",
       "source": "The Verge",
@@ -168,13 +175,6 @@
       "source": "The Verge",
       "publishedAt": "2026-04-06T15:15:00Z",
       "snippet": "Today, I\u2019m talking with Chuck Robbins, CEO of Cisco. Cisco is one of those big companies that everyone has heard of but that most of us don\u2019t have to interact with very much; it\u2019s not really a consume"
-    },
-    {
-      "title": "Suno is a music copyright nightmare",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/906896/sunos-copyright-ai-music-covers",
-      "source": "The Verge",
-      "publishedAt": "2026-04-05T16:00:00Z",
-      "snippet": "AI music platform Suno's policy is that it does not permit the use of copyrighted material. You can upload your own tracks to remix or set your original lyrics to AI-generated music. But, it's suppose"
     }
   ],
   "trending": [
