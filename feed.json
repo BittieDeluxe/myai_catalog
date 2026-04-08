@@ -1,6 +1,34 @@
 {
-  "updated": "2026-04-08T13:13:38Z",
+  "updated": "2026-04-08T15:06:34Z",
   "news": [
+    {
+      "title": "Databricks co-founder wins prestigious ACM award, says \u2018AGI is here already\u2019",
+      "url": "https://techcrunch.com/2026/04/08/databricks-matei-zaharia-wins-acm-computing-prize-agi/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-04-08T15:00:00Z",
+      "snippet": "Matei Zaharia has won the top honor from the Association for Computing Machinery. Now he's working on AI for research and says AGI is simply misunderstood."
+    },
+    {
+      "title": "Final\u00a03\u00a0days to save up to $500 on your TechCrunch Disrupt 2026 pass",
+      "url": "https://techcrunch.com/2026/04/08/final-3-days-to-save-up-to-500-on-your-techcrunch-disrupt-2026-pass/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-04-08T14:00:00Z",
+      "snippet": "Save up to $500\u00a0on your TechCrunch Disrupt 2026 pass until\u00a0April 10, 11:59 p.m. PT. Secure your spot at the center of the tech ecosystem. Register here."
+    },
+    {
+      "title": "The vibes are off at OpenAI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/908513/the-vibes-are-off-at-openai",
+      "source": "The Verge",
+      "publishedAt": "2026-04-08T13:47:38Z",
+      "snippet": "OpenAI is in a relatively precarious position. The company is and has been a funding behemoth - just over a week ago, it closed $122 billion in funding at a post-money valuation of $852 billion. It's "
+    },
+    {
+      "title": "Atlassian launches visual\u00a0AI tools\u00a0and third-party agents\u00a0in Confluence",
+      "url": "https://techcrunch.com/2026/04/08/atlassian-confluence-visual-ai-tools-agents/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-04-08T13:00:00Z",
+      "snippet": "Confluence users can now create visual assets within the software in addition to new third-party agents working with Lovable, Replit, and Gamma."
+    },
     {
       "title": "Unionized ProPublica staff are on strike over AI, layoffs, and wages",
       "url": "https://www.theverge.com/news/908401/propublica-union-strike-negotiations-ai-layoffs",
@@ -128,20 +156,6 @@
       "snippet": "Zero Shot, a new venture capital fund with deep ties to OpenAI, is aiming to raise $100 million for its first fund. It has already written some checks."
     },
     {
-      "title": "Iran threatens \u2018Stargate\u2019 AI data centers",
-      "url": "https://techcrunch.com/2026/04/06/iran-threatens-stargate-ai-data-centers/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-04-06T18:06:28Z",
-      "snippet": "Iran said it will target U.S.-linked data centers with new missile strikes, as the war between the U.S. and Iran escalates."
-    },
-    {
-      "title": "OpenAI\u2019s vision for the AI economy: public wealth funds, robot taxes, and a four-day workweek",
-      "url": "https://techcrunch.com/2026/04/06/openais-vision-for-the-ai-economy-public-wealth-funds-robot-taxes-and-a-four-day-work-week/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-04-06T15:55:55Z",
-      "snippet": "OpenAI proposes taxes on AI profits, public wealth funds, and expanded safety nets to address job loss and inequality, blending redistribution with capitalism as policymakers debate AI\u2019s economic impa"
-    },
-    {
       "title": "Iran threatens OpenAI\u2019s Stargate data center in Abu Dhabi",
       "url": "https://www.theverge.com/ai-artificial-intelligence/907427/iran-openai-stargate-datacenter-uae-abu-dhabi-threat",
       "source": "The Verge",
@@ -156,25 +170,11 @@
       "snippet": "Today, I\u2019m talking with Chuck Robbins, CEO of Cisco. Cisco is one of those big companies that everyone has heard of but that most of us don\u2019t have to interact with very much; it\u2019s not really a consume"
     },
     {
-      "title": "Startup Battlefield 200 applications open: a chance for VC access, TechCrunch coverage, and $100K",
-      "url": "https://techcrunch.com/2026/04/06/startup-battlefield-200-applications-open-get-vc-access-techcrunch-coverage-and-100k/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-04-06T14:30:00Z",
-      "snippet": "Nominate your startup, or one you know that deserves the spotlight, and finish the process by applying. Selected 200 have a chance at VC access, TechCrunch coverage, and $100K for Startup Battlefield "
-    },
-    {
       "title": "Suno is a music copyright nightmare",
       "url": "https://www.theverge.com/ai-artificial-intelligence/906896/sunos-copyright-ai-music-covers",
       "source": "The Verge",
       "publishedAt": "2026-04-05T16:00:00Z",
       "snippet": "AI music platform Suno's policy is that it does not permit the use of copyrighted material. You can upload your own tracks to remix or set your original lyrics to AI-generated music. But, it's suppose"
-    },
-    {
-      "title": "I let Gemini in Google Maps plan my day and it went surprisingly well",
-      "url": "https://www.theverge.com/tech/907015/gemini-google-maps-hands-on",
-      "source": "The Verge",
-      "publishedAt": "2026-04-05T14:00:00Z",
-      "snippet": "You may be familiar with Gemini as the thing that's in every Google service you use - whether you want it or not. While it's been a constant, sometimes unwelcome presence in Gmail for at least the pas"
     }
   ],
   "trending": [
