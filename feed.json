@@ -1,6 +1,27 @@
 {
-  "updated": "2026-04-09T13:18:46Z",
+  "updated": "2026-04-09T15:19:13Z",
   "news": [
+    {
+      "title": "Amazon CEO takes aim at Nvidia, Intel, Starlink, more in annual shareholder letter",
+      "url": "https://techcrunch.com/2026/04/09/amazon-ceo-takes-aim-at-nvidia-intel-starlink-more-in-annual-shareholder-letter/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-04-09T14:27:57Z",
+      "snippet": "Andy Jassy's annual shareholder letter reads something like a diss track to a wide range of competitors as he defends spending $200 billion in capex."
+    },
+    {
+      "title": "The AI industry\u2019s race for profits is now existential",
+      "url": "https://www.theverge.com/podcast/909042/ai-monetization-cliff-anthropic-openai-profitable-ai-existential-moment",
+      "source": "The Verge",
+      "publishedAt": "2026-04-09T14:00:00Z",
+      "snippet": "Today on Decoder, let\u2019s talk about the looming AI monetization cliff, and whether some of the biggest companies in the space can become real, profitable businesses before they careen right off it. My "
+    },
+    {
+      "title": "Final 2 days to save up to $500 on your TechCrunch Disrupt 2026 ticket",
+      "url": "https://techcrunch.com/2026/04/09/final-2-days-to-save-up-to-500-on-your-techcrunch-disrupt-2026-ticket/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-04-09T14:00:00Z",
+      "snippet": "Ticket discounts of up to $500\u00a0will end\u00a0tomorrow, April 10, at 11:59 p.m. PT. After that, prices for\u00a0TechCrunch Disrupt 2026\u00a0go up\u00a0again. Miss this, and\u00a0you\u2019ll\u00a0be paying more for the same access to on"
+    },
     {
       "title": "Google makes it easy to deepfake yourself",
       "url": "https://www.theverge.com/ai-artificial-intelligence/909104/youtube-shorts-make-ai-avatar",
@@ -149,32 +170,11 @@
       "snippet": "The new model will be used by a small number of high-profile companies to engage in defensive cybersecurity work."
     },
     {
-      "title": "Uber is the latest to be won over by Amazon\u2019s AI chips",
-      "url": "https://techcrunch.com/2026/04/07/uber-is-the-latest-to-be-won-over-by-amazons-ai-chips/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-04-07T16:46:59Z",
-      "snippet": "Uber is expanding its AWS contract to run more of its ride-sharing features on Amazon's chips. This is a thumb-of-the nose at Oracle and Google."
-    },
-    {
       "title": "Suno and major music labels reportedly clash over AI music sharing",
       "url": "https://www.theverge.com/ai-artificial-intelligence/908119/suno-sony-universal-music-ai-disagreement",
       "source": "The Verge",
       "publishedAt": "2026-04-07T16:21:22Z",
       "snippet": "The AI-powered musicmaker Suno is struggling to reach licensing deals with Universal Music Group and Sony Music Entertainment. That's according to a report from the Financial Times, which says both si"
-    },
-    {
-      "title": "Anthropic\u00a0ups compute deal with Google and Broadcom amid skyrocketing demand",
-      "url": "https://techcrunch.com/2026/04/07/anthropic-compute-deal-google-broadcom-tpus/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-04-07T16:05:56Z",
-      "snippet": "Anthropic bulked up its compute deal with Google and Broadcom as the company has seen its run-rate revenue surge to $30 billion."
-    },
-    {
-      "title": "Intel will help build Elon Musk\u2019s Terafab AI chip factory",
-      "url": "https://www.theverge.com/transportation/907976/elon-musk-terafab-intel-ai-chip-spacex-tesla",
-      "source": "The Verge",
-      "publishedAt": "2026-04-07T15:43:17Z",
-      "snippet": "Elon Musk's Terafab AI chip project in Austin, Texas, is gaining a crucial new partner: Intel. On Tuesday, the American chipmaker announced it was signing on to help design and build the sprawling fac"
     }
   ],
   "trending": [
@@ -194,11 +194,6 @@
       "downloads": 806395
     },
     {
-      "id": "Jackrong/Qwopus3.5-27B-v3-GGUF",
-      "displayName": "Qwopus3.5 27B v3",
-      "downloads": 98156
-    },
-    {
       "id": "HauhauCS/Gemma-4-E4B-Uncensored-HauhauCS-Aggressive",
       "displayName": "Gemma 4 E4B Uncensored HauhauCS Aggressive",
       "downloads": 238236
@@ -207,6 +202,11 @@
       "id": "unsloth/gemma-4-E4B-it-GGUF",
       "displayName": "gemma 4 E4B",
       "downloads": 737252
+    },
+    {
+      "id": "Jackrong/Qwopus3.5-27B-v3-GGUF",
+      "displayName": "Qwopus3.5 27B v3",
+      "downloads": 98156
     },
     {
       "id": "HauhauCS/Qwen3.5-9B-Uncensored-HauhauCS-Aggressive",
