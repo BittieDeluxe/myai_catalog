@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-09T04:32:18Z",
+  "updated": "2026-04-09T07:16:34Z",
   "news": [
     {
       "title": "Gemini gets notebooks to help you organize projects",
@@ -219,14 +219,14 @@
       "downloads": 76914
     },
     {
-      "id": "Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-v2-GGUF",
-      "displayName": "Qwen3.5 27B Claude 4.6 Opus Reasoning Distilled v2",
-      "downloads": 305859
-    },
-    {
       "id": "HauhauCS/Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive",
       "displayName": "Qwen3.5 35B A3B Uncensored HauhauCS Aggressive",
       "downloads": 815445
+    },
+    {
+      "id": "Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-v2-GGUF",
+      "displayName": "Qwen3.5 27B Claude 4.6 Opus Reasoning Distilled v2",
+      "downloads": 305859
     }
   ]
 }
