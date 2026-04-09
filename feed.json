@@ -1,6 +1,34 @@
 {
-  "updated": "2026-04-09T17:03:14Z",
+  "updated": "2026-04-09T18:59:35Z",
   "news": [
+    {
+      "title": "Is Anthropic limiting the release of Mythos to protect the internet \u2014 or Anthropic?",
+      "url": "https://techcrunch.com/2026/04/09/is-anthropic-limiting-the-release-of-mythos-to-protect-the-internet-or-anthropic/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-04-09T18:50:05Z",
+      "snippet": "Are real cybersecurity concerns a cover for a bigger problem at the frontier lab?"
+    },
+    {
+      "title": "Google and Intel deepen AI infrastructure partnership",
+      "url": "https://techcrunch.com/2026/04/09/google-and-intel-deepen-ai-infrastructure-partnership/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-04-09T18:27:47Z",
+      "snippet": "The two tech giants are looking to co-develop custom chips, at a time where demand for CPUs is high due to a growing global shortage."
+    },
+    {
+      "title": "Google&#8217;s Gemini AI can answer your questions with 3D models and simulations",
+      "url": "https://www.theverge.com/tech/909391/google-gemini-ai-3d-models-simulations",
+      "source": "The Verge",
+      "publishedAt": "2026-04-09T17:57:58Z",
+      "snippet": "Google's latest upgrade for Gemini will allow the chatbot to generate interactive 3D models and simulations in response to your questions. With the new feature, you may see options to rotate the AI-ge"
+    },
+    {
+      "title": "Sierra\u2019s Bret Taylor says the era of clicking buttons is over",
+      "url": "https://techcrunch.com/2026/04/09/sierras-bret-taylor-says-the-era-of-clicking-buttons-is-over/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-04-09T17:20:50Z",
+      "snippet": "Co-founder of Sierra predicts that AI agents will make software interfaces obsolete."
+    },
     {
       "title": "Amazon CEO takes aim at Nvidia, Intel, Starlink, more in annual shareholder letter",
       "url": "https://techcrunch.com/2026/04/09/amazon-ceo-takes-aim-at-nvidia-intel-starlink-more-in-annual-shareholder-letter/",
@@ -142,39 +170,11 @@
       "snippet": "On Tuesday, Spotify expanded its Prompted Playlists feature to include podcasts, an update that could make it easier for Premium users to find new shows to listen to. Prompted Playlists were originall"
     },
     {
-      "title": "Firmus, the \u2018Southgate\u2019 AI data center builder backed by Nvidia, hits $5.5B valuation",
-      "url": "https://techcrunch.com/2026/04/07/firmus-the-southgate-ai-datacenter-builder-backed-by-nvidia-hits-5-5b-valuation/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-04-07T18:46:55Z",
-      "snippet": "Nvidia-backed Asia AI data center provider Firmus has now raised $1.35 billion in six months."
-    },
-    {
-      "title": "Intel signs on to Elon Musk\u2019s Terafab chips project",
-      "url": "https://techcrunch.com/2026/04/07/intel-signs-on-to-elon-musks-terafab-chips-project/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-04-07T18:10:01Z",
-      "snippet": "Intel will join SpaceX and Tesla in an effort to build a new U.S. semiconductor factory in Texas, although the scope of its contributions are unclear."
-    },
-    {
       "title": "A new Anthropic model found security problems &#8216;in every major operating system and web browser&#8217;",
       "url": "https://www.theverge.com/ai-artificial-intelligence/908114/anthropic-project-glasswing-cybersecurity",
       "source": "The Verge",
       "publishedAt": "2026-04-07T18:00:00Z",
       "snippet": "Anthropic is debuting a new AI model as part of a cybersecurity partnership with Nvidia, Google, Amazon Web Services, Apple, Microsoft, and other companies. Project Glasswing, as it's called, is bille"
-    },
-    {
-      "title": "Anthropic debuts preview of powerful new AI model Mythos in new cybersecurity initiative",
-      "url": "https://techcrunch.com/2026/04/07/anthropic-mythos-ai-model-preview-security/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-04-07T18:00:00Z",
-      "snippet": "The new model will be used by a small number of high-profile companies to engage in defensive cybersecurity work."
-    },
-    {
-      "title": "Suno and major music labels reportedly clash over AI music sharing",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/908119/suno-sony-universal-music-ai-disagreement",
-      "source": "The Verge",
-      "publishedAt": "2026-04-07T16:21:22Z",
-      "snippet": "The AI-powered musicmaker Suno is struggling to reach licensing deals with Universal Music Group and Sony Music Entertainment. That's according to a report from the Financial Times, which says both si"
     }
   ],
   "trending": [
@@ -189,14 +189,14 @@
       "downloads": 64863
     },
     {
-      "id": "unsloth/gemma-4-31B-it-GGUF",
-      "displayName": "gemma 4 31B",
-      "downloads": 806395
-    },
-    {
       "id": "HauhauCS/Gemma-4-E4B-Uncensored-HauhauCS-Aggressive",
       "displayName": "Gemma 4 E4B Uncensored HauhauCS Aggressive",
       "downloads": 238236
+    },
+    {
+      "id": "unsloth/gemma-4-31B-it-GGUF",
+      "displayName": "gemma 4 31B",
+      "downloads": 806395
     },
     {
       "id": "unsloth/gemma-4-E4B-it-GGUF",
