@@ -1,6 +1,13 @@
 {
-  "updated": "2026-04-09T10:55:33Z",
+  "updated": "2026-04-09T13:18:46Z",
   "news": [
+    {
+      "title": "Google makes it easy to deepfake yourself",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/909104/youtube-shorts-make-ai-avatar",
+      "source": "The Verge",
+      "publishedAt": "2026-04-09T10:53:49Z",
+      "snippet": "YouTube Shorts is rolling out a new AI-powered feature giving creators an easy way to realistically clone themselves on camera. The launch, hinted at earlier this year, reflects the platform's fraught"
+    },
     {
       "title": "Gemini gets notebooks to help you organize projects",
       "url": "https://www.theverge.com/tech/909031/google-gemini-notebooks-notebooklm",
@@ -168,13 +175,6 @@
       "source": "The Verge",
       "publishedAt": "2026-04-07T15:43:17Z",
       "snippet": "Elon Musk's Terafab AI chip project in Austin, Texas, is gaining a crucial new partner: Intel. On Tuesday, the American chipmaker announced it was signing on to help design and build the sprawling fac"
-    },
-    {
-      "title": "Gemini is making it faster for distressed users to reach mental health resources",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/907842/google-gemini-mental-health-interface-update",
-      "source": "The Verge",
-      "publishedAt": "2026-04-07T10:09:57Z",
-      "snippet": "Google says it has updated Gemini to better direct users to get mental health resources during moments of crisis. The change comes as the tech giant faces a wrongful death lawsuit alleging its chatbot"
     }
   ],
   "trending": [
