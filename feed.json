@@ -1,6 +1,20 @@
 {
-  "updated": "2026-04-09T20:44:11Z",
+  "updated": "2026-04-09T22:37:16Z",
   "news": [
+    {
+      "title": "Florida launches investigation into OpenAI",
+      "url": "https://www.theverge.com/policy/909557/openai-florida-investigation",
+      "source": "The Verge",
+      "publishedAt": "2026-04-09T22:17:06Z",
+      "snippet": "Florida Attorney General James Uthmeier is launching an investigation into OpenAI over public safety and national security risks, as reported earlier by Reuters. In a statement on Thursday, Uthmeier s"
+    },
+    {
+      "title": "ChatGPT finally offers $100/month Pro plan",
+      "url": "https://techcrunch.com/2026/04/09/chatgpt-pro-plan-100-month-codex/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-04-09T21:29:11Z",
+      "snippet": "OpenAI announced on Thursday something that power users have been asking for: a $100/month plan. Previously, subscriptions jumped from $20 to $200 per month."
+    },
     {
       "title": "Florida AG announces investigation into OpenAI over shooting that allegedly involved ChatGPT",
       "url": "https://techcrunch.com/2026/04/09/florida-ag-investigation-openai-chatgpt-shooting/",
@@ -9,7 +23,7 @@
       "snippet": "ChatGPT had reportedly been used to plan the attack that killed two and injured five at Florida State University last April. The family of one victim has said that they plan to sue OpenAI over the inc"
     },
     {
-      "title": "After data breach, $10B valued startup Mercor is having a month",
+      "title": "After data breach, $10B-valued startup Mercor is having a month",
       "url": "https://techcrunch.com/2026/04/09/after-data-breach-10b-valued-startup-mercor-is-having-a-month/",
       "source": "TechCrunch",
       "publishedAt": "2026-04-09T19:33:54Z",
@@ -142,13 +156,6 @@
       "snippet": "Matei Zaharia has won the top honor from the Association for Computing Machinery. Now he's working on AI for research and says AGI is simply misunderstood."
     },
     {
-      "title": "Final\u00a03\u00a0days to save up to $500 on your TechCrunch Disrupt 2026 pass",
-      "url": "https://techcrunch.com/2026/04/08/final-3-days-to-save-up-to-500-on-your-techcrunch-disrupt-2026-pass/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-04-08T14:00:00Z",
-      "snippet": "Save up to $500\u00a0on your TechCrunch Disrupt 2026 pass until\u00a0April 10, 11:59 p.m. PT. Secure your spot at the center of the tech ecosystem. Register today."
-    },
-    {
       "title": "The vibes are off at OpenAI",
       "url": "https://www.theverge.com/ai-artificial-intelligence/908513/the-vibes-are-off-at-openai",
       "source": "The Verge",
@@ -168,13 +175,6 @@
       "source": "The Verge",
       "publishedAt": "2026-04-07T20:13:23Z",
       "snippet": "On Tuesday, Spotify expanded its Prompted Playlists feature to include podcasts, an update that could make it easier for Premium users to find new shows to listen to. Prompted Playlists were originall"
-    },
-    {
-      "title": "A new Anthropic model found security problems &#8216;in every major operating system and web browser&#8217;",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/908114/anthropic-project-glasswing-cybersecurity",
-      "source": "The Verge",
-      "publishedAt": "2026-04-07T18:00:00Z",
-      "snippet": "Anthropic is debuting a new AI model as part of a cybersecurity partnership with Nvidia, Google, Amazon Web Services, Apple, Microsoft, and other companies. Project Glasswing, as it's called, is bille"
     }
   ],
   "trending": [
