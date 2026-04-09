@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-09T15:19:13Z",
+  "updated": "2026-04-09T17:03:14Z",
   "news": [
     {
       "title": "Amazon CEO takes aim at Nvidia, Intel, Starlink, more in annual shareholder letter",
@@ -219,14 +219,14 @@
       "downloads": 83943
     },
     {
+      "id": "unsloth/GLM-5.1-GGUF",
+      "displayName": "GLM 5.1",
+      "downloads": 13329
+    },
+    {
       "id": "HauhauCS/Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive",
       "displayName": "Qwen3.5 35B A3B Uncensored HauhauCS Aggressive",
       "downloads": 867221
-    },
-    {
-      "id": "unsloth/gemma-4-E2B-it-GGUF",
-      "displayName": "gemma 4 E2B",
-      "downloads": 376607
     }
   ]
 }
