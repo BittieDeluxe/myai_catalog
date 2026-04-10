@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-10T05:55:07Z",
+  "updated": "2026-04-10T07:22:09Z",
   "news": [
     {
       "title": "ChatGPT has a new $100 per month Pro subscription",
@@ -194,9 +194,9 @@
       "downloads": 64863
     },
     {
-      "id": "unsloth/gemma-4-31B-it-GGUF",
-      "displayName": "gemma 4 31B",
-      "downloads": 806395
+      "id": "HauhauCS/Qwen3.5-9B-Uncensored-HauhauCS-Aggressive",
+      "displayName": "Qwen3.5 9B Uncensored HauhauCS Aggressive",
+      "downloads": 821239
     },
     {
       "id": "Jackrong/Qwopus3.5-27B-v3-GGUF",
@@ -204,9 +204,9 @@
       "downloads": 98156
     },
     {
-      "id": "HauhauCS/Qwen3.5-9B-Uncensored-HauhauCS-Aggressive",
-      "displayName": "Qwen3.5 9B Uncensored HauhauCS Aggressive",
-      "downloads": 821239
+      "id": "unsloth/gemma-4-31B-it-GGUF",
+      "displayName": "gemma 4 31B",
+      "downloads": 806395
     },
     {
       "id": "unsloth/gemma-4-E4B-it-GGUF",
