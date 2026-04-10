@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-10T07:22:09Z",
+  "updated": "2026-04-10T09:04:39Z",
   "news": [
     {
       "title": "ChatGPT has a new $100 per month Pro subscription",
@@ -181,52 +181,52 @@
     {
       "id": "unsloth/gemma-4-26B-A4B-it-GGUF",
       "displayName": "gemma 4 26B A4B",
-      "downloads": 1197486
+      "downloads": 1361202
     },
     {
       "id": "HauhauCS/Gemma-4-E4B-Uncensored-HauhauCS-Aggressive",
       "displayName": "Gemma 4 E4B Uncensored HauhauCS Aggressive",
-      "downloads": 238236
+      "downloads": 317399
     },
     {
       "id": "prism-ml/Bonsai-8B-gguf",
       "displayName": "Bonsai 8B",
-      "downloads": 64863
-    },
-    {
-      "id": "HauhauCS/Qwen3.5-9B-Uncensored-HauhauCS-Aggressive",
-      "displayName": "Qwen3.5 9B Uncensored HauhauCS Aggressive",
-      "downloads": 821239
+      "downloads": 68205
     },
     {
       "id": "Jackrong/Qwopus3.5-27B-v3-GGUF",
       "displayName": "Qwopus3.5 27B v3",
-      "downloads": 98156
+      "downloads": 104450
+    },
+    {
+      "id": "HauhauCS/Qwen3.5-9B-Uncensored-HauhauCS-Aggressive",
+      "displayName": "Qwen3.5 9B Uncensored HauhauCS Aggressive",
+      "downloads": 848916
     },
     {
       "id": "unsloth/gemma-4-31B-it-GGUF",
       "displayName": "gemma 4 31B",
-      "downloads": 806395
+      "downloads": 906913
     },
     {
       "id": "unsloth/gemma-4-E4B-it-GGUF",
       "displayName": "gemma 4 E4B",
-      "downloads": 737252
+      "downloads": 845716
     },
     {
       "id": "Jackrong/Qwopus3.5-9B-v3-GGUF",
       "displayName": "Qwopus3.5 9B v3",
-      "downloads": 83943
+      "downloads": 91184
     },
     {
       "id": "unsloth/GLM-5.1-GGUF",
       "displayName": "GLM 5.1",
-      "downloads": 13329
+      "downloads": 17672
     },
     {
       "id": "HauhauCS/Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive",
       "displayName": "Qwen3.5 35B A3B Uncensored HauhauCS Aggressive",
-      "downloads": 867221
+      "downloads": 935896
     }
   ]
 }
