@@ -1,6 +1,13 @@
 {
-  "updated": "2026-04-09T22:37:16Z",
+  "updated": "2026-04-10T02:08:13Z",
   "news": [
+    {
+      "title": "ChatGPT has a new $100 per month Pro subscription",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/909599/chatgpt-pro-subscription-new",
+      "source": "The Verge",
+      "publishedAt": "2026-04-09T22:57:15Z",
+      "snippet": "OpenAI has announced a new version of its ChatGPT Pro subscription that costs $100 per month. The new Pro tier offers \"5x more\" usage of its Codex coding tool than the $20 per month Plus subscription "
+    },
     {
       "title": "Florida launches investigation into OpenAI",
       "url": "https://www.theverge.com/policy/909557/openai-florida-investigation",
@@ -168,13 +175,6 @@
       "source": "The Verge",
       "publishedAt": "2026-04-08T11:53:28Z",
       "snippet": "Unionized staff at ProPublica, one of the country's leading nonprofit newsrooms, are walking off the job for 24 hours beginning Wednesday and asking the public to honor a digital picket line. The roug"
-    },
-    {
-      "title": "Spotify&#8217;s Prompted Playlists can help you find new podcasts to listen to",
-      "url": "https://www.theverge.com/entertainment/908339/spotify-prompted-playlists-podcasts",
-      "source": "The Verge",
-      "publishedAt": "2026-04-07T20:13:23Z",
-      "snippet": "On Tuesday, Spotify expanded its Prompted Playlists feature to include podcasts, an update that could make it easier for Premium users to find new shows to listen to. Prompted Playlists were originall"
     }
   ],
   "trending": [
@@ -199,14 +199,14 @@
       "downloads": 806395
     },
     {
-      "id": "Jackrong/Qwopus3.5-27B-v3-GGUF",
-      "displayName": "Qwopus3.5 27B v3",
-      "downloads": 98156
-    },
-    {
       "id": "unsloth/gemma-4-E4B-it-GGUF",
       "displayName": "gemma 4 E4B",
       "downloads": 737252
+    },
+    {
+      "id": "Jackrong/Qwopus3.5-27B-v3-GGUF",
+      "displayName": "Qwopus3.5 27B v3",
+      "downloads": 98156
     },
     {
       "id": "HauhauCS/Qwen3.5-9B-Uncensored-HauhauCS-Aggressive",
