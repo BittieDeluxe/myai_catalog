@@ -1,6 +1,13 @@
 {
-  "updated": "2026-04-10T09:04:39Z",
+  "updated": "2026-04-10T10:50:13Z",
   "news": [
+    {
+      "title": "Microsoft starts removing Copilot buttons from Windows 11 apps",
+      "url": "https://www.theverge.com/news/909640/microsoft-removing-copilot-windows-11-buttons",
+      "source": "The Verge",
+      "publishedAt": "2026-04-10T09:22:06Z",
+      "snippet": "Microsoft is starting to remove \"unnecessary\" Copilot buttons from its Windows 11 apps. In the latest version of the Notepad app for Windows Insiders, Microsoft has removed the Copilot button in favor"
+    },
     {
       "title": "ChatGPT has a new $100 per month Pro subscription",
       "url": "https://www.theverge.com/ai-artificial-intelligence/909599/chatgpt-pro-subscription-new",
@@ -58,7 +65,7 @@
       "snippet": "The two tech giants are looking to co-develop custom chips, at a time when demand for CPUs is high due to a growing global shortage."
     },
     {
-      "title": "Google&#8217;s Gemini AI can answer your questions with 3D models and simulations",
+      "title": "Google\u2019s Gemini AI can answer your questions with 3D models and simulations",
       "url": "https://www.theverge.com/tech/909391/google-gemini-ai-3d-models-simulations",
       "source": "The Verge",
       "publishedAt": "2026-04-09T17:57:58Z",
@@ -168,13 +175,6 @@
       "source": "The Verge",
       "publishedAt": "2026-04-08T13:47:38Z",
       "snippet": "OpenAI is in a relatively precarious position. The company is and has been a funding behemoth - just over a week ago, it closed $122 billion in funding at a post-money valuation of $852 billion. It's "
-    },
-    {
-      "title": "Unionized ProPublica staff are on strike over AI, layoffs, and wages",
-      "url": "https://www.theverge.com/news/908401/propublica-union-strike-negotiations-ai-layoffs",
-      "source": "The Verge",
-      "publishedAt": "2026-04-08T11:53:28Z",
-      "snippet": "Unionized staff at ProPublica, one of the country's leading nonprofit newsrooms, are walking off the job for 24 hours beginning Wednesday and asking the public to honor a digital picket line. The roug"
     }
   ],
   "trending": [
