@@ -1,6 +1,20 @@
 {
-  "updated": "2026-04-10T14:43:51Z",
+  "updated": "2026-04-10T16:45:47Z",
   "news": [
+    {
+      "title": "Stalking victim sues OpenAI, claims ChatGPT fueled her abuser\u2019s delusions and ignored her warnings",
+      "url": "https://techcrunch.com/2026/04/10/stalking-victim-sues-openai-claims-chatgpt-fueled-her-abusers-delusions-and-ignored-her-warnings/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-04-10T16:41:34Z",
+      "snippet": "OpenAI ignored three warnings that a ChatGPT user was dangerous \u2014 including its own mass casualty flag \u2014 while he stalked and harassed his ex-girlfriend, a new lawsuit alleges."
+    },
+    {
+      "title": "TechCrunch is heading to Tokyo \u2014 and bringing the Startup Battlefield with it",
+      "url": "https://techcrunch.com/2026/04/10/techcrunch-is-heading-to-tokyo-and-bringing-the-startup-battlefield-with-it/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-04-10T16:38:43Z",
+      "snippet": "SusHi Tech 2026 is zeroing in on four technology domains reshaping society: AI, Robotics, Resilience, and Entertainment. Expect live demos of humanoid robots, sessions on autonomous driving's software"
+    },
     {
       "title": "Last 24 hours: Save up to $500 on your TechCrunch Disrupt 2026 pass",
       "url": "https://techcrunch.com/2026/04/10/final-24-hours-save-up-to-500-on-your-techcrunch-disrupt-2026-pass/",
@@ -161,20 +175,6 @@
       "source": "TechCrunch",
       "publishedAt": "2026-04-08T18:23:06Z",
       "snippet": "Tubi becomes the first streaming service to offer an app integration within ChatGPT, the AI chatbot that millions of users turn to for answers."
-    },
-    {
-      "title": "Astropad\u2019s Workbench reimagines remote desktop for AI agents, not IT support",
-      "url": "https://techcrunch.com/2026/04/08/astropads-workbench-reimagines-remote-desktop-for-ai-agents-not-it-support/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-04-08T16:01:09Z",
-      "snippet": "Astropad\u2019s Workbench lets users remotely monitor and control AI agents on Mac Minis from iPhone or iPad, with low-latency streaming and mobile access."
-    },
-    {
-      "title": "OpenAI releases a new safety blueprint to address the rise in child sexual exploitation",
-      "url": "https://techcrunch.com/2026/04/08/openai-releases-a-new-safety-blueprint-to-address-the-rise-in-child-sexual-exploitation/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-04-08T15:23:44Z",
-      "snippet": "OpenAI's new Child Safety Blueprint aims to tackle the alarming rise in child sexual exploitation linked to advancements in AI."
     }
   ],
   "trending": [
@@ -214,14 +214,14 @@
       "downloads": 845716
     },
     {
-      "id": "Jackrong/Qwopus3.5-9B-v3-GGUF",
-      "displayName": "Qwopus3.5 9B v3",
-      "downloads": 91184
-    },
-    {
       "id": "unsloth/GLM-5.1-GGUF",
       "displayName": "GLM 5.1",
       "downloads": 17672
+    },
+    {
+      "id": "Jackrong/Qwopus3.5-9B-v3-GGUF",
+      "displayName": "Qwopus3.5 9B v3",
+      "downloads": 91184
     },
     {
       "id": "HauhauCS/Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive",
