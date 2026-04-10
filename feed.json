@@ -1,6 +1,20 @@
 {
-  "updated": "2026-04-10T10:50:13Z",
+  "updated": "2026-04-10T13:01:36Z",
   "news": [
+    {
+      "title": "Fear and loathing at OpenAI",
+      "url": "https://www.theverge.com/podcast/909621/openai-sam-altman-drama-vergecast",
+      "source": "The Verge",
+      "publishedAt": "2026-04-10T12:23:18Z",
+      "snippet": "Sam Altman's tenure at OpenAI has been\u2026 messy. Messy to the point where Altman was briefly fired from his role as CEO, only to be reinstated days later, at which point he began reshaping the organizat"
+    },
+    {
+      "title": "Gen Z\u2019s love-hate relationship with AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/909687/gen-z-doesnt-like-ai-gallup",
+      "source": "The Verge",
+      "publishedAt": "2026-04-10T11:23:28Z",
+      "snippet": "Gen Z is increasingly disillusioned with AI - just not enough to stop using it. A new Gallup report released this week, based on responses from nearly 1,600 people ages 14 to 29 across the US, suggest"
+    },
     {
       "title": "Microsoft starts removing Copilot buttons from Windows 11 apps",
       "url": "https://www.theverge.com/news/909640/microsoft-removing-copilot-windows-11-buttons",
@@ -142,13 +156,6 @@
       "snippet": "Tubi becomes the first streaming service to offer an app integration within ChatGPT, the AI chatbot that millions of users turn to for answers."
     },
     {
-      "title": "Meta is reentering the AI race with a new model called Muse Spark",
-      "url": "https://www.theverge.com/tech/908769/meta-muse-spark-ai-model-launch-rollout",
-      "source": "The Verge",
-      "publishedAt": "2026-04-08T16:12:54Z",
-      "snippet": "Meta Superintelligence Labs is launching its first model since Mark Zuckerberg spent billions overhauling the company's AI efforts. Called Muse Spark, the model now powers the Meta AI app and the Meta"
-    },
-    {
       "title": "Astropad\u2019s Workbench reimagines remote desktop for AI agents, not IT support",
       "url": "https://techcrunch.com/2026/04/08/astropads-workbench-reimagines-remote-desktop-for-ai-agents-not-it-support/",
       "source": "TechCrunch",
@@ -168,13 +175,6 @@
       "source": "TechCrunch",
       "publishedAt": "2026-04-08T15:00:00Z",
       "snippet": "Matei Zaharia has won the top honor from the Association for Computing Machinery. Now he's working on AI for research and says AGI is simply misunderstood."
-    },
-    {
-      "title": "The vibes are off at OpenAI",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/908513/the-vibes-are-off-at-openai",
-      "source": "The Verge",
-      "publishedAt": "2026-04-08T13:47:38Z",
-      "snippet": "OpenAI is in a relatively precarious position. The company is and has been a funding behemoth - just over a week ago, it closed $122 billion in funding at a post-money valuation of $852 billion. It's "
     }
   ],
   "trending": [
@@ -194,14 +194,14 @@
       "downloads": 68205
     },
     {
-      "id": "Jackrong/Qwopus3.5-27B-v3-GGUF",
-      "displayName": "Qwopus3.5 27B v3",
-      "downloads": 104450
-    },
-    {
       "id": "HauhauCS/Qwen3.5-9B-Uncensored-HauhauCS-Aggressive",
       "displayName": "Qwen3.5 9B Uncensored HauhauCS Aggressive",
       "downloads": 848916
+    },
+    {
+      "id": "Jackrong/Qwopus3.5-27B-v3-GGUF",
+      "displayName": "Qwopus3.5 27B v3",
+      "downloads": 104450
     },
     {
       "id": "unsloth/gemma-4-31B-it-GGUF",
