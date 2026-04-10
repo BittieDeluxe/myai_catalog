@@ -1,6 +1,20 @@
 {
-  "updated": "2026-04-10T18:45:41Z",
+  "updated": "2026-04-10T20:31:53Z",
   "news": [
+    {
+      "title": "Anthropic temporarily banned OpenClaw\u2019s creator from accessing Claude",
+      "url": "https://techcrunch.com/2026/04/10/anthropic-temporarily-banned-openclaws-creator-from-accessing-claude/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-04-10T20:27:52Z",
+      "snippet": "This ban took place after Claude's pricing changed for OpenClaw users last week."
+    },
+    {
+      "title": "20-year-old man arrested for allegedly throwing a Molotov cocktail at Sam Altman\u2019s house",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/910393/openai-sam-altman-house-molotov-cocktail",
+      "source": "The Verge",
+      "publishedAt": "2026-04-10T20:16:57Z",
+      "snippet": "San Francisco police have arrested a 20-year-old man suspected of throwing a Molotov cocktail at OpenAI CEO Sam Altman's Russian Hill house early Friday morning, The San Francisco Standard reports. Th"
+    },
     {
       "title": "The Iranian Lego AI video creators credit their virality to &#8216;heart&#8217;",
       "url": "https://www.theverge.com/ai-artificial-intelligence/909948/explosive-media-lego-iran-war-trump-netanyahu",
@@ -149,13 +163,6 @@
       "snippet": "YouTube Shorts is rolling out a new AI-powered feature giving creators an easy way to realistically clone themselves on camera. The launch, hinted at earlier this year, reflects the platform's fraught"
     },
     {
-      "title": "Gemini gets notebooks to help you organize projects",
-      "url": "https://www.theverge.com/tech/909031/google-gemini-notebooks-notebooklm",
-      "source": "The Verge",
-      "publishedAt": "2026-04-09T00:06:12Z",
-      "snippet": "Google's Gemini is getting a feature called \"notebooks\" to help you organize things about certain topics in a single place while using the AI chatbot, the company announced on Wednesday. You can pull "
-    },
-    {
       "title": "Poke makes using AI agents as easy as sending a text",
       "url": "https://techcrunch.com/2026/04/08/poke-makes-ai-agents-as-easy-as-sending-a-text/",
       "source": "TechCrunch",
@@ -168,13 +175,6 @@
       "source": "TechCrunch",
       "publishedAt": "2026-04-08T20:09:14Z",
       "snippet": "AWS has an ingrained culture of handling competition, he explained, because the cloud giant also competes with its partners."
-    },
-    {
-      "title": "Tubi is the first streamer to launch a native app within ChatGPT",
-      "url": "https://techcrunch.com/2026/04/08/tubi-is-the-first-streamer-to-launch-a-native-app-within-chatgpt/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-04-08T18:23:06Z",
-      "snippet": "Tubi becomes the first streaming service to offer an app integration within ChatGPT, the AI chatbot that millions of users turn to for answers."
     }
   ],
   "trending": [
@@ -214,14 +214,14 @@
       "downloads": 845716
     },
     {
-      "id": "Jackrong/Qwopus3.5-9B-v3-GGUF",
-      "displayName": "Qwopus3.5 9B v3",
-      "downloads": 91184
-    },
-    {
       "id": "unsloth/GLM-5.1-GGUF",
       "displayName": "GLM 5.1",
       "downloads": 17672
+    },
+    {
+      "id": "Jackrong/Qwopus3.5-9B-v3-GGUF",
+      "displayName": "Qwopus3.5 9B v3",
+      "downloads": 91184
     },
     {
       "id": "HauhauCS/Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive",
