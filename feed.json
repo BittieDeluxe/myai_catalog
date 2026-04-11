@@ -1,6 +1,13 @@
 {
-  "updated": "2026-04-11T14:33:35Z",
+  "updated": "2026-04-11T16:31:57Z",
   "news": [
+    {
+      "title": "Your article about AI doesn\u2019t need AI art",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/910460/new-yorker-david-szauder-illustration-generative-ai",
+      "source": "The Verge",
+      "publishedAt": "2026-04-11T15:00:00Z",
+      "snippet": "The illustration for The New Yorker's profile of OpenAI CEO Sam Altman is a jump scare. Altman stands in a blue sweater with a blank expression. Around his head hovers a cluster of disembodied faces -"
+    },
     {
       "title": "My baby deer plushie told me that Mitski&#8217;s dad was a CIA operative",
       "url": "https://www.theverge.com/ai-artificial-intelligence/910008/fawn-friends-ai-companion",
@@ -133,13 +140,6 @@
       "source": "TechCrunch",
       "publishedAt": "2026-04-09T18:27:47Z",
       "snippet": "The two tech giants are looking to co-develop custom chips, at a time when demand for CPUs is high due to a growing global shortage."
-    },
-    {
-      "title": "Google\u2019s Gemini AI can answer your questions with 3D models and simulations",
-      "url": "https://www.theverge.com/tech/909391/google-gemini-ai-3d-models-simulations",
-      "source": "The Verge",
-      "publishedAt": "2026-04-09T17:57:58Z",
-      "snippet": "Google's latest upgrade for Gemini will allow the chatbot to generate interactive 3D models and simulations in response to your questions. With the new feature, you may see options to rotate the AI-ge"
     },
     {
       "title": "Sierra\u2019s Bret Taylor says the era of clicking buttons is over",
