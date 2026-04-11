@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-11T01:56:53Z",
+  "updated": "2026-04-11T04:22:41Z",
   "news": [
     {
       "title": "Anthropic temporarily banned OpenClaw\u2019s creator from accessing Claude",
@@ -199,14 +199,14 @@
       "downloads": 848916
     },
     {
-      "id": "Jackrong/Qwopus3.5-27B-v3-GGUF",
-      "displayName": "Qwopus3.5 27B v3",
-      "downloads": 104450
-    },
-    {
       "id": "unsloth/gemma-4-31B-it-GGUF",
       "displayName": "gemma 4 31B",
       "downloads": 906913
+    },
+    {
+      "id": "Jackrong/Qwopus3.5-27B-v3-GGUF",
+      "displayName": "Qwopus3.5 27B v3",
+      "downloads": 104450
     },
     {
       "id": "unsloth/gemma-4-E4B-it-GGUF",
