@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-11T06:56:42Z",
+  "updated": "2026-04-11T08:38:10Z",
   "news": [
     {
       "title": "Anthropic temporarily banned OpenClaw\u2019s creator from accessing Claude",
@@ -181,52 +181,52 @@
     {
       "id": "unsloth/gemma-4-26B-A4B-it-GGUF",
       "displayName": "gemma 4 26B A4B",
-      "downloads": 1361202
+      "downloads": 1523972
     },
     {
       "id": "HauhauCS/Gemma-4-E4B-Uncensored-HauhauCS-Aggressive",
       "displayName": "Gemma 4 E4B Uncensored HauhauCS Aggressive",
-      "downloads": 317399
+      "downloads": 373322
     },
     {
       "id": "prism-ml/Bonsai-8B-gguf",
       "displayName": "Bonsai 8B",
-      "downloads": 68205
+      "downloads": 71661
     },
     {
       "id": "HauhauCS/Qwen3.5-9B-Uncensored-HauhauCS-Aggressive",
       "displayName": "Qwen3.5 9B Uncensored HauhauCS Aggressive",
-      "downloads": 848916
+      "downloads": 868534
     },
     {
       "id": "unsloth/gemma-4-31B-it-GGUF",
       "displayName": "gemma 4 31B",
-      "downloads": 906913
+      "downloads": 997865
     },
     {
       "id": "Jackrong/Qwopus3.5-27B-v3-GGUF",
       "displayName": "Qwopus3.5 27B v3",
-      "downloads": 104450
+      "downloads": 111740
     },
     {
       "id": "unsloth/gemma-4-E4B-it-GGUF",
       "displayName": "gemma 4 E4B",
-      "downloads": 845716
+      "downloads": 932802
     },
     {
       "id": "unsloth/GLM-5.1-GGUF",
       "displayName": "GLM 5.1",
-      "downloads": 17672
+      "downloads": 21864
     },
     {
       "id": "HauhauCS/Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive",
       "displayName": "Qwen3.5 35B A3B Uncensored HauhauCS Aggressive",
-      "downloads": 935896
+      "downloads": 962827
     },
     {
       "id": "Jackrong/Qwopus3.5-9B-v3-GGUF",
       "displayName": "Qwopus3.5 9B v3",
-      "downloads": 91184
+      "downloads": 98439
     }
   ]
 }
