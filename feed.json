@@ -1,6 +1,20 @@
 {
-  "updated": "2026-04-11T12:50:30Z",
+  "updated": "2026-04-11T14:33:35Z",
   "news": [
+    {
+      "title": "My baby deer plushie told me that Mitski&#8217;s dad was a CIA operative",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/910008/fawn-friends-ai-companion",
+      "source": "The Verge",
+      "publishedAt": "2026-04-11T14:00:00Z",
+      "snippet": "Two weeks ago, I was getting ready to log off work when I got a text message. \"Oh wow, I was checking out Mitski. did you know people are saying her Dad was a CIA operative?\" Normally, that kind of ou"
+    },
+    {
+      "title": "How Iran out-shitposted the White House",
+      "url": "https://www.theverge.com/policy/910401/iran-war-propaganda-blackout-lego-ai-slop",
+      "source": "The Verge",
+      "publishedAt": "2026-04-11T13:00:00Z",
+      "snippet": "In the early days of the war on Iran, while the White House was busy posting Call of Duty memes and AI slop of dancing bowling pins, the Iranian regime's state media was flooding the zone with video a"
+    },
     {
       "title": "Anthropic temporarily banned OpenClaw\u2019s creator from accessing Claude",
       "url": "https://techcrunch.com/2026/04/10/anthropic-temporarily-banned-openclaws-creator-from-accessing-claude/",
@@ -142,25 +156,11 @@
       "snippet": "Andy Jassy's annual shareholder letter reads something like a diss track to a wide range of competitors as he defends spending $200 billion in capex."
     },
     {
-      "title": "The AI industry\u2019s race for profits is now existential",
-      "url": "https://www.theverge.com/podcast/909042/ai-monetization-cliff-anthropic-openai-profitable-ai-existential-moment",
-      "source": "The Verge",
-      "publishedAt": "2026-04-09T14:00:00Z",
-      "snippet": "Today on Decoder, let\u2019s talk about the looming AI monetization cliff, and whether some of the biggest companies in the space can become real, profitable businesses before they careen right off it. My "
-    },
-    {
       "title": "Final 2 days to save up to $500 on your TechCrunch Disrupt 2026 ticket",
       "url": "https://techcrunch.com/2026/04/09/final-2-days-to-save-up-to-500-on-your-techcrunch-disrupt-2026-ticket/",
       "source": "TechCrunch",
       "publishedAt": "2026-04-09T14:00:00Z",
       "snippet": "Ticket discounts of up to $500\u00a0will end\u00a0tomorrow, April 10, at 11:59 p.m. PT. After that, prices for\u00a0TechCrunch Disrupt 2026\u00a0go up\u00a0again. Miss this, and\u00a0you\u2019ll\u00a0be paying more for the same access to on"
-    },
-    {
-      "title": "Google makes it easy to deepfake yourself",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/909104/youtube-shorts-make-ai-avatar",
-      "source": "The Verge",
-      "publishedAt": "2026-04-09T10:53:49Z",
-      "snippet": "YouTube Shorts is rolling out a new AI-powered feature giving creators an easy way to realistically clone themselves on camera. The launch, hinted at earlier this year, reflects the platform's fraught"
     },
     {
       "title": "Poke makes using AI agents as easy as sending a text",
@@ -209,14 +209,14 @@
       "downloads": 111740
     },
     {
-      "id": "unsloth/gemma-4-E4B-it-GGUF",
-      "displayName": "gemma 4 E4B",
-      "downloads": 932802
-    },
-    {
       "id": "unsloth/GLM-5.1-GGUF",
       "displayName": "GLM 5.1",
       "downloads": 21864
+    },
+    {
+      "id": "unsloth/gemma-4-E4B-it-GGUF",
+      "displayName": "gemma 4 E4B",
+      "downloads": 932802
     },
     {
       "id": "HauhauCS/Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive",
