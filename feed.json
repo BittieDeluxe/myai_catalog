@@ -1,6 +1,13 @@
 {
-  "updated": "2026-04-11T16:31:57Z",
+  "updated": "2026-04-11T18:38:46Z",
   "news": [
+    {
+      "title": "Sam Altman responds to \u2018incendiary\u2019 New Yorker article after attack on his home",
+      "url": "https://techcrunch.com/2026/04/11/sam-altman-responds-to-incendiary-new-yorker-article-after-attack-on-his-home/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-04-11T17:18:22Z",
+      "snippet": "The OpenAI CEO's new blog post responds to both an apparent attack on his home and an in-depth New Yorker profile raising questions about his trustworthiness."
+    },
     {
       "title": "Your article about AI doesn\u2019t need AI art",
       "url": "https://www.theverge.com/ai-artificial-intelligence/910460/new-yorker-david-szauder-illustration-generative-ai",
@@ -168,13 +175,6 @@
       "source": "TechCrunch",
       "publishedAt": "2026-04-08T21:05:13Z",
       "snippet": "Poke brings AI agents to everyday users via text message by handling tasks and automations without complex setup, apps, or technical know-how."
-    },
-    {
-      "title": "AWS boss explains why investing billions in both Anthropic and OpenAI is an OK conflict",
-      "url": "https://techcrunch.com/2026/04/08/aws-boss-explains-why-investing-billions-in-both-anthropic-and-openai-is-an-ok-conflict/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-04-08T20:09:14Z",
-      "snippet": "AWS has an ingrained culture of handling competition, he explained, because the cloud giant also competes with its partners."
     }
   ],
   "trending": [
@@ -204,11 +204,6 @@
       "downloads": 997865
     },
     {
-      "id": "Jackrong/Qwopus3.5-27B-v3-GGUF",
-      "displayName": "Qwopus3.5 27B v3",
-      "downloads": 111740
-    },
-    {
       "id": "unsloth/GLM-5.1-GGUF",
       "displayName": "GLM 5.1",
       "downloads": 21864
@@ -217,6 +212,11 @@
       "id": "unsloth/gemma-4-E4B-it-GGUF",
       "displayName": "gemma 4 E4B",
       "downloads": 932802
+    },
+    {
+      "id": "Jackrong/Qwopus3.5-27B-v3-GGUF",
+      "displayName": "Qwopus3.5 27B v3",
+      "downloads": 111740
     },
     {
       "id": "HauhauCS/Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive",
