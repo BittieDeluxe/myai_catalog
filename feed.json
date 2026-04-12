@@ -1,6 +1,13 @@
 {
-  "updated": "2026-04-12T10:35:22Z",
+  "updated": "2026-04-12T12:54:20Z",
   "news": [
+    {
+      "title": "The AI code wars are heating up",
+      "url": "https://www.theverge.com/column/910019/ai-coding-wars-openai-google-anthropic",
+      "source": "The Verge",
+      "publishedAt": "2026-04-12T12:00:00Z",
+      "snippet": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the AI coding and vibe-coding booms, follow David Pierce. The Stepback arrives in our subsc"
+    },
     {
       "title": "Sam Altman responds to \u2018incendiary\u2019 New Yorker article after attack on his home",
       "url": "https://techcrunch.com/2026/04/11/sam-altman-responds-to-incendiary-new-yorker-article-after-attack-on-his-home/",
@@ -100,13 +107,6 @@
       "snippet": "OpenAI has announced a new version of its ChatGPT Pro subscription that costs $100 per month. The new Pro tier offers \"5x more\" usage of its Codex coding tool than the $20 per month Plus subscription "
     },
     {
-      "title": "Florida launches investigation into OpenAI",
-      "url": "https://www.theverge.com/policy/909557/openai-florida-investigation",
-      "source": "The Verge",
-      "publishedAt": "2026-04-09T22:17:06Z",
-      "snippet": "Florida Attorney General James Uthmeier is launching an investigation into OpenAI over public safety and national security risks, as reported earlier by Reuters. In a statement on Thursday, Uthmeier s"
-    },
-    {
       "title": "ChatGPT finally offers $100/month Pro plan",
       "url": "https://techcrunch.com/2026/04/09/chatgpt-pro-plan-100-month-codex/",
       "source": "TechCrunch",
@@ -204,14 +204,14 @@
       "downloads": 25680
     },
     {
-      "id": "unsloth/gemma-4-31B-it-GGUF",
-      "displayName": "gemma 4 31B",
-      "downloads": 1102673
-    },
-    {
       "id": "Jackrong/Qwopus3.5-27B-v3-GGUF",
       "displayName": "Qwopus3.5 27B v3",
       "downloads": 117532
+    },
+    {
+      "id": "unsloth/gemma-4-31B-it-GGUF",
+      "displayName": "gemma 4 31B",
+      "downloads": 1102673
     },
     {
       "id": "unsloth/gemma-4-E4B-it-GGUF",
