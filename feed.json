@@ -1,6 +1,20 @@
 {
-  "updated": "2026-04-13T06:11:18Z",
+  "updated": "2026-04-13T09:51:37Z",
   "news": [
+    {
+      "title": "Sam Altman reportedly targeted in second attack",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/910890/openai-sam-altman-second-home-attack-shooting",
+      "source": "The Verge",
+      "publishedAt": "2026-04-13T09:25:57Z",
+      "snippet": "Sam Altman was seemingly targeted by a second attack on Sunday morning, with two suspects arrested following a shooting at his Russian Hill residence, The San Francisco Standard reports. The suspects "
+    },
+    {
+      "title": "The largest orbital compute cluster is open for business",
+      "url": "https://techcrunch.com/2026/04/13/the-largest-orbital-compute-cluster-is-open-for-business/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-04-13T07:01:00Z",
+      "snippet": "Kepler Communications is flying 40 GPUs in Earth orbit. And its latest customer is Sophia Space."
+    },
     {
       "title": "Trump officials may be encouraging banks to test Anthropic\u2019s Mythos model",
       "url": "https://techcrunch.com/2026/04/12/trump-officials-may-be-encouraging-banks-to-test-anthropics-mythos-model/",
@@ -128,13 +142,6 @@
       "snippet": "Microsoft is starting to remove \"unnecessary\" Copilot buttons from its Windows 11 apps. In the latest version of the Notepad app for Windows Insiders, Microsoft has removed the Copilot button in favor"
     },
     {
-      "title": "ChatGPT has a new $100 per month Pro subscription",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/909599/chatgpt-pro-subscription-new",
-      "source": "The Verge",
-      "publishedAt": "2026-04-09T22:57:15Z",
-      "snippet": "OpenAI has announced a new version of its ChatGPT Pro subscription that costs $100 per month. The new Pro tier offers \"5x more\" usage of its Codex coding tool than the $20 per month Plus subscription "
-    },
-    {
       "title": "ChatGPT finally offers $100/month Pro plan",
       "url": "https://techcrunch.com/2026/04/09/chatgpt-pro-plan-100-month-codex/",
       "source": "TechCrunch",
@@ -168,65 +175,58 @@
       "source": "TechCrunch",
       "publishedAt": "2026-04-09T18:50:05Z",
       "snippet": "Anthropic said this week that it limited the release of its newest model, dubbed Mythos, because it is too capable of finding security exploits in software relied upon by users around the world. Are r"
-    },
-    {
-      "title": "Google and Intel deepen AI infrastructure partnership",
-      "url": "https://techcrunch.com/2026/04/09/google-and-intel-deepen-ai-infrastructure-partnership/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-04-09T18:27:47Z",
-      "snippet": "The two tech giants are looking to co-develop custom chips, at a time when demand for CPUs is high due to a growing global shortage."
     }
   ],
   "trending": [
     {
       "id": "unsloth/gemma-4-26B-A4B-it-GGUF",
       "displayName": "gemma 4 26B A4B",
-      "downloads": 1676935
+      "downloads": 1803416
     },
     {
       "id": "HauhauCS/Gemma-4-E4B-Uncensored-HauhauCS-Aggressive",
       "displayName": "Gemma 4 E4B Uncensored HauhauCS Aggressive",
-      "downloads": 432494
-    },
-    {
-      "id": "prism-ml/Bonsai-8B-gguf",
-      "displayName": "Bonsai 8B",
-      "downloads": 74389
+      "downloads": 486019
     },
     {
       "id": "unsloth/GLM-5.1-GGUF",
       "displayName": "GLM 5.1",
-      "downloads": 25680
+      "downloads": 28533
+    },
+    {
+      "id": "prism-ml/Bonsai-8B-gguf",
+      "displayName": "Bonsai 8B",
+      "downloads": 76787
     },
     {
       "id": "unsloth/gemma-4-31B-it-GGUF",
       "displayName": "gemma 4 31B",
-      "downloads": 1102673
-    },
-    {
-      "id": "HauhauCS/Qwen3.5-9B-Uncensored-HauhauCS-Aggressive",
-      "displayName": "Qwen3.5 9B Uncensored HauhauCS Aggressive",
-      "downloads": 878643
+      "downloads": 1181417
     },
     {
       "id": "Jackrong/Qwopus3.5-27B-v3-GGUF",
       "displayName": "Qwopus3.5 27B v3",
-      "downloads": 117532
+      "downloads": 126509
+    },
+    {
+      "id": "HauhauCS/Qwen3.5-9B-Uncensored-HauhauCS-Aggressive",
+      "displayName": "Qwen3.5 9B Uncensored HauhauCS Aggressive",
+      "downloads": 905234
     },
     {
       "id": "unsloth/gemma-4-E4B-it-GGUF",
       "displayName": "gemma 4 E4B",
-      "downloads": 1030765
+      "downloads": 1100025
     },
     {
       "id": "Jiunsong/supergemma4-26b-uncensored-gguf-v2",
       "displayName": "supergemma4 26b uncensored v2",
-      "downloads": 3550
+      "downloads": 7307
     },
     {
       "id": "HauhauCS/Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive",
       "displayName": "Qwen3.5 35B A3B Uncensored HauhauCS Aggressive",
-      "downloads": 1017946
+      "downloads": 1063984
     }
   ]
 }
