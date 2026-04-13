@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-13T02:14:16Z",
+  "updated": "2026-04-13T06:11:18Z",
   "news": [
     {
       "title": "Trump officials may be encouraging banks to test Anthropic\u2019s Mythos model",
@@ -199,14 +199,14 @@
       "downloads": 25680
     },
     {
-      "id": "HauhauCS/Qwen3.5-9B-Uncensored-HauhauCS-Aggressive",
-      "displayName": "Qwen3.5 9B Uncensored HauhauCS Aggressive",
-      "downloads": 878643
-    },
-    {
       "id": "unsloth/gemma-4-31B-it-GGUF",
       "displayName": "gemma 4 31B",
       "downloads": 1102673
+    },
+    {
+      "id": "HauhauCS/Qwen3.5-9B-Uncensored-HauhauCS-Aggressive",
+      "displayName": "Qwen3.5 9B Uncensored HauhauCS Aggressive",
+      "downloads": 878643
     },
     {
       "id": "Jackrong/Qwopus3.5-27B-v3-GGUF",
@@ -219,14 +219,14 @@
       "downloads": 1030765
     },
     {
-      "id": "HauhauCS/Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive",
-      "displayName": "Qwen3.5 35B A3B Uncensored HauhauCS Aggressive",
-      "downloads": 1017946
-    },
-    {
       "id": "Jiunsong/supergemma4-26b-uncensored-gguf-v2",
       "displayName": "supergemma4 26b uncensored v2",
       "downloads": 3550
+    },
+    {
+      "id": "HauhauCS/Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive",
+      "displayName": "Qwen3.5 35B A3B Uncensored HauhauCS Aggressive",
+      "downloads": 1017946
     }
   ]
 }
