@@ -1,6 +1,13 @@
 {
-  "updated": "2026-04-13T13:18:30Z",
+  "updated": "2026-04-13T15:13:38Z",
   "news": [
+    {
+      "title": "Mark Zuckerberg is reportedly building an AI clone to replace him in meetings",
+      "url": "https://www.theverge.com/tech/910990/meta-ceo-mark-zuckerberg-ai-clone",
+      "source": "The Verge",
+      "publishedAt": "2026-04-13T13:40:03Z",
+      "snippet": "Meta CEO Mark Zuckerberg could soon have an AI clone of himself to interact with and provide feedback to employees, according to a report from the Financial Times. Sources tell the outlet that Meta is"
+    },
     {
       "title": "Sam Altman reportedly targeted in second attack",
       "url": "https://www.theverge.com/ai-artificial-intelligence/910890/openai-sam-altman-second-home-attack-shooting",
@@ -133,13 +140,6 @@
       "source": "The Verge",
       "publishedAt": "2026-04-10T11:23:28Z",
       "snippet": "Gen Z is increasingly disillusioned with AI - just not enough to stop using it. A new Gallup report released this week, based on responses from nearly 1,600 people ages 14 to 29 across the US, suggest"
-    },
-    {
-      "title": "Microsoft starts removing Copilot buttons from Windows 11 apps",
-      "url": "https://www.theverge.com/news/909640/microsoft-removing-copilot-windows-11-buttons",
-      "source": "The Verge",
-      "publishedAt": "2026-04-10T09:22:06Z",
-      "snippet": "Microsoft is starting to remove \"unnecessary\" Copilot buttons from its Windows 11 apps. In the latest version of the Notepad app for Windows Insiders, Microsoft has removed the Copilot button in favor"
     },
     {
       "title": "ChatGPT finally offers $100/month Pro plan",
