@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-13T20:50:24Z",
+  "updated": "2026-04-13T22:39:50Z",
   "news": [
     {
       "title": "AI influencers are \u2018everywhere\u2019 at Coachella",
@@ -41,7 +41,7 @@
       "url": "https://techcrunch.com/2026/04/13/vercel-ceo-guillermo-rauch-signals-ipo-readiness-as-ai-agents-fuel-revenue-surge/",
       "source": "TechCrunch",
       "publishedAt": "2026-04-13T15:22:29Z",
-      "snippet": "\"The company is ready and getting more ready for every day,\" Rauch said about an IPO at the HumanX conference."
+      "snippet": "While many startups founded prior to the emergence of ChatGPT are struggling to position themselves for the AI era, Vercel, a 10-year-old dev tool and website hosting platform, is benefiting from the "
     },
     {
       "title": "Mark Zuckerberg is reportedly building an AI clone to replace him in meetings",
@@ -149,6 +149,13 @@
       "snippet": "OpenAI ignored three warnings that a ChatGPT user was dangerous \u2014 including its own mass-casualty flag \u2014 while he stalked and harassed his ex-girlfriend, a new lawsuit alleges."
     },
     {
+      "title": "TechCrunch is heading to Tokyo \u2014 and bringing the Startup Battlefield with it",
+      "url": "https://techcrunch.com/2026/04/10/techcrunch-is-heading-to-tokyo-and-bringing-the-startup-battlefield-with-it/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-04-10T16:38:43Z",
+      "snippet": "SusHi Tech 2026 is zeroing in on four technology domains reshaping society: AI, Robotics, Resilience, and Entertainment. Expect live demos of humanoid robots, sessions on autonomous driving's software"
+    },
+    {
       "title": "Last 24 hours: Save up to $500 on your TechCrunch Disrupt 2026 pass",
       "url": "https://techcrunch.com/2026/04/10/final-24-hours-save-up-to-500-on-your-techcrunch-disrupt-2026-pass/",
       "source": "TechCrunch",
@@ -168,13 +175,6 @@
       "source": "TechCrunch",
       "publishedAt": "2026-04-09T20:11:55Z",
       "snippet": "ChatGPT had reportedly been used to plan the attack that killed two and injured five at Florida State University last April. The family of one victim has said that they plan to sue OpenAI over the inc"
-    },
-    {
-      "title": "After data breach, $10B-valued startup Mercor is having a month",
-      "url": "https://techcrunch.com/2026/04/09/after-data-breach-10b-valued-startup-mercor-is-having-a-month/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-04-09T19:33:54Z",
-      "snippet": "After falling victim to a hacker, Mercor is facing lawsuits and reportedly losing big-name customers."
     }
   ],
   "trending": [
