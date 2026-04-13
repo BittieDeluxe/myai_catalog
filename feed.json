@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-13T09:51:37Z",
+  "updated": "2026-04-13T11:14:46Z",
   "news": [
     {
       "title": "Sam Altman reportedly targeted in second attack",
@@ -224,9 +224,9 @@
       "downloads": 7307
     },
     {
-      "id": "HauhauCS/Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive",
-      "displayName": "Qwen3.5 35B A3B Uncensored HauhauCS Aggressive",
-      "downloads": 1063984
+      "id": "unsloth/MiniMax-M2.7-GGUF",
+      "displayName": "MiniMax M2.7",
+      "downloads": 23720
     }
   ]
 }
