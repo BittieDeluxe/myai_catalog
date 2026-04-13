@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-13T11:14:46Z",
+  "updated": "2026-04-13T13:18:30Z",
   "news": [
     {
       "title": "Sam Altman reportedly targeted in second attack",
@@ -199,6 +199,11 @@
       "downloads": 76787
     },
     {
+      "id": "HauhauCS/Qwen3.5-9B-Uncensored-HauhauCS-Aggressive",
+      "displayName": "Qwen3.5 9B Uncensored HauhauCS Aggressive",
+      "downloads": 905234
+    },
+    {
       "id": "unsloth/gemma-4-31B-it-GGUF",
       "displayName": "gemma 4 31B",
       "downloads": 1181417
@@ -207,11 +212,6 @@
       "id": "Jackrong/Qwopus3.5-27B-v3-GGUF",
       "displayName": "Qwopus3.5 27B v3",
       "downloads": 126509
-    },
-    {
-      "id": "HauhauCS/Qwen3.5-9B-Uncensored-HauhauCS-Aggressive",
-      "displayName": "Qwen3.5 9B Uncensored HauhauCS Aggressive",
-      "downloads": 905234
     },
     {
       "id": "unsloth/gemma-4-E4B-it-GGUF",
