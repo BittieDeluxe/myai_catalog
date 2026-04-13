@@ -1,6 +1,20 @@
 {
-  "updated": "2026-04-13T17:00:24Z",
+  "updated": "2026-04-13T19:09:41Z",
   "news": [
+    {
+      "title": "Microsoft is working on yet another OpenClaw-like agent",
+      "url": "https://techcrunch.com/2026/04/13/microsoft-is-working-on-yet-another-openclaw-like-agent/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-04-13T19:05:19Z",
+      "snippet": "The company has also previously introduced agents that are able to complete tasks, Cowork and Copilot Tasks."
+    },
+    {
+      "title": "Stanford report highlights growing disconnect between AI insiders and everyone else",
+      "url": "https://techcrunch.com/2026/04/13/stanford-report-highlights-growing-disconnect-between-ai-insiders-and-everyone-else/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-04-13T18:55:37Z",
+      "snippet": "Stanford\u2019s latest AI Index shows a widening gap between experts and the public, with rising anxiety over jobs, healthcare, and the economy."
+    },
     {
       "title": "Read OpenAI&#8217;s latest internal memo about beating the competition \u2014 including Anthropic",
       "url": "https://www.theverge.com/ai-artificial-intelligence/911118/openai-memo-cro-ai-competition-anthropic",
@@ -9,18 +23,18 @@
       "snippet": "OpenAI's chief revenue officer, Denise Dresser, sent a four-page memo to employees on Sunday about the company's strategic direction, emphasizing the need to lock in users and grow its enterprise busi"
     },
     {
-      "title": "Microsoft is testing OpenClaw-like AI bots for 365 Copilot",
+      "title": "Microsoft is testing OpenClaw-like AI bots for Copilot",
       "url": "https://www.theverge.com/tech/911080/microsoft-ai-openclaw-365-businesses",
       "source": "The Verge",
       "publishedAt": "2026-04-13T15:41:09Z",
-      "snippet": "Microsoft is looking into ways it can integrate OpenClaw-style features into 365 Copilot, according to a report from The Information. The test reportedly comes as part of efforts to make its 365 Copil"
+      "snippet": "Microsoft is looking into ways it can integrate OpenClaw-style features into its Copilot AI assistant, according to a report from The Information. The test reportedly comes as part of efforts to make "
     },
     {
       "title": "Vercel CEO Guillermo Rauch signals IPO readiness as AI agents fuel revenue surge",
       "url": "https://techcrunch.com/2026/04/13/vercel-ceo-guillermo-rauch-signals-ipo-readiness-as-ai-agents-fuel-revenue-surge/",
       "source": "TechCrunch",
       "publishedAt": "2026-04-13T15:22:29Z",
-      "snippet": "\"The company is ready and getting more ready for every day,\" Rauch said about an IPO at HumanX conference."
+      "snippet": "\"The company is ready and getting more ready for every day,\" Rauch said about an IPO at the HumanX conference."
     },
     {
       "title": "Mark Zuckerberg is reportedly building an AI clone to replace him in meetings",
@@ -161,20 +175,6 @@
       "source": "TechCrunch",
       "publishedAt": "2026-04-09T20:11:55Z",
       "snippet": "ChatGPT had reportedly been used to plan the attack that killed two and injured five at Florida State University last April. The family of one victim has said that they plan to sue OpenAI over the inc"
-    },
-    {
-      "title": "After data breach, $10B-valued startup Mercor is having a month",
-      "url": "https://techcrunch.com/2026/04/09/after-data-breach-10b-valued-startup-mercor-is-having-a-month/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-04-09T19:33:54Z",
-      "snippet": "After falling victim to a hacker, Mercor is facing lawsuits and reportedly losing big-name customers."
-    },
-    {
-      "title": "Meta AI app climbs to No. 5 on the App Store after Muse Spark launch",
-      "url": "https://techcrunch.com/2026/04/09/meta-ai-app-climbs-to-no-5-on-the-app-store-after-muse-spark-launch/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-04-09T19:10:07Z",
-      "snippet": "The app was ranking No. 57 on the App Store just before Meta AI's new model launched. Now it's No. 5 \u2014 and rising."
     }
   ],
   "trending": [
@@ -199,9 +199,9 @@
       "downloads": 76787
     },
     {
-      "id": "unsloth/gemma-4-31B-it-GGUF",
-      "displayName": "gemma 4 31B",
-      "downloads": 1181417
+      "id": "Jiunsong/supergemma4-26b-uncensored-gguf-v2",
+      "displayName": "supergemma4 26b uncensored v2",
+      "downloads": 7307
     },
     {
       "id": "HauhauCS/Qwen3.5-9B-Uncensored-HauhauCS-Aggressive",
@@ -209,14 +209,14 @@
       "downloads": 905234
     },
     {
+      "id": "unsloth/gemma-4-31B-it-GGUF",
+      "displayName": "gemma 4 31B",
+      "downloads": 1181417
+    },
+    {
       "id": "Jackrong/Qwopus3.5-27B-v3-GGUF",
       "displayName": "Qwopus3.5 27B v3",
       "downloads": 126509
-    },
-    {
-      "id": "Jiunsong/supergemma4-26b-uncensored-gguf-v2",
-      "displayName": "supergemma4 26b uncensored v2",
-      "downloads": 7307
     },
     {
       "id": "unsloth/gemma-4-E4B-it-GGUF",
