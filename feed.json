@@ -1,6 +1,27 @@
 {
-  "updated": "2026-04-13T15:13:38Z",
+  "updated": "2026-04-13T17:00:24Z",
   "news": [
+    {
+      "title": "Read OpenAI&#8217;s latest internal memo about beating the competition \u2014 including Anthropic",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/911118/openai-memo-cro-ai-competition-anthropic",
+      "source": "The Verge",
+      "publishedAt": "2026-04-13T16:21:08Z",
+      "snippet": "OpenAI's chief revenue officer, Denise Dresser, sent a four-page memo to employees on Sunday about the company's strategic direction, emphasizing the need to lock in users and grow its enterprise busi"
+    },
+    {
+      "title": "Microsoft is testing OpenClaw-like AI bots for 365 Copilot",
+      "url": "https://www.theverge.com/tech/911080/microsoft-ai-openclaw-365-businesses",
+      "source": "The Verge",
+      "publishedAt": "2026-04-13T15:41:09Z",
+      "snippet": "Microsoft is looking into ways it can integrate OpenClaw-style features into 365 Copilot, according to a report from The Information. The test reportedly comes as part of efforts to make its 365 Copil"
+    },
+    {
+      "title": "Vercel CEO Guillermo Rauch signals IPO readiness as AI agents fuel revenue surge",
+      "url": "https://techcrunch.com/2026/04/13/vercel-ceo-guillermo-rauch-signals-ipo-readiness-as-ai-agents-fuel-revenue-surge/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-04-13T15:22:29Z",
+      "snippet": "\"The company is ready and getting more ready for every day,\" Rauch said about an IPO at HumanX conference."
+    },
     {
       "title": "Mark Zuckerberg is reportedly building an AI clone to replace him in meetings",
       "url": "https://www.theverge.com/tech/910990/meta-ceo-mark-zuckerberg-ai-clone",
@@ -128,20 +149,6 @@
       "snippet": "This is it.\u00a0Tonight is your\u00a0last chance\u00a0to lock in\u00a0savings of up to $500 for your TechCrunch Disrupt 2026\u00a0pass.\u00a0These discounts end at 11:59 p.m. PT."
     },
     {
-      "title": "Fear and loathing at OpenAI",
-      "url": "https://www.theverge.com/podcast/909621/openai-sam-altman-drama-vergecast",
-      "source": "The Verge",
-      "publishedAt": "2026-04-10T12:23:18Z",
-      "snippet": "Sam Altman's tenure at OpenAI has been\u2026 messy. Messy to the point where Altman was briefly fired from his role as CEO, only to be reinstated days later, at which point he began reshaping the organizat"
-    },
-    {
-      "title": "Gen Z\u2019s love-hate relationship with AI",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/909687/gen-z-doesnt-like-ai-gallup",
-      "source": "The Verge",
-      "publishedAt": "2026-04-10T11:23:28Z",
-      "snippet": "Gen Z is increasingly disillusioned with AI - just not enough to stop using it. A new Gallup report released this week, based on responses from nearly 1,600 people ages 14 to 29 across the US, suggest"
-    },
-    {
       "title": "ChatGPT finally offers $100/month Pro plan",
       "url": "https://techcrunch.com/2026/04/09/chatgpt-pro-plan-100-month-codex/",
       "source": "TechCrunch",
@@ -168,13 +175,6 @@
       "source": "TechCrunch",
       "publishedAt": "2026-04-09T19:10:07Z",
       "snippet": "The app was ranking No. 57 on the App Store just before Meta AI's new model launched. Now it's No. 5 \u2014 and rising."
-    },
-    {
-      "title": "Is Anthropic limiting the release of Mythos to protect the internet \u2014 or Anthropic?",
-      "url": "https://techcrunch.com/2026/04/09/is-anthropic-limiting-the-release-of-mythos-to-protect-the-internet-or-anthropic/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-04-09T18:50:05Z",
-      "snippet": "Anthropic said this week that it limited the release of its newest model, dubbed Mythos, because it is too capable of finding security exploits in software relied upon by users around the world. Are r"
     }
   ],
   "trending": [
@@ -199,14 +199,14 @@
       "downloads": 76787
     },
     {
-      "id": "HauhauCS/Qwen3.5-9B-Uncensored-HauhauCS-Aggressive",
-      "displayName": "Qwen3.5 9B Uncensored HauhauCS Aggressive",
-      "downloads": 905234
-    },
-    {
       "id": "unsloth/gemma-4-31B-it-GGUF",
       "displayName": "gemma 4 31B",
       "downloads": 1181417
+    },
+    {
+      "id": "HauhauCS/Qwen3.5-9B-Uncensored-HauhauCS-Aggressive",
+      "displayName": "Qwen3.5 9B Uncensored HauhauCS Aggressive",
+      "downloads": 905234
     },
     {
       "id": "Jackrong/Qwopus3.5-27B-v3-GGUF",
@@ -214,14 +214,14 @@
       "downloads": 126509
     },
     {
-      "id": "unsloth/gemma-4-E4B-it-GGUF",
-      "displayName": "gemma 4 E4B",
-      "downloads": 1100025
-    },
-    {
       "id": "Jiunsong/supergemma4-26b-uncensored-gguf-v2",
       "displayName": "supergemma4 26b uncensored v2",
       "downloads": 7307
+    },
+    {
+      "id": "unsloth/gemma-4-E4B-it-GGUF",
+      "displayName": "gemma 4 E4B",
+      "downloads": 1100025
     },
     {
       "id": "unsloth/MiniMax-M2.7-GGUF",
