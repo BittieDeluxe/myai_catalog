@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-14T10:59:33Z",
+  "updated": "2026-04-14T13:17:56Z",
   "news": [
     {
       "title": "OpenAI has bought AI personal finance startup Hiro",
@@ -204,14 +204,14 @@
       "downloads": 932202
     },
     {
-      "id": "prism-ml/Bonsai-8B-gguf",
-      "displayName": "Bonsai 8B",
-      "downloads": 78763
-    },
-    {
       "id": "unsloth/MiniMax-M2.7-GGUF",
       "displayName": "MiniMax M2.7",
       "downloads": 36406
+    },
+    {
+      "id": "prism-ml/Bonsai-8B-gguf",
+      "displayName": "Bonsai 8B",
+      "downloads": 78763
     },
     {
       "id": "unsloth/gemma-4-31B-it-GGUF",
