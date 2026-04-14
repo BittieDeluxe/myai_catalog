@@ -1,6 +1,27 @@
 {
-  "updated": "2026-04-14T13:17:56Z",
+  "updated": "2026-04-14T15:10:33Z",
   "news": [
+    {
+      "title": "Google brings its Gemini Personal Intelligence feature to India",
+      "url": "https://techcrunch.com/2026/04/14/google-brings-its-gemini-personal-intelligence-feature-to-india/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-04-14T14:48:34Z",
+      "snippet": "The feature lets users connect Google accounts like Gmail and Photos to get personalized answers"
+    },
+    {
+      "title": "How vibe coding app Anything is rebuilding after getting booted from the App Store twice",
+      "url": "https://techcrunch.com/2026/04/14/how-vibe-coding-app-anything-is-rebuilding-after-getting-booted-from-the-app-store-twice/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-04-14T14:22:44Z",
+      "snippet": "Anything is planning to launch a desktop companion app to aid mobile app development after its App Store removal."
+    },
+    {
+      "title": "Has Google\u2019s AI watermarking system been reverse-engineered?",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/911579/google-synthid-ai-watermarking-system-reverse-engineered",
+      "source": "The Verge",
+      "publishedAt": "2026-04-14T13:53:53Z",
+      "snippet": "A software developer claims to have reverse-engineered Google DeepMind's SynthID system, showing how AI watermarks can be stripped from generated images or manually inserted into other works. A claim "
+    },
     {
       "title": "OpenAI has bought AI personal finance startup Hiro",
       "url": "https://techcrunch.com/2026/04/13/openai-has-bought-ai-personal-finance-startup-hiro/",
@@ -135,13 +156,6 @@
       "snippet": "Two weeks ago, I was getting ready to log off work when I got a text message. \"Oh wow, I was checking out Mitski. did you know people are saying her Dad was a CIA operative?\" Normally, that kind of ou"
     },
     {
-      "title": "How Iran out-shitposted the White House",
-      "url": "https://www.theverge.com/policy/910401/iran-war-propaganda-blackout-lego-ai-slop",
-      "source": "The Verge",
-      "publishedAt": "2026-04-11T13:00:00Z",
-      "snippet": "In the early days of the war on Iran, while the White House was busy posting Call of Duty memes and AI slop of dancing bowling pins, the Iranian regime's state media was flooding the zone with video a"
-    },
-    {
       "title": "Anthropic temporarily banned OpenClaw\u2019s creator from accessing Claude",
       "url": "https://techcrunch.com/2026/04/10/anthropic-temporarily-banned-openclaws-creator-from-accessing-claude/",
       "source": "TechCrunch",
@@ -161,20 +175,6 @@
       "source": "TechCrunch",
       "publishedAt": "2026-04-10T16:38:43Z",
       "snippet": "SusHi Tech 2026 is zeroing in on four technology domains reshaping society: AI, Robotics, Resilience, and Entertainment. Expect live demos of humanoid robots, sessions on autonomous driving's software"
-    },
-    {
-      "title": "Last 24 hours: Save up to $500 on your TechCrunch Disrupt 2026 pass",
-      "url": "https://techcrunch.com/2026/04/10/final-24-hours-save-up-to-500-on-your-techcrunch-disrupt-2026-pass/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-04-10T14:00:00Z",
-      "snippet": "This is it.\u00a0Tonight is your\u00a0last chance\u00a0to lock in\u00a0savings of up to $500 for your TechCrunch Disrupt 2026\u00a0pass.\u00a0These discounts end at 11:59 p.m. PT."
-    },
-    {
-      "title": "ChatGPT finally offers $100/month Pro plan",
-      "url": "https://techcrunch.com/2026/04/09/chatgpt-pro-plan-100-month-codex/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-04-09T21:29:11Z",
-      "snippet": "OpenAI announced on Thursday something that power users have been asking for: a $100/month plan. Previously, subscriptions jumped from $20 to $200 per month."
     }
   ],
   "trending": [
@@ -214,19 +214,19 @@
       "downloads": 78763
     },
     {
-      "id": "unsloth/gemma-4-31B-it-GGUF",
-      "displayName": "gemma 4 31B",
-      "downloads": 1240885
-    },
-    {
       "id": "Jackrong/Qwopus3.5-27B-v3-GGUF",
       "displayName": "Qwopus3.5 27B v3",
       "downloads": 137824
     },
     {
-      "id": "douyamv/Gemma-4-31B-JANG_4M-CRACK-GGUF",
-      "displayName": "Gemma 4 31B JANG_4M CRACK",
-      "downloads": 82634
+      "id": "unsloth/gemma-4-31B-it-GGUF",
+      "displayName": "gemma 4 31B",
+      "downloads": 1240885
+    },
+    {
+      "id": "unsloth/gemma-4-E4B-it-GGUF",
+      "displayName": "gemma 4 E4B",
+      "downloads": 1155669
     }
   ]
 }
