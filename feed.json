@@ -1,12 +1,33 @@
 {
-  "updated": "2026-04-14T17:02:13Z",
+  "updated": "2026-04-14T19:08:12Z",
   "news": [
+    {
+      "title": "Anthropic co-founder confirms the company briefed the Trump administration on Mythos",
+      "url": "https://techcrunch.com/2026/04/14/anthropic-co-founder-confirms-the-company-briefed-the-trump-administration-on-mythos/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-04-14T18:09:12Z",
+      "snippet": "In an interview at the Semafor World Economy summit this week, Anthropic co-founder Jack Clark explained why the company was still engaged with the U.S. government while simultaneously suing them."
+    },
+    {
+      "title": "The attacks on Sam Altman are a warning for the AI world",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/911778/ai-violence-sam-altman-home",
+      "source": "The Verge",
+      "publishedAt": "2026-04-14T18:04:42Z",
+      "snippet": "Before allegedly throwing a Molotov cocktail at OpenAI CEO Sam Altman's home, the 20-year-old accused attacker wrote about his fear that the AI race would cause humans to go extinct, The San Francisco"
+    },
+    {
+      "title": "Max Hodak\u2019s Science Corp. is preparing to place its first sensor in a human brain",
+      "url": "https://techcrunch.com/2026/04/14/max-hodaks-science-corp-is-preparing-to-place-its-first-sensor-in-a-human-brain/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-04-14T17:13:03Z",
+      "snippet": "The device could help address multiple neurological conditions if it proves successful. One early use could be delivering gentle electrical stimulation to damaged brain or spinal cord cells to encoura"
+    },
     {
       "title": "Chrome now lets you turn AI prompts into repeatable &#8216;Skills&#8217;",
       "url": "https://www.theverge.com/tech/911658/google-chrome-gemini-ai-skills-availability-launch",
       "source": "The Verge",
       "publishedAt": "2026-04-14T17:00:00Z",
-      "snippet": "Google is launching a new Chrome workflow feature that allows you to reuse your favorite Gemini commands across multiple web pages. Any AI prompts can now be saved as \"Skills\" in the Chrome desktop br"
+      "snippet": "Google is launching a new Chrome workflow feature that allows you to reuse your favorite Gemini commands across multiple webpages. Any AI prompts can now be saved as \"Skills\" in the Chrome desktop bro"
     },
     {
       "title": "Google adds AI Skills to Chrome to help you save favorite workflows",
@@ -154,27 +175,6 @@
       "source": "The Verge",
       "publishedAt": "2026-04-12T12:00:00Z",
       "snippet": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the AI coding and vibe-coding booms, follow David Pierce. The Stepback arrives in our subsc"
-    },
-    {
-      "title": "Sam Altman responds to \u2018incendiary\u2019 New Yorker article after attack on his home",
-      "url": "https://techcrunch.com/2026/04/11/sam-altman-responds-to-incendiary-new-yorker-article-after-attack-on-his-home/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-04-11T17:18:22Z",
-      "snippet": "The OpenAI CEO's new blog post responds to both an apparent attack on his home and an in-depth New Yorker profile raising questions about his trustworthiness."
-    },
-    {
-      "title": "Your article about AI doesn\u2019t need AI art",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/910460/new-yorker-david-szauder-illustration-generative-ai",
-      "source": "The Verge",
-      "publishedAt": "2026-04-11T15:00:00Z",
-      "snippet": "The illustration for The New Yorker's profile of OpenAI CEO Sam Altman is a jump scare. Altman stands in a blue sweater with a blank expression. Around his head hovers a cluster of disembodied faces -"
-    },
-    {
-      "title": "Anthropic temporarily banned OpenClaw\u2019s creator from accessing Claude",
-      "url": "https://techcrunch.com/2026/04/10/anthropic-temporarily-banned-openclaws-creator-from-accessing-claude/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-04-10T20:27:52Z",
-      "snippet": "This ban took place after Claude's pricing changed for OpenClaw users last week."
     }
   ],
   "trending": [
@@ -214,14 +214,14 @@
       "downloads": 78763
     },
     {
-      "id": "Jackrong/Qwopus3.5-27B-v3-GGUF",
-      "displayName": "Qwopus3.5 27B v3",
-      "downloads": 137824
-    },
-    {
       "id": "unsloth/gemma-4-31B-it-GGUF",
       "displayName": "gemma 4 31B",
       "downloads": 1240885
+    },
+    {
+      "id": "Jackrong/Qwopus3.5-27B-v3-GGUF",
+      "displayName": "Qwopus3.5 27B v3",
+      "downloads": 137824
     },
     {
       "id": "unsloth/gemma-4-E4B-it-GGUF",
