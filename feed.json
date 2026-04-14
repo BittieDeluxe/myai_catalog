@@ -1,6 +1,20 @@
 {
-  "updated": "2026-04-13T22:39:50Z",
+  "updated": "2026-04-14T02:09:09Z",
   "news": [
+    {
+      "title": "OpenAI has bought AI personal finance startup Hiro",
+      "url": "https://techcrunch.com/2026/04/13/openai-has-bought-ai-personal-finance-startup-hiro/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-04-14T00:23:33Z",
+      "snippet": "The acquisition indicates a capability that OpenAI is building into ChatGPT: financial planning."
+    },
+    {
+      "title": "Daniel Moreno-Gama is facing federal charges for attacking Sam Altman&#8217;s home and OpenAI\u2019s HQ",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/911423/openai-sam-altman-attack",
+      "source": "The Verge",
+      "publishedAt": "2026-04-14T00:02:38Z",
+      "snippet": "Daniel Moreno-Gama is now facing federal charges after allegedly traveling from Texas to California with the intent to kill OpenAI CEO Sam Altman. On April 10th, he was arrested after throwing a Molot"
+    },
     {
       "title": "AI influencers are \u2018everywhere\u2019 at Coachella",
       "url": "https://www.theverge.com/ai-artificial-intelligence/911267/ai-influencers-coachella",
@@ -135,13 +149,6 @@
       "snippet": "This ban took place after Claude's pricing changed for OpenClaw users last week."
     },
     {
-      "title": "20-year-old man arrested for allegedly throwing a Molotov cocktail at Sam Altman\u2019s house",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/910393/openai-sam-altman-house-molotov-cocktail",
-      "source": "The Verge",
-      "publishedAt": "2026-04-10T20:16:57Z",
-      "snippet": "San Francisco police have arrested a 20-year-old man suspected of throwing a Molotov cocktail at OpenAI CEO Sam Altman's Russian Hill house early Friday morning, The San Francisco Standard reports. Th"
-    },
-    {
       "title": "Stalking victim sues OpenAI, claims ChatGPT fueled her abuser\u2019s delusions and ignored her warnings",
       "url": "https://techcrunch.com/2026/04/10/stalking-victim-sues-openai-claims-chatgpt-fueled-her-abusers-delusions-and-ignored-her-warnings/",
       "source": "TechCrunch",
@@ -168,13 +175,6 @@
       "source": "TechCrunch",
       "publishedAt": "2026-04-09T21:29:11Z",
       "snippet": "OpenAI announced on Thursday something that power users have been asking for: a $100/month plan. Previously, subscriptions jumped from $20 to $200 per month."
-    },
-    {
-      "title": "Florida AG announces investigation into OpenAI over shooting that allegedly involved ChatGPT",
-      "url": "https://techcrunch.com/2026/04/09/florida-ag-investigation-openai-chatgpt-shooting/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-04-09T20:11:55Z",
-      "snippet": "ChatGPT had reportedly been used to plan the attack that killed two and injured five at Florida State University last April. The family of one victim has said that they plan to sue OpenAI over the inc"
     }
   ],
   "trending": [
@@ -189,14 +189,14 @@
       "downloads": 486019
     },
     {
-      "id": "unsloth/GLM-5.1-GGUF",
-      "displayName": "GLM 5.1",
-      "downloads": 28533
-    },
-    {
       "id": "Jiunsong/supergemma4-26b-uncensored-gguf-v2",
       "displayName": "supergemma4 26b uncensored v2",
       "downloads": 7307
+    },
+    {
+      "id": "unsloth/GLM-5.1-GGUF",
+      "displayName": "GLM 5.1",
+      "downloads": 28533
     },
     {
       "id": "prism-ml/Bonsai-8B-gguf",
@@ -209,24 +209,24 @@
       "downloads": 905234
     },
     {
-      "id": "unsloth/gemma-4-31B-it-GGUF",
-      "displayName": "gemma 4 31B",
-      "downloads": 1181417
-    },
-    {
       "id": "Jackrong/Qwopus3.5-27B-v3-GGUF",
       "displayName": "Qwopus3.5 27B v3",
       "downloads": 126509
     },
     {
-      "id": "unsloth/gemma-4-E4B-it-GGUF",
-      "displayName": "gemma 4 E4B",
-      "downloads": 1100025
+      "id": "unsloth/gemma-4-31B-it-GGUF",
+      "displayName": "gemma 4 31B",
+      "downloads": 1181417
     },
     {
       "id": "unsloth/MiniMax-M2.7-GGUF",
       "displayName": "MiniMax M2.7",
       "downloads": 23720
+    },
+    {
+      "id": "unsloth/gemma-4-E4B-it-GGUF",
+      "displayName": "gemma 4 E4B",
+      "downloads": 1100025
     }
   ]
 }
