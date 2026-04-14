@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-14T07:55:35Z",
+  "updated": "2026-04-14T09:15:21Z",
   "news": [
     {
       "title": "OpenAI has bought AI personal finance startup Hiro",
@@ -179,14 +179,14 @@
   ],
   "trending": [
     {
-      "id": "unsloth/gemma-4-26B-A4B-it-GGUF",
-      "displayName": "gemma 4 26B A4B",
-      "downloads": 1917696
-    },
-    {
       "id": "Jiunsong/supergemma4-26b-uncensored-gguf-v2",
       "displayName": "supergemma4 26b uncensored v2",
       "downloads": 12687
+    },
+    {
+      "id": "unsloth/gemma-4-26B-A4B-it-GGUF",
+      "displayName": "gemma 4 26B A4B",
+      "downloads": 1917696
     },
     {
       "id": "HauhauCS/Gemma-4-E4B-Uncensored-HauhauCS-Aggressive",
