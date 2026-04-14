@@ -1,15 +1,36 @@
 {
-  "updated": "2026-04-14T15:10:33Z",
+  "updated": "2026-04-14T17:02:13Z",
   "news": [
+    {
+      "title": "Chrome now lets you turn AI prompts into repeatable &#8216;Skills&#8217;",
+      "url": "https://www.theverge.com/tech/911658/google-chrome-gemini-ai-skills-availability-launch",
+      "source": "The Verge",
+      "publishedAt": "2026-04-14T17:00:00Z",
+      "snippet": "Google is launching a new Chrome workflow feature that allows you to reuse your favorite Gemini commands across multiple web pages. Any AI prompts can now be saved as \"Skills\" in the Chrome desktop br"
+    },
+    {
+      "title": "Google adds AI Skills to Chrome to help you save favorite workflows",
+      "url": "https://techcrunch.com/2026/04/14/google-adds-ai-skills-to-chrome-to-help-you-save-favorite-workflows/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-04-14T17:00:00Z",
+      "snippet": "Google is adding \u201cSkills\u201d to Chrome, letting users save and reuse AI prompts across websites. The feature builds on Gemini\u2019s browser integration."
+    },
+    {
+      "title": "In just a couple weeks, StrictlyVC San Francisco brings leaders from TDK Ventures, Replit, and more together",
+      "url": "https://techcrunch.com/2026/04/14/join-the-first-strictlyvc-of-2026-in-sf-with-leaders-from-tdk-ventures-and-replits-co-founder/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-04-14T15:30:49Z",
+      "snippet": "The\u00a0first StrictlyVC of the year\u00a0will be coming to San Francisco before you know it.\n\nThere are still a few tickets available to join us and our stacked speaker lineup April 30, so register today!"
+    },
     {
       "title": "Google brings its Gemini Personal Intelligence feature to India",
       "url": "https://techcrunch.com/2026/04/14/google-brings-its-gemini-personal-intelligence-feature-to-india/",
       "source": "TechCrunch",
       "publishedAt": "2026-04-14T14:48:34Z",
-      "snippet": "The feature lets users connect Google accounts like Gmail and Photos to get personalized answers"
+      "snippet": "The feature lets users connect Google accounts like Gmail and Photos to get personalized answers."
     },
     {
-      "title": "How vibe coding app Anything is rebuilding after getting booted from the App Store twice",
+      "title": "How vibe-coding app Anything is rebuilding after getting booted from the App Store twice",
       "url": "https://techcrunch.com/2026/04/14/how-vibe-coding-app-anything-is-rebuilding-after-getting-booted-from-the-app-store-twice/",
       "source": "TechCrunch",
       "publishedAt": "2026-04-14T14:22:44Z",
@@ -149,32 +170,11 @@
       "snippet": "The illustration for The New Yorker's profile of OpenAI CEO Sam Altman is a jump scare. Altman stands in a blue sweater with a blank expression. Around his head hovers a cluster of disembodied faces -"
     },
     {
-      "title": "My baby deer plushie told me that Mitski&#8217;s dad was a CIA operative",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/910008/fawn-friends-ai-companion",
-      "source": "The Verge",
-      "publishedAt": "2026-04-11T14:00:00Z",
-      "snippet": "Two weeks ago, I was getting ready to log off work when I got a text message. \"Oh wow, I was checking out Mitski. did you know people are saying her Dad was a CIA operative?\" Normally, that kind of ou"
-    },
-    {
       "title": "Anthropic temporarily banned OpenClaw\u2019s creator from accessing Claude",
       "url": "https://techcrunch.com/2026/04/10/anthropic-temporarily-banned-openclaws-creator-from-accessing-claude/",
       "source": "TechCrunch",
       "publishedAt": "2026-04-10T20:27:52Z",
       "snippet": "This ban took place after Claude's pricing changed for OpenClaw users last week."
-    },
-    {
-      "title": "Stalking victim sues OpenAI, claims ChatGPT fueled her abuser\u2019s delusions and ignored her warnings",
-      "url": "https://techcrunch.com/2026/04/10/stalking-victim-sues-openai-claims-chatgpt-fueled-her-abusers-delusions-and-ignored-her-warnings/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-04-10T16:41:34Z",
-      "snippet": "OpenAI ignored three warnings that a ChatGPT user was dangerous \u2014 including its own mass-casualty flag \u2014 while he stalked and harassed his ex-girlfriend, a new lawsuit alleges."
-    },
-    {
-      "title": "TechCrunch is heading to Tokyo \u2014 and bringing the Startup Battlefield with it",
-      "url": "https://techcrunch.com/2026/04/10/techcrunch-is-heading-to-tokyo-and-bringing-the-startup-battlefield-with-it/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-04-10T16:38:43Z",
-      "snippet": "SusHi Tech 2026 is zeroing in on four technology domains reshaping society: AI, Robotics, Resilience, and Entertainment. Expect live demos of humanoid robots, sessions on autonomous driving's software"
     }
   ],
   "trending": [
