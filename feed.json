@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-14T22:41:20Z",
+  "updated": "2026-04-15T02:06:07Z",
   "news": [
     {
       "title": "Anthropic co-founder confirms the company briefed the Trump administration on Mythos",
@@ -194,14 +194,14 @@
       "downloads": 523928
     },
     {
-      "id": "HauhauCS/Qwen3.5-9B-Uncensored-HauhauCS-Aggressive",
-      "displayName": "Qwen3.5 9B Uncensored HauhauCS Aggressive",
-      "downloads": 932202
-    },
-    {
       "id": "unsloth/MiniMax-M2.7-GGUF",
       "displayName": "MiniMax M2.7",
       "downloads": 36406
+    },
+    {
+      "id": "HauhauCS/Qwen3.5-9B-Uncensored-HauhauCS-Aggressive",
+      "displayName": "Qwen3.5 9B Uncensored HauhauCS Aggressive",
+      "downloads": 932202
     },
     {
       "id": "unsloth/GLM-5.1-GGUF",
@@ -209,9 +209,9 @@
       "downloads": 31267
     },
     {
-      "id": "prism-ml/Bonsai-8B-gguf",
-      "displayName": "Bonsai 8B",
-      "downloads": 78763
+      "id": "unsloth/gemma-4-31B-it-GGUF",
+      "displayName": "gemma 4 31B",
+      "downloads": 1240885
     },
     {
       "id": "Jackrong/Qwopus3.5-27B-v3-GGUF",
@@ -219,9 +219,9 @@
       "downloads": 137824
     },
     {
-      "id": "unsloth/gemma-4-31B-it-GGUF",
-      "displayName": "gemma 4 31B",
-      "downloads": 1240885
+      "id": "prism-ml/Bonsai-8B-gguf",
+      "displayName": "Bonsai 8B",
+      "downloads": 78763
     },
     {
       "id": "unsloth/gemma-4-E4B-it-GGUF",
