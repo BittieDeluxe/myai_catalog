@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-15T09:15:24Z",
+  "updated": "2026-04-15T10:56:17Z",
   "news": [
     {
       "title": "Anthropic\u2019s rise is giving some OpenAI investors second thoughts",
@@ -199,6 +199,11 @@
       "downloads": 47368
     },
     {
+      "id": "unsloth/ERNIE-Image-Turbo-GGUF",
+      "displayName": "ERNIE Image Turbo",
+      "downloads": 348
+    },
+    {
       "id": "HauhauCS/Qwen3.5-9B-Uncensored-HauhauCS-Aggressive",
       "displayName": "Qwen3.5 9B Uncensored HauhauCS Aggressive",
       "downloads": 968595
@@ -207,11 +212,6 @@
       "id": "Jackrong/Qwopus3.5-27B-v3-GGUF",
       "displayName": "Qwopus3.5 27B v3",
       "downloads": 148451
-    },
-    {
-      "id": "unsloth/ERNIE-Image-Turbo-GGUF",
-      "displayName": "ERNIE Image Turbo",
-      "downloads": 348
     },
     {
       "id": "unsloth/gemma-4-31B-it-GGUF",
