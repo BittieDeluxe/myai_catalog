@@ -1,6 +1,62 @@
 {
-  "updated": "2026-04-15T16:58:58Z",
+  "updated": "2026-04-15T19:10:32Z",
   "news": [
+    {
+      "title": "Hightouch reaches $100M ARR fueled by marketing tools powered by AI",
+      "url": "https://techcrunch.com/2026/04/15/hightouch-reaches-100m-arr-fueled-by-marketing-tools-powered-by-ai/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-04-15T18:55:12Z",
+      "snippet": "The startup says it grew its ARR by $70 million in just 20 months after launching an AI agent platform for marketers."
+    },
+    {
+      "title": "LinkedIn data shows AI isn\u2019t to blame for hiring decline\u2026 yet",
+      "url": "https://techcrunch.com/2026/04/15/linkedin-data-shows-ai-isnt-to-blame-for-hiring-decline-yet/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-04-15T18:51:54Z",
+      "snippet": "LinkedIn says hiring is down 20% since 2022, but blames higher interest rates \u2014 not AI \u2014 for the slowdown."
+    },
+    {
+      "title": "AI learning app Gizmo levels up with 13M users and a $22M investment",
+      "url": "https://techcrunch.com/2026/04/15/ai-learning-app-gizmo-levels-up-with-13m-users-and-a-22m-investment/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-04-15T18:38:10Z",
+      "snippet": "Gizmo, an AI-powered learning platform, has attracted more than 13 million users and just secured $22 million in Series A funding."
+    },
+    {
+      "title": "Can AI judge journalism? A Thiel-backed startup says yes, even if it risks chilling whistleblowers",
+      "url": "https://techcrunch.com/2026/04/15/can-ai-judge-journalism-a-thiel-backed-startup-says-yes-even-if-it-risks-chilling-whistleblowers/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-04-15T18:33:20Z",
+      "snippet": "Objection, a Thiel-backed startup, aims to use AI to judge journalism, letting users pay to challenge stories. Critics warn it could chill whistleblowers and reshape how media accountability works."
+    },
+    {
+      "title": "Google rolls out a native Gemini app for Mac",
+      "url": "https://techcrunch.com/2026/04/15/google-rolls-out-a-native-gemini-app-for-mac/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-04-15T18:22:13Z",
+      "snippet": "You can share anything on their screen with Gemini to get help with what they're looking at in the moment, including local files."
+    },
+    {
+      "title": "Google launches a Gemini AI app on Mac",
+      "url": "https://www.theverge.com/tech/912638/google-gemini-mac-app",
+      "source": "The Verge",
+      "publishedAt": "2026-04-15T18:10:15Z",
+      "snippet": "Google is launching a new Gemini app on Mac that allows you to interact with the AI assistant without switching windows on your desktop. With the app, you can use the Option + Space shortcut to pull u"
+    },
+    {
+      "title": "The musician-turned-biotech-founder\u00a0waiting to fundraise",
+      "url": "https://techcrunch.com/podcast/the-musician-turned-biotech-founder-waiting-to-fundraise/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-04-15T17:58:28Z",
+      "snippet": "When Grammy-nominated singer-songwriter&#160;Aloe Blacc&#160;got COVID despite being vaccinated and boosted, he tried to fund research for a better solution.&#160;What&#160;he&#160;quickly&#160;found&"
+    },
+    {
+      "title": "India\u2019s vibe-coding startup Emergent enters OpenClaw-like AI agent space",
+      "url": "https://techcrunch.com/2026/04/15/indias-vibe-coding-startup-emergent-enters-openclaw-like-ai-agent-space/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-04-15T17:24:18Z",
+      "snippet": "Emergent's Wingman lets users manage and automate tasks through chat on platforms like WhatsApp and Telegram."
+    },
     {
       "title": "Allbirds announced a switch from shoes to AI and its stock jumped 600 percent",
       "url": "https://www.theverge.com/news/912484/allbirds-ai-hyperscale",
@@ -37,18 +93,18 @@
       "snippet": "Adobe is fully embracing AI tools that enable creators to edit their work using descriptive prompts, instead of manually using specific Creative Cloud apps. The software giant's new Firefly AI Assista"
     },
     {
-      "title": "This startup is betting tokenmaxxing will create the next compute giant",
-      "url": "https://techcrunch.com/2026/04/15/parasail-raises-32m-to-feed-tokenmaxxing-ai-developers/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-04-15T13:00:00Z",
-      "snippet": "Parasail raised $32 million in a Series A, signaling a fractured future of models and compute."
-    },
-    {
       "title": "Gitar, a startup that uses agents to secure code, emerges from stealth with $9 million",
       "url": "https://techcrunch.com/2026/04/15/gitar-a-startup-that-uses-agents-to-secure-code-emerges-from-stealth-with-9-million/",
       "source": "TechCrunch",
       "publishedAt": "2026-04-15T13:00:00Z",
       "snippet": "The company uses AI to review code that, more often than not these days, has also been generated by AI."
+    },
+    {
+      "title": "This startup is betting tokenmaxxing will create the next compute giant",
+      "url": "https://techcrunch.com/2026/04/15/parasail-raises-32m-to-feed-tokenmaxxing-ai-developers/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-04-15T13:00:00Z",
+      "snippet": "Parasail raised $32 million in a Series A, signaling a fractured future of models and compute."
     },
     {
       "title": "Grok\u2019s sexual deepfakes almost got it banned from Apple\u2019s App Store. Almost.",
@@ -93,46 +149,11 @@
       "snippet": "Google is launching a new Chrome workflow feature that allows you to reuse your favorite Gemini commands across multiple webpages. Any AI prompts can now be saved as \"Skills\" in the Chrome desktop bro"
     },
     {
-      "title": "Google adds AI Skills to Chrome to help you save favorite workflows",
-      "url": "https://techcrunch.com/2026/04/14/google-adds-ai-skills-to-chrome-to-help-you-save-favorite-workflows/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-04-14T17:00:00Z",
-      "snippet": "Google is adding \u201cSkills\u201d to Chrome, letting users save and reuse AI prompts across websites. The feature builds on Gemini\u2019s browser integration."
-    },
-    {
-      "title": "In just a couple weeks, StrictlyVC San Francisco brings leaders from TDK Ventures, Replit, and more together",
-      "url": "https://techcrunch.com/2026/04/14/join-the-first-strictlyvc-of-2026-in-sf-with-leaders-from-tdk-ventures-and-replits-co-founder/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-04-14T15:30:49Z",
-      "snippet": "The\u00a0first StrictlyVC of the year\u00a0will be coming to San Francisco before you know it.\n\nThere are still a few tickets available to join us and our stacked speaker lineup April 30, so register today!"
-    },
-    {
-      "title": "Google brings its Gemini Personal Intelligence feature to India",
-      "url": "https://techcrunch.com/2026/04/14/google-brings-its-gemini-personal-intelligence-feature-to-india/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-04-14T14:48:34Z",
-      "snippet": "The feature lets users connect Google accounts like Gmail and Photos to get personalized answers."
-    },
-    {
-      "title": "How vibe-coding app Anything is rebuilding after getting booted from the App Store twice",
-      "url": "https://techcrunch.com/2026/04/14/how-vibe-coding-app-anything-is-rebuilding-after-getting-booted-from-the-app-store-twice/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-04-14T14:22:44Z",
-      "snippet": "Anything is planning to launch a desktop companion app to aid mobile app development after its App Store removal."
-    },
-    {
       "title": "Has Google\u2019s AI watermarking system been reverse-engineered?",
       "url": "https://www.theverge.com/ai-artificial-intelligence/911579/google-synthid-ai-watermarking-system-reverse-engineered",
       "source": "The Verge",
       "publishedAt": "2026-04-14T13:53:53Z",
       "snippet": "A software developer claims to have reverse-engineered Google DeepMind's SynthID system, showing how AI watermarks can be stripped from generated images or manually inserted into other works. A claim "
-    },
-    {
-      "title": "OpenAI has bought AI personal finance startup Hiro",
-      "url": "https://techcrunch.com/2026/04/13/openai-has-bought-ai-personal-finance-startup-hiro/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-04-14T00:23:33Z",
-      "snippet": "The acquisition indicates a capability that OpenAI is building into ChatGPT: financial planning."
     },
     {
       "title": "Daniel Moreno-Gama is facing federal charges for attacking Sam Altman&#8217;s home and OpenAI\u2019s HQ",
@@ -149,32 +170,11 @@
       "snippet": "Coachella kicked off on Friday, and as usual, it's the place to be for online influencers looking to show off their memorable experiences at the festival. A quick scroll through my social media feeds "
     },
     {
-      "title": "Microsoft is working on yet another OpenClaw-like agent",
-      "url": "https://techcrunch.com/2026/04/13/microsoft-is-working-on-yet-another-openclaw-like-agent/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-04-13T19:05:19Z",
-      "snippet": "The new features would be geared toward enterprise customers, with better security controls than the famously risky open source OpenClaw agent."
-    },
-    {
-      "title": "Stanford report highlights growing disconnect between AI insiders and everyone else",
-      "url": "https://techcrunch.com/2026/04/13/stanford-report-highlights-growing-disconnect-between-ai-insiders-and-everyone-else/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-04-13T18:55:37Z",
-      "snippet": "Stanford\u2019s latest AI Index shows a widening gap between experts and the public, with rising anxiety over jobs, healthcare, and the economy."
-    },
-    {
       "title": "Read OpenAI&#8217;s latest internal memo about beating the competition \u2014 including Anthropic",
       "url": "https://www.theverge.com/ai-artificial-intelligence/911118/openai-memo-cro-ai-competition-anthropic",
       "source": "The Verge",
       "publishedAt": "2026-04-13T16:21:08Z",
       "snippet": "OpenAI's chief revenue officer, Denise Dresser, sent a four-page memo to employees on Sunday about the company's strategic direction, emphasizing the need to lock in users and grow its enterprise busi"
-    },
-    {
-      "title": "Microsoft is testing OpenClaw-like AI bots for Copilot",
-      "url": "https://www.theverge.com/tech/911080/microsoft-ai-openclaw-365-businesses",
-      "source": "The Verge",
-      "publishedAt": "2026-04-13T15:41:09Z",
-      "snippet": "Microsoft is looking into ways it can integrate OpenClaw-style features into its Copilot AI assistant, according to a report from The Information. The test reportedly comes as part of efforts to make "
     }
   ],
   "trending": [
@@ -204,14 +204,14 @@
       "downloads": 348
     },
     {
-      "id": "unsloth/gemma-4-31B-it-GGUF",
-      "displayName": "gemma 4 31B",
-      "downloads": 1306431
-    },
-    {
       "id": "Jackrong/Qwopus3.5-27B-v3-GGUF",
       "displayName": "Qwopus3.5 27B v3",
       "downloads": 148451
+    },
+    {
+      "id": "unsloth/gemma-4-31B-it-GGUF",
+      "displayName": "gemma 4 31B",
+      "downloads": 1306431
     },
     {
       "id": "HauhauCS/Qwen3.5-9B-Uncensored-HauhauCS-Aggressive",
