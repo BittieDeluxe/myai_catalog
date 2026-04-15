@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-15T07:55:17Z",
+  "updated": "2026-04-15T09:15:24Z",
   "news": [
     {
       "title": "Anthropic\u2019s rise is giving some OpenAI investors second thoughts",
@@ -209,14 +209,14 @@
       "downloads": 148451
     },
     {
-      "id": "unsloth/gemma-4-31B-it-GGUF",
-      "displayName": "gemma 4 31B",
-      "downloads": 1306431
-    },
-    {
       "id": "unsloth/ERNIE-Image-Turbo-GGUF",
       "displayName": "ERNIE Image Turbo",
       "downloads": 348
+    },
+    {
+      "id": "unsloth/gemma-4-31B-it-GGUF",
+      "displayName": "gemma 4 31B",
+      "downloads": 1306431
     },
     {
       "id": "prism-ml/Bonsai-8B-gguf",
@@ -224,9 +224,9 @@
       "downloads": 81238
     },
     {
-      "id": "unsloth/GLM-5.1-GGUF",
-      "displayName": "GLM 5.1",
-      "downloads": 33954
+      "id": "unsloth/gemma-4-E4B-it-GGUF",
+      "displayName": "gemma 4 E4B",
+      "downloads": 1200147
     }
   ]
 }
