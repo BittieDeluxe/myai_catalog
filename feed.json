@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-15T20:42:50Z",
+  "updated": "2026-04-15T22:38:17Z",
   "news": [
     {
       "title": "Trump\u2019s posting even more AI-generated Trump-Jesus fan art",
@@ -184,14 +184,14 @@
       "downloads": 26673
     },
     {
-      "id": "unsloth/gemma-4-26B-A4B-it-GGUF",
-      "displayName": "gemma 4 26B A4B",
-      "downloads": 2028444
-    },
-    {
       "id": "HauhauCS/Gemma-4-E4B-Uncensored-HauhauCS-Aggressive",
       "displayName": "Gemma 4 E4B Uncensored HauhauCS Aggressive",
       "downloads": 569122
+    },
+    {
+      "id": "unsloth/gemma-4-26B-A4B-it-GGUF",
+      "displayName": "gemma 4 26B A4B",
+      "downloads": 2028444
     },
     {
       "id": "unsloth/MiniMax-M2.7-GGUF",
