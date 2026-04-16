@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-16T05:59:08Z",
+  "updated": "2026-04-16T07:58:48Z",
   "news": [
     {
       "title": "Trump\u2019s posting even more AI-generated Trump-Jesus fan art",
@@ -181,52 +181,52 @@
     {
       "id": "Jiunsong/supergemma4-26b-uncensored-gguf-v2",
       "displayName": "supergemma4 26b uncensored v2",
-      "downloads": 26673
+      "downloads": 42468
     },
     {
       "id": "unsloth/gemma-4-26B-A4B-it-GGUF",
       "displayName": "gemma 4 26B A4B",
-      "downloads": 2028444
+      "downloads": 2104448
     },
     {
       "id": "HauhauCS/Gemma-4-E4B-Uncensored-HauhauCS-Aggressive",
       "displayName": "Gemma 4 E4B Uncensored HauhauCS Aggressive",
-      "downloads": 569122
+      "downloads": 620327
     },
     {
       "id": "unsloth/ERNIE-Image-Turbo-GGUF",
       "displayName": "ERNIE Image Turbo",
-      "downloads": 348
+      "downloads": 7912
     },
     {
       "id": "unsloth/MiniMax-M2.7-GGUF",
       "displayName": "MiniMax M2.7",
-      "downloads": 47368
+      "downloads": 56638
     },
     {
       "id": "Jackrong/Qwopus3.5-27B-v3-GGUF",
       "displayName": "Qwopus3.5 27B v3",
-      "downloads": 148451
+      "downloads": 154097
     },
     {
       "id": "unsloth/gemma-4-31B-it-GGUF",
       "displayName": "gemma 4 31B",
-      "downloads": 1306431
+      "downloads": 1362626
     },
     {
       "id": "HauhauCS/Qwen3.5-9B-Uncensored-HauhauCS-Aggressive",
       "displayName": "Qwen3.5 9B Uncensored HauhauCS Aggressive",
-      "downloads": 968595
-    },
-    {
-      "id": "prism-ml/Bonsai-8B-gguf",
-      "displayName": "Bonsai 8B",
-      "downloads": 81238
+      "downloads": 997271
     },
     {
       "id": "unsloth/gemma-4-E4B-it-GGUF",
       "displayName": "gemma 4 E4B",
-      "downloads": 1200147
+      "downloads": 1249310
+    },
+    {
+      "id": "Jackrong/Gemopus-4-26B-A4B-it-GGUF",
+      "displayName": "Gemopus 4 26B A4B",
+      "downloads": 32243
     }
   ]
 }
