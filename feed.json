@@ -1,12 +1,19 @@
 {
-  "updated": "2026-04-16T17:10:24Z",
+  "updated": "2026-04-16T19:06:46Z",
   "news": [
     {
-      "title": "OpenAI\u2019s big Codex update is a direct shot at Anthropic\u2019s Claude Code",
+      "title": "Anthropic CPO leaves Figma\u2019s board after reports he will offer a competing product",
+      "url": "https://techcrunch.com/2026/04/16/anthropic-cpo-leaves-figmas-board-after-reports-he-will-offer-a-competing-product/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-04-16T18:28:42Z",
+      "snippet": "Krieger's departure and any forthcoming design tools will be another data point for investors who fear the SaaSpocalypse \u2014 that the largest AI labs will come to dominate software businesses, a thesis "
+    },
+    {
+      "title": "OpenAI\u2019s big Codex update is a direct shot at Claude Code",
       "url": "https://www.theverge.com/ai-artificial-intelligence/913034/openai-codex-updates-use-macos",
       "source": "The Verge",
       "publishedAt": "2026-04-16T17:00:00Z",
-      "snippet": "OpenAI is beefing up its agentic coding and development system Codex with a suite of updates that let it use your computer, generate images, and remember from past experiences. Codex will now be able "
+      "snippet": "OpenAI is beefing up its agentic coding and development system, Codex, with a suite of updates that let it use your computer, generate images, and remember from past experiences. The package of update"
     },
     {
       "title": "Google\u2019s AI Mode update lets you open links without leaving the page",
@@ -20,14 +27,14 @@
       "url": "https://techcrunch.com/2026/04/16/google-now-lets-you-explore-the-web-side-by-side-with-ai-mode/",
       "source": "TechCrunch",
       "publishedAt": "2026-04-16T17:00:00Z",
-      "snippet": "Now, when you're using AI Mode on Chrome desktop, clicking a link will open the webpage side-by-side with AI Mode."
+      "snippet": "Now, when you're using AI Mode on Chrome desktop, clicking a link will open the web page side-by-side with AI Mode."
     },
     {
       "title": "InsightFinder raises $15M to help companies figure out where AI agents go wrong",
       "url": "https://techcrunch.com/2026/04/16/insightfinder-raises-15m-to-help-companies-figure-out-where-ai-agents-go-wrong/",
       "source": "TechCrunch",
       "publishedAt": "2026-04-16T16:15:00Z",
-      "snippet": "According to CEO Helen Gu, the biggest problem facing the industry today is not just monitoring and diagnosing where AI models go wrong, it's diagnosing how the entire tech stack operates now that AI "
+      "snippet": "According to CEO Helen Gu, the biggest problem facing the industry today is not just monitoring and diagnosing where AI models go wrong \u2014 it's also diagnosing how the entire tech stack operates now th"
     },
     {
       "title": "AI traffic to US retailers rose 393% in Q1, and it\u2019s boosting their revenue too",
@@ -48,7 +55,7 @@
       "url": "https://techcrunch.com/2026/04/16/robloxs-ai-assistant-gets-new-agentic-tools-to-plan-build-and-test-games/",
       "source": "TechCrunch",
       "publishedAt": "2026-04-16T16:00:00Z",
-      "snippet": "The new new tools are designed to help creators throughout the entire development process."
+      "snippet": "The new tools are designed to help creators throughout the entire development process."
     },
     {
       "title": "Anthropic releases a new Opus model amid Mythos Preview buzz",
@@ -156,13 +163,6 @@
       "snippet": "Gizmo, an AI-powered learning platform, has attracted more than 13 million users and just secured $22 million in Series A funding."
     },
     {
-      "title": "Can AI judge journalism? A Thiel-backed startup says yes, even if it risks chilling whistleblowers",
-      "url": "https://techcrunch.com/2026/04/15/can-ai-judge-journalism-a-thiel-backed-startup-says-yes-even-if-it-risks-chilling-whistleblowers/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-04-15T18:33:20Z",
-      "snippet": "Objection, a Thiel-backed startup, aims to use AI to judge journalism, letting users pay to challenge stories. Critics warn it could chill whistleblowers and reshape how media accountability works."
-    },
-    {
       "title": "Google launches a Gemini AI app on Mac",
       "url": "https://www.theverge.com/tech/912638/google-gemini-mac-app",
       "source": "The Verge",
@@ -189,14 +189,14 @@
       "downloads": 1586
     },
     {
-      "id": "unsloth/ERNIE-Image-Turbo-GGUF",
-      "displayName": "ERNIE Image Turbo",
-      "downloads": 7912
-    },
-    {
       "id": "unsloth/Qwen3.6-35B-A3B-GGUF",
       "displayName": "Qwen3.6 35B A3B",
       "downloads": 0
+    },
+    {
+      "id": "unsloth/ERNIE-Image-Turbo-GGUF",
+      "displayName": "ERNIE Image Turbo",
+      "downloads": 7912
     },
     {
       "id": "HauhauCS/Gemma-4-E4B-Uncensored-HauhauCS-Aggressive",
@@ -219,14 +219,14 @@
       "downloads": 154097
     },
     {
-      "id": "HauhauCS/Qwen3.5-9B-Uncensored-HauhauCS-Aggressive",
-      "displayName": "Qwen3.5 9B Uncensored HauhauCS Aggressive",
-      "downloads": 997271
-    },
-    {
       "id": "unsloth/gemma-4-31B-it-GGUF",
       "displayName": "gemma 4 31B",
       "downloads": 1362626
+    },
+    {
+      "id": "HauhauCS/Qwen3.5-9B-Uncensored-HauhauCS-Aggressive",
+      "displayName": "Qwen3.5 9B Uncensored HauhauCS Aggressive",
+      "downloads": 997271
     }
   ]
 }
