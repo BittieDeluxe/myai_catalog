@@ -1,6 +1,13 @@
 {
-  "updated": "2026-04-16T07:58:48Z",
+  "updated": "2026-04-16T09:25:33Z",
   "news": [
+    {
+      "title": "DeepL, known for text translation, now wants to translate your voice",
+      "url": "https://techcrunch.com/2026/04/16/deepl-known-for-text-translation-now-wants-to-translate-your-voice/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-04-16T08:00:00Z",
+      "snippet": "DeepL says its tech could be used for real-time translation with meeting tools like Zoom and Microsoft Teams"
+    },
     {
       "title": "Trump\u2019s posting even more AI-generated Trump-Jesus fan art",
       "url": "https://www.theverge.com/column/912627/trump-jesus-ai-whcd-penguin-meme",
@@ -133,13 +140,6 @@
       "source": "TechCrunch",
       "publishedAt": "2026-04-15T02:31:04Z",
       "snippet": "One investor who has backed both companies told the FT that justifying OpenAI's recent round required assuming an IPO valuation of $1.2 trillion or more \u2014 making Anthropic's current $380 billion valua"
-    },
-    {
-      "title": "Anthropic co-founder confirms the company briefed the Trump administration on Mythos",
-      "url": "https://techcrunch.com/2026/04/14/anthropic-co-founder-confirms-the-company-briefed-the-trump-administration-on-mythos/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-04-14T18:09:12Z",
-      "snippet": "In an interview at the Semafor World Economy summit this week, Anthropic co-founder Jack Clark explained why the company was still engaged with the U.S. government while simultaneously suing them."
     },
     {
       "title": "The attacks on Sam Altman are a warning for the AI world",
