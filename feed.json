@@ -1,6 +1,20 @@
 {
-  "updated": "2026-04-16T20:43:41Z",
+  "updated": "2026-04-16T22:36:00Z",
   "news": [
+    {
+      "title": "Luma launches AI-powered production studio with faith-focused Wonder Project",
+      "url": "https://techcrunch.com/2026/04/16/luma-launches-ai-powered-production-studio-with-faith-focused-wonder-project/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-04-16T21:58:08Z",
+      "snippet": "The studio's first project will be about Moses and star Academy Award-winner Ben Kingsley, to be released this spring on Prime Video."
+    },
+    {
+      "title": "Upscale AI in talks to raise at $2B valuation, says report",
+      "url": "https://techcrunch.com/2026/04/16/upscale-ai-in-talks-to-raise-at-2b-valuation-says-report/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-04-16T20:41:13Z",
+      "snippet": "AI infrastructure company Upscale AI is reportedly in talks to raise its third funding round since launching just seven months ago."
+    },
     {
       "title": "Physical Intelligence, a hot robotics startup, says its new robot brain can figure out tasks it was never taught",
       "url": "https://techcrunch.com/2026/04/16/physical-intelligence-a-hot-robotics-startup-says-its-new-robot-brain-can-figure-out-tasks-it-was-never-taught/",
@@ -147,20 +161,6 @@
       "source": "The Verge",
       "publishedAt": "2026-04-15T19:50:31Z",
       "snippet": "Hello and welcome to Regulator, a newsletter for Verge subscribers about Big Tech power plays in Washington and beyond. (And when I say beyond, I mean the great beyond, like Heaven, maybe.) If you've "
-    },
-    {
-      "title": "OpenAI updates its Agents SDK to help enterprises build safer, more capable agents",
-      "url": "https://techcrunch.com/2026/04/15/openai-updates-its-agents-sdk-to-help-enterprises-build-safer-more-capable-agents/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-04-15T19:28:36Z",
-      "snippet": "OpenAI has expanded the capabilities of its agent-building toolkit, as agentic AI continues to grow in popularity."
-    },
-    {
-      "title": "Hightouch reaches $100M ARR fueled by marketing tools powered by AI",
-      "url": "https://techcrunch.com/2026/04/15/hightouch-reaches-100m-arr-fueled-by-marketing-tools-powered-by-ai/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-04-15T18:55:12Z",
-      "snippet": "The startup says it grew its ARR by $70 million in just 20 months after launching an AI agent platform for marketers."
     },
     {
       "title": "Google launches a Gemini AI app on Mac",
