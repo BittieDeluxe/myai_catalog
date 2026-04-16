@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-16T02:13:29Z",
+  "updated": "2026-04-16T05:59:08Z",
   "news": [
     {
       "title": "Trump\u2019s posting even more AI-generated Trump-Jesus fan art",
@@ -194,14 +194,14 @@
       "downloads": 569122
     },
     {
-      "id": "unsloth/MiniMax-M2.7-GGUF",
-      "displayName": "MiniMax M2.7",
-      "downloads": 47368
-    },
-    {
       "id": "unsloth/ERNIE-Image-Turbo-GGUF",
       "displayName": "ERNIE Image Turbo",
       "downloads": 348
+    },
+    {
+      "id": "unsloth/MiniMax-M2.7-GGUF",
+      "displayName": "MiniMax M2.7",
+      "downloads": 47368
     },
     {
       "id": "Jackrong/Qwopus3.5-27B-v3-GGUF",
