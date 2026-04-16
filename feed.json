@@ -1,6 +1,20 @@
 {
-  "updated": "2026-04-16T19:06:46Z",
+  "updated": "2026-04-16T20:43:41Z",
   "news": [
+    {
+      "title": "Physical Intelligence, a hot robotics startup, says its new robot brain can figure out tasks it was never taught",
+      "url": "https://techcrunch.com/2026/04/16/physical-intelligence-a-hot-robotics-startup-says-its-new-robot-brain-can-figure-out-tasks-it-was-never-taught/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-04-16T20:26:44Z",
+      "snippet": "The new model, called \u03c00.7, represents what the company describes as an early but meaningful step toward the long-sought goal of a general-purpose robot brain."
+    },
+    {
+      "title": "OpenAI takes aim at Anthropic with beefed-up Codex that gives it more power over your desktop",
+      "url": "https://techcrunch.com/2026/04/16/openai-takes-aim-at-anthropic-with-beefed-up-codex-that-gives-it-more-power-over-your-desktop/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-04-16T19:18:41Z",
+      "snippet": "OpenAI's agentic coding tool has gotten a major makeover, with a variety of new powers and abilities."
+    },
     {
       "title": "Anthropic CPO leaves Figma\u2019s board after reports he will offer a competing product",
       "url": "https://techcrunch.com/2026/04/16/anthropic-cpo-leaves-figmas-board-after-reports-he-will-offer-a-competing-product/",
@@ -149,20 +163,6 @@
       "snippet": "The startup says it grew its ARR by $70 million in just 20 months after launching an AI agent platform for marketers."
     },
     {
-      "title": "LinkedIn data shows AI isn\u2019t to blame for hiring decline\u2026 yet",
-      "url": "https://techcrunch.com/2026/04/15/linkedin-data-shows-ai-isnt-to-blame-for-hiring-decline-yet/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-04-15T18:51:54Z",
-      "snippet": "LinkedIn says hiring is down 20% since 2022, but blames higher interest rates \u2014 not AI \u2014 for the slowdown."
-    },
-    {
-      "title": "AI learning app Gizmo levels up with 13M users and a $22M investment",
-      "url": "https://techcrunch.com/2026/04/15/ai-learning-app-gizmo-levels-up-with-13m-users-and-a-22m-investment/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-04-15T18:38:10Z",
-      "snippet": "Gizmo, an AI-powered learning platform, has attracted more than 13 million users and just secured $22 million in Series A funding."
-    },
-    {
       "title": "Google launches a Gemini AI app on Mac",
       "url": "https://www.theverge.com/tech/912638/google-gemini-mac-app",
       "source": "The Verge",
@@ -199,14 +199,14 @@
       "downloads": 7912
     },
     {
-      "id": "HauhauCS/Gemma-4-E4B-Uncensored-HauhauCS-Aggressive",
-      "displayName": "Gemma 4 E4B Uncensored HauhauCS Aggressive",
-      "downloads": 620327
-    },
-    {
       "id": "unsloth/gemma-4-26B-A4B-it-GGUF",
       "displayName": "gemma 4 26B A4B",
       "downloads": 2104448
+    },
+    {
+      "id": "HauhauCS/Gemma-4-E4B-Uncensored-HauhauCS-Aggressive",
+      "displayName": "Gemma 4 E4B Uncensored HauhauCS Aggressive",
+      "downloads": 620327
     },
     {
       "id": "unsloth/MiniMax-M2.7-GGUF",
