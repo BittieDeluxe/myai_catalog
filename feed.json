@@ -1,12 +1,40 @@
 {
-  "updated": "2026-04-17T14:52:06Z",
+  "updated": "2026-04-17T16:52:09Z",
   "news": [
+    {
+      "title": "Tokenmaxxing, OpenAI\u2019s shopping spree, and the AI Anxiety Gap",
+      "url": "https://techcrunch.com/podcast/tokenmaxxing-openais-shopping-spree-and-the-ai-anxiety-gap/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-04-17T15:57:40Z",
+      "snippet": "The gap between AI insiders and everyone else&#160;is widening, and the spending, suspicion, and even new vocabulary are starting to show it. While OpenAI is busy buying up everything from&#160;financ"
+    },
+    {
+      "title": "Dairy Queen is putting an AI chatbot in its drive-thrus",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/913928/dairy-queen-ai-drive-thru-presto",
+      "source": "The Verge",
+      "publishedAt": "2026-04-17T15:46:37Z",
+      "snippet": "Dairy Queen is becoming the latest fast food chain to get in on AI, as it's bringing a chatbot to dozens of its drive-thrus across the US and Canada. It aims to help speed up drive-thru service and \"e"
+    },
+    {
+      "title": "Anthropic launches Claude Design, a new product for creating quick visuals",
+      "url": "https://techcrunch.com/2026/04/17/anthropic-launches-claude-design-a-new-product-for-creating-quick-visuals/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-04-17T15:00:00Z",
+      "snippet": "The company says Claude Design is intended to help people like founders and product managers without a design background share their ideas more easily."
+    },
     {
       "title": "The \u2018AI is inevitable\u2019 trap",
       "url": "https://www.theverge.com/podcast/913792/ai-divide-sam-altman-vergecast",
       "source": "The Verge",
       "publishedAt": "2026-04-17T13:24:34Z",
       "snippet": "In the latest sign of AI silly season, Allbirds, the shoe company, told the world it was now an AI company and briefly managed to septuple its stock price. The Newbird AI story is really just one of a"
+    },
+    {
+      "title": "Are we\u00a0tokenmaxxing\u00a0our way to nowhere?",
+      "url": "https://techcrunch.com/video/are-we-tokenmaxxing-our-way-to-nowhere/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-04-17T13:00:00Z",
+      "snippet": "The gap between AI insiders and everyone else&#160;is widening, and the spending, suspicion, and even new vocabulary are starting to show it. While OpenAI is busy buying up everything from&#160;financ"
     },
     {
       "title": "Factory hits $1.5B valuation to build AI coding for enterprises",
@@ -135,13 +163,6 @@
       "snippet": "Mired in controversy and legal woes over concerns about its chatbots' interactions with users, particularly teens, Character.AI seems to be playing it safer with a new \"Books\" mode. The new format let"
     },
     {
-      "title": "Meta raises Quest 3 and Quest 3S prices due to RAM shortage",
-      "url": "https://techcrunch.com/2026/04/16/meta-raises-quest-3-and-quest-3s-prices-due-to-ram-shortage/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-04-16T13:49:32Z",
-      "snippet": "Starting April 19, the price of the Meta Quest 3S (128GB) and Meta Quest 3S (256GB) will go up by $50 to $349.99 and $449.99, respectively. The price of the Meta Quest 3 is going up by $100 to $599.99"
-    },
-    {
       "title": "Canva\u2019s AI 2.0 update goes all in on prompt-powered design tools",
       "url": "https://www.theverge.com/tech/913068/canva-ai-2-update-prompt-based-editing-availability",
       "source": "The Verge",
@@ -149,32 +170,11 @@
       "snippet": "Canva has overhauled its design and workspace suite as it attempts to become the ultimate centralized hub for AI-powered content creation. The platform announced its Canva AI 2.0 update today, introdu"
     },
     {
-      "title": "Canva\u2019s AI assistant can now call various tools to make designs for you",
-      "url": "https://techcrunch.com/2026/04/16/canvas-ai-assistant-can-now-call-various-tools-to-make-designs-for-you/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-04-16T13:00:00Z",
-      "snippet": "The latest version of Canva's AI assistant lets users create editable designs with text prompts."
-    },
-    {
-      "title": "This simulation startup wants to be the Cursor for physical AI",
-      "url": "https://techcrunch.com/2026/04/16/this-simulation-startup-wants-to-be-the-cursor-for-physical-ai/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-04-16T12:30:00Z",
-      "snippet": "Antioch raised an $8.5 million seed round to create simulation tools for a new generation of robot builders."
-    },
-    {
       "title": "Trump\u2019s posting even more AI-generated Trump-Jesus fan art",
       "url": "https://www.theverge.com/column/912627/trump-jesus-ai-whcd-penguin-meme",
       "source": "The Verge",
       "publishedAt": "2026-04-15T19:50:31Z",
       "snippet": "Hello and welcome to Regulator, a newsletter for Verge subscribers about Big Tech power plays in Washington and beyond. (And when I say beyond, I mean the great beyond, like Heaven, maybe.) If you've "
-    },
-    {
-      "title": "Google launches a Gemini AI app on Mac",
-      "url": "https://www.theverge.com/tech/912638/google-gemini-mac-app",
-      "source": "The Verge",
-      "publishedAt": "2026-04-15T18:10:15Z",
-      "snippet": "Google is launching a new Gemini app on Mac that allows you to interact with the AI assistant without switching windows on your desktop. With the app, you can use the Option + Space shortcut to pull u"
     }
   ],
   "trending": [
@@ -214,9 +214,9 @@
       "downloads": 2203787
     },
     {
-      "id": "Jackrong/Qwopus3.5-27B-v3-GGUF",
-      "displayName": "Qwopus3.5 27B v3",
-      "downloads": 159276
+      "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
+      "displayName": "Qwen3.6 35B A3B Uncensored HauhauCS Aggressive",
+      "downloads": 1138
     },
     {
       "id": "prism-ml/Bonsai-8B-gguf",
@@ -224,9 +224,9 @@
       "downloads": 86013
     },
     {
-      "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
-      "displayName": "Qwen3.6 35B A3B Uncensored HauhauCS Aggressive",
-      "downloads": 1138
+      "id": "Jackrong/Qwopus3.5-27B-v3-GGUF",
+      "displayName": "Qwopus3.5 27B v3",
+      "downloads": 159276
     }
   ]
 }
