@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-17T10:51:32Z",
+  "updated": "2026-04-17T13:10:29Z",
   "news": [
     {
       "title": "Factory hits $1.5B valuation to build AI coding for enterprises",
@@ -224,9 +224,9 @@
       "downloads": 1415185
     },
     {
-      "id": "HauhauCS/Qwen3.5-9B-Uncensored-HauhauCS-Aggressive",
-      "displayName": "Qwen3.5 9B Uncensored HauhauCS Aggressive",
-      "downloads": 999353
+      "id": "prism-ml/Bonsai-8B-gguf",
+      "displayName": "Bonsai 8B",
+      "downloads": 86013
     }
   ]
 }
