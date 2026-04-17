@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-17T06:00:49Z",
+  "updated": "2026-04-17T09:13:29Z",
   "news": [
     {
       "title": "Factory hits $1.5B valuation to build AI coding for enterprises",
@@ -181,52 +181,52 @@
     {
       "id": "Jiunsong/supergemma4-26b-uncensored-gguf-v2",
       "displayName": "supergemma4 26b uncensored v2",
-      "downloads": 42468
+      "downloads": 53781
     },
     {
       "id": "unsloth/Qwen3.6-35B-A3B-GGUF",
       "displayName": "Qwen3.6 35B A3B",
-      "downloads": 0
+      "downloads": 153019
     },
     {
       "id": "OBLITERATUS/gemma-4-E4B-it-OBLITERATED",
       "displayName": "gemma 4 E4B OBLITERATED",
-      "downloads": 1586
+      "downloads": 6866
     },
     {
       "id": "unsloth/ERNIE-Image-Turbo-GGUF",
       "displayName": "ERNIE Image Turbo",
-      "downloads": 7912
+      "downloads": 13664
     },
     {
       "id": "unsloth/MiniMax-M2.7-GGUF",
       "displayName": "MiniMax M2.7",
-      "downloads": 56638
-    },
-    {
-      "id": "unsloth/gemma-4-26B-A4B-it-GGUF",
-      "displayName": "gemma 4 26B A4B",
-      "downloads": 2104448
+      "downloads": 78293
     },
     {
       "id": "HauhauCS/Gemma-4-E4B-Uncensored-HauhauCS-Aggressive",
       "displayName": "Gemma 4 E4B Uncensored HauhauCS Aggressive",
-      "downloads": 620327
+      "downloads": 656354
+    },
+    {
+      "id": "unsloth/gemma-4-26B-A4B-it-GGUF",
+      "displayName": "gemma 4 26B A4B",
+      "downloads": 2203787
     },
     {
       "id": "Jackrong/Qwopus3.5-27B-v3-GGUF",
       "displayName": "Qwopus3.5 27B v3",
-      "downloads": 154097
+      "downloads": 159276
     },
     {
       "id": "unsloth/gemma-4-31B-it-GGUF",
       "displayName": "gemma 4 31B",
-      "downloads": 1362626
+      "downloads": 1415185
     },
     {
       "id": "HauhauCS/Qwen3.5-9B-Uncensored-HauhauCS-Aggressive",
       "displayName": "Qwen3.5 9B Uncensored HauhauCS Aggressive",
-      "downloads": 997271
+      "downloads": 999353
     }
   ]
 }
