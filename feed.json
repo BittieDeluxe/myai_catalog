@@ -1,6 +1,20 @@
 {
-  "updated": "2026-04-17T16:52:09Z",
+  "updated": "2026-04-17T18:54:59Z",
   "news": [
+    {
+      "title": "\u201cTokenmaxxing\u201d is making developers less productive than they think",
+      "url": "https://techcrunch.com/2026/04/17/tokenmaxxing-is-making-developers-less-productive-than-they-think/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-04-17T18:42:45Z",
+      "snippet": "There's a lot more code\u2014but it's a lot more expensive and requires a lot more rewriting."
+    },
+    {
+      "title": "This charming gadget writes bad AI poetry",
+      "url": "https://www.theverge.com/gadgets/913981/poetry-camera-ai-hands-on",
+      "source": "The Verge",
+      "publishedAt": "2026-04-17T17:30:00Z",
+      "snippet": "I've never been as charmed and frustrated by one gadget as I have with the Poetry Camera. It's a delightful object. White and cherry red with a color-matched woven strap, it looks playful and adorably"
+    },
     {
       "title": "Tokenmaxxing, OpenAI\u2019s shopping spree, and the AI Anxiety Gap",
       "url": "https://techcrunch.com/podcast/tokenmaxxing-openais-shopping-spree-and-the-ai-anxiety-gap/",
@@ -142,13 +156,6 @@
       "snippet": "Google blocked 8.3 billion ads in 2025 but suspended fewer advertisers."
     },
     {
-      "title": "Runway CEO says AI could help Hollywood make 50 films instead of one $100M blockbuster",
-      "url": "https://techcrunch.com/2026/04/16/runway-ceo-says-ai-could-help-hollywood-make-50-films-instead-of-one-100m-blockbuster/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-04-16T14:14:29Z",
-      "snippet": "Runway\u2019s CEO says AI could help studios make dozens of films for the cost of one, betting volume will boost hit-making odds."
-    },
-    {
       "title": "Ronan Farrow on Sam Altman&#8217;s \u2018unconstrained\u2019 relationship with the truth",
       "url": "https://www.theverge.com/podcast/911753/sam-altman-openai-ronan-farrow-new-yorker-feature-trust-liar-ai-industry",
       "source": "The Verge",
@@ -168,13 +175,6 @@
       "source": "The Verge",
       "publishedAt": "2026-04-16T13:07:09Z",
       "snippet": "Canva has overhauled its design and workspace suite as it attempts to become the ultimate centralized hub for AI-powered content creation. The platform announced its Canva AI 2.0 update today, introdu"
-    },
-    {
-      "title": "Trump\u2019s posting even more AI-generated Trump-Jesus fan art",
-      "url": "https://www.theverge.com/column/912627/trump-jesus-ai-whcd-penguin-meme",
-      "source": "The Verge",
-      "publishedAt": "2026-04-15T19:50:31Z",
-      "snippet": "Hello and welcome to Regulator, a newsletter for Verge subscribers about Big Tech power plays in Washington and beyond. (And when I say beyond, I mean the great beyond, like Heaven, maybe.) If you've "
     }
   ],
   "trending": [
@@ -219,14 +219,14 @@
       "downloads": 1138
     },
     {
-      "id": "prism-ml/Bonsai-8B-gguf",
-      "displayName": "Bonsai 8B",
-      "downloads": 86013
-    },
-    {
       "id": "Jackrong/Qwopus3.5-27B-v3-GGUF",
       "displayName": "Qwopus3.5 27B v3",
       "downloads": 159276
+    },
+    {
+      "id": "prism-ml/Bonsai-8B-gguf",
+      "displayName": "Bonsai 8B",
+      "downloads": 86013
     }
   ]
 }
