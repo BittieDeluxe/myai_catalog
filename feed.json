@@ -1,12 +1,33 @@
 {
-  "updated": "2026-04-17T18:54:59Z",
+  "updated": "2026-04-17T20:40:21Z",
   "news": [
     {
-      "title": "\u201cTokenmaxxing\u201d is making developers less productive than they think",
+      "title": "Kevin Weil and Bill Peebles exit OpenAI as company continues to shed \u2018side quests\u2019",
+      "url": "https://techcrunch.com/2026/04/17/kevin-weil-and-bill-peebles-exit-openai-as-company-continues-to-shed-side-quests/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-04-17T20:38:17Z",
+      "snippet": "Kevin Weil and Bill Peebles are leaving OpenAI as the company shuts down Sora and folds its science team, signaling a sharp pivot away from consumer moonshots toward enterprise AI."
+    },
+    {
+      "title": "Anthropic\u2019s new cybersecurity model could get it back in the government\u2019s good graces",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/914229/tides-turning-anthropic-trump-administration-cybersecurity-mythos-preview",
+      "source": "The Verge",
+      "publishedAt": "2026-04-17T20:14:21Z",
+      "snippet": "The Trump administration has spent nearly two months fighting with AI company Anthropic. It's dubbed the company a \"RADICAL LEFT, WOKE COMPANY\" full of \"Leftwing nut jobs\" and a menace to national sec"
+    },
+    {
+      "title": "Sources: Cursor in talks to raise $2B+ at $50B valuation as enterprise growth surges",
+      "url": "https://techcrunch.com/2026/04/17/sources-cursor-in-talks-to-raise-2b-at-50b-valuation-as-enterprise-growth-surges/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-04-17T19:17:26Z",
+      "snippet": "Returning backers a16z and Thrive are expected to lead the round."
+    },
+    {
+      "title": "\u2018Tokenmaxxing\u2019 is making developers less productive than they think",
       "url": "https://techcrunch.com/2026/04/17/tokenmaxxing-is-making-developers-less-productive-than-they-think/",
       "source": "TechCrunch",
       "publishedAt": "2026-04-17T18:42:45Z",
-      "snippet": "There's a lot more code\u2014but it's a lot more expensive and requires a lot more rewriting."
+      "snippet": "There's a lot more code \u2014 but it's a lot more expensive and requires a lot more rewriting."
     },
     {
       "title": "This charming gadget writes bad AI poetry",
@@ -135,25 +156,11 @@
       "snippet": "Google's Personal Intelligence feature, which lets Gemini pull data from apps like Google Photos to offer responses tailored to you, can now use that data and its Nano Banana 2 image model to create i"
     },
     {
-      "title": "Roblox\u2019s AI assistant gets new agentic tools to plan, build, and test games",
-      "url": "https://techcrunch.com/2026/04/16/robloxs-ai-assistant-gets-new-agentic-tools-to-plan-build-and-test-games/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-04-16T16:00:00Z",
-      "snippet": "The new tools are designed to help creators throughout the entire development process."
-    },
-    {
       "title": "Anthropic releases a new Opus model amid Mythos Preview buzz",
       "url": "https://www.theverge.com/ai-artificial-intelligence/913184/anthropic-claude-opus-4-7-cybersecurity",
       "source": "The Verge",
       "publishedAt": "2026-04-16T15:59:24Z",
       "snippet": "Anthropic has released its most powerful \"generally available\" model to date: Claude Opus 4.7. The company called it a step up from Opus 4.6 for advanced software engineering tasks, particularly in co"
-    },
-    {
-      "title": "Google is now targeting bad ads over bad actors",
-      "url": "https://techcrunch.com/2026/04/16/google-blocked-more-ads-but-banned-fewer-advertisers-as-ai-reshapes-enforcement/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-04-16T15:00:00Z",
-      "snippet": "Google blocked 8.3 billion ads in 2025 but suspended fewer advertisers."
     },
     {
       "title": "Ronan Farrow on Sam Altman&#8217;s \u2018unconstrained\u2019 relationship with the truth",
@@ -168,13 +175,6 @@
       "source": "The Verge",
       "publishedAt": "2026-04-16T14:00:00Z",
       "snippet": "Mired in controversy and legal woes over concerns about its chatbots' interactions with users, particularly teens, Character.AI seems to be playing it safer with a new \"Books\" mode. The new format let"
-    },
-    {
-      "title": "Canva\u2019s AI 2.0 update goes all in on prompt-powered design tools",
-      "url": "https://www.theverge.com/tech/913068/canva-ai-2-update-prompt-based-editing-availability",
-      "source": "The Verge",
-      "publishedAt": "2026-04-16T13:07:09Z",
-      "snippet": "Canva has overhauled its design and workspace suite as it attempts to become the ultimate centralized hub for AI-powered content creation. The platform announced its Canva AI 2.0 update today, introdu"
     }
   ],
   "trending": [
@@ -219,14 +219,14 @@
       "downloads": 1138
     },
     {
-      "id": "Jackrong/Qwopus3.5-27B-v3-GGUF",
-      "displayName": "Qwopus3.5 27B v3",
-      "downloads": 159276
-    },
-    {
       "id": "prism-ml/Bonsai-8B-gguf",
       "displayName": "Bonsai 8B",
       "downloads": 86013
+    },
+    {
+      "id": "unsloth/gemma-4-31B-it-GGUF",
+      "displayName": "gemma 4 31B",
+      "downloads": 1415185
     }
   ]
 }
