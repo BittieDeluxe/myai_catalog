@@ -1,6 +1,27 @@
 {
-  "updated": "2026-04-17T20:40:21Z",
+  "updated": "2026-04-17T22:34:39Z",
   "news": [
+    {
+      "title": "Sam Altman\u2019s project World looks to scale its human verification empire. First stop: Tinder.",
+      "url": "https://techcrunch.com/2026/04/17/sam-altmans-project-world-looks-to-scale-its-human-verification-empire-first-stop-tinder/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-04-17T22:34:02Z",
+      "snippet": "World, which has raised eyebrows (but also a lot of interest) with its Orb-centered anonymous verification project, is looking to expand its influence via a bevy of new partnerships."
+    },
+    {
+      "title": "OpenAI\u2019s former Sora boss is leaving",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/914463/openai-sora-bill-peebles-kevin-weil-leaving-departing",
+      "source": "The Verge",
+      "publishedAt": "2026-04-17T21:13:25Z",
+      "snippet": "Last month, OpenAI gave up on its Sora video generation tool, and on Friday, the Sora team's leader, Bill Peebles, announced that he is leaving the company. OpenAI has been shifting its priorities as "
+    },
+    {
+      "title": "Should you stare into Sam Altman&#8217;s orb before your next date?",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/914385/world-id-tinder-identity-verifying-orb",
+      "source": "The Verge",
+      "publishedAt": "2026-04-17T20:42:47Z",
+      "snippet": "Tinder users who prove they're a real person by visiting an identity-verifying orb will soon be able to get five free boosts in the app - and it's just the latest service to embrace the orb. World, wh"
+    },
     {
       "title": "Kevin Weil and Bill Peebles exit OpenAI as company continues to shed \u2018side quests\u2019",
       "url": "https://techcrunch.com/2026/04/17/kevin-weil-and-bill-peebles-exit-openai-as-company-continues-to-shed-side-quests/",
@@ -142,13 +163,6 @@
       "snippet": "According to CEO Helen Gu, the biggest problem facing the industry today is not just monitoring and diagnosing where AI models go wrong \u2014 it's also diagnosing how the entire tech stack operates now th"
     },
     {
-      "title": "AI traffic to US retailers rose 393% in Q1, and it\u2019s boosting their revenue too",
-      "url": "https://techcrunch.com/2026/04/16/ai-traffic-to-us-retailers-rose-393-in-q1-and-its-boosting-their-revenue-too/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-04-16T16:14:03Z",
-      "snippet": "Adobe says AI traffic to U.S. retail sites also jumped 269% in March, with visitors converting better and generating more revenue than non-AI shoppers."
-    },
-    {
       "title": "Gemini can now pull from Google Photos to generate personalized images",
       "url": "https://www.theverge.com/tech/913202/gemini-personal-intelligence-images-nano-banana",
       "source": "The Verge",
@@ -161,20 +175,6 @@
       "source": "The Verge",
       "publishedAt": "2026-04-16T15:59:24Z",
       "snippet": "Anthropic has released its most powerful \"generally available\" model to date: Claude Opus 4.7. The company called it a step up from Opus 4.6 for advanced software engineering tasks, particularly in co"
-    },
-    {
-      "title": "Ronan Farrow on Sam Altman&#8217;s \u2018unconstrained\u2019 relationship with the truth",
-      "url": "https://www.theverge.com/podcast/911753/sam-altman-openai-ronan-farrow-new-yorker-feature-trust-liar-ai-industry",
-      "source": "The Verge",
-      "publishedAt": "2026-04-16T14:00:00Z",
-      "snippet": "Today on Decoder, I\u2019m talking with Ronan Farrow, one of the biggest stars of investigative reporting working today. He broke the Harvey Weinstein story, among many, many others. And just last week, he"
-    },
-    {
-      "title": "Character.AI\u2019s new Books mode turns reading into roleplay",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/912997/character-ai-books-mode",
-      "source": "The Verge",
-      "publishedAt": "2026-04-16T14:00:00Z",
-      "snippet": "Mired in controversy and legal woes over concerns about its chatbots' interactions with users, particularly teens, Character.AI seems to be playing it safer with a new \"Books\" mode. The new format let"
     }
   ],
   "trending": [
