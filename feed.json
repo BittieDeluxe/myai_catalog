@@ -1,6 +1,13 @@
 {
-  "updated": "2026-04-16T22:36:00Z",
+  "updated": "2026-04-17T02:10:03Z",
   "news": [
+    {
+      "title": "Factory hits $1.5B valuation to build AI coding for enterprises",
+      "url": "https://techcrunch.com/2026/04/16/factory-hits-1-5b-valuation-to-build-ai-coding-for-enterprises/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-04-16T22:55:30Z",
+      "snippet": "The three-year-old startup raised $150 million led by Khosla Ventures."
+    },
     {
       "title": "Luma launches AI-powered production studio with faith-focused Wonder Project",
       "url": "https://techcrunch.com/2026/04/16/luma-launches-ai-powered-production-studio-with-faith-focused-wonder-project/",
@@ -149,13 +156,6 @@
       "snippet": "Antioch raised an $8.5 million seed round to create simulation tools for a new generation of robot builders."
     },
     {
-      "title": "DeepL, known for text translation, now wants to translate your voice",
-      "url": "https://techcrunch.com/2026/04/16/deepl-known-for-text-translation-now-wants-to-translate-your-voice/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-04-16T08:00:00Z",
-      "snippet": "DeepL says its tech could be used for real-time translation with meeting tools like Zoom and Microsoft Teams."
-    },
-    {
       "title": "Trump\u2019s posting even more AI-generated Trump-Jesus fan art",
       "url": "https://www.theverge.com/column/912627/trump-jesus-ai-whcd-penguin-meme",
       "source": "The Verge",
@@ -184,19 +184,24 @@
       "downloads": 42468
     },
     {
-      "id": "OBLITERATUS/gemma-4-E4B-it-OBLITERATED",
-      "displayName": "gemma 4 E4B OBLITERATED",
-      "downloads": 1586
-    },
-    {
       "id": "unsloth/Qwen3.6-35B-A3B-GGUF",
       "displayName": "Qwen3.6 35B A3B",
       "downloads": 0
     },
     {
+      "id": "OBLITERATUS/gemma-4-E4B-it-OBLITERATED",
+      "displayName": "gemma 4 E4B OBLITERATED",
+      "downloads": 1586
+    },
+    {
       "id": "unsloth/ERNIE-Image-Turbo-GGUF",
       "displayName": "ERNIE Image Turbo",
       "downloads": 7912
+    },
+    {
+      "id": "unsloth/MiniMax-M2.7-GGUF",
+      "displayName": "MiniMax M2.7",
+      "downloads": 56638
     },
     {
       "id": "unsloth/gemma-4-26B-A4B-it-GGUF",
@@ -207,11 +212,6 @@
       "id": "HauhauCS/Gemma-4-E4B-Uncensored-HauhauCS-Aggressive",
       "displayName": "Gemma 4 E4B Uncensored HauhauCS Aggressive",
       "downloads": 620327
-    },
-    {
-      "id": "unsloth/MiniMax-M2.7-GGUF",
-      "displayName": "MiniMax M2.7",
-      "downloads": 56638
     },
     {
       "id": "Jackrong/Qwopus3.5-27B-v3-GGUF",
