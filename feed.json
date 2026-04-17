@@ -1,6 +1,13 @@
 {
-  "updated": "2026-04-17T13:10:29Z",
+  "updated": "2026-04-17T14:52:06Z",
   "news": [
+    {
+      "title": "The \u2018AI is inevitable\u2019 trap",
+      "url": "https://www.theverge.com/podcast/913792/ai-divide-sam-altman-vergecast",
+      "source": "The Verge",
+      "publishedAt": "2026-04-17T13:24:34Z",
+      "snippet": "In the latest sign of AI silly season, Allbirds, the shoe company, told the world it was now an AI company and briefly managed to septuple its stock price. The Newbird AI story is really just one of a"
+    },
     {
       "title": "Factory hits $1.5B valuation to build AI coding for enterprises",
       "url": "https://techcrunch.com/2026/04/16/factory-hits-1-5b-valuation-to-build-ai-coding-for-enterprises/",
@@ -168,13 +175,6 @@
       "source": "The Verge",
       "publishedAt": "2026-04-15T18:10:15Z",
       "snippet": "Google is launching a new Gemini app on Mac that allows you to interact with the AI assistant without switching windows on your desktop. With the app, you can use the Option + Space shortcut to pull u"
-    },
-    {
-      "title": "Allbirds announced a switch from shoes to AI and its stock jumped 600 percent",
-      "url": "https://www.theverge.com/news/912484/allbirds-ai-hyperscale",
-      "source": "The Verge",
-      "publishedAt": "2026-04-15T16:13:30Z",
-      "snippet": "Allbirds had a hit a decade ago with its Wool Runner shoes, but after a $4 billion IPO in 2021, the business never turned a profit, and sales dropped nearly 50 percent between 2022 and 2025. The compa"
     }
   ],
   "trending": [
@@ -219,14 +219,14 @@
       "downloads": 159276
     },
     {
-      "id": "unsloth/gemma-4-31B-it-GGUF",
-      "displayName": "gemma 4 31B",
-      "downloads": 1415185
-    },
-    {
       "id": "prism-ml/Bonsai-8B-gguf",
       "displayName": "Bonsai 8B",
       "downloads": 86013
+    },
+    {
+      "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
+      "displayName": "Qwen3.6 35B A3B Uncensored HauhauCS Aggressive",
+      "downloads": 1138
     }
   ]
 }
