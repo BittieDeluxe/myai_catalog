@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-18T02:01:10Z",
+  "updated": "2026-04-18T05:39:36Z",
   "news": [
     {
       "title": "Sam Altman\u2019s project World looks to scale its human verification empire. First stop: Tinder.",
@@ -179,14 +179,14 @@
   ],
   "trending": [
     {
-      "id": "Jiunsong/supergemma4-26b-uncensored-gguf-v2",
-      "displayName": "supergemma4 26b uncensored v2",
-      "downloads": 53781
-    },
-    {
       "id": "unsloth/Qwen3.6-35B-A3B-GGUF",
       "displayName": "Qwen3.6 35B A3B",
       "downloads": 153019
+    },
+    {
+      "id": "Jiunsong/supergemma4-26b-uncensored-gguf-v2",
+      "displayName": "supergemma4 26b uncensored v2",
+      "downloads": 53781
     },
     {
       "id": "OBLITERATUS/gemma-4-E4B-it-OBLITERATED",
@@ -204,14 +204,14 @@
       "downloads": 78293
     },
     {
-      "id": "HauhauCS/Gemma-4-E4B-Uncensored-HauhauCS-Aggressive",
-      "displayName": "Gemma 4 E4B Uncensored HauhauCS Aggressive",
-      "downloads": 656354
-    },
-    {
       "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
       "displayName": "Qwen3.6 35B A3B Uncensored HauhauCS Aggressive",
       "downloads": 1138
+    },
+    {
+      "id": "HauhauCS/Gemma-4-E4B-Uncensored-HauhauCS-Aggressive",
+      "displayName": "Gemma 4 E4B Uncensored HauhauCS Aggressive",
+      "downloads": 656354
     },
     {
       "id": "unsloth/gemma-4-26B-A4B-it-GGUF",
@@ -219,14 +219,14 @@
       "downloads": 2203787
     },
     {
-      "id": "prism-ml/Bonsai-8B-gguf",
-      "displayName": "Bonsai 8B",
-      "downloads": 86013
-    },
-    {
       "id": "Jackrong/Qwopus3.5-27B-v3-GGUF",
       "displayName": "Qwopus3.5 27B v3",
       "downloads": 159276
+    },
+    {
+      "id": "HauhauCS/Qwen3.5-9B-Uncensored-HauhauCS-Aggressive",
+      "displayName": "Qwen3.5 9B Uncensored HauhauCS Aggressive",
+      "downloads": 999353
     }
   ]
 }
