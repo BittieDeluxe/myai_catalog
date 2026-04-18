@@ -1,6 +1,20 @@
 {
-  "updated": "2026-04-18T20:32:03Z",
+  "updated": "2026-04-18T22:29:59Z",
   "news": [
+    {
+      "title": "Tesla brings its robotaxi service to Dallas and Houston",
+      "url": "https://techcrunch.com/2026/04/18/tesla-brings-its-robotaxi-service-to-dallas-and-houston/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-04-18T21:37:15Z",
+      "snippet": "Tesla is expanding its robotaxi service to Dallas and Houston, according to a social media post from the company. The post says simply that \u201cRobotaxi is now rolling out in Dallas &#38; Houston \ud83e\udd20\u201d and "
+    },
+    {
+      "title": "The RAM shortage could last years",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/914672/the-ram-shortage-could-last-years",
+      "source": "The Verge",
+      "publishedAt": "2026-04-18T21:08:45Z",
+      "snippet": "According to Nikkei Asia, even as suppliers ramp up DRAM production, manufacturers are only expected to meet 60 percent of demand by the end of 2027. SK Group chairman has even said that shortages cou"
+    },
     {
       "title": "AI chip startup Cerebras files for IPO",
       "url": "https://techcrunch.com/2026/04/18/ai-chip-startup-cerebras-files-for-ipo/",
@@ -142,13 +156,6 @@
       "snippet": "The new model, called \u03c00.7, represents what the company describes as an early but meaningful step toward the long-sought goal of a general-purpose robot brain."
     },
     {
-      "title": "OpenAI takes aim at Anthropic with beefed-up Codex that gives it more power over your desktop",
-      "url": "https://techcrunch.com/2026/04/16/openai-takes-aim-at-anthropic-with-beefed-up-codex-that-gives-it-more-power-over-your-desktop/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-04-16T19:18:41Z",
-      "snippet": "OpenAI's agentic coding tool has gotten a major makeover, with a variety of new powers and abilities."
-    },
-    {
       "title": "OpenAI\u2019s big Codex update is a direct shot at Claude Code",
       "url": "https://www.theverge.com/ai-artificial-intelligence/913034/openai-codex-updates-use-macos",
       "source": "The Verge",
@@ -168,13 +175,6 @@
       "source": "The Verge",
       "publishedAt": "2026-04-16T16:00:00Z",
       "snippet": "Google's Personal Intelligence feature, which lets Gemini pull data from apps like Google Photos to offer responses tailored to you, can now use that data and its Nano Banana 2 image model to create i"
-    },
-    {
-      "title": "Anthropic releases a new Opus model amid Mythos Preview buzz",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/913184/anthropic-claude-opus-4-7-cybersecurity",
-      "source": "The Verge",
-      "publishedAt": "2026-04-16T15:59:24Z",
-      "snippet": "Anthropic has released its most powerful \"generally available\" model to date: Claude Opus 4.7. The company called it a step up from Opus 4.6 for advanced software engineering tasks, particularly in co"
     }
   ],
   "trending": [
@@ -224,9 +224,9 @@
       "downloads": 89748
     },
     {
-      "id": "HauhauCS/Qwen3.5-9B-Uncensored-HauhauCS-Aggressive",
-      "displayName": "Qwen3.5 9B Uncensored HauhauCS Aggressive",
-      "downloads": 1023811
+      "id": "HauhauCS/Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive",
+      "displayName": "Qwen3.5 35B A3B Uncensored HauhauCS Aggressive",
+      "downloads": 1239846
     }
   ]
 }
