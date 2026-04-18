@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-18T10:36:37Z",
+  "updated": "2026-04-18T12:54:48Z",
   "news": [
     {
       "title": "Sam Altman\u2019s project World looks to scale its human verification empire. First stop: Tinder.",
@@ -194,14 +194,14 @@
       "downloads": 24052
     },
     {
-      "id": "unsloth/ERNIE-Image-Turbo-GGUF",
-      "displayName": "ERNIE Image Turbo",
-      "downloads": 19176
-    },
-    {
       "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
       "displayName": "Qwen3.6 35B A3B Uncensored HauhauCS Aggressive",
       "downloads": 92003
+    },
+    {
+      "id": "unsloth/ERNIE-Image-Turbo-GGUF",
+      "displayName": "ERNIE Image Turbo",
+      "downloads": 19176
     },
     {
       "id": "unsloth/MiniMax-M2.7-GGUF",
