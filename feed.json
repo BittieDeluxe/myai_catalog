@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-18T07:02:14Z",
+  "updated": "2026-04-18T08:43:06Z",
   "news": [
     {
       "title": "Sam Altman\u2019s project World looks to scale its human verification empire. First stop: Tinder.",
@@ -181,52 +181,52 @@
     {
       "id": "unsloth/Qwen3.6-35B-A3B-GGUF",
       "displayName": "Qwen3.6 35B A3B",
-      "downloads": 153019
+      "downloads": 442900
     },
     {
       "id": "Jiunsong/supergemma4-26b-uncensored-gguf-v2",
       "displayName": "supergemma4 26b uncensored v2",
-      "downloads": 53781
+      "downloads": 66552
     },
     {
       "id": "OBLITERATUS/gemma-4-E4B-it-OBLITERATED",
       "displayName": "gemma 4 E4B OBLITERATED",
-      "downloads": 6866
+      "downloads": 24052
     },
     {
       "id": "unsloth/ERNIE-Image-Turbo-GGUF",
       "displayName": "ERNIE Image Turbo",
-      "downloads": 13664
+      "downloads": 19176
     },
     {
       "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
       "displayName": "Qwen3.6 35B A3B Uncensored HauhauCS Aggressive",
-      "downloads": 1138
+      "downloads": 92003
     },
     {
       "id": "unsloth/MiniMax-M2.7-GGUF",
       "displayName": "MiniMax M2.7",
-      "downloads": 78293
+      "downloads": 100683
     },
     {
       "id": "HauhauCS/Gemma-4-E4B-Uncensored-HauhauCS-Aggressive",
       "displayName": "Gemma 4 E4B Uncensored HauhauCS Aggressive",
-      "downloads": 656354
+      "downloads": 704737
     },
     {
       "id": "unsloth/gemma-4-26B-A4B-it-GGUF",
       "displayName": "gemma 4 26B A4B",
-      "downloads": 2203787
+      "downloads": 2286041
+    },
+    {
+      "id": "prism-ml/Bonsai-8B-gguf",
+      "displayName": "Bonsai 8B",
+      "downloads": 89748
     },
     {
       "id": "Jackrong/Qwopus3.5-27B-v3-GGUF",
       "displayName": "Qwopus3.5 27B v3",
-      "downloads": 159276
-    },
-    {
-      "id": "HauhauCS/Qwen3.5-9B-Uncensored-HauhauCS-Aggressive",
-      "displayName": "Qwen3.5 9B Uncensored HauhauCS Aggressive",
-      "downloads": 999353
+      "downloads": 163646
     }
   ]
 }
