@@ -1,6 +1,13 @@
 {
-  "updated": "2026-04-18T14:37:24Z",
+  "updated": "2026-04-18T16:35:08Z",
   "news": [
+    {
+      "title": "Anthropic\u2019s relationship with the Trump administration seems to be thawing",
+      "url": "https://techcrunch.com/2026/04/18/anthropics-relationship-with-the-trump-administration-seems-to-be-thawing/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-04-18T14:56:48Z",
+      "snippet": "Despite recently being designated a supply-chain risk by the Pentagon, Anthropic is still talking to high-level members of the Trump administration."
+    },
     {
       "title": "The App Store is booming again, and AI may be why",
       "url": "https://techcrunch.com/2026/04/18/the-app-store-is-booming-again-and-ai-may-be-why/",
@@ -156,13 +163,6 @@
       "snippet": "Google is upgrading AI Mode in Chrome with a new feature that will allow you to open links to sources alongside your chat. Now, instead of automatically opening a new tab, clicking a source will open "
     },
     {
-      "title": "Google now lets you explore the web side-by-side with AI Mode",
-      "url": "https://techcrunch.com/2026/04/16/google-now-lets-you-explore-the-web-side-by-side-with-ai-mode/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-04-16T17:00:00Z",
-      "snippet": "Now, when you're using AI Mode on Chrome desktop, clicking a link will open the web page side-by-side with AI Mode."
-    },
-    {
       "title": "Gemini can now pull from Google Photos to generate personalized images",
       "url": "https://www.theverge.com/tech/913202/gemini-personal-intelligence-images-nano-banana",
       "source": "The Verge",
@@ -219,14 +219,14 @@
       "downloads": 2286041
     },
     {
-      "id": "HauhauCS/Qwen3.5-9B-Uncensored-HauhauCS-Aggressive",
-      "displayName": "Qwen3.5 9B Uncensored HauhauCS Aggressive",
-      "downloads": 1023811
-    },
-    {
       "id": "prism-ml/Bonsai-8B-gguf",
       "displayName": "Bonsai 8B",
       "downloads": 89748
+    },
+    {
+      "id": "HauhauCS/Qwen3.5-9B-Uncensored-HauhauCS-Aggressive",
+      "displayName": "Qwen3.5 9B Uncensored HauhauCS Aggressive",
+      "downloads": 1023811
     }
   ]
 }
