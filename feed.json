@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-18T16:35:08Z",
+  "updated": "2026-04-18T18:41:49Z",
   "news": [
     {
       "title": "Anthropic\u2019s relationship with the Trump administration seems to be thawing",
@@ -224,9 +224,9 @@
       "downloads": 89748
     },
     {
-      "id": "HauhauCS/Qwen3.5-9B-Uncensored-HauhauCS-Aggressive",
-      "displayName": "Qwen3.5 9B Uncensored HauhauCS Aggressive",
-      "downloads": 1023811
+      "id": "Jackrong/Qwopus3.5-27B-v3-GGUF",
+      "displayName": "Qwopus3.5 27B v3",
+      "downloads": 163646
     }
   ]
 }
