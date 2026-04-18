@@ -1,6 +1,13 @@
 {
-  "updated": "2026-04-18T18:41:49Z",
+  "updated": "2026-04-18T20:32:03Z",
   "news": [
+    {
+      "title": "AI chip startup Cerebras files for IPO",
+      "url": "https://techcrunch.com/2026/04/18/ai-chip-startup-cerebras-files-for-ipo/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-04-18T19:19:11Z",
+      "snippet": "In recent months, the company announced an agreement with Amazon Web Services to use Cerebras chips in Amazon data centers, as well as a deal with OpenAI reportedly worth more than $10 billion."
+    },
     {
       "title": "Anthropic\u2019s relationship with the Trump administration seems to be thawing",
       "url": "https://techcrunch.com/2026/04/18/anthropics-relationship-with-the-trump-administration-seems-to-be-thawing/",
@@ -142,13 +149,6 @@
       "snippet": "OpenAI's agentic coding tool has gotten a major makeover, with a variety of new powers and abilities."
     },
     {
-      "title": "Anthropic CPO leaves Figma\u2019s board after reports he will offer a competing product",
-      "url": "https://techcrunch.com/2026/04/16/anthropic-cpo-leaves-figmas-board-after-reports-he-will-offer-a-competing-product/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-04-16T18:28:42Z",
-      "snippet": "Krieger's departure and any forthcoming design tools will be another data point for investors who fear the SaaSpocalypse \u2014 that the largest AI labs will come to dominate software businesses, a thesis "
-    },
-    {
       "title": "OpenAI\u2019s big Codex update is a direct shot at Claude Code",
       "url": "https://www.theverge.com/ai-artificial-intelligence/913034/openai-codex-updates-use-macos",
       "source": "The Verge",
@@ -224,9 +224,9 @@
       "downloads": 89748
     },
     {
-      "id": "Jackrong/Qwopus3.5-27B-v3-GGUF",
-      "displayName": "Qwopus3.5 27B v3",
-      "downloads": 163646
+      "id": "HauhauCS/Qwen3.5-9B-Uncensored-HauhauCS-Aggressive",
+      "displayName": "Qwen3.5 9B Uncensored HauhauCS Aggressive",
+      "downloads": 1023811
     }
   ]
 }
