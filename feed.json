@@ -1,6 +1,20 @@
 {
-  "updated": "2026-04-19T18:42:23Z",
+  "updated": "2026-04-19T20:32:58Z",
   "news": [
+    {
+      "title": "Cloud development platform Vercel was hacked",
+      "url": "https://www.theverge.com/tech/914723/vercel-hacked",
+      "source": "The Verge",
+      "publishedAt": "2026-04-19T19:54:52Z",
+      "snippet": "Vercel, a major development platform that hosts and deploys web apps, was compromised, and the hackers are attempting to sell stolen data. A person claiming to be a member of ShinyHunters, which was b"
+    },
+    {
+      "title": "The 12-month window",
+      "url": "https://techcrunch.com/2026/04/19/the-12-month-window/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-04-19T19:30:00Z",
+      "snippet": "A lot of AI startups exist partly because the foundation models haven't expanded into their category yet. As many jokingly acknowledge, that won't last forever."
+    },
     {
       "title": "Palantir posts mini-manifesto denouncing inclusivity and \u2018regressive\u2019 cultures",
       "url": "https://techcrunch.com/2026/04/19/palantir-posts-mini-manifesto-denouncing-regressive-and-harmful-cultures/",
@@ -149,13 +163,6 @@
       "snippet": "The three-year-old startup raised $150 million led by Khosla Ventures."
     },
     {
-      "title": "Luma launches AI-powered production studio with faith-focused Wonder Project",
-      "url": "https://techcrunch.com/2026/04/16/luma-launches-ai-powered-production-studio-with-faith-focused-wonder-project/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-04-16T21:58:08Z",
-      "snippet": "The studio's first project will be about Moses and star Academy Award-winner Ben Kingsley, to be released this spring on Prime Video."
-    },
-    {
       "title": "OpenAI\u2019s big Codex update is a direct shot at Claude Code",
       "url": "https://www.theverge.com/ai-artificial-intelligence/913034/openai-codex-updates-use-macos",
       "source": "The Verge",
@@ -168,13 +175,6 @@
       "source": "The Verge",
       "publishedAt": "2026-04-16T17:00:00Z",
       "snippet": "Google is upgrading AI Mode in Chrome with a new feature that will allow you to open links to sources alongside your chat. Now, instead of automatically opening a new tab, clicking a source will open "
-    },
-    {
-      "title": "Gemini can now pull from Google Photos to generate personalized images",
-      "url": "https://www.theverge.com/tech/913202/gemini-personal-intelligence-images-nano-banana",
-      "source": "The Verge",
-      "publishedAt": "2026-04-16T16:00:00Z",
-      "snippet": "Google's Personal Intelligence feature, which lets Gemini pull data from apps like Google Photos to offer responses tailored to you, can now use that data and its Nano Banana 2 image model to create i"
     }
   ],
   "trending": [
