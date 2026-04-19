@@ -1,6 +1,13 @@
 {
-  "updated": "2026-04-19T14:37:33Z",
+  "updated": "2026-04-19T16:35:37Z",
   "news": [
+    {
+      "title": "TechCrunch Mobility: Uber enters its assetmaxxing era",
+      "url": "https://techcrunch.com/2026/04/19/techcrunch-mobility-uber-enters-its-assetmaxxing-era/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-04-19T16:01:00Z",
+      "snippet": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, how AI is playing a part."
+    },
     {
       "title": "Tesla brings its robotaxi service to Dallas and Houston",
       "url": "https://techcrunch.com/2026/04/18/tesla-brings-its-robotaxi-service-to-dallas-and-houston/",
@@ -149,13 +156,6 @@
       "snippet": "AI infrastructure company Upscale AI is reportedly in talks to raise its third funding round since launching just seven months ago."
     },
     {
-      "title": "Physical Intelligence, a hot robotics startup, says its new robot brain can figure out tasks it was never taught",
-      "url": "https://techcrunch.com/2026/04/16/physical-intelligence-a-hot-robotics-startup-says-its-new-robot-brain-can-figure-out-tasks-it-was-never-taught/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-04-16T20:26:44Z",
-      "snippet": "The new model, called \u03c00.7, represents what the company describes as an early but meaningful step toward the long-sought goal of a general-purpose robot brain."
-    },
-    {
       "title": "OpenAI\u2019s big Codex update is a direct shot at Claude Code",
       "url": "https://www.theverge.com/ai-artificial-intelligence/913034/openai-codex-updates-use-macos",
       "source": "The Verge",
@@ -204,24 +204,24 @@
       "downloads": 26394
     },
     {
-      "id": "HauhauCS/Gemma-4-E4B-Uncensored-HauhauCS-Aggressive",
-      "displayName": "Gemma 4 E4B Uncensored HauhauCS Aggressive",
-      "downloads": 739022
-    },
-    {
       "id": "Jackrong/Qwopus-GLM-18B-Merged-GGUF",
       "displayName": "Qwopus GLM 18B Merged",
       "downloads": 2975
     },
     {
-      "id": "unsloth/MiniMax-M2.7-GGUF",
-      "displayName": "MiniMax M2.7",
-      "downloads": 121018
+      "id": "HauhauCS/Gemma-4-E4B-Uncensored-HauhauCS-Aggressive",
+      "displayName": "Gemma 4 E4B Uncensored HauhauCS Aggressive",
+      "downloads": 739022
     },
     {
       "id": "unsloth/gemma-4-26B-A4B-it-GGUF",
       "displayName": "gemma 4 26B A4B",
       "downloads": 2364587
+    },
+    {
+      "id": "unsloth/MiniMax-M2.7-GGUF",
+      "displayName": "MiniMax M2.7",
+      "downloads": 121018
     },
     {
       "id": "prism-ml/Bonsai-8B-gguf",
