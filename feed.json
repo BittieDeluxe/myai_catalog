@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-19T08:49:49Z",
+  "updated": "2026-04-19T10:35:51Z",
   "news": [
     {
       "title": "Tesla brings its robotaxi service to Dallas and Houston",
@@ -214,14 +214,14 @@
       "downloads": 121018
     },
     {
-      "id": "unsloth/gemma-4-26B-A4B-it-GGUF",
-      "displayName": "gemma 4 26B A4B",
-      "downloads": 2364587
-    },
-    {
       "id": "Jackrong/Qwopus-GLM-18B-Merged-GGUF",
       "displayName": "Qwopus GLM 18B Merged",
       "downloads": 2975
+    },
+    {
+      "id": "unsloth/gemma-4-26B-A4B-it-GGUF",
+      "displayName": "gemma 4 26B A4B",
+      "downloads": 2364587
     },
     {
       "id": "prism-ml/Bonsai-8B-gguf",
