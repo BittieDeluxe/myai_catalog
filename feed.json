@@ -1,6 +1,13 @@
 {
-  "updated": "2026-04-19T20:32:58Z",
+  "updated": "2026-04-19T22:31:06Z",
   "news": [
+    {
+      "title": "OpenAI\u2019s existential questions",
+      "url": "https://techcrunch.com/2026/04/19/openais-existential-questions/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-04-19T21:24:06Z",
+      "snippet": "On the latest episode of Equity, we discuss OpenAI's latest acquisitions and whether they address \"two big existential problems\" for the company."
+    },
     {
       "title": "Cloud development platform Vercel was hacked",
       "url": "https://www.theverge.com/tech/914723/vercel-hacked",
@@ -156,13 +163,6 @@
       "snippet": "The gap between AI insiders and everyone else&#160;is widening, and the spending, suspicion, and even new vocabulary are starting to show it. While OpenAI is busy buying up everything from&#160;financ"
     },
     {
-      "title": "Factory hits $1.5B valuation to build AI coding for enterprises",
-      "url": "https://techcrunch.com/2026/04/16/factory-hits-1-5b-valuation-to-build-ai-coding-for-enterprises/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-04-16T22:55:30Z",
-      "snippet": "The three-year-old startup raised $150 million led by Khosla Ventures."
-    },
-    {
       "title": "OpenAI\u2019s big Codex update is a direct shot at Claude Code",
       "url": "https://www.theverge.com/ai-artificial-intelligence/913034/openai-codex-updates-use-macos",
       "source": "The Verge",
@@ -219,14 +219,14 @@
       "downloads": 2364587
     },
     {
-      "id": "unsloth/MiniMax-M2.7-GGUF",
-      "displayName": "MiniMax M2.7",
-      "downloads": 121018
-    },
-    {
       "id": "prism-ml/Bonsai-8B-gguf",
       "displayName": "Bonsai 8B",
       "downloads": 92727
+    },
+    {
+      "id": "unsloth/MiniMax-M2.7-GGUF",
+      "displayName": "MiniMax M2.7",
+      "downloads": 121018
     }
   ]
 }
