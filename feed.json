@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-19T07:17:44Z",
+  "updated": "2026-04-19T08:49:49Z",
   "news": [
     {
       "title": "Tesla brings its robotaxi service to Dallas and Houston",
@@ -181,52 +181,52 @@
     {
       "id": "unsloth/Qwen3.6-35B-A3B-GGUF",
       "displayName": "Qwen3.6 35B A3B",
-      "downloads": 442900
+      "downloads": 662293
     },
     {
       "id": "Jiunsong/supergemma4-26b-uncensored-gguf-v2",
       "displayName": "supergemma4 26b uncensored v2",
-      "downloads": 66552
+      "downloads": 72519
     },
     {
       "id": "OBLITERATUS/gemma-4-E4B-it-OBLITERATED",
       "displayName": "gemma 4 E4B OBLITERATED",
-      "downloads": 24052
+      "downloads": 37130
     },
     {
       "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
       "displayName": "Qwen3.6 35B A3B Uncensored HauhauCS Aggressive",
-      "downloads": 92003
+      "downloads": 173454
     },
     {
       "id": "unsloth/ERNIE-Image-Turbo-GGUF",
       "displayName": "ERNIE Image Turbo",
-      "downloads": 19176
-    },
-    {
-      "id": "unsloth/MiniMax-M2.7-GGUF",
-      "displayName": "MiniMax M2.7",
-      "downloads": 100683
+      "downloads": 26394
     },
     {
       "id": "HauhauCS/Gemma-4-E4B-Uncensored-HauhauCS-Aggressive",
       "displayName": "Gemma 4 E4B Uncensored HauhauCS Aggressive",
-      "downloads": 704737
+      "downloads": 739022
+    },
+    {
+      "id": "unsloth/MiniMax-M2.7-GGUF",
+      "displayName": "MiniMax M2.7",
+      "downloads": 121018
     },
     {
       "id": "unsloth/gemma-4-26B-A4B-it-GGUF",
       "displayName": "gemma 4 26B A4B",
-      "downloads": 2286041
+      "downloads": 2364587
+    },
+    {
+      "id": "Jackrong/Qwopus-GLM-18B-Merged-GGUF",
+      "displayName": "Qwopus GLM 18B Merged",
+      "downloads": 2975
     },
     {
       "id": "prism-ml/Bonsai-8B-gguf",
       "displayName": "Bonsai 8B",
-      "downloads": 89748
-    },
-    {
-      "id": "HauhauCS/Qwen3.5-9B-Uncensored-HauhauCS-Aggressive",
-      "displayName": "Qwen3.5 9B Uncensored HauhauCS Aggressive",
-      "downloads": 1023811
+      "downloads": 92727
     }
   ]
 }
