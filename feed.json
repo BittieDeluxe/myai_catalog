@@ -1,6 +1,27 @@
 {
-  "updated": "2026-04-20T15:14:04Z",
+  "updated": "2026-04-20T17:00:31Z",
   "news": [
+    {
+      "title": "Fortnite developers can make AI characters now \u2014 just don&#8217;t try to date them",
+      "url": "https://www.theverge.com/games/914963/fortnite-ai-characters-developers-conversations",
+      "source": "The Verge",
+      "publishedAt": "2026-04-20T16:58:39Z",
+      "snippet": "Following last year's AI-powered Darth Vader in Fortnite that swore in a recreation of James Earl Jones' voice, Epic Games is now letting Fortnite creators experiment with a new \"conversations\" tool t"
+    },
+    {
+      "title": "NSA spies are reportedly using Anthropic\u2019s Mythos, despite Pentagon feud",
+      "url": "https://techcrunch.com/2026/04/20/nsa-spies-are-reportedly-using-anthropics-mythos-despite-pentagon-feud/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-04-20T16:06:21Z",
+      "snippet": "NSA is said to be using Anthropic's restricted Mythos AI model."
+    },
+    {
+      "title": "CEO and CFO suddenly depart AI nuclear power upstart Fermi",
+      "url": "https://techcrunch.com/2026/04/20/fermi-ceo-and-cfo-depart-texas-nuclear-power-ai/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-04-20T15:30:19Z",
+      "snippet": "The startup, co-founded by former U.S. Energy Secretary Rick Perry, has faced headwinds with its AI campus in Texas."
+    },
     {
       "title": "OpenAI\u2019s existential questions",
       "url": "https://techcrunch.com/2026/04/19/openais-existential-questions/",
@@ -142,13 +163,6 @@
       "snippet": "Dairy Queen is becoming the latest fast food chain to get in on AI, as it's bringing a chatbot to dozens of its drive-thrus across the US and Canada. It aims to help speed up drive-thru service and \"e"
     },
     {
-      "title": "Anthropic launches Claude Design, a new product for creating quick visuals",
-      "url": "https://techcrunch.com/2026/04/17/anthropic-launches-claude-design-a-new-product-for-creating-quick-visuals/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-04-17T15:00:00Z",
-      "snippet": "The company says Claude Design is intended to help people like founders and product managers without a design background share their ideas more easily."
-    },
-    {
       "title": "The \u2018AI is inevitable\u2019 trap",
       "url": "https://www.theverge.com/podcast/913792/ai-divide-sam-altman-vergecast",
       "source": "The Verge",
@@ -156,25 +170,11 @@
       "snippet": "In the latest sign of AI silly season, Allbirds, the shoe company, told the world it was now an AI company and briefly managed to septuple its stock price. The Newbird AI story is really just one of a"
     },
     {
-      "title": "Are we\u00a0tokenmaxxing\u00a0our way to nowhere?",
-      "url": "https://techcrunch.com/video/are-we-tokenmaxxing-our-way-to-nowhere/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-04-17T13:00:00Z",
-      "snippet": "The gap between AI insiders and everyone else&#160;is widening, and the spending, suspicion, and even new vocabulary are starting to show it. While OpenAI is busy buying up everything from&#160;financ"
-    },
-    {
       "title": "OpenAI\u2019s big Codex update is a direct shot at Claude Code",
       "url": "https://www.theverge.com/ai-artificial-intelligence/913034/openai-codex-updates-use-macos",
       "source": "The Verge",
       "publishedAt": "2026-04-16T17:00:00Z",
       "snippet": "OpenAI is beefing up its agentic coding and development system, Codex, with a suite of updates that let it use your computer, generate images, and remember from past experiences. The package of update"
-    },
-    {
-      "title": "Google\u2019s AI Mode update lets you open links without leaving the page",
-      "url": "https://www.theverge.com/tech/913109/google-ai-mode-tabs-sources",
-      "source": "The Verge",
-      "publishedAt": "2026-04-16T17:00:00Z",
-      "snippet": "Google is upgrading AI Mode in Chrome with a new feature that will allow you to open links to sources alongside your chat. Now, instead of automatically opening a new tab, clicking a source will open "
     }
   ],
   "trending": [
