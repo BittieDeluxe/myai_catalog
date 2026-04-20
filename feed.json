@@ -1,6 +1,13 @@
 {
-  "updated": "2026-04-20T20:41:02Z",
+  "updated": "2026-04-20T22:39:41Z",
   "news": [
+    {
+      "title": "Google rolls out Gemini in Chrome in seven new countries",
+      "url": "https://techcrunch.com/2026/04/20/google-rolls-out-gemini-in-chrome-in-seven-new-countries/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-04-20T22:00:00Z",
+      "snippet": "Google is rolling out Gemini in Chrome in Australia, Indonesia, Japan, the Philippines, Singapore, South Korea, and Vietnam."
+    },
     {
       "title": "Silicon Valley has forgotten what normal people want",
       "url": "https://www.theverge.com/tldr/915176/nft-metaverse-ai-weirdos",
@@ -149,13 +156,6 @@
       "snippet": "Returning backers a16z and Thrive are expected to lead the round."
     },
     {
-      "title": "\u2018Tokenmaxxing\u2019 is making developers less productive than they think",
-      "url": "https://techcrunch.com/2026/04/17/tokenmaxxing-is-making-developers-less-productive-than-they-think/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-04-17T18:42:45Z",
-      "snippet": "There's a lot more code \u2014 but it's a lot more expensive and requires a lot more rewriting."
-    },
-    {
       "title": "This charming gadget writes bad AI poetry",
       "url": "https://www.theverge.com/gadgets/913981/poetry-camera-ai-hands-on",
       "source": "The Verge",
@@ -177,56 +177,5 @@
       "snippet": "In the latest sign of AI silly season, Allbirds, the shoe company, told the world it was now an AI company and briefly managed to septuple its stock price. The Newbird AI story is really just one of a"
     }
   ],
-  "trending": [
-    {
-      "id": "unsloth/Qwen3.6-35B-A3B-GGUF",
-      "displayName": "Qwen3.6 35B A3B",
-      "downloads": 816485
-    },
-    {
-      "id": "OBLITERATUS/gemma-4-E4B-it-OBLITERATED",
-      "displayName": "gemma 4 E4B OBLITERATED",
-      "downloads": 50701
-    },
-    {
-      "id": "Jiunsong/supergemma4-26b-uncensored-gguf-v2",
-      "displayName": "supergemma4 26b uncensored v2",
-      "downloads": 77195
-    },
-    {
-      "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
-      "displayName": "Qwen3.6 35B A3B Uncensored HauhauCS Aggressive",
-      "downloads": 216308
-    },
-    {
-      "id": "unsloth/ERNIE-Image-Turbo-GGUF",
-      "displayName": "ERNIE Image Turbo",
-      "downloads": 30081
-    },
-    {
-      "id": "Jackrong/Qwopus-GLM-18B-Merged-GGUF",
-      "displayName": "Qwopus GLM 18B Merged",
-      "downloads": 7182
-    },
-    {
-      "id": "HauhauCS/Gemma-4-E4B-Uncensored-HauhauCS-Aggressive",
-      "displayName": "Gemma 4 E4B Uncensored HauhauCS Aggressive",
-      "downloads": 781705
-    },
-    {
-      "id": "unsloth/gemma-4-26B-A4B-it-GGUF",
-      "displayName": "gemma 4 26B A4B",
-      "downloads": 2432222
-    },
-    {
-      "id": "prism-ml/Bonsai-8B-gguf",
-      "displayName": "Bonsai 8B",
-      "downloads": 96081
-    },
-    {
-      "id": "KyleHessling1/Qwopus-GLM-18B-Merged-GGUF",
-      "displayName": "Qwopus GLM 18B Merged",
-      "downloads": 3193
-    }
-  ]
+  "trending": []
 }
