@@ -1,6 +1,20 @@
 {
-  "updated": "2026-04-20T18:59:26Z",
+  "updated": "2026-04-20T20:41:02Z",
   "news": [
+    {
+      "title": "Silicon Valley has forgotten what normal people want",
+      "url": "https://www.theverge.com/tldr/915176/nft-metaverse-ai-weirdos",
+      "source": "The Verge",
+      "publishedAt": "2026-04-20T20:30:00Z",
+      "snippet": "One of the most mortifying things about knowing a lot of techies is listening to them tell me excitedly about some very important discovery that they believe they have made. Recently, I ran into an ac"
+    },
+    {
+      "title": "It\u2019s not just one thing \u2014 it\u2019s another thing",
+      "url": "https://techcrunch.com/2026/04/20/ai-writing-its-not-just-this-its-that-barrons/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-04-20T19:37:07Z",
+      "snippet": "This sentence construction (\"It's not just this \u2014 it's that\") has become so common in AI-generated writing that it's no longer just a clue that a piece of writing may be synthetic \u2014 it's almost a guar"
+    },
     {
       "title": "Fortnite developers can make AI characters now \u2014 just don&#8217;t try to date them",
       "url": "https://www.theverge.com/games/914963/fortnite-ai-characters-developers-conversations",
@@ -149,13 +163,6 @@
       "snippet": "I've never been as charmed and frustrated by one gadget as I have with the Poetry Camera. It's a delightful object. White and cherry red with a color-matched woven strap, it looks playful and adorably"
     },
     {
-      "title": "Tokenmaxxing, OpenAI\u2019s shopping spree, and the AI Anxiety Gap",
-      "url": "https://techcrunch.com/podcast/tokenmaxxing-openais-shopping-spree-and-the-ai-anxiety-gap/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-04-17T15:57:40Z",
-      "snippet": "The gap between AI insiders and everyone else&#160;is widening, and the spending, suspicion, and even new vocabulary are starting to show it. While OpenAI is busy buying up everything from&#160;financ"
-    },
-    {
       "title": "Dairy Queen is putting an AI chatbot in its drive-thrus",
       "url": "https://www.theverge.com/ai-artificial-intelligence/913928/dairy-queen-ai-drive-thru-presto",
       "source": "The Verge",
@@ -168,13 +175,6 @@
       "source": "The Verge",
       "publishedAt": "2026-04-17T13:24:34Z",
       "snippet": "In the latest sign of AI silly season, Allbirds, the shoe company, told the world it was now an AI company and briefly managed to septuple its stock price. The Newbird AI story is really just one of a"
-    },
-    {
-      "title": "OpenAI\u2019s big Codex update is a direct shot at Claude Code",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/913034/openai-codex-updates-use-macos",
-      "source": "The Verge",
-      "publishedAt": "2026-04-16T17:00:00Z",
-      "snippet": "OpenAI is beefing up its agentic coding and development system, Codex, with a suite of updates that let it use your computer, generate images, and remember from past experiences. The package of update"
     }
   ],
   "trending": [
