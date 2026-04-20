@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-19T22:31:06Z",
+  "updated": "2026-04-20T02:22:50Z",
   "news": [
     {
       "title": "OpenAI\u2019s existential questions",
@@ -184,14 +184,14 @@
       "downloads": 662293
     },
     {
-      "id": "Jiunsong/supergemma4-26b-uncensored-gguf-v2",
-      "displayName": "supergemma4 26b uncensored v2",
-      "downloads": 72519
-    },
-    {
       "id": "OBLITERATUS/gemma-4-E4B-it-OBLITERATED",
       "displayName": "gemma 4 E4B OBLITERATED",
       "downloads": 37130
+    },
+    {
+      "id": "Jiunsong/supergemma4-26b-uncensored-gguf-v2",
+      "displayName": "supergemma4 26b uncensored v2",
+      "downloads": 72519
     },
     {
       "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
@@ -224,9 +224,9 @@
       "downloads": 92727
     },
     {
-      "id": "unsloth/MiniMax-M2.7-GGUF",
-      "displayName": "MiniMax M2.7",
-      "downloads": 121018
+      "id": "HauhauCS/Qwen3.5-9B-Uncensored-HauhauCS-Aggressive",
+      "displayName": "Qwen3.5 9B Uncensored HauhauCS Aggressive",
+      "downloads": 1051872
     }
   ]
 }
