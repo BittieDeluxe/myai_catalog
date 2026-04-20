@@ -1,12 +1,12 @@
 {
-  "updated": "2026-04-20T17:00:31Z",
+  "updated": "2026-04-20T18:59:26Z",
   "news": [
     {
       "title": "Fortnite developers can make AI characters now \u2014 just don&#8217;t try to date them",
       "url": "https://www.theverge.com/games/914963/fortnite-ai-characters-developers-conversations",
       "source": "The Verge",
       "publishedAt": "2026-04-20T16:58:39Z",
-      "snippet": "Following last year's AI-powered Darth Vader in Fortnite that swore in a recreation of James Earl Jones' voice, Epic Games is now letting Fortnite creators experiment with a new \"conversations\" tool t"
+      "snippet": "Following last year's AI-powered Darth Vader in Fortnite that swore in a re-creation of James Earl Jones' voice, Epic Games is now letting Fortnite creators experiment with a new \"conversations\" tool "
     },
     {
       "title": "NSA spies are reportedly using Anthropic\u2019s Mythos, despite Pentagon feud",
@@ -224,9 +224,9 @@
       "downloads": 96081
     },
     {
-      "id": "HauhauCS/Qwen3.5-9B-Uncensored-HauhauCS-Aggressive",
-      "displayName": "Qwen3.5 9B Uncensored HauhauCS Aggressive",
-      "downloads": 1082872
+      "id": "KyleHessling1/Qwopus-GLM-18B-Merged-GGUF",
+      "displayName": "Qwopus GLM 18B Merged",
+      "downloads": 3193
     }
   ]
 }
