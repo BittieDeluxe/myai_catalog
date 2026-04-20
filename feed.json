@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-20T06:11:54Z",
+  "updated": "2026-04-20T09:54:44Z",
   "news": [
     {
       "title": "OpenAI\u2019s existential questions",
@@ -181,52 +181,52 @@
     {
       "id": "unsloth/Qwen3.6-35B-A3B-GGUF",
       "displayName": "Qwen3.6 35B A3B",
-      "downloads": 662293
+      "downloads": 816485
     },
     {
       "id": "OBLITERATUS/gemma-4-E4B-it-OBLITERATED",
       "displayName": "gemma 4 E4B OBLITERATED",
-      "downloads": 37130
+      "downloads": 50701
     },
     {
       "id": "Jiunsong/supergemma4-26b-uncensored-gguf-v2",
       "displayName": "supergemma4 26b uncensored v2",
-      "downloads": 72519
+      "downloads": 77195
     },
     {
       "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
       "displayName": "Qwen3.6 35B A3B Uncensored HauhauCS Aggressive",
-      "downloads": 173454
+      "downloads": 216308
     },
     {
       "id": "unsloth/ERNIE-Image-Turbo-GGUF",
       "displayName": "ERNIE Image Turbo",
-      "downloads": 26394
+      "downloads": 30081
     },
     {
       "id": "Jackrong/Qwopus-GLM-18B-Merged-GGUF",
       "displayName": "Qwopus GLM 18B Merged",
-      "downloads": 2975
+      "downloads": 7182
     },
     {
       "id": "HauhauCS/Gemma-4-E4B-Uncensored-HauhauCS-Aggressive",
       "displayName": "Gemma 4 E4B Uncensored HauhauCS Aggressive",
-      "downloads": 739022
+      "downloads": 781705
     },
     {
       "id": "unsloth/gemma-4-26B-A4B-it-GGUF",
       "displayName": "gemma 4 26B A4B",
-      "downloads": 2364587
+      "downloads": 2432222
     },
     {
       "id": "prism-ml/Bonsai-8B-gguf",
       "displayName": "Bonsai 8B",
-      "downloads": 92727
+      "downloads": 96081
     },
     {
       "id": "HauhauCS/Qwen3.5-9B-Uncensored-HauhauCS-Aggressive",
       "displayName": "Qwen3.5 9B Uncensored HauhauCS Aggressive",
-      "downloads": 1051872
+      "downloads": 1082872
     }
   ]
 }
