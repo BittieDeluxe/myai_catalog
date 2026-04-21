@@ -1,12 +1,47 @@
 {
-  "updated": "2026-04-21T19:06:09Z",
+  "updated": "2026-04-21T20:47:05Z",
   "news": [
+    {
+      "title": "Apple\u2019s John Ternus will run one of the world\u2019s most powerful companies; the job is a minefield",
+      "url": "https://techcrunch.com/2026/04/21/apples-john-ternus-will-run-one-of-the-worlds-most-powerful-companies-the-job-is-a-minefield/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-04-21T20:23:24Z",
+      "snippet": "Apple's top job comes with almost unrivaled power and money, but it comes with plenty of baggage, too."
+    },
+    {
+      "title": "AI research lab NeoCognition lands $40M seed to build agents that learn like humans",
+      "url": "https://techcrunch.com/2026/04/21/ai-research-lab-neocognition-lands-40m-seed-to-build-agents-that-learn-like-humans/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-04-21T19:11:29Z",
+      "snippet": "Founded by an OSU researcher, the startup is developing AI agents that can become experts in any domain."
+    },
+    {
+      "title": "AI backlash is coming for elections",
+      "url": "https://www.theverge.com/policy/916210/ai-midterm-elections-data-centers-jobs",
+      "source": "The Verge",
+      "publishedAt": "2026-04-21T19:00:05Z",
+      "snippet": "Ask Americans how they feel about AI and most say they have concerns. Communities have mounted resistance to data center projects, stalling them across the US. On social media, anger at AI companies a"
+    },
+    {
+      "title": "OpenAI\u2019s updated image generator can now pull information from the web",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/916166/openai-chatgpt-images-2",
+      "source": "The Verge",
+      "publishedAt": "2026-04-21T19:00:00Z",
+      "snippet": "OpenAI is rolling out the latest version of its AI-powered image generator with new \"thinking capabilities,\" allowing it to search the web to help it create multiple images from a single prompt. On Tu"
+    },
+    {
+      "title": "ChatGPT\u2019s new Images 2.0 model is surprisingly good at generating text",
+      "url": "https://techcrunch.com/2026/04/21/chatgpts-new-images-2-0-model-is-surprisingly-good-at-generating-text/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-04-21T19:00:00Z",
+      "snippet": "ChatGPT Images 2.0, the newest image-generation model from OpenAI, shows just how much AI capabilities have evolved over the last few years."
+    },
     {
       "title": "Sam Altman throws shade at Anthropic\u2019s cyber model, Mythos: \u2018fear-based marketing\u2019",
       "url": "https://techcrunch.com/2026/04/21/sam-altman-throws-shade-at-anthropics-cyber-model-mythos-fear-based-marketing/",
       "source": "TechCrunch",
       "publishedAt": "2026-04-21T18:51:52Z",
-      "snippet": "The AI industry's mudslinging continues."
+      "snippet": "This week, during a podcast appearance, OpenAI CEO Sam Altman called out his competitor's new cybersecurity model, noting that the company was using fear to make its product sound more impressive than"
     },
     {
       "title": "Framework\u2019s first eGPUs turn its laptop into a desktop PC",
@@ -140,41 +175,6 @@
       "source": "The Verge",
       "publishedAt": "2026-04-19T19:54:52Z",
       "snippet": "Vercel, a major development platform that hosts and deploys web apps, was compromised, and the hackers are attempting to sell stolen data. A person claiming to be a member of ShinyHunters, which was b"
-    },
-    {
-      "title": "The 12-month window",
-      "url": "https://techcrunch.com/2026/04/19/the-12-month-window/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-04-19T19:30:00Z",
-      "snippet": "A lot of AI startups exist partly because the foundation models haven't expanded into their category yet. As many jokingly acknowledge, that won't last forever."
-    },
-    {
-      "title": "Palantir posts mini-manifesto denouncing inclusivity and \u2018regressive\u2019 cultures",
-      "url": "https://techcrunch.com/2026/04/19/palantir-posts-mini-manifesto-denouncing-regressive-and-harmful-cultures/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-04-19T16:30:00Z",
-      "snippet": "Palantir's ideological bent has come under more scrutiny as it's worked with ICE and positioned itself as a defender of \"the West.\""
-    },
-    {
-      "title": "TechCrunch Mobility: Uber enters its assetmaxxing era",
-      "url": "https://techcrunch.com/2026/04/19/techcrunch-mobility-uber-enters-its-assetmaxxing-era/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-04-19T16:01:00Z",
-      "snippet": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, how AI is playing a part."
-    },
-    {
-      "title": "The RAM shortage could last years",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/914672/the-ram-shortage-could-last-years",
-      "source": "The Verge",
-      "publishedAt": "2026-04-18T21:08:45Z",
-      "snippet": "According to Nikkei Asia, even as suppliers ramp up DRAM production, manufacturers are only expected to meet 60 percent of demand by the end of 2027. SK Group chairman has even said that shortages cou"
-    },
-    {
-      "title": "OpenAI\u2019s former Sora boss is leaving",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/914463/openai-sora-bill-peebles-kevin-weil-leaving-departing",
-      "source": "The Verge",
-      "publishedAt": "2026-04-17T21:13:25Z",
-      "snippet": "Last month, OpenAI gave up on its Sora video generation tool, and on Friday, the Sora team's leader, Bill Peebles, announced that he is leaving the company. OpenAI has been shifting its priorities as "
     }
   ],
   "trending": [
