@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-21T20:47:05Z",
+  "updated": "2026-04-21T22:34:46Z",
   "news": [
     {
       "title": "Apple\u2019s John Ternus will run one of the world\u2019s most powerful companies; the job is a minefield",
@@ -219,14 +219,14 @@
       "downloads": 2581748
     },
     {
-      "id": "KyleHessling1/Qwopus-GLM-18B-Merged-GGUF",
-      "displayName": "Qwopus GLM 18B Merged",
-      "downloads": 4520
-    },
-    {
       "id": "unsloth/Kimi-K2.6-GGUF",
       "displayName": "Kimi K2.6",
       "downloads": 0
+    },
+    {
+      "id": "KyleHessling1/Qwopus-GLM-18B-Merged-GGUF",
+      "displayName": "Qwopus GLM 18B Merged",
+      "downloads": 4520
     }
   ]
 }
