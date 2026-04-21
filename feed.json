@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-21T05:59:54Z",
+  "updated": "2026-04-21T08:05:16Z",
   "news": [
     {
       "title": "Anthropic takes $5B from Amazon and pledges $100B in cloud spending in return",
@@ -181,52 +181,52 @@
     {
       "id": "unsloth/Qwen3.6-35B-A3B-GGUF",
       "displayName": "Qwen3.6 35B A3B",
-      "downloads": 816485
+      "downloads": 967317
     },
     {
       "id": "OBLITERATUS/gemma-4-E4B-it-OBLITERATED",
       "displayName": "gemma 4 E4B OBLITERATED",
-      "downloads": 50701
+      "downloads": 63995
     },
     {
       "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
       "displayName": "Qwen3.6 35B A3B Uncensored HauhauCS Aggressive",
-      "downloads": 216308
+      "downloads": 261086
     },
     {
       "id": "Jiunsong/supergemma4-26b-uncensored-gguf-v2",
       "displayName": "supergemma4 26b uncensored v2",
-      "downloads": 77195
+      "downloads": 94600
     },
     {
       "id": "unsloth/ERNIE-Image-Turbo-GGUF",
       "displayName": "ERNIE Image Turbo",
-      "downloads": 30081
+      "downloads": 35335
     },
     {
       "id": "Jackrong/Qwopus-GLM-18B-Merged-GGUF",
       "displayName": "Qwopus GLM 18B Merged",
-      "downloads": 7182
+      "downloads": 28638
     },
     {
       "id": "HauhauCS/Gemma-4-E4B-Uncensored-HauhauCS-Aggressive",
       "displayName": "Gemma 4 E4B Uncensored HauhauCS Aggressive",
-      "downloads": 781705
+      "downloads": 814132
     },
     {
       "id": "unsloth/gemma-4-26B-A4B-it-GGUF",
       "displayName": "gemma 4 26B A4B",
-      "downloads": 2432222
+      "downloads": 2581748
     },
     {
       "id": "KyleHessling1/Qwopus-GLM-18B-Merged-GGUF",
       "displayName": "Qwopus GLM 18B Merged",
-      "downloads": 3193
+      "downloads": 4520
     },
     {
-      "id": "Jackrong/Qwen3.5-9B-GLM5.1-Distill-v1-GGUF",
-      "displayName": "Qwen3.5 9B GLM5.1 Distill v1",
-      "downloads": 22534
+      "id": "prism-ml/Bonsai-8B-gguf",
+      "displayName": "Bonsai 8B",
+      "downloads": 98480
     }
   ]
 }
