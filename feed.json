@@ -1,12 +1,19 @@
 {
-  "updated": "2026-04-20T22:39:41Z",
+  "updated": "2026-04-21T02:10:44Z",
   "news": [
     {
-      "title": "Google rolls out Gemini in Chrome in seven new countries",
+      "title": "Anthropic takes $5B from Amazon and pledges $100B in cloud spending in return",
+      "url": "https://techcrunch.com/2026/04/20/anthropic-takes-5b-from-amazon-and-pledges-100b-in-cloud-spending-in-return/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-04-20T23:10:27Z",
+      "snippet": "Amazon has made another circular AI deal: It's investing another $5 billion in Anthropic. Anthropic has agreed to spend $100 billion on AWS in return."
+    },
+    {
+      "title": "Google rolls out Gemini in Chrome in 7 new countries",
       "url": "https://techcrunch.com/2026/04/20/google-rolls-out-gemini-in-chrome-in-seven-new-countries/",
       "source": "TechCrunch",
       "publishedAt": "2026-04-20T22:00:00Z",
-      "snippet": "Google is rolling out Gemini in Chrome in Australia, Indonesia, Japan, the Philippines, Singapore, South Korea, and Vietnam."
+      "snippet": "Google is rolling out Gemini in Chrome in Australia, Indonesia, Japan, the Philippines, Singapore, South Korea, and Vietnam. The company is rolling this feature out to both desktop and iOS in all of t"
     },
     {
       "title": "Silicon Valley has forgotten what normal people want",
@@ -149,13 +156,6 @@
       "snippet": "The Trump administration has spent nearly two months fighting with AI company Anthropic. It's dubbed the company a \"RADICAL LEFT, WOKE COMPANY\" full of \"Leftwing nut jobs\" and a menace to national sec"
     },
     {
-      "title": "Sources: Cursor in talks to raise $2B+ at $50B valuation as enterprise growth surges",
-      "url": "https://techcrunch.com/2026/04/17/sources-cursor-in-talks-to-raise-2b-at-50b-valuation-as-enterprise-growth-surges/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-04-17T19:17:26Z",
-      "snippet": "Returning backers a16z and Thrive are expected to lead the round."
-    },
-    {
       "title": "This charming gadget writes bad AI poetry",
       "url": "https://www.theverge.com/gadgets/913981/poetry-camera-ai-hands-on",
       "source": "The Verge",
@@ -177,5 +177,56 @@
       "snippet": "In the latest sign of AI silly season, Allbirds, the shoe company, told the world it was now an AI company and briefly managed to septuple its stock price. The Newbird AI story is really just one of a"
     }
   ],
-  "trending": []
+  "trending": [
+    {
+      "id": "unsloth/Qwen3.6-35B-A3B-GGUF",
+      "displayName": "Qwen3.6 35B A3B",
+      "downloads": 816485
+    },
+    {
+      "id": "OBLITERATUS/gemma-4-E4B-it-OBLITERATED",
+      "displayName": "gemma 4 E4B OBLITERATED",
+      "downloads": 50701
+    },
+    {
+      "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
+      "displayName": "Qwen3.6 35B A3B Uncensored HauhauCS Aggressive",
+      "downloads": 216308
+    },
+    {
+      "id": "Jiunsong/supergemma4-26b-uncensored-gguf-v2",
+      "displayName": "supergemma4 26b uncensored v2",
+      "downloads": 77195
+    },
+    {
+      "id": "unsloth/ERNIE-Image-Turbo-GGUF",
+      "displayName": "ERNIE Image Turbo",
+      "downloads": 30081
+    },
+    {
+      "id": "Jackrong/Qwopus-GLM-18B-Merged-GGUF",
+      "displayName": "Qwopus GLM 18B Merged",
+      "downloads": 7182
+    },
+    {
+      "id": "HauhauCS/Gemma-4-E4B-Uncensored-HauhauCS-Aggressive",
+      "displayName": "Gemma 4 E4B Uncensored HauhauCS Aggressive",
+      "downloads": 781705
+    },
+    {
+      "id": "unsloth/gemma-4-26B-A4B-it-GGUF",
+      "displayName": "gemma 4 26B A4B",
+      "downloads": 2432222
+    },
+    {
+      "id": "KyleHessling1/Qwopus-GLM-18B-Merged-GGUF",
+      "displayName": "Qwopus GLM 18B Merged",
+      "downloads": 3193
+    },
+    {
+      "id": "prism-ml/Bonsai-8B-gguf",
+      "displayName": "Bonsai 8B",
+      "downloads": 96081
+    }
+  ]
 }
