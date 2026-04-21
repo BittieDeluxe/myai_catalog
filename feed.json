@@ -1,6 +1,27 @@
 {
-  "updated": "2026-04-21T13:17:23Z",
+  "updated": "2026-04-21T15:09:27Z",
   "news": [
+    {
+      "title": "YouTube expands its AI likeness detection technology to celebrities",
+      "url": "https://techcrunch.com/2026/04/21/youtube-expands-its-ai-likeness-detection-technology-to-celebrities/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-04-21T15:02:06Z",
+      "snippet": "YouTube is expanding its AI likeness detection tool to celebrities, giving talent and their reps a way to find and remove deepfakes."
+    },
+    {
+      "title": "John Ternus\u2019s first big problem is AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/915662/john-ternus-apple-ceo-tim-cook-ai-problem-siri",
+      "source": "The Verge",
+      "publishedAt": "2026-04-21T13:37:55Z",
+      "snippet": "Less than a year ago, Apple made headlines for a lack of AI announcements at its annual WWDC event. Ten months later, the company has announced that hardware executive John Ternus will succeed longtim"
+    },
+    {
+      "title": "GRAI believes AI can make music more social, not replace artists",
+      "url": "https://techcrunch.com/2026/04/21/grai-believes-ai-can-make-music-more-social-not-replace-artists/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-04-21T13:00:00Z",
+      "snippet": "AI music startup GRAI says fans want to remix tracks, not generate songs from scratch."
+    },
     {
       "title": "Yelp is making its AI chatbot way more useful",
       "url": "https://www.theverge.com/ai-artificial-intelligence/915626/yelp-ai-assistant-chatbot-major-upgrade",
@@ -16,7 +37,7 @@
       "snippet": "Amazon has made another circular AI deal: It's investing another $5 billion in Anthropic. Anthropic has agreed to spend $100 billion on AWS in return."
     },
     {
-      "title": "Google rolls out Gemini in Chrome in 7 new countries",
+      "title": "Google rolls out Gemini in Chrome in APAC countries",
       "url": "https://techcrunch.com/2026/04/20/google-rolls-out-gemini-in-chrome-in-seven-new-countries/",
       "source": "TechCrunch",
       "publishedAt": "2026-04-20T22:00:00Z",
@@ -128,13 +149,6 @@
       "snippet": "New data from Appfigures shows a swell of new app launches in 2026, suggesting AI tools could be fueling a mobile software boom."
     },
     {
-      "title": "Sam Altman\u2019s project World looks to scale its human verification empire. First stop: Tinder.",
-      "url": "https://techcrunch.com/2026/04/17/sam-altmans-project-world-looks-to-scale-its-human-verification-empire-first-stop-tinder/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-04-17T22:34:02Z",
-      "snippet": "World, which has raised eyebrows (but also a lot of interest) with its Orb-centered anonymous verification project, is looking to expand its influence via a bevy of new partnerships."
-    },
-    {
       "title": "OpenAI\u2019s former Sora boss is leaving",
       "url": "https://www.theverge.com/ai-artificial-intelligence/914463/openai-sora-bill-peebles-kevin-weil-leaving-departing",
       "source": "The Verge",
@@ -149,13 +163,6 @@
       "snippet": "Tinder users who prove they're a real person by visiting an identity-verifying orb will soon be able to get five free boosts in the app - and it's just the latest service to embrace the orb. World, wh"
     },
     {
-      "title": "Kevin Weil and Bill Peebles exit OpenAI as company continues to shed \u2018side quests\u2019",
-      "url": "https://techcrunch.com/2026/04/17/kevin-weil-and-bill-peebles-exit-openai-as-company-continues-to-shed-side-quests/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-04-17T20:38:17Z",
-      "snippet": "Kevin Weil and Bill Peebles are leaving OpenAI as the company shuts down Sora and folds its science team, signaling a sharp pivot away from consumer moonshots toward enterprise AI."
-    },
-    {
       "title": "Anthropic\u2019s new cybersecurity model could get it back in the government\u2019s good graces",
       "url": "https://www.theverge.com/ai-artificial-intelligence/914229/tides-turning-anthropic-trump-administration-cybersecurity-mythos-preview",
       "source": "The Verge",
@@ -168,13 +175,6 @@
       "source": "The Verge",
       "publishedAt": "2026-04-17T17:30:00Z",
       "snippet": "I've never been as charmed and frustrated by one gadget as I have with the Poetry Camera. It's a delightful object. White and cherry red with a color-matched woven strap, it looks playful and adorably"
-    },
-    {
-      "title": "Dairy Queen is putting an AI chatbot in its drive-thrus",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/913928/dairy-queen-ai-drive-thru-presto",
-      "source": "The Verge",
-      "publishedAt": "2026-04-17T15:46:37Z",
-      "snippet": "Dairy Queen is becoming the latest fast food chain to get in on AI, as it's bringing a chatbot to dozens of its drive-thrus across the US and Canada. It aims to help speed up drive-thru service and \"e"
     }
   ],
   "trending": [
