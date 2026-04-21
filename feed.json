@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-21T02:10:44Z",
+  "updated": "2026-04-21T05:59:54Z",
   "news": [
     {
       "title": "Anthropic takes $5B from Amazon and pledges $100B in cloud spending in return",
@@ -224,9 +224,9 @@
       "downloads": 3193
     },
     {
-      "id": "prism-ml/Bonsai-8B-gguf",
-      "displayName": "Bonsai 8B",
-      "downloads": 96081
+      "id": "Jackrong/Qwen3.5-9B-GLM5.1-Distill-v1-GGUF",
+      "displayName": "Qwen3.5 9B GLM5.1 Distill v1",
+      "downloads": 22534
     }
   ]
 }
