@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-21T11:02:50Z",
+  "updated": "2026-04-21T13:17:23Z",
   "news": [
     {
       "title": "Yelp is making its AI chatbot way more useful",
@@ -224,9 +224,9 @@
       "downloads": 4520
     },
     {
-      "id": "Jackrong/Qwen3.5-9B-GLM5.1-Distill-v1-GGUF",
-      "displayName": "Qwen3.5 9B GLM5.1 Distill v1",
-      "downloads": 24684
+      "id": "unsloth/Kimi-K2.6-GGUF",
+      "displayName": "Kimi K2.6",
+      "downloads": 0
     }
   ]
 }
