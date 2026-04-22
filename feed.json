@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-22T05:57:32Z",
+  "updated": "2026-04-22T07:52:32Z",
   "news": [
     {
       "title": "Meta will record employees\u2019 keystrokes and use it to train its AI models",
@@ -181,52 +181,52 @@
     {
       "id": "unsloth/Qwen3.6-35B-A3B-GGUF",
       "displayName": "Qwen3.6 35B A3B",
-      "downloads": 967317
+      "downloads": 1112454
     },
     {
       "id": "OBLITERATUS/gemma-4-E4B-it-OBLITERATED",
       "displayName": "gemma 4 E4B OBLITERATED",
-      "downloads": 63995
+      "downloads": 79024
     },
     {
       "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
       "displayName": "Qwen3.6 35B A3B Uncensored HauhauCS Aggressive",
-      "downloads": 261086
+      "downloads": 312962
     },
     {
       "id": "Jiunsong/supergemma4-26b-uncensored-gguf-v2",
       "displayName": "supergemma4 26b uncensored v2",
-      "downloads": 94600
+      "downloads": 111654
     },
     {
       "id": "Jackrong/Qwopus-GLM-18B-Merged-GGUF",
       "displayName": "Qwopus GLM 18B Merged",
-      "downloads": 28638
-    },
-    {
-      "id": "unsloth/ERNIE-Image-Turbo-GGUF",
-      "displayName": "ERNIE Image Turbo",
-      "downloads": 35335
-    },
-    {
-      "id": "HauhauCS/Gemma-4-E4B-Uncensored-HauhauCS-Aggressive",
-      "displayName": "Gemma 4 E4B Uncensored HauhauCS Aggressive",
-      "downloads": 814132
+      "downloads": 51137
     },
     {
       "id": "hesamation/Qwen3.6-35B-A3B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
       "displayName": "Qwen3.6 35B A3B Claude 4.6 Opus Reasoning Distilled",
-      "downloads": 16897
+      "downloads": 44930
+    },
+    {
+      "id": "HauhauCS/Gemma-4-E4B-Uncensored-HauhauCS-Aggressive",
+      "displayName": "Gemma 4 E4B Uncensored HauhauCS Aggressive",
+      "downloads": 841003
+    },
+    {
+      "id": "unsloth/ERNIE-Image-Turbo-GGUF",
+      "displayName": "ERNIE Image Turbo",
+      "downloads": 38354
     },
     {
       "id": "KyleHessling1/Qwopus-GLM-18B-Merged-GGUF",
       "displayName": "Qwopus GLM 18B Merged",
-      "downloads": 4520
+      "downloads": 6740
     },
     {
       "id": "unsloth/Kimi-K2.6-GGUF",
       "displayName": "Kimi K2.6",
-      "downloads": 0
+      "downloads": 2958
     }
   ]
 }
