@@ -1,6 +1,20 @@
 {
-  "updated": "2026-04-22T13:18:37Z",
+  "updated": "2026-04-22T15:08:42Z",
   "news": [
+    {
+      "title": "Now Meta will track what employees do on their computers to train its AI agents",
+      "url": "https://www.theverge.com/tech/916681/meta-ai-agents-employee-tracking",
+      "source": "The Verge",
+      "publishedAt": "2026-04-22T14:22:35Z",
+      "snippet": "Meta employees' activity at work is now being used to train the company's AI agents. As reported by Reuters, Meta is installing a tool it calls Model Capability Initiative (MCI) on US-based employees'"
+    },
+    {
+      "title": "OpenAI teams up with Infosys to bring AI tools to more businesses",
+      "url": "https://techcrunch.com/2026/04/22/openai-teams-up-with-infosys-to-bring-ai-tools-to-more-businesses/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-04-22T14:22:10Z",
+      "snippet": "Infosys said the integration will be used to help its clients modernize software development, automate workflows and deploy AI systems, initially focusing software engineering, legacy modernization, a"
+    },
     {
       "title": "AI is spitting out more potential drugs than ever. This start-up wants to figure out which ones matter.",
       "url": "https://techcrunch.com/2026/04/22/ai-is-spitting-out-more-potential-drugs-than-ever-this-start-up-wants-to-figure-out-which-ones-matter/",
@@ -149,13 +163,6 @@
       "snippet": "Bond wants you to get off the couch and get back into the real world, its creator says. The new platform's AI system is designed to motivate users to do things away from the app."
     },
     {
-      "title": "YouTube expands its AI likeness detection technology to celebrities",
-      "url": "https://techcrunch.com/2026/04/21/youtube-expands-its-ai-likeness-detection-technology-to-celebrities/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-04-21T15:02:06Z",
-      "snippet": "YouTube is expanding its AI likeness detection tool to celebrities, giving talent and their reps a way to find and remove deepfakes."
-    },
-    {
       "title": "John Ternus\u2019 first big problem is AI",
       "url": "https://www.theverge.com/ai-artificial-intelligence/915662/john-ternus-apple-ceo-tim-cook-ai-problem-siri",
       "source": "The Verge",
@@ -168,13 +175,6 @@
       "source": "The Verge",
       "publishedAt": "2026-04-21T11:00:00Z",
       "snippet": "Yelp is giving its chatbot assistant a major upgrade, turning the platform into something closer to a digital concierge with a suite of new features designed for \"getting things done.\" The move, one o"
-    },
-    {
-      "title": "Silicon Valley has forgotten what normal people want",
-      "url": "https://www.theverge.com/tldr/915176/nft-metaverse-ai-weirdos",
-      "source": "The Verge",
-      "publishedAt": "2026-04-20T20:30:00Z",
-      "snippet": "One of the most mortifying things about knowing a lot of techies is listening to them tell me excitedly about some very important discovery that they believe they have made. Recently, I ran into an ac"
     }
   ],
   "trending": [
