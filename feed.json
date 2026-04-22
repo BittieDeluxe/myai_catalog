@@ -1,6 +1,13 @@
 {
-  "updated": "2026-04-22T09:16:16Z",
+  "updated": "2026-04-22T11:01:14Z",
   "news": [
+    {
+      "title": "Anthropic\u2019s most dangerous AI model just fell into the wrong hands",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/916501/anthropic-mythos-unauthorized-users-access-security",
+      "source": "The Verge",
+      "publishedAt": "2026-04-22T09:18:40Z",
+      "snippet": "Anthropic's Mythos AI model, a powerful cybersecurity tool that the company said could be dangerous in the wrong hands, has been accessed by a \"small group of unauthorized users,\" Bloomberg reports. A"
+    },
     {
       "title": "Meta will record employees\u2019 keystrokes and use it to train its AI models",
       "url": "https://techcrunch.com/2026/04/21/meta-will-record-employees-keystrokes-and-use-it-to-train-its-ai-models/",
@@ -168,13 +175,6 @@
       "source": "TechCrunch",
       "publishedAt": "2026-04-20T19:37:07Z",
       "snippet": "This sentence construction (\"It's not just this \u2014 it's that\") has become so common in AI-generated writing that it's no longer just a clue that a piece of writing may be synthetic \u2014 it's almost a guar"
-    },
-    {
-      "title": "Fortnite developers can make AI characters now \u2014 just don&#8217;t try to date them",
-      "url": "https://www.theverge.com/games/914963/fortnite-ai-characters-developers-conversations",
-      "source": "The Verge",
-      "publishedAt": "2026-04-20T16:58:39Z",
-      "snippet": "Following last year's AI-powered Darth Vader in Fortnite that swore in a re-creation of James Earl Jones' voice, Epic Games is now letting Fortnite creators experiment with a new \"conversations\" tool "
     }
   ],
   "trending": [
@@ -194,14 +194,14 @@
       "downloads": 312962
     },
     {
-      "id": "Jiunsong/supergemma4-26b-uncensored-gguf-v2",
-      "displayName": "supergemma4 26b uncensored v2",
-      "downloads": 111654
-    },
-    {
       "id": "Jackrong/Qwopus-GLM-18B-Merged-GGUF",
       "displayName": "Qwopus GLM 18B Merged",
       "downloads": 51137
+    },
+    {
+      "id": "Jiunsong/supergemma4-26b-uncensored-gguf-v2",
+      "displayName": "supergemma4 26b uncensored v2",
+      "downloads": 111654
     },
     {
       "id": "hesamation/Qwen3.6-35B-A3B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
@@ -219,14 +219,14 @@
       "downloads": 38354
     },
     {
-      "id": "unsloth/Kimi-K2.6-GGUF",
-      "displayName": "Kimi K2.6",
-      "downloads": 2958
-    },
-    {
       "id": "KyleHessling1/Qwopus-GLM-18B-Merged-GGUF",
       "displayName": "Qwopus GLM 18B Merged",
       "downloads": 6740
+    },
+    {
+      "id": "unsloth/Kimi-K2.6-GGUF",
+      "displayName": "Kimi K2.6",
+      "downloads": 2958
     }
   ]
 }
