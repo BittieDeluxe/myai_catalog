@@ -1,6 +1,13 @@
 {
-  "updated": "2026-04-22T20:51:15Z",
+  "updated": "2026-04-22T22:43:01Z",
   "news": [
+    {
+      "title": "Hands on with X\u2019s new AI-powered custom feeds",
+      "url": "https://techcrunch.com/2026/04/22/hands-on-with-xs-new-ai-powered-custom-feeds/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-04-22T22:25:53Z",
+      "snippet": "X's AI-powered custom timelines are replacing Communities, with Grok-curated feeds...and new ad slots."
+    },
     {
       "title": "AI failure could trigger the next financial crisis, warns Elizabeth Warren",
       "url": "https://www.theverge.com/policy/917026/ai-economy-bubble-elizabeth-warren",
@@ -156,13 +163,6 @@
       "snippet": "Apple's top job comes with almost unrivaled power and money, but it comes with plenty of baggage, too."
     },
     {
-      "title": "AI research lab NeoCognition lands $40M seed to build agents that learn like humans",
-      "url": "https://techcrunch.com/2026/04/21/ai-research-lab-neocognition-lands-40m-seed-to-build-agents-that-learn-like-humans/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-04-21T19:11:29Z",
-      "snippet": "Founded by an OSU researcher, the startup is developing AI agents that can become experts in any domain."
-    },
-    {
       "title": "AI backlash is coming for elections",
       "url": "https://www.theverge.com/policy/916210/ai-midterm-elections-data-centers-jobs",
       "source": "The Verge",
@@ -194,14 +194,14 @@
       "downloads": 79024
     },
     {
-      "id": "Jackrong/Qwopus-GLM-18B-Merged-GGUF",
-      "displayName": "Qwopus GLM 18B Merged",
-      "downloads": 51137
-    },
-    {
       "id": "unsloth/Qwen3.6-27B-GGUF",
       "displayName": "Qwen3.6 27B",
       "downloads": 0
+    },
+    {
+      "id": "Jackrong/Qwopus-GLM-18B-Merged-GGUF",
+      "displayName": "Qwopus GLM 18B Merged",
+      "downloads": 51137
     },
     {
       "id": "Jiunsong/supergemma4-26b-uncensored-gguf-v2",
@@ -224,9 +224,9 @@
       "downloads": 2958
     },
     {
-      "id": "unsloth/ERNIE-Image-Turbo-GGUF",
-      "displayName": "ERNIE Image Turbo",
-      "downloads": 38354
+      "id": "KyleHessling1/Qwopus-GLM-18B-Merged-GGUF",
+      "displayName": "Qwopus GLM 18B Merged",
+      "downloads": 6740
     }
   ]
 }
