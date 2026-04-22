@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-22T07:52:32Z",
+  "updated": "2026-04-22T09:16:16Z",
   "news": [
     {
       "title": "Meta will record employees\u2019 keystrokes and use it to train its AI models",
@@ -219,14 +219,14 @@
       "downloads": 38354
     },
     {
-      "id": "KyleHessling1/Qwopus-GLM-18B-Merged-GGUF",
-      "displayName": "Qwopus GLM 18B Merged",
-      "downloads": 6740
-    },
-    {
       "id": "unsloth/Kimi-K2.6-GGUF",
       "displayName": "Kimi K2.6",
       "downloads": 2958
+    },
+    {
+      "id": "KyleHessling1/Qwopus-GLM-18B-Merged-GGUF",
+      "displayName": "Qwopus GLM 18B Merged",
+      "downloads": 6740
     }
   ]
 }
