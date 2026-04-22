@@ -1,6 +1,41 @@
 {
-  "updated": "2026-04-22T16:54:37Z",
+  "updated": "2026-04-22T19:08:09Z",
   "news": [
+    {
+      "title": "Google Cloud launches two new AI chips to compete with Nvidia",
+      "url": "https://techcrunch.com/2026/04/22/google-cloud-next-new-tpu-ai-chips-compete-with-nvidia/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-04-22T18:39:27Z",
+      "snippet": "Google's newest TPUs are faster and cheaper than the previous versions. But the company is still embracing Nvidia in its cloud \u2014\u00a0for now."
+    },
+    {
+      "title": "Watch Sony\u2019s elite ping-pong robot beat top-ranked players",
+      "url": "https://www.theverge.com/tech/916800/sony-ai-ace-ping-pong-table-tennis-robot-cameras",
+      "source": "The Verge",
+      "publishedAt": "2026-04-22T17:43:38Z",
+      "snippet": "Humans have been building ping-pong playing robots for decades, such as Omron's FORPHEUS that challenged amateur competitors at CES 2017. What sets Ace apart from the rest is that the robot, which was"
+    },
+    {
+      "title": "Google turns Chrome into an AI co-worker for the workplace",
+      "url": "https://techcrunch.com/2026/04/22/google-turns-chrome-into-an-ai-coworker-for-the-workplace/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-04-22T17:30:00Z",
+      "snippet": "Google brings Gemini-powered \"auto browse\" capabilities to Chrome for enterprise users, letting workers automate tasks like research, data entry, and more."
+    },
+    {
+      "title": "Google makes an interesting choice with its new agent-building tool for enterprises",
+      "url": "https://techcrunch.com/2026/04/22/google-makes-an-interesting-choice-with-its-new-agent-building-tool-for-enterprises/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-04-22T16:58:27Z",
+      "snippet": "Gemini Enterprise Agent Platform takes an interesting approach: It is geared for IT and technical users."
+    },
+    {
+      "title": "Anthropic&#8217;s Mythos rollout has missed America\u2019s cybersecurity agency",
+      "url": "https://www.theverge.com/policy/916758/anthropic-mythos-preview-cisa-left-out",
+      "source": "The Verge",
+      "publishedAt": "2026-04-22T16:57:36Z",
+      "snippet": "Several US federal agencies are taking up Anthropic's new cybersecurity model to find vulnerabilities, but one is reportedly not getting in on the action: the nation's central cybersecurity coordinato"
+    },
     {
       "title": "AI Overviews are coming to your Gmail at work",
       "url": "https://techcrunch.com/2026/04/22/ai-overviews-are-coming-to-your-gmail-at-work/",
@@ -37,18 +72,18 @@
       "snippet": "10x Science has raised a $4.8 million seed round to help pharmaceutical researchers understand complex molecules."
     },
     {
+      "title": "Exclusive: Google deepens Thinking Machines Lab ties with new multibillion-dollar deal",
+      "url": "https://techcrunch.com/2026/04/22/exclusive-google-deepens-thinking-machines-lab-ties-with-new-multi-billion-dollar-deal/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-04-22T12:00:00Z",
+      "snippet": "Mira Murati's Thinking Machines Lab has signed a multibillion-dollar deal with Google Cloud for AI infrastructure powered by Nvidia's latest GB300 chips, TechCrunch has exclusively learned."
+    },
+    {
       "title": "Google Maps is about to get a big dose of AI",
       "url": "https://techcrunch.com/2026/04/22/google-maps-is-about-to-get-a-big-dose-of-ai/",
       "source": "TechCrunch",
       "publishedAt": "2026-04-22T12:00:00Z",
-      "snippet": "Generative AI is being infused into Google's popular feature within Maps."
-    },
-    {
-      "title": "Exclusive: Google deepens Thinking Machines Lab ties with new multi-billion-dollar deal",
-      "url": "https://techcrunch.com/2026/04/22/exclusive-google-deepens-thinking-machines-lab-ties-with-new-multi-billion-dollar-deal/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-04-22T12:00:00Z",
-      "snippet": "Mira Murati's Thinking Machines Lab has signed a multi-billion-dollar deal with Google Cloud for AI infrastructure powered by Nvidia's latest GB300 chips, TechCrunch has exclusively learned."
+      "snippet": "The new features, announced at Cloud Next in Las Vegas this week, add generative AI capabilities to Google's mapping platform, giving it enhanced visual and data analytics powers."
     },
     {
       "title": "The most interesting startups showcased at Google Cloud Next\u00a02026",
@@ -128,13 +163,6 @@
       "snippet": "ChatGPT Images 2.0, the newest image-generation model from OpenAI, shows just how much AI capabilities have evolved over the last few years."
     },
     {
-      "title": "Sam Altman throws shade at Anthropic\u2019s cyber model, Mythos: \u2018fear-based marketing\u2019",
-      "url": "https://techcrunch.com/2026/04/21/sam-altman-throws-shade-at-anthropics-cyber-model-mythos-fear-based-marketing/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-04-21T18:51:52Z",
-      "snippet": "This week, during a podcast appearance, OpenAI CEO Sam Altman called out his competitor's new cybersecurity model, noting that the company was using fear to make its product sound more impressive than"
-    },
-    {
       "title": "Framework\u2019s first eGPUs turn its laptop into a desktop PC",
       "url": "https://www.theverge.com/gadgets/915328/framework-oculink-egpu-dev-kit-laptop-16",
       "source": "The Verge",
@@ -147,34 +175,6 @@
       "source": "The Verge",
       "publishedAt": "2026-04-21T17:30:24Z",
       "snippet": "YouTube is expanding its AI deepfake monitoring feature to Hollywood - meaning some celebrity AI videos could soon disappear. The platform's likeness detection feature searches YouTube for AI deepfake"
-    },
-    {
-      "title": "Clarifai deletes 3 million photos that OkCupid provided to train facial recognition AI, report says",
-      "url": "https://techcrunch.com/2026/04/21/clarifai-okcupid-facial-recognition-ai-ftc-settlement/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-04-21T17:11:01Z",
-      "snippet": "The photo deletion comes after an FTC settlement with Clarifai. The company had asked OkCupid \u2014 whose executives had invested in Clarifai \u2014 to share data in 2014, according to court documents."
-    },
-    {
-      "title": "Ordering with the Starbucks ChatGPT app was a true coffee nightmare",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/915821/starbucks-chatgpt-app-testing",
-      "source": "The Verge",
-      "publishedAt": "2026-04-21T16:19:40Z",
-      "snippet": "Venti iced coffee, light skim milk. That's what I get at Starbucks. It is what I have gotten at Starbucks every time I've been to Starbucks for as long as I can remember, other than a brief love affai"
-    },
-    {
-      "title": "AI Dungeon maker Latitude unveils Voyage, a platform for creating AI-powered RPGs",
-      "url": "https://techcrunch.com/2026/04/21/voyage-is-an-ai-rpg-platform-for-creating-custom-gaming-worlds-with-ai-generated-npc-interactions/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-04-21T16:00:00Z",
-      "snippet": "Latitude's new AI-native platform, Voyage, aims to help gamers create their very own role-playing game."
-    },
-    {
-      "title": "John Ternus\u2019 first big problem is AI",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/915662/john-ternus-apple-ceo-tim-cook-ai-problem-siri",
-      "source": "The Verge",
-      "publishedAt": "2026-04-21T13:37:55Z",
-      "snippet": "Less than a year ago, Apple made headlines for a lack of AI announcements at its annual WWDC event. Ten months later, the company has announced that hardware executive John Ternus will succeed longtim"
     }
   ],
   "trending": [
@@ -204,14 +204,14 @@
       "downloads": 111654
     },
     {
-      "id": "hesamation/Qwen3.6-35B-A3B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
-      "displayName": "Qwen3.6 35B A3B Claude 4.6 Opus Reasoning Distilled",
-      "downloads": 44930
-    },
-    {
       "id": "unsloth/Qwen3.6-27B-GGUF",
       "displayName": "Qwen3.6 27B",
       "downloads": 0
+    },
+    {
+      "id": "hesamation/Qwen3.6-35B-A3B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
+      "displayName": "Qwen3.6 35B A3B Claude 4.6 Opus Reasoning Distilled",
+      "downloads": 44930
     },
     {
       "id": "HauhauCS/Gemma-4-E4B-Uncensored-HauhauCS-Aggressive",
