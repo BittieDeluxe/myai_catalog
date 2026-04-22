@@ -1,6 +1,27 @@
 {
-  "updated": "2026-04-22T19:08:09Z",
+  "updated": "2026-04-22T20:51:15Z",
   "news": [
+    {
+      "title": "AI failure could trigger the next financial crisis, warns Elizabeth Warren",
+      "url": "https://www.theverge.com/policy/917026/ai-economy-bubble-elizabeth-warren",
+      "source": "The Verge",
+      "publishedAt": "2026-04-22T20:29:05Z",
+      "snippet": "\"I know a bubble when I see one.\" That's what Sen. Elizabeth Warren (D-MA), who led the push to create a new consumer financial regulator in the wake of the 2008 recession, told a crowd at a Vanderbil"
+    },
+    {
+      "title": "OpenAI now lets teams make custom bots that can do work on their own",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/917065/openai-chatgpt-workspace-agents-custom-teams-bots",
+      "source": "The Verge",
+      "publishedAt": "2026-04-22T20:09:02Z",
+      "snippet": "OpenAI is giving users of its Business, Enterprise, Edu, and Teachers plans access to cloud-based \"workspace\" agents available in ChatGPT that can perform business tasks. In its blog post, OpenAI give"
+    },
+    {
+      "title": "How SpaceX preempted a $2B fundraise with a $60B buyout offer",
+      "url": "https://techcrunch.com/2026/04/22/how-spacex-preempted-a-2b-fundraise-with-a-60b-buyout-offer/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-04-22T19:51:51Z",
+      "snippet": "Cursor was on track to close a $2 billion funding round this week but chose to halt discussions after SpaceX offered a $10 billion \"collaboration fee\" and a path to a $60 billion acquisition."
+    },
     {
       "title": "Google Cloud launches two new AI chips to compete with Nvidia",
       "url": "https://techcrunch.com/2026/04/22/google-cloud-next-new-tpu-ai-chips-compete-with-nvidia/",
@@ -154,27 +175,6 @@
       "source": "The Verge",
       "publishedAt": "2026-04-21T19:00:00Z",
       "snippet": "OpenAI is rolling out the latest version of its AI-powered image generator with new \"thinking capabilities,\" allowing it to search the web to help it create multiple images from a single prompt. On Tu"
-    },
-    {
-      "title": "ChatGPT\u2019s new Images 2.0 model is surprisingly good at generating text",
-      "url": "https://techcrunch.com/2026/04/21/chatgpts-new-images-2-0-model-is-surprisingly-good-at-generating-text/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-04-21T19:00:00Z",
-      "snippet": "ChatGPT Images 2.0, the newest image-generation model from OpenAI, shows just how much AI capabilities have evolved over the last few years."
-    },
-    {
-      "title": "Framework\u2019s first eGPUs turn its laptop into a desktop PC",
-      "url": "https://www.theverge.com/gadgets/915328/framework-oculink-egpu-dev-kit-laptop-16",
-      "source": "The Verge",
-      "publishedAt": "2026-04-21T18:07:24Z",
-      "snippet": "Remember when Framework made the first laptop where you can easily upgrade its entire internal video card in three minutes flat? The company's getting into the external graphics game, too. As promised"
-    },
-    {
-      "title": "Celebrities will be able to find and request removal of AI deepfakes on YouTube",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/915872/celebrities-will-be-able-to-find-and-request-removal-of-ai-deepfakes-on-youtube",
-      "source": "The Verge",
-      "publishedAt": "2026-04-21T17:30:24Z",
-      "snippet": "YouTube is expanding its AI deepfake monitoring feature to Hollywood - meaning some celebrity AI videos could soon disappear. The platform's likeness detection feature searches YouTube for AI deepfake"
     }
   ],
   "trending": [
@@ -184,14 +184,14 @@
       "downloads": 1112454
     },
     {
-      "id": "OBLITERATUS/gemma-4-E4B-it-OBLITERATED",
-      "displayName": "gemma 4 E4B OBLITERATED",
-      "downloads": 79024
-    },
-    {
       "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
       "displayName": "Qwen3.6 35B A3B Uncensored HauhauCS Aggressive",
       "downloads": 312962
+    },
+    {
+      "id": "OBLITERATUS/gemma-4-E4B-it-OBLITERATED",
+      "displayName": "gemma 4 E4B OBLITERATED",
+      "downloads": 79024
     },
     {
       "id": "Jackrong/Qwopus-GLM-18B-Merged-GGUF",
@@ -199,14 +199,14 @@
       "downloads": 51137
     },
     {
-      "id": "Jiunsong/supergemma4-26b-uncensored-gguf-v2",
-      "displayName": "supergemma4 26b uncensored v2",
-      "downloads": 111654
-    },
-    {
       "id": "unsloth/Qwen3.6-27B-GGUF",
       "displayName": "Qwen3.6 27B",
       "downloads": 0
+    },
+    {
+      "id": "Jiunsong/supergemma4-26b-uncensored-gguf-v2",
+      "displayName": "supergemma4 26b uncensored v2",
+      "downloads": 111654
     },
     {
       "id": "hesamation/Qwen3.6-35B-A3B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
