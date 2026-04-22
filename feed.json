@@ -1,6 +1,20 @@
 {
-  "updated": "2026-04-22T15:08:42Z",
+  "updated": "2026-04-22T16:54:37Z",
   "news": [
+    {
+      "title": "AI Overviews are coming to your Gmail at work",
+      "url": "https://techcrunch.com/2026/04/22/ai-overviews-are-coming-to-your-gmail-at-work/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-04-22T16:46:10Z",
+      "snippet": "The AI Overviews will offer instant summaries pulled from across multiple emails."
+    },
+    {
+      "title": "Google Meet will take AI notes for in-person meetings too",
+      "url": "https://www.theverge.com/tech/916779/google-meet-ai-notetaker-in-person-meetings",
+      "source": "The Verge",
+      "publishedAt": "2026-04-22T16:38:19Z",
+      "snippet": "Google's AI meeting notetaker is no longer limited to Google Meets - Gemini can also generate summaries and transcripts of in-person meetings now, as well as meetings on Zoom and Microsoft Teams, as f"
+    },
     {
       "title": "Now Meta will track what employees do on their computers to train its AI agents",
       "url": "https://www.theverge.com/tech/916681/meta-ai-agents-employee-tracking",
@@ -13,21 +27,14 @@
       "url": "https://techcrunch.com/2026/04/22/openai-teams-up-with-infosys-to-bring-ai-tools-to-more-businesses/",
       "source": "TechCrunch",
       "publishedAt": "2026-04-22T14:22:10Z",
-      "snippet": "Infosys said the integration will be used to help its clients modernize software development, automate workflows and deploy AI systems, initially focusing software engineering, legacy modernization, a"
+      "snippet": "Infosys said the integration will be used to help its clients modernize software development, automate workflows, and deploy AI systems, initially focusing software engineering, legacy modernization, "
     },
     {
-      "title": "AI is spitting out more potential drugs than ever. This start-up wants to figure out which ones matter.",
+      "title": "AI is spitting out more potential drugs than ever. This startup wants to figure out which ones matter.",
       "url": "https://techcrunch.com/2026/04/22/ai-is-spitting-out-more-potential-drugs-than-ever-this-start-up-wants-to-figure-out-which-ones-matter/",
       "source": "TechCrunch",
       "publishedAt": "2026-04-22T13:00:00Z",
       "snippet": "10x Science has raised a $4.8 million seed round to help pharmaceutical researchers understand complex molecules."
-    },
-    {
-      "title": "The most interesting startups showcased at Google Cloud Next\u00a02026",
-      "url": "https://techcrunch.com/2026/04/22/the-most-interesting-startups-showcased-at-google-cloud-next-2026/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-04-22T12:00:00Z",
-      "snippet": "Google wants AI startups on its cloud and has showcased a long list of them at its annual conference."
     },
     {
       "title": "Google Maps is about to get a big dose of AI",
@@ -42,6 +49,13 @@
       "source": "TechCrunch",
       "publishedAt": "2026-04-22T12:00:00Z",
       "snippet": "Mira Murati's Thinking Machines Lab has signed a multi-billion-dollar deal with Google Cloud for AI infrastructure powered by Nvidia's latest GB300 chips, TechCrunch has exclusively learned."
+    },
+    {
+      "title": "The most interesting startups showcased at Google Cloud Next\u00a02026",
+      "url": "https://techcrunch.com/2026/04/22/the-most-interesting-startups-showcased-at-google-cloud-next-2026/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-04-22T12:00:00Z",
+      "snippet": "Google wants AI startups on its cloud and has showcased a long list of them at its annual conference."
     },
     {
       "title": "Anthropic\u2019s most dangerous AI model just fell into the wrong hands",
@@ -156,25 +170,11 @@
       "snippet": "Latitude's new AI-native platform, Voyage, aims to help gamers create their very own role-playing game."
     },
     {
-      "title": "Bond, a new social media platform, wants to use AI to help you kick your doomscrolling habit",
-      "url": "https://techcrunch.com/2026/04/21/bond-social-media-platform-ai-memories-kick-doomscrolling-habit/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-04-21T15:24:29Z",
-      "snippet": "Bond wants you to get off the couch and get back into the real world, its creator says. The new platform's AI system is designed to motivate users to do things away from the app."
-    },
-    {
       "title": "John Ternus\u2019 first big problem is AI",
       "url": "https://www.theverge.com/ai-artificial-intelligence/915662/john-ternus-apple-ceo-tim-cook-ai-problem-siri",
       "source": "The Verge",
       "publishedAt": "2026-04-21T13:37:55Z",
       "snippet": "Less than a year ago, Apple made headlines for a lack of AI announcements at its annual WWDC event. Ten months later, the company has announced that hardware executive John Ternus will succeed longtim"
-    },
-    {
-      "title": "Yelp is making its AI chatbot way more useful",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/915626/yelp-ai-assistant-chatbot-major-upgrade",
-      "source": "The Verge",
-      "publishedAt": "2026-04-21T11:00:00Z",
-      "snippet": "Yelp is giving its chatbot assistant a major upgrade, turning the platform into something closer to a digital concierge with a suite of new features designed for \"getting things done.\" The move, one o"
     }
   ],
   "trending": [
@@ -209,14 +209,14 @@
       "downloads": 44930
     },
     {
+      "id": "unsloth/Qwen3.6-27B-GGUF",
+      "displayName": "Qwen3.6 27B",
+      "downloads": 0
+    },
+    {
       "id": "HauhauCS/Gemma-4-E4B-Uncensored-HauhauCS-Aggressive",
       "displayName": "Gemma 4 E4B Uncensored HauhauCS Aggressive",
       "downloads": 841003
-    },
-    {
-      "id": "unsloth/ERNIE-Image-Turbo-GGUF",
-      "displayName": "ERNIE Image Turbo",
-      "downloads": 38354
     },
     {
       "id": "unsloth/Kimi-K2.6-GGUF",
@@ -224,9 +224,9 @@
       "downloads": 2958
     },
     {
-      "id": "KyleHessling1/Qwopus-GLM-18B-Merged-GGUF",
-      "displayName": "Qwopus GLM 18B Merged",
-      "downloads": 6740
+      "id": "unsloth/ERNIE-Image-Turbo-GGUF",
+      "displayName": "ERNIE Image Turbo",
+      "downloads": 38354
     }
   ]
 }
