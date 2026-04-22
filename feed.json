@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-22T02:08:45Z",
+  "updated": "2026-04-22T05:57:32Z",
   "news": [
     {
       "title": "Meta will record employees\u2019 keystrokes and use it to train its AI models",
@@ -16,11 +16,11 @@
       "snippet": "Anthropic told TechCrunch it is investigating the claims, but maintains that there is no evidence that its systems have been impacted."
     },
     {
-      "title": "SpaceX is working with Cursor and has an option to buy the startup for $60 billion",
+      "title": "SpaceX is working with Cursor and has an option to buy the startup for $60B",
       "url": "https://techcrunch.com/2026/04/21/spacex-is-working-with-cursor-and-has-an-option-to-buy-the-startup-for-60-billion/",
       "source": "TechCrunch",
       "publishedAt": "2026-04-21T22:58:22Z",
-      "snippet": "Only Elon would do this before an IPO."
+      "snippet": "The move could shore up weaknesses at each company, but it also reveals them. Neither Cursor nor xAI has proprietary models that can match the leading offerings from Anthropic and OpenAI \u2014 the same co"
     },
     {
       "title": "SpaceX cuts a deal to maybe buy Cursor for $60 billion",
@@ -199,14 +199,14 @@
       "downloads": 94600
     },
     {
-      "id": "unsloth/ERNIE-Image-Turbo-GGUF",
-      "displayName": "ERNIE Image Turbo",
-      "downloads": 35335
-    },
-    {
       "id": "Jackrong/Qwopus-GLM-18B-Merged-GGUF",
       "displayName": "Qwopus GLM 18B Merged",
       "downloads": 28638
+    },
+    {
+      "id": "unsloth/ERNIE-Image-Turbo-GGUF",
+      "displayName": "ERNIE Image Turbo",
+      "downloads": 35335
     },
     {
       "id": "HauhauCS/Gemma-4-E4B-Uncensored-HauhauCS-Aggressive",
@@ -219,14 +219,14 @@
       "downloads": 16897
     },
     {
-      "id": "unsloth/Kimi-K2.6-GGUF",
-      "displayName": "Kimi K2.6",
-      "downloads": 0
-    },
-    {
       "id": "KyleHessling1/Qwopus-GLM-18B-Merged-GGUF",
       "displayName": "Qwopus GLM 18B Merged",
       "downloads": 4520
+    },
+    {
+      "id": "unsloth/Kimi-K2.6-GGUF",
+      "displayName": "Kimi K2.6",
+      "downloads": 0
     }
   ]
 }
