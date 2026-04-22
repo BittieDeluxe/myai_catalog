@@ -1,6 +1,34 @@
 {
-  "updated": "2026-04-22T11:01:14Z",
+  "updated": "2026-04-22T13:18:37Z",
   "news": [
+    {
+      "title": "AI is spitting out more potential drugs than ever. This start-up wants to figure out which ones matter.",
+      "url": "https://techcrunch.com/2026/04/22/ai-is-spitting-out-more-potential-drugs-than-ever-this-start-up-wants-to-figure-out-which-ones-matter/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-04-22T13:00:00Z",
+      "snippet": "10x Science has raised a $4.8 million seed round to help pharmaceutical researchers understand complex molecules."
+    },
+    {
+      "title": "The most interesting startups showcased at Google Cloud Next\u00a02026",
+      "url": "https://techcrunch.com/2026/04/22/the-most-interesting-startups-showcased-at-google-cloud-next-2026/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-04-22T12:00:00Z",
+      "snippet": "Google wants AI startups on its cloud and has showcased a long list of them at its annual conference."
+    },
+    {
+      "title": "Google Maps is about to get a big dose of AI",
+      "url": "https://techcrunch.com/2026/04/22/google-maps-is-about-to-get-a-big-dose-of-ai/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-04-22T12:00:00Z",
+      "snippet": "Generative AI is being infused into Google's popular feature within Maps."
+    },
+    {
+      "title": "Exclusive: Google deepens Thinking Machines Lab ties with new multi-billion-dollar deal",
+      "url": "https://techcrunch.com/2026/04/22/exclusive-google-deepens-thinking-machines-lab-ties-with-new-multi-billion-dollar-deal/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-04-22T12:00:00Z",
+      "snippet": "Mira Murati's Thinking Machines Lab has signed a multi-billion-dollar deal with Google Cloud for AI infrastructure powered by Nvidia's latest GB300 chips, TechCrunch has exclusively learned."
+    },
     {
       "title": "Anthropic\u2019s most dangerous AI model just fell into the wrong hands",
       "url": "https://www.theverge.com/ai-artificial-intelligence/916501/anthropic-mythos-unauthorized-users-access-security",
@@ -135,13 +163,6 @@
       "snippet": "Less than a year ago, Apple made headlines for a lack of AI announcements at its annual WWDC event. Ten months later, the company has announced that hardware executive John Ternus will succeed longtim"
     },
     {
-      "title": "GRAI believes AI can make music more social, not replace artists",
-      "url": "https://techcrunch.com/2026/04/21/grai-believes-ai-can-make-music-more-social-not-replace-artists/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-04-21T13:00:00Z",
-      "snippet": "AI music startup GRAI says fans want to remix tracks, not generate songs from scratch."
-    },
-    {
       "title": "Yelp is making its AI chatbot way more useful",
       "url": "https://www.theverge.com/ai-artificial-intelligence/915626/yelp-ai-assistant-chatbot-major-upgrade",
       "source": "The Verge",
@@ -149,32 +170,11 @@
       "snippet": "Yelp is giving its chatbot assistant a major upgrade, turning the platform into something closer to a digital concierge with a suite of new features designed for \"getting things done.\" The move, one o"
     },
     {
-      "title": "Anthropic takes $5B from Amazon and pledges $100B in cloud spending in return",
-      "url": "https://techcrunch.com/2026/04/20/anthropic-takes-5b-from-amazon-and-pledges-100b-in-cloud-spending-in-return/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-04-20T23:10:27Z",
-      "snippet": "Amazon has made another circular AI deal: It's investing another $5 billion in Anthropic. Anthropic has agreed to spend $100 billion on AWS in return."
-    },
-    {
-      "title": "Google rolls out Gemini in Chrome in APAC countries",
-      "url": "https://techcrunch.com/2026/04/20/google-rolls-out-gemini-in-chrome-in-seven-new-countries/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-04-20T22:00:00Z",
-      "snippet": "Google is rolling out Gemini in Chrome in Australia, Indonesia, Japan, the Philippines, Singapore, South Korea, and Vietnam. The company is rolling this feature out to both desktop and iOS in all of t"
-    },
-    {
       "title": "Silicon Valley has forgotten what normal people want",
       "url": "https://www.theverge.com/tldr/915176/nft-metaverse-ai-weirdos",
       "source": "The Verge",
       "publishedAt": "2026-04-20T20:30:00Z",
       "snippet": "One of the most mortifying things about knowing a lot of techies is listening to them tell me excitedly about some very important discovery that they believe they have made. Recently, I ran into an ac"
-    },
-    {
-      "title": "It\u2019s not just one thing \u2014 it\u2019s another thing",
-      "url": "https://techcrunch.com/2026/04/20/ai-writing-its-not-just-this-its-that-barrons/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-04-20T19:37:07Z",
-      "snippet": "This sentence construction (\"It's not just this \u2014 it's that\") has become so common in AI-generated writing that it's no longer just a clue that a piece of writing may be synthetic \u2014 it's almost a guar"
     }
   ],
   "trending": [
@@ -219,14 +219,14 @@
       "downloads": 38354
     },
     {
-      "id": "KyleHessling1/Qwopus-GLM-18B-Merged-GGUF",
-      "displayName": "Qwopus GLM 18B Merged",
-      "downloads": 6740
-    },
-    {
       "id": "unsloth/Kimi-K2.6-GGUF",
       "displayName": "Kimi K2.6",
       "downloads": 2958
+    },
+    {
+      "id": "KyleHessling1/Qwopus-GLM-18B-Merged-GGUF",
+      "displayName": "Qwopus GLM 18B Merged",
+      "downloads": 6740
     }
   ]
 }
