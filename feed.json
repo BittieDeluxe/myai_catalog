@@ -1,6 +1,13 @@
 {
-  "updated": "2026-04-23T02:12:54Z",
+  "updated": "2026-04-23T06:02:57Z",
   "news": [
+    {
+      "title": "India\u2019s app market is booming \u2014 but global platforms are capturing most of the gains",
+      "url": "https://techcrunch.com/2026/04/22/indias-app-market-is-booming-but-global-platforms-are-capturing-most-of-the-gains/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-04-23T04:38:45Z",
+      "snippet": "Non-gaming apps, led by streaming and AI, are driving growth, even as India's spending per user lags global peers."
+    },
     {
       "title": "Tesla just increased its spending plan to $25B \u2014 here\u2019s where the money is going",
       "url": "https://techcrunch.com/2026/04/22/tesla-just-increased-its-capex-to-25b-heres-where-the-money-is-going/",
@@ -149,13 +156,6 @@
       "snippet": "Meta says that it has a new internal tool that is converting mouse movements and button clicks into data that can train its AI models."
     },
     {
-      "title": "Unauthorized group has gained access to Anthropic\u2019s exclusive cyber tool Mythos, report claims",
-      "url": "https://techcrunch.com/2026/04/21/unauthorized-group-has-gained-access-to-anthropics-exclusive-cyber-tool-mythos-report-claims/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-04-21T23:26:45Z",
-      "snippet": "Anthropic told TechCrunch it is investigating the claims, but maintains that there is no evidence that its systems have been impacted."
-    },
-    {
       "title": "SpaceX cuts a deal to maybe buy Cursor for $60 billion",
       "url": "https://www.theverge.com/science/916427/spacex-cursor-potential-deal-acquisition",
       "source": "The Verge",
@@ -204,14 +204,14 @@
       "downloads": 51137
     },
     {
-      "id": "Jiunsong/supergemma4-26b-uncensored-gguf-v2",
-      "displayName": "supergemma4 26b uncensored v2",
-      "downloads": 111654
-    },
-    {
       "id": "hesamation/Qwen3.6-35B-A3B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
       "displayName": "Qwen3.6 35B A3B Claude 4.6 Opus Reasoning Distilled",
       "downloads": 44930
+    },
+    {
+      "id": "Jiunsong/supergemma4-26b-uncensored-gguf-v2",
+      "displayName": "supergemma4 26b uncensored v2",
+      "downloads": 111654
     },
     {
       "id": "unsloth/Kimi-K2.6-GGUF",
