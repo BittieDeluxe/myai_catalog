@@ -1,6 +1,20 @@
 {
-  "updated": "2026-04-22T22:43:01Z",
+  "updated": "2026-04-23T02:12:54Z",
   "news": [
+    {
+      "title": "Tesla just increased its spending plan to $25B \u2014 here\u2019s where the money is going",
+      "url": "https://techcrunch.com/2026/04/22/tesla-just-increased-its-capex-to-25b-heres-where-the-money-is-going/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-04-22T23:56:52Z",
+      "snippet": "Tesla's planned capex for 2026 is three times higher than what the company has historically spent. Its CFO said, as a result, Tesla will have a negative free cash flow the rest of the year."
+    },
+    {
+      "title": "Google updates Workspace to make AI your new office intern",
+      "url": "https://techcrunch.com/2026/04/22/google-updates-workspace-to-make-ai-your-new-office-intern/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-04-22T22:44:26Z",
+      "snippet": "Google has introduced a host of new automated functions into Workspace, all of which are driven by Workspace Intelligence, its new AI system."
+    },
     {
       "title": "Hands on with X\u2019s new AI-powered custom feeds",
       "url": "https://techcrunch.com/2026/04/22/hands-on-with-xs-new-ai-powered-custom-feeds/",
@@ -142,25 +156,11 @@
       "snippet": "Anthropic told TechCrunch it is investigating the claims, but maintains that there is no evidence that its systems have been impacted."
     },
     {
-      "title": "SpaceX is working with Cursor and has an option to buy the startup for $60B",
-      "url": "https://techcrunch.com/2026/04/21/spacex-is-working-with-cursor-and-has-an-option-to-buy-the-startup-for-60-billion/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-04-21T22:58:22Z",
-      "snippet": "The move could shore up weaknesses at each company, but it also reveals them. Neither Cursor nor xAI has proprietary models that can match the leading offerings from Anthropic and OpenAI \u2014 the same co"
-    },
-    {
       "title": "SpaceX cuts a deal to maybe buy Cursor for $60 billion",
       "url": "https://www.theverge.com/science/916427/spacex-cursor-potential-deal-acquisition",
       "source": "The Verge",
       "publishedAt": "2026-04-21T22:45:37Z",
       "snippet": "With an IPO looming for Elon Musk's SpaceX / xAI / X combo platter of companies, SpaceX has announced an odd arrangement to either acquire the automated programming platform Cursor for $60 billion or "
-    },
-    {
-      "title": "Apple\u2019s John Ternus will run one of the world\u2019s most powerful companies; the job is a minefield",
-      "url": "https://techcrunch.com/2026/04/21/apples-john-ternus-will-run-one-of-the-worlds-most-powerful-companies-the-job-is-a-minefield/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-04-21T20:23:24Z",
-      "snippet": "Apple's top job comes with almost unrivaled power and money, but it comes with plenty of baggage, too."
     },
     {
       "title": "AI backlash is coming for elections",
@@ -214,14 +214,14 @@
       "downloads": 44930
     },
     {
-      "id": "HauhauCS/Gemma-4-E4B-Uncensored-HauhauCS-Aggressive",
-      "displayName": "Gemma 4 E4B Uncensored HauhauCS Aggressive",
-      "downloads": 841003
-    },
-    {
       "id": "unsloth/Kimi-K2.6-GGUF",
       "displayName": "Kimi K2.6",
       "downloads": 2958
+    },
+    {
+      "id": "HauhauCS/Gemma-4-E4B-Uncensored-HauhauCS-Aggressive",
+      "displayName": "Gemma 4 E4B Uncensored HauhauCS Aggressive",
+      "downloads": 841003
     },
     {
       "id": "KyleHessling1/Qwopus-GLM-18B-Merged-GGUF",
