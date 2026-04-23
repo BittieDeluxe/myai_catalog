@@ -1,6 +1,20 @@
 {
-  "updated": "2026-04-23T11:04:41Z",
+  "updated": "2026-04-23T13:19:46Z",
   "news": [
+    {
+      "title": "Beehiiv rolls out new creator tools, including webinars and customizable paywalls",
+      "url": "https://techcrunch.com/2026/04/23/beehiiv-rolls-out-new-creator-tools-including-webinars-and-customizable-paywalls/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-04-23T12:00:00Z",
+      "snippet": "Beehiiv is clearly done being just a newsletter platform based on today's launch of a new webinar feature, customizable paywalls, and more."
+    },
+    {
+      "title": "Microsoft launches \u2018vibe working\u2019 in Word, Excel, and PowerPoint",
+      "url": "https://www.theverge.com/news/917328/microsoft-agent-mode-vibe-working-office-word-excel-powerpoint",
+      "source": "The Verge",
+      "publishedAt": "2026-04-23T11:34:18Z",
+      "snippet": "Microsoft is rolling out a new Agent Mode inside Office apps like Word, Excel, and PowerPoint this week. Previously described by Microsoft as \"vibe working,\" the Agent Mode is a more powerful version "
+    },
     {
       "title": "India\u2019s app market is booming \u2014 but global platforms are capturing most of the gains",
       "url": "https://techcrunch.com/2026/04/22/indias-app-market-is-booming-but-global-platforms-are-capturing-most-of-the-gains/",
@@ -149,13 +163,6 @@
       "snippet": "Anthropic's Mythos AI model, a powerful cybersecurity tool that the company said could be dangerous in the wrong hands, has been accessed by a \"small group of unauthorized users,\" Bloomberg reports. A"
     },
     {
-      "title": "Meta will record employees\u2019 keystrokes and use it to train its AI models",
-      "url": "https://techcrunch.com/2026/04/21/meta-will-record-employees-keystrokes-and-use-it-to-train-its-ai-models/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-04-21T23:45:21Z",
-      "snippet": "Meta says that it has a new internal tool that is converting mouse movements and button clicks into data that can train its AI models."
-    },
-    {
       "title": "SpaceX cuts a deal to maybe buy Cursor for $60 billion",
       "url": "https://www.theverge.com/science/916427/spacex-cursor-potential-deal-acquisition",
       "source": "The Verge",
@@ -168,13 +175,6 @@
       "source": "The Verge",
       "publishedAt": "2026-04-21T19:00:05Z",
       "snippet": "Ask Americans how they feel about AI and most say they have concerns. Communities have mounted resistance to data center projects, stalling them across the US. On social media, anger at AI companies a"
-    },
-    {
-      "title": "OpenAI\u2019s updated image generator can now pull information from the web",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/916166/openai-chatgpt-images-2",
-      "source": "The Verge",
-      "publishedAt": "2026-04-21T19:00:00Z",
-      "snippet": "OpenAI is rolling out the latest version of its AI-powered image generator with new \"thinking capabilities,\" allowing it to search the web to help it create multiple images from a single prompt. On Tu"
     }
   ],
   "trending": [
