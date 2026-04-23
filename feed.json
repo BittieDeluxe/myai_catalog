@@ -1,6 +1,20 @@
 {
-  "updated": "2026-04-23T20:47:43Z",
+  "updated": "2026-04-23T22:40:07Z",
   "news": [
+    {
+      "title": "Claude is connecting directly to your personal apps like Spotify, Uber Eats, and TurboTax",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/917871/anthropic-claude-personal-app-connectors",
+      "source": "The Verge",
+      "publishedAt": "2026-04-23T22:27:11Z",
+      "snippet": "Claude users can access more apps with Anthropic's AI now thanks to new connectors for everything from hiking to grocery shopping. Anthropic already supported connecting numerous work-related apps to "
+    },
+    {
+      "title": "Bret Taylor\u2019s Sierra buys YC-backed AI startup Fragment",
+      "url": "https://techcrunch.com/2026/04/23/bret-taylors-sierra-buys-yc-backed-ai-startup-fragment/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-04-23T21:00:00Z",
+      "snippet": "Sierra, the AI customer service agent startup founded by technologist Bret Taylor, announced today that it has acquired the YC-backed French startup Fragment."
+    },
     {
       "title": "Meta is laying off 10 percent of its staff",
       "url": "https://www.theverge.com/tech/917690/meta-is-laying-off-10-percent-of-its-staff",
@@ -161,20 +175,6 @@
       "source": "TechCrunch",
       "publishedAt": "2026-04-22T17:30:00Z",
       "snippet": "Google brings Gemini-powered \"auto browse\" capabilities to Chrome for enterprise users, letting workers automate tasks like research, data entry, and more."
-    },
-    {
-      "title": "Google makes an interesting choice with its new agent-building tool for enterprises",
-      "url": "https://techcrunch.com/2026/04/22/google-makes-an-interesting-choice-with-its-new-agent-building-tool-for-enterprises/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-04-22T16:58:27Z",
-      "snippet": "Gemini Enterprise Agent Platform takes an interesting approach: It is geared for IT and technical users."
-    },
-    {
-      "title": "Anthropic&#8217;s Mythos rollout has missed America\u2019s cybersecurity agency",
-      "url": "https://www.theverge.com/policy/916758/anthropic-mythos-preview-cisa-left-out",
-      "source": "The Verge",
-      "publishedAt": "2026-04-22T16:57:36Z",
-      "snippet": "Several US federal agencies are taking up Anthropic's new cybersecurity model to find vulnerabilities, but one is reportedly not getting in on the action: the nation's central cybersecurity coordinato"
     }
   ],
   "trending": [
