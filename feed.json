@@ -1,6 +1,41 @@
 {
-  "updated": "2026-04-23T13:19:46Z",
+  "updated": "2026-04-23T15:49:03Z",
   "news": [
+    {
+      "title": "THE PEOPLE DO NOT YEARN FOR AUTOMATION",
+      "url": "https://www.theverge.com/podcast/917029/software-brain-ai-backlash-databases-automation",
+      "source": "The Verge",
+      "publishedAt": "2026-04-23T14:00:00Z",
+      "snippet": "Today on Decoder, I want to lay out an idea that&#8217;s been banging around my head for weeks now as we&#8217;ve been reporting on AI and having conversations here on this show. I&#8217;ve been calli"
+    },
+    {
+      "title": "Grab a ticket today: The first StrictlyVC of 2026 kicks off in just a week in San Francisco",
+      "url": "https://techcrunch.com/2026/04/23/grab-a-ticket-today-the-first-strictlyvc-of-2026-kicks-off-in-just-a-week-in-san-francisco/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-04-23T14:00:00Z",
+      "snippet": "StrictlyVC San Francisco is in just a week. Now\u2019s the time to grab yourself a ticket. Join VCs and founders at Sentro Filipino Cultural Center on April 30."
+    },
+    {
+      "title": "Another customer of troubled startup Delve suffered a big security incident",
+      "url": "https://techcrunch.com/2026/04/23/another-customer-of-troubled-startup-delve-suffered-a-big-security-incident/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-04-23T14:00:00Z",
+      "snippet": "TechCrunch has confirmed that Delve was the compliance company that performed the security certifications for Context AI, the AI agent training startup that last week disclosed a security incident."
+    },
+    {
+      "title": "You\u2019re about to feel the AI money squeeze",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/917380/ai-monetization-anthropic-openai-token-economics-revenue",
+      "source": "The Verge",
+      "publishedAt": "2026-04-23T13:45:00Z",
+      "snippet": "Earlier this month, millions of OpenClaw users woke up to a sweeping mandate: The viral AI agent tool, which this year took the worldwide tech industry by storm, had been severely restricted by Anthro"
+    },
+    {
+      "title": "AI galaxy hunters are adding to the global GPU crunch",
+      "url": "https://techcrunch.com/2026/04/23/ai-galaxy-hunters-are-adding-to-the-global-gpu-crunch/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-04-23T13:00:00Z",
+      "snippet": "Astronomers are turning to GPUs to find needles in the galactic haystack."
+    },
     {
       "title": "Beehiiv rolls out new creator tools, including webinars and customizable paywalls",
       "url": "https://techcrunch.com/2026/04/23/beehiiv-rolls-out-new-creator-tools-including-webinars-and-customizable-paywalls/",
@@ -135,46 +170,11 @@
       "snippet": "10x Science has raised a $4.8 million seed round to help pharmaceutical researchers understand complex molecules."
     },
     {
-      "title": "Exclusive: Google deepens Thinking Machines Lab ties with new multibillion-dollar deal",
-      "url": "https://techcrunch.com/2026/04/22/exclusive-google-deepens-thinking-machines-lab-ties-with-new-multi-billion-dollar-deal/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-04-22T12:00:00Z",
-      "snippet": "Mira Murati's Thinking Machines Lab has signed a multibillion-dollar deal with Google Cloud for AI infrastructure powered by Nvidia's latest GB300 chips, TechCrunch has exclusively learned."
-    },
-    {
-      "title": "Google Maps is about to get a big dose of AI",
-      "url": "https://techcrunch.com/2026/04/22/google-maps-is-about-to-get-a-big-dose-of-ai/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-04-22T12:00:00Z",
-      "snippet": "The new features, announced at Cloud Next in Las Vegas this week, add generative AI capabilities to Google's mapping platform, giving it enhanced visual and data analytics powers."
-    },
-    {
-      "title": "The most interesting startups showcased at Google Cloud Next\u00a02026",
-      "url": "https://techcrunch.com/2026/04/22/the-most-interesting-startups-showcased-at-google-cloud-next-2026/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-04-22T12:00:00Z",
-      "snippet": "Google wants AI startups on its cloud and has showcased a long list of them at its annual conference."
-    },
-    {
       "title": "Anthropic\u2019s most dangerous AI model just fell into the wrong hands",
       "url": "https://www.theverge.com/ai-artificial-intelligence/916501/anthropic-mythos-unauthorized-users-access-security",
       "source": "The Verge",
       "publishedAt": "2026-04-22T09:18:40Z",
       "snippet": "Anthropic's Mythos AI model, a powerful cybersecurity tool that the company said could be dangerous in the wrong hands, has been accessed by a \"small group of unauthorized users,\" Bloomberg reports. A"
-    },
-    {
-      "title": "SpaceX cuts a deal to maybe buy Cursor for $60 billion",
-      "url": "https://www.theverge.com/science/916427/spacex-cursor-potential-deal-acquisition",
-      "source": "The Verge",
-      "publishedAt": "2026-04-21T22:45:37Z",
-      "snippet": "With an IPO looming for Elon Musk's SpaceX / xAI / X combo platter of companies, SpaceX has announced an odd arrangement to either acquire the automated programming platform Cursor for $60 billion or "
-    },
-    {
-      "title": "AI backlash is coming for elections",
-      "url": "https://www.theverge.com/policy/916210/ai-midterm-elections-data-centers-jobs",
-      "source": "The Verge",
-      "publishedAt": "2026-04-21T19:00:05Z",
-      "snippet": "Ask Americans how they feel about AI and most say they have concerns. Communities have mounted resistance to data center projects, stalling them across the US. On social media, anger at AI companies a"
     }
   ],
   "trending": [
@@ -189,14 +189,14 @@
       "downloads": 350262
     },
     {
-      "id": "OBLITERATUS/gemma-4-E4B-it-OBLITERATED",
-      "displayName": "gemma 4 E4B OBLITERATED",
-      "downloads": 90064
-    },
-    {
       "id": "unsloth/Qwen3.6-27B-GGUF",
       "displayName": "Qwen3.6 27B",
       "downloads": 131398
+    },
+    {
+      "id": "OBLITERATUS/gemma-4-E4B-it-OBLITERATED",
+      "displayName": "gemma 4 E4B OBLITERATED",
+      "downloads": 90064
     },
     {
       "id": "Jackrong/Qwopus-GLM-18B-Merged-GGUF",
@@ -219,14 +219,14 @@
       "downloads": 7186
     },
     {
+      "id": "HauhauCS/Qwen3.6-27B-Uncensored-HauhauCS-Aggressive",
+      "displayName": "Qwen3.6 27B Uncensored HauhauCS Aggressive",
+      "downloads": 9535
+    },
+    {
       "id": "KyleHessling1/Qwopus-GLM-18B-Merged-GGUF",
       "displayName": "Qwopus GLM 18B Merged",
       "downloads": 8046
-    },
-    {
-      "id": "HauhauCS/Gemma-4-E4B-Uncensored-HauhauCS-Aggressive",
-      "displayName": "Gemma 4 E4B Uncensored HauhauCS Aggressive",
-      "downloads": 872070
     }
   ]
 }
