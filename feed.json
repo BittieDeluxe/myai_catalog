@@ -1,6 +1,13 @@
 {
-  "updated": "2026-04-24T20:41:53Z",
+  "updated": "2026-04-24T22:35:58Z",
   "news": [
+    {
+      "title": "Meta\u2019s loss is Thinking Machines\u2019 gain",
+      "url": "https://techcrunch.com/2026/04/24/metas-loss-is-thinking-machines-gain/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-04-24T20:52:07Z",
+      "snippet": "Meta has been poaching talent from Thinking Machines Lab. But it's a two-way street."
+    },
     {
       "title": "ComfyUI hits $500M valuation as creators seek more control over AI-generated media",
       "url": "https://techcrunch.com/2026/04/24/comfyui-hits-500m-valuation-as-creators-seek-more-control-over-ai-generated-media/",
@@ -168,25 +175,18 @@
       "source": "TechCrunch",
       "publishedAt": "2026-04-23T14:00:00Z",
       "snippet": "StrictlyVC San Francisco is in just a week. Now\u2019s the time to grab yourself a ticket. Join VCs and founders at Sentro Filipino Cultural Center on April 30."
-    },
-    {
-      "title": "Another customer of troubled startup Delve suffered a big security incident",
-      "url": "https://techcrunch.com/2026/04/23/another-customer-of-troubled-startup-delve-suffered-a-big-security-incident/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-04-23T14:00:00Z",
-      "snippet": "TechCrunch has confirmed that Delve was the compliance company that performed the security certifications for Context AI, the AI agent training startup that last week disclosed a security incident."
     }
   ],
   "trending": [
     {
-      "id": "unsloth/Qwen3.6-35B-A3B-GGUF",
-      "displayName": "Qwen3.6 35B A3B",
-      "downloads": 1397244
-    },
-    {
       "id": "unsloth/Qwen3.6-27B-GGUF",
       "displayName": "Qwen3.6 27B",
       "downloads": 340032
+    },
+    {
+      "id": "unsloth/Qwen3.6-35B-A3B-GGUF",
+      "displayName": "Qwen3.6 35B A3B",
+      "downloads": 1397244
     },
     {
       "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
