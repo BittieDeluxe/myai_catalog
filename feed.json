@@ -1,6 +1,20 @@
 {
-  "updated": "2026-04-24T11:03:37Z",
+  "updated": "2026-04-24T13:15:22Z",
   "news": [
+    {
+      "title": "Elon Musk and Sam Altman\u2019s court showdown will dish the dirt",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/917755/musk-altman-openai-xai-gossip",
+      "source": "The Verge",
+      "publishedAt": "2026-04-24T12:00:00Z",
+      "snippet": "Elon Musk cofounded OpenAI, and then flounced off in a huff when he wasn't anointed CEO, leaving Sam Altman as the last power-hungry man standing. Now, Musk is back with a lawsuit, and a trial is sche"
+    },
+    {
+      "title": "In another wild turn for AI chips, Meta signs deal for millions of Amazon AI CPUs",
+      "url": "https://techcrunch.com/2026/04/24/in-another-wild-turn-for-ai-chips-meta-signs-deal-for-millions-of-amazon-ai-cpus/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-04-24T12:00:00Z",
+      "snippet": "Meta has commandeered a big chunk of Amazon's homegrown CPUs (not GPUs) for AI agentic workloads, signaling that a new kind of chip race has begun."
+    },
     {
       "title": "China\u2019s DeepSeek previews new AI model a year after jolting US rivals",
       "url": "https://www.theverge.com/ai-artificial-intelligence/918035/deepseek-preview-v4-ai-model",
@@ -149,13 +163,6 @@
       "snippet": "X's AI-powered custom timelines are replacing Communities, with Grok-curated feeds...and new ad slots."
     },
     {
-      "title": "AI failure could trigger the next financial crisis, warns Elizabeth Warren",
-      "url": "https://www.theverge.com/policy/917026/ai-economy-bubble-elizabeth-warren",
-      "source": "The Verge",
-      "publishedAt": "2026-04-22T20:29:05Z",
-      "snippet": "\"I know a bubble when I see one.\" That's what Sen. Elizabeth Warren (D-MA), who led the push to create a new consumer financial regulator in the wake of the 2008 recession, told a crowd at a Vanderbil"
-    },
-    {
       "title": "How SpaceX preempted a $2B fundraise with a $60B buyout offer",
       "url": "https://techcrunch.com/2026/04/22/how-spacex-preempted-a-2b-fundraise-with-a-60b-buyout-offer/",
       "source": "TechCrunch",
@@ -168,13 +175,6 @@
       "source": "TechCrunch",
       "publishedAt": "2026-04-22T18:39:27Z",
       "snippet": "Google's newest TPUs are faster and cheaper than the previous versions. But the company is still embracing Nvidia in its cloud \u2014\u00a0for now."
-    },
-    {
-      "title": "Google turns Chrome into an AI co-worker for the workplace",
-      "url": "https://techcrunch.com/2026/04/22/google-turns-chrome-into-an-ai-coworker-for-the-workplace/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-04-22T17:30:00Z",
-      "snippet": "Google brings Gemini-powered \"auto browse\" capabilities to Chrome for enterprise users, letting workers automate tasks like research, data entry, and more."
     }
   ],
   "trending": [
