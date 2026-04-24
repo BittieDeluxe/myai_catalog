@@ -1,6 +1,27 @@
 {
-  "updated": "2026-04-24T16:51:29Z",
+  "updated": "2026-04-24T18:43:09Z",
   "news": [
+    {
+      "title": "Google to invest up to $40B in Anthropic in cash and compute",
+      "url": "https://techcrunch.com/2026/04/24/google-to-invest-up-to-40b-in-anthropic-in-cash-and-compute/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-04-24T18:00:03Z",
+      "snippet": "Google plans up to $40B investment in Anthropic as AI rivals race to secure massive compute capacity, following the limited release of its powerful, cybersecurity-focused Mythos model."
+    },
+    {
+      "title": "Apple\u2019s new CEO, and why Elon Musk wants to buy Cursor for $60B",
+      "url": "https://techcrunch.com/podcast/apples-new-ceo-and-why-elon-musk-wants-to-buy-cursor-for-60b/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-04-24T17:45:57Z",
+      "snippet": "A new era is on the way for Apple as Tim Cook plans to step down from his CEO role in September,&#160;handing the reins to hardware chief John Ternus.&#160;&#160; Ternus may be inheriting one of the m"
+    },
+    {
+      "title": "How Project Maven taught the military to love AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/917996/project-maven-military-ai-katrina-manson",
+      "source": "The Verge",
+      "publishedAt": "2026-04-24T17:00:00Z",
+      "snippet": "In the first 24 hours of the assault on Iran, the US military struck more than 1,000 targets, nearly double the scale of the \"shock and awe\" attack on Iraq over two decades ago. This acceleration was "
+    },
     {
       "title": "Marked-up Mac minis flood eBay amid shortages driven by AI",
       "url": "https://techcrunch.com/2026/04/24/mac-mini-price-expensive-ebay-shortage-ai-memory/",
@@ -21,6 +42,13 @@
       "source": "TechCrunch",
       "publishedAt": "2026-04-24T14:00:00Z",
       "snippet": "Surprise! StrictlyVC San Francisco, which will kick off this year\u2019s events lineup for TechCrunch on April 30 at the Sentro Filipino Cultural Center, is getting a new addition to its increasingly stack"
+    },
+    {
+      "title": "Tim Cook is stepping down. What\u00a0happens\u00a0to Apple\u00a0now?",
+      "url": "https://techcrunch.com/video/tim-cook-is-stepping-down-what-happens-to-apple-now/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-04-24T14:00:00Z",
+      "snippet": "Tim Cook plans to step down from his CEO role in September,\u00a0handing the reins to hardware chief John Ternus.\u00a0\u00a0 Ternus may be inheriting one of the most durable businesses in tech, but&#160;he\u2019s&#160;a"
     },
     {
       "title": "Nothing introduces an AI-powered dictation tool",
@@ -142,39 +170,11 @@
       "snippet": "TechCrunch has confirmed that Delve was the compliance company that performed the security certifications for Context AI, the AI agent training startup that last week disclosed a security incident."
     },
     {
-      "title": "You\u2019re about to feel the AI money squeeze",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/917380/ai-monetization-anthropic-openai-token-economics-revenue",
-      "source": "The Verge",
-      "publishedAt": "2026-04-23T13:45:00Z",
-      "snippet": "Earlier this month, millions of OpenClaw users woke up to a sweeping mandate: The viral AI agent tool, which this year took the worldwide tech industry by storm, had been severely restricted by Anthro"
-    },
-    {
       "title": "AI galaxy hunters are adding to the global GPU crunch",
       "url": "https://techcrunch.com/2026/04/23/ai-galaxy-hunters-are-adding-to-the-global-gpu-crunch/",
       "source": "TechCrunch",
       "publishedAt": "2026-04-23T13:00:00Z",
       "snippet": "Astronomers are turning to GPUs to find needles in the galactic haystack."
-    },
-    {
-      "title": "Beehiiv rolls out new creator tools, including webinars and customizable paywalls",
-      "url": "https://techcrunch.com/2026/04/23/beehiiv-rolls-out-new-creator-tools-including-webinars-and-customizable-paywalls/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-04-23T12:00:00Z",
-      "snippet": "The announcement is a clear sign the company is trying to become an all-in-one hub for creators, reducing the hassle of juggling various tools and services to run their businesses."
-    },
-    {
-      "title": "India\u2019s app market is booming \u2014 but global platforms are capturing most of the gains",
-      "url": "https://techcrunch.com/2026/04/22/indias-app-market-is-booming-but-global-platforms-are-capturing-most-of-the-gains/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-04-23T04:38:45Z",
-      "snippet": "Non-gaming apps, led by streaming and AI, are driving growth, even as India's spending per user lags global peers."
-    },
-    {
-      "title": "Tesla just increased its spending plan to $25B \u2014 here\u2019s where the money is going",
-      "url": "https://techcrunch.com/2026/04/22/tesla-just-increased-its-capex-to-25b-heres-where-the-money-is-going/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-04-22T23:56:52Z",
-      "snippet": "Tesla's planned capex for 2026 is three times higher than what the company has historically spent. Its CFO said, as a result, Tesla will have a negative free cash flow the rest of the year."
     }
   ],
   "trending": [
