@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-24T02:13:16Z",
+  "updated": "2026-04-24T06:06:03Z",
   "news": [
     {
       "title": "Claude is connecting directly to your personal apps like Spotify, Uber Eats, and TurboTax",
@@ -209,14 +209,14 @@
       "downloads": 63121
     },
     {
-      "id": "Jiunsong/supergemma4-26b-uncensored-gguf-v2",
-      "displayName": "supergemma4 26b uncensored v2",
-      "downloads": 126271
-    },
-    {
       "id": "HauhauCS/Qwen3.6-27B-Uncensored-HauhauCS-Aggressive",
       "displayName": "Qwen3.6 27B Uncensored HauhauCS Aggressive",
       "downloads": 9535
+    },
+    {
+      "id": "Jiunsong/supergemma4-26b-uncensored-gguf-v2",
+      "displayName": "supergemma4 26b uncensored v2",
+      "downloads": 126271
     },
     {
       "id": "unsloth/Kimi-K2.6-GGUF",
