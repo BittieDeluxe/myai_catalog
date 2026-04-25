@@ -1,6 +1,20 @@
 {
-  "updated": "2026-04-25T20:34:15Z",
+  "updated": "2026-04-25T22:33:06Z",
   "news": [
+    {
+      "title": "Anthropic created a test marketplace for agent-on-agent commerce",
+      "url": "https://techcrunch.com/2026/04/25/anthropic-created-a-test-marketplace-for-agent-on-agent-commerce/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-04-25T21:43:37Z",
+      "snippet": "In a recent experiment, Anthropic created a classified marketplace where AI agents represented both buyers and sellers, striking real deals for real goods and real money."
+    },
+    {
+      "title": "Maine\u2019s governor vetoes data center moratorium",
+      "url": "https://techcrunch.com/2026/04/25/maines-governor-vetoes-data-center-moratorium/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-04-25T20:57:08Z",
+      "snippet": "L.D. 307 would have imposed the country\u2019s first statewide moratorium on new data centers \u2014 lasting, in this case, until November 1, 2027."
+    },
     {
       "title": "OpenAI CEO apologizes to Tumbler Ridge community",
       "url": "https://techcrunch.com/2026/04/25/openai-ceo-apologizes-to-tumbler-ridge-community/",
@@ -114,13 +128,6 @@
       "snippet": "Elon Musk cofounded OpenAI, and then flounced off in a huff when he wasn't anointed CEO, leaving Sam Altman as the last power-hungry man standing. Now, Musk is back with a lawsuit, and a trial is sche"
     },
     {
-      "title": "In another wild turn for AI chips, Meta signs deal for millions of Amazon AI CPUs",
-      "url": "https://techcrunch.com/2026/04/24/in-another-wild-turn-for-ai-chips-meta-signs-deal-for-millions-of-amazon-ai-cpus/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-04-24T12:00:00Z",
-      "snippet": "Meta has commandeered a big chunk of Amazon's homegrown CPUs (not GPUs) for AI agentic workloads, signaling that a new kind of chip race has begun."
-    },
-    {
       "title": "China\u2019s DeepSeek previews new AI model a year after jolting US rivals",
       "url": "https://www.theverge.com/ai-artificial-intelligence/918035/deepseek-preview-v4-ai-model",
       "source": "The Verge",
@@ -140,13 +147,6 @@
       "source": "The Verge",
       "publishedAt": "2026-04-23T22:27:11Z",
       "snippet": "Claude users can access more apps with Anthropic's AI now thanks to new connectors for everything from hiking to grocery shopping. Anthropic already supported connecting numerous work-related apps to "
-    },
-    {
-      "title": "Bret Taylor\u2019s Sierra buys YC-backed AI startup Fragment",
-      "url": "https://techcrunch.com/2026/04/23/bret-taylors-sierra-buys-yc-backed-ai-startup-fragment/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-04-23T21:00:00Z",
-      "snippet": "Sierra, the AI customer service agent startup founded by technologist Bret Taylor, announced today that it has acquired the YC-backed French startup Fragment."
     },
     {
       "title": "Meta is laying off 10 percent of its staff",
@@ -204,14 +204,14 @@
       "downloads": 104757
     },
     {
-      "id": "Jackrong/Qwopus-GLM-18B-Merged-GGUF",
-      "displayName": "Qwopus GLM 18B Merged",
-      "downloads": 73177
-    },
-    {
       "id": "HauhauCS/Qwen3.6-27B-Uncensored-HauhauCS-Aggressive",
       "displayName": "Qwen3.6 27B Uncensored HauhauCS Aggressive",
       "downloads": 110101
+    },
+    {
+      "id": "Jackrong/Qwopus-GLM-18B-Merged-GGUF",
+      "displayName": "Qwopus GLM 18B Merged",
+      "downloads": 73177
     },
     {
       "id": "unsloth/Kimi-K2.6-GGUF",
