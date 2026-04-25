@@ -1,6 +1,27 @@
 {
-  "updated": "2026-04-25T14:38:50Z",
+  "updated": "2026-04-25T16:36:38Z",
   "news": [
+    {
+      "title": "Why Cohere is merging with Aleph Alpha",
+      "url": "https://techcrunch.com/2026/04/25/why-cohere-is-merging-with-aleph-alpha/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-04-25T16:00:00Z",
+      "snippet": "Canadian AI startup Cohere is taking over Germany-based Aleph Alpha with support from Lidl\u2019s owner, Schwarz Group. With the blessing of their governments, the companies intend to offer a sovereign alt"
+    },
+    {
+      "title": "Why Tokyo is the most important tech destination of 2026",
+      "url": "https://techcrunch.com/2026/04/25/why-tokyo-is-the-most-important-tech-destination-of-2026/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-04-25T15:03:00Z",
+      "snippet": "SusHi Tech Tokyo 2026 has four tightly defined technology domains, each backed by live demonstrations, dedicated exhibit floors, and sessions featuring the people actually building and funding these t"
+    },
+    {
+      "title": "Apple under Ternus: what comes next for the tech giant\u2019s hardware strategy",
+      "url": "https://techcrunch.com/2026/04/25/apple-under-ternus-what-comes-next-for-the-tech-giants-hardware-strategy/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-04-25T15:00:00Z",
+      "snippet": "John Ternus, Apple's incoming CEO, is a hardware guy, signaling Apple may be putting devices back at the center of its strategy."
+    },
     {
       "title": "Meta\u2019s loss is Thinking Machines\u2019 gain",
       "url": "https://techcrunch.com/2026/04/24/metas-loss-is-thinking-machines-gain/",
@@ -135,13 +156,6 @@
       "snippet": "Noscroll wants to cure doomscrolling with an AI bot that reads the internet for you."
     },
     {
-      "title": "OpenAI releases GPT-5.5, bringing company one step closer to an AI \u2018super app\u2019",
-      "url": "https://techcrunch.com/2026/04/23/openai-chatgpt-gpt-5-5-ai-model-superapp/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-04-23T18:29:29Z",
-      "snippet": "OpenAI says its latest model offers increased capabilities across a broad variety of categories."
-    },
-    {
       "title": "Anthropic&#8217;s Mythos breach was humiliating",
       "url": "https://www.theverge.com/ai-artificial-intelligence/917644/anthropic-claude-mythos-breach-humiliation",
       "source": "The Verge",
@@ -156,25 +170,11 @@
       "snippet": "OpenAI just announced its new GPT-5.5 model, which the company calls its \"smartest and most intuitive to use model yet, and the next step toward a new way of getting work done on a computer.\" OpenAI j"
     },
     {
-      "title": "Era raises $11M to build a software platform for AI gadgets",
-      "url": "https://techcrunch.com/2026/04/23/era-computer-raises-11m-to-build-a-software-platform-for-ai-gadgets/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-04-23T16:00:00Z",
-      "snippet": "Era thinks that we will see many form factors of AI hardware, including glasses, rings, and pendants."
-    },
-    {
       "title": "THE PEOPLE DO NOT YEARN FOR AUTOMATION",
       "url": "https://www.theverge.com/podcast/917029/software-brain-ai-backlash-databases-automation",
       "source": "The Verge",
       "publishedAt": "2026-04-23T14:00:00Z",
       "snippet": "Today on Decoder, I want to lay out an idea that&#8217;s been banging around my head for weeks now as we&#8217;ve been reporting on AI and having conversations here on this show. I&#8217;ve been calli"
-    },
-    {
-      "title": "Grab a ticket today: The first StrictlyVC of 2026 kicks off in just a week in San Francisco",
-      "url": "https://techcrunch.com/2026/04/23/grab-a-ticket-today-the-first-strictlyvc-of-2026-kicks-off-in-just-a-week-in-san-francisco/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-04-23T14:00:00Z",
-      "snippet": "StrictlyVC San Francisco is in just a week. Now\u2019s the time to grab yourself a ticket. Join VCs and founders at Sentro Filipino Cultural Center on April 30."
     }
   ],
   "trending": [
