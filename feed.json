@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-25T10:39:33Z",
+  "updated": "2026-04-25T12:56:14Z",
   "news": [
     {
       "title": "Meta\u2019s loss is Thinking Machines\u2019 gain",
@@ -194,14 +194,14 @@
       "downloads": 418743
     },
     {
-      "id": "Jackrong/Qwopus-GLM-18B-Merged-GGUF",
-      "displayName": "Qwopus GLM 18B Merged",
-      "downloads": 73177
-    },
-    {
       "id": "OBLITERATUS/gemma-4-E4B-it-OBLITERATED",
       "displayName": "gemma 4 E4B OBLITERATED",
       "downloads": 110832
+    },
+    {
+      "id": "Jackrong/Qwopus-GLM-18B-Merged-GGUF",
+      "displayName": "Qwopus GLM 18B Merged",
+      "downloads": 73177
     },
     {
       "id": "hesamation/Qwen3.6-35B-A3B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
