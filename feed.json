@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-26T18:45:45Z",
+  "updated": "2026-04-26T20:34:27Z",
   "news": [
     {
       "title": "To buy this Bay Area home, you\u2019ll need Anthropic equity",
@@ -194,11 +194,6 @@
       "downloads": 460832
     },
     {
-      "id": "OBLITERATUS/gemma-4-E4B-it-OBLITERATED",
-      "displayName": "gemma 4 E4B OBLITERATED",
-      "downloads": 120432
-    },
-    {
       "id": "hesamation/Qwen3.6-35B-A3B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
       "displayName": "Qwen3.6 35B A3B Claude 4.6 Opus Reasoning Distilled",
       "downloads": 117163
@@ -207,6 +202,11 @@
       "id": "HauhauCS/Qwen3.6-27B-Uncensored-HauhauCS-Aggressive",
       "displayName": "Qwen3.6 27B Uncensored HauhauCS Aggressive",
       "downloads": 146505
+    },
+    {
+      "id": "OBLITERATUS/gemma-4-E4B-it-OBLITERATED",
+      "displayName": "gemma 4 E4B OBLITERATED",
+      "downloads": 120432
     },
     {
       "id": "unsloth/Kimi-K2.6-GGUF",
