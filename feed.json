@@ -1,6 +1,13 @@
 {
-  "updated": "2026-04-26T14:39:36Z",
+  "updated": "2026-04-26T16:38:06Z",
   "news": [
+    {
+      "title": "To buy this Bay Area home, you\u2019ll need Anthropic equity",
+      "url": "https://techcrunch.com/2026/04/26/to-buy-this-bay-area-home-youll-need-anthropic-equity/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-04-26T15:30:00Z",
+      "snippet": "Someone\u2019s offering an unusual deal for a 13-acre property in Mill Valley, just north of South Francisco."
+    },
     {
       "title": "Anthropic created a test marketplace for agent-on-agent commerce",
       "url": "https://techcrunch.com/2026/04/25/anthropic-created-a-test-marketplace-for-agent-on-agent-commerce/",
@@ -114,13 +121,6 @@
       "snippet": "Nothing's new on-device dictation tool supports over 100 languages."
     },
     {
-      "title": "DeepSeek previews new AI model that \u2018closes the gap\u2019 with frontier models",
-      "url": "https://techcrunch.com/2026/04/24/deepseek-previews-new-ai-model-that-closes-the-gap-with-frontier-models/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-04-24T13:30:59Z",
-      "snippet": "DeepSeek says both models are more efficient and performant than DeepSeek V3.2 due to architectural improvements, and have almost \"closed the gap\" with current leading models, both open and closed, on"
-    },
-    {
       "title": "Musk vs. Altman is here, and it&#8217;s going to get messy",
       "url": "https://www.theverge.com/ai-artificial-intelligence/917755/musk-altman-openai-xai-gossip",
       "source": "The Verge",
@@ -224,9 +224,9 @@
       "downloads": 988427
     },
     {
-      "id": "unsloth/gemma-4-26B-A4B-it-GGUF",
-      "displayName": "gemma 4 26B A4B",
-      "downloads": 3062394
+      "id": "Jackrong/Qwopus3.6-27B-v1-preview-GGUF",
+      "displayName": "Qwopus3.6 27B v1 preview",
+      "downloads": 23869
     }
   ]
 }
