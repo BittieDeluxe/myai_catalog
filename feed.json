@@ -1,6 +1,13 @@
 {
-  "updated": "2026-04-27T06:24:58Z",
+  "updated": "2026-04-27T10:10:49Z",
   "news": [
+    {
+      "title": "Meta inks deal for solar power at night, beamed from space",
+      "url": "https://techcrunch.com/2026/04/27/meta-inks-deal-for-solar-power-at-night-beamed-from-space/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-04-27T10:00:00Z",
+      "snippet": "Overview Energy's first contract with Meta is a small step toward a future of space-based solar power."
+    },
     {
       "title": "To buy this Bay Area home, you\u2019ll need Anthropic equity",
       "url": "https://techcrunch.com/2026/04/26/to-buy-this-bay-area-home-youll-need-anthropic-equity/",
@@ -114,13 +121,6 @@
       "snippet": "Tim Cook plans to step down from his CEO role in September,\u00a0handing the reins to hardware chief John Ternus.\u00a0\u00a0 Ternus may be inheriting one of the most durable businesses in tech, but&#160;he\u2019s&#160;a"
     },
     {
-      "title": "Nothing introduces an AI-powered dictation tool",
-      "url": "https://techcrunch.com/2026/04/24/nothing-introduces-an-ai-powered-dictation-tool/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-04-24T13:41:42Z",
-      "snippet": "Nothing's new on-device dictation tool supports over 100 languages."
-    },
-    {
       "title": "Musk vs. Altman is here, and it&#8217;s going to get messy",
       "url": "https://www.theverge.com/ai-artificial-intelligence/917755/musk-altman-openai-xai-gossip",
       "source": "The Verge",
@@ -181,52 +181,52 @@
     {
       "id": "unsloth/Qwen3.6-27B-GGUF",
       "displayName": "Qwen3.6 27B",
-      "downloads": 553179
+      "downloads": 636345
     },
     {
       "id": "unsloth/Qwen3.6-35B-A3B-GGUF",
       "displayName": "Qwen3.6 35B A3B",
-      "downloads": 1574581
+      "downloads": 1646295
     },
     {
       "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
       "displayName": "Qwen3.6 35B A3B Uncensored HauhauCS Aggressive",
-      "downloads": 460832
+      "downloads": 525932
     },
     {
       "id": "HauhauCS/Qwen3.6-27B-Uncensored-HauhauCS-Aggressive",
       "displayName": "Qwen3.6 27B Uncensored HauhauCS Aggressive",
-      "downloads": 146505
+      "downloads": 190878
     },
     {
       "id": "hesamation/Qwen3.6-35B-A3B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
       "displayName": "Qwen3.6 35B A3B Claude 4.6 Opus Reasoning Distilled",
-      "downloads": 117163
+      "downloads": 129164
     },
     {
       "id": "OBLITERATUS/gemma-4-E4B-it-OBLITERATED",
       "displayName": "gemma 4 E4B OBLITERATED",
-      "downloads": 120432
+      "downloads": 127538
     },
     {
       "id": "unsloth/Kimi-K2.6-GGUF",
       "displayName": "Kimi K2.6",
-      "downloads": 16617
+      "downloads": 25400
     },
     {
       "id": "Jackrong/Qwopus-GLM-18B-Merged-GGUF",
       "displayName": "Qwopus GLM 18B Merged",
-      "downloads": 75797
+      "downloads": 77763
     },
     {
       "id": "Jackrong/Qwopus3.6-27B-v1-preview-GGUF",
       "displayName": "Qwopus3.6 27B v1 preview",
-      "downloads": 23869
+      "downloads": 35971
     },
     {
-      "id": "unsloth/gemma-4-26B-A4B-it-GGUF",
-      "displayName": "gemma 4 26B A4B",
-      "downloads": 3062394
+      "id": "YTan2000/Qwen3.6-27B-TQ3_4S",
+      "displayName": "Qwen3.6 27B TQ3_4S",
+      "downloads": 29899
     }
   ]
 }
