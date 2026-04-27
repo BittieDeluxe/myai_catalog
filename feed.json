@@ -1,8 +1,15 @@
 {
-  "updated": "2026-04-27T13:44:19Z",
+  "updated": "2026-04-27T15:43:43Z",
   "news": [
     {
-      "title": "China vetoes Meta\u2019s $2B Manus deal after months-long probe",
+      "title": "Canva apologizes after its AI tool replaces \u2018Palestine\u2019 in designs",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/919028/canva-magic-layers-ai-replacing-palestine",
+      "source": "The Verge",
+      "publishedAt": "2026-04-27T14:29:23Z",
+      "snippet": "One of Canva's new AI features has been caught replacing the word \"Palestine\" in designs. The Magic Layers feature - which is designed to break flat images out into separate editable components - isn'"
+    },
+    {
+      "title": "China blocks Meta\u2019s $2B Manus deal after months-long probe",
       "url": "https://techcrunch.com/2026/04/27/china-vetoes-metas-2b-manus-deal-after-months-long-probe/",
       "source": "TechCrunch",
       "publishedAt": "2026-04-27T13:16:55Z",
@@ -13,7 +20,7 @@
       "url": "https://techcrunch.com/2026/04/27/openai-could-be-making-a-phone-with-ai-agents-replacing-apps/",
       "source": "TechCrunch",
       "publishedAt": "2026-04-27T13:08:59Z",
-      "snippet": "The phone could go in mass production in 2028, an analyst says."
+      "snippet": "The phone could go into mass production in 2028, an analyst says."
     },
     {
       "title": "The AI-designed car is taking shape",
@@ -168,13 +175,6 @@
       "source": "The Verge",
       "publishedAt": "2026-04-23T18:24:56Z",
       "snippet": "Anthropic's tightly controlled rollout of Claude Mythos has taken an awkward turn. After spending weeks insisting the AI model is so capable at cybersecurity that it is too dangerous to release public"
-    },
-    {
-      "title": "OpenAI says its new GPT-5.5 model is more efficient and better at coding",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/917612/openai-gpt-5-5-chatgpt",
-      "source": "The Verge",
-      "publishedAt": "2026-04-23T18:00:00Z",
-      "snippet": "OpenAI just announced its new GPT-5.5 model, which the company calls its \"smartest and most intuitive to use model yet, and the next step toward a new way of getting work done on a computer.\" OpenAI j"
     }
   ],
   "trending": [
@@ -224,9 +224,9 @@
       "downloads": 35971
     },
     {
-      "id": "unsloth/gemma-4-26B-A4B-it-GGUF",
-      "displayName": "gemma 4 26B A4B",
-      "downloads": 3154984
+      "id": "YTan2000/Qwen3.6-27B-TQ3_4S",
+      "displayName": "Qwen3.6 27B TQ3_4S",
+      "downloads": 29899
     }
   ]
 }
