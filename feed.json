@@ -1,6 +1,27 @@
 {
-  "updated": "2026-04-27T15:43:43Z",
+  "updated": "2026-04-27T17:18:25Z",
   "news": [
+    {
+      "title": "Microsoft and OpenAI\u2019s famed AGI agreement is dead",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/918981/openai-microsoft-renegotiate-contract",
+      "source": "The Verge",
+      "publishedAt": "2026-04-27T16:15:47Z",
+      "snippet": "OpenAI and Microsoft's partnership-turned-situationship just got even less committed. And a clause about artificial general intelligence, which has for years dictated the future of their deal, has off"
+    },
+    {
+      "title": "Investors back Skye\u2019s AI home screen app for iPhone ahead of launch",
+      "url": "https://techcrunch.com/2026/04/27/investors-back-skye-signull-labs-ai-home-screen-app-for-iphone-ahead-of-launch/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-04-27T16:13:02Z",
+      "snippet": "Skye's new AI app attracted investors before it even launched \u2014 a sign of interest in a more AI-aware iPhone."
+    },
+    {
+      "title": "Elon Musk and Sam Altman\u2019s court battle over the future of OpenAI",
+      "url": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
+      "source": "The Verge",
+      "publishedAt": "2026-04-27T15:50:29Z",
+      "snippet": "Sam Altman and Elon Musk are set to face off in a high-stakes trial that could alter the future of tech\u2019s leading AI startup, OpenAI. The trial begins with jury selection on April 27th, as Musk pushes"
+    },
     {
       "title": "Canva apologizes after its AI tool replaces \u2018Palestine\u2019 in designs",
       "url": "https://www.theverge.com/ai-artificial-intelligence/919028/canva-magic-layers-ai-replacing-palestine",
@@ -121,13 +142,6 @@
       "snippet": "In the first 24 hours of the assault on Iran, the US military struck more than 1,000 targets, nearly double the scale of the \"shock and awe\" attack on Iraq over two decades ago. This acceleration was "
     },
     {
-      "title": "Marked-up Mac minis flood eBay amid shortages driven by AI",
-      "url": "https://techcrunch.com/2026/04/24/mac-mini-price-expensive-ebay-shortage-ai-memory/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-04-24T16:42:19Z",
-      "snippet": "Apple\u2019s sold-out Mac mini is spawning marked-up eBay listings as demand surges for the compact desktop, now favored for running local AI models and tools."
-    },
-    {
       "title": "AirPods, Touch Bars, and the rest of Tim Cook&#8217;s legacy",
       "url": "https://www.theverge.com/podcast/917965/apple-ceo-cook-ternus-transition",
       "source": "The Verge",
@@ -161,20 +175,6 @@
       "source": "The Verge",
       "publishedAt": "2026-04-23T22:27:11Z",
       "snippet": "Claude users can access more apps with Anthropic's AI now thanks to new connectors for everything from hiking to grocery shopping. Anthropic already supported connecting numerous work-related apps to "
-    },
-    {
-      "title": "Meta is laying off 10 percent of its staff",
-      "url": "https://www.theverge.com/tech/917690/meta-is-laying-off-10-percent-of-its-staff",
-      "source": "The Verge",
-      "publishedAt": "2026-04-23T19:41:07Z",
-      "snippet": "Meta is planning to layoff around 10 percent of employees in May, according to a memo from the company's chief people officer, Janelle Gale, published by Bloomberg. That means approximately 8,000 peop"
-    },
-    {
-      "title": "Anthropic&#8217;s Mythos breach was humiliating",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/917644/anthropic-claude-mythos-breach-humiliation",
-      "source": "The Verge",
-      "publishedAt": "2026-04-23T18:24:56Z",
-      "snippet": "Anthropic's tightly controlled rollout of Claude Mythos has taken an awkward turn. After spending weeks insisting the AI model is so capable at cybersecurity that it is too dangerous to release public"
     }
   ],
   "trending": [
