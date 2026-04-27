@@ -1,6 +1,13 @@
 {
-  "updated": "2026-04-27T19:13:29Z",
+  "updated": "2026-04-27T20:58:06Z",
   "news": [
+    {
+      "title": "Canonical lays out a plan for AI in Ubuntu Linux",
+      "url": "https://www.theverge.com/tech/919411/canonical-ubuntu-linux-ai-features",
+      "source": "The Verge",
+      "publishedAt": "2026-04-27T20:47:45Z",
+      "snippet": "One of the most popular Linux distributions is about to get an influx of AI features. As reported by Phoronix, Jon Seager, VP of engineering at Ubuntu developer Canonical, shared a blog post on Monday"
+    },
     {
       "title": "Google employees ask Sundar Pichai to say no to classified military AI use",
       "url": "https://www.theverge.com/ai-artificial-intelligence/919326/google-ai-pentagon-classified-letter",
@@ -13,7 +20,7 @@
       "url": "https://techcrunch.com/2026/04/27/openai-ends-microsoft-legal-peril-over-its-50b-amazon-deal/",
       "source": "TechCrunch",
       "publishedAt": "2026-04-27T17:40:38Z",
-      "snippet": "OpenAI has won major concessions from its largest shareholder, Microsoft, that will allow it to sell products on AWS, while Microsoft get more cash in a revenue-share agreement."
+      "snippet": "OpenAI has won major concessions from its largest shareholder, Microsoft, that will allow it to sell products on AWS, while Microsoft gets more cash in a revenue-share agreement."
     },
     {
       "title": "DeepMind\u2019s David Silver just raised $1.1B to build an AI that learns without human data",
@@ -168,13 +175,6 @@
       "source": "The Verge",
       "publishedAt": "2026-04-24T09:45:30Z",
       "snippet": "Chinese AI company DeepSeek released a preview of its hotly anticipated next-generation AI model V4 on Friday, saying that the open-source model can compete with leading closed-source systems from US "
-    },
-    {
-      "title": "Prestigious photo contest answers \u2018what is a photo?\u2019",
-      "url": "https://www.theverge.com/gadgets/918016/prestigious-photo-contest-answers-what-is-a-photo",
-      "source": "The Verge",
-      "publishedAt": "2026-04-24T09:40:07Z",
-      "snippet": "We love to muse over how \"real\" photography is defined here at The Verge now that generative AI is so prolific, and the World Press Photo competition might have the answer. The prestigious award celeb"
     }
   ],
   "trending": [
