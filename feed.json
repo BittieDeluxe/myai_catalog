@@ -1,6 +1,27 @@
 {
-  "updated": "2026-04-27T17:18:25Z",
+  "updated": "2026-04-27T19:13:29Z",
   "news": [
+    {
+      "title": "Google employees ask Sundar Pichai to say no to classified military AI use",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/919326/google-ai-pentagon-classified-letter",
+      "source": "The Verge",
+      "publishedAt": "2026-04-27T18:17:12Z",
+      "snippet": "Over 600 Google employees signed a letter to CEO Sundar Pichai demanding that Google block the Pentagon from using its AI models for classified purposes, reports the The Washington Post. Its organizer"
+    },
+    {
+      "title": "OpenAI ends Microsoft legal peril over its $50B Amazon deal",
+      "url": "https://techcrunch.com/2026/04/27/openai-ends-microsoft-legal-peril-over-its-50b-amazon-deal/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-04-27T17:40:38Z",
+      "snippet": "OpenAI has won major concessions from its largest shareholder, Microsoft, that will allow it to sell products on AWS, while Microsoft get more cash in a revenue-share agreement."
+    },
+    {
+      "title": "DeepMind\u2019s David Silver just raised $1.1B to build an AI that learns without human data",
+      "url": "https://techcrunch.com/2026/04/27/deepminds-david-silver-just-raised-1-1b-to-build-an-ai-that-learns-without-human-data/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-04-27T17:24:21Z",
+      "snippet": "Ineffable Intelligence, a British AI lab founded a mere few months ago by former DeepMind researcher David Silver, has raised $1.1 billion in funding at a valuation of $5.1 billion."
+    },
     {
       "title": "Microsoft and OpenAI\u2019s famed AGI agreement is dead",
       "url": "https://www.theverge.com/ai-artificial-intelligence/918981/openai-microsoft-renegotiate-contract",
@@ -62,7 +83,7 @@
       "url": "https://techcrunch.com/2026/04/26/to-buy-this-bay-area-home-youll-need-anthropic-equity/",
       "source": "TechCrunch",
       "publishedAt": "2026-04-26T15:30:00Z",
-      "snippet": "Someone\u2019s offering an unusual deal for a 13-acre property in Mill Valley, just north of South Francisco."
+      "snippet": "Someone\u2019s offering an unusual deal for a 13-acre property in Mill Valley, just north of San Francisco."
     },
     {
       "title": "Anthropic created a test marketplace for agent-on-agent commerce",
@@ -90,7 +111,7 @@
       "url": "https://techcrunch.com/2026/04/25/why-cohere-is-merging-with-aleph-alpha/",
       "source": "TechCrunch",
       "publishedAt": "2026-04-25T16:00:00Z",
-      "snippet": "Canadian AI startup Cohere is taking over Germany-based Aleph Alpha with support from Lidl\u2019s owner, Schwarz Group. With the blessing of their governments, the companies intend to offer a sovereign alt"
+      "snippet": "Canadian AI startup Cohere is taking over Germany-based Aleph Alpha with support from Schwarz Group. With the blessing of their governments, the companies intend to offer a sovereign alternative to en"
     },
     {
       "title": "Why Tokyo is the most important tech destination of 2026",
@@ -119,20 +140,6 @@
       "source": "TechCrunch",
       "publishedAt": "2026-04-24T19:49:35Z",
       "snippet": "ComfyUI, whose tools give creators more control over AI image, video, and audio generation, just raised $30 million."
-    },
-    {
-      "title": "Google to invest up to $40B in Anthropic in cash and compute",
-      "url": "https://techcrunch.com/2026/04/24/google-to-invest-up-to-40b-in-anthropic-in-cash-and-compute/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-04-24T18:00:03Z",
-      "snippet": "Google plans up to $40B investment in Anthropic as AI rivals race to secure massive compute capacity, following the limited release of its powerful, cybersecurity-focused Mythos model."
-    },
-    {
-      "title": "Apple\u2019s new CEO, and why Elon Musk wants to buy Cursor for $60B",
-      "url": "https://techcrunch.com/podcast/apples-new-ceo-and-why-elon-musk-wants-to-buy-cursor-for-60b/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-04-24T17:45:57Z",
-      "snippet": "A new era is on the way for Apple as Tim Cook plans to step down from his CEO role in September,&#160;handing the reins to hardware chief John Ternus.&#160;&#160; Ternus may be inheriting one of the m"
     },
     {
       "title": "How Project Maven taught the military to love AI",
@@ -168,13 +175,6 @@
       "source": "The Verge",
       "publishedAt": "2026-04-24T09:40:07Z",
       "snippet": "We love to muse over how \"real\" photography is defined here at The Verge now that generative AI is so prolific, and the World Press Photo competition might have the answer. The prestigious award celeb"
-    },
-    {
-      "title": "Claude is connecting directly to your personal apps like Spotify, Uber Eats, and TurboTax",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/917871/anthropic-claude-personal-app-connectors",
-      "source": "The Verge",
-      "publishedAt": "2026-04-23T22:27:11Z",
-      "snippet": "Claude users can access more apps with Anthropic's AI now thanks to new connectors for everything from hiking to grocery shopping. Anthropic already supported connecting numerous work-related apps to "
     }
   ],
   "trending": [
@@ -189,14 +189,14 @@
       "downloads": 1646295
     },
     {
-      "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
-      "displayName": "Qwen3.6 35B A3B Uncensored HauhauCS Aggressive",
-      "downloads": 525932
-    },
-    {
       "id": "HauhauCS/Qwen3.6-27B-Uncensored-HauhauCS-Aggressive",
       "displayName": "Qwen3.6 27B Uncensored HauhauCS Aggressive",
       "downloads": 190878
+    },
+    {
+      "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
+      "displayName": "Qwen3.6 35B A3B Uncensored HauhauCS Aggressive",
+      "downloads": 525932
     },
     {
       "id": "hesamation/Qwen3.6-35B-A3B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
