@@ -1,6 +1,27 @@
 {
-  "updated": "2026-04-27T10:10:49Z",
+  "updated": "2026-04-27T13:44:19Z",
   "news": [
+    {
+      "title": "China vetoes Meta\u2019s $2B Manus deal after months-long probe",
+      "url": "https://techcrunch.com/2026/04/27/china-vetoes-metas-2b-manus-deal-after-months-long-probe/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-04-27T13:16:55Z",
+      "snippet": "China has ordered Meta to unwind its multibillion-dollar Manus acquisition, dealing a potential setback to Zuckerberg\u2019s push into AI agents."
+    },
+    {
+      "title": "OpenAI could be making a phone with AI agents replacing apps",
+      "url": "https://techcrunch.com/2026/04/27/openai-could-be-making-a-phone-with-ai-agents-replacing-apps/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-04-27T13:08:59Z",
+      "snippet": "The phone could go in mass production in 2028, an analyst says."
+    },
+    {
+      "title": "The AI-designed car is taking shape",
+      "url": "https://www.theverge.com/transportation/918411/gm-ai-car-design-nissan-neural-concept",
+      "source": "The Verge",
+      "publishedAt": "2026-04-27T11:00:00Z",
+      "snippet": "The auto design world is full of advanced 3D visualization tools and VR sculpting platforms, but your average new car still enters the world as a sketch. Those sketches traditionally see endless itera"
+    },
     {
       "title": "Meta inks deal for solar power at night, beamed from space",
       "url": "https://techcrunch.com/2026/04/27/meta-inks-deal-for-solar-power-at-night-beamed-from-space/",
@@ -107,20 +128,6 @@
       "snippet": "We knew at some point Tim Cook would step down from his position as Apple's CEO. Over the last year, it has become increasingly obvious that John Ternus was his likely successor. The news this week wa"
     },
     {
-      "title": "Uber CTO Praveen Neppalli Naga joins stacked StrictlyVC SF lineup for April 30 event",
-      "url": "https://techcrunch.com/2026/04/24/uber-cto-praveen-neppalli-naga-joins-stacked-strictlyvc-sf-lineup-for-april-30-event/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-04-24T14:00:00Z",
-      "snippet": "Surprise! StrictlyVC San Francisco, which will kick off this year\u2019s events lineup for TechCrunch on April 30 at the Sentro Filipino Cultural Center, is getting a new addition to its increasingly stack"
-    },
-    {
-      "title": "Tim Cook is stepping down. What\u00a0happens\u00a0to Apple\u00a0now?",
-      "url": "https://techcrunch.com/video/tim-cook-is-stepping-down-what-happens-to-apple-now/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-04-24T14:00:00Z",
-      "snippet": "Tim Cook plans to step down from his CEO role in September,\u00a0handing the reins to hardware chief John Ternus.\u00a0\u00a0 Ternus may be inheriting one of the most durable businesses in tech, but&#160;he\u2019s&#160;a"
-    },
-    {
       "title": "Musk vs. Altman is here, and it&#8217;s going to get messy",
       "url": "https://www.theverge.com/ai-artificial-intelligence/917755/musk-altman-openai-xai-gossip",
       "source": "The Verge",
@@ -168,13 +175,6 @@
       "source": "The Verge",
       "publishedAt": "2026-04-23T18:00:00Z",
       "snippet": "OpenAI just announced its new GPT-5.5 model, which the company calls its \"smartest and most intuitive to use model yet, and the next step toward a new way of getting work done on a computer.\" OpenAI j"
-    },
-    {
-      "title": "THE PEOPLE DO NOT YEARN FOR AUTOMATION",
-      "url": "https://www.theverge.com/podcast/917029/software-brain-ai-backlash-databases-automation",
-      "source": "The Verge",
-      "publishedAt": "2026-04-23T14:00:00Z",
-      "snippet": "Today on Decoder, I want to lay out an idea that&#8217;s been banging around my head for weeks now as we&#8217;ve been reporting on AI and having conversations here on this show. I&#8217;ve been calli"
     }
   ],
   "trending": [
@@ -224,9 +224,9 @@
       "downloads": 35971
     },
     {
-      "id": "YTan2000/Qwen3.6-27B-TQ3_4S",
-      "displayName": "Qwen3.6 27B TQ3_4S",
-      "downloads": 29899
+      "id": "unsloth/gemma-4-26B-A4B-it-GGUF",
+      "displayName": "gemma 4 26B A4B",
+      "downloads": 3154984
     }
   ]
 }
