@@ -1,12 +1,47 @@
 {
-  "updated": "2026-04-28T16:06:05Z",
+  "updated": "2026-04-28T19:27:45Z",
   "news": [
     {
       "title": "Live updates from Elon Musk and Sam Altman\u2019s court battle over the future of OpenAI",
       "url": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
       "source": "The Verge",
-      "publishedAt": "2026-04-28T15:32:01Z",
+      "publishedAt": "2026-04-28T19:24:28Z",
       "snippet": "Sam Altman and Elon Musk are set to face off in a high-stakes trial that could alter the future of tech\u2019s leading AI startup, OpenAI. In 2024, Musk filed a lawsuit accusing OpenAI of abandoning its fo"
+    },
+    {
+      "title": "Elon Musk takes the stand in high-profile trial against OpenAI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/917052/elon-musk-takes-stand-trial-openai-sam-altman",
+      "source": "The Verge",
+      "publishedAt": "2026-04-28T19:00:13Z",
+      "snippet": "Elon Musk officially began his testimony in the trial he has brought against OpenAI CEO Sam Altman and company president Greg Brockman. The three were on the initial founding team of OpenAI, with Musk"
+    },
+    {
+      "title": "Amazon launches an AI-powered audio Q&A experience on product pages",
+      "url": "https://techcrunch.com/2026/04/28/amazon-launches-an-ai-powered-audio-qa-experience-on-product-pages/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-04-28T18:49:54Z",
+      "snippet": "Amazon's new \"Join the chat\" feature lets you ask questions about products and receive AI-powered audio responses."
+    },
+    {
+      "title": "Google expands Pentagon\u2019s access to its AI after Anthropic\u2019s refusal",
+      "url": "https://techcrunch.com/2026/04/28/google-expands-pentagons-access-to-its-ai-after-anthropics-refusal/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-04-28T18:15:00Z",
+      "snippet": "After Anthropic refused to allow the DoD to use its AI for domestic mass surveillance and autonomous weapons, Google has signed a new contract with the department."
+    },
+    {
+      "title": "Claude can now plug directly into Photoshop, Blender, and Ableton",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/919648/anthropic-claude-creative-connectors-adobe-blender",
+      "source": "The Verge",
+      "publishedAt": "2026-04-28T16:49:08Z",
+      "snippet": "Anthropic has launched a set of connectors for Claude that allow the AI chatbot to tap into popular creative software, including Adobe's Creative Cloud apps, Affinity, Blender, Ableton, Autodesk, and "
+    },
+    {
+      "title": "Lovable launches its vibe-coding app on iOS and Android",
+      "url": "https://techcrunch.com/2026/04/28/lovable-launches-its-vibe-coding-app-on-ios-and-android/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-04-28T16:09:30Z",
+      "snippet": "The app allows developers to vibe code web apps and websites on the go."
     },
     {
       "title": "Musk and Altman go to court",
@@ -34,14 +69,14 @@
       "url": "https://techcrunch.com/2026/04/28/red-hats-openclaw-maintainer-just-made-enterprise-claw-deployments-a-lot-safer/",
       "source": "TechCrunch",
       "publishedAt": "2026-04-28T13:00:00Z",
-      "snippet": "Tank OS puts OpenClaw AI agents into a container that let's it run reliably and more safely, especially for those running fleets of them."
+      "snippet": "Tank OS puts OpenClaw AI agents into a container that lets it run reliably and more safely, especially for those running fleets of them."
     },
     {
       "title": "Otter\u2019s new feature lets users search across their enterprise tools",
       "url": "https://techcrunch.com/2026/04/28/otters-new-feature-lets-users-search-across-their-enterprise-tools/",
       "source": "TechCrunch",
       "publishedAt": "2026-04-28T12:00:00Z",
-      "snippet": "Otter is also releasing a new Windows app that can capture meeting notes without joining one"
+      "snippet": "With this launch, users can connect their Gmail, Google Drive, Notion, Jira, and Salesforce accounts and query that data along with existing meeting data. The company said that it will soon allow conn"
     },
     {
       "title": "Google and Pentagon reportedly agree on deal for \u2018any lawful\u2019 use of AI",
@@ -100,25 +135,11 @@
       "snippet": "Ineffable Intelligence, a British AI lab founded a mere few months ago by former DeepMind researcher David Silver, has raised $1.1 billion in funding at a valuation of $5.1 billion."
     },
     {
-      "title": "Microsoft and OpenAI\u2019s famed AGI agreement is dead",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/918981/openai-microsoft-renegotiate-contract",
-      "source": "The Verge",
-      "publishedAt": "2026-04-27T16:15:47Z",
-      "snippet": "OpenAI and Microsoft's partnership-turned-situationship just got even less committed. And a clause about artificial general intelligence, which has for years dictated the future of their deal, has off"
-    },
-    {
       "title": "Investors back Skye\u2019s AI home screen app for iPhone ahead of launch",
       "url": "https://techcrunch.com/2026/04/27/investors-back-skye-signull-labs-ai-home-screen-app-for-iphone-ahead-of-launch/",
       "source": "TechCrunch",
       "publishedAt": "2026-04-27T16:13:02Z",
       "snippet": "Skye's new AI app attracted investors before it even launched \u2014 a sign of interest in a more AI-aware iPhone."
-    },
-    {
-      "title": "Canva apologizes after its AI tool replaces \u2018Palestine\u2019 in designs",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/919028/canva-magic-layers-ai-replacing-palestine",
-      "source": "The Verge",
-      "publishedAt": "2026-04-27T14:29:23Z",
-      "snippet": "One of Canva's new AI features has been caught replacing the word \"Palestine\" in designs. The Magic Layers feature - which is designed to break flat images out into separate editable components - isn'"
     },
     {
       "title": "China blocks Meta\u2019s $2B Manus deal after months-long probe",
@@ -154,27 +175,6 @@
       "source": "TechCrunch",
       "publishedAt": "2026-04-25T21:43:37Z",
       "snippet": "In a recent experiment, Anthropic created a classified marketplace where AI agents represented both buyers and sellers, striking real deals for real goods and real money."
-    },
-    {
-      "title": "Maine\u2019s governor vetoes data center moratorium",
-      "url": "https://techcrunch.com/2026/04/25/maines-governor-vetoes-data-center-moratorium/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-04-25T20:57:08Z",
-      "snippet": "L.D. 307 would have imposed the country\u2019s first statewide moratorium on new data centers \u2014 lasting, in this case, until November 1, 2027."
-    },
-    {
-      "title": "OpenAI CEO apologizes to Tumbler Ridge community",
-      "url": "https://techcrunch.com/2026/04/25/openai-ceo-apologizes-to-tumbler-ridge-community/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-04-25T17:17:56Z",
-      "snippet": "In a letter to the residents of Tumbler Ridge, Canada, OpenAI CEO Sam Altman said he is \u201cdeeply sorry\u201d that his company failed to alert law enforcement about the suspect in a recent mass shooting."
-    },
-    {
-      "title": "Why Cohere is merging with Aleph Alpha",
-      "url": "https://techcrunch.com/2026/04/25/why-cohere-is-merging-with-aleph-alpha/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-04-25T16:00:00Z",
-      "snippet": "Canadian AI startup Cohere is taking over Germany-based Aleph Alpha with support from Schwarz Group. With the blessing of their governments, the companies intend to offer a sovereign alternative to en"
     }
   ],
   "trending": [
