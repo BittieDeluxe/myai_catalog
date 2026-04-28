@@ -1,12 +1,33 @@
 {
-  "updated": "2026-04-28T19:27:45Z",
+  "updated": "2026-04-28T21:04:04Z",
   "news": [
+    {
+      "title": "Elon Musk tells the jury that all he wants to do is save humanity",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/920048/elon-musk-testimony-save-humanity",
+      "source": "The Verge",
+      "publishedAt": "2026-04-28T20:46:54Z",
+      "snippet": "On the stand, Elon Musk is positioning himself as a savior. In the high-profile trial between him and his fellow OpenAI co-founder, now CEO, Sam Altman, Musk opened by going through his background. He"
+    },
+    {
+      "title": "Taylor Swift is stepping up the legal war on AI copycats",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/919827/taylor-swift-trademarks-ai-copycats",
+      "source": "The Verge",
+      "publishedAt": "2026-04-28T20:30:00Z",
+      "snippet": "Taylor Swift has been at the center of AI imitation controversies for years, and now, she's become the latest celebrity who's escalating attempts to protect herself from AI copycats. As usual, however"
+    },
+    {
+      "title": "Amazon is already offering new OpenAI products on AWS",
+      "url": "https://techcrunch.com/2026/04/28/amazon-is-already-offering-new-openai-products-on-aws/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-04-28T19:48:02Z",
+      "snippet": "A day after OpenAI got Microsoft to agree to end exclusive rights, AWS announced a slate of OpenAI model offerings, including a new agent service."
+    },
     {
       "title": "Live updates from Elon Musk and Sam Altman\u2019s court battle over the future of OpenAI",
       "url": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
       "source": "The Verge",
-      "publishedAt": "2026-04-28T19:24:28Z",
-      "snippet": "Sam Altman and Elon Musk are set to face off in a high-stakes trial that could alter the future of tech\u2019s leading AI startup, OpenAI. In 2024, Musk filed a lawsuit accusing OpenAI of abandoning its fo"
+      "publishedAt": "2026-04-28T19:27:50Z",
+      "snippet": "Sam Altman and Elon Musk are facing off in a high-stakes trial that could alter the future of OpenAI and its most well-known product, ChatGPT. In 2024, Musk filed a lawsuit accusing OpenAI of abandoni"
     },
     {
       "title": "Elon Musk takes the stand in high-profile trial against OpenAI",
@@ -107,20 +128,6 @@
       "snippet": "Google is trying out an AI Mode-like search experience for YouTube. The company is now testing \"a new way to search on YouTube that feels more like a conversation,\" with results pulling in things like"
     },
     {
-      "title": "Canonical lays out a plan for AI in Ubuntu Linux",
-      "url": "https://www.theverge.com/tech/919411/canonical-ubuntu-linux-ai-features",
-      "source": "The Verge",
-      "publishedAt": "2026-04-27T20:47:45Z",
-      "snippet": "One of the most popular Linux distributions is about to get an influx of AI features. As reported by Phoronix, Jon Seager, VP of engineering at Ubuntu developer Canonical, shared a blog post on Monday"
-    },
-    {
-      "title": "Google employees ask Sundar Pichai to say no to classified military AI use",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/919326/google-ai-pentagon-classified-letter",
-      "source": "The Verge",
-      "publishedAt": "2026-04-27T18:17:12Z",
-      "snippet": "Over 600 Google employees signed a letter to CEO Sundar Pichai demanding that Google block the Pentagon from using its AI models for classified purposes, reports the The Washington Post. Its organizer"
-    },
-    {
       "title": "OpenAI ends Microsoft legal peril over its $50B Amazon deal",
       "url": "https://techcrunch.com/2026/04/27/openai-ends-microsoft-legal-peril-over-its-50b-amazon-deal/",
       "source": "TechCrunch",
@@ -168,13 +175,6 @@
       "source": "TechCrunch",
       "publishedAt": "2026-04-26T15:30:00Z",
       "snippet": "Someone\u2019s offering an unusual deal for a 13-acre property in Mill Valley, just north of San Francisco."
-    },
-    {
-      "title": "Anthropic created a test marketplace for agent-on-agent commerce",
-      "url": "https://techcrunch.com/2026/04/25/anthropic-created-a-test-marketplace-for-agent-on-agent-commerce/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-04-25T21:43:37Z",
-      "snippet": "In a recent experiment, Anthropic created a classified marketplace where AI agents represented both buyers and sellers, striking real deals for real goods and real money."
     }
   ],
   "trending": [
@@ -214,14 +214,14 @@
       "downloads": 48204
     },
     {
-      "id": "Jackrong/Qwopus-GLM-18B-Merged-GGUF",
-      "displayName": "Qwopus GLM 18B Merged",
-      "downloads": 79950
-    },
-    {
       "id": "kai-os/Carnice-V2-27b-GGUF",
       "displayName": "Carnice V2 27b",
       "downloads": 7150
+    },
+    {
+      "id": "Jackrong/Qwopus-GLM-18B-Merged-GGUF",
+      "displayName": "Qwopus GLM 18B Merged",
+      "downloads": 79950
     },
     {
       "id": "YTan2000/Qwen3.6-27B-TQ3_4S",
