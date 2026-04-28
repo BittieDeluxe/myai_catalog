@@ -1,6 +1,48 @@
 {
-  "updated": "2026-04-28T10:10:08Z",
+  "updated": "2026-04-28T13:55:10Z",
   "news": [
+    {
+      "title": "YouTube is testing an AI-powered search feature that shows guided answers",
+      "url": "https://techcrunch.com/2026/04/28/youtube-is-testing-an-ai-powered-search-feature-that-shows-guided-answers/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-04-28T13:54:06Z",
+      "snippet": "YouTube is rolling out the new AI search feature to Premium subscribers in the U.S. on an opt-in basis."
+    },
+    {
+      "title": "BCI startup Neurable looks to license its \u2018mind-reading\u2019 tech for consumer wearables",
+      "url": "https://techcrunch.com/2026/04/28/bci-startup-neurable-looks-to-license-its-mind-reading-tech-for-consumer-wearables/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-04-28T13:19:34Z",
+      "snippet": "The startup specializes in \"non-invasive\" \"mind-reading\" tech\u2014a kind of neural data collection that, its CEO hopes, will have all sorts of consumer applications."
+    },
+    {
+      "title": "Red Hat\u2019s OpenClaw maintainer just made enterprise Claw deployments a lot safer",
+      "url": "https://techcrunch.com/2026/04/28/red-hats-openclaw-maintainer-just-made-enterprise-claw-deployments-a-lot-safer/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-04-28T13:00:00Z",
+      "snippet": "Tank OS puts OpenClaw AI agents into a container that let's it run reliably and more safely, especially for those running fleets of them."
+    },
+    {
+      "title": "Otter\u2019s new feature lets users search across their enterprise tools",
+      "url": "https://techcrunch.com/2026/04/28/otters-new-feature-lets-users-search-across-their-enterprise-tools/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-04-28T12:00:00Z",
+      "snippet": "Otter is also releasing a new Windows app that can capture meeting notes without joining one"
+    },
+    {
+      "title": "Google and Pentagon reportedly agree on deal for \u2018any lawful\u2019 use of AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/919494/google-pentagon-classified-ai-deal",
+      "source": "The Verge",
+      "publishedAt": "2026-04-28T11:09:32Z",
+      "snippet": "Google has signed a classified deal that allows the US Department of Defense to use its AI models for \"any lawful government purpose,\" The Information reports. The agreement was reported less than a d"
+    },
+    {
+      "title": "Attack of the killer script kiddies",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/915660/mythos-script-kiddies-hackers-attack-cybersecurity-ai",
+      "source": "The Verge",
+      "publishedAt": "2026-04-28T11:00:00Z",
+      "snippet": "Last August, some of the best cybersecurity teams in the business gathered in Las Vegas to demonstrate the strength of their AI bug-finding systems at DARPA's Artificial Intelligence Cyber Challenge ("
+    },
     {
       "title": "Jury selection in Musk v. Altman: \u2018People don\u2019t like him\u2019",
       "url": "https://www.theverge.com/tech/919469/elon-musk-dont-like",
@@ -133,48 +175,6 @@
       "source": "TechCrunch",
       "publishedAt": "2026-04-25T16:00:00Z",
       "snippet": "Canadian AI startup Cohere is taking over Germany-based Aleph Alpha with support from Schwarz Group. With the blessing of their governments, the companies intend to offer a sovereign alternative to en"
-    },
-    {
-      "title": "Why Tokyo is the most important tech destination of 2026",
-      "url": "https://techcrunch.com/2026/04/25/why-tokyo-is-the-most-important-tech-destination-of-2026/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-04-25T15:03:00Z",
-      "snippet": "SusHi Tech Tokyo 2026 has four tightly defined technology domains, each backed by live demonstrations, dedicated exhibit floors, and sessions featuring the people actually building and funding these t"
-    },
-    {
-      "title": "Apple under Ternus: what comes next for the tech giant\u2019s hardware strategy",
-      "url": "https://techcrunch.com/2026/04/25/apple-under-ternus-what-comes-next-for-the-tech-giants-hardware-strategy/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-04-25T15:00:00Z",
-      "snippet": "John Ternus, Apple's incoming CEO, is a hardware guy, signaling Apple may be putting devices back at the center of its strategy."
-    },
-    {
-      "title": "Meta\u2019s loss is Thinking Machines\u2019 gain",
-      "url": "https://techcrunch.com/2026/04/24/metas-loss-is-thinking-machines-gain/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-04-24T20:52:07Z",
-      "snippet": "Meta has been poaching talent from Thinking Machines Lab. But it's a two-way street."
-    },
-    {
-      "title": "ComfyUI hits $500M valuation as creators seek more control over AI-generated media",
-      "url": "https://techcrunch.com/2026/04/24/comfyui-hits-500m-valuation-as-creators-seek-more-control-over-ai-generated-media/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-04-24T19:49:35Z",
-      "snippet": "ComfyUI, whose tools give creators more control over AI image, video, and audio generation, just raised $30 million."
-    },
-    {
-      "title": "How Project Maven taught the military to love AI",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/917996/project-maven-military-ai-katrina-manson",
-      "source": "The Verge",
-      "publishedAt": "2026-04-24T17:00:00Z",
-      "snippet": "In the first 24 hours of the assault on Iran, the US military struck more than 1,000 targets, nearly double the scale of the \"shock and awe\" attack on Iraq over two decades ago. This acceleration was "
-    },
-    {
-      "title": "AirPods, Touch Bars, and the rest of Tim Cook&#8217;s legacy",
-      "url": "https://www.theverge.com/podcast/917965/apple-ceo-cook-ternus-transition",
-      "source": "The Verge",
-      "publishedAt": "2026-04-24T14:43:07Z",
-      "snippet": "We knew at some point Tim Cook would step down from his position as Apple's CEO. Over the last year, it has become increasingly obvious that John Ternus was his likely successor. The news this week wa"
     }
   ],
   "trending": [
@@ -219,14 +219,14 @@
       "downloads": 79950
     },
     {
-      "id": "YTan2000/Qwen3.6-27B-TQ3_4S",
-      "displayName": "Qwen3.6 27B TQ3_4S",
-      "downloads": 30442
-    },
-    {
       "id": "kai-os/Carnice-V2-27b-GGUF",
       "displayName": "Carnice V2 27b",
       "downloads": 7150
+    },
+    {
+      "id": "YTan2000/Qwen3.6-27B-TQ3_4S",
+      "displayName": "Qwen3.6 27B TQ3_4S",
+      "downloads": 30442
     }
   ]
 }
