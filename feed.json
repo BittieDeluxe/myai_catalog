@@ -1,6 +1,20 @@
 {
-  "updated": "2026-04-28T13:55:10Z",
+  "updated": "2026-04-28T16:06:05Z",
   "news": [
+    {
+      "title": "Live updates from Elon Musk and Sam Altman\u2019s court battle over the future of OpenAI",
+      "url": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
+      "source": "The Verge",
+      "publishedAt": "2026-04-28T15:32:01Z",
+      "snippet": "Sam Altman and Elon Musk are set to face off in a high-stakes trial that could alter the future of tech\u2019s leading AI startup, OpenAI. In 2024, Musk filed a lawsuit accusing OpenAI of abandoning its fo"
+    },
+    {
+      "title": "Musk and Altman go to court",
+      "url": "https://www.theverge.com/podcast/919534/musk-openai-trial-vergecast",
+      "source": "The Verge",
+      "publishedAt": "2026-04-28T14:47:21Z",
+      "snippet": "The trial between Elon Musk and OpenAI is officially upon us. And it is going to be a mess. As the two sides fight over the early days of AI, who deserves credit and cash for what, and more, we're lik"
+    },
     {
       "title": "YouTube is testing an AI-powered search feature that shows guided answers",
       "url": "https://techcrunch.com/2026/04/28/youtube-is-testing-an-ai-powered-search-feature-that-shows-guided-answers/",
@@ -13,7 +27,7 @@
       "url": "https://techcrunch.com/2026/04/28/bci-startup-neurable-looks-to-license-its-mind-reading-tech-for-consumer-wearables/",
       "source": "TechCrunch",
       "publishedAt": "2026-04-28T13:19:34Z",
-      "snippet": "The startup specializes in \"non-invasive\" \"mind-reading\" tech\u2014a kind of neural data collection that, its CEO hopes, will have all sorts of consumer applications."
+      "snippet": "The startup specializes in \"non-invasive\" \"mind-reading\" tech \u2014 a kind of neural data collection that, its CEO hopes, will have all sorts of consumer applications."
     },
     {
       "title": "Red Hat\u2019s OpenClaw maintainer just made enterprise Claw deployments a lot safer",
@@ -100,13 +114,6 @@
       "snippet": "Skye's new AI app attracted investors before it even launched \u2014 a sign of interest in a more AI-aware iPhone."
     },
     {
-      "title": "Elon Musk and Sam Altman\u2019s court battle over the future of OpenAI",
-      "url": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
-      "source": "The Verge",
-      "publishedAt": "2026-04-27T15:50:29Z",
-      "snippet": "Sam Altman and Elon Musk are set to face off in a high-stakes trial that could alter the future of tech\u2019s leading AI startup, OpenAI. The trial begins with jury selection on April 27th, as Musk pushes"
-    },
-    {
       "title": "Canva apologizes after its AI tool replaces \u2018Palestine\u2019 in designs",
       "url": "https://www.theverge.com/ai-artificial-intelligence/919028/canva-magic-layers-ai-replacing-palestine",
       "source": "The Verge",
@@ -126,13 +133,6 @@
       "source": "TechCrunch",
       "publishedAt": "2026-04-27T13:08:59Z",
       "snippet": "There have been plenty of rumors about OpenAI's hardware plans, which involve launching a pair of earbuds. A new note from industry analyst Ming-Chi Kuo suggests that the AI company might be working o"
-    },
-    {
-      "title": "The AI-designed car is taking shape",
-      "url": "https://www.theverge.com/transportation/918411/gm-ai-car-design-nissan-neural-concept",
-      "source": "The Verge",
-      "publishedAt": "2026-04-27T11:00:00Z",
-      "snippet": "The auto design world is full of advanced 3D visualization tools and VR sculpting platforms, but your average new car still enters the world as a sketch. Those sketches traditionally see endless itera"
     },
     {
       "title": "Meta inks deal for solar power at night, beamed from space",
