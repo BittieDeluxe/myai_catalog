@@ -1,6 +1,13 @@
 {
-  "updated": "2026-04-27T22:48:25Z",
+  "updated": "2026-04-28T02:35:20Z",
   "news": [
+    {
+      "title": "Google is testing AI chatbot search for YouTube",
+      "url": "https://www.theverge.com/streaming/919441/google-ask-youtube-ai-chatbot-search",
+      "source": "The Verge",
+      "publishedAt": "2026-04-28T00:01:54Z",
+      "snippet": "Google is trying out an AI Mode-like search experience for YouTube. The company is now testing \"a new way to search on YouTube that feels more like a conversation,\" with results pulling in things like"
+    },
     {
       "title": "Canonical lays out a plan for AI in Ubuntu Linux",
       "url": "https://www.theverge.com/tech/919411/canonical-ubuntu-linux-ai-features",
@@ -168,13 +175,6 @@
       "source": "The Verge",
       "publishedAt": "2026-04-24T12:00:00Z",
       "snippet": "Elon Musk cofounded OpenAI, and then flounced off in a huff when he wasn't anointed CEO, leaving Sam Altman as the last power-hungry man standing. Now, Musk is back with a lawsuit, and a trial is sche"
-    },
-    {
-      "title": "China\u2019s DeepSeek previews new AI model a year after jolting US rivals",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/918035/deepseek-preview-v4-ai-model",
-      "source": "The Verge",
-      "publishedAt": "2026-04-24T09:45:30Z",
-      "snippet": "Chinese AI company DeepSeek released a preview of its hotly anticipated next-generation AI model V4 on Friday, saying that the open-source model can compete with leading closed-source systems from US "
     }
   ],
   "trending": [
@@ -214,14 +214,14 @@
       "downloads": 77763
     },
     {
-      "id": "unsloth/Kimi-K2.6-GGUF",
-      "displayName": "Kimi K2.6",
-      "downloads": 25400
-    },
-    {
       "id": "Jackrong/Qwopus3.6-27B-v1-preview-GGUF",
       "displayName": "Qwopus3.6 27B v1 preview",
       "downloads": 35971
+    },
+    {
+      "id": "unsloth/Kimi-K2.6-GGUF",
+      "displayName": "Kimi K2.6",
+      "downloads": 25400
     },
     {
       "id": "YTan2000/Qwen3.6-27B-TQ3_4S",
