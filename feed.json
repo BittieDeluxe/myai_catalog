@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-28T06:26:30Z",
+  "updated": "2026-04-28T10:10:08Z",
   "news": [
     {
       "title": "Jury selection in Musk v. Altman: \u2018People don\u2019t like him\u2019",
@@ -181,52 +181,52 @@
     {
       "id": "unsloth/Qwen3.6-27B-GGUF",
       "displayName": "Qwen3.6 27B",
-      "downloads": 636345
+      "downloads": 702161
     },
     {
       "id": "unsloth/Qwen3.6-35B-A3B-GGUF",
       "displayName": "Qwen3.6 35B A3B",
-      "downloads": 1646295
+      "downloads": 1705737
     },
     {
       "id": "HauhauCS/Qwen3.6-27B-Uncensored-HauhauCS-Aggressive",
       "displayName": "Qwen3.6 27B Uncensored HauhauCS Aggressive",
-      "downloads": 190878
+      "downloads": 215232
     },
     {
       "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
       "displayName": "Qwen3.6 35B A3B Uncensored HauhauCS Aggressive",
-      "downloads": 525932
+      "downloads": 578813
     },
     {
       "id": "hesamation/Qwen3.6-35B-A3B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
       "displayName": "Qwen3.6 35B A3B Claude 4.6 Opus Reasoning Distilled",
-      "downloads": 129164
+      "downloads": 141233
     },
     {
       "id": "OBLITERATUS/gemma-4-E4B-it-OBLITERATED",
       "displayName": "gemma 4 E4B OBLITERATED",
-      "downloads": 127538
+      "downloads": 134773
     },
     {
       "id": "Jackrong/Qwopus3.6-27B-v1-preview-GGUF",
       "displayName": "Qwopus3.6 27B v1 preview",
-      "downloads": 35971
+      "downloads": 48204
     },
     {
       "id": "Jackrong/Qwopus-GLM-18B-Merged-GGUF",
       "displayName": "Qwopus GLM 18B Merged",
-      "downloads": 77763
-    },
-    {
-      "id": "unsloth/Kimi-K2.6-GGUF",
-      "displayName": "Kimi K2.6",
-      "downloads": 25400
+      "downloads": 79950
     },
     {
       "id": "YTan2000/Qwen3.6-27B-TQ3_4S",
       "displayName": "Qwen3.6 27B TQ3_4S",
-      "downloads": 29899
+      "downloads": 30442
+    },
+    {
+      "id": "kai-os/Carnice-V2-27b-GGUF",
+      "displayName": "Carnice V2 27b",
+      "downloads": 7150
     }
   ]
 }
