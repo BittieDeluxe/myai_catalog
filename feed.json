@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-28T21:04:04Z",
+  "updated": "2026-04-28T22:53:36Z",
   "news": [
     {
       "title": "Elon Musk tells the jury that all he wants to do is save humanity",
@@ -184,14 +184,14 @@
       "downloads": 702161
     },
     {
-      "id": "unsloth/Qwen3.6-35B-A3B-GGUF",
-      "displayName": "Qwen3.6 35B A3B",
-      "downloads": 1705737
-    },
-    {
       "id": "HauhauCS/Qwen3.6-27B-Uncensored-HauhauCS-Aggressive",
       "displayName": "Qwen3.6 27B Uncensored HauhauCS Aggressive",
       "downloads": 215232
+    },
+    {
+      "id": "unsloth/Qwen3.6-35B-A3B-GGUF",
+      "displayName": "Qwen3.6 35B A3B",
+      "downloads": 1705737
     },
     {
       "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
