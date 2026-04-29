@@ -1,6 +1,48 @@
 {
-  "updated": "2026-04-29T10:01:51Z",
+  "updated": "2026-04-29T13:47:28Z",
   "news": [
+    {
+      "title": "Firestorm Labs raises $82M to take drone factories into the field",
+      "url": "https://techcrunch.com/2026/04/29/firestorm-labs-raises-82m-to-take-drone-factories-into-the-field/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-04-29T13:10:57Z",
+      "snippet": "A defense startup just raised $82 million to put drone factories inside shipping containers and bring manufacturing to the front lines."
+    },
+    {
+      "title": "Taylor Swift deepfakes are pushing scams on TikTok",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/920351/ai-celebrity-deepfake-ads-tiktok-copyleaks",
+      "source": "The Verge",
+      "publishedAt": "2026-04-29T13:00:00Z",
+      "snippet": "Scammers are using AI-generated videos of celebrities including Taylor Swift and Rihanna to promote shady services on TikTok, according to authentication company Copyleaks. The ads typically show cele"
+    },
+    {
+      "title": "Meet Shapes, the app bringing humans and AI into the same group chats",
+      "url": "https://techcrunch.com/2026/04/29/meet-shapes-the-app-bringing-humans-and-ai-into-the-same-group-chats/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-04-29T13:00:00Z",
+      "snippet": "Think Discord chats, but with AI characters in addition to humans."
+    },
+    {
+      "title": "China freezes new robotaxi licenses after Baidu chaos",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/920312/china-suspends-autonomous-vehicle-permits-baidu-chaos",
+      "source": "The Verge",
+      "publishedAt": "2026-04-29T10:39:21Z",
+      "snippet": "China has suspended new licenses for autonomous vehicles, Bloomberg reports, citing unnamed people familiar with the matter. The move comes after dozens of robotaxis operated by Chinese tech giant Bai"
+    },
+    {
+      "title": "GitHub rushed to fix a critical vulnerability in less than six hours",
+      "url": "https://www.theverge.com/news/920295/github-remote-code-execution-vulnerability-fix",
+      "source": "The Verge",
+      "publishedAt": "2026-04-29T10:04:25Z",
+      "snippet": "GitHub employees fixed a critical remote code execution vulnerability in less than six hours last month. Wiz Research used AI models to uncover a vulnerability in GitHub's internal git infrastructure "
+    },
+    {
+      "title": "Colby Adcock\u2019s Scout AI raises $100M to train its models for war. We visited its bootcamp",
+      "url": "https://techcrunch.com/2026/04/29/coby-adcocks-scout-ai-raises-100-million-to-train-models-for-war-we-visited-its-bootcamp/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-04-29T09:45:00Z",
+      "snippet": "We visited Scout AI's training ground where it's working on AI agents that can help individual soldiers control fleets of autonomous vehicles."
+    },
     {
       "title": "General Motors is adding Gemini to four million cars",
       "url": "https://www.theverge.com/transportation/920285/general-motors-gm-gemini-ai-update",
@@ -27,7 +69,7 @@
       "url": "https://www.theverge.com/ai-artificial-intelligence/920048/elon-musk-testimony-save-humanity",
       "source": "The Verge",
       "publishedAt": "2026-04-28T20:46:54Z",
-      "snippet": "On the stand, Elon Musk is positioning himself as a savior. In the high-profile trial between him and his fellow OpenAI co-founder, now CEO, Sam Altman, Musk opened by going through his background. He"
+      "snippet": "On the stand, Elon Musk is positioning himself as a savior. In the high-profile trial between him and his fellow OpenAI cofounder, now CEO, Sam Altman, Musk opened by going through his background. He "
     },
     {
       "title": "Taylor Swift is stepping up the legal war on AI copycats",
@@ -86,13 +128,6 @@
       "snippet": "The app allows developers to vibe code web apps and websites on the go."
     },
     {
-      "title": "Musk and Altman go to court",
-      "url": "https://www.theverge.com/podcast/919534/musk-openai-trial-vergecast",
-      "source": "The Verge",
-      "publishedAt": "2026-04-28T14:47:21Z",
-      "snippet": "The trial between Elon Musk and OpenAI is officially upon us. And it is going to be a mess. As the two sides fight over the early days of AI, who deserves credit and cash for what, and more, we're lik"
-    },
-    {
       "title": "YouTube is testing an AI-powered search feature that shows guided answers",
       "url": "https://techcrunch.com/2026/04/28/youtube-is-testing-an-ai-powered-search-feature-that-shows-guided-answers/",
       "source": "TechCrunch",
@@ -121,20 +156,6 @@
       "snippet": "With this launch, users can connect their Gmail, Google Drive, Notion, Jira, and Salesforce accounts and query that data along with existing meeting data. The company said that it will soon allow conn"
     },
     {
-      "title": "Google and Pentagon reportedly agree on deal for \u2018any lawful\u2019 use of AI",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/919494/google-pentagon-classified-ai-deal",
-      "source": "The Verge",
-      "publishedAt": "2026-04-28T11:09:32Z",
-      "snippet": "Google has signed a classified deal that allows the US Department of Defense to use its AI models for \"any lawful government purpose,\" The Information reports. The agreement was reported less than a d"
-    },
-    {
-      "title": "Attack of the killer script kiddies",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/915660/mythos-script-kiddies-hackers-attack-cybersecurity-ai",
-      "source": "The Verge",
-      "publishedAt": "2026-04-28T11:00:00Z",
-      "snippet": "Last August, some of the best cybersecurity teams in the business gathered in Las Vegas to demonstrate the strength of their AI bug-finding systems at DARPA's Artificial Intelligence Cyber Challenge ("
-    },
-    {
       "title": "OpenAI ends Microsoft legal peril over its $50B Amazon deal",
       "url": "https://techcrunch.com/2026/04/27/openai-ends-microsoft-legal-peril-over-its-50b-amazon-deal/",
       "source": "TechCrunch",
@@ -154,27 +175,6 @@
       "source": "TechCrunch",
       "publishedAt": "2026-04-27T16:13:02Z",
       "snippet": "Skye's new AI app attracted investors before it even launched \u2014 a sign of interest in a more AI-aware iPhone."
-    },
-    {
-      "title": "China blocks Meta\u2019s $2B Manus deal after months-long probe",
-      "url": "https://techcrunch.com/2026/04/27/china-vetoes-metas-2b-manus-deal-after-months-long-probe/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-04-27T13:16:55Z",
-      "snippet": "China has ordered Meta to unwind its multibillion-dollar Manus acquisition, dealing a potential setback to Zuckerberg\u2019s push into AI agents."
-    },
-    {
-      "title": "OpenAI could be making a phone with AI agents replacing apps",
-      "url": "https://techcrunch.com/2026/04/27/openai-could-be-making-a-phone-with-ai-agents-replacing-apps/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-04-27T13:08:59Z",
-      "snippet": "There have been plenty of rumors about OpenAI's hardware plans, which involve launching a pair of earbuds. A new note from industry analyst Ming-Chi Kuo suggests that the AI company might be working o"
-    },
-    {
-      "title": "Meta inks deal for solar power at night, beamed from space",
-      "url": "https://techcrunch.com/2026/04/27/meta-inks-deal-for-solar-power-at-night-beamed-from-space/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-04-27T10:00:00Z",
-      "snippet": "Overview Energy's first contract with Meta is a small step toward a future of space-based solar power."
     }
   ],
   "trending": [
@@ -224,9 +224,9 @@
       "downloads": 30442
     },
     {
-      "id": "Jackrong/Qwopus-GLM-18B-Merged-GGUF",
-      "displayName": "Qwopus GLM 18B Merged",
-      "downloads": 79950
+      "id": "unsloth/NVIDIA-Nemotron-3-Nano-Omni-30B-A3B-Reasoning-GGUF",
+      "displayName": "NVIDIA Nemotron 3 Nano Omni 30B A3B Reasoning",
+      "downloads": 0
     }
   ]
 }
