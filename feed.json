@@ -1,6 +1,20 @@
 {
-  "updated": "2026-04-29T19:19:17Z",
+  "updated": "2026-04-29T20:59:37Z",
   "news": [
+    {
+      "title": "Google gains 25M subscriptions in Q1, driven by YouTube and Google One",
+      "url": "https://techcrunch.com/2026/04/29/google-gains-25m-subscriptions-in-q1-driven-by-youtube-and-google-one/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-04-29T20:59:00Z",
+      "snippet": "Google added 25M paid subscriptions in Q1, reaching 350M total, as YouTube and Google One grow."
+    },
+    {
+      "title": "Google Search queries hit an \u2018all time high\u2019 last quarter",
+      "url": "https://www.theverge.com/tech/920815/google-alphabet-q1-2026-earnings-sundar-pichai",
+      "source": "The Verge",
+      "publishedAt": "2026-04-29T20:28:11Z",
+      "snippet": "Google Search queries hit an \"all time high\" in the first quarter of 2026, according to a statement from CEO Sundar Pichai published as part of Alphabet's earnings on Wednesday. \"Our AI investments an"
+    },
     {
       "title": "Is AI video just a prequel? Runway\u2019s CEO thinks world models are next",
       "url": "https://techcrunch.com/podcast/equity-podcast-runway-ceo-cristobal-valenzuela-ai-video-world-models/",
@@ -107,13 +121,6 @@
       "snippet": "China has suspended new licenses for autonomous vehicles, Bloomberg reports, citing unnamed people familiar with the matter. The move comes after dozens of robotaxis operated by Chinese tech giant Bai"
     },
     {
-      "title": "GitHub rushed to fix a critical vulnerability in less than six hours",
-      "url": "https://www.theverge.com/news/920295/github-remote-code-execution-vulnerability-fix",
-      "source": "The Verge",
-      "publishedAt": "2026-04-29T10:04:25Z",
-      "snippet": "GitHub employees fixed a critical remote code execution vulnerability in less than six hours last month. Wiz Research used AI models to uncover a vulnerability in GitHub's internal git infrastructure "
-    },
-    {
       "title": "Colby Adcock\u2019s Scout AI raises $100M to train its models for war: We visited its bootcamp",
       "url": "https://techcrunch.com/2026/04/29/coby-adcocks-scout-ai-raises-100-million-to-train-models-for-war-we-visited-its-bootcamp/",
       "source": "TechCrunch",
@@ -168,13 +175,6 @@
       "source": "TechCrunch",
       "publishedAt": "2026-04-28T13:19:34Z",
       "snippet": "The startup specializes in \"non-invasive\" \"mind-reading\" tech \u2014 a kind of neural data collection that, its CEO hopes, will have all sorts of consumer applications."
-    },
-    {
-      "title": "Red Hat\u2019s OpenClaw maintainer just made enterprise Claw deployments a lot safer",
-      "url": "https://techcrunch.com/2026/04/28/red-hats-openclaw-maintainer-just-made-enterprise-claw-deployments-a-lot-safer/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-04-28T13:00:00Z",
-      "snippet": "Tank OS puts OpenClaw AI agents into a container that lets it run reliably and more safely, especially for those running fleets of them."
     }
   ],
   "trending": [
