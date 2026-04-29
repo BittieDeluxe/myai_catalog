@@ -1,6 +1,34 @@
 {
-  "updated": "2026-04-29T13:47:28Z",
+  "updated": "2026-04-29T15:54:00Z",
   "news": [
+    {
+      "title": "Live updates from Elon Musk and Sam Altman\u2019s court battle over the future of OpenAI",
+      "url": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
+      "source": "The Verge",
+      "publishedAt": "2026-04-29T15:35:32Z",
+      "snippet": "Sam Altman and Elon Musk are facing off in a high-stakes trial that could alter the future of OpenAI and its most well-known product, ChatGPT. In 2024, Musk filed a lawsuit accusing OpenAI of abandoni"
+    },
+    {
+      "title": "Tumbler Ridge families sue OpenAI for not alerting police to the suspect\u2019s ChatGPT activity",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/920479/tumbler-ridge-chagpt-openai-lawsuit",
+      "source": "The Verge",
+      "publishedAt": "2026-04-29T14:47:57Z",
+      "snippet": "Seven families of victims injured or killed in the Tumbler Ridge school shooting in Canada have filed lawsuits against OpenAI and CEO Sam Altman, accusing the company and its leadership of negligence "
+    },
+    {
+      "title": "ChatGPT downloads are slowing \u2014 and may cause problems for OpenAI&#8217;s IPO",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/920476/openai-chatgpt-downloads-slow-down-ipo",
+      "source": "The Verge",
+      "publishedAt": "2026-04-29T14:43:41Z",
+      "snippet": "ChatGPT is struggling to keep up its once-explosive growth as users uninstall the app or opt for rival chatbots instead. According to data from market intelligence firm Sensor Tower, ChatGPT experienc"
+    },
+    {
+      "title": "Larry\u2019s risky business",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/920378/oracle-openai-datacenter-buildout",
+      "source": "The Verge",
+      "publishedAt": "2026-04-29T13:57:16Z",
+      "snippet": "If you want to know whether the AI bubble is bursting, there's only one publicly traded company that will tell you: Oracle. That's right, the database company. Oracle has burned its boats and pivoted "
+    },
     {
       "title": "Firestorm Labs raises $82M to take drone factories into the field",
       "url": "https://techcrunch.com/2026/04/29/firestorm-labs-raises-82m-to-take-drone-factories-into-the-field/",
@@ -72,32 +100,11 @@
       "snippet": "On the stand, Elon Musk is positioning himself as a savior. In the high-profile trial between him and his fellow OpenAI cofounder, now CEO, Sam Altman, Musk opened by going through his background. He "
     },
     {
-      "title": "Taylor Swift is stepping up the legal war on AI copycats",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/919827/taylor-swift-trademarks-ai-copycats",
-      "source": "The Verge",
-      "publishedAt": "2026-04-28T20:30:00Z",
-      "snippet": "Taylor Swift has been at the center of AI imitation controversies for years, and now, she's become the latest celebrity who's escalating attempts to protect herself from AI copycats. As usual, however"
-    },
-    {
       "title": "Amazon is already offering new OpenAI products on AWS",
       "url": "https://techcrunch.com/2026/04/28/amazon-is-already-offering-new-openai-products-on-aws/",
       "source": "TechCrunch",
       "publishedAt": "2026-04-28T19:48:02Z",
       "snippet": "A day after OpenAI got Microsoft to agree to end exclusive rights, AWS announced a slate of OpenAI model offerings, including a new agent service."
-    },
-    {
-      "title": "Live updates from Elon Musk and Sam Altman\u2019s court battle over the future of OpenAI",
-      "url": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
-      "source": "The Verge",
-      "publishedAt": "2026-04-28T19:27:50Z",
-      "snippet": "Sam Altman and Elon Musk are facing off in a high-stakes trial that could alter the future of OpenAI and its most well-known product, ChatGPT. In 2024, Musk filed a lawsuit accusing OpenAI of abandoni"
-    },
-    {
-      "title": "Elon Musk takes the stand in high-profile trial against OpenAI",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/917052/elon-musk-takes-stand-trial-openai-sam-altman",
-      "source": "The Verge",
-      "publishedAt": "2026-04-28T19:00:13Z",
-      "snippet": "Elon Musk officially began his testimony in the trial he has brought against OpenAI CEO Sam Altman and company president Greg Brockman. The three were on the initial founding team of OpenAI, with Musk"
     },
     {
       "title": "Amazon launches an AI-powered audio Q&A experience on product pages",
@@ -112,13 +119,6 @@
       "source": "TechCrunch",
       "publishedAt": "2026-04-28T18:15:00Z",
       "snippet": "After Anthropic refused to allow the DoD to use its AI for domestic mass surveillance and autonomous weapons, Google has signed a new contract with the department."
-    },
-    {
-      "title": "Claude can now plug directly into Photoshop, Blender, and Ableton",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/919648/anthropic-claude-creative-connectors-adobe-blender",
-      "source": "The Verge",
-      "publishedAt": "2026-04-28T16:49:08Z",
-      "snippet": "Anthropic has launched a set of connectors for Claude that allow the AI chatbot to tap into popular creative software, including Adobe's Creative Cloud apps, Affinity, Blender, Ableton, Autodesk, and "
     },
     {
       "title": "Lovable launches its vibe-coding app on iOS and Android",
@@ -219,14 +219,14 @@
       "downloads": 7150
     },
     {
-      "id": "YTan2000/Qwen3.6-27B-TQ3_4S",
-      "displayName": "Qwen3.6 27B TQ3_4S",
-      "downloads": 30442
-    },
-    {
       "id": "unsloth/NVIDIA-Nemotron-3-Nano-Omni-30B-A3B-Reasoning-GGUF",
       "displayName": "NVIDIA Nemotron 3 Nano Omni 30B A3B Reasoning",
       "downloads": 0
+    },
+    {
+      "id": "YTan2000/Qwen3.6-27B-TQ3_4S",
+      "displayName": "Qwen3.6 27B TQ3_4S",
+      "downloads": 30442
     }
   ]
 }
