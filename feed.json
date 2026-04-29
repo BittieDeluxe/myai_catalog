@@ -1,6 +1,27 @@
 {
-  "updated": "2026-04-29T15:54:00Z",
+  "updated": "2026-04-29T17:24:04Z",
   "news": [
+    {
+      "title": "Google Photos uses AI to make the iconic closet from \u2018Clueless\u2019 a reality",
+      "url": "https://techcrunch.com/2026/04/29/google-photos-uses-ai-to-make-the-iconic-closet-from-clueless-a-reality/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-04-29T16:42:33Z",
+      "snippet": "Google recreates Cher's closet from \"Clueless\" with AI."
+    },
+    {
+      "title": "More Gemini features are coming to Google TV",
+      "url": "https://techcrunch.com/2026/04/29/more-gemini-features-are-coming-to-google-tv/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-04-29T16:40:49Z",
+      "snippet": "Google TV just got more Gemini features, including the ability to transform photos and videos with tools Nano Banana and Veo."
+    },
+    {
+      "title": "Google Photos launches an AI try-on feature for clothes you already have",
+      "url": "https://www.theverge.com/tech/920420/google-photos-ai-try-on-wardrobe",
+      "source": "The Verge",
+      "publishedAt": "2026-04-29T16:00:00Z",
+      "snippet": "Google Photos is launching a new AI-powered feature you can use to virtually try on clothes you already have. Using the photos in your gallery, Google will create a virtual \"wardrobe,\" allowing you to"
+    },
     {
       "title": "Live updates from Elon Musk and Sam Altman\u2019s court battle over the future of OpenAI",
       "url": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
@@ -9,7 +30,7 @@
       "snippet": "Sam Altman and Elon Musk are facing off in a high-stakes trial that could alter the future of OpenAI and its most well-known product, ChatGPT. In 2024, Musk filed a lawsuit accusing OpenAI of abandoni"
     },
     {
-      "title": "Tumbler Ridge families sue OpenAI for not alerting police to the suspect\u2019s ChatGPT activity",
+      "title": "Tumbler Ridge families are suing OpenAI",
       "url": "https://www.theverge.com/ai-artificial-intelligence/920479/tumbler-ridge-chagpt-openai-lawsuit",
       "source": "The Verge",
       "publishedAt": "2026-04-29T14:47:57Z",
@@ -65,7 +86,7 @@
       "snippet": "GitHub employees fixed a critical remote code execution vulnerability in less than six hours last month. Wiz Research used AI models to uncover a vulnerability in GitHub's internal git infrastructure "
     },
     {
-      "title": "Colby Adcock\u2019s Scout AI raises $100M to train its models for war. We visited its bootcamp",
+      "title": "Colby Adcock\u2019s Scout AI raises $100M to train its models for war: We visited its bootcamp",
       "url": "https://techcrunch.com/2026/04/29/coby-adcocks-scout-ai-raises-100-million-to-train-models-for-war-we-visited-its-bootcamp/",
       "source": "TechCrunch",
       "publishedAt": "2026-04-29T09:45:00Z",
@@ -91,13 +112,6 @@
       "source": "The Verge",
       "publishedAt": "2026-04-28T23:17:12Z",
       "snippet": "Today the first witness was sworn in in Musk v. Altman: Elon Musk. I was surprised by how flat he seemed. This is not the first time I've seen Musk in court. During his defamation suit, he turned on t"
-    },
-    {
-      "title": "Elon Musk tells the jury that all he wants to do is save humanity",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/920048/elon-musk-testimony-save-humanity",
-      "source": "The Verge",
-      "publishedAt": "2026-04-28T20:46:54Z",
-      "snippet": "On the stand, Elon Musk is positioning himself as a savior. In the high-profile trial between him and his fellow OpenAI cofounder, now CEO, Sam Altman, Musk opened by going through his background. He "
     },
     {
       "title": "Amazon is already offering new OpenAI products on AWS",
@@ -161,20 +175,6 @@
       "source": "TechCrunch",
       "publishedAt": "2026-04-27T17:40:38Z",
       "snippet": "OpenAI has won major concessions from its largest shareholder, Microsoft, that will allow it to sell products on AWS, while Microsoft gets more cash in a revenue-share agreement."
-    },
-    {
-      "title": "DeepMind\u2019s David Silver just raised $1.1B to build an AI that learns without human data",
-      "url": "https://techcrunch.com/2026/04/27/deepminds-david-silver-just-raised-1-1b-to-build-an-ai-that-learns-without-human-data/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-04-27T17:24:21Z",
-      "snippet": "Ineffable Intelligence, a British AI lab founded a mere few months ago by former DeepMind researcher David Silver, has raised $1.1 billion in funding at a valuation of $5.1 billion."
-    },
-    {
-      "title": "Investors back Skye\u2019s AI home screen app for iPhone ahead of launch",
-      "url": "https://techcrunch.com/2026/04/27/investors-back-skye-signull-labs-ai-home-screen-app-for-iphone-ahead-of-launch/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-04-27T16:13:02Z",
-      "snippet": "Skye's new AI app attracted investors before it even launched \u2014 a sign of interest in a more AI-aware iPhone."
     }
   ],
   "trending": [
@@ -199,19 +199,19 @@
       "downloads": 578813
     },
     {
-      "id": "OBLITERATUS/gemma-4-E4B-it-OBLITERATED",
-      "displayName": "gemma 4 E4B OBLITERATED",
-      "downloads": 134773
-    },
-    {
       "id": "Jackrong/Qwopus3.6-27B-v1-preview-GGUF",
       "displayName": "Qwopus3.6 27B v1 preview",
       "downloads": 48204
     },
     {
-      "id": "hesamation/Qwen3.6-35B-A3B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
-      "displayName": "Qwen3.6 35B A3B Claude 4.6 Opus Reasoning Distilled",
-      "downloads": 141233
+      "id": "OBLITERATUS/gemma-4-E4B-it-OBLITERATED",
+      "displayName": "gemma 4 E4B OBLITERATED",
+      "downloads": 134773
+    },
+    {
+      "id": "unsloth/NVIDIA-Nemotron-3-Nano-Omni-30B-A3B-Reasoning-GGUF",
+      "displayName": "NVIDIA Nemotron 3 Nano Omni 30B A3B Reasoning",
+      "downloads": 0
     },
     {
       "id": "kai-os/Carnice-V2-27b-GGUF",
@@ -219,9 +219,9 @@
       "downloads": 7150
     },
     {
-      "id": "unsloth/NVIDIA-Nemotron-3-Nano-Omni-30B-A3B-Reasoning-GGUF",
-      "displayName": "NVIDIA Nemotron 3 Nano Omni 30B A3B Reasoning",
-      "downloads": 0
+      "id": "hesamation/Qwen3.6-35B-A3B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
+      "displayName": "Qwen3.6 35B A3B Claude 4.6 Opus Reasoning Distilled",
+      "downloads": 141233
     },
     {
       "id": "YTan2000/Qwen3.6-27B-TQ3_4S",
