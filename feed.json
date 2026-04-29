@@ -1,6 +1,13 @@
 {
-  "updated": "2026-04-29T06:20:29Z",
+  "updated": "2026-04-29T10:01:51Z",
   "news": [
+    {
+      "title": "General Motors is adding Gemini to four million cars",
+      "url": "https://www.theverge.com/transportation/920285/general-motors-gm-gemini-ai-update",
+      "source": "The Verge",
+      "publishedAt": "2026-04-29T09:14:38Z",
+      "snippet": "General Motors is planning to bring Google's Gemini AI assistant to around four million vehicles across the US. Model year 2022 and newer Cadillac, Chevrolet, Buick, and GMC vehicles with Google built"
+    },
     {
       "title": "At his OpenAI trial, Musk relitigates an old friendship",
       "url": "https://techcrunch.com/2026/04/28/at-his-openai-trial-musk-relitigates-an-old-friendship/",
@@ -128,13 +135,6 @@
       "snippet": "Last August, some of the best cybersecurity teams in the business gathered in Las Vegas to demonstrate the strength of their AI bug-finding systems at DARPA's Artificial Intelligence Cyber Challenge ("
     },
     {
-      "title": "Jury selection in Musk v. Altman: \u2018People don\u2019t like him\u2019",
-      "url": "https://www.theverge.com/tech/919469/elon-musk-dont-like",
-      "source": "The Verge",
-      "publishedAt": "2026-04-28T03:39:33Z",
-      "snippet": "On Monday, the courtroom battle between Elon Musk and Sam Altman over alleged broken promises at OpenAI started, as usual, with jury selection. The only tricky part? A lot of the prospective jurors al"
-    },
-    {
       "title": "OpenAI ends Microsoft legal peril over its $50B Amazon deal",
       "url": "https://techcrunch.com/2026/04/27/openai-ends-microsoft-legal-peril-over-its-50b-amazon-deal/",
       "source": "TechCrunch",
@@ -199,11 +199,6 @@
       "downloads": 578813
     },
     {
-      "id": "hesamation/Qwen3.6-35B-A3B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
-      "displayName": "Qwen3.6 35B A3B Claude 4.6 Opus Reasoning Distilled",
-      "downloads": 141233
-    },
-    {
       "id": "OBLITERATUS/gemma-4-E4B-it-OBLITERATED",
       "displayName": "gemma 4 E4B OBLITERATED",
       "downloads": 134773
@@ -212,6 +207,11 @@
       "id": "Jackrong/Qwopus3.6-27B-v1-preview-GGUF",
       "displayName": "Qwopus3.6 27B v1 preview",
       "downloads": 48204
+    },
+    {
+      "id": "hesamation/Qwen3.6-35B-A3B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
+      "displayName": "Qwen3.6 35B A3B Claude 4.6 Opus Reasoning Distilled",
+      "downloads": 141233
     },
     {
       "id": "kai-os/Carnice-V2-27b-GGUF",
