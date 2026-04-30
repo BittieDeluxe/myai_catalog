@@ -1,8 +1,57 @@
 {
-  "updated": "2026-04-29T22:53:21Z",
+  "updated": "2026-04-30T02:36:25Z",
   "news": [
     {
-      "title": "Google Cloud surpasses $20B but says growth was capacity-constrained",
+      "title": "Amazon\u2019s cloud business is surging \u2014 and so is its capital spending",
+      "url": "https://techcrunch.com/2026/04/29/amazons-cloud-business-is-surging-and-so-is-its-capital-spending/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-04-30T00:14:23Z",
+      "snippet": "The e-commerce giant is making more money than expected from AWS but it's also spending a lot, and will continue to do so in the near term, its chief executive said."
+    },
+    {
+      "title": "Sources: Anthropic could raise a new $50B round at a valuation of $900B",
+      "url": "https://techcrunch.com/2026/04/29/sources-anthropic-could-raise-a-new-50b-round-at-a-valuation-of-900b/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-04-30T00:07:15Z",
+      "snippet": "The maker of Claude has received multiple pre-emptive offers at valuations in the $850 billion to $900 billion range, according to sources familiar with the matter."
+    },
+    {
+      "title": "Elon Musk\u2019s worst enemy in court is Elon Musk",
+      "url": "https://www.theverge.com/tech/921022/elon-musk-cross-openai-altman",
+      "source": "The Verge",
+      "publishedAt": "2026-04-30T00:01:24Z",
+      "snippet": "About five hours into Elon Musk's testimony, I typed the following sentence into my notes: \"I have never been more sympathetic to Sam Altman in my life.\" Musk's direct testimony was an improvement ove"
+    },
+    {
+      "title": "On the stand, Elon Musk can\u2019t escape his own tweets",
+      "url": "https://techcrunch.com/2026/04/29/on-the-stand-elon-musk-cant-escape-his-own-tweets/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-04-29T23:58:36Z",
+      "snippet": "Elon Musk took the stand for the second day for his attempt to legally dismantle OpenAI."
+    },
+    {
+      "title": "Meta is still burning money on AR/VR",
+      "url": "https://techcrunch.com/2026/04/29/meta-is-still-burning-money-on-ar-vr/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-04-29T23:58:26Z",
+      "snippet": "Meta is losing billions on Reality Labs each quarter, and its AI expenditures are only going to increase its spending."
+    },
+    {
+      "title": "Satya Nadella says he\u2019s ready to \u2018exploit\u2019 the new OpenAI deal",
+      "url": "https://techcrunch.com/2026/04/29/satya-nadella-says-hes-ready-to-exploit-the-new-openai-deal/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-04-29T23:55:23Z",
+      "snippet": "Microsoft gets to offer OpenAI's tech to its cloud customers and doesn't have to pay for it. \"We fully plan to exploit it,\" Nadella said."
+    },
+    {
+      "title": "Microsoft says it has over 20M paid Copilot users, and they really are using it",
+      "url": "https://techcrunch.com/2026/04/29/microsoft-says-it-has-over-20m-paid-copilot-users-and-they-really-are-using-it/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-04-29T23:02:23Z",
+      "snippet": "Despite the lingering perception that no one really uses Copilot, Microsoft said on Wednesday that the number of users and engagement is growing."
+    },
+    {
+      "title": "Google Cloud surpasses $20B, but says growth was capacity-constrained",
       "url": "https://techcrunch.com/2026/04/29/google-cloud-surpasses-20b-but-says-growth-was-capacity-constrained/",
       "source": "TechCrunch",
       "publishedAt": "2026-04-29T22:20:48Z",
@@ -121,60 +170,11 @@
       "snippet": "Think Discord chats, but with AI characters in addition to humans."
     },
     {
-      "title": "China freezes new robotaxi licenses after Baidu chaos",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/920312/china-suspends-autonomous-vehicle-permits-baidu-chaos",
-      "source": "The Verge",
-      "publishedAt": "2026-04-29T10:39:21Z",
-      "snippet": "China has suspended new licenses for autonomous vehicles, Bloomberg reports, citing unnamed people familiar with the matter. The move comes after dozens of robotaxis operated by Chinese tech giant Bai"
-    },
-    {
       "title": "Colby Adcock\u2019s Scout AI raises $100M to train its models for war: We visited its bootcamp",
       "url": "https://techcrunch.com/2026/04/29/coby-adcocks-scout-ai-raises-100-million-to-train-models-for-war-we-visited-its-bootcamp/",
       "source": "TechCrunch",
       "publishedAt": "2026-04-29T09:45:00Z",
       "snippet": "We visited Scout AI's training ground where it's working on AI agents that can help individual soldiers control fleets of autonomous vehicles."
-    },
-    {
-      "title": "At his OpenAI trial, Musk relitigates an old friendship",
-      "url": "https://techcrunch.com/2026/04/28/at-his-openai-trial-musk-relitigates-an-old-friendship/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-04-29T00:40:16Z",
-      "snippet": "It's a story Musk has told before -- in interviews and to author Walter Isaacson for his bestselling biography of Musk -- but Tuesday was the first time he said it under oath."
-    },
-    {
-      "title": "Amazon is already offering new OpenAI products on AWS",
-      "url": "https://techcrunch.com/2026/04/28/amazon-is-already-offering-new-openai-products-on-aws/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-04-28T19:48:02Z",
-      "snippet": "A day after OpenAI got Microsoft to agree to end exclusive rights, AWS announced a slate of OpenAI model offerings, including a new agent service."
-    },
-    {
-      "title": "Amazon launches an AI-powered audio Q&A experience on product pages",
-      "url": "https://techcrunch.com/2026/04/28/amazon-launches-an-ai-powered-audio-qa-experience-on-product-pages/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-04-28T18:49:54Z",
-      "snippet": "Amazon's new \"Join the chat\" feature lets you ask questions about products and receive AI-powered audio responses."
-    },
-    {
-      "title": "Google expands Pentagon\u2019s access to its AI after Anthropic\u2019s refusal",
-      "url": "https://techcrunch.com/2026/04/28/google-expands-pentagons-access-to-its-ai-after-anthropics-refusal/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-04-28T18:15:00Z",
-      "snippet": "After Anthropic refused to allow the DoD to use its AI for domestic mass surveillance and autonomous weapons, Google has signed a new contract with the department."
-    },
-    {
-      "title": "Lovable launches its vibe-coding app on iOS and Android",
-      "url": "https://techcrunch.com/2026/04/28/lovable-launches-its-vibe-coding-app-on-ios-and-android/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-04-28T16:09:30Z",
-      "snippet": "The app allows developers to vibe code web apps and websites on the go."
-    },
-    {
-      "title": "YouTube is testing an AI-powered search feature that shows guided answers",
-      "url": "https://techcrunch.com/2026/04/28/youtube-is-testing-an-ai-powered-search-feature-that-shows-guided-answers/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-04-28T13:54:06Z",
-      "snippet": "YouTube is rolling out the new AI search feature to Premium subscribers in the U.S. on an opt-in basis."
     }
   ],
   "trending": [
@@ -184,14 +184,14 @@
       "downloads": 702161
     },
     {
-      "id": "HauhauCS/Qwen3.6-27B-Uncensored-HauhauCS-Aggressive",
-      "displayName": "Qwen3.6 27B Uncensored HauhauCS Aggressive",
-      "downloads": 215232
-    },
-    {
       "id": "unsloth/Qwen3.6-35B-A3B-GGUF",
       "displayName": "Qwen3.6 35B A3B",
       "downloads": 1705737
+    },
+    {
+      "id": "HauhauCS/Qwen3.6-27B-Uncensored-HauhauCS-Aggressive",
+      "displayName": "Qwen3.6 27B Uncensored HauhauCS Aggressive",
+      "downloads": 215232
     },
     {
       "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
@@ -204,14 +204,14 @@
       "downloads": 48204
     },
     {
-      "id": "OBLITERATUS/gemma-4-E4B-it-OBLITERATED",
-      "displayName": "gemma 4 E4B OBLITERATED",
-      "downloads": 134773
-    },
-    {
       "id": "unsloth/NVIDIA-Nemotron-3-Nano-Omni-30B-A3B-Reasoning-GGUF",
       "displayName": "NVIDIA Nemotron 3 Nano Omni 30B A3B Reasoning",
       "downloads": 0
+    },
+    {
+      "id": "OBLITERATUS/gemma-4-E4B-it-OBLITERATED",
+      "displayName": "gemma 4 E4B OBLITERATED",
+      "downloads": 134773
     },
     {
       "id": "kai-os/Carnice-V2-27b-GGUF",
@@ -224,9 +224,9 @@
       "downloads": 141233
     },
     {
-      "id": "YTan2000/Qwen3.6-27B-TQ3_4S",
-      "displayName": "Qwen3.6 27B TQ3_4S",
-      "downloads": 30442
+      "id": "Jackrong/Qwopus-GLM-18B-Merged-GGUF",
+      "displayName": "Qwopus GLM 18B Merged",
+      "downloads": 79950
     }
   ]
 }
