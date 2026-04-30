@@ -1,6 +1,20 @@
 {
-  "updated": "2026-04-30T13:46:37Z",
+  "updated": "2026-04-30T15:45:55Z",
   "news": [
+    {
+      "title": "X announces a rebuilt ad platform powered by AI",
+      "url": "https://techcrunch.com/2026/04/30/x-announces-a-rebuilt-ad-platform-powered-by-ai/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-04-30T15:14:55Z",
+      "snippet": "X is rolling out a rebuilt ads platform powered by AI as it works to grow revenue again."
+    },
+    {
+      "title": "All these smart glasses and nothing to do",
+      "url": "https://www.theverge.com/tech/921159/smart-glasses-review-wearable-even-realities-g2-meta-ray-ban-rokid-lucyd-oakley-meta-vanguard",
+      "source": "The Verge",
+      "publishedAt": "2026-04-30T15:00:00Z",
+      "snippet": "I'm currently wearing a pair of smart glasses called the Even Realities G2. Another two pairs, from Rokid, sit on my desk. A few feet away, I've got the Meta Ray-Ban Display charging alongside their N"
+    },
     {
       "title": "OpenAI talks about not talking about goblins",
       "url": "https://www.theverge.com/ai-artificial-intelligence/921181/openai-codex-goblins",
@@ -20,7 +34,7 @@
       "url": "https://techcrunch.com/2026/04/30/meta-says-its-business-ai-now-facilitates-10-million-conversations-a-week/",
       "source": "TechCrunch",
       "publishedAt": "2026-04-30T12:08:45Z",
-      "snippet": "Meta said over 8 billion advertisers have used at least one of its gen AI tools"
+      "snippet": "Meta said over 8 billion advertisers have used at least one of its GenAI tools"
     },
     {
       "title": "Meta lost 20 million users last quarter",
@@ -48,7 +62,7 @@
       "url": "https://techcrunch.com/2026/04/29/softbank-is-creating-a-robotics-company-that-builds-data-centers-and-already-eyeing-a-100b-ipo/",
       "source": "TechCrunch",
       "publishedAt": "2026-04-30T03:58:22Z",
-      "snippet": "You need infrastructure to build AI a and robots, but apparently you also need AI and robots to build infrastructure."
+      "snippet": "You need infrastructure to build AI and robots, but apparently you also need AI and robots to build infrastructure."
     },
     {
       "title": "Amazon\u2019s cloud business is surging \u2014 and so is its capital spending",
@@ -161,20 +175,6 @@
       "source": "TechCrunch",
       "publishedAt": "2026-04-29T16:40:49Z",
       "snippet": "Google TV just got more Gemini features, including the ability to transform photos and videos with tools Nano Banana and Veo."
-    },
-    {
-      "title": "Google Photos launches an AI try-on feature for clothes you already have",
-      "url": "https://www.theverge.com/tech/920420/google-photos-ai-try-on-wardrobe",
-      "source": "The Verge",
-      "publishedAt": "2026-04-29T16:00:00Z",
-      "snippet": "Google Photos is launching a new AI-powered feature you can use to virtually try on clothes you already have. Using the photos in your gallery, Google will create a virtual \"wardrobe,\" allowing you to"
-    },
-    {
-      "title": "Firestorm Labs raises $82M to take drone factories into the field",
-      "url": "https://techcrunch.com/2026/04/29/firestorm-labs-raises-82m-to-take-drone-factories-into-the-field/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-04-29T13:10:57Z",
-      "snippet": "A defense startup just raised $82 million to put drone factories inside shipping containers and bring manufacturing to the front lines."
     }
   ],
   "trending": [
@@ -219,14 +219,14 @@
       "downloads": 147455
     },
     {
-      "id": "hesamation/Qwen3.6-35B-A3B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
-      "displayName": "Qwen3.6 35B A3B Claude 4.6 Opus Reasoning Distilled",
-      "downloads": 166598
-    },
-    {
       "id": "spiritbuun/Qwen3.6-27B-DFlash-GGUF",
       "displayName": "Qwen3.6 27B DFlash",
       "downloads": 11154
+    },
+    {
+      "id": "hesamation/Qwen3.6-35B-A3B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
+      "displayName": "Qwen3.6 35B A3B Claude 4.6 Opus Reasoning Distilled",
+      "downloads": 166598
     }
   ]
 }
