@@ -1,6 +1,20 @@
 {
-  "updated": "2026-04-30T19:14:29Z",
+  "updated": "2026-04-30T20:56:23Z",
   "news": [
+    {
+      "title": "Legal AI startup Legora hits $5.6B valuation and its battle with Harvey just got hotter",
+      "url": "https://techcrunch.com/2026/04/30/legal-ai-startup-legora-hits-5-6-valuation-and-its-battle-with-harvey-just-got-hotter/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-04-30T20:14:47Z",
+      "snippet": "The two wildly fast-growing rivals have raised massive sums, pushed into each other's home turf and now have dueling ad campaigns."
+    },
+    {
+      "title": "After dissing Anthropic for limiting Mythos, OpenAI restricts access to Cyber, too",
+      "url": "https://techcrunch.com/2026/04/30/after-dissing-anthropic-for-limiting-mythos-openai-restricts-access-to-cyber-too/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-04-30T19:27:41Z",
+      "snippet": "OpenAI will begin rolling out its cybersecurity testing tool, GPT-5.5 Cyber only \"to critical cyber defenders\" at first."
+    },
     {
       "title": "All the evidence unveiled so far in Musk v. Altman",
       "url": "https://www.theverge.com/ai-artificial-intelligence/920775/evidence-exhibits-elon-musk-sam-altman-openai-trial",
@@ -161,20 +175,6 @@
       "source": "TechCrunch",
       "publishedAt": "2026-04-29T23:58:26Z",
       "snippet": "Meta is losing billions on Reality Labs each quarter, and its AI expenditures are only going to increase its spending."
-    },
-    {
-      "title": "Satya Nadella says he\u2019s ready to \u2018exploit\u2019 the new OpenAI deal",
-      "url": "https://techcrunch.com/2026/04/29/satya-nadella-says-hes-ready-to-exploit-the-new-openai-deal/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-04-29T23:55:23Z",
-      "snippet": "Microsoft gets to offer OpenAI's tech to its cloud customers and doesn't have to pay for it. \"We fully plan to exploit it,\" Nadella said."
-    },
-    {
-      "title": "Microsoft says it has over 20M paid Copilot users, and they really are using it",
-      "url": "https://techcrunch.com/2026/04/29/microsoft-says-it-has-over-20m-paid-copilot-users-and-they-really-are-using-it/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-04-29T23:02:23Z",
-      "snippet": "Despite the lingering perception that no one really uses Copilot, Microsoft said on Wednesday that the number of users and engagement is growing."
     }
   ],
   "trending": [
