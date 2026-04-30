@@ -1,6 +1,48 @@
 {
-  "updated": "2026-04-30T10:03:02Z",
+  "updated": "2026-04-30T13:46:37Z",
   "news": [
+    {
+      "title": "OpenAI talks about not talking about goblins",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/921181/openai-codex-goblins",
+      "source": "The Verge",
+      "publishedAt": "2026-04-30T13:42:29Z",
+      "snippet": "OpenAI is opening up about its goblin problem. After a report from Wired revealed instructions to OpenAI's coding model to \"never talk about goblins, gremlins, raccoons, trolls, ogres, pigeons, or oth"
+    },
+    {
+      "title": "Verified by Spotify badge lets you know this artist isn&#8217;t AI",
+      "url": "https://www.theverge.com/tech/921048/verified-by-spotify-badge",
+      "source": "The Verge",
+      "publishedAt": "2026-04-30T13:08:23Z",
+      "snippet": "Spotify is launching a new verification program to combat spam, fakes, and AI. Some artists will now have a \"Verified by Spotify\" badge and a green checkmark on their profile, indicating that the comp"
+    },
+    {
+      "title": "Meta says its business AI now facilitates 10 million conversations a week",
+      "url": "https://techcrunch.com/2026/04/30/meta-says-its-business-ai-now-facilitates-10-million-conversations-a-week/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-04-30T12:08:45Z",
+      "snippet": "Meta said over 8 billion advertisers have used at least one of its gen AI tools"
+    },
+    {
+      "title": "Meta lost 20 million users last quarter",
+      "url": "https://www.theverge.com/tech/921089/meta-earnings-q1-2026-user-decline-ai-investments",
+      "source": "The Verge",
+      "publishedAt": "2026-04-30T11:38:26Z",
+      "snippet": "Meta is planning to pump billions more into AI investments this year, despite noting that millions of users have seemingly started to abandon its platforms. In an earning call on Wednesday, Meta repor"
+    },
+    {
+      "title": "OpenAI\u2019s new security model is for \u2018critical cyber defenders\u2019 only",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/921073/openai-sam-altman-new-cybersecurity-model-gpt-5-5-cyber",
+      "source": "The Verge",
+      "publishedAt": "2026-04-30T11:09:01Z",
+      "snippet": "OpenAI is preparing to launch a new frontier cybersecurity model, GPT-5.5-Cyber. CEO Sam Altman said the model will not be available to the general public, but will be first rolled out to a select gro"
+    },
+    {
+      "title": "The more young people use AI, the more they hate it",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/920401/gen-z-ai",
+      "source": "The Verge",
+      "publishedAt": "2026-04-30T11:00:00Z",
+      "snippet": "It's been almost three years since Silicon Valley started aggressively pushing large language model-based chatbots like ChatGPT as the supposedly inevitable future of everything, and there's no group "
+    },
     {
       "title": "SoftBank is creating a robotics company that builds data centers \u2014 and already eyeing a $100B IPO",
       "url": "https://techcrunch.com/2026/04/29/softbank-is-creating-a-robotics-company-that-builds-data-centers-and-already-eyeing-a-100b-ipo/",
@@ -128,53 +170,11 @@
       "snippet": "Google Photos is launching a new AI-powered feature you can use to virtually try on clothes you already have. Using the photos in your gallery, Google will create a virtual \"wardrobe,\" allowing you to"
     },
     {
-      "title": "Live updates from Elon Musk and Sam Altman\u2019s court battle over the future of OpenAI",
-      "url": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
-      "source": "The Verge",
-      "publishedAt": "2026-04-29T15:35:32Z",
-      "snippet": "Sam Altman and Elon Musk are facing off in a high-stakes trial that could alter the future of OpenAI and its most well-known product, ChatGPT. In 2024, Musk filed a lawsuit accusing OpenAI of abandoni"
-    },
-    {
-      "title": "Tumbler Ridge families are suing OpenAI",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/920479/tumbler-ridge-chagpt-openai-lawsuit",
-      "source": "The Verge",
-      "publishedAt": "2026-04-29T14:47:57Z",
-      "snippet": "Seven families of victims injured or killed in the Tumbler Ridge school shooting in Canada have filed lawsuits against OpenAI and CEO Sam Altman, accusing the company and its leadership of negligence "
-    },
-    {
-      "title": "ChatGPT downloads are slowing \u2014 and may cause problems for OpenAI&#8217;s IPO",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/920476/openai-chatgpt-downloads-slow-down-ipo",
-      "source": "The Verge",
-      "publishedAt": "2026-04-29T14:43:41Z",
-      "snippet": "ChatGPT is struggling to keep up its once-explosive growth as users uninstall the app or opt for rival chatbots instead. According to data from market intelligence firm Sensor Tower, ChatGPT experienc"
-    },
-    {
-      "title": "Larry\u2019s risky business",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/920378/oracle-openai-datacenter-buildout",
-      "source": "The Verge",
-      "publishedAt": "2026-04-29T13:57:16Z",
-      "snippet": "If you want to know whether the AI bubble is bursting, there's only one publicly traded company that will tell you: Oracle. That's right, the database company. Oracle has burned its boats and pivoted "
-    },
-    {
       "title": "Firestorm Labs raises $82M to take drone factories into the field",
       "url": "https://techcrunch.com/2026/04/29/firestorm-labs-raises-82m-to-take-drone-factories-into-the-field/",
       "source": "TechCrunch",
       "publishedAt": "2026-04-29T13:10:57Z",
       "snippet": "A defense startup just raised $82 million to put drone factories inside shipping containers and bring manufacturing to the front lines."
-    },
-    {
-      "title": "Taylor Swift deepfakes are pushing scams on TikTok",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/920351/ai-celebrity-deepfake-ads-tiktok-copyleaks",
-      "source": "The Verge",
-      "publishedAt": "2026-04-29T13:00:00Z",
-      "snippet": "Scammers are using AI-generated videos of celebrities including Taylor Swift and Rihanna to promote shady services on TikTok, according to authentication company Copyleaks. The ads typically show cele"
-    },
-    {
-      "title": "Meet Shapes, the app bringing humans and AI into the same group chats",
-      "url": "https://techcrunch.com/2026/04/29/meet-shapes-the-app-bringing-humans-and-ai-into-the-same-group-chats/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-04-29T13:00:00Z",
-      "snippet": "Think Discord chats, but with AI characters in addition to humans."
     }
   ],
   "trending": [
@@ -204,14 +204,14 @@
       "downloads": 17478
     },
     {
-      "id": "Jackrong/Qwopus3.6-27B-v1-preview-GGUF",
-      "displayName": "Qwopus3.6 27B v1 preview",
-      "downloads": 74566
-    },
-    {
       "id": "kai-os/Carnice-V2-27b-GGUF",
       "displayName": "Carnice V2 27b",
       "downloads": 21446
+    },
+    {
+      "id": "Jackrong/Qwopus3.6-27B-v1-preview-GGUF",
+      "displayName": "Qwopus3.6 27B v1 preview",
+      "downloads": 74566
     },
     {
       "id": "OBLITERATUS/gemma-4-E4B-it-OBLITERATED",
@@ -224,9 +224,9 @@
       "downloads": 166598
     },
     {
-      "id": "HauhauCS/Qwen3.5-9B-Uncensored-HauhauCS-Aggressive",
-      "displayName": "Qwen3.5 9B Uncensored HauhauCS Aggressive",
-      "downloads": 1148784
+      "id": "spiritbuun/Qwen3.6-27B-DFlash-GGUF",
+      "displayName": "Qwen3.6 27B DFlash",
+      "downloads": 11154
     }
   ]
 }
