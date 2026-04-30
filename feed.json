@@ -1,6 +1,48 @@
 {
-  "updated": "2026-04-30T15:45:55Z",
+  "updated": "2026-04-30T17:16:48Z",
   "news": [
+    {
+      "title": "Stripe introduces Link, a digital wallet that autonomous AI agents can use, too",
+      "url": "https://techcrunch.com/2026/04/30/stripe-link-digital-wallet-ai-agents-shopping/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-04-30T17:15:19Z",
+      "snippet": "Link lets users connect cards, banks, and subscriptions, then authorize AI agents to spend securely via approval flows."
+    },
+    {
+      "title": "Live updates from Elon Musk and Sam Altman\u2019s court battle over the future of OpenAI",
+      "url": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
+      "source": "The Verge",
+      "publishedAt": "2026-04-30T16:57:14Z",
+      "snippet": "Sam Altman and Elon Musk are facing off in a high-stakes trial that could alter the future of OpenAI and its most well-known product, ChatGPT. In 2024, Musk filed a lawsuit accusing OpenAI of abandoni"
+    },
+    {
+      "title": "Meta is running get-rich-quick ads for its AI tools",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/915970/meta-manus-ai-ads-website-slop",
+      "source": "The Verge",
+      "publishedAt": "2026-04-30T16:48:13Z",
+      "snippet": "Manus, an AI company Meta acquired for $2 billion last year is running ads promising quick, easy money with AI: Find local businesses without websites or with bad websites, have AI build them one, the"
+    },
+    {
+      "title": "Salesforce is crowdsourcing its AI roadmap \u2014 with customers",
+      "url": "https://techcrunch.com/2026/04/30/salesforce-is-crowdsourcing-its-ai-roadmap-with-customers/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-04-30T16:06:49Z",
+      "snippet": "Salesforce lets its customers lead its product roadmap with the thinking that if one enterprise customer has a problem, the others likely do too."
+    },
+    {
+      "title": "Gemini is rolling out to cars with Google built-in",
+      "url": "https://www.theverge.com/tech/921117/google-gemini-ai-assistant-cars-upgrade",
+      "source": "The Verge",
+      "publishedAt": "2026-04-30T16:00:00Z",
+      "snippet": "Google is preparing to update vehicles that have Google built-in with its Gemini AI assistant. This will be an upgrade from the current Google Assistant according to Google's announcement, and promise"
+    },
+    {
+      "title": "Here&#8217;s how the new Microsoft and OpenAI deal breaks down",
+      "url": "https://www.theverge.com/tech/921210/microsoft-openai-partnership-divorce-notepad",
+      "source": "The Verge",
+      "publishedAt": "2026-04-30T16:00:00Z",
+      "snippet": "Microsoft's relationship with OpenAI has always been complicated, so I expected the close partnership-turned-situationship to end in tears. After all, executive disagreements, rearranged contracts, an"
+    },
     {
       "title": "X announces a rebuilt ad platform powered by AI",
       "url": "https://techcrunch.com/2026/04/30/x-announces-a-rebuilt-ad-platform-powered-by-ai/",
@@ -76,14 +118,7 @@
       "url": "https://techcrunch.com/2026/04/29/sources-anthropic-could-raise-a-new-50b-round-at-a-valuation-of-900b/",
       "source": "TechCrunch",
       "publishedAt": "2026-04-30T00:07:15Z",
-      "snippet": "The maker of Claude has received multiple pre-emptive offers at valuations in the $850 billion to $900 billion range, according to sources familiar with the matter."
-    },
-    {
-      "title": "Elon Musk\u2019s worst enemy in court is Elon Musk",
-      "url": "https://www.theverge.com/tech/921022/elon-musk-cross-openai-altman",
-      "source": "The Verge",
-      "publishedAt": "2026-04-30T00:01:24Z",
-      "snippet": "About five hours into Elon Musk's testimony, I typed the following sentence into my notes: \"I have never been more sympathetic to Sam Altman in my life.\" Musk's direct testimony was an improvement ove"
+      "snippet": "The maker of Claude has received multiple preemptive offers at valuations in the $850 billion to $900 billion range, according to sources familiar with the matter."
     },
     {
       "title": "On the stand, Elon Musk can\u2019t escape his own tweets",
@@ -128,13 +163,6 @@
       "snippet": "Google added 25M paid subscriptions in Q1, reaching 350M total, as YouTube and Google One grow."
     },
     {
-      "title": "Google Search queries hit an \u2018all time high\u2019 last quarter",
-      "url": "https://www.theverge.com/tech/920815/google-alphabet-q1-2026-earnings-sundar-pichai",
-      "source": "The Verge",
-      "publishedAt": "2026-04-29T20:28:11Z",
-      "snippet": "Google Search queries hit an \"all time high\" in the first quarter of 2026, according to a statement from CEO Sundar Pichai published as part of Alphabet's earnings on Wednesday. \"Our AI investments an"
-    },
-    {
       "title": "Is AI video just a prequel? Runway\u2019s CEO thinks world models are next",
       "url": "https://techcrunch.com/podcast/equity-podcast-runway-ceo-cristobal-valenzuela-ai-video-world-models/",
       "source": "TechCrunch",
@@ -147,34 +175,6 @@
       "source": "TechCrunch",
       "publishedAt": "2026-04-29T18:33:05Z",
       "snippet": "The AI agent-tool startup founded by former Twitter CEO Parag Agrawal has raised $100 million, led by Sequoia, months after raising a previous $100 million."
-    },
-    {
-      "title": "All the evidence unveiled so far in Musk v. Altman",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/920775/evidence-exhibits-elon-musk-sam-altman-openai-trial",
-      "source": "The Verge",
-      "publishedAt": "2026-04-29T18:03:05Z",
-      "snippet": "The Musk v. Altman trial is underway, and that means exhibits, or the evidence to be presented in court, are being revealed piece by piece. So far, email exchanges, photos, and corporate documents are"
-    },
-    {
-      "title": "Ubuntu\u2019s AI plans have Linux users looking for a &#8216;kill switch&#8217;",
-      "url": "https://www.theverge.com/tech/920723/linux-ubuntu-ai-features-ai-kill-switch",
-      "source": "The Verge",
-      "publishedAt": "2026-04-29T17:32:02Z",
-      "snippet": "Canonical's plan to add AI features to Ubuntu has some users asking for \"a version of Ubuntu that does not include these features,\" while others say they'll stick with older versions of the Linux dist"
-    },
-    {
-      "title": "Google Photos uses AI to make the iconic closet from \u2018Clueless\u2019 a reality",
-      "url": "https://techcrunch.com/2026/04/29/google-photos-uses-ai-to-make-the-iconic-closet-from-clueless-a-reality/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-04-29T16:42:33Z",
-      "snippet": "Google says the new feature will leverage AI technology to automatically create a copy of your wardrobe that's based on the pieces of clothing appearing in your Google Photos library."
-    },
-    {
-      "title": "More Gemini features are coming to Google TV",
-      "url": "https://techcrunch.com/2026/04/29/more-gemini-features-are-coming-to-google-tv/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-04-29T16:40:49Z",
-      "snippet": "Google TV just got more Gemini features, including the ability to transform photos and videos with tools Nano Banana and Veo."
     }
   ],
   "trending": [
@@ -219,14 +219,14 @@
       "downloads": 147455
     },
     {
+      "id": "SeeSee21/Z-Anime",
+      "displayName": "Z Anime",
+      "downloads": 290
+    },
+    {
       "id": "spiritbuun/Qwen3.6-27B-DFlash-GGUF",
       "displayName": "Qwen3.6 27B DFlash",
       "downloads": 11154
-    },
-    {
-      "id": "hesamation/Qwen3.6-35B-A3B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
-      "displayName": "Qwen3.6 35B A3B Claude 4.6 Opus Reasoning Distilled",
-      "downloads": 166598
     }
   ]
 }
