@@ -1,6 +1,48 @@
 {
-  "updated": "2026-04-30T17:16:48Z",
+  "updated": "2026-04-30T19:14:29Z",
   "news": [
+    {
+      "title": "All the evidence unveiled so far in Musk v. Altman",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/920775/evidence-exhibits-elon-musk-sam-altman-openai-trial",
+      "source": "The Verge",
+      "publishedAt": "2026-04-30T19:00:00Z",
+      "snippet": "The Musk v. Altman trial is underway, and that means exhibits, or the evidence to be presented in court, are being revealed piece by piece. So far, email exchanges, photos, and corporate documents are"
+    },
+    {
+      "title": "OpenAI announces new advanced security for ChatGPT accounts, including a partnership with Yubico",
+      "url": "https://techcrunch.com/2026/04/30/openai-announces-new-advanced-security-for-chatgpt-accounts-including-a-partnership-with-yubico/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-04-30T18:20:03Z",
+      "snippet": "OpenAI is launching additional opt-in protections for ChatGPT accounts. The new security initiative includes a new partnership with security key provider Yubico."
+    },
+    {
+      "title": "Elon Musk confirms xAI used OpenAI\u2019s models to train Grok",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/921546/elon-musk-xai-openai-trial-model-distillation",
+      "source": "The Verge",
+      "publishedAt": "2026-04-30T18:16:57Z",
+      "snippet": "In a federal courtroom in California on Thursday, Elon Musk testified that his own AI startup, xAI, has used OpenAI's models to improve its own. The matter at question is model distillation, a common "
+    },
+    {
+      "title": "Elon Musk testifies that xAI trained Grok on OpenAI models",
+      "url": "https://techcrunch.com/2026/04/30/elon-musk-testifies-that-xai-trained-grok-on-openai-models/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-04-30T18:03:57Z",
+      "snippet": "\"Distillation\" is a hot topic as frontier labs try to prevent smaller competitors from copying their models."
+    },
+    {
+      "title": "FDA approval, fundraising, and the reality of building in healthcare according to BioticsAI founder",
+      "url": "https://techcrunch.com/2026/04/30/fda-approval-fundraising-and-the-reality-of-building-in-healthcare-according-to-bioticsai-founder/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-04-30T17:53:53Z",
+      "snippet": "BioticsAI CEO Robhy Bustami joined Isabelle Johannessen on Build Mode to discuss how the company has navigated a highly regulated space and kept the team motivated while cutting through all the red ta"
+    },
+    {
+      "title": "Google\u2019s Gemini AI assistant is hitting the road in millions of vehicles",
+      "url": "https://techcrunch.com/2026/04/30/googles-gemini-ai-assistant-is-hitting-the-road-in-millions-of-vehicles/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-04-30T17:46:54Z",
+      "snippet": "The move signals Google\u2019s push to bring more advanced, conversational AI into the driving experience."
+    },
     {
       "title": "Stripe introduces Link, a digital wallet that autonomous AI agents can use, too",
       "url": "https://techcrunch.com/2026/04/30/stripe-link-digital-wallet-ai-agents-shopping/",
@@ -86,20 +128,6 @@
       "snippet": "Meta is planning to pump billions more into AI investments this year, despite noting that millions of users have seemingly started to abandon its platforms. In an earning call on Wednesday, Meta repor"
     },
     {
-      "title": "OpenAI\u2019s new security model is for \u2018critical cyber defenders\u2019 only",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/921073/openai-sam-altman-new-cybersecurity-model-gpt-5-5-cyber",
-      "source": "The Verge",
-      "publishedAt": "2026-04-30T11:09:01Z",
-      "snippet": "OpenAI is preparing to launch a new frontier cybersecurity model, GPT-5.5-Cyber. CEO Sam Altman said the model will not be available to the general public, but will be first rolled out to a select gro"
-    },
-    {
-      "title": "The more young people use AI, the more they hate it",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/920401/gen-z-ai",
-      "source": "The Verge",
-      "publishedAt": "2026-04-30T11:00:00Z",
-      "snippet": "It's been almost three years since Silicon Valley started aggressively pushing large language model-based chatbots like ChatGPT as the supposedly inevitable future of everything, and there's no group "
-    },
-    {
       "title": "SoftBank is creating a robotics company that builds data centers \u2014 and already eyeing a $100B IPO",
       "url": "https://techcrunch.com/2026/04/29/softbank-is-creating-a-robotics-company-that-builds-data-centers-and-already-eyeing-a-100b-ipo/",
       "source": "TechCrunch",
@@ -147,34 +175,6 @@
       "source": "TechCrunch",
       "publishedAt": "2026-04-29T23:02:23Z",
       "snippet": "Despite the lingering perception that no one really uses Copilot, Microsoft said on Wednesday that the number of users and engagement is growing."
-    },
-    {
-      "title": "Google Cloud surpasses $20B, but says growth was capacity-constrained",
-      "url": "https://techcrunch.com/2026/04/29/google-cloud-surpasses-20b-but-says-growth-was-capacity-constrained/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-04-29T22:20:48Z",
-      "snippet": "Google Cloud topped $20B in quarterly revenue for the first time, fueled by surging demand for AI. But capacity constraints mean it could have grown even faster."
-    },
-    {
-      "title": "Google gains 25M subscriptions in Q1, driven by YouTube and Google One",
-      "url": "https://techcrunch.com/2026/04/29/google-gains-25m-subscriptions-in-q1-driven-by-youtube-and-google-one/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-04-29T20:59:00Z",
-      "snippet": "Google added 25M paid subscriptions in Q1, reaching 350M total, as YouTube and Google One grow."
-    },
-    {
-      "title": "Is AI video just a prequel? Runway\u2019s CEO thinks world models are next",
-      "url": "https://techcrunch.com/podcast/equity-podcast-runway-ceo-cristobal-valenzuela-ai-video-world-models/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-04-29T18:59:44Z",
-      "snippet": "AI-generated video has gone from novelty to creative tool\u00a0almost overnight, and Runway has a front row seat to the shift. The New York-based company has raised close to $860 million\u00a0at a\u00a0$5.3 billion\u00a0"
-    },
-    {
-      "title": "Parallel Web Systems hits $2B valuation five months after its last big raise",
-      "url": "https://techcrunch.com/2026/04/29/parallel-web-systems-hits-2b-valuation-five-months-after-its-last-big-raise/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-04-29T18:33:05Z",
-      "snippet": "The AI agent-tool startup founded by former Twitter CEO Parag Agrawal has raised $100 million, led by Sequoia, months after raising a previous $100 million."
     }
   ],
   "trending": [
