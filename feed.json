@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-01T09:42:34Z",
+  "updated": "2026-05-01T11:03:41Z",
   "news": [
     {
       "title": "ChatGPT Images 2.0 is a hit in India, but not a big winner elsewhere, yet",
@@ -209,14 +209,14 @@
       "downloads": 32156
     },
     {
-      "id": "Jackrong/Qwopus3.6-27B-v1-preview-GGUF",
-      "displayName": "Qwopus3.6 27B v1 preview",
-      "downloads": 88428
-    },
-    {
       "id": "SeeSee21/Z-Anime",
       "displayName": "Z Anime",
       "downloads": 538
+    },
+    {
+      "id": "Jackrong/Qwopus3.6-27B-v1-preview-GGUF",
+      "displayName": "Qwopus3.6 27B v1 preview",
+      "downloads": 88428
     },
     {
       "id": "spiritbuun/Qwen3.6-27B-DFlash-GGUF",
