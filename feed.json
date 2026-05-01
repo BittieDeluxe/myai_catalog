@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-01T06:33:51Z",
+  "updated": "2026-05-01T09:42:34Z",
   "news": [
     {
       "title": "ChatGPT Images 2.0 is a hit in India, but not a big winner elsewhere, yet",
@@ -181,52 +181,52 @@
     {
       "id": "unsloth/Qwen3.6-27B-GGUF",
       "displayName": "Qwen3.6 27B",
-      "downloads": 855842
+      "downloads": 920570
     },
     {
       "id": "unsloth/Qwen3.6-35B-A3B-GGUF",
       "displayName": "Qwen3.6 35B A3B",
-      "downloads": 1850307
+      "downloads": 1940844
     },
     {
       "id": "HauhauCS/Qwen3.6-27B-Uncensored-HauhauCS-Aggressive",
       "displayName": "Qwen3.6 27B Uncensored HauhauCS Aggressive",
-      "downloads": 265356
+      "downloads": 286798
     },
     {
       "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
       "displayName": "Qwen3.6 35B A3B Uncensored HauhauCS Aggressive",
-      "downloads": 662312
+      "downloads": 728262
     },
     {
       "id": "unsloth/NVIDIA-Nemotron-3-Nano-Omni-30B-A3B-Reasoning-GGUF",
       "displayName": "NVIDIA Nemotron 3 Nano Omni 30B A3B Reasoning",
-      "downloads": 17478
+      "downloads": 32620
     },
     {
       "id": "kai-os/Carnice-V2-27b-GGUF",
       "displayName": "Carnice V2 27b",
-      "downloads": 21446
+      "downloads": 32156
     },
     {
       "id": "Jackrong/Qwopus3.6-27B-v1-preview-GGUF",
       "displayName": "Qwopus3.6 27B v1 preview",
-      "downloads": 74566
+      "downloads": 88428
     },
     {
       "id": "SeeSee21/Z-Anime",
       "displayName": "Z Anime",
-      "downloads": 290
-    },
-    {
-      "id": "OBLITERATUS/gemma-4-E4B-it-OBLITERATED",
-      "displayName": "gemma 4 E4B OBLITERATED",
-      "downloads": 147455
+      "downloads": 538
     },
     {
       "id": "spiritbuun/Qwen3.6-27B-DFlash-GGUF",
       "displayName": "Qwen3.6 27B DFlash",
-      "downloads": 11154
+      "downloads": 13114
+    },
+    {
+      "id": "unsloth/gemma-4-26B-A4B-it-GGUF",
+      "displayName": "gemma 4 26B A4B",
+      "downloads": 3568700
     }
   ]
 }
