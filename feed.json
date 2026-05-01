@@ -1,6 +1,13 @@
 {
-  "updated": "2026-05-01T20:47:32Z",
+  "updated": "2026-05-01T22:44:34Z",
   "news": [
+    {
+      "title": "Meta buys robotics startup to bolster its humanoid AI ambitions",
+      "url": "https://techcrunch.com/2026/05/01/meta-buys-robotics-startup-to-bolster-its-humanoid-ai-ambitions/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-05-01T22:13:27Z",
+      "snippet": "Meta bought humanoid startup Assured Robot Intelligence to beef up its AI models for robots, the company said."
+    },
     {
       "title": "All the evidence revealed so far in Musk v. Altman",
       "url": "https://www.theverge.com/ai-artificial-intelligence/920775/evidence-exhibits-elon-musk-sam-altman-openai-trial",
@@ -168,13 +175,6 @@
       "source": "The Verge",
       "publishedAt": "2026-04-30T16:00:00Z",
       "snippet": "Google is preparing to update vehicles that have Google built-in with its Gemini AI assistant. This will be an upgrade from the current Google Assistant according to Google's announcement, and promise"
-    },
-    {
-      "title": "X announces a rebuilt ad platform powered by AI",
-      "url": "https://techcrunch.com/2026/04/30/x-announces-a-rebuilt-ad-platform-powered-by-ai/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-04-30T15:14:55Z",
-      "snippet": "X is rolling out a rebuilt ads platform powered by AI as it works to grow revenue again."
     }
   ],
   "trending": [
