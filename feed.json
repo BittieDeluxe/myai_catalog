@@ -1,6 +1,27 @@
 {
-  "updated": "2026-05-01T13:11:45Z",
+  "updated": "2026-05-01T14:51:57Z",
   "news": [
+    {
+      "title": "Pentagon strikes classified AI deals with OpenAI, Google, and Nvidia \u2014 but not Anthropic",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/922113/pentagon-ai-classified-openai-google-nvidia",
+      "source": "The Verge",
+      "publishedAt": "2026-05-01T14:09:56Z",
+      "snippet": "The Pentagon has struck deals with OpenAI, Google, Microsoft, Amazon, Nvidia, Elon Musk's xAI, and the startup Reflection, allowing the agency to use their AI tools in classified settings, according t"
+    },
+    {
+      "title": "Elon Musk had a bad week in court",
+      "url": "https://www.theverge.com/podcast/922009/musk-openai-trial-testimony-vergecast",
+      "source": "The Verge",
+      "publishedAt": "2026-05-01T13:33:15Z",
+      "snippet": "Elon Musk is the one who wanted this trial. He has spent months claiming OpenAI \"stole a nonprofit,\" and saying he was the actual driving force behind one of the most important companies currently in "
+    },
+    {
+      "title": "Christian content creators are outsourcing AI slop to gig workers on Fiverr",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/920881/ai-generated-bible-videos-christian-creators-fiverr-slop",
+      "source": "The Verge",
+      "publishedAt": "2026-05-01T13:25:25Z",
+      "snippet": "In the beginning, platforms like Fiverr were places where people could hire freelancers to do specialized creative labor using skills that took years to develop. In the age of generative AI, though, m"
+    },
     {
       "title": "Microsoft wants lawyers to trust its new AI agent in Word documents",
       "url": "https://www.theverge.com/news/921944/microsoft-word-legal-agent-ai",
@@ -93,7 +114,7 @@
       "snippet": "The move signals Google\u2019s push to bring more advanced, conversational AI into the driving experience."
     },
     {
-      "title": "Stripe introduces Link, a digital wallet that autonomous AI agents can use, too",
+      "title": "Stripe updates Link, a digital wallet that autonomous AI agents can use, too",
       "url": "https://techcrunch.com/2026/04/30/stripe-link-digital-wallet-ai-agents-shopping/",
       "source": "TechCrunch",
       "publishedAt": "2026-04-30T17:15:19Z",
@@ -128,32 +149,11 @@
       "snippet": "Google is preparing to update vehicles that have Google built-in with its Gemini AI assistant. This will be an upgrade from the current Google Assistant according to Google's announcement, and promise"
     },
     {
-      "title": "Here&#8217;s how the new Microsoft and OpenAI deal breaks down",
-      "url": "https://www.theverge.com/tech/921210/microsoft-openai-partnership-divorce-notepad",
-      "source": "The Verge",
-      "publishedAt": "2026-04-30T16:00:00Z",
-      "snippet": "Microsoft's relationship with OpenAI has always been complicated, so I expected the close partnership-turned-situationship to end in tears. After all, executive disagreements, rearranged contracts, an"
-    },
-    {
       "title": "X announces a rebuilt ad platform powered by AI",
       "url": "https://techcrunch.com/2026/04/30/x-announces-a-rebuilt-ad-platform-powered-by-ai/",
       "source": "TechCrunch",
       "publishedAt": "2026-04-30T15:14:55Z",
       "snippet": "X is rolling out a rebuilt ads platform powered by AI as it works to grow revenue again."
-    },
-    {
-      "title": "All these smart glasses and nothing to do",
-      "url": "https://www.theverge.com/tech/921159/smart-glasses-review-wearable-even-realities-g2-meta-ray-ban-rokid-lucyd-oakley-meta-vanguard",
-      "source": "The Verge",
-      "publishedAt": "2026-04-30T15:00:00Z",
-      "snippet": "I'm currently wearing a pair of smart glasses called the Even Realities G2. Another two pairs, from Rokid, sit on my desk. A few feet away, I've got the Meta Ray-Ban Display charging alongside their N"
-    },
-    {
-      "title": "OpenAI talks about not talking about goblins",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/921181/openai-codex-goblins",
-      "source": "The Verge",
-      "publishedAt": "2026-04-30T13:42:29Z",
-      "snippet": "OpenAI is opening up about its goblin problem. After a report from Wired revealed instructions to OpenAI's coding model to \"never talk about goblins, gremlins, raccoons, trolls, ogres, pigeons, or oth"
     },
     {
       "title": "Meta says its business AI now facilitates 10 million conversations a week",
