@@ -1,6 +1,13 @@
 {
-  "updated": "2026-05-01T19:06:16Z",
+  "updated": "2026-05-01T20:47:32Z",
   "news": [
+    {
+      "title": "All the evidence revealed so far in Musk v. Altman",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/920775/evidence-exhibits-elon-musk-sam-altman-openai-trial",
+      "source": "The Verge",
+      "publishedAt": "2026-05-01T19:14:51Z",
+      "snippet": "The Musk v. Altman trial is underway, and that means exhibits, or the evidence to be presented in court, are being revealed piece by piece. So far, email exchanges, photos, and corporate documents are"
+    },
     {
       "title": "Did you know you\u00a0can\u2019t\u00a0steal\u00a0a charity?\u00a0Don\u2019t\u00a0worry. Elon Musk will remind you.",
       "url": "https://techcrunch.com/podcast/did-you-know-you-cant-steal-a-charity-dont-worry-elon-musk-will-remind-you/",
@@ -91,13 +98,6 @@
       "source": "TechCrunch",
       "publishedAt": "2026-04-30T19:27:41Z",
       "snippet": "OpenAI will begin rolling out its cybersecurity testing tool, GPT-5.5 Cyber only \"to critical cyber defenders\" at first."
-    },
-    {
-      "title": "All the evidence revealed so far in Musk v. Altman",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/920775/evidence-exhibits-elon-musk-sam-altman-openai-trial",
-      "source": "The Verge",
-      "publishedAt": "2026-04-30T19:00:00Z",
-      "snippet": "The Musk v. Altman trial is underway, and that means exhibits, or the evidence to be presented in court, are being revealed piece by piece. So far, email exchanges, photos, and corporate documents are"
     },
     {
       "title": "OpenAI announces new advanced security for ChatGPT accounts, including a partnership with Yubico",
