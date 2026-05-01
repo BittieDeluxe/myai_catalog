@@ -1,6 +1,13 @@
 {
-  "updated": "2026-05-01T16:53:49Z",
+  "updated": "2026-05-01T19:06:16Z",
   "news": [
+    {
+      "title": "Did you know you\u00a0can\u2019t\u00a0steal\u00a0a charity?\u00a0Don\u2019t\u00a0worry. Elon Musk will remind you.",
+      "url": "https://techcrunch.com/podcast/did-you-know-you-cant-steal-a-charity-dont-worry-elon-musk-will-remind-you/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-05-01T17:44:29Z",
+      "snippet": "Elon Musk spent the better part of three days\u00a0on the witness stand\u00a0this week\u00a0in his lawsuit against OpenAI, and\u00a0it&#8217;s\u00a0already getting messy. Emails, texts, and\u00a0his own tweets\u00a0are surfacing in cou"
+    },
     {
       "title": "Pentagon inks deals with Nvidia, Microsoft, and AWS to deploy AI on classified networks",
       "url": "https://techcrunch.com/2026/05/01/pentagon-inks-deals-with-nvidia-microsoft-and-aws-to-deploy-ai-on-classified-networks/",
@@ -14,6 +21,13 @@
       "source": "The Verge",
       "publishedAt": "2026-05-01T14:09:56Z",
       "snippet": "The Pentagon has struck deals with OpenAI, Google, Microsoft, Amazon, Nvidia, Elon Musk's xAI, and the startup Reflection, allowing the agency to use their AI tools in classified settings, according t"
+    },
+    {
+      "title": "Musk v. Altman is just getting started",
+      "url": "https://techcrunch.com/video/musk-v-altman-is-just-getting-started/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-05-01T14:00:00Z",
+      "snippet": "Elon Musk spent the better part of three days&#160;on the witness stand&#160;this week&#160;in his lawsuit against OpenAI, and&#160;it&#8217;s&#160;already getting messy. Emails, texts, and&#160;his o"
     },
     {
       "title": "Elon Musk had a bad week in court",
@@ -79,7 +93,7 @@
       "snippet": "OpenAI will begin rolling out its cybersecurity testing tool, GPT-5.5 Cyber only \"to critical cyber defenders\" at first."
     },
     {
-      "title": "All the evidence unveiled so far in Musk v. Altman",
+      "title": "All the evidence revealed so far in Musk v. Altman",
       "url": "https://www.theverge.com/ai-artificial-intelligence/920775/evidence-exhibits-elon-musk-sam-altman-openai-trial",
       "source": "The Verge",
       "publishedAt": "2026-04-30T19:00:00Z",
@@ -161,20 +175,6 @@
       "source": "TechCrunch",
       "publishedAt": "2026-04-30T15:14:55Z",
       "snippet": "X is rolling out a rebuilt ads platform powered by AI as it works to grow revenue again."
-    },
-    {
-      "title": "Meta says its business AI now facilitates 10 million conversations a week",
-      "url": "https://techcrunch.com/2026/04/30/meta-says-its-business-ai-now-facilitates-10-million-conversations-a-week/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-04-30T12:08:45Z",
-      "snippet": "Meta said over 8 billion advertisers have used at least one of its GenAI tools"
-    },
-    {
-      "title": "SoftBank is creating a robotics company that builds data centers \u2014 and already eyeing a $100B IPO",
-      "url": "https://techcrunch.com/2026/04/29/softbank-is-creating-a-robotics-company-that-builds-data-centers-and-already-eyeing-a-100b-ipo/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-04-30T03:58:22Z",
-      "snippet": "You need infrastructure to build AI and robots, but apparently you also need AI and robots to build infrastructure."
     }
   ],
   "trending": [
@@ -219,14 +219,14 @@
       "downloads": 88428
     },
     {
-      "id": "spiritbuun/Qwen3.6-27B-DFlash-GGUF",
-      "displayName": "Qwen3.6 27B DFlash",
-      "downloads": 13114
-    },
-    {
       "id": "OBLITERATUS/gemma-4-E4B-it-OBLITERATED",
       "displayName": "gemma 4 E4B OBLITERATED",
       "downloads": 153643
+    },
+    {
+      "id": "unsloth/gemma-4-26B-A4B-it-GGUF",
+      "displayName": "gemma 4 26B A4B",
+      "downloads": 3568700
     }
   ]
 }
