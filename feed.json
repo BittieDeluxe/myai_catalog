@@ -1,6 +1,13 @@
 {
-  "updated": "2026-05-02T14:42:16Z",
+  "updated": "2026-05-02T16:41:15Z",
   "news": [
+    {
+      "title": "The best AI dictation apps, tested and ranked",
+      "url": "https://techcrunch.com/2026/05/02/the-best-ai-powered-dictation-apps-of-2025/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-05-02T16:00:00Z",
+      "snippet": "AI-powered dictation apps are useful for replying to emails, taking notes, and even coding through your voice"
+    },
     {
       "title": "Replit\u2019s Amjad Masad on the Cursor deal, fighting Apple, and why he\u2019d rather not sell",
       "url": "https://techcrunch.com/2026/05/01/replits-amjad-masad-on-the-cursor-deal-fighting-apple-and-why-hed-rather-not-sell/",
@@ -149,13 +156,6 @@
       "snippet": "The move signals Google\u2019s push to bring more advanced, conversational AI into the driving experience."
     },
     {
-      "title": "Stripe updates Link, a digital wallet that autonomous AI agents can use, too",
-      "url": "https://techcrunch.com/2026/04/30/stripe-link-digital-wallet-ai-agents-shopping/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-04-30T17:15:19Z",
-      "snippet": "Link lets users connect cards, banks, and subscriptions, then authorize AI agents to spend securely via approval flows."
-    },
-    {
       "title": "Live updates from Elon Musk and Sam Altman\u2019s court battle over the future of OpenAI",
       "url": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
       "source": "The Verge",
@@ -219,14 +219,14 @@
       "downloads": 158538
     },
     {
-      "id": "Jackrong/Qwopus3.6-27B-v1-preview-GGUF",
-      "displayName": "Qwopus3.6 27B v1 preview",
-      "downloads": 100659
-    },
-    {
       "id": "Jackrong/Qwen3.5-9B-DeepSeek-V4-Flash-GGUF",
       "displayName": "Qwen3.5 9B DeepSeek V4 Flash",
       "downloads": 22241
+    },
+    {
+      "id": "Jackrong/Qwopus3.6-27B-v1-preview-GGUF",
+      "displayName": "Qwopus3.6 27B v1 preview",
+      "downloads": 100659
     }
   ]
 }
