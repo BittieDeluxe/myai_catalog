@@ -1,6 +1,13 @@
 {
-  "updated": "2026-05-02T20:37:22Z",
+  "updated": "2026-05-02T22:36:10Z",
   "news": [
+    {
+      "title": "AI-generated actors and scripts are now ineligible for Oscars",
+      "url": "https://techcrunch.com/2026/05/02/ai-generated-actors-and-scripts-are-now-ineligible-for-oscars/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-05-02T21:54:58Z",
+      "snippet": "Bad news for Tilly Norwood."
+    },
     {
       "title": "The best AI dictation apps, tested and ranked",
       "url": "https://techcrunch.com/2026/05/02/the-best-ai-powered-dictation-apps-of-2025/",
@@ -149,13 +156,6 @@
       "snippet": "BioticsAI CEO Robhy Bustami joined Isabelle Johannessen on Build Mode to discuss how the company has navigated a highly regulated space and kept the team motivated while cutting through all the red ta"
     },
     {
-      "title": "Google\u2019s Gemini AI assistant is hitting the road in millions of vehicles",
-      "url": "https://techcrunch.com/2026/04/30/googles-gemini-ai-assistant-is-hitting-the-road-in-millions-of-vehicles/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-04-30T17:46:54Z",
-      "snippet": "The move signals Google\u2019s push to bring more advanced, conversational AI into the driving experience."
-    },
-    {
       "title": "Live updates from Elon Musk and Sam Altman\u2019s court battle over the future of OpenAI",
       "url": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
       "source": "The Verge",
@@ -204,14 +204,14 @@
       "downloads": 766075
     },
     {
-      "id": "kai-os/Carnice-V2-27b-GGUF",
-      "displayName": "Carnice V2 27b",
-      "downloads": 40813
-    },
-    {
       "id": "SeeSee21/Z-Anime",
       "displayName": "Z Anime",
       "downloads": 859
+    },
+    {
+      "id": "kai-os/Carnice-V2-27b-GGUF",
+      "displayName": "Carnice V2 27b",
+      "downloads": 40813
     },
     {
       "id": "Jackrong/Qwen3.5-9B-DeepSeek-V4-Flash-GGUF",
