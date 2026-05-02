@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-02T16:41:15Z",
+  "updated": "2026-05-02T18:53:46Z",
   "news": [
     {
       "title": "The best AI dictation apps, tested and ranked",
@@ -199,14 +199,14 @@
       "downloads": 37663
     },
     {
-      "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
-      "displayName": "Qwen3.6 35B A3B Uncensored HauhauCS Aggressive",
-      "downloads": 766075
-    },
-    {
       "id": "kai-os/Carnice-V2-27b-GGUF",
       "displayName": "Carnice V2 27b",
       "downloads": 40813
+    },
+    {
+      "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
+      "displayName": "Qwen3.6 35B A3B Uncensored HauhauCS Aggressive",
+      "downloads": 766075
     },
     {
       "id": "SeeSee21/Z-Anime",
@@ -214,14 +214,14 @@
       "downloads": 859
     },
     {
-      "id": "OBLITERATUS/gemma-4-E4B-it-OBLITERATED",
-      "displayName": "gemma 4 E4B OBLITERATED",
-      "downloads": 158538
-    },
-    {
       "id": "Jackrong/Qwen3.5-9B-DeepSeek-V4-Flash-GGUF",
       "displayName": "Qwen3.5 9B DeepSeek V4 Flash",
       "downloads": 22241
+    },
+    {
+      "id": "OBLITERATUS/gemma-4-E4B-it-OBLITERATED",
+      "displayName": "gemma 4 E4B OBLITERATED",
+      "downloads": 158538
     },
     {
       "id": "Jackrong/Qwopus3.6-27B-v1-preview-GGUF",
