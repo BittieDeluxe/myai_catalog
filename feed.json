@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-02T06:04:08Z",
+  "updated": "2026-05-02T09:02:07Z",
   "news": [
     {
       "title": "Replit\u2019s Amjad Masad on the Cursor deal, fighting Apple, and why he\u2019d rather not sell",
@@ -181,52 +181,52 @@
     {
       "id": "unsloth/Qwen3.6-27B-GGUF",
       "displayName": "Qwen3.6 27B",
-      "downloads": 920570
+      "downloads": 983535
     },
     {
       "id": "unsloth/Qwen3.6-35B-A3B-GGUF",
       "displayName": "Qwen3.6 35B A3B",
-      "downloads": 1940844
+      "downloads": 2001316
     },
     {
       "id": "HauhauCS/Qwen3.6-27B-Uncensored-HauhauCS-Aggressive",
       "displayName": "Qwen3.6 27B Uncensored HauhauCS Aggressive",
-      "downloads": 286798
+      "downloads": 303358
     },
     {
       "id": "unsloth/NVIDIA-Nemotron-3-Nano-Omni-30B-A3B-Reasoning-GGUF",
       "displayName": "NVIDIA Nemotron 3 Nano Omni 30B A3B Reasoning",
-      "downloads": 32620
+      "downloads": 37663
     },
     {
       "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
       "displayName": "Qwen3.6 35B A3B Uncensored HauhauCS Aggressive",
-      "downloads": 728262
+      "downloads": 766075
     },
     {
       "id": "kai-os/Carnice-V2-27b-GGUF",
       "displayName": "Carnice V2 27b",
-      "downloads": 32156
+      "downloads": 40813
     },
     {
       "id": "SeeSee21/Z-Anime",
       "displayName": "Z Anime",
-      "downloads": 538
+      "downloads": 859
     },
     {
       "id": "OBLITERATUS/gemma-4-E4B-it-OBLITERATED",
       "displayName": "gemma 4 E4B OBLITERATED",
-      "downloads": 153643
+      "downloads": 158538
     },
     {
       "id": "Jackrong/Qwopus3.6-27B-v1-preview-GGUF",
       "displayName": "Qwopus3.6 27B v1 preview",
-      "downloads": 88428
+      "downloads": 100659
     },
     {
       "id": "Jackrong/Qwen3.5-9B-DeepSeek-V4-Flash-GGUF",
       "displayName": "Qwen3.5 9B DeepSeek V4 Flash",
-      "downloads": 9305
+      "downloads": 22241
     }
   ]
 }
