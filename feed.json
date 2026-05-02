@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-02T18:53:46Z",
+  "updated": "2026-05-02T20:37:22Z",
   "news": [
     {
       "title": "The best AI dictation apps, tested and ranked",
@@ -199,14 +199,14 @@
       "downloads": 37663
     },
     {
-      "id": "kai-os/Carnice-V2-27b-GGUF",
-      "displayName": "Carnice V2 27b",
-      "downloads": 40813
-    },
-    {
       "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
       "displayName": "Qwen3.6 35B A3B Uncensored HauhauCS Aggressive",
       "downloads": 766075
+    },
+    {
+      "id": "kai-os/Carnice-V2-27b-GGUF",
+      "displayName": "Carnice V2 27b",
+      "downloads": 40813
     },
     {
       "id": "SeeSee21/Z-Anime",
