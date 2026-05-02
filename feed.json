@@ -1,6 +1,13 @@
 {
-  "updated": "2026-05-01T22:44:34Z",
+  "updated": "2026-05-02T02:25:12Z",
   "news": [
+    {
+      "title": "Replit\u2019s Amjad Masad on the Cursor deal, fighting Apple, and why he\u2019d rather not sell",
+      "url": "https://techcrunch.com/2026/05/01/replits-amjad-masad-on-the-cursor-deal-fighting-apple-and-why-hed-rather-not-sell/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-05-01T23:06:50Z",
+      "snippet": "At TechCrunch's sold-out StrictlyVC event in San Francisco on Thursday night, we covered a lot of ground in a short time, beginning with the question everyone in the industry is asking right now: in a"
+    },
     {
       "title": "Meta buys robotics startup to bolster its humanoid AI ambitions",
       "url": "https://techcrunch.com/2026/05/01/meta-buys-robotics-startup-to-bolster-its-humanoid-ai-ambitions/",
@@ -163,13 +170,6 @@
       "snippet": "Manus, an AI company Meta acquired for $2 billion last year is running ads promising quick, easy money with AI: Find local businesses without websites or with bad websites, have AI build them one, the"
     },
     {
-      "title": "Salesforce is crowdsourcing its AI roadmap \u2014 with customers",
-      "url": "https://techcrunch.com/2026/04/30/salesforce-is-crowdsourcing-its-ai-roadmap-with-customers/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-04-30T16:06:49Z",
-      "snippet": "Salesforce lets its customers lead its product roadmap with the thinking that if one enterprise customer has a problem, the others likely do too."
-    },
-    {
       "title": "Gemini is rolling out to cars with Google built-in",
       "url": "https://www.theverge.com/tech/921117/google-gemini-ai-assistant-cars-upgrade",
       "source": "The Verge",
@@ -194,14 +194,14 @@
       "downloads": 286798
     },
     {
-      "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
-      "displayName": "Qwen3.6 35B A3B Uncensored HauhauCS Aggressive",
-      "downloads": 728262
-    },
-    {
       "id": "unsloth/NVIDIA-Nemotron-3-Nano-Omni-30B-A3B-Reasoning-GGUF",
       "displayName": "NVIDIA Nemotron 3 Nano Omni 30B A3B Reasoning",
       "downloads": 32620
+    },
+    {
+      "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
+      "displayName": "Qwen3.6 35B A3B Uncensored HauhauCS Aggressive",
+      "downloads": 728262
     },
     {
       "id": "kai-os/Carnice-V2-27b-GGUF",
@@ -214,14 +214,14 @@
       "downloads": 538
     },
     {
-      "id": "Jackrong/Qwopus3.6-27B-v1-preview-GGUF",
-      "displayName": "Qwopus3.6 27B v1 preview",
-      "downloads": 88428
-    },
-    {
       "id": "OBLITERATUS/gemma-4-E4B-it-OBLITERATED",
       "displayName": "gemma 4 E4B OBLITERATED",
       "downloads": 153643
+    },
+    {
+      "id": "Jackrong/Qwopus3.6-27B-v1-preview-GGUF",
+      "displayName": "Qwopus3.6 27B v1 preview",
+      "downloads": 88428
     },
     {
       "id": "unsloth/gemma-4-26B-A4B-it-GGUF",
