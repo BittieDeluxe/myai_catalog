@@ -1,6 +1,13 @@
 {
-  "updated": "2026-05-03T10:51:36Z",
+  "updated": "2026-05-03T13:01:08Z",
   "news": [
+    {
+      "title": "AI music is flooding streaming services \u2014 but who wants it?",
+      "url": "https://www.theverge.com/column/921599/ai-music-is-flooding-streaming-services-but-who-wants-it",
+      "source": "The Verge",
+      "publishedAt": "2026-05-03T12:00:00Z",
+      "snippet": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on how AI is changing music and the music industry, follow Terrence O'Brien. The Stepback arri"
+    },
     {
       "title": "AI-generated actors and scripts are now ineligible for Oscars",
       "url": "https://techcrunch.com/2026/05/02/ai-generated-actors-and-scripts-are-now-ineligible-for-oscars/",
@@ -168,13 +175,6 @@
       "source": "The Verge",
       "publishedAt": "2026-04-30T16:48:13Z",
       "snippet": "Manus, an AI company Meta acquired for $2 billion last year is running ads promising quick, easy money with AI: Find local businesses without websites or with bad websites, have AI build them one, the"
-    },
-    {
-      "title": "Gemini is rolling out to cars with Google built-in",
-      "url": "https://www.theverge.com/tech/921117/google-gemini-ai-assistant-cars-upgrade",
-      "source": "The Verge",
-      "publishedAt": "2026-04-30T16:00:00Z",
-      "snippet": "Google is preparing to update vehicles that have Google built-in with its Gemini AI assistant. This will be an upgrade from the current Google Assistant according to Google's announcement, and promise"
     }
   ],
   "trending": [
@@ -189,9 +189,9 @@
       "downloads": 2080953
     },
     {
-      "id": "HauhauCS/Qwen3.6-27B-Uncensored-HauhauCS-Aggressive",
-      "displayName": "Qwen3.6 27B Uncensored HauhauCS Aggressive",
-      "downloads": 320747
+      "id": "SeeSee21/Z-Anime",
+      "displayName": "Z Anime",
+      "downloads": 1647
     },
     {
       "id": "unsloth/NVIDIA-Nemotron-3-Nano-Omni-30B-A3B-Reasoning-GGUF",
@@ -199,9 +199,9 @@
       "downloads": 41418
     },
     {
-      "id": "SeeSee21/Z-Anime",
-      "displayName": "Z Anime",
-      "downloads": 1647
+      "id": "HauhauCS/Qwen3.6-27B-Uncensored-HauhauCS-Aggressive",
+      "displayName": "Qwen3.6 27B Uncensored HauhauCS Aggressive",
+      "downloads": 320747
     },
     {
       "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
@@ -219,14 +219,14 @@
       "downloads": 48570
     },
     {
+      "id": "SulphurAI/Sulphur-2-base",
+      "displayName": "Sulphur 2 base",
+      "downloads": 332
+    },
+    {
       "id": "DavidAU/Qwen3.6-27B-Heretic-Uncensored-FINETUNE-NEO-CODE-Di-IMatrix-MAX-GGUF",
       "displayName": "Qwen3.6 27B Heretic Uncensored FINETUNE NEO CODE Di IMatrix MAX",
       "downloads": 51748
-    },
-    {
-      "id": "Jackrong/Qwopus3.6-27B-v1-preview-GGUF",
-      "displayName": "Qwopus3.6 27B v1 preview",
-      "downloads": 111470
     }
   ]
 }
