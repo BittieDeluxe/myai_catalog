@@ -1,8 +1,15 @@
 {
-  "updated": "2026-05-03T18:54:07Z",
+  "updated": "2026-05-03T20:38:10Z",
   "news": [
     {
-      "title": "In Harvard study, AI offered more accurate diagnoses than emergency room doctors",
+      "title": "\u2018This is fine\u2019 creator says AI startup stole his art",
+      "url": "https://techcrunch.com/2026/05/03/this-is-fine-creator-says-ai-startup-stole-his-art/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-05-03T20:16:51Z",
+      "snippet": "The ad comes from Artisan, the AI startup behind billboards urging businesses to \"stop hiring humans.\""
+    },
+    {
+      "title": "In Harvard study, AI offered more accurate emergency room diagnoses than two human doctors",
       "url": "https://techcrunch.com/2026/05/03/in-harvard-study-ai-offered-more-accurate-diagnoses-than-emergency-room-doctors/",
       "source": "TechCrunch",
       "publishedAt": "2026-05-03T18:00:09Z",
@@ -161,13 +168,6 @@
       "source": "The Verge",
       "publishedAt": "2026-04-30T18:16:57Z",
       "snippet": "In a federal courtroom in California on Thursday, Elon Musk testified that his own AI startup, xAI, has used OpenAI's models to improve its own. The matter at question is model distillation, a common "
-    },
-    {
-      "title": "Elon Musk testifies that xAI trained Grok on OpenAI models",
-      "url": "https://techcrunch.com/2026/04/30/elon-musk-testifies-that-xai-trained-grok-on-openai-models/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-04-30T18:03:57Z",
-      "snippet": "\"Distillation\" is a hot topic as frontier labs try to prevent smaller competitors from copying their models."
     },
     {
       "title": "Live updates from Elon Musk and Sam Altman\u2019s court battle over the future of OpenAI",
