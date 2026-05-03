@@ -1,6 +1,13 @@
 {
-  "updated": "2026-05-03T13:01:08Z",
+  "updated": "2026-05-03T14:44:16Z",
   "news": [
+    {
+      "title": "How the internet\u2019s favorite squirrel dad made the hottest camera app of 2026",
+      "url": "https://www.theverge.com/tech/921690/dualshot-recorder-iphone-camera-app-derrick-downey-jr",
+      "source": "The Verge",
+      "publishedAt": "2026-05-03T13:00:00Z",
+      "snippet": "It's not hyperbole to call DualShot Recorder an overnight sensation. It took only 12 hours from the time it was released to hit number one on the App Store's list of top paid apps. It was a surprise s"
+    },
     {
       "title": "AI music is flooding streaming services \u2014 but who wants it?",
       "url": "https://www.theverge.com/column/921599/ai-music-is-flooding-streaming-services-but-who-wants-it",
@@ -168,13 +175,6 @@
       "source": "The Verge",
       "publishedAt": "2026-04-30T16:57:14Z",
       "snippet": "Sam Altman and Elon Musk are facing off in a high-stakes trial that could alter the future of OpenAI and its most well-known product, ChatGPT. In 2024, Musk filed a lawsuit accusing OpenAI of abandoni"
-    },
-    {
-      "title": "Meta is running get-rich-quick ads for its AI tools",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/915970/meta-manus-ai-ads-website-slop",
-      "source": "The Verge",
-      "publishedAt": "2026-04-30T16:48:13Z",
-      "snippet": "Manus, an AI company Meta acquired for $2 billion last year is running ads promising quick, easy money with AI: Find local businesses without websites or with bad websites, have AI build them one, the"
     }
   ],
   "trending": [
@@ -214,14 +214,14 @@
       "downloads": 40696
     },
     {
-      "id": "kai-os/Carnice-V2-27b-GGUF",
-      "displayName": "Carnice V2 27b",
-      "downloads": 48570
-    },
-    {
       "id": "SulphurAI/Sulphur-2-base",
       "displayName": "Sulphur 2 base",
       "downloads": 332
+    },
+    {
+      "id": "kai-os/Carnice-V2-27b-GGUF",
+      "displayName": "Carnice V2 27b",
+      "downloads": 48570
     },
     {
       "id": "DavidAU/Qwen3.6-27B-Heretic-Uncensored-FINETUNE-NEO-CODE-Di-IMatrix-MAX-GGUF",
