@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-03T02:33:50Z",
+  "updated": "2026-05-03T06:24:10Z",
   "news": [
     {
       "title": "AI-generated actors and scripts are now ineligible for Oscars",
@@ -209,24 +209,24 @@
       "downloads": 859
     },
     {
-      "id": "kai-os/Carnice-V2-27b-GGUF",
-      "displayName": "Carnice V2 27b",
-      "downloads": 40813
-    },
-    {
       "id": "Jackrong/Qwen3.5-9B-DeepSeek-V4-Flash-GGUF",
       "displayName": "Qwen3.5 9B DeepSeek V4 Flash",
       "downloads": 22241
     },
     {
-      "id": "Jackrong/Qwopus3.6-27B-v1-preview-GGUF",
-      "displayName": "Qwopus3.6 27B v1 preview",
-      "downloads": 100659
+      "id": "kai-os/Carnice-V2-27b-GGUF",
+      "displayName": "Carnice V2 27b",
+      "downloads": 40813
     },
     {
       "id": "DavidAU/Qwen3.6-27B-Heretic-Uncensored-FINETUNE-NEO-CODE-Di-IMatrix-MAX-GGUF",
       "displayName": "Qwen3.6 27B Heretic Uncensored FINETUNE NEO CODE Di IMatrix MAX",
       "downloads": 47638
+    },
+    {
+      "id": "Jackrong/Qwopus3.6-27B-v1-preview-GGUF",
+      "displayName": "Qwopus3.6 27B v1 preview",
+      "downloads": 100659
     }
   ]
 }
