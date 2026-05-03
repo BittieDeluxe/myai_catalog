@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-02T22:36:10Z",
+  "updated": "2026-05-03T02:33:50Z",
   "news": [
     {
       "title": "AI-generated actors and scripts are now ineligible for Oscars",
@@ -219,14 +219,14 @@
       "downloads": 22241
     },
     {
-      "id": "OBLITERATUS/gemma-4-E4B-it-OBLITERATED",
-      "displayName": "gemma 4 E4B OBLITERATED",
-      "downloads": 158538
-    },
-    {
       "id": "Jackrong/Qwopus3.6-27B-v1-preview-GGUF",
       "displayName": "Qwopus3.6 27B v1 preview",
       "downloads": 100659
+    },
+    {
+      "id": "DavidAU/Qwen3.6-27B-Heretic-Uncensored-FINETUNE-NEO-CODE-Di-IMatrix-MAX-GGUF",
+      "displayName": "Qwen3.6 27B Heretic Uncensored FINETUNE NEO CODE Di IMatrix MAX",
+      "downloads": 47638
     }
   ]
 }
