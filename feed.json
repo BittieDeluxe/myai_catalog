@@ -1,6 +1,13 @@
 {
-  "updated": "2026-05-04T17:46:02Z",
+  "updated": "2026-05-04T19:23:38Z",
   "news": [
+    {
+      "title": "Image AI models now drive app growth, beating chatbot upgrades",
+      "url": "https://techcrunch.com/2026/05/04/image-ai-models-now-drive-app-growth-beating-chatbot-upgrades/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-05-04T19:12:49Z",
+      "snippet": "Appfigures finds visual model launches generate 6.5x more downloads \u2014 but most don\u2019t convert that spike into revenue."
+    },
     {
       "title": "Elon Musk\u2019s only AI expert witness at the OpenAI trial fears an AGI arms race",
       "url": "https://techcrunch.com/2026/05/04/elon-musks-only-expert-witness-at-the-openai-trial-fears-an-agi-arms-race/",
@@ -27,7 +34,7 @@
       "url": "https://techcrunch.com/2026/05/04/elon-musk-sent-ominous-texts-to-greg-brockman-sam-altman-after-asking-for-a-settlement-openai-claims/",
       "source": "TechCrunch",
       "publishedAt": "2026-05-04T16:36:03Z",
-      "snippet": "Musk texted OpenAI's president and co-founder saying that he and CEO Sam Altman \"will be the most hated men in America.\""
+      "snippet": "Musk texted OpenAI's president and co-founder saying that he and CEO Sam Altman \"will be the most hated men in America\" if OpenAI doesn't settle the suit."
     },
     {
       "title": "Anthropic and OpenAI are both launching joint ventures for enterprise AI services",
@@ -90,7 +97,7 @@
       "url": "https://techcrunch.com/2026/05/02/ai-generated-actors-and-scripts-are-now-ineligible-for-oscars/",
       "source": "TechCrunch",
       "publishedAt": "2026-05-02T21:54:58Z",
-      "snippet": "Bad news for Tilly Norwood."
+      "snippet": "The Academy of Motion Picture Arts and Sciences said that only performances \u201ccredited in the film\u2019s legal billing and demonstrably performed by humans with their consent\u201d will be eligible for Academy "
     },
     {
       "title": "The best AI dictation apps, tested and ranked",
@@ -140,13 +147,6 @@
       "source": "The Verge",
       "publishedAt": "2026-05-01T14:09:56Z",
       "snippet": "The Pentagon has struck deals with OpenAI, Google, Microsoft, Amazon, Nvidia, Elon Musk's xAI, and the startup Reflection, allowing the agency to use their AI tools in classified settings, according t"
-    },
-    {
-      "title": "Musk v. Altman is just getting started",
-      "url": "https://techcrunch.com/video/musk-v-altman-is-just-getting-started/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-05-01T14:00:00Z",
-      "snippet": "Elon Musk spent the better part of three days&#160;on the witness stand&#160;this week&#160;in his lawsuit against OpenAI, and&#160;it&#8217;s&#160;already getting messy. Emails, texts, and&#160;his o"
     },
     {
       "title": "Elon Musk had a bad week in court",
