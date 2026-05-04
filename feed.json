@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-04T10:09:31Z",
+  "updated": "2026-05-04T13:50:00Z",
   "news": [
     {
       "title": "\u2018This is fine\u2019 creator says AI startup stole his art",
@@ -224,9 +224,9 @@
       "downloads": 59265
     },
     {
-      "id": "HauhauCS/Qwen3.5-9B-Uncensored-HauhauCS-Aggressive",
-      "displayName": "Qwen3.5 9B Uncensored HauhauCS Aggressive",
-      "downloads": 1142572
+      "id": "unsloth/Mistral-Medium-3.5-128B-GGUF",
+      "displayName": "Mistral Medium 3.5 128B",
+      "downloads": 30623
     }
   ]
 }
