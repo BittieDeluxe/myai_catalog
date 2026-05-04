@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-04T06:36:03Z",
+  "updated": "2026-05-04T10:09:31Z",
   "news": [
     {
       "title": "\u2018This is fine\u2019 creator says AI startup stole his art",
@@ -181,52 +181,52 @@
     {
       "id": "SulphurAI/Sulphur-2-base",
       "displayName": "Sulphur 2 base",
-      "downloads": 332
+      "downloads": 20187
     },
     {
       "id": "SeeSee21/Z-Anime",
       "displayName": "Z Anime",
-      "downloads": 1647
+      "downloads": 2622
     },
     {
       "id": "unsloth/Qwen3.6-27B-GGUF",
       "displayName": "Qwen3.6 27B",
-      "downloads": 1045084
+      "downloads": 1092141
     },
     {
       "id": "unsloth/NVIDIA-Nemotron-3-Nano-Omni-30B-A3B-Reasoning-GGUF",
       "displayName": "NVIDIA Nemotron 3 Nano Omni 30B A3B Reasoning",
-      "downloads": 41418
+      "downloads": 44790
     },
     {
       "id": "unsloth/Qwen3.6-35B-A3B-GGUF",
       "displayName": "Qwen3.6 35B A3B",
-      "downloads": 2080953
+      "downloads": 2174698
     },
     {
       "id": "HauhauCS/Qwen3.6-27B-Uncensored-HauhauCS-Aggressive",
       "displayName": "Qwen3.6 27B Uncensored HauhauCS Aggressive",
-      "downloads": 320747
+      "downloads": 350841
     },
     {
       "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
       "displayName": "Qwen3.6 35B A3B Uncensored HauhauCS Aggressive",
-      "downloads": 799579
+      "downloads": 829136
     },
     {
       "id": "Jackrong/Qwen3.5-9B-DeepSeek-V4-Flash-GGUF",
       "displayName": "Qwen3.5 9B DeepSeek V4 Flash",
-      "downloads": 40696
+      "downloads": 55511
     },
     {
       "id": "DavidAU/Qwen3.6-27B-Heretic-Uncensored-FINETUNE-NEO-CODE-Di-IMatrix-MAX-GGUF",
       "displayName": "Qwen3.6 27B Heretic Uncensored FINETUNE NEO CODE Di IMatrix MAX",
-      "downloads": 51748
+      "downloads": 59265
     },
     {
       "id": "HauhauCS/Qwen3.5-9B-Uncensored-HauhauCS-Aggressive",
       "displayName": "Qwen3.5 9B Uncensored HauhauCS Aggressive",
-      "downloads": 1145604
+      "downloads": 1142572
     }
   ]
 }
