@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-03T22:36:30Z",
+  "updated": "2026-05-04T02:32:08Z",
   "news": [
     {
       "title": "\u2018This is fine\u2019 creator says AI startup stole his art",
@@ -179,6 +179,11 @@
   ],
   "trending": [
     {
+      "id": "SulphurAI/Sulphur-2-base",
+      "displayName": "Sulphur 2 base",
+      "downloads": 332
+    },
+    {
       "id": "unsloth/Qwen3.6-27B-GGUF",
       "displayName": "Qwen3.6 27B",
       "downloads": 1045084
@@ -192,11 +197,6 @@
       "id": "unsloth/Qwen3.6-35B-A3B-GGUF",
       "displayName": "Qwen3.6 35B A3B",
       "downloads": 2080953
-    },
-    {
-      "id": "SulphurAI/Sulphur-2-base",
-      "displayName": "Sulphur 2 base",
-      "downloads": 332
     },
     {
       "id": "unsloth/NVIDIA-Nemotron-3-Nano-Omni-30B-A3B-Reasoning-GGUF",
