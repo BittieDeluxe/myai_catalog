@@ -1,6 +1,13 @@
 {
-  "updated": "2026-05-04T21:04:25Z",
+  "updated": "2026-05-04T22:54:26Z",
   "news": [
+    {
+      "title": "OpenAI\u2019s cozy partner Cerebras is on track for a blockbuster IPO",
+      "url": "https://techcrunch.com/2026/05/04/openais-cozy-partner-cerebras-is-on-track-for-a-blockbuster-ipo/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-05-04T21:53:21Z",
+      "snippet": "AI chip maker Cerebras is heading for a blockbuster IPO that could value it at $26.6 billion or more. Its relationship with OpenAI is deep and rich."
+    },
     {
       "title": "Image AI models now drive app growth, beating chatbot upgrades",
       "url": "https://techcrunch.com/2026/05/04/image-ai-models-now-drive-app-growth-beating-chatbot-upgrades/",
@@ -133,13 +140,6 @@
       "source": "TechCrunch",
       "publishedAt": "2026-05-01T17:44:29Z",
       "snippet": "Elon Musk spent the better part of three days\u00a0on the witness stand\u00a0this week\u00a0in his lawsuit against OpenAI, and\u00a0it&#8217;s\u00a0already getting messy. Emails, texts, and\u00a0his own tweets\u00a0are surfacing in cou"
-    },
-    {
-      "title": "Pentagon inks deals with Nvidia, Microsoft, and AWS to deploy AI on classified networks",
-      "url": "https://techcrunch.com/2026/05/01/pentagon-inks-deals-with-nvidia-microsoft-and-aws-to-deploy-ai-on-classified-networks/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-05-01T16:02:36Z",
-      "snippet": "The deals come as the DOD has doubled down on diversifying its exposure to AI vendors in the wake of its controversial dispute with Anthropic over usage terms of its AI models."
     },
     {
       "title": "Pentagon strikes classified AI deals with OpenAI, Google, and Nvidia \u2014 but not Anthropic",
