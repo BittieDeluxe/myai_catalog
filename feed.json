@@ -1,6 +1,20 @@
 {
-  "updated": "2026-05-04T13:50:00Z",
+  "updated": "2026-05-04T15:58:54Z",
   "news": [
+    {
+      "title": "Live updates from Elon Musk and Sam Altman\u2019s court battle over the future of OpenAI",
+      "url": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
+      "source": "The Verge",
+      "publishedAt": "2026-05-04T15:43:49Z",
+      "snippet": "Sam Altman and Elon Musk are facing off in a high-stakes trial that could alter the future of OpenAI and its most well-known product, ChatGPT. In 2024, Musk filed a lawsuit accusing OpenAI of abandoni"
+    },
+    {
+      "title": "5 days only: Bring a\u00a0partner or\u00a0colleague and get 50% off a second TechCrunch Disrupt 2026 pass",
+      "url": "https://techcrunch.com/2026/05/04/5-days-only-bring-a-partner-or-colleague-and-get-50-off-a-second-techcrunch-disrupt-2026-pass/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-05-04T14:00:00Z",
+      "snippet": "The BOGO offer is live.\u00a0For a limited time, buy one pass to\u00a0TechCrunch Disrupt 2026\u00a0and\u00a0get 50% off a second of the same ticket type. Offer ends this Friday, May 8. Save here."
+    },
     {
       "title": "\u2018This is fine\u2019 creator says AI startup stole his art",
       "url": "https://techcrunch.com/2026/05/03/this-is-fine-creator-says-ai-startup-stole-his-art/",
@@ -156,25 +170,11 @@
       "snippet": "OpenAI will begin rolling out its cybersecurity testing tool, GPT-5.5 Cyber only \"to critical cyber defenders\" at first."
     },
     {
-      "title": "OpenAI announces new advanced security for ChatGPT accounts, including a partnership with Yubico",
-      "url": "https://techcrunch.com/2026/04/30/openai-announces-new-advanced-security-for-chatgpt-accounts-including-a-partnership-with-yubico/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-04-30T18:20:03Z",
-      "snippet": "OpenAI is launching additional opt-in protections for ChatGPT accounts. The new security initiative includes a new partnership with security key provider Yubico."
-    },
-    {
       "title": "Elon Musk confirms xAI used OpenAI\u2019s models to train Grok",
       "url": "https://www.theverge.com/ai-artificial-intelligence/921546/elon-musk-xai-openai-trial-model-distillation",
       "source": "The Verge",
       "publishedAt": "2026-04-30T18:16:57Z",
       "snippet": "In a federal courtroom in California on Thursday, Elon Musk testified that his own AI startup, xAI, has used OpenAI's models to improve its own. The matter at question is model distillation, a common "
-    },
-    {
-      "title": "Live updates from Elon Musk and Sam Altman\u2019s court battle over the future of OpenAI",
-      "url": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
-      "source": "The Verge",
-      "publishedAt": "2026-04-30T16:57:14Z",
-      "snippet": "Sam Altman and Elon Musk are facing off in a high-stakes trial that could alter the future of OpenAI and its most well-known product, ChatGPT. In 2024, Musk filed a lawsuit accusing OpenAI of abandoni"
     }
   ],
   "trending": [
@@ -209,14 +209,14 @@
       "downloads": 350841
     },
     {
-      "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
-      "displayName": "Qwen3.6 35B A3B Uncensored HauhauCS Aggressive",
-      "downloads": 829136
-    },
-    {
       "id": "Jackrong/Qwen3.5-9B-DeepSeek-V4-Flash-GGUF",
       "displayName": "Qwen3.5 9B DeepSeek V4 Flash",
       "downloads": 55511
+    },
+    {
+      "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
+      "displayName": "Qwen3.6 35B A3B Uncensored HauhauCS Aggressive",
+      "downloads": 829136
     },
     {
       "id": "DavidAU/Qwen3.6-27B-Heretic-Uncensored-FINETUNE-NEO-CODE-Di-IMatrix-MAX-GGUF",
