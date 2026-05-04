@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-04T02:32:08Z",
+  "updated": "2026-05-04T06:36:03Z",
   "news": [
     {
       "title": "\u2018This is fine\u2019 creator says AI startup stole his art",
@@ -184,24 +184,24 @@
       "downloads": 332
     },
     {
-      "id": "unsloth/Qwen3.6-27B-GGUF",
-      "displayName": "Qwen3.6 27B",
-      "downloads": 1045084
-    },
-    {
       "id": "SeeSee21/Z-Anime",
       "displayName": "Z Anime",
       "downloads": 1647
     },
     {
-      "id": "unsloth/Qwen3.6-35B-A3B-GGUF",
-      "displayName": "Qwen3.6 35B A3B",
-      "downloads": 2080953
+      "id": "unsloth/Qwen3.6-27B-GGUF",
+      "displayName": "Qwen3.6 27B",
+      "downloads": 1045084
     },
     {
       "id": "unsloth/NVIDIA-Nemotron-3-Nano-Omni-30B-A3B-Reasoning-GGUF",
       "displayName": "NVIDIA Nemotron 3 Nano Omni 30B A3B Reasoning",
       "downloads": 41418
+    },
+    {
+      "id": "unsloth/Qwen3.6-35B-A3B-GGUF",
+      "displayName": "Qwen3.6 35B A3B",
+      "downloads": 2080953
     },
     {
       "id": "HauhauCS/Qwen3.6-27B-Uncensored-HauhauCS-Aggressive",
@@ -224,9 +224,9 @@
       "downloads": 51748
     },
     {
-      "id": "kai-os/Carnice-V2-27b-GGUF",
-      "displayName": "Carnice V2 27b",
-      "downloads": 48570
+      "id": "HauhauCS/Qwen3.5-9B-Uncensored-HauhauCS-Aggressive",
+      "displayName": "Qwen3.5 9B Uncensored HauhauCS Aggressive",
+      "downloads": 1145604
     }
   ]
 }
