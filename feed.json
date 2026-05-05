@@ -1,6 +1,13 @@
 {
-  "updated": "2026-05-04T22:54:26Z",
+  "updated": "2026-05-05T02:26:45Z",
   "news": [
+    {
+      "title": "OpenAI\u2019s president does \u2018all the things,\u2019 except\u00a0answer a question",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/923684/musk-brockman-altman-openai-trial",
+      "source": "The Verge",
+      "publishedAt": "2026-05-04T23:49:33Z",
+      "snippet": "The strongest witness for Elon Musk's case against OpenAI so far has been Greg Brockman's journal. Brockman himself is running as a close second. Brockman was called to the stand in a rather unusual w"
+    },
     {
       "title": "OpenAI\u2019s cozy partner Cerebras is on track for a blockbuster IPO",
       "url": "https://techcrunch.com/2026/05/04/openais-cozy-partner-cerebras-is-on-track-for-a-blockbuster-ipo/",
@@ -168,13 +175,6 @@
       "source": "The Verge",
       "publishedAt": "2026-05-01T11:18:54Z",
       "snippet": "Microsoft is launching a new AI agent inside Word that's specifically designed for legal teams. Legal Agent handles document edits, negotiation history, and complex documents to help legal teams handl"
-    },
-    {
-      "title": "The craziest part of Musk v. Altman happened while the jury was out of the room",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/921713/musk-v-altman-jared-birchall-screw-up-xai",
-      "source": "The Verge",
-      "publishedAt": "2026-04-30T22:59:51Z",
-      "snippet": "Okay, I am not a lawyer so I only understood about half of what just happened. But I am fairly sure, given the context, that Elon Musk's lawyers may have just fucked up big. Jared \"James Brickhouse\" B"
     }
   ],
   "trending": [
@@ -199,14 +199,14 @@
       "downloads": 44790
     },
     {
-      "id": "unsloth/Qwen3.6-35B-A3B-GGUF",
-      "displayName": "Qwen3.6 35B A3B",
-      "downloads": 2174698
-    },
-    {
       "id": "HauhauCS/Qwen3.6-27B-Uncensored-HauhauCS-Aggressive",
       "displayName": "Qwen3.6 27B Uncensored HauhauCS Aggressive",
       "downloads": 350841
+    },
+    {
+      "id": "unsloth/Qwen3.6-35B-A3B-GGUF",
+      "displayName": "Qwen3.6 35B A3B",
+      "downloads": 2174698
     },
     {
       "id": "Jackrong/Qwen3.5-9B-DeepSeek-V4-Flash-GGUF",
