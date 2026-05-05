@@ -1,6 +1,13 @@
 {
-  "updated": "2026-05-05T02:26:45Z",
+  "updated": "2026-05-05T06:12:29Z",
   "news": [
+    {
+      "title": "As workers worry about AI, Nvidia\u2019s Jensen Huang says AI is \u2018creating an enormous number of jobs\u2019",
+      "url": "https://techcrunch.com/2026/05/04/as-workers-worry-about-ai-nvidias-jensen-huang-says-ai-is-creating-an-enormous-number-of-jobs/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-05-05T03:31:54Z",
+      "snippet": "The Nvidia CEO seems to feel that claims of AI's job-killing potential have been greatly exaggerated."
+    },
     {
       "title": "OpenAI\u2019s president does \u2018all the things,\u2019 except\u00a0answer a question",
       "url": "https://www.theverge.com/ai-artificial-intelligence/923684/musk-brockman-altman-openai-trial",
@@ -142,13 +149,6 @@
       "snippet": "The Musk v. Altman trial is underway, and that means exhibits, or the evidence to be presented in court, are being revealed piece by piece. So far, email exchanges, photos, and corporate documents are"
     },
     {
-      "title": "Did you know you\u00a0can\u2019t\u00a0steal\u00a0a charity?\u00a0Don\u2019t\u00a0worry. Elon Musk will remind you.",
-      "url": "https://techcrunch.com/podcast/did-you-know-you-cant-steal-a-charity-dont-worry-elon-musk-will-remind-you/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-05-01T17:44:29Z",
-      "snippet": "Elon Musk spent the better part of three days\u00a0on the witness stand\u00a0this week\u00a0in his lawsuit against OpenAI, and\u00a0it&#8217;s\u00a0already getting messy. Emails, texts, and\u00a0his own tweets\u00a0are surfacing in cou"
-    },
-    {
       "title": "Pentagon strikes classified AI deals with OpenAI, Google, and Nvidia \u2014 but not Anthropic",
       "url": "https://www.theverge.com/ai-artificial-intelligence/922113/pentagon-ai-classified-openai-google-nvidia",
       "source": "The Verge",
@@ -199,9 +199,9 @@
       "downloads": 44790
     },
     {
-      "id": "HauhauCS/Qwen3.6-27B-Uncensored-HauhauCS-Aggressive",
-      "displayName": "Qwen3.6 27B Uncensored HauhauCS Aggressive",
-      "downloads": 350841
+      "id": "Jackrong/Qwen3.5-9B-DeepSeek-V4-Flash-GGUF",
+      "displayName": "Qwen3.5 9B DeepSeek V4 Flash",
+      "downloads": 55511
     },
     {
       "id": "unsloth/Qwen3.6-35B-A3B-GGUF",
@@ -209,9 +209,9 @@
       "downloads": 2174698
     },
     {
-      "id": "Jackrong/Qwen3.5-9B-DeepSeek-V4-Flash-GGUF",
-      "displayName": "Qwen3.5 9B DeepSeek V4 Flash",
-      "downloads": 55511
+      "id": "HauhauCS/Qwen3.6-27B-Uncensored-HauhauCS-Aggressive",
+      "displayName": "Qwen3.6 27B Uncensored HauhauCS Aggressive",
+      "downloads": 350841
     },
     {
       "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
