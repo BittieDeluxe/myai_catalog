@@ -1,6 +1,27 @@
 {
-  "updated": "2026-05-05T15:50:45Z",
+  "updated": "2026-05-05T17:20:33Z",
   "news": [
+    {
+      "title": "OpenAI claims ChatGPT\u2019s new default model hallucinates way less",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/924225/openai-chatgpt-default-model-gpt-5-5-instant",
+      "source": "The Verge",
+      "publishedAt": "2026-05-05T17:00:00Z",
+      "snippet": "OpenAI's newest default model for ChatGPT might not make stuff up as much. Hallucinations have been an ongoing problem for AI models, but OpenAI says its new GPT-5.5 Instant model has \"significant imp"
+    },
+    {
+      "title": "OpenAI releases GPT-5.5 Instant, a new default model for ChatGPT",
+      "url": "https://techcrunch.com/2026/05/05/openai-releases-gpt-5-5-instant-a-new-default-model-for-chatgpt/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-05-05T17:00:00Z",
+      "snippet": "The new GPT-5.5 Instant model will replace GPT-3.5 Instant as the default model for ChatGPT"
+    },
+    {
+      "title": "Meta sued by major book publishers over copyright infringement",
+      "url": "https://www.theverge.com/tech/924230/meta-publishers-lawsuit-ai-copyright",
+      "source": "The Verge",
+      "publishedAt": "2026-05-05T16:52:38Z",
+      "snippet": "Meta is facing a class action lawsuit filed by five major book publishers and one author over claims the company \"engaged in one of the most massive infringements of copyrighted materials in history\" "
+    },
     {
       "title": "PayPal says it\u2019s \u2018becoming a technology company again.\u2019 That means AI.",
       "url": "https://techcrunch.com/2026/05/05/paypal-says-its-becoming-a-technology-company-again-that-means-ai/",
@@ -55,7 +76,7 @@
       "url": "https://techcrunch.com/2026/05/05/copilotkit-raises-27m-to-help-devs-deploy-app-native-ai-agents/",
       "source": "TechCrunch",
       "publishedAt": "2026-05-05T14:07:47Z",
-      "snippet": "The Seattle-based startup's Series A round was led by Glilot Capital, NFX and SignalFire, TechCrunch has exclusively learned."
+      "snippet": "The Seattle-based startup's Series A round was led by Glilot Capital, NFX, and SignalFire, TechCrunch has exclusively learned."
     },
     {
       "title": "4 days left: Get 50% off a second TechCrunch Disrupt\u00a02026\u00a0pass to make more deals faster",
@@ -135,13 +156,6 @@
       "snippet": "Stuart Russell is a long-time AI researcher who thinks governments need to restrain frontier labs."
     },
     {
-      "title": "The creator of Roomba is back with a furry robot companion",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/922947/roomba-creator-new-robot-familiar-machines-magic-ai-launch",
-      "source": "The Verge",
-      "publishedAt": "2026-05-04T16:51:38Z",
-      "snippet": "Colin Angle, the maker of the Roomba and the man who helped put 50 million household robots into people's homes, is back with a new robot. But this one is designed as a companion, not a cleaner. The f"
-    },
-    {
       "title": "Sierra raises $950M as the race to own enterprise AI gets serious",
       "url": "https://techcrunch.com/2026/05/04/sierra-raises-950m-as-the-race-to-own-enterprise-ai-gets-serious/",
       "source": "TechCrunch",
@@ -161,20 +175,6 @@
       "source": "TechCrunch",
       "publishedAt": "2026-05-04T15:59:24Z",
       "snippet": "Both Anthropic and OpenAI have partnered with asset managers to more aggressively market their enterprise AI products."
-    },
-    {
-      "title": "5 days only: Bring a\u00a0partner or\u00a0colleague and get 50% off a second TechCrunch Disrupt 2026 pass",
-      "url": "https://techcrunch.com/2026/05/04/5-days-only-bring-a-partner-or-colleague-and-get-50-off-a-second-techcrunch-disrupt-2026-pass/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-05-04T14:00:00Z",
-      "snippet": "The BOGO offer is live.\u00a0For a limited time, buy one pass to\u00a0TechCrunch Disrupt 2026\u00a0and\u00a0get 50% off a second of the same ticket type. Offer ends this Friday, May 8. Save here."
-    },
-    {
-      "title": "How the internet\u2019s favorite squirrel dad made the hottest camera app of 2026",
-      "url": "https://www.theverge.com/tech/921690/dualshot-recorder-iphone-camera-app-derrick-downey-jr",
-      "source": "The Verge",
-      "publishedAt": "2026-05-03T13:00:00Z",
-      "snippet": "It's not hyperbole to call DualShot Recorder an overnight sensation. It took only 12 hours from the time it was released to hit number one on the App Store's list of top paid apps. It was a surprise s"
     }
   ],
   "trending": [
@@ -189,14 +189,14 @@
       "downloads": 3262
     },
     {
-      "id": "unsloth/NVIDIA-Nemotron-3-Nano-Omni-30B-A3B-Reasoning-GGUF",
-      "displayName": "NVIDIA Nemotron 3 Nano Omni 30B A3B Reasoning",
-      "downloads": 48437
-    },
-    {
       "id": "unsloth/Qwen3.6-27B-GGUF",
       "displayName": "Qwen3.6 27B",
       "downloads": 1147196
+    },
+    {
+      "id": "unsloth/NVIDIA-Nemotron-3-Nano-Omni-30B-A3B-Reasoning-GGUF",
+      "displayName": "NVIDIA Nemotron 3 Nano Omni 30B A3B Reasoning",
+      "downloads": 48437
     },
     {
       "id": "Jackrong/Qwen3.5-9B-DeepSeek-V4-Flash-GGUF",
@@ -214,14 +214,14 @@
       "downloads": 88913
     },
     {
-      "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
-      "displayName": "Qwen3.6 35B A3B Uncensored HauhauCS Aggressive",
-      "downloads": 858528
-    },
-    {
       "id": "HauhauCS/Qwen3.6-27B-Uncensored-HauhauCS-Aggressive",
       "displayName": "Qwen3.6 27B Uncensored HauhauCS Aggressive",
       "downloads": 375175
+    },
+    {
+      "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
+      "displayName": "Qwen3.6 35B A3B Uncensored HauhauCS Aggressive",
+      "downloads": 858528
     },
     {
       "id": "unsloth/Mistral-Medium-3.5-128B-GGUF",
