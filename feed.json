@@ -1,6 +1,20 @@
 {
-  "updated": "2026-05-05T20:59:01Z",
+  "updated": "2026-05-05T22:52:12Z",
   "news": [
+    {
+      "title": "Google Home&#8217;s Gemini AI can handle more complicated requests",
+      "url": "https://www.theverge.com/tech/924755/google-home-gemini-3-1-upgrade",
+      "source": "The Verge",
+      "publishedAt": "2026-05-05T21:46:04Z",
+      "snippet": "Google Home users can now ask Gemini to complete more complex, multi-step tasks and combine multiple tasks in a single command. Google has updated Gemini for Home to Gemini 3.1, which it says will imp"
+    },
+    {
+      "title": "Apple agrees to pay iPhone owners $250 million for not delivering AI Siri",
+      "url": "https://www.theverge.com/tech/924706/apple-iphone-siri-intelligence-class-action-lawsuit-settlement",
+      "source": "The Verge",
+      "publishedAt": "2026-05-05T21:18:23Z",
+      "snippet": "Apple has agreed to pay $250 million to settle a class action lawsuit that accused it of misleading customers about the availability of its Apple Intelligence features. The proposed settlement would a"
+    },
     {
       "title": "Apple plans to make iOS 27 a Choose Your Own Adventure of AI models",
       "url": "https://techcrunch.com/2026/05/05/apple-plans-to-make-ios-27-a-choose-your-own-adventure-of-ai-models/",
@@ -135,20 +149,6 @@
       "snippet": "Krutrim's pivot to cloud after layoffs and limited product updates reflects the economic challenges of building AI models in India."
     },
     {
-      "title": "Researchers gaslit Claude into giving instructions to build explosives",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/923961/security-researchers-mindgard-gaslit-claude-forbidden-information",
-      "source": "The Verge",
-      "publishedAt": "2026-05-05T13:13:08Z",
-      "snippet": "Anthropic has spent years building itself up as the safe AI company. But new security research shared with The Verge suggests Claude's carefully crafted helpful personality may itself be a vulnerabili"
-    },
-    {
-      "title": "Google\u2019s AI architect lived rent-free in Elon Musk\u2019s head",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/923518/musk-altman-trial-openai-demis-hassabis-google-deepmind",
-      "source": "The Verge",
-      "publishedAt": "2026-05-05T13:11:58Z",
-      "snippet": "About a week into the Musk v. Altman trial, we've heard from some of the most powerful people in tech - including OpenAI president Greg Brockman, Elon Musk's fixer Jared Birchall, and Musk himself. Bu"
-    },
-    {
       "title": "As workers worry about AI, Nvidia\u2019s Jensen Huang says AI is \u2018creating an enormous number of jobs\u2019",
       "url": "https://techcrunch.com/2026/05/04/as-workers-worry-about-ai-nvidias-jensen-huang-says-ai-is-creating-an-enormous-number-of-jobs/",
       "source": "TechCrunch",
@@ -204,14 +204,14 @@
       "downloads": 2243715
     },
     {
-      "id": "unsloth/NVIDIA-Nemotron-3-Nano-Omni-30B-A3B-Reasoning-GGUF",
-      "displayName": "NVIDIA Nemotron 3 Nano Omni 30B A3B Reasoning",
-      "downloads": 48437
-    },
-    {
       "id": "DavidAU/Qwen3.6-27B-Heretic-Uncensored-FINETUNE-NEO-CODE-Di-IMatrix-MAX-GGUF",
       "displayName": "Qwen3.6 27B Heretic Uncensored FINETUNE NEO CODE Di IMatrix MAX",
       "downloads": 88913
+    },
+    {
+      "id": "unsloth/NVIDIA-Nemotron-3-Nano-Omni-30B-A3B-Reasoning-GGUF",
+      "displayName": "NVIDIA Nemotron 3 Nano Omni 30B A3B Reasoning",
+      "downloads": 48437
     },
     {
       "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
