@@ -1,6 +1,34 @@
 {
-  "updated": "2026-05-05T19:14:05Z",
+  "updated": "2026-05-05T20:59:01Z",
   "news": [
+    {
+      "title": "Apple plans to make iOS 27 a Choose Your Own Adventure of AI models",
+      "url": "https://techcrunch.com/2026/05/05/apple-plans-to-make-ios-27-a-choose-your-own-adventure-of-ai-models/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-05-05T20:56:41Z",
+      "snippet": "With Apple's latest operating system updates, users will reportedly have their pick of which third-party AI models they want to use for a host of tasks."
+    },
+    {
+      "title": "ASML CEO Christophe Fouquet on his company\u2019s monopoly: no one is coming for us",
+      "url": "https://techcrunch.com/2026/05/05/asml-ceo-christophe-fouquet-no-one-is-coming-for-us/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-05-05T20:06:40Z",
+      "snippet": "Christophe Fouquet, who became ASML's CEO in 2024 after more than a decade at the company, sat down with this editor on the rooftop deck of his Beverly Hills hotel Tuesday morning ahead of his appeara"
+    },
+    {
+      "title": "Microsoft gives up on Xbox Copilot AI",
+      "url": "https://www.theverge.com/games/924551/microsoft-xbox-ceo-copilot-ai-asha-sharma",
+      "source": "The Verge",
+      "publishedAt": "2026-05-05T19:54:37Z",
+      "snippet": "Xbox is \"winding down Copilot on mobile\" and \"will stop development of Copilot on console,\" new Xbox CEO Asha Sharma announced on Tuesday. The move follows Sharma's reorganization of the Xbox platform"
+    },
+    {
+      "title": "Apple could let you pick a favorite AI model in iOS 27",
+      "url": "https://www.theverge.com/tech/924515/apple-intelligence-third-party-chatbot-extensions-ios-27",
+      "source": "The Verge",
+      "publishedAt": "2026-05-05T19:45:30Z",
+      "snippet": "The next update to Apple's operating systems could allow users to choose their preferred AI model for running Apple Intelligence. According to Bloomberg's Mark Gurman, Apple is planning to allow third"
+    },
     {
       "title": "Pennsylvania sues Character.AI after a chatbot allegedly posed as a doctor",
       "url": "https://techcrunch.com/2026/05/05/pennsylvania-sues-character-ai-after-a-chatbot-allegedly-posed-as-a-doctor/",
@@ -121,25 +149,11 @@
       "snippet": "About a week into the Musk v. Altman trial, we've heard from some of the most powerful people in tech - including OpenAI president Greg Brockman, Elon Musk's fixer Jared Birchall, and Musk himself. Bu"
     },
     {
-      "title": "Google DeepMind workers are unionizing over AI military contracts",
-      "url": "https://www.theverge.com/tech/923918/google-deepmind-union-bid-ai-military-israel",
-      "source": "The Verge",
-      "publishedAt": "2026-05-05T10:08:33Z",
-      "snippet": "Staffers at Google DeepMind's headquarters have voted to unionize in an effort to prevent the AI firm's technology from being used by Israel and the US military. In a letter to Google management on Tu"
-    },
-    {
       "title": "As workers worry about AI, Nvidia\u2019s Jensen Huang says AI is \u2018creating an enormous number of jobs\u2019",
       "url": "https://techcrunch.com/2026/05/04/as-workers-worry-about-ai-nvidias-jensen-huang-says-ai-is-creating-an-enormous-number-of-jobs/",
       "source": "TechCrunch",
       "publishedAt": "2026-05-05T03:31:54Z",
       "snippet": "The Nvidia CEO seems to feel that claims of AI's job-killing potential have been greatly exaggerated."
-    },
-    {
-      "title": "OpenAI\u2019s president does \u2018all the things,\u2019 except\u00a0answer a question",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/923684/musk-brockman-altman-openai-trial",
-      "source": "The Verge",
-      "publishedAt": "2026-05-04T23:49:33Z",
-      "snippet": "The strongest witness for Elon Musk's case against OpenAI so far has been Greg Brockman's journal. Brockman himself is running as a close second. Brockman was called to the stand in a rather unusual w"
     },
     {
       "title": "OpenAI\u2019s cozy partner Cerebras is on track for a blockbuster IPO",
@@ -161,20 +175,6 @@
       "source": "TechCrunch",
       "publishedAt": "2026-05-04T16:57:47Z",
       "snippet": "Stuart Russell is a long-time AI researcher who thinks governments need to restrain frontier labs."
-    },
-    {
-      "title": "Sierra raises $950M as the race to own enterprise AI gets serious",
-      "url": "https://techcrunch.com/2026/05/04/sierra-raises-950m-as-the-race-to-own-enterprise-ai-gets-serious/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-05-04T16:45:55Z",
-      "snippet": "The raise gives Sierra more than $1 billion to work with \u2014 capital the company says it will use to become the \"global standard\" for AI-powered customer experiences."
-    },
-    {
-      "title": "Elon Musk sent ominous texts to Greg Brockman, Sam Altman after asking for a settlement, OpenAI claims",
-      "url": "https://techcrunch.com/2026/05/04/elon-musk-sent-ominous-texts-to-greg-brockman-sam-altman-after-asking-for-a-settlement-openai-claims/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-05-04T16:36:03Z",
-      "snippet": "Musk texted OpenAI's president and co-founder saying that he and CEO Sam Altman \"will be the most hated men in America\" if OpenAI doesn't settle the suit."
     }
   ],
   "trending": [
@@ -199,14 +199,14 @@
       "downloads": 68132
     },
     {
-      "id": "unsloth/NVIDIA-Nemotron-3-Nano-Omni-30B-A3B-Reasoning-GGUF",
-      "displayName": "NVIDIA Nemotron 3 Nano Omni 30B A3B Reasoning",
-      "downloads": 48437
-    },
-    {
       "id": "unsloth/Qwen3.6-35B-A3B-GGUF",
       "displayName": "Qwen3.6 35B A3B",
       "downloads": 2243715
+    },
+    {
+      "id": "unsloth/NVIDIA-Nemotron-3-Nano-Omni-30B-A3B-Reasoning-GGUF",
+      "displayName": "NVIDIA Nemotron 3 Nano Omni 30B A3B Reasoning",
+      "downloads": 48437
     },
     {
       "id": "DavidAU/Qwen3.6-27B-Heretic-Uncensored-FINETUNE-NEO-CODE-Di-IMatrix-MAX-GGUF",
@@ -214,14 +214,14 @@
       "downloads": 88913
     },
     {
-      "id": "HauhauCS/Qwen3.6-27B-Uncensored-HauhauCS-Aggressive",
-      "displayName": "Qwen3.6 27B Uncensored HauhauCS Aggressive",
-      "downloads": 375175
-    },
-    {
       "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
       "displayName": "Qwen3.6 35B A3B Uncensored HauhauCS Aggressive",
       "downloads": 858528
+    },
+    {
+      "id": "HauhauCS/Qwen3.6-27B-Uncensored-HauhauCS-Aggressive",
+      "displayName": "Qwen3.6 27B Uncensored HauhauCS Aggressive",
+      "downloads": 375175
     },
     {
       "id": "unsloth/Mistral-Medium-3.5-128B-GGUF",
