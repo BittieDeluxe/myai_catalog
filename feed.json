@@ -1,6 +1,76 @@
 {
-  "updated": "2026-05-05T13:29:32Z",
+  "updated": "2026-05-05T15:50:45Z",
   "news": [
+    {
+      "title": "PayPal says it\u2019s \u2018becoming a technology company again.\u2019 That means AI.",
+      "url": "https://techcrunch.com/2026/05/05/paypal-says-its-becoming-a-technology-company-again-that-means-ai/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-05-05T15:49:55Z",
+      "snippet": "PayPal is pitching an AI-led turnaround, tying automation and restructuring to $1.5B in savings as it cuts jobs and works to modernize its tech stack."
+    },
+    {
+      "title": "Live updates from Elon Musk and Sam Altman\u2019s court battle over the future of OpenAI",
+      "url": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
+      "source": "The Verge",
+      "publishedAt": "2026-05-05T15:35:00Z",
+      "snippet": "Sam Altman and Elon Musk are facing off in a high-stakes trial that could alter the future of OpenAI and its most well-known product, ChatGPT. In 2024, Musk filed a lawsuit accusing OpenAI of abandoni"
+    },
+    {
+      "title": "Etsy launches its app within ChatGPT as it continues its AI push",
+      "url": "https://techcrunch.com/2026/05/05/etsy-launches-its-app-within-chatgpt-as-it-continues-its-ai-push/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-05-05T15:31:37Z",
+      "snippet": "Etsy's new native app within ChatGPT aims to be a conversational  shopping experience for users."
+    },
+    {
+      "title": "OpenAI is reportedly launching a phone for ChatGPT",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/924063/openai-phone-rumors-2027-ming-chi-kuo",
+      "source": "The Verge",
+      "publishedAt": "2026-05-05T14:54:00Z",
+      "snippet": "OpenAI's first hardware product might be a phone instead of a mysterious Jony Ive gadget. As reported by MacRumors, supply chain analyst Ming-Chi Kuo shared details about the rumored phone, claiming O"
+    },
+    {
+      "title": "Meta will use AI to analyze height and bone structure to identify if users are underage",
+      "url": "https://techcrunch.com/2026/05/05/meta-will-use-ai-to-analyze-height-and-bone-structure-to-identify-if-users-are-underage/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-05-05T14:27:00Z",
+      "snippet": "The visual analysis system is now operating in select countries, but Meta says it's working toward a broader rollout."
+    },
+    {
+      "title": "Google, Microsoft, and xAI will allow the US government to review their new AI models",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/924017/google-microsoft-xai-government-review",
+      "source": "The Verge",
+      "publishedAt": "2026-05-05T14:26:59Z",
+      "snippet": "Google DeepMind, Microsoft, and Elon Musk's xAI have agreed to allow the US government to review new AI models before they're released to the public. In an announcement on Tuesday, the Commerce Depart"
+    },
+    {
+      "title": "ElevenLabs lists BlackRock, Jamie Foxx and Eva Longoria as new investors",
+      "url": "https://techcrunch.com/2026/05/05/elevenlabs-lists-blackrock-jamie-foxx-and-eva-longoria-as-new-investors/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-05-05T14:20:50Z",
+      "snippet": "4. ElevenLabs reveals new investors, hits $500M ARR, and expands enterprise footprint as voice AI becomes a critical interface."
+    },
+    {
+      "title": "CopilotKit raises $27M to help devs deploy app-native AI agents",
+      "url": "https://techcrunch.com/2026/05/05/copilotkit-raises-27m-to-help-devs-deploy-app-native-ai-agents/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-05-05T14:07:47Z",
+      "snippet": "The Seattle-based startup's Series A round was led by Glilot Capital, NFX and SignalFire, TechCrunch has exclusively learned."
+    },
+    {
+      "title": "4 days left: Get 50% off a second TechCrunch Disrupt\u00a02026\u00a0pass to make more deals faster",
+      "url": "https://techcrunch.com/2026/05/05/4-days-left-get-50-off-a-second-techcrunch-disrupt-2026-pass-to-make-more-deals-faster/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-05-05T14:00:00Z",
+      "snippet": "For the next four days only, you can buy one pass to TechCrunch Disrupt 2026 and get 50% off a second of the same ticket type.\u00a0That window closes\u00a0May 8 at 11:59 p.m. PT.\u00a0After that, prices go up, and\u00a0"
+    },
+    {
+      "title": "What an AI-designed car looks like",
+      "url": "https://www.theverge.com/podcast/923974/ai-car-design-codex-vergecast",
+      "source": "The Verge",
+      "publishedAt": "2026-05-05T13:42:18Z",
+      "snippet": "The cars rolling off production lines right now are filled with old ideas. From beginning to end, the creation of a new vehicle can take five years or longer - which is plenty of time for a lot of tas"
+    },
     {
       "title": "India\u2019s first GenAI unicorn shifts to cloud services as AI model ambitions face reality",
       "url": "https://techcrunch.com/2026/05/05/indias-first-genai-unicorn-shifts-to-cloud-services-as-ai-model-ambitions-face-reality/",
@@ -93,13 +163,6 @@
       "snippet": "Both Anthropic and OpenAI have partnered with asset managers to more aggressively market their enterprise AI products."
     },
     {
-      "title": "Live updates from Elon Musk and Sam Altman\u2019s court battle over the future of OpenAI",
-      "url": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
-      "source": "The Verge",
-      "publishedAt": "2026-05-04T15:43:49Z",
-      "snippet": "Sam Altman and Elon Musk are facing off in a high-stakes trial that could alter the future of OpenAI and its most well-known product, ChatGPT. In 2024, Musk filed a lawsuit accusing OpenAI of abandoni"
-    },
-    {
       "title": "5 days only: Bring a\u00a0partner or\u00a0colleague and get 50% off a second TechCrunch Disrupt 2026 pass",
       "url": "https://techcrunch.com/2026/05/04/5-days-only-bring-a-partner-or-colleague-and-get-50-off-a-second-techcrunch-disrupt-2026-pass/",
       "source": "TechCrunch",
@@ -107,74 +170,11 @@
       "snippet": "The BOGO offer is live.\u00a0For a limited time, buy one pass to\u00a0TechCrunch Disrupt 2026\u00a0and\u00a0get 50% off a second of the same ticket type. Offer ends this Friday, May 8. Save here."
     },
     {
-      "title": "DoorDash adds AI tools to speed up merchant onboarding, edit photos of dishes",
-      "url": "https://techcrunch.com/2026/05/04/doordash-adds-ai-tools-to-speed-up-merchant-onboarding-edit-photos-of-dishes/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-05-04T13:00:00Z",
-      "snippet": "DoorDash on Monday added new AI-powered tools that let merchants speed up onboarding, edit photos to make dishes look better, and create new websites from existing content."
-    },
-    {
-      "title": "\u2018This is fine\u2019 creator says AI startup stole his art",
-      "url": "https://techcrunch.com/2026/05/03/this-is-fine-creator-says-ai-startup-stole-his-art/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-05-03T20:16:51Z",
-      "snippet": "The ad comes from Artisan, the AI startup behind billboards urging businesses to \"stop hiring humans.\""
-    },
-    {
-      "title": "In Harvard study, AI offered more accurate emergency room diagnoses than two human doctors",
-      "url": "https://techcrunch.com/2026/05/03/in-harvard-study-ai-offered-more-accurate-diagnoses-than-emergency-room-doctors/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-05-03T18:00:09Z",
-      "snippet": "A new study examines how large language models perform in a variety of medical contexts, including real emergency room cases \u2014 where at least one model seemed to be more accurate than human doctors."
-    },
-    {
       "title": "How the internet\u2019s favorite squirrel dad made the hottest camera app of 2026",
       "url": "https://www.theverge.com/tech/921690/dualshot-recorder-iphone-camera-app-derrick-downey-jr",
       "source": "The Verge",
       "publishedAt": "2026-05-03T13:00:00Z",
       "snippet": "It's not hyperbole to call DualShot Recorder an overnight sensation. It took only 12 hours from the time it was released to hit number one on the App Store's list of top paid apps. It was a surprise s"
-    },
-    {
-      "title": "AI music is flooding streaming services \u2014 but who wants it?",
-      "url": "https://www.theverge.com/column/921599/ai-music-is-flooding-streaming-services-but-who-wants-it",
-      "source": "The Verge",
-      "publishedAt": "2026-05-03T12:00:00Z",
-      "snippet": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on how AI is changing music and the music industry, follow Terrence O'Brien. The Stepback arri"
-    },
-    {
-      "title": "AI-generated actors and scripts are now ineligible for Oscars",
-      "url": "https://techcrunch.com/2026/05/02/ai-generated-actors-and-scripts-are-now-ineligible-for-oscars/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-05-02T21:54:58Z",
-      "snippet": "The Academy of Motion Picture Arts and Sciences said that only performances \u201ccredited in the film\u2019s legal billing and demonstrably performed by humans with their consent\u201d will be eligible for Academy "
-    },
-    {
-      "title": "The best AI dictation apps, tested and ranked",
-      "url": "https://techcrunch.com/2026/05/02/the-best-ai-powered-dictation-apps-of-2025/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-05-02T16:00:00Z",
-      "snippet": "AI-powered dictation apps are useful for replying to emails, taking notes, and even coding through your voice"
-    },
-    {
-      "title": "Replit\u2019s Amjad Masad on the Cursor deal, fighting Apple, and why he\u2019d rather not sell",
-      "url": "https://techcrunch.com/2026/05/01/replits-amjad-masad-on-the-cursor-deal-fighting-apple-and-why-hed-rather-not-sell/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-05-01T23:06:50Z",
-      "snippet": "At TechCrunch's sold-out StrictlyVC event in San Francisco on Thursday night, we covered a lot of ground in a short time, beginning with the question everyone in the industry is asking right now: In a"
-    },
-    {
-      "title": "All the evidence revealed so far in Musk v. Altman",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/920775/evidence-exhibits-elon-musk-sam-altman-openai-trial",
-      "source": "The Verge",
-      "publishedAt": "2026-05-01T19:14:51Z",
-      "snippet": "The Musk v. Altman trial is underway, and that means exhibits, or the evidence to be presented in court, are being revealed piece by piece. So far, email exchanges, photos, and corporate documents are"
-    },
-    {
-      "title": "Pentagon strikes classified AI deals with OpenAI, Google, and Nvidia \u2014 but not Anthropic",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/922113/pentagon-ai-classified-openai-google-nvidia",
-      "source": "The Verge",
-      "publishedAt": "2026-05-01T14:09:56Z",
-      "snippet": "The Pentagon has struck deals with OpenAI, Google, Microsoft, Amazon, Nvidia, Elon Musk's xAI, and the startup Reflection, allowing the agency to use their AI tools in classified settings, according t"
     }
   ],
   "trending": [
@@ -214,14 +214,14 @@
       "downloads": 88913
     },
     {
-      "id": "HauhauCS/Qwen3.6-27B-Uncensored-HauhauCS-Aggressive",
-      "displayName": "Qwen3.6 27B Uncensored HauhauCS Aggressive",
-      "downloads": 375175
-    },
-    {
       "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
       "displayName": "Qwen3.6 35B A3B Uncensored HauhauCS Aggressive",
       "downloads": 858528
+    },
+    {
+      "id": "HauhauCS/Qwen3.6-27B-Uncensored-HauhauCS-Aggressive",
+      "displayName": "Qwen3.6 27B Uncensored HauhauCS Aggressive",
+      "downloads": 375175
     },
     {
       "id": "unsloth/Mistral-Medium-3.5-128B-GGUF",
