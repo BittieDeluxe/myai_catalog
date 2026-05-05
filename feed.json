@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-05T06:12:29Z",
+  "updated": "2026-05-05T09:58:46Z",
   "news": [
     {
       "title": "As workers worry about AI, Nvidia\u2019s Jensen Huang says AI is \u2018creating an enormous number of jobs\u2019",
@@ -181,52 +181,52 @@
     {
       "id": "SulphurAI/Sulphur-2-base",
       "displayName": "Sulphur 2 base",
-      "downloads": 20187
+      "downloads": 37897
     },
     {
       "id": "SeeSee21/Z-Anime",
       "displayName": "Z Anime",
-      "downloads": 2622
-    },
-    {
-      "id": "unsloth/Qwen3.6-27B-GGUF",
-      "displayName": "Qwen3.6 27B",
-      "downloads": 1092141
+      "downloads": 3262
     },
     {
       "id": "unsloth/NVIDIA-Nemotron-3-Nano-Omni-30B-A3B-Reasoning-GGUF",
       "displayName": "NVIDIA Nemotron 3 Nano Omni 30B A3B Reasoning",
-      "downloads": 44790
+      "downloads": 48437
+    },
+    {
+      "id": "unsloth/Qwen3.6-27B-GGUF",
+      "displayName": "Qwen3.6 27B",
+      "downloads": 1147196
     },
     {
       "id": "Jackrong/Qwen3.5-9B-DeepSeek-V4-Flash-GGUF",
       "displayName": "Qwen3.5 9B DeepSeek V4 Flash",
-      "downloads": 55511
+      "downloads": 68132
     },
     {
       "id": "unsloth/Qwen3.6-35B-A3B-GGUF",
       "displayName": "Qwen3.6 35B A3B",
-      "downloads": 2174698
+      "downloads": 2243715
     },
     {
       "id": "HauhauCS/Qwen3.6-27B-Uncensored-HauhauCS-Aggressive",
       "displayName": "Qwen3.6 27B Uncensored HauhauCS Aggressive",
-      "downloads": 350841
-    },
-    {
-      "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
-      "displayName": "Qwen3.6 35B A3B Uncensored HauhauCS Aggressive",
-      "downloads": 829136
+      "downloads": 375175
     },
     {
       "id": "DavidAU/Qwen3.6-27B-Heretic-Uncensored-FINETUNE-NEO-CODE-Di-IMatrix-MAX-GGUF",
       "displayName": "Qwen3.6 27B Heretic Uncensored FINETUNE NEO CODE Di IMatrix MAX",
-      "downloads": 59265
+      "downloads": 88913
+    },
+    {
+      "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
+      "displayName": "Qwen3.6 35B A3B Uncensored HauhauCS Aggressive",
+      "downloads": 858528
     },
     {
       "id": "unsloth/Mistral-Medium-3.5-128B-GGUF",
       "displayName": "Mistral Medium 3.5 128B",
-      "downloads": 30623
+      "downloads": 35595
     }
   ]
 }
