@@ -1,6 +1,20 @@
 {
-  "updated": "2026-05-05T17:20:33Z",
+  "updated": "2026-05-05T19:14:05Z",
   "news": [
+    {
+      "title": "Pennsylvania sues Character.AI after a chatbot allegedly posed as a doctor",
+      "url": "https://techcrunch.com/2026/05/05/pennsylvania-sues-character-ai-after-a-chatbot-allegedly-posed-as-a-doctor/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-05-05T17:46:10Z",
+      "snippet": "According to Pennsylvania's filing, a Character.AI chatbot presented itself as a licensed psychiatrist during a state investigation, and also fabricated a serial number for its state medical license."
+    },
+    {
+      "title": "Live updates from Elon Musk and Sam Altman\u2019s court battle over the future of OpenAI",
+      "url": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
+      "source": "The Verge",
+      "publishedAt": "2026-05-05T17:28:52Z",
+      "snippet": "Sam Altman and Elon Musk are facing off in a high-stakes trial that could alter the future of OpenAI and its most well-known product, ChatGPT. In 2024, Musk filed a lawsuit accusing OpenAI of abandoni"
+    },
     {
       "title": "OpenAI claims ChatGPT\u2019s new default model hallucinates way less",
       "url": "https://www.theverge.com/ai-artificial-intelligence/924225/openai-chatgpt-default-model-gpt-5-5-instant",
@@ -13,28 +27,21 @@
       "url": "https://techcrunch.com/2026/05/05/openai-releases-gpt-5-5-instant-a-new-default-model-for-chatgpt/",
       "source": "TechCrunch",
       "publishedAt": "2026-05-05T17:00:00Z",
-      "snippet": "The new GPT-5.5 Instant model will replace GPT-3.5 Instant as the default model for ChatGPT"
+      "snippet": "The company said the model reduces hallucination in sensitive areas such as law, medicine, and finance, while maintaining the low latency of its predecessor."
     },
     {
-      "title": "Meta sued by major book publishers over copyright infringement",
+      "title": "Book publishers sue Meta over AI&#8217;s &#8216;word-for-word&#8217; copying",
       "url": "https://www.theverge.com/tech/924230/meta-publishers-lawsuit-ai-copyright",
       "source": "The Verge",
       "publishedAt": "2026-05-05T16:52:38Z",
       "snippet": "Meta is facing a class action lawsuit filed by five major book publishers and one author over claims the company \"engaged in one of the most massive infringements of copyrighted materials in history\" "
     },
     {
-      "title": "PayPal says it\u2019s \u2018becoming a technology company again.\u2019 That means AI.",
+      "title": "PayPal says it\u2019s \u2018becoming a technology company again\u2019 \u2014 that means AI",
       "url": "https://techcrunch.com/2026/05/05/paypal-says-its-becoming-a-technology-company-again-that-means-ai/",
       "source": "TechCrunch",
       "publishedAt": "2026-05-05T15:49:55Z",
-      "snippet": "PayPal is pitching an AI-led turnaround, tying automation and restructuring to $1.5B in savings as it cuts jobs and works to modernize its tech stack."
-    },
-    {
-      "title": "Live updates from Elon Musk and Sam Altman\u2019s court battle over the future of OpenAI",
-      "url": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
-      "source": "The Verge",
-      "publishedAt": "2026-05-05T15:35:00Z",
-      "snippet": "Sam Altman and Elon Musk are facing off in a high-stakes trial that could alter the future of OpenAI and its most well-known product, ChatGPT. In 2024, Musk filed a lawsuit accusing OpenAI of abandoni"
+      "snippet": "PayPal is pitching an AI-led turnaround, tying automation and restructuring to $1.5 billion in savings as it cuts jobs and works to modernize its tech stack."
     },
     {
       "title": "Etsy launches its app within ChatGPT as it continues its AI push",
@@ -65,11 +72,11 @@
       "snippet": "Google DeepMind, Microsoft, and Elon Musk's xAI have agreed to allow the US government to review new AI models before they're released to the public. In an announcement on Tuesday, the Commerce Depart"
     },
     {
-      "title": "ElevenLabs lists BlackRock, Jamie Foxx and Eva Longoria as new investors",
+      "title": "ElevenLabs lists BlackRock, Jamie Foxx, and Eva Longoria as new investors",
       "url": "https://techcrunch.com/2026/05/05/elevenlabs-lists-blackrock-jamie-foxx-and-eva-longoria-as-new-investors/",
       "source": "TechCrunch",
       "publishedAt": "2026-05-05T14:20:50Z",
-      "snippet": "4. ElevenLabs reveals new investors, hits $500M ARR, and expands enterprise footprint as voice AI becomes a critical interface."
+      "snippet": "ElevenLabs reveals new investors, hits $500M ARR, and expands enterprise footprint as voice AI becomes a critical interface."
     },
     {
       "title": "CopilotKit raises $27M to help devs deploy app-native AI agents",
@@ -168,13 +175,6 @@
       "source": "TechCrunch",
       "publishedAt": "2026-05-04T16:36:03Z",
       "snippet": "Musk texted OpenAI's president and co-founder saying that he and CEO Sam Altman \"will be the most hated men in America\" if OpenAI doesn't settle the suit."
-    },
-    {
-      "title": "Anthropic and OpenAI are both launching joint ventures for enterprise AI services",
-      "url": "https://techcrunch.com/2026/05/04/anthropic-and-openai-are-both-launching-joint-ventures-for-enterprise-ai-services/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-05-04T15:59:24Z",
-      "snippet": "Both Anthropic and OpenAI have partnered with asset managers to more aggressively market their enterprise AI products."
     }
   ],
   "trending": [
@@ -194,14 +194,14 @@
       "downloads": 1147196
     },
     {
-      "id": "unsloth/NVIDIA-Nemotron-3-Nano-Omni-30B-A3B-Reasoning-GGUF",
-      "displayName": "NVIDIA Nemotron 3 Nano Omni 30B A3B Reasoning",
-      "downloads": 48437
-    },
-    {
       "id": "Jackrong/Qwen3.5-9B-DeepSeek-V4-Flash-GGUF",
       "displayName": "Qwen3.5 9B DeepSeek V4 Flash",
       "downloads": 68132
+    },
+    {
+      "id": "unsloth/NVIDIA-Nemotron-3-Nano-Omni-30B-A3B-Reasoning-GGUF",
+      "displayName": "NVIDIA Nemotron 3 Nano Omni 30B A3B Reasoning",
+      "downloads": 48437
     },
     {
       "id": "unsloth/Qwen3.6-35B-A3B-GGUF",
