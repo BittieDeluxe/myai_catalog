@@ -1,6 +1,13 @@
 {
-  "updated": "2026-05-05T09:58:46Z",
+  "updated": "2026-05-05T11:19:24Z",
   "news": [
+    {
+      "title": "Google DeepMind workers are unionizing over AI military contracts",
+      "url": "https://www.theverge.com/tech/923918/google-deepmind-union-bid-ai-military-israel",
+      "source": "The Verge",
+      "publishedAt": "2026-05-05T10:08:33Z",
+      "snippet": "Staffers at Google DeepMind's headquarters have voted to unionize in an effort to prevent the AI firm's technology from being used by Israel and the US military. In a letter to Google management on Tu"
+    },
     {
       "title": "As workers worry about AI, Nvidia\u2019s Jensen Huang says AI is \u2018creating an enormous number of jobs\u2019",
       "url": "https://techcrunch.com/2026/05/04/as-workers-worry-about-ai-nvidias-jensen-huang-says-ai-is-creating-an-enormous-number-of-jobs/",
@@ -168,13 +175,6 @@
       "source": "The Verge",
       "publishedAt": "2026-05-01T13:25:25Z",
       "snippet": "In the beginning, platforms like Fiverr were places where people could hire freelancers to do specialized creative labor using skills that took years to develop. In the age of generative AI, though, m"
-    },
-    {
-      "title": "Microsoft wants lawyers to trust its new AI agent in Word documents",
-      "url": "https://www.theverge.com/news/921944/microsoft-word-legal-agent-ai",
-      "source": "The Verge",
-      "publishedAt": "2026-05-01T11:18:54Z",
-      "snippet": "Microsoft is launching a new AI agent inside Word that's specifically designed for legal teams. Legal Agent handles document edits, negotiation history, and complex documents to help legal teams handl"
     }
   ],
   "trending": [
@@ -209,14 +209,14 @@
       "downloads": 2243715
     },
     {
-      "id": "HauhauCS/Qwen3.6-27B-Uncensored-HauhauCS-Aggressive",
-      "displayName": "Qwen3.6 27B Uncensored HauhauCS Aggressive",
-      "downloads": 375175
-    },
-    {
       "id": "DavidAU/Qwen3.6-27B-Heretic-Uncensored-FINETUNE-NEO-CODE-Di-IMatrix-MAX-GGUF",
       "displayName": "Qwen3.6 27B Heretic Uncensored FINETUNE NEO CODE Di IMatrix MAX",
       "downloads": 88913
+    },
+    {
+      "id": "HauhauCS/Qwen3.6-27B-Uncensored-HauhauCS-Aggressive",
+      "displayName": "Qwen3.6 27B Uncensored HauhauCS Aggressive",
+      "downloads": 375175
     },
     {
       "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
