@@ -1,6 +1,20 @@
 {
-  "updated": "2026-05-05T22:52:12Z",
+  "updated": "2026-05-06T02:30:57Z",
   "news": [
+    {
+      "title": "SAP bets $1.16B on 18-month-old German AI lab and says yes to NemoClaw",
+      "url": "https://techcrunch.com/2026/05/05/sap-bets-1-16b-on-18-month-old-german-ai-lab-and-says-yes-to-nemoclaw/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-05-05T23:50:10Z",
+      "snippet": "SAP plans to buy German AI startup Prior Labs and invest heavily in it. It is also prohibiting customers' agents use to a select few like Nvidia's NemoClaw."
+    },
+    {
+      "title": "Altara secures $7M to bridge the data gap that\u2019s slowing down physical sciences",
+      "url": "https://techcrunch.com/2026/05/05/altara-secures-7m-to-bridge-the-data-gap-thats-slowing-down-physical-sciences/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-05-05T22:57:41Z",
+      "snippet": "Altara\u2019s AI aims to diagnose failures and help speed up R&#038;D by unifying  data siloed across spreadsheets and legacy systems."
+    },
     {
       "title": "Google Home&#8217;s Gemini AI can handle more complicated requests",
       "url": "https://www.theverge.com/tech/924755/google-home-gemini-3-1-upgrade",
@@ -161,20 +175,6 @@
       "source": "TechCrunch",
       "publishedAt": "2026-05-04T21:53:21Z",
       "snippet": "AI chip maker Cerebras is heading for a blockbuster IPO that could value it at $26.6 billion or more. Its relationship with OpenAI is deep and rich."
-    },
-    {
-      "title": "Image AI models now drive app growth, beating chatbot upgrades",
-      "url": "https://techcrunch.com/2026/05/04/image-ai-models-now-drive-app-growth-beating-chatbot-upgrades/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-05-04T19:12:49Z",
-      "snippet": "Appfigures finds visual model launches generate 6.5x more downloads \u2014 but most don\u2019t convert that spike into revenue."
-    },
-    {
-      "title": "Elon Musk\u2019s only AI expert witness at the OpenAI trial fears an AGI arms race",
-      "url": "https://techcrunch.com/2026/05/04/elon-musks-only-expert-witness-at-the-openai-trial-fears-an-agi-arms-race/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-05-04T16:57:47Z",
-      "snippet": "Stuart Russell is a long-time AI researcher who thinks governments need to restrain frontier labs."
     }
   ],
   "trending": [
@@ -209,9 +209,9 @@
       "downloads": 88913
     },
     {
-      "id": "unsloth/NVIDIA-Nemotron-3-Nano-Omni-30B-A3B-Reasoning-GGUF",
-      "displayName": "NVIDIA Nemotron 3 Nano Omni 30B A3B Reasoning",
-      "downloads": 48437
+      "id": "HauhauCS/Qwen3.6-27B-Uncensored-HauhauCS-Aggressive",
+      "displayName": "Qwen3.6 27B Uncensored HauhauCS Aggressive",
+      "downloads": 375175
     },
     {
       "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
@@ -219,9 +219,9 @@
       "downloads": 858528
     },
     {
-      "id": "HauhauCS/Qwen3.6-27B-Uncensored-HauhauCS-Aggressive",
-      "displayName": "Qwen3.6 27B Uncensored HauhauCS Aggressive",
-      "downloads": 375175
+      "id": "unsloth/NVIDIA-Nemotron-3-Nano-Omni-30B-A3B-Reasoning-GGUF",
+      "displayName": "NVIDIA Nemotron 3 Nano Omni 30B A3B Reasoning",
+      "downloads": 48437
     },
     {
       "id": "unsloth/Mistral-Medium-3.5-128B-GGUF",
