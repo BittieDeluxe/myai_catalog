@@ -1,6 +1,62 @@
 {
-  "updated": "2026-05-06T13:59:47Z",
+  "updated": "2026-05-06T16:04:46Z",
   "news": [
+    {
+      "title": "Google updates AI search to include \u2018expert advice\u2019 from Reddit and other web forums",
+      "url": "https://techcrunch.com/2026/05/06/google-updates-ai-search-to-include-expert-advice-from-reddit-and-other-web-forums/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-05-06T15:49:39Z",
+      "snippet": "While citing web forums and discussion boards can help users find answers to more niche queries, this design choice could also prove chaotic."
+    },
+    {
+      "title": "Khosla-backed robotics startup Genesis AI has gone full-stack, demo shows",
+      "url": "https://techcrunch.com/2026/05/06/khosla-backed-robotics-startup-genesis-ai-has-gone-full-stack-demo-shows/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-05-06T15:46:38Z",
+      "snippet": "Genesis AI, a startup that raised a $105 million seed round to build foundational AI for robotics, has unveiled its first model, GENE-26.5, but also a demo showcasing a set of robotic hands performing"
+    },
+    {
+      "title": "Live updates from Elon Musk and Sam Altman\u2019s court battle over the future of OpenAI",
+      "url": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
+      "source": "The Verge",
+      "publishedAt": "2026-05-06T15:37:32Z",
+      "snippet": "Sam Altman and Elon Musk are facing off in a high-stakes trial that could alter the future of OpenAI and its most well-known product, ChatGPT. In 2024, Musk filed a lawsuit accusing OpenAI of abandoni"
+    },
+    {
+      "title": "Tinder owner Match Group is slowing hiring to pay for its increased use of AI tools",
+      "url": "https://techcrunch.com/2026/05/06/tinder-owner-match-group-is-slowing-hiring-to-pay-for-its-increased-use-of-ai-tools/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-05-06T15:27:36Z",
+      "snippet": "Match Group said that it's slowing its hiring plans for the rest of the year because AI tools \"cost a lot of money.\""
+    },
+    {
+      "title": "Apple to pay $250M to settle lawsuit over Siri\u2019s delayed AI features",
+      "url": "https://techcrunch.com/2026/05/06/apple-to-pay-250m-to-settle-lawsuit-over-siris-delayed-ai-features/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-05-06T15:12:49Z",
+      "snippet": "Apple has agreed to pay $250 million to settle a class action lawsuit for overpromising the arrival of Siri's AI features."
+    },
+    {
+      "title": "Ethos raises $22.75M from a16z for its expert network with voice onboarding",
+      "url": "https://techcrunch.com/2026/05/06/ethos-raises-22-75m-from-a16z-for-its-expert-network-with-voice-onboarding/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-05-06T15:00:00Z",
+      "snippet": "Ethos says it is onboarding 35,000 experts per week."
+    },
+    {
+      "title": "At TechCrunch Disrupt 2026, all your M&A questions will be answered",
+      "url": "https://techcrunch.com/2026/05/06/at-techcrunch-disrupt-2026-all-your-ma-questions-will-be-answered/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-05-06T14:30:00Z",
+      "snippet": "Leaders from Coinbase, M13, and Mignano Law Group talk about how M&#038;A is an early-stage strategy at TechCrunch Disrupt 2026. Register to hear this live."
+    },
+    {
+      "title": "3 days left to\u00a0lock in 50% off a second ticket to TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/05/06/3-days-left-to-lock-in-50-off-a-second-ticket-to-techcrunch-disrupt-2026/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-05-06T14:00:00Z",
+      "snippet": "Three days left to\u00a0lock in 50% off a second ticket to Disrupt 2026. Buy one TechCrunch Disrupt 2026 ticket, and get a second ticket at 50% off. Gain more visibility in the tech industry. Offer ends Ma"
+    },
     {
       "title": "AI boom pushes Samsung to $1T",
       "url": "https://techcrunch.com/2026/05/06/ai-boom-pushes-samsung-to-1t/",
@@ -34,7 +90,7 @@
       "url": "https://techcrunch.com/2026/05/05/peter-sarlins-qutwo-reaches-380m-valuation-in-angel-round/",
       "source": "TechCrunch",
       "publishedAt": "2026-05-06T06:47:12Z",
-      "snippet": "QyTw0, the Finnish AI lab founded by former AMD Silo AI CEO Peter Sarlin, is now valued at \u20ac325 million (approximately $380 million) after raising a \u20ac25 million angel round ($29 million). It's a sign "
+      "snippet": "QuTwo, the Finnish AI lab founded by former AMD Silo AI CEO Peter Sarlin, is now valued at \u20ac325 million (approximately $380 million) after raising a \u20ac25 million angel round ($29 million). It's a sign "
     },
     {
       "title": "Marc Lore says that AI will soon enable anyone open a restaurant",
@@ -107,13 +163,6 @@
       "snippet": "According to Pennsylvania's filing, a Character.AI chatbot presented itself as a licensed psychiatrist during a state investigation, and also fabricated a serial number for its state medical license."
     },
     {
-      "title": "Live updates from Elon Musk and Sam Altman\u2019s court battle over the future of OpenAI",
-      "url": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
-      "source": "The Verge",
-      "publishedAt": "2026-05-05T17:28:52Z",
-      "snippet": "Sam Altman and Elon Musk are facing off in a high-stakes trial that could alter the future of OpenAI and its most well-known product, ChatGPT. In 2024, Musk filed a lawsuit accusing OpenAI of abandoni"
-    },
-    {
       "title": "OpenAI claims ChatGPT\u2019s new default model hallucinates way less",
       "url": "https://www.theverge.com/ai-artificial-intelligence/924225/openai-chatgpt-default-model-gpt-5-5-instant",
       "source": "The Verge",
@@ -121,60 +170,11 @@
       "snippet": "OpenAI's newest default model for ChatGPT might not make stuff up as much. Hallucinations have been an ongoing problem for AI models, but OpenAI says its new GPT-5.5 Instant model has \"significant imp"
     },
     {
-      "title": "OpenAI releases GPT-5.5 Instant, a new default model for ChatGPT",
-      "url": "https://techcrunch.com/2026/05/05/openai-releases-gpt-5-5-instant-a-new-default-model-for-chatgpt/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-05-05T17:00:00Z",
-      "snippet": "The company said the model reduces hallucination in sensitive areas such as law, medicine, and finance, while maintaining the low latency of its predecessor."
-    },
-    {
       "title": "Book publishers sue Meta over AI&#8217;s &#8216;word-for-word&#8217; copying",
       "url": "https://www.theverge.com/tech/924230/meta-publishers-lawsuit-ai-copyright",
       "source": "The Verge",
       "publishedAt": "2026-05-05T16:52:38Z",
       "snippet": "Meta is facing a class action lawsuit filed by five major book publishers and one author over claims the company \"engaged in one of the most massive infringements of copyrighted materials in history\" "
-    },
-    {
-      "title": "PayPal says it\u2019s \u2018becoming a technology company again\u2019 \u2014 that means AI",
-      "url": "https://techcrunch.com/2026/05/05/paypal-says-its-becoming-a-technology-company-again-that-means-ai/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-05-05T15:49:55Z",
-      "snippet": "PayPal is pitching an AI-led turnaround, tying automation and restructuring to $1.5 billion in savings as it cuts jobs and works to modernize its tech stack."
-    },
-    {
-      "title": "Etsy launches its app within ChatGPT as it continues its AI push",
-      "url": "https://techcrunch.com/2026/05/05/etsy-launches-its-app-within-chatgpt-as-it-continues-its-ai-push/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-05-05T15:31:37Z",
-      "snippet": "Etsy's new native app within ChatGPT aims to be a conversational  shopping experience for users."
-    },
-    {
-      "title": "Meta will use AI to analyze height and bone structure to identify if users are underage",
-      "url": "https://techcrunch.com/2026/05/05/meta-will-use-ai-to-analyze-height-and-bone-structure-to-identify-if-users-are-underage/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-05-05T14:27:00Z",
-      "snippet": "The visual analysis system is now operating in select countries, but Meta says it's working toward a broader rollout."
-    },
-    {
-      "title": "ElevenLabs lists BlackRock, Jamie Foxx, and Eva Longoria as new investors",
-      "url": "https://techcrunch.com/2026/05/05/elevenlabs-lists-blackrock-jamie-foxx-and-eva-longoria-as-new-investors/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-05-05T14:20:50Z",
-      "snippet": "ElevenLabs reveals new investors, hits $500M ARR, and expands enterprise footprint as voice AI becomes a critical interface."
-    },
-    {
-      "title": "CopilotKit raises $27M to help devs deploy app-native AI agents",
-      "url": "https://techcrunch.com/2026/05/05/copilotkit-raises-27m-to-help-devs-deploy-app-native-ai-agents/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-05-05T14:07:47Z",
-      "snippet": "The Seattle-based startup's Series A round was led by Glilot Capital, NFX, and SignalFire, TechCrunch has exclusively learned."
-    },
-    {
-      "title": "4 days left: Get 50% off a second TechCrunch Disrupt\u00a02026\u00a0pass to make more deals faster",
-      "url": "https://techcrunch.com/2026/05/05/4-days-left-get-50-off-a-second-techcrunch-disrupt-2026-pass-to-make-more-deals-faster/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-05-05T14:00:00Z",
-      "snippet": "For the next four days only, you can buy one pass to TechCrunch Disrupt 2026 and get 50% off a second of the same ticket type.\u00a0That window closes\u00a0May 8 at 11:59 p.m. PT.\u00a0After that, prices go up, and\u00a0"
     }
   ],
   "trending": [
@@ -219,9 +219,9 @@
       "downloads": 405714
     },
     {
-      "id": "unsloth/Mistral-Medium-3.5-128B-GGUF",
-      "displayName": "Mistral Medium 3.5 128B",
-      "downloads": 39578
+      "id": "RuneXX/LTX-2.3-Workflows",
+      "displayName": "LTX 2.3 Workflows",
+      "downloads": 0
     },
     {
       "id": "unsloth/NVIDIA-Nemotron-3-Nano-Omni-30B-A3B-Reasoning-GGUF",
