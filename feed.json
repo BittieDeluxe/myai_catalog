@@ -1,6 +1,34 @@
 {
-  "updated": "2026-05-06T10:13:09Z",
+  "updated": "2026-05-06T13:59:47Z",
   "news": [
+    {
+      "title": "AI boom pushes Samsung to $1T",
+      "url": "https://techcrunch.com/2026/05/06/ai-boom-pushes-samsung-to-1t/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-05-06T13:54:09Z",
+      "snippet": "Samsung crossed the $1 trillion valuation mark after shares surged on AI-driven chip demand, making it only the second Asian company after TSMC to hit the milestone."
+    },
+    {
+      "title": "Google&#8217;s AI search summaries will now quote Reddit",
+      "url": "https://www.theverge.com/tech/924993/google-ai-search-mode-overviews-update-reddit-links",
+      "source": "The Verge",
+      "publishedAt": "2026-05-06T13:00:30Z",
+      "snippet": "Google is updating its AI Search features to make it easier for users to find information from sources they know and trust. One of the more notable changes introduces \"a preview of perspectives\" from "
+    },
+    {
+      "title": "Microsoft\u2019s Office and LinkedIn chief now runs Teams in latest reshuffle",
+      "url": "https://www.theverge.com/tech/924931/microsoft-office-copilot-windows-reorg-shuffle",
+      "source": "The Verge",
+      "publishedAt": "2026-05-06T11:45:41Z",
+      "snippet": "Microsoft's LinkedIn chief, Ryan Roslansky, took on an expanded role at the company as head of Office last year, and he's now getting more responsibilities as part of the latest leadership reshuffle i"
+    },
+    {
+      "title": "Chrome\u2019s AI features may be hogging 4GB of your computer storage",
+      "url": "https://www.theverge.com/tech/924933/google-chrome-4gb-gemini-nano-ai-features",
+      "source": "The Verge",
+      "publishedAt": "2026-05-06T10:13:09Z",
+      "snippet": "Google Chrome may be taking up more of your storage than expected thanks to a large on-device AI model file that, in some cases, is being automatically downloaded to the browser's system folders. User"
+    },
     {
       "title": "Peter Sarlin\u2019s QuTwo reaches $380M valuation in angel round",
       "url": "https://techcrunch.com/2026/05/05/peter-sarlins-qutwo-reaches-380m-valuation-in-angel-round/",
@@ -121,25 +149,11 @@
       "snippet": "Etsy's new native app within ChatGPT aims to be a conversational  shopping experience for users."
     },
     {
-      "title": "OpenAI is reportedly launching a phone for ChatGPT",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/924063/openai-phone-rumors-2027-ming-chi-kuo",
-      "source": "The Verge",
-      "publishedAt": "2026-05-05T14:54:00Z",
-      "snippet": "OpenAI's first hardware product might be a phone instead of a mysterious Jony Ive gadget. As reported by MacRumors, supply chain analyst Ming-Chi Kuo shared details about the rumored phone, claiming O"
-    },
-    {
       "title": "Meta will use AI to analyze height and bone structure to identify if users are underage",
       "url": "https://techcrunch.com/2026/05/05/meta-will-use-ai-to-analyze-height-and-bone-structure-to-identify-if-users-are-underage/",
       "source": "TechCrunch",
       "publishedAt": "2026-05-05T14:27:00Z",
       "snippet": "The visual analysis system is now operating in select countries, but Meta says it's working toward a broader rollout."
-    },
-    {
-      "title": "Google, Microsoft, and xAI will allow the US government to review their new AI models",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/924017/google-microsoft-xai-government-review",
-      "source": "The Verge",
-      "publishedAt": "2026-05-05T14:26:59Z",
-      "snippet": "Google DeepMind, Microsoft, and Elon Musk's xAI have agreed to allow the US government to review new AI models before they're released to the public. In an announcement on Tuesday, the Commerce Depart"
     },
     {
       "title": "ElevenLabs lists BlackRock, Jamie Foxx, and Eva Longoria as new investors",
@@ -161,20 +175,6 @@
       "source": "TechCrunch",
       "publishedAt": "2026-05-05T14:00:00Z",
       "snippet": "For the next four days only, you can buy one pass to TechCrunch Disrupt 2026 and get 50% off a second of the same ticket type.\u00a0That window closes\u00a0May 8 at 11:59 p.m. PT.\u00a0After that, prices go up, and\u00a0"
-    },
-    {
-      "title": "What an AI-designed car looks like",
-      "url": "https://www.theverge.com/podcast/923974/ai-car-design-codex-vergecast",
-      "source": "The Verge",
-      "publishedAt": "2026-05-05T13:42:18Z",
-      "snippet": "The cars rolling off production lines right now are filled with old ideas. From beginning to end, the creation of a new vehicle can take five years or longer - which is plenty of time for a lot of tas"
-    },
-    {
-      "title": "India\u2019s first GenAI unicorn shifts to cloud services as AI model ambitions face reality",
-      "url": "https://techcrunch.com/2026/05/05/indias-first-genai-unicorn-shifts-to-cloud-services-as-ai-model-ambitions-face-reality/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-05-05T13:18:50Z",
-      "snippet": "Krutrim's pivot to cloud after layoffs and limited product updates reflects the economic challenges of building AI models in India."
     }
   ],
   "trending": [
@@ -219,14 +219,14 @@
       "downloads": 405714
     },
     {
-      "id": "unsloth/NVIDIA-Nemotron-3-Nano-Omni-30B-A3B-Reasoning-GGUF",
-      "displayName": "NVIDIA Nemotron 3 Nano Omni 30B A3B Reasoning",
-      "downloads": 52157
-    },
-    {
       "id": "unsloth/Mistral-Medium-3.5-128B-GGUF",
       "displayName": "Mistral Medium 3.5 128B",
       "downloads": 39578
+    },
+    {
+      "id": "unsloth/NVIDIA-Nemotron-3-Nano-Omni-30B-A3B-Reasoning-GGUF",
+      "displayName": "NVIDIA Nemotron 3 Nano Omni 30B A3B Reasoning",
+      "downloads": 52157
     }
   ]
 }
