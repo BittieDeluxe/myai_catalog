@@ -1,6 +1,20 @@
 {
-  "updated": "2026-05-06T06:26:53Z",
+  "updated": "2026-05-06T10:13:09Z",
   "news": [
+    {
+      "title": "Peter Sarlin\u2019s QuTwo reaches $380M valuation in angel round",
+      "url": "https://techcrunch.com/2026/05/05/peter-sarlins-qutwo-reaches-380m-valuation-in-angel-round/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-05-06T06:47:12Z",
+      "snippet": "QyTw0, the Finnish AI lab founded by former AMD Silo AI CEO Peter Sarlin, is now valued at \u20ac325 million (approximately $380 million) after raising a \u20ac25 million angel round ($29 million). It's a sign "
+    },
+    {
+      "title": "Marc Lore says that AI will soon enable anyone open a restaurant",
+      "url": "https://techcrunch.com/2026/05/05/marc-lore-says-that-ai-will-soon-enable-anyone-open-a-restaurant/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-05-06T06:34:32Z",
+      "snippet": "Wonder wants to turn its robotic kitchens into AI-powered \u201crestaurant factories,\u201d letting anyone spin up a virtual food brand with a prompt."
+    },
     {
       "title": "SAP bets $1.16B on 18-month-old German AI lab and says yes to NemoClaw",
       "url": "https://techcrunch.com/2026/05/05/sap-bets-1-16b-on-18-month-old-german-ai-lab-and-says-yes-to-nemoclaw/",
@@ -161,72 +175,58 @@
       "source": "TechCrunch",
       "publishedAt": "2026-05-05T13:18:50Z",
       "snippet": "Krutrim's pivot to cloud after layoffs and limited product updates reflects the economic challenges of building AI models in India."
-    },
-    {
-      "title": "As workers worry about AI, Nvidia\u2019s Jensen Huang says AI is \u2018creating an enormous number of jobs\u2019",
-      "url": "https://techcrunch.com/2026/05/04/as-workers-worry-about-ai-nvidias-jensen-huang-says-ai-is-creating-an-enormous-number-of-jobs/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-05-05T03:31:54Z",
-      "snippet": "The Nvidia CEO seems to feel that claims of AI's job-killing potential have been greatly exaggerated."
-    },
-    {
-      "title": "OpenAI\u2019s cozy partner Cerebras is on track for a blockbuster IPO",
-      "url": "https://techcrunch.com/2026/05/04/openais-cozy-partner-cerebras-is-on-track-for-a-blockbuster-ipo/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-05-04T21:53:21Z",
-      "snippet": "AI chip maker Cerebras is heading for a blockbuster IPO that could value it at $26.6 billion or more. Its relationship with OpenAI is deep and rich."
     }
   ],
   "trending": [
     {
       "id": "SulphurAI/Sulphur-2-base",
       "displayName": "Sulphur 2 base",
-      "downloads": 37897
+      "downloads": 55461
     },
     {
       "id": "SeeSee21/Z-Anime",
       "displayName": "Z Anime",
-      "downloads": 3262
+      "downloads": 3819
     },
     {
       "id": "unsloth/Qwen3.6-27B-GGUF",
       "displayName": "Qwen3.6 27B",
-      "downloads": 1147196
+      "downloads": 1197196
     },
     {
       "id": "Jackrong/Qwen3.5-9B-DeepSeek-V4-Flash-GGUF",
       "displayName": "Qwen3.5 9B DeepSeek V4 Flash",
-      "downloads": 68132
+      "downloads": 85712
     },
     {
       "id": "unsloth/Qwen3.6-35B-A3B-GGUF",
       "displayName": "Qwen3.6 35B A3B",
-      "downloads": 2243715
+      "downloads": 2327706
     },
     {
       "id": "DavidAU/Qwen3.6-27B-Heretic-Uncensored-FINETUNE-NEO-CODE-Di-IMatrix-MAX-GGUF",
       "displayName": "Qwen3.6 27B Heretic Uncensored FINETUNE NEO CODE Di IMatrix MAX",
-      "downloads": 88913
+      "downloads": 106958
     },
     {
       "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
       "displayName": "Qwen3.6 35B A3B Uncensored HauhauCS Aggressive",
-      "downloads": 858528
+      "downloads": 913986
     },
     {
       "id": "HauhauCS/Qwen3.6-27B-Uncensored-HauhauCS-Aggressive",
       "displayName": "Qwen3.6 27B Uncensored HauhauCS Aggressive",
-      "downloads": 375175
+      "downloads": 405714
     },
     {
       "id": "unsloth/NVIDIA-Nemotron-3-Nano-Omni-30B-A3B-Reasoning-GGUF",
       "displayName": "NVIDIA Nemotron 3 Nano Omni 30B A3B Reasoning",
-      "downloads": 48437
+      "downloads": 52157
     },
     {
       "id": "unsloth/Mistral-Medium-3.5-128B-GGUF",
       "displayName": "Mistral Medium 3.5 128B",
-      "downloads": 35595
+      "downloads": 39578
     }
   ]
 }
