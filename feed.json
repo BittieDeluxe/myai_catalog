@@ -1,6 +1,13 @@
 {
-  "updated": "2026-05-06T19:41:50Z",
+  "updated": "2026-05-06T21:07:29Z",
   "news": [
+    {
+      "title": "How David Sacks crashed and burned in the White House",
+      "url": "https://www.theverge.com/column/925487/david-sacks-trump-administration-ai-model-review",
+      "source": "The Verge",
+      "publishedAt": "2026-05-06T20:18:00Z",
+      "snippet": "Hello and welcome to Regulator, a newsletter exclusively for Verge subscribers about tech, politics, and Washington intrigue. (It's basically House of Cards, but for nerds.) Not a subscriber yet? You "
+    },
     {
       "title": "How Elon Musk left OpenAI, according to Greg Brockman",
       "url": "https://techcrunch.com/2026/05/06/how-elon-musk-left-openai-according-to-greg-brockman/",
@@ -168,13 +175,6 @@
       "source": "The Verge",
       "publishedAt": "2026-05-05T19:45:30Z",
       "snippet": "The next update to Apple's operating systems could allow users to choose their preferred AI model for running Apple Intelligence. According to Bloomberg's Mark Gurman, Apple is planning to allow third"
-    },
-    {
-      "title": "OpenAI claims ChatGPT\u2019s new default model hallucinates way less",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/924225/openai-chatgpt-default-model-gpt-5-5-instant",
-      "source": "The Verge",
-      "publishedAt": "2026-05-05T17:00:00Z",
-      "snippet": "OpenAI's newest default model for ChatGPT might not make stuff up as much. Hallucinations have been an ongoing problem for AI models, but OpenAI says its new GPT-5.5 Instant model has \"significant imp"
     }
   ],
   "trending": [
