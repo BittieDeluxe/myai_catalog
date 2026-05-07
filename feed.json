@@ -1,6 +1,13 @@
 {
-  "updated": "2026-05-07T02:32:22Z",
+  "updated": "2026-05-07T06:32:05Z",
   "news": [
+    {
+      "title": "Five architects of the AI economy explain where the wheels are coming off",
+      "url": "https://techcrunch.com/2026/05/06/five-architects-of-the-ai-economy-explain-where-the-wheels-are-coming-off/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-05-07T05:25:10Z",
+      "snippet": "Earlier this week, five people who touch every layer of the AI supply chain sat down at the Milken Global Conference in Beverly Hills, where they talked with TechCrunch about everything from chip shor"
+    },
     {
       "title": "Musk\u2019s biggest loyalist became his biggest liability",
       "url": "https://www.theverge.com/ai-artificial-intelligence/925665/musk-altman-trial-shivon-zilis-testimony",
@@ -156,13 +163,6 @@
       "snippet": "Google Chrome may be taking up more of your storage than expected thanks to a large on-device AI model file that, in some cases, is being automatically downloaded to the browser's system folders. User"
     },
     {
-      "title": "Peter Sarlin\u2019s QuTwo reaches $380M valuation in angel round",
-      "url": "https://techcrunch.com/2026/05/05/peter-sarlins-qutwo-reaches-380m-valuation-in-angel-round/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-05-06T06:47:12Z",
-      "snippet": "Enterprise AI will be QuTwo\u2019s bread and butter. \u201cAI is the north star that we will continue to aim for. Quantum is just a new type of compute,\u201d said Sarlin, who is adamant that QuTwo is an AI company."
-    },
-    {
       "title": "Google Home&#8217;s Gemini AI can handle more complicated requests",
       "url": "https://www.theverge.com/tech/924755/google-home-gemini-3-1-upgrade",
       "source": "The Verge",
@@ -194,14 +194,14 @@
       "downloads": 1197196
     },
     {
-      "id": "Jackrong/Qwen3.5-9B-DeepSeek-V4-Flash-GGUF",
-      "displayName": "Qwen3.5 9B DeepSeek V4 Flash",
-      "downloads": 85712
-    },
-    {
       "id": "DavidAU/Qwen3.6-27B-Heretic-Uncensored-FINETUNE-NEO-CODE-Di-IMatrix-MAX-GGUF",
       "displayName": "Qwen3.6 27B Heretic Uncensored FINETUNE NEO CODE Di IMatrix MAX",
       "downloads": 106958
+    },
+    {
+      "id": "Jackrong/Qwen3.5-9B-DeepSeek-V4-Flash-GGUF",
+      "displayName": "Qwen3.5 9B DeepSeek V4 Flash",
+      "downloads": 85712
     },
     {
       "id": "unsloth/Qwen3.6-35B-A3B-GGUF",
@@ -214,14 +214,14 @@
       "downloads": 913986
     },
     {
-      "id": "HauhauCS/Qwen3.6-27B-Uncensored-HauhauCS-Aggressive",
-      "displayName": "Qwen3.6 27B Uncensored HauhauCS Aggressive",
-      "downloads": 405714
-    },
-    {
       "id": "Jackrong/Qwopus3.6-35B-A3B-v1-GGUF",
       "displayName": "Qwopus3.6 35B A3B v1",
       "downloads": 0
+    },
+    {
+      "id": "HauhauCS/Qwen3.6-27B-Uncensored-HauhauCS-Aggressive",
+      "displayName": "Qwen3.6 27B Uncensored HauhauCS Aggressive",
+      "downloads": 405714
     },
     {
       "id": "RuneXX/LTX-2.3-Workflows",
