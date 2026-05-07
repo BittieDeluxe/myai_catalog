@@ -1,6 +1,13 @@
 {
-  "updated": "2026-05-06T22:46:36Z",
+  "updated": "2026-05-07T02:32:22Z",
   "news": [
+    {
+      "title": "Musk\u2019s biggest loyalist became his biggest liability",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/925665/musk-altman-trial-shivon-zilis-testimony",
+      "source": "The Verge",
+      "publishedAt": "2026-05-06T23:37:02Z",
+      "snippet": "I sat down in the Musk v. Altman trial courtroom today, painfully aware that no one was going to ask Shivon Zilis the question on everyone's minds: Girl, what the fuck are you doing? Zilis, who testif"
+    },
     {
       "title": "Barry Diller trusts Sam Altman. But \u2018trust is irrelevant\u2019 as AGI nears, he says.",
       "url": "https://techcrunch.com/2026/05/06/barry-diller-trusts-sam-altman-but-trust-is-irrelevant-as-agi-nears-he-says/",
@@ -168,13 +175,6 @@
       "source": "The Verge",
       "publishedAt": "2026-05-05T21:18:23Z",
       "snippet": "Apple has agreed to pay $250 million to settle a class action lawsuit that accused it of misleading customers about the availability of its Apple Intelligence features. The proposed settlement would a"
-    },
-    {
-      "title": "Microsoft gives up on Xbox Copilot AI",
-      "url": "https://www.theverge.com/games/924551/microsoft-xbox-ceo-copilot-ai-asha-sharma",
-      "source": "The Verge",
-      "publishedAt": "2026-05-05T19:54:37Z",
-      "snippet": "Xbox is \"winding down Copilot on mobile\" and \"will stop development of Copilot on console,\" new Xbox CEO Asha Sharma announced on Tuesday. The move follows Sharma's reorganization of the Xbox platform"
     }
   ],
   "trending": [
@@ -219,14 +219,14 @@
       "downloads": 405714
     },
     {
-      "id": "RuneXX/LTX-2.3-Workflows",
-      "displayName": "LTX 2.3 Workflows",
+      "id": "Jackrong/Qwopus3.6-35B-A3B-v1-GGUF",
+      "displayName": "Qwopus3.6 35B A3B v1",
       "downloads": 0
     },
     {
-      "id": "HauhauCS/Qwen3.5-9B-Uncensored-HauhauCS-Aggressive",
-      "displayName": "Qwen3.5 9B Uncensored HauhauCS Aggressive",
-      "downloads": 1122182
+      "id": "RuneXX/LTX-2.3-Workflows",
+      "displayName": "LTX 2.3 Workflows",
+      "downloads": 0
     }
   ]
 }
