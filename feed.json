@@ -1,8 +1,57 @@
 {
-  "updated": "2026-05-07T13:57:28Z",
+  "updated": "2026-05-07T16:06:42Z",
   "news": [
     {
-      "title": "China\u2019s Moonshot AI raises $2B at $20B valuation as demand for open-source AI skyrockets",
+      "title": "How Anthropic\u2019s Mythos has rewritten Firefox\u2019s approach to cybersecurity",
+      "url": "https://techcrunch.com/2026/05/07/how-anthropics-mythos-has-rewritten-firefoxs-approach-to-cybersecurity/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-05-07T16:05:48Z",
+      "snippet": "Security researchers at Mozilla say Anthropic's Mythos has unearthed a wealth of high-severity bugs in Firefox."
+    },
+    {
+      "title": "Startup Battlefield 200 applications\u00a0close May 27:\u00a0A shot at VC access, global visibility, TechCrunch coverage, and $100K",
+      "url": "https://techcrunch.com/2026/05/07/startup-battlefield-200-applications-close-may-27-a-shot-at-vc-access-global-visibility-techcrunch-coverage-and-100k/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-05-07T15:00:00Z",
+      "snippet": "Startup Battlefield 200\u00a0applications\u00a0are open, but only for three more weeks. Apply by May 27 for your shot at VC access, global visibility, TechCrunch coverage, $100K equity-free, and more opportunit"
+    },
+    {
+      "title": "Exhibit at TechCrunch Disrupt 2026: Get in front of 10,000 decision-makers before space runs out",
+      "url": "https://techcrunch.com/2026/05/07/exhibit-at-techcrunch-disrupt-2026-get-in-front-of-10000-decision-makers-before-space-runs-out/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-05-07T14:30:00Z",
+      "snippet": "If startup visibility, traction, and real deals matter, you should be on the TechCrunch Disrupt 2026 exhibit floor. Get your 6' exhibit table before your competitor does."
+    },
+    {
+      "title": "Aurora\u2019s Chris Urmson on why self-driving trucks are finally ready\u00a0to scale",
+      "url": "https://techcrunch.com/podcast/auroras-chris-urmson-on-why-self-driving-trucks-are-finally-ready-to-scale/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-05-07T14:24:54Z",
+      "snippet": "Self-driving has been &#8220;almost here&#8221; for over a decade. But somewhere between DARPA&#160;challenges&#160;and a handful of driverless trucks hauling freight between Dallas and Houston, Auror"
+    },
+    {
+      "title": "OpenClaw and Claude can put your AI-generated podcasts in Spotify",
+      "url": "https://www.theverge.com/entertainment/925916/save-to-spotify-ai-podcasts",
+      "source": "The Verge",
+      "publishedAt": "2026-05-07T14:15:40Z",
+      "snippet": "Save to Spotify is a new command-line tool designed specifically for AI agents like OpenClaw, Claude Code, or OpenAI Codex. If you're the kind of person who collects research on a topic, then feeds it"
+    },
+    {
+      "title": "Google\u2019s taking a big swing at AI health with the Fitbit Air",
+      "url": "https://www.theverge.com/gadgets/925458/google-health-fitbit-air-ai-coaching-wearables-fitness-trackers",
+      "source": "The Verge",
+      "publishedAt": "2026-05-07T14:00:00Z",
+      "snippet": "It's a Whoop dupe. That was my first thought when I saw the new $99 Google Fitbit Air. You can hardly blame me. The band is screenless with a metallic fabric clasp. My eyes flickered between the Fitbi"
+    },
+    {
+      "title": "2 days left: Get 50% off a second pass\u00a0to TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/05/07/2-days-left-get-50-off-a-second-pass-to-techcrunch-disrupt-2026/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-05-07T14:00:00Z",
+      "snippet": "Two days left to save up to $410 on your pass, and get a second one at 50% off to TechCrunch Disrupt 2026. Offer ends May 8, 11:59 p.m. PT. Register now."
+    },
+    {
+      "title": "China\u2019s Moonshot AI raises $2B at $20B valuation as demand for open source AI skyrockets",
       "url": "https://techcrunch.com/2026/05/07/chinas-moonshot-ai-raises-2b-at-20b-valuation-as-demand-for-open-source-ai-skyrockets/",
       "source": "TechCrunch",
       "publishedAt": "2026-05-07T13:44:25Z",
@@ -13,7 +62,7 @@
       "url": "https://techcrunch.com/2026/05/07/spotify-wants-to-become-the-home-for-ai-generated-personal-audio/",
       "source": "TechCrunch",
       "publishedAt": "2026-05-07T13:00:00Z",
-      "snippet": "Users will be able to create a podcast from Codex or Claude Code and import it to Spotify"
+      "snippet": "Users will be able to create a podcast from Codex or Claude Code and import it to Spotify."
     },
     {
       "title": "Spotify\u2019s AI DJ now supports French, German, Italian and Brazilian Portuguese",
@@ -100,46 +149,11 @@
       "snippet": "The Chinese AI lab came to prominence in early 2025 after launching a large language model that trained on a fraction of the compute power and at a fraction of the cost of the big U.S. models like tho"
     },
     {
-      "title": "Google updates AI search to include quotes from Reddit and other sources",
-      "url": "https://techcrunch.com/2026/05/06/google-updates-ai-search-to-include-expert-advice-from-reddit-and-other-web-forums/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-05-06T15:49:39Z",
-      "snippet": "While citing web forums and discussion boards can help users find answers to more niche queries, this design choice could also prove chaotic."
-    },
-    {
-      "title": "Khosla-backed robotics startup Genesis AI has gone full stack, demo shows",
-      "url": "https://techcrunch.com/2026/05/06/khosla-backed-robotics-startup-genesis-ai-has-gone-full-stack-demo-shows/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-05-06T15:46:38Z",
-      "snippet": "Genesis AI, a startup that raised a $105 million seed round to build foundational AI for robotics, has unveiled its first model, GENE-26.5, but also a demo showcasing a set of robotic hands performing"
-    },
-    {
       "title": "Live updates from Elon Musk and Sam Altman\u2019s court battle over the future of OpenAI",
       "url": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
       "source": "The Verge",
       "publishedAt": "2026-05-06T15:37:32Z",
       "snippet": "Sam Altman and Elon Musk are facing off in a high-stakes trial that could alter the future of OpenAI and its most well-known product, ChatGPT. In 2024, Musk filed a lawsuit accusing OpenAI of abandoni"
-    },
-    {
-      "title": "Tinder owner Match Group is slowing hiring to pay for its increased use of AI tools",
-      "url": "https://techcrunch.com/2026/05/06/tinder-owner-match-group-is-slowing-hiring-to-pay-for-its-increased-use-of-ai-tools/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-05-06T15:27:36Z",
-      "snippet": "Match Group said that it's slowing its hiring plans for the rest of the year because AI tools \"cost a lot of money.\""
-    },
-    {
-      "title": "Apple to pay $250M to settle lawsuit over Siri\u2019s delayed AI features",
-      "url": "https://techcrunch.com/2026/05/06/apple-to-pay-250m-to-settle-lawsuit-over-siris-delayed-ai-features/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-05-06T15:12:49Z",
-      "snippet": "Apple has agreed to pay $250 million to settle a class action lawsuit for overpromising the arrival of Siri's AI features."
-    },
-    {
-      "title": "Ethos raises $22.75M from a16z for its expert network with voice onboarding",
-      "url": "https://techcrunch.com/2026/05/06/ethos-raises-22-75m-from-a16z-for-its-expert-network-with-voice-onboarding/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-05-06T15:00:00Z",
-      "snippet": "Ethos says it is onboarding 35,000 experts per week."
     },
     {
       "title": "Google&#8217;s AI search summaries will now quote Reddit",
@@ -161,20 +175,6 @@
       "source": "The Verge",
       "publishedAt": "2026-05-06T10:13:09Z",
       "snippet": "Google Chrome may be taking up more of your storage than expected thanks to a large on-device AI model file that, in some cases, is being automatically downloaded to the browser's system folders. User"
-    },
-    {
-      "title": "Google Home&#8217;s Gemini AI can handle more complicated requests",
-      "url": "https://www.theverge.com/tech/924755/google-home-gemini-3-1-upgrade",
-      "source": "The Verge",
-      "publishedAt": "2026-05-05T21:46:04Z",
-      "snippet": "Google Home users can now ask Gemini to complete more complex, multi-step tasks and combine multiple tasks in a single command. Google has updated Gemini for Home to Gemini 3.1, which it says will imp"
-    },
-    {
-      "title": "Apple agrees to pay iPhone owners $250 million for not delivering AI Siri",
-      "url": "https://www.theverge.com/tech/924706/apple-iphone-siri-intelligence-class-action-lawsuit-settlement",
-      "source": "The Verge",
-      "publishedAt": "2026-05-05T21:18:23Z",
-      "snippet": "Apple has agreed to pay $250 million to settle a class action lawsuit that accused it of misleading customers about the availability of its Apple Intelligence features. The proposed settlement would a"
     }
   ],
   "trending": [
