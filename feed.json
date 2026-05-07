@@ -1,6 +1,27 @@
 {
-  "updated": "2026-05-07T10:21:00Z",
+  "updated": "2026-05-07T13:57:28Z",
   "news": [
+    {
+      "title": "China\u2019s Moonshot AI raises $2B at $20B valuation as demand for open-source AI skyrockets",
+      "url": "https://techcrunch.com/2026/05/07/chinas-moonshot-ai-raises-2b-at-20b-valuation-as-demand-for-open-source-ai-skyrockets/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-05-07T13:44:25Z",
+      "snippet": "Moonshot's annualized recurring revenue topped $200 million in April, driven by rapid growth in paid subscriptions and API usage."
+    },
+    {
+      "title": "Spotify wants to become the home for AI-generated personal audio",
+      "url": "https://techcrunch.com/2026/05/07/spotify-wants-to-become-the-home-for-ai-generated-personal-audio/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-05-07T13:00:00Z",
+      "snippet": "Users will be able to create a podcast from Codex or Claude Code and import it to Spotify"
+    },
+    {
+      "title": "Spotify\u2019s AI DJ now supports French, German, Italian and Brazilian Portuguese",
+      "url": "https://techcrunch.com/2026/05/07/spotifys-ai-dj-now-supports-french-german-italian-and-brazilian-portuguese/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-05-07T12:20:04Z",
+      "snippet": "Spotify's AI DJ feature now supports French, German, Italian, and Brazilian Portuguese."
+    },
     {
       "title": "Five architects of the AI economy explain where the wheels are coming off",
       "url": "https://techcrunch.com/2026/05/06/five-architects-of-the-ai-economy-explain-where-the-wheels-are-coming-off/",
@@ -121,27 +142,6 @@
       "snippet": "Ethos says it is onboarding 35,000 experts per week."
     },
     {
-      "title": "At TechCrunch Disrupt 2026, all your M&A questions will be answered",
-      "url": "https://techcrunch.com/2026/05/06/at-techcrunch-disrupt-2026-all-your-ma-questions-will-be-answered/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-05-06T14:30:00Z",
-      "snippet": "Leaders from Coinbase, M13, and Mignano Law Group talk about how M&#038;A is an early-stage strategy at TechCrunch Disrupt 2026. Register to hear this live."
-    },
-    {
-      "title": "3 days left to\u00a0lock in 50% off a second ticket to TechCrunch Disrupt 2026",
-      "url": "https://techcrunch.com/2026/05/06/3-days-left-to-lock-in-50-off-a-second-ticket-to-techcrunch-disrupt-2026/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-05-06T14:00:00Z",
-      "snippet": "Three days left to\u00a0lock in 50% off a second ticket to Disrupt 2026. Buy one TechCrunch Disrupt 2026 ticket, and get a second ticket at 50% off. Gain more visibility in the tech industry. Offer ends Ma"
-    },
-    {
-      "title": "AI boom pushes Samsung to $1T",
-      "url": "https://techcrunch.com/2026/05/06/ai-boom-pushes-samsung-to-1t/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-05-06T13:54:09Z",
-      "snippet": "Samsung crossed the $1 trillion valuation mark after shares surged on AI-driven chip demand, making it only the second Asian company after TSMC to hit the milestone."
-    },
-    {
       "title": "Google&#8217;s AI search summaries will now quote Reddit",
       "url": "https://www.theverge.com/tech/924993/google-ai-search-mode-overviews-update-reddit-links",
       "source": "The Verge",
@@ -199,24 +199,24 @@
       "downloads": 126660
     },
     {
-      "id": "Jackrong/Qwen3.5-9B-DeepSeek-V4-Flash-GGUF",
-      "displayName": "Qwen3.5 9B DeepSeek V4 Flash",
-      "downloads": 104723
-    },
-    {
       "id": "unsloth/Qwen3.6-35B-A3B-GGUF",
       "displayName": "Qwen3.6 35B A3B",
       "downloads": 2417319
     },
     {
-      "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
-      "displayName": "Qwen3.6 35B A3B Uncensored HauhauCS Aggressive",
-      "downloads": 973262
+      "id": "Jackrong/Qwen3.5-9B-DeepSeek-V4-Flash-GGUF",
+      "displayName": "Qwen3.5 9B DeepSeek V4 Flash",
+      "downloads": 104723
     },
     {
       "id": "Jackrong/Qwopus3.6-35B-A3B-v1-GGUF",
       "displayName": "Qwopus3.6 35B A3B v1",
       "downloads": 4754
+    },
+    {
+      "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
+      "displayName": "Qwen3.6 35B A3B Uncensored HauhauCS Aggressive",
+      "downloads": 973262
     },
     {
       "id": "HauhauCS/Qwen3.6-27B-Uncensored-HauhauCS-Aggressive",
