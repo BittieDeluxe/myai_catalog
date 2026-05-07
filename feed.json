@@ -1,6 +1,41 @@
 {
-  "updated": "2026-05-07T16:06:42Z",
+  "updated": "2026-05-07T19:39:23Z",
   "news": [
+    {
+      "title": "SpaceX has a $55 billion plan to build AI chips in Texas",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/926356/spacex-terafab-plant-cost-ai-chips",
+      "source": "The Verge",
+      "publishedAt": "2026-05-07T19:26:16Z",
+      "snippet": "Elon Musk's plans to get into the AI chip manufacturing business are going to be costly. As the New York Times and CNBC report, SpaceX is planning to invest at least $55 billion into its \"Terafab\" chi"
+    },
+    {
+      "title": "Elon Musk\u2019s lawsuit is putting OpenAI\u2019s safety record under the microscope",
+      "url": "https://techcrunch.com/2026/05/07/elon-musks-lawsuit-is-putting-openais-safety-record-under-the-microscope/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-05-07T19:21:21Z",
+      "snippet": "Can Sam Altman\u2014or any CEO\u2014be trusted with super intelligence?"
+    },
+    {
+      "title": "Bumble is getting rid of the swipe, CEO says",
+      "url": "https://techcrunch.com/2026/05/07/bumble-is-getting-rid-of-the-swipe-ceo-says/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-05-07T19:06:17Z",
+      "snippet": "\"We are going to be saying goodbye to the swipe,\" CEO Whitney Wolfe Herd said."
+    },
+    {
+      "title": "ChatGPT&#8217;s &#8216;Trusted Contact&#8217; will alert loved ones of safety concerns",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/925874/chatgpt-trusted-contact-emergency-self-harm-notification",
+      "source": "The Verge",
+      "publishedAt": "2026-05-07T18:00:00Z",
+      "snippet": "OpenAI is launching an optional safety feature for ChatGPT that allows adult users to assign an emergency contact for mental health and safety concerns. Friends, family members, or caregivers designat"
+    },
+    {
+      "title": "Live updates from Elon Musk and Sam Altman\u2019s court battle over the future of OpenAI",
+      "url": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
+      "source": "The Verge",
+      "publishedAt": "2026-05-07T17:40:50Z",
+      "snippet": "Sam Altman and Elon Musk are facing off in a high-stakes trial that could alter the future of OpenAI and its most well-known product, ChatGPT. In 2024, Musk filed a lawsuit accusing OpenAI of abandoni"
+    },
     {
       "title": "How Anthropic\u2019s Mythos has rewritten Firefox\u2019s approach to cybersecurity",
       "url": "https://techcrunch.com/2026/05/07/how-anthropics-mythos-has-rewritten-firefoxs-approach-to-cybersecurity/",
@@ -13,7 +48,7 @@
       "url": "https://techcrunch.com/2026/05/07/startup-battlefield-200-applications-close-may-27-a-shot-at-vc-access-global-visibility-techcrunch-coverage-and-100k/",
       "source": "TechCrunch",
       "publishedAt": "2026-05-07T15:00:00Z",
-      "snippet": "Startup Battlefield 200\u00a0applications\u00a0are open, but only for three more weeks. Apply by May 27 for your shot at VC access, global visibility, TechCrunch coverage, $100K equity-free, and more opportunit"
+      "snippet": "Startup Battlefield 200 applications are open, but only for three more weeks. Apply by May 27 for your shot at VC access, global visibility, TechCrunch coverage, $100,000 equity-free, and more opportu"
     },
     {
       "title": "Exhibit at TechCrunch Disrupt 2026: Get in front of 10,000 decision-makers before space runs out",
@@ -65,7 +100,7 @@
       "snippet": "Users will be able to create a podcast from Codex or Claude Code and import it to Spotify."
     },
     {
-      "title": "Spotify\u2019s AI DJ now supports French, German, Italian and Brazilian Portuguese",
+      "title": "Spotify\u2019s AI DJ now supports French, German, Italian, and Brazilian Portuguese",
       "url": "https://techcrunch.com/2026/05/07/spotifys-ai-dj-now-supports-french-german-italian-and-brazilian-portuguese/",
       "source": "TechCrunch",
       "publishedAt": "2026-05-07T12:20:04Z",
@@ -76,7 +111,7 @@
       "url": "https://techcrunch.com/2026/05/06/five-architects-of-the-ai-economy-explain-where-the-wheels-are-coming-off/",
       "source": "TechCrunch",
       "publishedAt": "2026-05-07T05:25:10Z",
-      "snippet": "Earlier this week, five people who touch every layer of the AI supply chain sat down at the Milken Global Conference in Beverly Hills, where they talked with TechCrunch about everything from chip shor"
+      "snippet": "Earlier this week, five people who touch every layer of the AI supply chain sat down at the Milken Institute Global Conference in Beverly Hills, where they talked with TechCrunch about everything from"
     },
     {
       "title": "Musk\u2019s biggest loyalist became his biggest liability",
@@ -135,46 +170,11 @@
       "snippet": "Mira Murati, OpenAI's former CTO, has testified under oath that CEO Sam Altman lied to her about the safety standards for a new AI model. In a video deposition shown during the ongoing Musk v. Altman "
     },
     {
-      "title": "SpaceX may spend up to $119B on \u2018Terafab\u2019 chip factory in Texas",
-      "url": "https://techcrunch.com/2026/05/06/spacex-may-spend-up-to-119-billion-on-terafab-chip-factory-in-texas/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-05-06T17:23:08Z",
-      "snippet": "The project would be a \"multi-phase, next-generation, vertically integrated semiconductor manufacturing and advanced computing fabrication facility,\" according to the proposal."
-    },
-    {
-      "title": "DeepSeek could hit $45B valuation from its first investment round",
-      "url": "https://techcrunch.com/2026/05/06/deepseek-could-hit-45b-valuation-from-its-first-investment-round/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-05-06T17:20:34Z",
-      "snippet": "The Chinese AI lab came to prominence in early 2025 after launching a large language model that trained on a fraction of the compute power and at a fraction of the cost of the big U.S. models like tho"
-    },
-    {
-      "title": "Live updates from Elon Musk and Sam Altman\u2019s court battle over the future of OpenAI",
-      "url": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
-      "source": "The Verge",
-      "publishedAt": "2026-05-06T15:37:32Z",
-      "snippet": "Sam Altman and Elon Musk are facing off in a high-stakes trial that could alter the future of OpenAI and its most well-known product, ChatGPT. In 2024, Musk filed a lawsuit accusing OpenAI of abandoni"
-    },
-    {
       "title": "Google&#8217;s AI search summaries will now quote Reddit",
       "url": "https://www.theverge.com/tech/924993/google-ai-search-mode-overviews-update-reddit-links",
       "source": "The Verge",
       "publishedAt": "2026-05-06T13:00:30Z",
       "snippet": "Google is updating its AI Search features to make it easier for users to find information from sources they know and trust. One of the more notable changes introduces \"a preview of perspectives\" from "
-    },
-    {
-      "title": "Microsoft\u2019s Office and LinkedIn chief now runs Teams in latest reshuffle",
-      "url": "https://www.theverge.com/tech/924931/microsoft-office-copilot-windows-reorg-shuffle",
-      "source": "The Verge",
-      "publishedAt": "2026-05-06T11:45:41Z",
-      "snippet": "Microsoft's LinkedIn chief, Ryan Roslansky, took on an expanded role at the company as head of Office last year, and he's now getting more responsibilities as part of the latest leadership reshuffle i"
-    },
-    {
-      "title": "Chrome\u2019s AI features may be hogging 4GB of your computer storage",
-      "url": "https://www.theverge.com/tech/924933/google-chrome-4gb-gemini-nano-ai-features",
-      "source": "The Verge",
-      "publishedAt": "2026-05-06T10:13:09Z",
-      "snippet": "Google Chrome may be taking up more of your storage than expected thanks to a large on-device AI model file that, in some cases, is being automatically downloaded to the browser's system folders. User"
     }
   ],
   "trending": [
@@ -204,14 +204,14 @@
       "downloads": 2417319
     },
     {
-      "id": "Jackrong/Qwen3.5-9B-DeepSeek-V4-Flash-GGUF",
-      "displayName": "Qwen3.5 9B DeepSeek V4 Flash",
-      "downloads": 104723
-    },
-    {
       "id": "Jackrong/Qwopus3.6-35B-A3B-v1-GGUF",
       "displayName": "Qwopus3.6 35B A3B v1",
       "downloads": 4754
+    },
+    {
+      "id": "Jackrong/Qwen3.5-9B-DeepSeek-V4-Flash-GGUF",
+      "displayName": "Qwen3.5 9B DeepSeek V4 Flash",
+      "downloads": 104723
     },
     {
       "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
