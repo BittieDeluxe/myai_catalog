@@ -1,6 +1,34 @@
 {
-  "updated": "2026-05-07T19:39:23Z",
+  "updated": "2026-05-07T21:01:20Z",
   "news": [
+    {
+      "title": "OpenAI introduces new \u2018Trusted Contact\u2019 safeguard for cases of possible self-harm",
+      "url": "https://techcrunch.com/2026/05/07/openai-introduces-new-trusted-contact-safeguard-for-cases-of-possible-self-harm/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-05-07T20:20:20Z",
+      "snippet": "The company is expanding its efforts to protect ChatGPT users in cases where conversations may turn to self-harm."
+    },
+    {
+      "title": "Perplexity\u2019s Personal Computer is now available to everyone on Mac",
+      "url": "https://techcrunch.com/2026/05/07/perplexitys-personal-computer-is-now-available-everyone-on-mac/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-05-07T19:57:59Z",
+      "snippet": "Perplexity's Personal Computer brings AI agents to your Mac, and is now open to everyone."
+    },
+    {
+      "title": "Mira Murati\u2019s deposition pulled back the curtain on Sam Altman\u2019s ouster",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/926383/mira-murati-sam-altman-musk-trial-ouster",
+      "source": "The Verge",
+      "publishedAt": "2026-05-07T19:55:22Z",
+      "snippet": "The week leading up to Thanksgiving 2023 was the AI industry's biggest soap opera moment. OpenAI CEO Sam Altman was abruptly ousted from his role at the ChatGPT-maker. The explanation? That Altman was"
+    },
+    {
+      "title": "Apple&#8217;s AirPods with cameras for AI are apparently close to production",
+      "url": "https://www.theverge.com/tech/926376/apple-airpods-cameras-ai-production",
+      "source": "The Verge",
+      "publishedAt": "2026-05-07T19:39:22Z",
+      "snippet": "Apple's rumored AirPods with cameras are nearing a stage where the company will test early mass production, Bloomberg's Mark Gurman reports. Currently, Apple testers are \"actively using\" prototypes th"
+    },
     {
       "title": "SpaceX has a $55 billion plan to build AI chips in Texas",
       "url": "https://www.theverge.com/ai-artificial-intelligence/926356/spacex-terafab-plant-cost-ai-chips",
@@ -13,14 +41,14 @@
       "url": "https://techcrunch.com/2026/05/07/elon-musks-lawsuit-is-putting-openais-safety-record-under-the-microscope/",
       "source": "TechCrunch",
       "publishedAt": "2026-05-07T19:21:21Z",
-      "snippet": "Can Sam Altman\u2014or any CEO\u2014be trusted with super intelligence?"
+      "snippet": "Elon Musk's legal effort to dismantle OpenAI may hinge on how its for-profit subsidiary enhances or detracts from the frontier lab's founding mission of ensuring that humanity benefits from artificial"
     },
     {
       "title": "Bumble is getting rid of the swipe, CEO says",
       "url": "https://techcrunch.com/2026/05/07/bumble-is-getting-rid-of-the-swipe-ceo-says/",
       "source": "TechCrunch",
       "publishedAt": "2026-05-07T19:06:17Z",
-      "snippet": "\"We are going to be saying goodbye to the swipe,\" CEO Whitney Wolfe Herd said."
+      "snippet": "Based on Whitney Wolfe Herd's past comments about Bumble's new direction, the company is expected to lean into AI -- Bumble is even working on an AI dating assistant called Bee, and the CEO has made m"
     },
     {
       "title": "ChatGPT&#8217;s &#8216;Trusted Contact&#8217; will alert loved ones of safety concerns",
@@ -135,13 +163,6 @@
       "snippet": "The deal, announced last November, would have seen Perplexity's AI search engine integrated directly into Snapchat."
     },
     {
-      "title": "Is xAI a neocloud now?",
-      "url": "https://techcrunch.com/2026/05/06/is-xai-a-neocloud-now/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-05-06T21:32:55Z",
-      "snippet": "xAI's real business may be more about building data centers than training AI models."
-    },
-    {
       "title": "Google shuts down Project Mariner",
       "url": "https://www.theverge.com/tech/925559/google-project-mariner-shut-down",
       "source": "The Verge",
@@ -154,27 +175,6 @@
       "source": "The Verge",
       "publishedAt": "2026-05-06T20:18:00Z",
       "snippet": "Hello and welcome to Regulator, a newsletter exclusively for Verge subscribers about tech, politics, and Washington intrigue. (It's basically House of Cards, but for nerds.) Not a subscriber yet? You "
-    },
-    {
-      "title": "How Elon Musk left OpenAI, according to Greg Brockman",
-      "url": "https://techcrunch.com/2026/05/06/how-elon-musk-left-openai-according-to-greg-brockman/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-05-06T18:23:54Z",
-      "snippet": "Cutthroat negotiations between startup founders are rarely shared so publicly, especially when a company becomes as world-changing as OpenAI."
-    },
-    {
-      "title": "Mira Murati tells the court that she couldn\u2019t trust Sam Altman\u2019s words",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/925338/openai-musk-v-altman-mira-murati",
-      "source": "The Verge",
-      "publishedAt": "2026-05-06T17:55:53Z",
-      "snippet": "Mira Murati, OpenAI's former CTO, has testified under oath that CEO Sam Altman lied to her about the safety standards for a new AI model. In a video deposition shown during the ongoing Musk v. Altman "
-    },
-    {
-      "title": "Google&#8217;s AI search summaries will now quote Reddit",
-      "url": "https://www.theverge.com/tech/924993/google-ai-search-mode-overviews-update-reddit-links",
-      "source": "The Verge",
-      "publishedAt": "2026-05-06T13:00:30Z",
-      "snippet": "Google is updating its AI Search features to make it easier for users to find information from sources they know and trust. One of the more notable changes introduces \"a preview of perspectives\" from "
     }
   ],
   "trending": [
@@ -194,14 +194,14 @@
       "downloads": 1264430
     },
     {
-      "id": "DavidAU/Qwen3.6-27B-Heretic-Uncensored-FINETUNE-NEO-CODE-Di-IMatrix-MAX-GGUF",
-      "displayName": "Qwen3.6 27B Heretic Uncensored FINETUNE NEO CODE Di IMatrix MAX",
-      "downloads": 126660
-    },
-    {
       "id": "unsloth/Qwen3.6-35B-A3B-GGUF",
       "displayName": "Qwen3.6 35B A3B",
       "downloads": 2417319
+    },
+    {
+      "id": "DavidAU/Qwen3.6-27B-Heretic-Uncensored-FINETUNE-NEO-CODE-Di-IMatrix-MAX-GGUF",
+      "displayName": "Qwen3.6 27B Heretic Uncensored FINETUNE NEO CODE Di IMatrix MAX",
+      "downloads": 126660
     },
     {
       "id": "Jackrong/Qwopus3.6-35B-A3B-v1-GGUF",
