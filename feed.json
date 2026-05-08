@@ -1,6 +1,13 @@
 {
-  "updated": "2026-05-08T19:11:46Z",
+  "updated": "2026-05-08T20:55:53Z",
   "news": [
+    {
+      "title": "Intel\u2019s comeback story is even wilder than it seems",
+      "url": "https://techcrunch.com/2026/05/08/intels-comeback-story-is-even-wilder-than-it-seems/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-05-08T20:02:52Z",
+      "snippet": "Intel's stock has risen a stunning 490% over the past year, a bet by Wall Street that may be running well ahead of the company's actual turnaround."
+    },
     {
       "title": "All the latest updates on AI data centers",
       "url": "https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy",
@@ -13,7 +20,7 @@
       "url": "https://techcrunch.com/2026/05/08/cloudflare-says-ai-made-1100-jobs-obsolete-even-as-revenue-hit-a-record-high/",
       "source": "TechCrunch",
       "publishedAt": "2026-05-08T18:33:21Z",
-      "snippet": "CloudFlare announced its first large-scale layoff. CEO Matthew Prince says because of AI efficiency gains, the company doesn't need as many support roles."
+      "snippet": "Cloudflare announced its first large-scale layoff. CEO Matthew Prince says because of AI efficiency gains, the company doesn't need as many support roles."
     },
     {
       "title": "PlayStation sees AI as a \u2018powerful tool\u2019 to help make games",
@@ -49,6 +56,13 @@
       "source": "The Verge",
       "publishedAt": "2026-05-08T13:31:37Z",
       "snippet": "Sometimes, companies pick CEOs based on carefully laid succession plans designed to maximize investor confidence and future performance. Other times, apparently, companies pick CEOs based on a bunch o"
+    },
+    {
+      "title": "Nanoleaf bets its future on robots, red light therapy, and AI",
+      "url": "https://www.theverge.com/tech/926342/nanoleaf-smart-lighting-ai-robotics-red-light-wellness",
+      "source": "The Verge",
+      "publishedAt": "2026-05-08T12:15:00Z",
+      "snippet": "Smart lighting company Nanoleaf has been unusually quiet recently. While competitors such as Govee and Philips Hue have been pumping out new products and innovative features at an impressive pace, Nan"
     },
     {
       "title": "The fax machine is the bottleneck in US healthcare, and VCs are starting to notice",
@@ -161,20 +175,6 @@
       "source": "TechCrunch",
       "publishedAt": "2026-05-07T14:24:54Z",
       "snippet": "Self-driving has been &#8220;almost here&#8221; for over a decade. But somewhere between DARPA&#160;challenges&#160;and a handful of driverless trucks hauling freight between Dallas and Houston, Auror"
-    },
-    {
-      "title": "OpenClaw and Claude can put your AI-generated podcasts in Spotify",
-      "url": "https://www.theverge.com/entertainment/925916/save-to-spotify-ai-podcasts",
-      "source": "The Verge",
-      "publishedAt": "2026-05-07T14:15:40Z",
-      "snippet": "Save to Spotify is a new command-line tool designed specifically for AI agents like OpenClaw, Claude Code, or OpenAI Codex. If you're the kind of person who collects research on a topic, then feeds it"
-    },
-    {
-      "title": "2 days left: Get 50% off a second pass\u00a0to TechCrunch Disrupt 2026",
-      "url": "https://techcrunch.com/2026/05/07/2-days-left-get-50-off-a-second-pass-to-techcrunch-disrupt-2026/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-05-07T14:00:00Z",
-      "snippet": "Two days left to save up to $410 on your pass, and get a second one at 50% off to TechCrunch Disrupt 2026. Offer ends May 8, 11:59 p.m. PT. Register now."
     }
   ],
   "trending": [
@@ -219,14 +219,14 @@
       "downloads": 996892
     },
     {
-      "id": "HauhauCS/Qwen3.6-27B-Uncensored-HauhauCS-Aggressive",
-      "displayName": "Qwen3.6 27B Uncensored HauhauCS Aggressive",
-      "downloads": 439140
-    },
-    {
       "id": "RuneXX/LTX-2.3-Workflows",
       "displayName": "LTX 2.3 Workflows",
       "downloads": 0
+    },
+    {
+      "id": "HauhauCS/Qwen3.6-27B-Uncensored-HauhauCS-Aggressive",
+      "displayName": "Qwen3.6 27B Uncensored HauhauCS Aggressive",
+      "downloads": 439140
     }
   ]
 }
