@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-08T11:09:06Z",
+  "updated": "2026-05-08T13:24:12Z",
   "news": [
     {
       "title": "Why you can never get your doctor to call you back",
@@ -194,14 +194,14 @@
       "downloads": 1312422
     },
     {
-      "id": "unsloth/Qwen3.6-35B-A3B-GGUF",
-      "displayName": "Qwen3.6 35B A3B",
-      "downloads": 2500343
-    },
-    {
       "id": "Jackrong/Qwopus3.6-35B-A3B-v1-GGUF",
       "displayName": "Qwopus3.6 35B A3B v1",
       "downloads": 18981
+    },
+    {
+      "id": "unsloth/Qwen3.6-35B-A3B-GGUF",
+      "displayName": "Qwen3.6 35B A3B",
+      "downloads": 2500343
     },
     {
       "id": "DavidAU/Qwen3.6-27B-Heretic-Uncensored-FINETUNE-NEO-CODE-Di-IMatrix-MAX-GGUF",
