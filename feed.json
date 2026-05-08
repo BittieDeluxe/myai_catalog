@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-08T07:24:18Z",
+  "updated": "2026-05-08T09:14:06Z",
   "news": [
     {
       "title": "Why you can never get your doctor to call you back",
@@ -181,47 +181,47 @@
     {
       "id": "SulphurAI/Sulphur-2-base",
       "displayName": "Sulphur 2 base",
-      "downloads": 71149
+      "downloads": 92968
     },
     {
       "id": "SeeSee21/Z-Anime",
       "displayName": "Z Anime",
-      "downloads": 4460
+      "downloads": 5077
     },
     {
       "id": "unsloth/Qwen3.6-27B-GGUF",
       "displayName": "Qwen3.6 27B",
-      "downloads": 1264430
+      "downloads": 1312422
     },
     {
       "id": "unsloth/Qwen3.6-35B-A3B-GGUF",
       "displayName": "Qwen3.6 35B A3B",
-      "downloads": 2417319
+      "downloads": 2500343
     },
     {
       "id": "Jackrong/Qwopus3.6-35B-A3B-v1-GGUF",
       "displayName": "Qwopus3.6 35B A3B v1",
-      "downloads": 4754
+      "downloads": 18981
     },
     {
       "id": "DavidAU/Qwen3.6-27B-Heretic-Uncensored-FINETUNE-NEO-CODE-Di-IMatrix-MAX-GGUF",
       "displayName": "Qwen3.6 27B Heretic Uncensored FINETUNE NEO CODE Di IMatrix MAX",
-      "downloads": 126660
+      "downloads": 143853
     },
     {
       "id": "Jackrong/Qwen3.5-9B-DeepSeek-V4-Flash-GGUF",
       "displayName": "Qwen3.5 9B DeepSeek V4 Flash",
-      "downloads": 104723
+      "downloads": 128635
     },
     {
       "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
       "displayName": "Qwen3.6 35B A3B Uncensored HauhauCS Aggressive",
-      "downloads": 973262
+      "downloads": 996892
     },
     {
       "id": "HauhauCS/Qwen3.6-27B-Uncensored-HauhauCS-Aggressive",
       "displayName": "Qwen3.6 27B Uncensored HauhauCS Aggressive",
-      "downloads": 428952
+      "downloads": 439140
     },
     {
       "id": "RuneXX/LTX-2.3-Workflows",
