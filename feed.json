@@ -1,6 +1,13 @@
 {
-  "updated": "2026-05-08T02:39:18Z",
+  "updated": "2026-05-08T05:54:01Z",
   "news": [
+    {
+      "title": "Why you can never get your doctor to call you back",
+      "url": "https://techcrunch.com/2026/05/07/the-back-office-problem-that-explains-why-specialists-never-call-you-back/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-05-08T04:42:29Z",
+      "snippet": "Like many AI companies automating work that humans currently do, Basata will eventually face a harder question about where the line is between augmenting workers and displacing them. For now, the foun"
+    },
     {
       "title": "OpenAI launches new voice intelligence features in its API",
       "url": "https://techcrunch.com/2026/05/07/openai-launches-new-voice-intelligence-features-in-its-api/",
@@ -149,13 +156,6 @@
       "snippet": "Spotify's AI DJ feature now supports French, German, Italian, and Brazilian Portuguese."
     },
     {
-      "title": "Five architects of the AI economy explain where the wheels are coming off",
-      "url": "https://techcrunch.com/2026/05/06/five-architects-of-the-ai-economy-explain-where-the-wheels-are-coming-off/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-05-07T05:25:10Z",
-      "snippet": "Earlier this week, five people who touch every layer of the AI supply chain sat down at the Milken Institute Global Conference in Beverly Hills, where they talked with TechCrunch about everything from"
-    },
-    {
       "title": "Musk\u2019s biggest loyalist became his biggest liability",
       "url": "https://www.theverge.com/ai-artificial-intelligence/925665/musk-altman-trial-shivon-zilis-testimony",
       "source": "The Verge",
@@ -199,14 +199,14 @@
       "downloads": 2417319
     },
     {
-      "id": "DavidAU/Qwen3.6-27B-Heretic-Uncensored-FINETUNE-NEO-CODE-Di-IMatrix-MAX-GGUF",
-      "displayName": "Qwen3.6 27B Heretic Uncensored FINETUNE NEO CODE Di IMatrix MAX",
-      "downloads": 126660
-    },
-    {
       "id": "Jackrong/Qwopus3.6-35B-A3B-v1-GGUF",
       "displayName": "Qwopus3.6 35B A3B v1",
       "downloads": 4754
+    },
+    {
+      "id": "DavidAU/Qwen3.6-27B-Heretic-Uncensored-FINETUNE-NEO-CODE-Di-IMatrix-MAX-GGUF",
+      "displayName": "Qwen3.6 27B Heretic Uncensored FINETUNE NEO CODE Di IMatrix MAX",
+      "downloads": 126660
     },
     {
       "id": "Jackrong/Qwen3.5-9B-DeepSeek-V4-Flash-GGUF",
