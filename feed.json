@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-08T20:55:53Z",
+  "updated": "2026-05-08T22:52:39Z",
   "news": [
     {
       "title": "Intel\u2019s comeback story is even wilder than it seems",
@@ -189,14 +189,14 @@
       "downloads": 5077
     },
     {
-      "id": "unsloth/Qwen3.6-27B-GGUF",
-      "displayName": "Qwen3.6 27B",
-      "downloads": 1312422
-    },
-    {
       "id": "Jackrong/Qwopus3.6-35B-A3B-v1-GGUF",
       "displayName": "Qwopus3.6 35B A3B v1",
       "downloads": 18981
+    },
+    {
+      "id": "unsloth/Qwen3.6-27B-GGUF",
+      "displayName": "Qwen3.6 27B",
+      "downloads": 1312422
     },
     {
       "id": "unsloth/Qwen3.6-35B-A3B-GGUF",
