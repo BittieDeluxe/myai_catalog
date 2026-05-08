@@ -2295,7 +2295,7 @@
           "downloadURL": "https://huggingface.co/bartowski/dolphin-2.9-llama3-8b-GGUF/resolve/main/dolphin-2.9-llama3-8b-Q2_K.gguf",
           "filename": "dolphin-2.9-llama3-8b-Q2_K.gguf",
           "badge": null,
-          "hfDownloads": 43051,
+          "hfDownloads": 43439,
           "quantization": "Q2_K"
         },
         {
@@ -2307,7 +2307,7 @@
           "downloadURL": "https://huggingface.co/bartowski/dolphin-2.9-llama3-8b-GGUF/resolve/main/dolphin-2.9-llama3-8b-Q3_K_M.gguf",
           "filename": "dolphin-2.9-llama3-8b-Q3_K_M.gguf",
           "badge": "Most Compatible",
-          "hfDownloads": 43051,
+          "hfDownloads": 43439,
           "quantization": "Q3_K_M"
         },
         {
@@ -2319,7 +2319,7 @@
           "downloadURL": "https://huggingface.co/bartowski/dolphin-2.9-llama3-8b-GGUF/resolve/main/dolphin-2.9-llama3-8b-Q4_K_S.gguf",
           "filename": "dolphin-2.9-llama3-8b-Q4_K_S.gguf",
           "badge": null,
-          "hfDownloads": 43051,
+          "hfDownloads": 43439,
           "quantization": "Q4_K_S"
         },
         {
@@ -2331,7 +2331,7 @@
           "downloadURL": "https://huggingface.co/bartowski/dolphin-2.9-llama3-8b-GGUF/resolve/main/dolphin-2.9-llama3-8b-Q4_K_M.gguf",
           "filename": "dolphin-2.9-llama3-8b-Q4_K_M.gguf",
           "badge": null,
-          "hfDownloads": 43051,
+          "hfDownloads": 43439,
           "quantization": "Q4_K_M"
         },
         {
@@ -2343,7 +2343,7 @@
           "downloadURL": "https://huggingface.co/bartowski/dolphin-2.9-llama3-8b-GGUF/resolve/main/dolphin-2.9-llama3-8b-Q4_0.gguf",
           "filename": "dolphin-2.9-llama3-8b-Q4_0.gguf",
           "badge": null,
-          "hfDownloads": 43051,
+          "hfDownloads": 43439,
           "quantization": "Q4_0"
         },
         {
@@ -2355,7 +2355,7 @@
           "downloadURL": "https://huggingface.co/bartowski/dolphin-2.9-llama3-8b-GGUF/resolve/main/dolphin-2.9-llama3-8b-Q5_K_M.gguf",
           "filename": "dolphin-2.9-llama3-8b-Q5_K_M.gguf",
           "badge": null,
-          "hfDownloads": 43051,
+          "hfDownloads": 43439,
           "quantization": "Q5_K_M"
         },
         {
@@ -2367,7 +2367,7 @@
           "downloadURL": "https://huggingface.co/bartowski/dolphin-2.9-llama3-8b-GGUF/resolve/main/dolphin-2.9-llama3-8b-Q6_K.gguf",
           "filename": "dolphin-2.9-llama3-8b-Q6_K.gguf",
           "badge": null,
-          "hfDownloads": 43051,
+          "hfDownloads": 43439,
           "quantization": "Q6_K"
         },
         {
@@ -2379,7 +2379,7 @@
           "downloadURL": "https://huggingface.co/bartowski/dolphin-2.9-llama3-8b-GGUF/resolve/main/dolphin-2.9-llama3-8b-Q8_0.gguf",
           "filename": "dolphin-2.9-llama3-8b-Q8_0.gguf",
           "badge": "High Quality",
-          "hfDownloads": 43051,
+          "hfDownloads": 43439,
           "quantization": "Q8_0"
         },
         {
