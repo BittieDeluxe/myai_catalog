@@ -1,6 +1,20 @@
 {
-  "updated": "2026-05-08T17:11:45Z",
+  "updated": "2026-05-08T19:11:46Z",
   "news": [
+    {
+      "title": "All the latest updates on AI data centers",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy",
+      "source": "The Verge",
+      "publishedAt": "2026-05-08T18:45:08Z",
+      "snippet": "Massive new data centers are the physical foundation for tech companies\u2019 hopes and dreams for AI. But the rush to expand warehouses full of energy-hungry servers has also kicked up fights across the w"
+    },
+    {
+      "title": "Cloudflare says AI made 1,100 jobs obsolete, even as revenue hit a record high",
+      "url": "https://techcrunch.com/2026/05/08/cloudflare-says-ai-made-1100-jobs-obsolete-even-as-revenue-hit-a-record-high/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-05-08T18:33:21Z",
+      "snippet": "CloudFlare announced its first large-scale layoff. CEO Matthew Prince says because of AI efficiency gains, the company doesn't need as many support roles."
+    },
     {
       "title": "PlayStation sees AI as a \u2018powerful tool\u2019 to help make games",
       "url": "https://www.theverge.com/games/926914/sony-playstation-ai-powerful-tool-games",
@@ -156,25 +170,11 @@
       "snippet": "Save to Spotify is a new command-line tool designed specifically for AI agents like OpenClaw, Claude Code, or OpenAI Codex. If you're the kind of person who collects research on a topic, then feeds it"
     },
     {
-      "title": "Google\u2019s taking a big swing at AI health with the Fitbit Air",
-      "url": "https://www.theverge.com/gadgets/925458/google-health-fitbit-air-ai-coaching-wearables-fitness-trackers",
-      "source": "The Verge",
-      "publishedAt": "2026-05-07T14:00:00Z",
-      "snippet": "It's a Whoop dupe. That was my first thought when I saw the new $99 Google Fitbit Air. You can hardly blame me. The band is screenless with a metallic fabric clasp. My eyes flickered between the Fitbi"
-    },
-    {
       "title": "2 days left: Get 50% off a second pass\u00a0to TechCrunch Disrupt 2026",
       "url": "https://techcrunch.com/2026/05/07/2-days-left-get-50-off-a-second-pass-to-techcrunch-disrupt-2026/",
       "source": "TechCrunch",
       "publishedAt": "2026-05-07T14:00:00Z",
       "snippet": "Two days left to save up to $410 on your pass, and get a second one at 50% off to TechCrunch Disrupt 2026. Offer ends May 8, 11:59 p.m. PT. Register now."
-    },
-    {
-      "title": "China\u2019s Moonshot AI raises $2B at $20B valuation as demand for open source AI skyrockets",
-      "url": "https://techcrunch.com/2026/05/07/chinas-moonshot-ai-raises-2b-at-20b-valuation-as-demand-for-open-source-ai-skyrockets/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-05-07T13:44:25Z",
-      "snippet": "Moonshot's annualized recurring revenue topped $200 million in April, driven by rapid growth in paid subscriptions and API usage."
     }
   ],
   "trending": [
