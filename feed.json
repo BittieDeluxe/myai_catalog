@@ -1,6 +1,27 @@
 {
-  "updated": "2026-05-08T15:18:32Z",
+  "updated": "2026-05-08T17:11:45Z",
   "news": [
+    {
+      "title": "PlayStation sees AI as a \u2018powerful tool\u2019 to help make games",
+      "url": "https://www.theverge.com/games/926914/sony-playstation-ai-powerful-tool-games",
+      "source": "The Verge",
+      "publishedAt": "2026-05-08T16:30:56Z",
+      "snippet": "As part of an earnings presentation on Friday, Sony shared how it's thinking about AI at the company, including many details about how it's evaluating AI as part of making PlayStation games. Generativ"
+    },
+    {
+      "title": "The \u201cpeople\u2019s airline\u201d and the enterprise AI gold rush",
+      "url": "https://techcrunch.com/podcast/the-peoples-airline-and-the-enterprise-ai-gold-rush/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-05-08T15:46:17Z",
+      "snippet": "Everyone wants a piece of the&#160;enterprise&#160;AI pie, and this week, we saw a string of companies making their moves. From&#160;Anthropic and OpenAI announcing new joint ventures&#160;targeting e"
+    },
+    {
+      "title": "Microsoft was worried OpenAI would run off to Amazon and \u2018shit-talk\u2019 Azure",
+      "url": "https://www.theverge.com/report/926771/microsoft-openai-amazon-worries-shit-talk-azure",
+      "source": "The Verge",
+      "publishedAt": "2026-05-08T15:25:02Z",
+      "snippet": "When OpenAI was busy experimenting with AI-powered gaming bots, Microsoft CEO Satya Nadella and OpenAI CEO Sam Altman were in the early days of forming an AI partnership. Court documents from the ongo"
+    },
     {
       "title": "Last 24 hours to get 50% off a second pass to TechCrunch Disrupt 2026",
       "url": "https://techcrunch.com/2026/05/08/last-24-hours-to-get-50-off-a-second-pass-to-techcrunch-disrupt-2026/",
@@ -16,7 +37,7 @@
       "snippet": "Sometimes, companies pick CEOs based on carefully laid succession plans designed to maximize investor confidence and future performance. Other times, apparently, companies pick CEOs based on a bunch o"
     },
     {
-      "title": "Why you can never get your doctor to call you back",
+      "title": "The fax machine is the bottleneck in US healthcare, and VCs are starting to notice",
       "url": "https://techcrunch.com/2026/05/07/the-back-office-problem-that-explains-why-specialists-never-call-you-back/",
       "source": "TechCrunch",
       "publishedAt": "2026-05-08T04:42:29Z",
@@ -154,27 +175,6 @@
       "source": "TechCrunch",
       "publishedAt": "2026-05-07T13:44:25Z",
       "snippet": "Moonshot's annualized recurring revenue topped $200 million in April, driven by rapid growth in paid subscriptions and API usage."
-    },
-    {
-      "title": "Spotify wants to become the home for AI-generated personal audio",
-      "url": "https://techcrunch.com/2026/05/07/spotify-wants-to-become-the-home-for-ai-generated-personal-audio/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-05-07T13:00:00Z",
-      "snippet": "Users will be able to create a podcast from Codex or Claude Code and import it to Spotify."
-    },
-    {
-      "title": "Musk\u2019s biggest loyalist became his biggest liability",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/925665/musk-altman-trial-shivon-zilis-testimony",
-      "source": "The Verge",
-      "publishedAt": "2026-05-06T23:37:02Z",
-      "snippet": "I sat down in the Musk v. Altman trial courtroom today, painfully aware that no one was going to ask Shivon Zilis the question on everyone's minds: Girl, what the fuck are you doing? Zilis, who testif"
-    },
-    {
-      "title": "Google shuts down Project Mariner",
-      "url": "https://www.theverge.com/tech/925559/google-project-mariner-shut-down",
-      "source": "The Verge",
-      "publishedAt": "2026-05-06T21:21:45Z",
-      "snippet": "Google has pulled the plug on Project Mariner, an experimental feature designed to perform tasks for you across the web, as reported earlier by Wired's Maxwell Zeff. The Project Mariner landing page n"
     }
   ],
   "trending": [
