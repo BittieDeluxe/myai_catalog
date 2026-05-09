@@ -1,6 +1,13 @@
 {
-  "updated": "2026-05-09T20:39:58Z",
+  "updated": "2026-05-09T22:38:14Z",
   "news": [
+    {
+      "title": "So you\u2019ve heard these AI terms and nodded along; let\u2019s fix that",
+      "url": "https://techcrunch.com/2026/05/09/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-05-09T21:45:00Z",
+      "snippet": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter."
+    },
     {
       "title": "Nvidia has already committed $40B to equity AI deals this year",
       "url": "https://techcrunch.com/2026/05/09/nvidia-has-already-committed-40b-to-equity-ai-deals-this-year/",
@@ -168,13 +175,6 @@
       "source": "TechCrunch",
       "publishedAt": "2026-05-07T16:05:48Z",
       "snippet": "Security researchers at Mozilla say Anthropic's Mythos has unearthed a wealth of high-severity bugs in Firefox."
-    },
-    {
-      "title": "Startup Battlefield 200 applications\u00a0close May 27:\u00a0A shot at VC access, global visibility, TechCrunch coverage, and $100K",
-      "url": "https://techcrunch.com/2026/05/07/startup-battlefield-200-applications-close-may-27-a-shot-at-vc-access-global-visibility-techcrunch-coverage-and-100k/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-05-07T15:00:00Z",
-      "snippet": "Startup Battlefield 200 applications are open, but only for three more weeks. Apply by May 27 for your shot at VC access, global visibility, TechCrunch coverage, $100,000 equity-free, and more opportu"
     }
   ],
   "trending": [
