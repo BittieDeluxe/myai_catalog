@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-09T06:12:10Z",
+  "updated": "2026-05-09T09:15:37Z",
   "news": [
     {
       "title": "Laid-off Oracle workers tried to negotiate better severance. Oracle said no.",
@@ -181,42 +181,42 @@
     {
       "id": "SulphurAI/Sulphur-2-base",
       "displayName": "Sulphur 2 base",
-      "downloads": 92968
+      "downloads": 115477
     },
     {
       "id": "SeeSee21/Z-Anime",
       "displayName": "Z Anime",
-      "downloads": 5077
+      "downloads": 8433
     },
     {
       "id": "Jackrong/Qwopus3.6-35B-A3B-v1-GGUF",
       "displayName": "Qwopus3.6 35B A3B v1",
-      "downloads": 18981
+      "downloads": 33515
     },
     {
       "id": "unsloth/Qwen3.6-27B-GGUF",
       "displayName": "Qwen3.6 27B",
-      "downloads": 1312422
+      "downloads": 1355414
     },
     {
       "id": "DavidAU/Qwen3.6-27B-Heretic-Uncensored-FINETUNE-NEO-CODE-Di-IMatrix-MAX-GGUF",
       "displayName": "Qwen3.6 27B Heretic Uncensored FINETUNE NEO CODE Di IMatrix MAX",
-      "downloads": 143853
+      "downloads": 161548
     },
     {
       "id": "unsloth/Qwen3.6-35B-A3B-GGUF",
       "displayName": "Qwen3.6 35B A3B",
-      "downloads": 2500343
+      "downloads": 2581735
     },
     {
       "id": "Jackrong/Qwen3.5-9B-DeepSeek-V4-Flash-GGUF",
       "displayName": "Qwen3.5 9B DeepSeek V4 Flash",
-      "downloads": 128635
+      "downloads": 146609
     },
     {
       "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
       "displayName": "Qwen3.6 35B A3B Uncensored HauhauCS Aggressive",
-      "downloads": 996892
+      "downloads": 1061556
     },
     {
       "id": "RuneXX/LTX-2.3-Workflows",
@@ -226,7 +226,7 @@
     {
       "id": "HauhauCS/Qwen3.6-27B-Uncensored-HauhauCS-Aggressive",
       "displayName": "Qwen3.6 27B Uncensored HauhauCS Aggressive",
-      "downloads": 439140
+      "downloads": 453612
     }
   ]
 }
