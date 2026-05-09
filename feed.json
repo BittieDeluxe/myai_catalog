@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-09T14:46:55Z",
+  "updated": "2026-05-09T16:50:31Z",
   "news": [
     {
       "title": "Nvidia has already committed $40B to equity AI deals this year",
@@ -224,9 +224,9 @@
       "downloads": 0
     },
     {
-      "id": "HauhauCS/Qwen3.6-27B-Uncensored-HauhauCS-Aggressive",
-      "displayName": "Qwen3.6 27B Uncensored HauhauCS Aggressive",
-      "downloads": 453612
+      "id": "havenoammo/Qwen3.6-27B-MTP-UD-GGUF",
+      "displayName": "Qwen3.6 27B MTP UD",
+      "downloads": 32065
     }
   ]
 }
