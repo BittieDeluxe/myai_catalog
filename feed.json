@@ -1,6 +1,13 @@
 {
-  "updated": "2026-05-08T22:52:39Z",
+  "updated": "2026-05-09T02:32:45Z",
   "news": [
+    {
+      "title": "Laid-off Oracle workers tried to negotiate better severance. Oracle said no.",
+      "url": "https://techcrunch.com/2026/05/08/laid-off-oracle-workers-tried-to-negotiate-better-severance-oracle-said-no/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-05-08T22:59:05Z",
+      "snippet": "Some found out they didn't qualify for WARN Act protections like two-months notice because the company had classified them as remote workers."
+    },
     {
       "title": "Intel\u2019s comeback story is even wilder than it seems",
       "url": "https://techcrunch.com/2026/05/08/intels-comeback-story-is-even-wilder-than-it-seems/",
@@ -168,13 +175,6 @@
       "source": "TechCrunch",
       "publishedAt": "2026-05-07T14:30:00Z",
       "snippet": "If startup visibility, traction, and real deals matter, you should be on the TechCrunch Disrupt 2026 exhibit floor. Get your 6' exhibit table before your competitor does."
-    },
-    {
-      "title": "Aurora\u2019s Chris Urmson on why self-driving trucks are finally ready\u00a0to scale",
-      "url": "https://techcrunch.com/podcast/auroras-chris-urmson-on-why-self-driving-trucks-are-finally-ready-to-scale/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-05-07T14:24:54Z",
-      "snippet": "Self-driving has been &#8220;almost here&#8221; for over a decade. But somewhere between DARPA&#160;challenges&#160;and a handful of driverless trucks hauling freight between Dallas and Houston, Auror"
     }
   ],
   "trending": [
@@ -199,14 +199,14 @@
       "downloads": 1312422
     },
     {
-      "id": "unsloth/Qwen3.6-35B-A3B-GGUF",
-      "displayName": "Qwen3.6 35B A3B",
-      "downloads": 2500343
-    },
-    {
       "id": "DavidAU/Qwen3.6-27B-Heretic-Uncensored-FINETUNE-NEO-CODE-Di-IMatrix-MAX-GGUF",
       "displayName": "Qwen3.6 27B Heretic Uncensored FINETUNE NEO CODE Di IMatrix MAX",
       "downloads": 143853
+    },
+    {
+      "id": "unsloth/Qwen3.6-35B-A3B-GGUF",
+      "displayName": "Qwen3.6 35B A3B",
+      "downloads": 2500343
     },
     {
       "id": "Jackrong/Qwen3.5-9B-DeepSeek-V4-Flash-GGUF",
