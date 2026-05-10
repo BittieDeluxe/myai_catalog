@@ -1,6 +1,13 @@
 {
-  "updated": "2026-05-10T20:42:08Z",
+  "updated": "2026-05-10T22:42:04Z",
   "news": [
+    {
+      "title": "Get ready for the whisper-filled office of the future",
+      "url": "https://techcrunch.com/2026/05/10/get-ready-for-the-whisper-filled-office-of-the-future/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-05-10T21:15:30Z",
+      "snippet": "How will work setups change if we spend more and more time talking to our computers?"
+    },
     {
       "title": "Anthropic says \u2018evil\u2019 portrayals of AI were responsible for Claude\u2019s blackmail attempts",
       "url": "https://techcrunch.com/2026/05/10/anthropic-says-evil-portrayals-of-ai-were-responsible-for-claudes-blackmail-attempts/",
@@ -135,13 +142,6 @@
       "snippet": "The company is expanding its efforts to protect ChatGPT users in cases where conversations may turn to self-harm."
     },
     {
-      "title": "Perplexity\u2019s Personal Computer is now available to everyone on Mac",
-      "url": "https://techcrunch.com/2026/05/07/perplexitys-personal-computer-is-now-available-everyone-on-mac/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-05-07T19:57:59Z",
-      "snippet": "Perplexity's Personal Computer brings AI agents to your Mac, and is now open to everyone."
-    },
-    {
       "title": "Mira Murati\u2019s deposition pulled back the curtain on Sam Altman\u2019s ouster",
       "url": "https://www.theverge.com/ai-artificial-intelligence/926383/mira-murati-sam-altman-musk-trial-ouster",
       "source": "The Verge",
@@ -194,14 +194,14 @@
       "downloads": 53096
     },
     {
-      "id": "unsloth/Qwen3.6-27B-GGUF",
-      "displayName": "Qwen3.6 27B",
-      "downloads": 1412778
-    },
-    {
       "id": "unsloth/Qwen3.6-35B-A3B-GGUF",
       "displayName": "Qwen3.6 35B A3B",
       "downloads": 2657295
+    },
+    {
+      "id": "unsloth/Qwen3.6-27B-GGUF",
+      "displayName": "Qwen3.6 27B",
+      "downloads": 1412778
     },
     {
       "id": "DavidAU/Qwen3.6-27B-Heretic-Uncensored-FINETUNE-NEO-CODE-Di-IMatrix-MAX-GGUF",
@@ -219,14 +219,14 @@
       "downloads": 1090203
     },
     {
-      "id": "Jackrong/Qwen3.5-9B-DeepSeek-V4-Flash-GGUF",
-      "displayName": "Qwen3.5 9B DeepSeek V4 Flash",
-      "downloads": 163496
-    },
-    {
       "id": "RuneXX/LTX-2.3-Workflows",
       "displayName": "LTX 2.3 Workflows",
       "downloads": 0
+    },
+    {
+      "id": "Jackrong/Qwen3.5-9B-DeepSeek-V4-Flash-GGUF",
+      "displayName": "Qwen3.5 9B DeepSeek V4 Flash",
+      "downloads": 163496
     }
   ]
 }
