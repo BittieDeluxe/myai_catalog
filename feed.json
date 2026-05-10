@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-10T10:57:53Z",
+  "updated": "2026-05-10T13:09:43Z",
   "news": [
     {
       "title": "Voice AI in India is hard. Wispr Flow is betting on it anyway.",
@@ -194,14 +194,14 @@
       "downloads": 53096
     },
     {
-      "id": "unsloth/Qwen3.6-35B-A3B-GGUF",
-      "displayName": "Qwen3.6 35B A3B",
-      "downloads": 2657295
-    },
-    {
       "id": "unsloth/Qwen3.6-27B-GGUF",
       "displayName": "Qwen3.6 27B",
       "downloads": 1412778
+    },
+    {
+      "id": "unsloth/Qwen3.6-35B-A3B-GGUF",
+      "displayName": "Qwen3.6 35B A3B",
+      "downloads": 2657295
     },
     {
       "id": "DavidAU/Qwen3.6-27B-Heretic-Uncensored-FINETUNE-NEO-CODE-Di-IMatrix-MAX-GGUF",
