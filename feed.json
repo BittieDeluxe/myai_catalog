@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-10T06:30:35Z",
+  "updated": "2026-05-10T09:25:33Z",
   "news": [
     {
       "title": "Voice AI in India is hard. Wispr Flow is betting on it anyway.",
@@ -181,47 +181,47 @@
     {
       "id": "SulphurAI/Sulphur-2-base",
       "displayName": "Sulphur 2 base",
-      "downloads": 115477
+      "downloads": 144251
     },
     {
       "id": "SeeSee21/Z-Anime",
       "displayName": "Z Anime",
-      "downloads": 8433
+      "downloads": 8994
     },
     {
       "id": "Jackrong/Qwopus3.6-35B-A3B-v1-GGUF",
       "displayName": "Qwopus3.6 35B A3B v1",
-      "downloads": 33515
-    },
-    {
-      "id": "unsloth/Qwen3.6-27B-GGUF",
-      "displayName": "Qwen3.6 27B",
-      "downloads": 1355414
+      "downloads": 53096
     },
     {
       "id": "unsloth/Qwen3.6-35B-A3B-GGUF",
       "displayName": "Qwen3.6 35B A3B",
-      "downloads": 2581735
+      "downloads": 2657295
+    },
+    {
+      "id": "unsloth/Qwen3.6-27B-GGUF",
+      "displayName": "Qwen3.6 27B",
+      "downloads": 1412778
     },
     {
       "id": "DavidAU/Qwen3.6-27B-Heretic-Uncensored-FINETUNE-NEO-CODE-Di-IMatrix-MAX-GGUF",
       "displayName": "Qwen3.6 27B Heretic Uncensored FINETUNE NEO CODE Di IMatrix MAX",
-      "downloads": 161548
+      "downloads": 181147
     },
     {
       "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
       "displayName": "Qwen3.6 35B A3B Uncensored HauhauCS Aggressive",
-      "downloads": 1061556
-    },
-    {
-      "id": "Jackrong/Qwen3.5-9B-DeepSeek-V4-Flash-GGUF",
-      "displayName": "Qwen3.5 9B DeepSeek V4 Flash",
-      "downloads": 146609
+      "downloads": 1090203
     },
     {
       "id": "havenoammo/Qwen3.6-27B-MTP-UD-GGUF",
       "displayName": "Qwen3.6 27B MTP UD",
-      "downloads": 32065
+      "downloads": 39384
+    },
+    {
+      "id": "Jackrong/Qwen3.5-9B-DeepSeek-V4-Flash-GGUF",
+      "displayName": "Qwen3.5 9B DeepSeek V4 Flash",
+      "downloads": 163496
     },
     {
       "id": "RuneXX/LTX-2.3-Workflows",
