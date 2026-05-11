@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-11T02:46:12Z",
+  "updated": "2026-05-11T07:37:23Z",
   "news": [
     {
       "title": "Get ready for the whisper-filled office of the future",
@@ -181,52 +181,52 @@
     {
       "id": "SulphurAI/Sulphur-2-base",
       "displayName": "Sulphur 2 base",
-      "downloads": 144251
+      "downloads": 157648
     },
     {
       "id": "SeeSee21/Z-Anime",
       "displayName": "Z Anime",
-      "downloads": 8994
+      "downloads": 9477
     },
     {
       "id": "Jackrong/Qwopus3.6-35B-A3B-v1-GGUF",
       "displayName": "Qwopus3.6 35B A3B v1",
-      "downloads": 53096
+      "downloads": 67205
     },
     {
       "id": "unsloth/Qwen3.6-35B-A3B-GGUF",
       "displayName": "Qwen3.6 35B A3B",
-      "downloads": 2657295
+      "downloads": 2733708
     },
     {
       "id": "unsloth/Qwen3.6-27B-GGUF",
       "displayName": "Qwen3.6 27B",
-      "downloads": 1412778
+      "downloads": 1468142
     },
     {
       "id": "DavidAU/Qwen3.6-27B-Heretic-Uncensored-FINETUNE-NEO-CODE-Di-IMatrix-MAX-GGUF",
       "displayName": "Qwen3.6 27B Heretic Uncensored FINETUNE NEO CODE Di IMatrix MAX",
-      "downloads": 181147
+      "downloads": 197110
     },
     {
       "id": "havenoammo/Qwen3.6-27B-MTP-UD-GGUF",
       "displayName": "Qwen3.6 27B MTP UD",
-      "downloads": 39384
+      "downloads": 43428
     },
     {
       "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
       "displayName": "Qwen3.6 35B A3B Uncensored HauhauCS Aggressive",
-      "downloads": 1090203
+      "downloads": 1132353
+    },
+    {
+      "id": "Jackrong/Qwen3.5-9B-DeepSeek-V4-Flash-GGUF",
+      "displayName": "Qwen3.5 9B DeepSeek V4 Flash",
+      "downloads": 178233
     },
     {
       "id": "RuneXX/LTX-2.3-Workflows",
       "displayName": "LTX 2.3 Workflows",
       "downloads": 0
-    },
-    {
-      "id": "Jackrong/Qwen3.5-9B-DeepSeek-V4-Flash-GGUF",
-      "displayName": "Qwen3.5 9B DeepSeek V4 Flash",
-      "downloads": 163496
     }
   ]
 }
