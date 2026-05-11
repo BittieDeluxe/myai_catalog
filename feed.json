@@ -1,12 +1,19 @@
 {
-  "updated": "2026-05-11T21:13:33Z",
+  "updated": "2026-05-11T22:50:35Z",
   "news": [
+    {
+      "title": "Here&#8217;s what Mira Murati&#8217;s AI company is up to",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/928309/mira-murati-thinking-machines-ai-interaction-model",
+      "source": "The Verge",
+      "publishedAt": "2026-05-11T22:19:15Z",
+      "snippet": "Thinking Machines, the AI company founded by former OpenAI CTO Mira Murati, announced Monday that it's working on something called \"interaction models.\" The idea behind interaction models, according t"
+    },
     {
       "title": "Digg tries again, this time as an AI news aggregator",
       "url": "https://techcrunch.com/2026/05/11/digg-tries-again-this-time-as-an-ai-news-aggregator/",
       "source": "TechCrunch",
       "publishedAt": "2026-05-11T17:02:35Z",
-      "snippet": "Digg returns (again) as another place to read AI news."
+      "snippet": "In an email to beta testers, the company said the site's goal is to \"track the most influential voices in a space\" and to surface the news that's actually worth \"paying attention to.\""
     },
     {
       "title": "Google stopped a zero-day hack that it says was developed with AI",
@@ -168,13 +175,6 @@
       "source": "The Verge",
       "publishedAt": "2026-05-07T19:55:22Z",
       "snippet": "The week leading up to Thanksgiving 2023 was the AI industry's biggest soap opera moment. OpenAI CEO Sam Altman was abruptly ousted from his role at the ChatGPT maker. The explanation? That Altman was"
-    },
-    {
-      "title": "Apple&#8217;s AirPods with cameras for AI are apparently close to production",
-      "url": "https://www.theverge.com/tech/926376/apple-airpods-cameras-ai-production",
-      "source": "The Verge",
-      "publishedAt": "2026-05-07T19:39:22Z",
-      "snippet": "Apple's rumored AirPods with cameras are nearing a stage where the company will test early mass production, Bloomberg's Mark Gurman reports. Currently, Apple testers are \"actively using\" prototypes th"
     }
   ],
   "trending": [
@@ -194,19 +194,14 @@
       "downloads": 67205
     },
     {
-      "id": "unsloth/Qwen3.6-35B-A3B-GGUF",
-      "displayName": "Qwen3.6 35B A3B",
-      "downloads": 2733708
-    },
-    {
       "id": "unsloth/Qwen3.6-27B-GGUF",
       "displayName": "Qwen3.6 27B",
       "downloads": 1468142
     },
     {
-      "id": "DavidAU/Qwen3.6-27B-Heretic-Uncensored-FINETUNE-NEO-CODE-Di-IMatrix-MAX-GGUF",
-      "displayName": "Qwen3.6 27B Heretic Uncensored FINETUNE NEO CODE Di IMatrix MAX",
-      "downloads": 197110
+      "id": "unsloth/Qwen3.6-35B-A3B-GGUF",
+      "displayName": "Qwen3.6 35B A3B",
+      "downloads": 2733708
     },
     {
       "id": "havenoammo/Qwen3.6-27B-MTP-UD-GGUF",
@@ -214,19 +209,24 @@
       "downloads": 43428
     },
     {
+      "id": "DavidAU/Qwen3.6-27B-Heretic-Uncensored-FINETUNE-NEO-CODE-Di-IMatrix-MAX-GGUF",
+      "displayName": "Qwen3.6 27B Heretic Uncensored FINETUNE NEO CODE Di IMatrix MAX",
+      "downloads": 197110
+    },
+    {
       "id": "RuneXX/LTX-2.3-Workflows",
       "displayName": "LTX 2.3 Workflows",
       "downloads": 0
     },
     {
-      "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
-      "displayName": "Qwen3.6 35B A3B Uncensored HauhauCS Aggressive",
-      "downloads": 1132353
-    },
-    {
       "id": "havenoammo/Qwen3.6-35B-A3B-MTP-GGUF",
       "displayName": "Qwen3.6 35B A3B MTP",
       "downloads": 16649
+    },
+    {
+      "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
+      "displayName": "Qwen3.6 35B A3B Uncensored HauhauCS Aggressive",
+      "downloads": 1132353
     }
   ]
 }
