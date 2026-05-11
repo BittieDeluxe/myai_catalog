@@ -1,6 +1,20 @@
 {
-  "updated": "2026-05-11T10:57:35Z",
+  "updated": "2026-05-11T14:41:31Z",
   "news": [
+    {
+      "title": "Joanna Stern is not a robot, but she lived with them",
+      "url": "https://www.theverge.com/podcast/926752/joanna-stern-i-am-not-a-robot-new-things-media-youtube-ai-automation",
+      "source": "The Verge",
+      "publishedAt": "2026-05-11T14:00:00Z",
+      "snippet": "My guest today is longtime friend of the show Joanna Stern. You all know Joanna: she is the former senior personal technology columnist for The Wall Street Journal, a former Decoder guest host, one of"
+    },
+    {
+      "title": "There aren\u2019t enough rockets for space data centers. Cowboy Space raised $275 million to build them.",
+      "url": "https://techcrunch.com/2026/05/11/there-arent-enough-rockets-for-space-data-centers-cowboy-space-raised-275-million-to-build-them/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-05-11T13:00:00Z",
+      "snippet": "Cowboy Space Corporation wants to put data centers in orbit. First, it has to build the rockets to get them there."
+    },
     {
       "title": "Get ready for the whisper-filled office of the future",
       "url": "https://techcrunch.com/2026/05/10/get-ready-for-the-whisper-filled-office-of-the-future/",
@@ -135,13 +149,6 @@
       "snippet": "AI startup Pit is led by the co-founders of European scooter giant Voi and backed by a16z, which is leading the startup\u2019s $16 million seed round."
     },
     {
-      "title": "OpenAI introduces new \u2018Trusted Contact\u2019 safeguard for cases of possible self-harm",
-      "url": "https://techcrunch.com/2026/05/07/openai-introduces-new-trusted-contact-safeguard-for-cases-of-possible-self-harm/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-05-07T20:20:20Z",
-      "snippet": "The company is expanding its efforts to protect ChatGPT users in cases where conversations may turn to self-harm."
-    },
-    {
       "title": "Mira Murati\u2019s deposition pulled back the curtain on Sam Altman\u2019s ouster",
       "url": "https://www.theverge.com/ai-artificial-intelligence/926383/mira-murati-sam-altman-musk-trial-ouster",
       "source": "The Verge",
@@ -168,13 +175,6 @@
       "source": "The Verge",
       "publishedAt": "2026-05-07T18:00:00Z",
       "snippet": "OpenAI is launching an optional safety feature for ChatGPT that allows adult users to assign an emergency contact for mental health and safety concerns. Friends, family members, or caregivers designat"
-    },
-    {
-      "title": "Live updates from Elon Musk and Sam Altman\u2019s court battle over the future of OpenAI",
-      "url": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
-      "source": "The Verge",
-      "publishedAt": "2026-05-07T17:40:50Z",
-      "snippet": "Sam Altman and Elon Musk are facing off in a high-stakes trial that could alter the future of OpenAI and its most well-known product, ChatGPT. In 2024, Musk filed a lawsuit accusing OpenAI of abandoni"
     }
   ],
   "trending": [
@@ -214,6 +214,11 @@
       "downloads": 43428
     },
     {
+      "id": "RuneXX/LTX-2.3-Workflows",
+      "displayName": "LTX 2.3 Workflows",
+      "downloads": 0
+    },
+    {
       "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
       "displayName": "Qwen3.6 35B A3B Uncensored HauhauCS Aggressive",
       "downloads": 1132353
@@ -222,11 +227,6 @@
       "id": "Jackrong/Qwen3.5-9B-DeepSeek-V4-Flash-GGUF",
       "displayName": "Qwen3.5 9B DeepSeek V4 Flash",
       "downloads": 178233
-    },
-    {
-      "id": "RuneXX/LTX-2.3-Workflows",
-      "displayName": "LTX 2.3 Workflows",
-      "downloads": 0
     }
   ]
 }
