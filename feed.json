@@ -1,6 +1,27 @@
 {
-  "updated": "2026-05-11T14:41:31Z",
+  "updated": "2026-05-11T17:51:49Z",
   "news": [
+    {
+      "title": "Digg tries again, this time as an AI news aggregator",
+      "url": "https://techcrunch.com/2026/05/11/digg-tries-again-this-time-as-an-ai-news-aggregator/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-05-11T17:02:35Z",
+      "snippet": "Digg returns (again) as another place to read AI news."
+    },
+    {
+      "title": "Google stopped a zero-day hack that it says was developed with AI",
+      "url": "https://www.theverge.com/tech/928007/google-ai-zero-day-exploit-stopped",
+      "source": "The Verge",
+      "publishedAt": "2026-05-11T16:09:42Z",
+      "snippet": "For the first time, Google says it has spotted and stopped a zero-day exploit developed with AI. According to a report from Google Threat Intelligence Group (GTIG), \"prominent cyber crime threat actor"
+    },
+    {
+      "title": "Live updates from Elon Musk and Sam Altman\u2019s court battle over the future of OpenAI",
+      "url": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
+      "source": "The Verge",
+      "publishedAt": "2026-05-11T15:27:12Z",
+      "snippet": "Sam Altman and Elon Musk are facing off in a high-stakes trial that could alter the future of OpenAI and its most well-known product, ChatGPT. In 2024, Musk filed a lawsuit accusing OpenAI of abandoni"
+    },
     {
       "title": "Joanna Stern is not a robot, but she lived with them",
       "url": "https://www.theverge.com/podcast/926752/joanna-stern-i-am-not-a-robot-new-things-media-youtube-ai-automation",
@@ -9,11 +30,11 @@
       "snippet": "My guest today is longtime friend of the show Joanna Stern. You all know Joanna: she is the former senior personal technology columnist for The Wall Street Journal, a former Decoder guest host, one of"
     },
     {
-      "title": "There aren\u2019t enough rockets for space data centers. Cowboy Space raised $275 million to build them.",
+      "title": "There aren\u2019t enough rockets for space data centers \u2014 Cowboy Space raised $275M to build them",
       "url": "https://techcrunch.com/2026/05/11/there-arent-enough-rockets-for-space-data-centers-cowboy-space-raised-275-million-to-build-them/",
       "source": "TechCrunch",
       "publishedAt": "2026-05-11T13:00:00Z",
-      "snippet": "Cowboy Space Corporation wants to put data centers in orbit. First, it has to build the rockets to get them there."
+      "snippet": "The apparently insatiable demand for AI compute has data center entrepreneurs looking to the stars. There's a key problem: There aren't enough rockets to put data centers in orbit around Earth, and th"
     },
     {
       "title": "Get ready for the whisper-filled office of the future",
@@ -142,13 +163,6 @@
       "snippet": "The new features could be handy for customer service systems, but OpenAI says they have applications that work across a variety of other fields, including education and creator platforms."
     },
     {
-      "title": "Voi founders\u2019 new AI startup Pit has become the latest rising star out of Stockholm",
-      "url": "https://techcrunch.com/2026/05/07/voi-founders-new-ai-startup-pit-has-become-the-latest-rising-star-out-of-stockholm/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-05-07T21:02:11Z",
-      "snippet": "AI startup Pit is led by the co-founders of European scooter giant Voi and backed by a16z, which is leading the startup\u2019s $16 million seed round."
-    },
-    {
       "title": "Mira Murati\u2019s deposition pulled back the curtain on Sam Altman\u2019s ouster",
       "url": "https://www.theverge.com/ai-artificial-intelligence/926383/mira-murati-sam-altman-musk-trial-ouster",
       "source": "The Verge",
@@ -161,20 +175,6 @@
       "source": "The Verge",
       "publishedAt": "2026-05-07T19:39:22Z",
       "snippet": "Apple's rumored AirPods with cameras are nearing a stage where the company will test early mass production, Bloomberg's Mark Gurman reports. Currently, Apple testers are \"actively using\" prototypes th"
-    },
-    {
-      "title": "SpaceX has a $55 billion plan to build AI chips in Texas",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/926356/spacex-terafab-plant-cost-ai-chips",
-      "source": "The Verge",
-      "publishedAt": "2026-05-07T19:26:16Z",
-      "snippet": "Elon Musk's plans to get into the AI chip manufacturing business are going to be costly. As the The New York Times and CNBC report, SpaceX is planning to invest at least $55 billion into its \"Terafab\""
-    },
-    {
-      "title": "ChatGPT&#8217;s &#8216;Trusted Contact&#8217; will alert loved ones of safety concerns",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/925874/chatgpt-trusted-contact-emergency-self-harm-notification",
-      "source": "The Verge",
-      "publishedAt": "2026-05-07T18:00:00Z",
-      "snippet": "OpenAI is launching an optional safety feature for ChatGPT that allows adult users to assign an emergency contact for mental health and safety concerns. Friends, family members, or caregivers designat"
     }
   ],
   "trending": [
