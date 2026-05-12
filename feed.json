@@ -1,6 +1,27 @@
 {
-  "updated": "2026-05-11T22:50:35Z",
+  "updated": "2026-05-12T02:38:41Z",
   "news": [
+    {
+      "title": "Riding an AI rally, Robinhood preps second retail venture IPO",
+      "url": "https://techcrunch.com/2026/05/11/riding-an-ai-rally-robinhood-preps-second-retail-venture-ipo/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-05-12T00:09:01Z",
+      "snippet": "Robinhood files confidentially for its second venture fund, this time targeting growth and early-stage startups."
+    },
+    {
+      "title": "OpenAI just released its answer to Claude Mythos",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/928342/openai-daybreak-security-ai",
+      "source": "The Verge",
+      "publishedAt": "2026-05-11T23:05:01Z",
+      "snippet": "OpenAI is launching Daybreak, an AI initiative focused on detecting and patching vulnerabilities before attackers find them. Daybreak uses the Codex Security AI agent that launched in March to create "
+    },
+    {
+      "title": "GM just laid off hundreds of IT workers to hire those with stronger AI skills",
+      "url": "https://techcrunch.com/2026/05/11/gm-just-laid-off-hundreds-of-it-workers-to-hire-those-with-stronger-ai-skills/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-05-11T23:04:10Z",
+      "snippet": "Some of the positions focus on AI-native development, data engineering and analytics, cloud-based engineering, and agent and model development as well as prompt engineering and new AI workflows."
+    },
     {
       "title": "Here&#8217;s what Mira Murati&#8217;s AI company is up to",
       "url": "https://www.theverge.com/ai-artificial-intelligence/928309/mira-murati-thinking-machines-ai-interaction-model",
@@ -154,27 +175,6 @@
       "source": "The Verge",
       "publishedAt": "2026-05-08T12:15:00Z",
       "snippet": "Smart lighting company Nanoleaf has been unusually quiet recently. While competitors such as Govee and Philips Hue have been pumping out new products and innovative features at an impressive pace, Nan"
-    },
-    {
-      "title": "The fax machine is the bottleneck in US healthcare, and VCs are starting to notice",
-      "url": "https://techcrunch.com/2026/05/07/the-back-office-problem-that-explains-why-specialists-never-call-you-back/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-05-08T04:42:29Z",
-      "snippet": "Like many AI companies automating work that humans currently do, Basata will eventually face a harder question about where the line is between augmenting workers and displacing them. For now, the foun"
-    },
-    {
-      "title": "OpenAI launches new voice intelligence features in its API",
-      "url": "https://techcrunch.com/2026/05/07/openai-launches-new-voice-intelligence-features-in-its-api/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-05-07T22:24:50Z",
-      "snippet": "The new features could be handy for customer service systems, but OpenAI says they have applications that work across a variety of other fields, including education and creator platforms."
-    },
-    {
-      "title": "Mira Murati\u2019s deposition pulled back the curtain on Sam Altman\u2019s ouster",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/926383/mira-murati-sam-altman-musk-trial-ouster",
-      "source": "The Verge",
-      "publishedAt": "2026-05-07T19:55:22Z",
-      "snippet": "The week leading up to Thanksgiving 2023 was the AI industry's biggest soap opera moment. OpenAI CEO Sam Altman was abruptly ousted from his role at the ChatGPT maker. The explanation? That Altman was"
     }
   ],
   "trending": [
@@ -194,14 +194,14 @@
       "downloads": 67205
     },
     {
-      "id": "unsloth/Qwen3.6-27B-GGUF",
-      "displayName": "Qwen3.6 27B",
-      "downloads": 1468142
-    },
-    {
       "id": "unsloth/Qwen3.6-35B-A3B-GGUF",
       "displayName": "Qwen3.6 35B A3B",
       "downloads": 2733708
+    },
+    {
+      "id": "unsloth/Qwen3.6-27B-GGUF",
+      "displayName": "Qwen3.6 27B",
+      "downloads": 1468142
     },
     {
       "id": "havenoammo/Qwen3.6-27B-MTP-UD-GGUF",
