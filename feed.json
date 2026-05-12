@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-12T21:15:33Z",
+  "updated": "2026-05-12T22:56:37Z",
   "news": [
     {
       "title": "Meta won\u2019t let you block its AI account on Threads",
@@ -209,14 +209,14 @@
       "downloads": 1468142
     },
     {
-      "id": "DavidAU/Qwen3.6-27B-Heretic-Uncensored-FINETUNE-NEO-CODE-Di-IMatrix-MAX-GGUF",
-      "displayName": "Qwen3.6 27B Heretic Uncensored FINETUNE NEO CODE Di IMatrix MAX",
-      "downloads": 197110
-    },
-    {
       "id": "Jiunsong/supergemma4-26b-uncensored-gguf-v2",
       "displayName": "supergemma4 26b uncensored v2",
       "downloads": 287827
+    },
+    {
+      "id": "DavidAU/Qwen3.6-27B-Heretic-Uncensored-FINETUNE-NEO-CODE-Di-IMatrix-MAX-GGUF",
+      "displayName": "Qwen3.6 27B Heretic Uncensored FINETUNE NEO CODE Di IMatrix MAX",
+      "downloads": 197110
     },
     {
       "id": "jackxinning/Leanly_AI",
@@ -224,9 +224,9 @@
       "downloads": 10425
     },
     {
-      "id": "RuneXX/LTX-2.3-Workflows",
-      "displayName": "LTX 2.3 Workflows",
-      "downloads": 0
+      "id": "antirez/deepseek-v4-gguf",
+      "displayName": "deepseek v4",
+      "downloads": 46417
     }
   ]
 }
