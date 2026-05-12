@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-12T06:34:00Z",
+  "updated": "2026-05-12T10:27:51Z",
   "news": [
     {
       "title": "Thinking Machines wants to build an AI that actually listens while it talks",
@@ -194,11 +194,6 @@
       "downloads": 67205
     },
     {
-      "id": "havenoammo/Qwen3.6-27B-MTP-UD-GGUF",
-      "displayName": "Qwen3.6 27B MTP UD",
-      "downloads": 43428
-    },
-    {
       "id": "unsloth/Qwen3.6-35B-A3B-GGUF",
       "displayName": "Qwen3.6 35B A3B",
       "downloads": 2733708
@@ -209,9 +204,19 @@
       "downloads": 1468142
     },
     {
+      "id": "havenoammo/Qwen3.6-27B-MTP-UD-GGUF",
+      "displayName": "Qwen3.6 27B MTP UD",
+      "downloads": 43428
+    },
+    {
       "id": "DavidAU/Qwen3.6-27B-Heretic-Uncensored-FINETUNE-NEO-CODE-Di-IMatrix-MAX-GGUF",
       "displayName": "Qwen3.6 27B Heretic Uncensored FINETUNE NEO CODE Di IMatrix MAX",
       "downloads": 197110
+    },
+    {
+      "id": "jackxinning/Leanly_AI",
+      "displayName": "Leanly_AI",
+      "downloads": 10425
     },
     {
       "id": "RuneXX/LTX-2.3-Workflows",
@@ -219,14 +224,9 @@
       "downloads": 0
     },
     {
-      "id": "havenoammo/Qwen3.6-35B-A3B-MTP-GGUF",
-      "displayName": "Qwen3.6 35B A3B MTP",
-      "downloads": 16649
-    },
-    {
-      "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
-      "displayName": "Qwen3.6 35B A3B Uncensored HauhauCS Aggressive",
-      "downloads": 1132353
+      "id": "antirez/deepseek-v4-gguf",
+      "displayName": "deepseek v4",
+      "downloads": 46417
     }
   ]
 }
