@@ -1,6 +1,20 @@
 {
-  "updated": "2026-05-12T10:27:51Z",
+  "updated": "2026-05-12T14:12:30Z",
   "news": [
+    {
+      "title": "Dessn raises $6M for its production focused design tool",
+      "url": "https://techcrunch.com/2026/05/12/dessn-raises-6m-for-its-production-focused-design-tool/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-05-12T13:00:00Z",
+      "snippet": "A new startup called Dessn has raised $6M to build AI-powered design tools that work directly with production codebases."
+    },
+    {
+      "title": "AI voice startup Vapi hits $500M valuation after winning Amazon Ring over 40 rivals",
+      "url": "https://techcrunch.com/2026/05/12/vapi-hits-500m-valuation-as-amazon-ring-chose-its-ai-platform-over-40-rivals/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-05-12T11:30:00Z",
+      "snippet": "Vapi says its enterprise business has grown 10-fold since early 2025 as companies shift customer support and sales calls to AI agents."
+    },
     {
       "title": "Thinking Machines wants to build an AI that actually listens while it talks",
       "url": "https://techcrunch.com/2026/05/11/thinking-machines-wants-to-build-an-ai-that-actually-listens-while-it-talks/",
@@ -135,25 +149,11 @@
       "snippet": "Massive new data centers are the physical foundation for tech companies\u2019 hopes and dreams for AI. But the rush to expand warehouses full of energy-hungry servers has also kicked up fights across the w"
     },
     {
-      "title": "Cloudflare says AI made 1,100 jobs obsolete, even as revenue hit a record high",
-      "url": "https://techcrunch.com/2026/05/08/cloudflare-says-ai-made-1100-jobs-obsolete-even-as-revenue-hit-a-record-high/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-05-08T18:33:21Z",
-      "snippet": "Cloudflare announced its first large-scale layoff. CEO Matthew Prince says because of AI efficiency gains, the company doesn't need as many support roles."
-    },
-    {
       "title": "PlayStation sees AI as a \u2018powerful tool\u2019 to help make games",
       "url": "https://www.theverge.com/games/926914/sony-playstation-ai-powerful-tool-games",
       "source": "The Verge",
       "publishedAt": "2026-05-08T16:30:56Z",
       "snippet": "As part of an earnings presentation on Friday, Sony shared how it's thinking about AI at the company, including many details about how it's evaluating AI as part of making PlayStation games. Generativ"
-    },
-    {
-      "title": "The \u201cpeople\u2019s airline\u201d and the enterprise AI gold rush",
-      "url": "https://techcrunch.com/podcast/the-peoples-airline-and-the-enterprise-ai-gold-rush/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-05-08T15:46:17Z",
-      "snippet": "Everyone wants a piece of the&#160;enterprise&#160;AI pie, and this week, we saw a string of companies making their moves. From&#160;Anthropic and OpenAI announcing new joint ventures&#160;targeting e"
     },
     {
       "title": "Microsoft was worried OpenAI would run off to Amazon and \u2018shit-talk\u2019 Azure",
@@ -194,9 +194,9 @@
       "downloads": 67205
     },
     {
-      "id": "unsloth/Qwen3.6-35B-A3B-GGUF",
-      "displayName": "Qwen3.6 35B A3B",
-      "downloads": 2733708
+      "id": "havenoammo/Qwen3.6-27B-MTP-UD-GGUF",
+      "displayName": "Qwen3.6 27B MTP UD",
+      "downloads": 43428
     },
     {
       "id": "unsloth/Qwen3.6-27B-GGUF",
@@ -204,9 +204,9 @@
       "downloads": 1468142
     },
     {
-      "id": "havenoammo/Qwen3.6-27B-MTP-UD-GGUF",
-      "displayName": "Qwen3.6 27B MTP UD",
-      "downloads": 43428
+      "id": "unsloth/Qwen3.6-35B-A3B-GGUF",
+      "displayName": "Qwen3.6 35B A3B",
+      "downloads": 2733708
     },
     {
       "id": "DavidAU/Qwen3.6-27B-Heretic-Uncensored-FINETUNE-NEO-CODE-Di-IMatrix-MAX-GGUF",
@@ -224,9 +224,9 @@
       "downloads": 0
     },
     {
-      "id": "antirez/deepseek-v4-gguf",
-      "displayName": "deepseek v4",
-      "downloads": 46417
+      "id": "Jiunsong/supergemma4-26b-uncensored-gguf-v2",
+      "displayName": "supergemma4 26b uncensored v2",
+      "downloads": 287827
     }
   ]
 }
