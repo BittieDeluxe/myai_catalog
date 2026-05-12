@@ -1,6 +1,13 @@
 {
-  "updated": "2026-05-12T02:38:41Z",
+  "updated": "2026-05-12T06:34:00Z",
   "news": [
+    {
+      "title": "Thinking Machines wants to build an AI that actually listens while it talks",
+      "url": "https://techcrunch.com/2026/05/11/thinking-machines-wants-to-build-an-ai-that-actually-listens-while-it-talks/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-05-12T04:52:35Z",
+      "snippet": "Right now, every AI model you've ever used works the same way. You talk, it listens. It responds, you listen. Thinking Machines is trying to change that by building a model that processes your input a"
+    },
     {
       "title": "Riding an AI rally, Robinhood preps second retail venture IPO",
       "url": "https://techcrunch.com/2026/05/11/riding-an-ai-rally-robinhood-preps-second-retail-venture-ipo/",
@@ -156,13 +163,6 @@
       "snippet": "When OpenAI was busy experimenting with AI-powered gaming bots, Microsoft CEO Satya Nadella and OpenAI CEO Sam Altman were in the early days of forming an AI partnership. Court documents from the ongo"
     },
     {
-      "title": "Last 24 hours to get 50% off a second pass to TechCrunch Disrupt 2026",
-      "url": "https://techcrunch.com/2026/05/08/last-24-hours-to-get-50-off-a-second-pass-to-techcrunch-disrupt-2026/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-05-08T14:00:00Z",
-      "snippet": "Last day to buy one pass and get a second one at 50% off to TechCrunch Disrupt 2026. Bring a partner, co-founder, or colleague at half off. Register now."
-    },
-    {
       "title": "Everybody wants to rule the AI world",
       "url": "https://www.theverge.com/podcast/926707/openai-ceo-murati-musk-trial-vergecast",
       "source": "The Verge",
@@ -194,6 +194,11 @@
       "downloads": 67205
     },
     {
+      "id": "havenoammo/Qwen3.6-27B-MTP-UD-GGUF",
+      "displayName": "Qwen3.6 27B MTP UD",
+      "downloads": 43428
+    },
+    {
       "id": "unsloth/Qwen3.6-35B-A3B-GGUF",
       "displayName": "Qwen3.6 35B A3B",
       "downloads": 2733708
@@ -202,11 +207,6 @@
       "id": "unsloth/Qwen3.6-27B-GGUF",
       "displayName": "Qwen3.6 27B",
       "downloads": 1468142
-    },
-    {
-      "id": "havenoammo/Qwen3.6-27B-MTP-UD-GGUF",
-      "displayName": "Qwen3.6 27B MTP UD",
-      "downloads": 43428
     },
     {
       "id": "DavidAU/Qwen3.6-27B-Heretic-Uncensored-FINETUNE-NEO-CODE-Di-IMatrix-MAX-GGUF",
