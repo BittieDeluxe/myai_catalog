@@ -1,6 +1,13 @@
 {
-  "updated": "2026-05-13T06:45:03Z",
+  "updated": "2026-05-13T10:21:18Z",
   "news": [
+    {
+      "title": "Data centers are coming for rural America",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/928963/data-center-rural-america-jobs-jay-maine",
+      "source": "The Verge",
+      "publishedAt": "2026-05-13T09:00:00Z",
+      "snippet": "At its peak, the Androscoggin paper mill in Jay, Maine, a rural town about 67 miles northwest of Portland, employed about 1,500 people - until a pulp digester exploded in 2020, forcing the mill to clo"
+    },
     {
       "title": "Medicare\u2019s new payment model is built for AI, and most of the tech world has no idea",
       "url": "https://techcrunch.com/2026/05/12/medicares-new-payment-model-is-built-for-ai-and-most-of-the-tech-world-has-no-idea/",
@@ -163,13 +170,6 @@
       "snippet": "Robinhood files confidentially for its second venture fund, this time targeting growth and early-stage startups."
     },
     {
-      "title": "OpenAI just released its answer to Claude Mythos",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/928342/openai-daybreak-security-ai",
-      "source": "The Verge",
-      "publishedAt": "2026-05-11T23:05:01Z",
-      "snippet": "OpenAI is launching Daybreak, an AI initiative focused on detecting and patching vulnerabilities before attackers find them. Daybreak uses the Codex Security AI agent that launched in March to create "
-    },
-    {
       "title": "GM just laid off hundreds of IT workers to hire those with stronger AI skills",
       "url": "https://techcrunch.com/2026/05/11/gm-just-laid-off-hundreds-of-it-workers-to-hire-those-with-stronger-ai-skills/",
       "source": "TechCrunch",
@@ -181,52 +181,52 @@
     {
       "id": "SulphurAI/Sulphur-2-base",
       "displayName": "Sulphur 2 base",
-      "downloads": 157648
+      "downloads": 535069
     },
     {
       "id": "SeeSee21/Z-Anime",
       "displayName": "Z Anime",
-      "downloads": 9477
+      "downloads": 11486
     },
     {
       "id": "Jackrong/Qwopus3.6-35B-A3B-v1-GGUF",
       "displayName": "Qwopus3.6 35B A3B v1",
-      "downloads": 67205
+      "downloads": 96759
     },
     {
       "id": "havenoammo/Qwen3.6-27B-MTP-UD-GGUF",
       "displayName": "Qwen3.6 27B MTP UD",
-      "downloads": 43428
+      "downloads": 51213
     },
     {
       "id": "unsloth/Qwen3.6-27B-MTP-GGUF",
       "displayName": "Qwen3.6 27B MTP",
-      "downloads": 0
-    },
-    {
-      "id": "unsloth/Qwen3.6-35B-A3B-GGUF",
-      "displayName": "Qwen3.6 35B A3B",
-      "downloads": 2733708
+      "downloads": 25924
     },
     {
       "id": "Jiunsong/supergemma4-26b-uncensored-gguf-v2",
       "displayName": "supergemma4 26b uncensored v2",
-      "downloads": 287827
-    },
-    {
-      "id": "unsloth/Qwen3.6-27B-GGUF",
-      "displayName": "Qwen3.6 27B",
-      "downloads": 1468142
+      "downloads": 292889
     },
     {
       "id": "unsloth/Qwen3.6-35B-A3B-MTP-GGUF",
       "displayName": "Qwen3.6 35B A3B MTP",
-      "downloads": 0
+      "downloads": 15355
+    },
+    {
+      "id": "unsloth/Qwen3.6-27B-GGUF",
+      "displayName": "Qwen3.6 27B",
+      "downloads": 1569380
+    },
+    {
+      "id": "unsloth/Qwen3.6-35B-A3B-GGUF",
+      "displayName": "Qwen3.6 35B A3B",
+      "downloads": 2909275
     },
     {
       "id": "jackxinning/Leanly_AI",
       "displayName": "Leanly_AI",
-      "downloads": 10425
+      "downloads": 10610
     }
   ]
 }
