@@ -1,6 +1,55 @@
 {
-  "updated": "2026-05-13T14:24:32Z",
+  "updated": "2026-05-13T17:58:01Z",
   "news": [
+    {
+      "title": "Mark Zuckerberg announces &#8216;completely private&#8217; encrypted Meta AI chat",
+      "url": "https://www.theverge.com/tech/929791/meta-ai-incognito-chats",
+      "source": "The Verge",
+      "publishedAt": "2026-05-13T16:45:43Z",
+      "snippet": "Meta CEO Mark Zuckerberg says its new Incognito Chat is \"the first major AI product where there is no log of your conversations stored on servers.\" Messages in Incognito Chat aren't saved or stored in"
+    },
+    {
+      "title": "Who trusts Sam Altman?",
+      "url": "https://techcrunch.com/2026/05/13/who-trusts-sam-altman/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-05-13T16:31:04Z",
+      "snippet": "\"I believe I am an honest and trustworthy business person,\" Altman testified in federal court."
+    },
+    {
+      "title": "Origin Lab raises $8M to help video game companies sell data to world-model builders",
+      "url": "https://techcrunch.com/2026/05/13/origin-lab-raises-8m-to-help-video-game-companies-sell-data-to-world-model-builders/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-05-13T16:22:01Z",
+      "snippet": "Origin Lab will serve as a marketplace where AI labs can buy high-quality licensed data, and video-game companies can sell it."
+    },
+    {
+      "title": "Anthropic courts a new kind of customer: small business owners",
+      "url": "https://techcrunch.com/2026/05/13/anthropic-courts-a-new-kind-of-customer-small-business-owners/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-05-13T16:00:00Z",
+      "snippet": "For founders and investors, Anthropic's new offering signals that the AI platform wars are expanding downmarket and that the next major battleground for user acquisition isn't the Fortune 500; it's th"
+    },
+    {
+      "title": "Microsoft doesn\u2019t want any of this",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/929692/microsoft-musk-altman-openai-trial",
+      "source": "The Verge",
+      "publishedAt": "2026-05-13T15:30:37Z",
+      "snippet": "Maybe I'm just punch-drunk in my third week attending Musk v. Altman, but I have become very, very fond of Microsoft during the course of this trial. They don't want to be here any more than I do. The"
+    },
+    {
+      "title": "Live updates from Elon Musk and Sam Altman\u2019s court battle over the future of OpenAI",
+      "url": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
+      "source": "The Verge",
+      "publishedAt": "2026-05-13T15:28:21Z",
+      "snippet": "Sam Altman and Elon Musk are facing off in a high-stakes trial that could alter the future of OpenAI and its most well-known product, ChatGPT. In 2024, Musk filed a lawsuit accusing OpenAI of abandoni"
+    },
+    {
+      "title": "Amazon launches an AI shopping assistant for the search bar, powered by Alexa+",
+      "url": "https://techcrunch.com/2026/05/13/amazon-launches-an-ai-shopping-assistant-for-the-search-bar-powered-by-alexa/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-05-13T14:59:32Z",
+      "snippet": "Alexa for Shopping offers a voice- and touch-enabled shopping experience across mobile, desktop, and Echo Show smart displays. Alexa for Shopping provides more personalized recommendations and automat"
+    },
     {
       "title": "Anthropic now has more business customers than OpenAI, according to Ramp data",
       "url": "https://techcrunch.com/2026/05/13/anthropic-now-has-more-business-customers-than-openai-according-to-ramp-data/",
@@ -30,7 +79,7 @@
       "snippet": "Poppy is an AI-powered app that connects your calendar, email, messages, and other services to surface reminders, suggestions, and tasks based on what\u2019s happening in your life."
     },
     {
-      "title": "Alexa is moving into Amazon.com",
+      "title": "Alexa is moving into Amazon\u2024com",
       "url": "https://www.theverge.com/ai-artificial-intelligence/929457/amazon-announces-alexa-for-shopping-ai-assistant-rufus",
       "source": "The Verge",
       "publishedAt": "2026-05-13T13:00:00Z",
@@ -126,55 +175,6 @@
       "source": "TechCrunch",
       "publishedAt": "2026-05-12T17:00:00Z",
       "snippet": "Google's transcription feature will initially launch with Samsung Galaxy and Google Pixel phones."
-    },
-    {
-      "title": "The AI legal services industry is heating up \u2014 Anthropic is getting in on the action",
-      "url": "https://techcrunch.com/2026/05/12/the-ai-legal-services-industry-is-heating-up-anthropic-is-getting-in-on-the-action/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-05-12T17:00:00Z",
-      "snippet": "Anthropic's new tools are designed to help law firms automate specific clerical functions \u2014 things like document search and review, case law resources, deposition prep, document drafting, and other re"
-    },
-    {
-      "title": "Google brings agentic AI and vibe-coded widgets to Android",
-      "url": "https://techcrunch.com/2026/05/12/google-brings-agentic-ai-and-vibe-coded-widgets-to-android/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-05-12T17:00:00Z",
-      "snippet": "Gemini Intelligence will also include Gboard-based dictation and form-filling capabilities."
-    },
-    {
-      "title": "Google\u2019s \u2018Create My Widget\u2019 feature will let you vibe-code your own widgets",
-      "url": "https://techcrunch.com/2026/05/12/googles-create-my-widget-feature-will-let-you-vibe-code-your-own-widgets/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-05-12T17:00:00Z",
-      "snippet": "To create a widget, users will be able to describe what they want using natural language. For example, you could ask the feature to \"suggest three high-protein meal prep recipes every week\" in order t"
-    },
-    {
-      "title": "Threads tests a Meta AI integration that works similarly to Grok",
-      "url": "https://techcrunch.com/2026/05/12/threads-tests-a-meta-ai-integration-that-works-similarly-to-grok/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-05-12T16:34:36Z",
-      "snippet": "The feature is designed to help people get real-time context about trends and breaking stories, as well as receive recommendations, all within conversations."
-    },
-    {
-      "title": "Parents say ChatGPT got their son killed with bad advice on party drugs",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/928691/openai-chatgpt-wrongful-death-overdose",
-      "source": "The Verge",
-      "publishedAt": "2026-05-12T16:30:33Z",
-      "snippet": "The family of a 19-year-old college student is suing OpenAI over claims that his conversations with ChatGPT led to an accidental overdose. In the lawsuit filed on Tuesday, Sam Nelson's parents allege "
-    },
-    {
-      "title": "Sam Altman takes the stand in trial against Elon Musk",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/916975/altman-takes-stand-elon-musk-openai-trial",
-      "source": "The Verge",
-      "publishedAt": "2026-05-12T16:05:20Z",
-      "snippet": "OpenAI CEO Sam Altman has begun his testimony against Elon Musk in a high-profile jury trial in a California federal courtroom. Altman, alongside OpenAI president Greg Brockman, is a primary defendant"
-    },
-    {
-      "title": "George Clooney, Tom Hanks, and Meryl Streep back new &#8216;Human Consent Standard&#8217; for AI licensing",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/928534/rsl-media-human-consent-standard",
-      "source": "The Verge",
-      "publishedAt": "2026-05-12T16:00:00Z",
-      "snippet": "Hollywood actors and producers are standing behind a new AI licensing standard that will tell AI systems whether they'll need to pay to use a person's likeness, creative work, characters, and designs."
     }
   ],
   "trending": [
@@ -199,14 +199,14 @@
       "downloads": 25924
     },
     {
-      "id": "havenoammo/Qwen3.6-27B-MTP-UD-GGUF",
-      "displayName": "Qwen3.6 27B MTP UD",
-      "downloads": 51213
-    },
-    {
       "id": "unsloth/Qwen3.6-35B-A3B-MTP-GGUF",
       "displayName": "Qwen3.6 35B A3B MTP",
       "downloads": 15355
+    },
+    {
+      "id": "havenoammo/Qwen3.6-27B-MTP-UD-GGUF",
+      "displayName": "Qwen3.6 27B MTP UD",
+      "downloads": 51213
     },
     {
       "id": "Jiunsong/supergemma4-26b-uncensored-gguf-v2",
@@ -214,14 +214,14 @@
       "downloads": 292889
     },
     {
-      "id": "unsloth/Qwen3.6-27B-GGUF",
-      "displayName": "Qwen3.6 27B",
-      "downloads": 1569380
-    },
-    {
       "id": "unsloth/Qwen3.6-35B-A3B-GGUF",
       "displayName": "Qwen3.6 35B A3B",
       "downloads": 2909275
+    },
+    {
+      "id": "unsloth/Qwen3.6-27B-GGUF",
+      "displayName": "Qwen3.6 27B",
+      "downloads": 1569380
     },
     {
       "id": "jackxinning/Leanly_AI",
