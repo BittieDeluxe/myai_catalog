@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-13T02:44:46Z",
+  "updated": "2026-05-13T06:45:03Z",
   "news": [
     {
       "title": "Medicare\u2019s new payment model is built for AI, and most of the tech world has no idea",
@@ -209,24 +209,24 @@
       "downloads": 2733708
     },
     {
-      "id": "unsloth/Qwen3.6-27B-GGUF",
-      "displayName": "Qwen3.6 27B",
-      "downloads": 1468142
-    },
-    {
       "id": "Jiunsong/supergemma4-26b-uncensored-gguf-v2",
       "displayName": "supergemma4 26b uncensored v2",
       "downloads": 287827
     },
     {
+      "id": "unsloth/Qwen3.6-27B-GGUF",
+      "displayName": "Qwen3.6 27B",
+      "downloads": 1468142
+    },
+    {
+      "id": "unsloth/Qwen3.6-35B-A3B-MTP-GGUF",
+      "displayName": "Qwen3.6 35B A3B MTP",
+      "downloads": 0
+    },
+    {
       "id": "jackxinning/Leanly_AI",
       "displayName": "Leanly_AI",
       "downloads": 10425
-    },
-    {
-      "id": "DavidAU/Qwen3.6-27B-Heretic-Uncensored-FINETUNE-NEO-CODE-Di-IMatrix-MAX-GGUF",
-      "displayName": "Qwen3.6 27B Heretic Uncensored FINETUNE NEO CODE Di IMatrix MAX",
-      "downloads": 197110
     }
   ]
 }
