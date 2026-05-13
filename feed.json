@@ -1,6 +1,20 @@
 {
-  "updated": "2026-05-13T21:41:11Z",
+  "updated": "2026-05-13T23:02:43Z",
   "news": [
+    {
+      "title": "Microsoft&#8217;s Edge Copilot update uses AI to pull information from across your tabs",
+      "url": "https://www.theverge.com/tech/930188/microsoft-edge-copilot-ai-tabs",
+      "source": "The Verge",
+      "publishedAt": "2026-05-13T22:04:28Z",
+      "snippet": "Microsoft Edge is adding a new feature that will allow its Copilot AI chatbot to gather information from all of your open tabs. When you start a conversation with Copilot, you can ask the chatbot ques"
+    },
+    {
+      "title": "Notion just turned its workspace into a hub for AI agents",
+      "url": "https://techcrunch.com/2026/05/13/notion-just-turned-its-workspace-into-a-hub-for-ai-agents/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-05-13T21:45:09Z",
+      "snippet": "Notion\u2019s new developer platform lets teams connect AI agents, external data sources, and custom code directly into their workspace as the company pushes deeper into agentic productivity software."
+    },
     {
       "title": "Musk\u2019s xAI is running nearly 50 gas turbines unchecked at its Mississippi data center",
       "url": "https://techcrunch.com/2026/05/13/musks-xai-is-running-nearly-50-gas-turbines-unchecked-at-its-mississippi-data-center/",
@@ -72,18 +86,18 @@
       "snippet": "From October 13-15, TechCrunch Disrupt 2026 will feature 200+ sessions across six stages, led by 250+ tech leaders shaping the industry today. Register now to save up to $410, plus 50% off a second pa"
     },
     {
-      "title": "Anthropic now has more business customers than OpenAI, according to Ramp data",
-      "url": "https://techcrunch.com/2026/05/13/anthropic-now-has-more-business-customers-than-openai-according-to-ramp-data/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-05-13T14:00:00Z",
-      "snippet": "A survey compiled from fintech firm Ramp\u2019s clients\u2019 expense data shows 34.4% of participating businesses are paying for Anthropic services, more than any other AI lab, while only 32.3% pay for OpenAI."
-    },
-    {
       "title": "WhatsApp adds an incognito mode in Meta AI chats",
       "url": "https://techcrunch.com/2026/05/13/whatsapp-adds-an-incognito-mode-in-meta-ai-chats/",
       "source": "TechCrunch",
       "publishedAt": "2026-05-13T14:00:00Z",
       "snippet": "Meta said these incognito conversations are not saved, and messages will disappear by default once you close the chat."
+    },
+    {
+      "title": "Anthropic now has more business customers than OpenAI, according to Ramp data",
+      "url": "https://techcrunch.com/2026/05/13/anthropic-now-has-more-business-customers-than-openai-according-to-ramp-data/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-05-13T14:00:00Z",
+      "snippet": "A survey compiled from fintech firm Ramp\u2019s clients\u2019 expense data shows 34.4% of participating businesses are paying for Anthropic services, more than any other AI lab, while only 32.3% pay for OpenAI."
     },
     {
       "title": "Poppy debuts a proactive AI assistant to help organize your digital life",
@@ -156,25 +170,11 @@
       "snippet": "OpenAI CEO Sam Altman says Elon Musk did \"huge damage\" to the culture of the AI startup. During testimony as part of Musk's lawsuit against OpenAI, Altman said Musk required OpenAI president Greg Broc"
     },
     {
-      "title": "Report: Google and SpaceX in talks to put data centers into orbit",
-      "url": "https://techcrunch.com/2026/05/12/report-google-and-spacex-in-talks-to-put-data-centers-into-orbit/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-05-12T17:30:57Z",
-      "snippet": "Google and SpaceX are in talks to build data centers in orbit, pitching space as the future home for AI compute, even as costs today remain far higher than on the ground."
-    },
-    {
       "title": "The 9 biggest new features in Android 17",
       "url": "https://www.theverge.com/tech/928653/google-android-17-9-biggest-new-features-android-show-io",
       "source": "The Verge",
       "publishedAt": "2026-05-12T17:00:00Z",
       "snippet": "Would it shock you to hear that Android 17 is filled with new AI-enabled features, like improved dictation and vibe-coded widgets? Fortunately, that's not all. The platform is getting non-AI updates t"
-    },
-    {
-      "title": "Gemini&#8217;s latest updates are all about controlling your phone",
-      "url": "https://www.theverge.com/tech/928724/gemini-intelligence-android-io-autofill",
-      "source": "The Verge",
-      "publishedAt": "2026-05-12T17:00:00Z",
-      "snippet": "It is, once again, Gemini season. Google is announcing a host of new Gemini features during its pre-I/O Android showcase, many of which aim to help use your phone for you. You'll find Gemini in more p"
     }
   ],
   "trending": [
