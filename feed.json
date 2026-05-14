@@ -1,6 +1,27 @@
 {
-  "updated": "2026-05-14T17:46:02Z",
+  "updated": "2026-05-14T19:41:42Z",
   "news": [
+    {
+      "title": "OpenAI is reportedly preparing legal action against Apple; it wouldn\u2019t be the first partner to feel burned",
+      "url": "https://techcrunch.com/2026/05/14/openai-is-reportedly-preparing-legal-action-against-apple-it-wouldnt-be-the-first-partner-to-feel-burned/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-05-14T19:12:03Z",
+      "snippet": "According to Bloomberg, OpenAI has enlisted an outside law firm to work through its options."
+    },
+    {
+      "title": "Clawdmeter turns your Claude Code usage stats into a tiny desktop dashboard",
+      "url": "https://techcrunch.com/2026/05/14/clawdmeter-turns-your-claude-code-usage-stats-into-a-tiny-desktop-dashboard/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-05-14T19:05:01Z",
+      "snippet": "A new open source gadget called Clawdmeter turns Claude Code usage stats into a tiny desktop dashboard for AI coding power users."
+    },
+    {
+      "title": "Microsoft starts canceling Claude Code licenses",
+      "url": "https://www.theverge.com/tech/930447/microsoft-claude-code-discontinued-notepad",
+      "source": "The Verge",
+      "publishedAt": "2026-05-14T19:00:00Z",
+      "snippet": "Microsoft first started opening up access to Claude Code in December, inviting thousands of its own developers to use Anthropic's AI coding tool daily. It was part of an effort to get project managers"
+    },
     {
       "title": "Use this map to find the data centers in your backyard",
       "url": "https://www.theverge.com/policy/930629/data-center-policy-map-interactive",
@@ -55,7 +76,7 @@
       "url": "https://techcrunch.com/2026/05/14/wirestock-raises-23m-to-supply-multi-modal-data-to-ai-labs/",
       "source": "TechCrunch",
       "publishedAt": "2026-05-14T14:00:00Z",
-      "snippet": "Wirestock has over 700,000 creators on its platform, which supplies photos, videos and 3D content to AI labs."
+      "snippet": "The company pivoted to being a data provider in 2023 and now supplies datasets of images, videos, design assets, and gaming and 3D content to AI labs."
     },
     {
       "title": "You can make an app for that",
@@ -69,7 +90,7 @@
       "url": "https://techcrunch.com/2026/05/13/who-decides-what-ai-tells-you-campbell-brown-once-metas-news-chief-has-thoughts/",
       "source": "TechCrunch",
       "publishedAt": "2026-05-14T06:05:31Z",
-      "snippet": "\"The conversation is sort of happening in Silicon Valley around one thing, and a totally different conversation is happening among consumers.\""
+      "snippet": "\"The conversation is sort of happening in Silicon Valley around one thing, and a totally different conversation is happening among consumers,\" Campbell Brown said at StrictlyVC."
     },
     {
       "title": "Clio\u2019s $500M milestone arrives just as Anthropic ups the ante",
@@ -142,20 +163,6 @@
       "snippet": "Maybe I'm just punch-drunk in my third week attending Musk v. Altman, but I have become very, very fond of Microsoft during the course of this trial. They don't want to be here any more than I do. The"
     },
     {
-      "title": "Amazon launches an AI shopping assistant for the search bar, powered by Alexa+",
-      "url": "https://techcrunch.com/2026/05/13/amazon-launches-an-ai-shopping-assistant-for-the-search-bar-powered-by-alexa/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-05-13T14:59:32Z",
-      "snippet": "Alexa for Shopping offers a voice- and touch-enabled shopping experience across mobile, desktop, and Echo Show smart displays. Alexa for Shopping provides more personalized recommendations and automat"
-    },
-    {
-      "title": "Introducing the 6 stages at TechCrunch Disrupt 2026 \u2014 built for today\u2019s tougher startup market",
-      "url": "https://techcrunch.com/2026/05/13/introducing-the-6-stages-of-techcrunch-disrupt-2026-built-for-todays-tougher-startup-market/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-05-13T14:00:00Z",
-      "snippet": "From October 13-15, TechCrunch Disrupt 2026 will feature 200+ sessions across six stages, led by 250+ tech leaders shaping the industry today. Register now to save up to $410, plus 50% off a second pa"
-    },
-    {
       "title": "Alexa is moving into Amazon\u2024com",
       "url": "https://www.theverge.com/ai-artificial-intelligence/929457/amazon-announces-alexa-for-shopping-ai-assistant-rufus",
       "source": "The Verge",
@@ -168,13 +175,6 @@
       "source": "The Verge",
       "publishedAt": "2026-05-13T09:00:00Z",
       "snippet": "At its peak, the Androscoggin paper mill in Jay, Maine, a rural town about 67 miles northwest of Portland, employed about 1,500 people - until a pulp digester exploded in 2020, forcing the mill to clo"
-    },
-    {
-      "title": "Sam Altman was winning on the stand, but it might not be enough",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/929129/sam-altman-testimony-elon-musk-openai-trial",
-      "source": "The Verge",
-      "publishedAt": "2026-05-12T23:23:14Z",
-      "snippet": "After two weeks of hearing from assorted witnesses that he was a lying snake, the jury finally heard from the lying snake himself: Sam Altman. At the end of the testimony, his lawyer William Savitt as"
     }
   ],
   "trending": [
@@ -209,24 +209,24 @@
       "downloads": 287048
     },
     {
-      "id": "antirez/deepseek-v4-gguf",
-      "displayName": "deepseek v4",
-      "downloads": 212601
-    },
-    {
       "id": "RuneXX/LTX-2.3-Workflows",
       "displayName": "LTX 2.3 Workflows",
       "downloads": 0
     },
     {
-      "id": "unsloth/Qwen3.6-35B-A3B-GGUF",
-      "displayName": "Qwen3.6 35B A3B",
-      "downloads": 3001877
+      "id": "antirez/deepseek-v4-gguf",
+      "displayName": "deepseek v4",
+      "downloads": 212601
     },
     {
       "id": "havenoammo/Qwen3.6-27B-MTP-UD-GGUF",
       "displayName": "Qwen3.6 27B MTP UD",
       "downloads": 60142
+    },
+    {
+      "id": "unsloth/Qwen3.6-35B-A3B-GGUF",
+      "displayName": "Qwen3.6 35B A3B",
+      "downloads": 3001877
     }
   ]
 }
