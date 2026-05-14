@@ -1,6 +1,34 @@
 {
-  "updated": "2026-05-14T19:41:42Z",
+  "updated": "2026-05-14T21:06:50Z",
   "news": [
+    {
+      "title": "Behold, the Elon Musk jackass trophy",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/930893/elon-musk-sam-altman-trial-ai-safety-jackass-statue",
+      "source": "The Verge",
+      "publishedAt": "2026-05-14T20:59:23Z",
+      "snippet": "Yesterday, in Musk v. Altman, before the jurors came in, Sam Altman's team passed up what looked - from a distance - like a little league trophy. It was not. Yvonne Gonzalez Rogers had the lawyers rea"
+    },
+    {
+      "title": "OpenAI says Codex is coming to your phone",
+      "url": "https://techcrunch.com/2026/05/14/openai-says-codex-is-coming-to-your-phone/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-05-14T20:58:55Z",
+      "snippet": "The update gives users enhanced flexibility over how they can manage their workflows."
+    },
+    {
+      "title": "OpenAI\u2019s Codex is now in the ChatGPT mobile app",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/930763/openai-codex-chatgpt-ios-android-app-preview",
+      "source": "The Verge",
+      "publishedAt": "2026-05-14T20:00:00Z",
+      "snippet": "OpenAI is going to let users access Codex, its desktop AI tool that can write code and use apps on your computer, from the ChatGPT app on your phone. Following the surge in popularity for Anthropic's "
+    },
+    {
+      "title": "What happens when AI starts building itself?",
+      "url": "https://techcrunch.com/2026/05/14/what-happens-when-ai-starts-building-itself/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-05-14T19:57:20Z",
+      "snippet": "Richard Socher's new $650 million startup wants to build an AI that can research and improve itself indefinitely \u2014 and he insists it will actually ship products."
+    },
     {
       "title": "OpenAI is reportedly preparing legal action against Apple; it wouldn\u2019t be the first partner to feel burned",
       "url": "https://techcrunch.com/2026/05/14/openai-is-reportedly-preparing-legal-action-against-apple-it-wouldnt-be-the-first-partner-to-feel-burned/",
@@ -142,39 +170,11 @@
       "snippet": "\"I believe I am an honest and trustworthy businessperson,\" Altman testified in federal court."
     },
     {
-      "title": "Origin Lab raises $8M to help video game companies sell data to world-model builders",
-      "url": "https://techcrunch.com/2026/05/13/origin-lab-raises-8m-to-help-video-game-companies-sell-data-to-world-model-builders/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-05-13T16:22:01Z",
-      "snippet": "Origin Lab will serve as a marketplace where AI labs can buy high-quality licensed data, and video-game companies can sell it."
-    },
-    {
-      "title": "Anthropic courts a new kind of customer: small business owners",
-      "url": "https://techcrunch.com/2026/05/13/anthropic-courts-a-new-kind-of-customer-small-business-owners/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-05-13T16:00:00Z",
-      "snippet": "For founders and investors, Anthropic's new offering signals that the AI platform wars are expanding downmarket and that the next major battleground for user acquisition isn't the Fortune 500; it's th"
-    },
-    {
       "title": "Microsoft doesn\u2019t want any of this",
       "url": "https://www.theverge.com/ai-artificial-intelligence/929692/microsoft-musk-altman-openai-trial",
       "source": "The Verge",
       "publishedAt": "2026-05-13T15:30:37Z",
       "snippet": "Maybe I'm just punch-drunk in my third week attending Musk v. Altman, but I have become very, very fond of Microsoft during the course of this trial. They don't want to be here any more than I do. The"
-    },
-    {
-      "title": "Alexa is moving into Amazon\u2024com",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/929457/amazon-announces-alexa-for-shopping-ai-assistant-rufus",
-      "source": "The Verge",
-      "publishedAt": "2026-05-13T13:00:00Z",
-      "snippet": "Amazon is bringing Alexa Plus to Amazon.com, integrating its LLM-powered AI assistant directly into the company's shopping experience. Beginning today, when you type a query into Amazon, you'll be tal"
-    },
-    {
-      "title": "Data centers are coming for rural America",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/928963/data-center-rural-america-jobs-jay-maine",
-      "source": "The Verge",
-      "publishedAt": "2026-05-13T09:00:00Z",
-      "snippet": "At its peak, the Androscoggin paper mill in Jay, Maine, a rural town about 67 miles northwest of Portland, employed about 1,500 people - until a pulp digester exploded in 2020, forcing the mill to clo"
     }
   ],
   "trending": [
@@ -219,14 +219,14 @@
       "downloads": 212601
     },
     {
-      "id": "havenoammo/Qwen3.6-27B-MTP-UD-GGUF",
-      "displayName": "Qwen3.6 27B MTP UD",
-      "downloads": 60142
-    },
-    {
       "id": "unsloth/Qwen3.6-35B-A3B-GGUF",
       "displayName": "Qwen3.6 35B A3B",
       "downloads": 3001877
+    },
+    {
+      "id": "havenoammo/Qwen3.6-27B-MTP-UD-GGUF",
+      "displayName": "Qwen3.6 27B MTP UD",
+      "downloads": 60142
     }
   ]
 }
