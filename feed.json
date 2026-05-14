@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-13T23:02:43Z",
+  "updated": "2026-05-14T02:45:47Z",
   "news": [
     {
       "title": "Microsoft&#8217;s Edge Copilot update uses AI to pull information from across your tabs",
@@ -86,18 +86,18 @@
       "snippet": "From October 13-15, TechCrunch Disrupt 2026 will feature 200+ sessions across six stages, led by 250+ tech leaders shaping the industry today. Register now to save up to $410, plus 50% off a second pa"
     },
     {
-      "title": "WhatsApp adds an incognito mode in Meta AI chats",
-      "url": "https://techcrunch.com/2026/05/13/whatsapp-adds-an-incognito-mode-in-meta-ai-chats/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-05-13T14:00:00Z",
-      "snippet": "Meta said these incognito conversations are not saved, and messages will disappear by default once you close the chat."
-    },
-    {
       "title": "Anthropic now has more business customers than OpenAI, according to Ramp data",
       "url": "https://techcrunch.com/2026/05/13/anthropic-now-has-more-business-customers-than-openai-according-to-ramp-data/",
       "source": "TechCrunch",
       "publishedAt": "2026-05-13T14:00:00Z",
       "snippet": "A survey compiled from fintech firm Ramp\u2019s clients\u2019 expense data shows 34.4% of participating businesses are paying for Anthropic services, more than any other AI lab, while only 32.3% pay for OpenAI."
+    },
+    {
+      "title": "WhatsApp adds an incognito mode in Meta AI chats",
+      "url": "https://techcrunch.com/2026/05/13/whatsapp-adds-an-incognito-mode-in-meta-ai-chats/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-05-13T14:00:00Z",
+      "snippet": "Meta said these incognito conversations are not saved, and messages will disappear by default once you close the chat."
     },
     {
       "title": "Poppy debuts a proactive AI assistant to help organize your digital life",
@@ -219,14 +219,14 @@
       "downloads": 2909275
     },
     {
+      "id": "antirez/deepseek-v4-gguf",
+      "displayName": "deepseek v4",
+      "downloads": 142595
+    },
+    {
       "id": "jackxinning/Leanly_AI",
       "displayName": "Leanly_AI",
       "downloads": 10610
-    },
-    {
-      "id": "unsloth/Qwen3.6-27B-GGUF",
-      "displayName": "Qwen3.6 27B",
-      "downloads": 1569380
     }
   ]
 }
