@@ -1,6 +1,27 @@
 {
-  "updated": "2026-05-14T21:06:50Z",
+  "updated": "2026-05-14T22:53:26Z",
   "news": [
+    {
+      "title": "What the jury will actually decide in the case of Elon Musk vs. Sam Altman",
+      "url": "https://techcrunch.com/2026/05/14/what-the-jury-will-actually-decide-in-the-case-of-elon-musk-vs-sam-altman/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-05-14T22:47:51Z",
+      "snippet": "Here's what the biggest tech court case of the year is all about."
+    },
+    {
+      "title": "Closing time",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/931006/musk-v-altman-closing-arguments-analysis",
+      "source": "The Verge",
+      "publishedAt": "2026-05-14T22:21:46Z",
+      "snippet": "Today was closing arguments in the Musk v. Altman trial, and I almost feel bad writing about the unbelievable demolition derby I just witnessed. Steven Molo, Musk's lawyer, stumbled over his words. He"
+    },
+    {
+      "title": "Elon Musk\u2019s SpaceXAI has been bleeding staff since its merger",
+      "url": "https://techcrunch.com/2026/05/14/elon-musks-spacexai-has-been-bleeding-staff-since-its-merger/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-05-14T21:30:44Z",
+      "snippet": "More than 50 employees have reportedly left Elon Musk\u2019s newly merged SpaceXAI since February, raising questions about burnout, leadership changes, talent poaching, and whether liquidity events weakene"
+    },
     {
       "title": "Behold, the Elon Musk jackass trophy",
       "url": "https://www.theverge.com/ai-artificial-intelligence/930893/elon-musk-sam-altman-trial-ai-safety-jackass-statue",
@@ -34,7 +55,7 @@
       "url": "https://techcrunch.com/2026/05/14/openai-is-reportedly-preparing-legal-action-against-apple-it-wouldnt-be-the-first-partner-to-feel-burned/",
       "source": "TechCrunch",
       "publishedAt": "2026-05-14T19:12:03Z",
-      "snippet": "According to Bloomberg, OpenAI has enlisted an outside law firm to work through its options."
+      "snippet": "OpenAI is so frustrated with Apple over a ChatGPT integration that failed to deliver the subscribers and prominence it expected that the company is now actively exploring legal action against the iPho"
     },
     {
       "title": "Clawdmeter turns your Claude Code usage stats into a tiny desktop dashboard",
@@ -149,32 +170,11 @@
       "snippet": "Gas turbines at xAI's Colossus 2 data center have drawn a lawsuit over the company's use of \"mobile\" gas turbines as power plants."
     },
     {
-      "title": "Anthropic\u2019s Cat Wu says that, in the future, AI will anticipate your needs before you know what they are",
-      "url": "https://techcrunch.com/2026/05/13/anthropics-cat-wu-says-that-in-the-future-ai-will-anticipate-your-needs-before-you-know-what-they-are/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-05-13T19:28:06Z",
-      "snippet": "The head of product for Claude Code and Cowork says that the next big step for AI is proactivity."
-    },
-    {
       "title": "Mark Zuckerberg announces &#8216;completely private&#8217; encrypted Meta AI chat",
       "url": "https://www.theverge.com/tech/929791/meta-ai-incognito-chats",
       "source": "The Verge",
       "publishedAt": "2026-05-13T16:45:43Z",
       "snippet": "Meta CEO Mark Zuckerberg says its new Incognito Chat is \"the first major AI product where there is no log of your conversations stored on servers.\" Messages in Incognito Chat aren't saved or stored in"
-    },
-    {
-      "title": "Who trusts Sam Altman?",
-      "url": "https://techcrunch.com/2026/05/13/who-trusts-sam-altman/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-05-13T16:31:04Z",
-      "snippet": "\"I believe I am an honest and trustworthy businessperson,\" Altman testified in federal court."
-    },
-    {
-      "title": "Microsoft doesn\u2019t want any of this",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/929692/microsoft-musk-altman-openai-trial",
-      "source": "The Verge",
-      "publishedAt": "2026-05-13T15:30:37Z",
-      "snippet": "Maybe I'm just punch-drunk in my third week attending Musk v. Altman, but I have become very, very fond of Microsoft during the course of this trial. They don't want to be here any more than I do. The"
     }
   ],
   "trending": [
@@ -219,14 +219,14 @@
       "downloads": 212601
     },
     {
-      "id": "unsloth/Qwen3.6-35B-A3B-GGUF",
-      "displayName": "Qwen3.6 35B A3B",
-      "downloads": 3001877
-    },
-    {
       "id": "havenoammo/Qwen3.6-27B-MTP-UD-GGUF",
       "displayName": "Qwen3.6 27B MTP UD",
       "downloads": 60142
+    },
+    {
+      "id": "unsloth/Qwen3.6-35B-A3B-GGUF",
+      "displayName": "Qwen3.6 35B A3B",
+      "downloads": 3001877
     }
   ]
 }
