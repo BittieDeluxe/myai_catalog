@@ -1,6 +1,62 @@
 {
-  "updated": "2026-05-14T14:00:23Z",
+  "updated": "2026-05-14T17:46:02Z",
   "news": [
+    {
+      "title": "Use this map to find the data centers in your backyard",
+      "url": "https://www.theverge.com/policy/930629/data-center-policy-map-interactive",
+      "source": "The Verge",
+      "publishedAt": "2026-05-14T17:40:00Z",
+      "snippet": "When Oregon resident Isabelle Reksopuro heard Google was gobbling up public land to fuel its data centers in her home state, she didn't initially know what to believe. \"There's a lot of misinformation"
+    },
+    {
+      "title": "Cerebras raises $5.5B, then stock pops $108%, in the first huge tech IPO of 2026",
+      "url": "https://techcrunch.com/2026/05/14/cerebras-raises-5-5b-kicking-off-2026s-ipo-season-with-a-bang/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-05-14T16:30:02Z",
+      "snippet": "A year ago, it looked like this day would never happen for Cerebras."
+    },
+    {
+      "title": "Live updates from Elon Musk and Sam Altman\u2019s court battle over the future of OpenAI",
+      "url": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
+      "source": "The Verge",
+      "publishedAt": "2026-05-14T15:46:04Z",
+      "snippet": "Sam Altman and Elon Musk are facing off in a high-stakes trial that could alter the future of OpenAI and its most well-known product, ChatGPT. In 2024, Musk filed a lawsuit accusing OpenAI of abandoni"
+    },
+    {
+      "title": "Americans do not want AI data centers in their backyards",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/930477/ai-data-centers-gallup-survey-70-percent-opposition",
+      "source": "The Verge",
+      "publishedAt": "2026-05-14T15:24:53Z",
+      "snippet": "Over 70 percent of Americans oppose AI data center construction in their area, according to a new Gallup survey. Just 7 percent said they were \"strongly\" in favor of new data centers. According to Gal"
+    },
+    {
+      "title": "Khosla Ventures is betting $10M on Ian Crosby, whose first startup, Bench, imploded",
+      "url": "https://techcrunch.com/2026/05/14/khosla-ventures-is-betting-10m-on-ian-crosby-whose-last-startup-bench-imploded/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-05-14T15:20:18Z",
+      "snippet": "Crosby is building Synthetic, a fully autonomous AI bookkeeping service for other startups."
+    },
+    {
+      "title": "Cisco cuts nearly 4,000 jobs to spend more on AI, reports \u2018record quarterly revenue\u2019",
+      "url": "https://techcrunch.com/2026/05/14/cisco-cuts-nearly-4000-jobs-to-spend-more-on-ai-reports-record-quarterly-revenue/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-05-14T14:01:14Z",
+      "snippet": "This is Cisco's latest layoff in recent years, while the company's chief executive touts record revenue and growth."
+    },
+    {
+      "title": "Two\u00a0weeks\u00a0left: Startup Battlefield 200 applications close May 27",
+      "url": "https://techcrunch.com/2026/05/14/two-weeks-left-startup-battlefield-200-applications-close-may-27/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-05-14T14:00:00Z",
+      "snippet": "Your shot at VC access, global visibility, TechCrunch coverage, and $100K equity-free funding is running out. Deadline to apply is May 27. Apply now."
+    },
+    {
+      "title": "Wirestock raises $23M to supply creative multimodal data to AI labs",
+      "url": "https://techcrunch.com/2026/05/14/wirestock-raises-23m-to-supply-multi-modal-data-to-ai-labs/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-05-14T14:00:00Z",
+      "snippet": "Wirestock has over 700,000 creators on its platform, which supplies photos, videos and 3D content to AI labs."
+    },
     {
       "title": "You can make an app for that",
       "url": "https://www.theverge.com/tech/928905/vibe-code-personal-software-revolution",
@@ -86,13 +142,6 @@
       "snippet": "Maybe I'm just punch-drunk in my third week attending Musk v. Altman, but I have become very, very fond of Microsoft during the course of this trial. They don't want to be here any more than I do. The"
     },
     {
-      "title": "Live updates from Elon Musk and Sam Altman\u2019s court battle over the future of OpenAI",
-      "url": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
-      "source": "The Verge",
-      "publishedAt": "2026-05-13T15:28:21Z",
-      "snippet": "Sam Altman and Elon Musk are facing off in a high-stakes trial that could alter the future of OpenAI and its most well-known product, ChatGPT. In 2024, Musk filed a lawsuit accusing OpenAI of abandoni"
-    },
-    {
       "title": "Amazon launches an AI shopping assistant for the search bar, powered by Alexa+",
       "url": "https://techcrunch.com/2026/05/13/amazon-launches-an-ai-shopping-assistant-for-the-search-bar-powered-by-alexa/",
       "source": "TechCrunch",
@@ -107,39 +156,11 @@
       "snippet": "From October 13-15, TechCrunch Disrupt 2026 will feature 200+ sessions across six stages, led by 250+ tech leaders shaping the industry today. Register now to save up to $410, plus 50% off a second pa"
     },
     {
-      "title": "WhatsApp adds an incognito mode in Meta AI chats",
-      "url": "https://techcrunch.com/2026/05/13/whatsapp-adds-an-incognito-mode-in-meta-ai-chats/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-05-13T14:00:00Z",
-      "snippet": "Meta said these incognito conversations are not saved, and messages will disappear by default once you close the chat."
-    },
-    {
-      "title": "Anthropic now has more business customers than OpenAI, according to Ramp data",
-      "url": "https://techcrunch.com/2026/05/13/anthropic-now-has-more-business-customers-than-openai-according-to-ramp-data/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-05-13T14:00:00Z",
-      "snippet": "A survey compiled from fintech firm Ramp\u2019s clients\u2019 expense data shows 34.4% of participating businesses are paying for Anthropic services, more than any other AI lab, while only 32.3% pay for OpenAI."
-    },
-    {
-      "title": "Poppy debuts a proactive AI assistant to help organize your digital life",
-      "url": "https://techcrunch.com/2026/05/13/poppy-debuts-a-proactive-ai-assistant-to-help-organize-your-digital-life/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-05-13T13:27:09Z",
-      "snippet": "Poppy is an AI-powered app that connects your calendar, email, messages, and other services to surface reminders, suggestions, and tasks based on what\u2019s happening in your life."
-    },
-    {
       "title": "Alexa is moving into Amazon\u2024com",
       "url": "https://www.theverge.com/ai-artificial-intelligence/929457/amazon-announces-alexa-for-shopping-ai-assistant-rufus",
       "source": "The Verge",
       "publishedAt": "2026-05-13T13:00:00Z",
       "snippet": "Amazon is bringing Alexa Plus to Amazon.com, integrating its LLM-powered AI assistant directly into the company's shopping experience. Beginning today, when you type a query into Amazon, you'll be tal"
-    },
-    {
-      "title": "Adaption aims big with AutoScientist, an AI tool that helps models train themselves",
-      "url": "https://techcrunch.com/2026/05/13/adaption-aims-big-with-autoscientist-an-ai-tool-that-helps-models-train-themselves/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-05-13T12:11:33Z",
-      "snippet": "Adaption's new AutoScientist tool is designed to let models adapt to specific capabilities quickly through an automated approach to conventional fine-tuning."
     },
     {
       "title": "Data centers are coming for rural America",
@@ -149,32 +170,11 @@
       "snippet": "At its peak, the Androscoggin paper mill in Jay, Maine, a rural town about 67 miles northwest of Portland, employed about 1,500 people - until a pulp digester exploded in 2020, forcing the mill to clo"
     },
     {
-      "title": "Medicare\u2019s new payment model is built for AI, and most of the tech world has no idea",
-      "url": "https://techcrunch.com/2026/05/12/medicares-new-payment-model-is-built-for-ai-and-most-of-the-tech-world-has-no-idea/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-05-13T00:26:48Z",
-      "snippet": "There is no governmental mechanism to pay for an AI agent that monitors a patient between visits, calls to check in, coordinates a housing referral, or makes sure someone picks up their medication. AC"
-    },
-    {
       "title": "Sam Altman was winning on the stand, but it might not be enough",
       "url": "https://www.theverge.com/ai-artificial-intelligence/929129/sam-altman-testimony-elon-musk-openai-trial",
       "source": "The Verge",
       "publishedAt": "2026-05-12T23:23:14Z",
       "snippet": "After two weeks of hearing from assorted witnesses that he was a lying snake, the jury finally heard from the lying snake himself: Sam Altman. At the end of the testimony, his lawyer William Savitt as"
-    },
-    {
-      "title": "Meta won\u2019t let you block its AI account on Threads",
-      "url": "https://www.theverge.com/tech/929091/meta-ai-threads-account-block",
-      "source": "The Verge",
-      "publishedAt": "2026-05-12T20:35:23Z",
-      "snippet": "Meta announced on Tuesday that it's testing a Threads feature that lets users tag a Meta AI account to get answers to questions or context about a conversation on the platform. If you've spent any tim"
-    },
-    {
-      "title": "Sam Altman says Elon Musk\u2019s mind games were damaging OpenAI",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/928861/openai-sam-altman-elon-musk-damage",
-      "source": "The Verge",
-      "publishedAt": "2026-05-12T17:34:09Z",
-      "snippet": "OpenAI CEO Sam Altman says Elon Musk did \"huge damage\" to the culture of the AI startup. During testimony as part of Musk's lawsuit against OpenAI, Altman said Musk required OpenAI president Greg Broc"
     }
   ],
   "trending": [
@@ -214,11 +214,6 @@
       "downloads": 212601
     },
     {
-      "id": "havenoammo/Qwen3.6-27B-MTP-UD-GGUF",
-      "displayName": "Qwen3.6 27B MTP UD",
-      "downloads": 60142
-    },
-    {
       "id": "RuneXX/LTX-2.3-Workflows",
       "displayName": "LTX 2.3 Workflows",
       "downloads": 0
@@ -227,6 +222,11 @@
       "id": "unsloth/Qwen3.6-35B-A3B-GGUF",
       "displayName": "Qwen3.6 35B A3B",
       "downloads": 3001877
+    },
+    {
+      "id": "havenoammo/Qwen3.6-27B-MTP-UD-GGUF",
+      "displayName": "Qwen3.6 27B MTP UD",
+      "downloads": 60142
     }
   ]
 }
