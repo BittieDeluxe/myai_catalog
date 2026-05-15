@@ -1,6 +1,13 @@
 {
-  "updated": "2026-05-15T19:24:46Z",
+  "updated": "2026-05-15T20:56:35Z",
   "news": [
+    {
+      "title": "ArXiv will ban researchers who upload papers full of AI slop",
+      "url": "https://www.theverge.com/science/931766/arxiv-ai-slop-ban-researchers",
+      "source": "The Verge",
+      "publishedAt": "2026-05-15T20:38:19Z",
+      "snippet": "ArXiv, a popular platform for preprint academic research, is taking a new step to attempt to reduce the volume of papers that include AI slop. If a paper has \"incontrovertible evidence that the author"
+    },
     {
       "title": "The OpenAI trial wraps up,\u00a0and the Musk founder machine keeps spinning",
       "url": "https://techcrunch.com/podcast/the-openai-trial-wraps-up-and-the-musk-founder-machine-keeps-spinning/",
@@ -20,7 +27,7 @@
       "url": "https://techcrunch.com/2026/05/15/silicon-valleys-vacationland-needs-a-new-energy-provider-just-as-ai-is-driving-prices-up/",
       "source": "TechCrunch",
       "publishedAt": "2026-05-15T18:14:44Z",
-      "snippet": "Lake Tahoe, Silicon Valley's favorite ski spot, is about to get hit with higher energy prices as AI drives demand for electricity."
+      "snippet": "Lake Tahoe, Silicon Valley's favorite vacation spot, is about to get hit with higher energy prices as AI drives demand for electricity."
     },
     {
       "title": "AI radio hosts demonstrate why AI can\u2019t be trusted alone",
@@ -119,13 +126,6 @@
       "source": "TechCrunch",
       "publishedAt": "2026-05-14T20:58:55Z",
       "snippet": "The update gives users enhanced flexibility over how they can manage their workflows."
-    },
-    {
-      "title": "OpenAI\u2019s Codex is now in the ChatGPT mobile app",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/930763/openai-codex-chatgpt-ios-android-app-preview",
-      "source": "The Verge",
-      "publishedAt": "2026-05-14T20:00:00Z",
-      "snippet": "OpenAI is going to let users access Codex, its desktop AI tool that can write code and use apps on your computer, from the ChatGPT app on your phone. Following the surge in popularity for Anthropic's "
     },
     {
       "title": "What happens when AI starts building itself?",
