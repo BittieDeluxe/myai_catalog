@@ -1,6 +1,20 @@
 {
-  "updated": "2026-05-15T10:18:31Z",
+  "updated": "2026-05-15T13:57:57Z",
   "news": [
+    {
+      "title": "Osaurus brings both local and cloud AI models to your Mac",
+      "url": "https://techcrunch.com/2026/05/15/osaurus-brings-both-local-and-cloud-ai-models-to-your-mac/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-05-15T12:19:48Z",
+      "snippet": "Osaurus\ufffc combines local and cloud AI models in a Mac app that keeps users\u2019 memory, files, and tools on their own hardware."
+    },
+    {
+      "title": "AI research papers are getting better, and it\u2019s a big problem for scientists",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/930522/ai-research-papers-slop-peer-review-problem",
+      "source": "The Verge",
+      "publishedAt": "2026-05-15T11:00:00Z",
+      "snippet": "Last summer, Peter Degen's postdoctoral supervisor came to him with an unusual problem: One of his papers was being cited too much. Citations are the currency of academia, but there was something unus"
+    },
     {
       "title": "What the jury will actually decide in the case of Elon Musk vs. Sam Altman",
       "url": "https://techcrunch.com/2026/05/14/what-the-jury-will-actually-decide-in-the-case-of-elon-musk-vs-sam-altman/",
@@ -161,20 +175,6 @@
       "source": "TechCrunch",
       "publishedAt": "2026-05-13T21:45:09Z",
       "snippet": "Notion\u2019s new developer platform lets teams connect AI agents, external data sources, and custom code directly into their workspace as the company pushes deeper into agentic productivity software."
-    },
-    {
-      "title": "Musk\u2019s xAI is running nearly 50 gas turbines unchecked at its Mississippi data center",
-      "url": "https://techcrunch.com/2026/05/13/musks-xai-is-running-nearly-50-gas-turbines-unchecked-at-its-mississippi-data-center/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-05-13T19:49:42Z",
-      "snippet": "Gas turbines at xAI's Colossus 2 data center have drawn a lawsuit over the company's use of \"mobile\" gas turbines as power plants."
-    },
-    {
-      "title": "Mark Zuckerberg announces &#8216;completely private&#8217; encrypted Meta AI chat",
-      "url": "https://www.theverge.com/tech/929791/meta-ai-incognito-chats",
-      "source": "The Verge",
-      "publishedAt": "2026-05-13T16:45:43Z",
-      "snippet": "Meta CEO Mark Zuckerberg says its new Incognito Chat is \"the first major AI product where there is no log of your conversations stored on servers.\" Messages in Incognito Chat aren't saved or stored in"
     }
   ],
   "trending": [
