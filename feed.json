@@ -1,6 +1,62 @@
 {
-  "updated": "2026-05-15T16:04:17Z",
+  "updated": "2026-05-15T19:24:46Z",
   "news": [
+    {
+      "title": "The OpenAI trial wraps up,\u00a0and the Musk founder machine keeps spinning",
+      "url": "https://techcrunch.com/podcast/the-openai-trial-wraps-up-and-the-musk-founder-machine-keeps-spinning/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-05-15T19:24:16Z",
+      "snippet": "The Musk v. Altman trial came to a close this week, and the final arguments kept circling back to one question:&#160;can we trust the people in charge of AI?&#160;All of this is playing out as SpaceX "
+    },
+    {
+      "title": "OpenAI keeps shuffling its executives in bid to win AI agent battle",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/931544/openai-keeps-shuffling-its-executives-in-bid-to-win-ai-agent-battle",
+      "source": "The Verge",
+      "publishedAt": "2026-05-15T18:21:35Z",
+      "snippet": "OpenAI announced yet another reorganization Friday, consolidating certain areas and making company president Greg Brockman the official lead of all things product. In a memo viewed by The Verge, Brock"
+    },
+    {
+      "title": "Silicon Valley\u2019s vacationland needs a new energy provider just as AI is driving prices up",
+      "url": "https://techcrunch.com/2026/05/15/silicon-valleys-vacationland-needs-a-new-energy-provider-just-as-ai-is-driving-prices-up/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-05-15T18:14:44Z",
+      "snippet": "Lake Tahoe, Silicon Valley's favorite ski spot, is about to get hit with higher energy prices as AI drives demand for electricity."
+    },
+    {
+      "title": "AI radio hosts demonstrate why AI can\u2019t be trusted alone",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/931479/andon-labs-ai-radio-companies",
+      "source": "The Verge",
+      "publishedAt": "2026-05-15T17:09:16Z",
+      "snippet": "Andon Labs has been running a series of experiments in which AI agents run businesses without human intervention. Its latest is a quartet of radio stations run by some of the most popular AI models ou"
+    },
+    {
+      "title": "Does Trump Mobile know how many stripes are on the American flag?",
+      "url": "https://www.theverge.com/gadgets/931347/trump-mobile-t1-phone-logo-flag-stars-stripes",
+      "source": "The Verge",
+      "publishedAt": "2026-05-15T16:47:16Z",
+      "snippet": "Where's the Trump phone? We're going to keep talking about it every week. We've reached out, as usual, to ask about the Trump phone's whereabouts. This week, despite our best hopes, we still don't hav"
+    },
+    {
+      "title": "Google updates its spam rules to include attempts to \u2018manipulate\u2019 AI",
+      "url": "https://www.theverge.com/tech/931416/google-ai-search-spam-policy",
+      "source": "The Verge",
+      "publishedAt": "2026-05-15T16:42:59Z",
+      "snippet": "Google updated its spam policy to mark attempts to \"manipulate\" its AI model in search results as spam, including results in AI Overview or AI Mode in Search, as Search Engine Land reports: \"In the co"
+    },
+    {
+      "title": "OpenAI now wants ChatGPT to access your bank accounts",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/931122/openai-chatgpt-financial-accounts-plaid-connection",
+      "source": "The Verge",
+      "publishedAt": "2026-05-15T16:00:00Z",
+      "snippet": "Your trust in AI is about to be put to the test: OpenAI will soon let you give the chatbot direct access to your bank accounts. The new feature announced in preview today will allow users to \"securely"
+    },
+    {
+      "title": "OpenAI launches ChatGPT for personal finance, will let you connect bank accounts",
+      "url": "https://techcrunch.com/2026/05/15/openai-launches-chatgpt-for-personal-finance-will-let-you-connect-bank-accounts/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-05-15T16:00:00Z",
+      "snippet": "Once users connect their accounts, they will see a dashboard of their portfolio performance, spending, subscriptions, and upcoming payments."
+    },
     {
       "title": "The promises and pitfalls of personalized health",
       "url": "https://www.theverge.com/column/931148/optimizer-pmos-pcos-personalized-health",
@@ -9,11 +65,11 @@
       "snippet": "This is Optimizer, a weekly newsletter sent every Friday from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life"
     },
     {
-      "title": "Runway started by helping filmmakers. Now it wants to beat Google at AI.",
+      "title": "Runway started by helping filmmakers \u2014 now it wants to beat Google at AI",
       "url": "https://techcrunch.com/2026/05/15/runway-started-by-helping-filmmakers-now-it-wants-to-beat-google-at-ai/",
       "source": "TechCrunch",
       "publishedAt": "2026-05-15T14:00:00Z",
-      "snippet": "AI video generation startup Runway is betting that video generation is the path to world models. And that being an AI outsider is an advantage, not a liability."
+      "snippet": "AI video-generation startup Runway is betting that video generation is the path to world models. And that being an AI outsider is an advantage, not a liability."
     },
     {
       "title": "Osaurus brings both local and cloud AI models to your Mac",
@@ -55,7 +111,7 @@
       "url": "https://www.theverge.com/ai-artificial-intelligence/930893/elon-musk-sam-altman-trial-ai-safety-jackass-statue",
       "source": "The Verge",
       "publishedAt": "2026-05-14T20:59:23Z",
-      "snippet": "Yesterday, in Musk v. Altman, before the jurors came in, Sam Altman's team passed up what looked - from a distance - like a little league trophy. It was not. Yvonne Gonzalez Rogers had the lawyers rea"
+      "snippet": "Yesterday, in Musk v. Altman, before the jurors came in, Sam Altman's team passed up what looked - from a distance - like a Little League trophy. It was not. Judge Yvonne Gonzalez Rogers had the lawye"
     },
     {
       "title": "OpenAI says Codex is coming to your phone",
@@ -93,39 +149,11 @@
       "snippet": "A new open source gadget called Clawdmeter turns Claude Code usage stats into a tiny desktop dashboard for AI coding power users."
     },
     {
-      "title": "Microsoft starts canceling Claude Code licenses",
-      "url": "https://www.theverge.com/tech/930447/microsoft-claude-code-discontinued-notepad",
-      "source": "The Verge",
-      "publishedAt": "2026-05-14T19:00:00Z",
-      "snippet": "Microsoft first started opening up access to Claude Code in December, inviting thousands of its own developers to use Anthropic's AI coding tool daily. It was part of an effort to get project managers"
-    },
-    {
-      "title": "Use this map to find the data centers in your backyard",
-      "url": "https://www.theverge.com/policy/930629/data-center-policy-map-interactive",
-      "source": "The Verge",
-      "publishedAt": "2026-05-14T17:40:00Z",
-      "snippet": "When Oregon resident Isabelle Reksopuro heard Google was gobbling up public land to fuel its data centers in her home state, she didn't initially know what to believe. \"There's a lot of misinformation"
-    },
-    {
       "title": "Cerebras raises $5.5B, then stock pops $108%, in the first huge tech IPO of 2026",
       "url": "https://techcrunch.com/2026/05/14/cerebras-raises-5-5b-kicking-off-2026s-ipo-season-with-a-bang/",
       "source": "TechCrunch",
       "publishedAt": "2026-05-14T16:30:02Z",
       "snippet": "A year ago, it looked like this day would never happen for Cerebras."
-    },
-    {
-      "title": "Live updates from Elon Musk and Sam Altman\u2019s court battle over the future of OpenAI",
-      "url": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
-      "source": "The Verge",
-      "publishedAt": "2026-05-14T15:46:04Z",
-      "snippet": "Sam Altman and Elon Musk are facing off in a high-stakes trial that could alter the future of OpenAI and its most well-known product, ChatGPT. In 2024, Musk filed a lawsuit accusing OpenAI of abandoni"
-    },
-    {
-      "title": "Americans do not want AI data centers in their backyards",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/930477/ai-data-centers-gallup-survey-70-percent-opposition",
-      "source": "The Verge",
-      "publishedAt": "2026-05-14T15:24:53Z",
-      "snippet": "Over 70 percent of Americans oppose AI data center construction in their area, according to a new Gallup survey. Just 7 percent said they were \"strongly\" in favor of new data centers. According to Gal"
     },
     {
       "title": "Khosla Ventures is betting $10M on Ian Crosby, whose first startup, Bench, imploded",
@@ -147,34 +175,6 @@
       "source": "TechCrunch",
       "publishedAt": "2026-05-14T14:00:00Z",
       "snippet": "Your shot at VC access, global visibility, TechCrunch coverage, and $100K equity-free funding is running out. Deadline to apply is May 27. Apply now."
-    },
-    {
-      "title": "Wirestock raises $23M to supply creative multimodal data to AI labs",
-      "url": "https://techcrunch.com/2026/05/14/wirestock-raises-23m-to-supply-multi-modal-data-to-ai-labs/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-05-14T14:00:00Z",
-      "snippet": "The company pivoted to being a data provider in 2023 and now supplies datasets of images, videos, design assets, and gaming and 3D content to AI labs."
-    },
-    {
-      "title": "You can make an app for that",
-      "url": "https://www.theverge.com/tech/928905/vibe-code-personal-software-revolution",
-      "source": "The Verge",
-      "publishedAt": "2026-05-14T11:00:00Z",
-      "snippet": "The tyranny of software is almost over. Since the first computer programmers wrote the first computer programs, we, the users of that software, have been forced to live in the worlds those programs cr"
-    },
-    {
-      "title": "Who decides what AI tells you? Campbell Brown, once Meta\u2019s news chief, has thoughts",
-      "url": "https://techcrunch.com/2026/05/13/who-decides-what-ai-tells-you-campbell-brown-once-metas-news-chief-has-thoughts/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-05-14T06:05:31Z",
-      "snippet": "\"The conversation is sort of happening in Silicon Valley around one thing, and a totally different conversation is happening among consumers,\" Campbell Brown said at StrictlyVC."
-    },
-    {
-      "title": "Clio\u2019s $500M milestone arrives just as Anthropic ups the ante",
-      "url": "https://techcrunch.com/2026/05/13/clios-500m-milestone-arrives-just-as-anthropic-ups-the-ante/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-05-14T05:24:39Z",
-      "snippet": "Legal tech startups, including Clio, which just hit $500 million in ARR, are seeing massive customer adoption."
     }
   ],
   "trending": [
@@ -189,14 +189,14 @@
       "downloads": 105097
     },
     {
-      "id": "SeeSee21/Z-Anime",
-      "displayName": "Z Anime",
-      "downloads": 13998
-    },
-    {
       "id": "unsloth/Qwen3.6-35B-A3B-MTP-GGUF",
       "displayName": "Qwen3.6 35B A3B MTP",
       "downloads": 97682
+    },
+    {
+      "id": "SeeSee21/Z-Anime",
+      "displayName": "Z Anime",
+      "downloads": 13998
     },
     {
       "id": "jackxinning/Leanly_AI",
