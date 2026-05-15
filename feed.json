@@ -1,6 +1,13 @@
 {
-  "updated": "2026-05-15T20:56:35Z",
+  "updated": "2026-05-15T22:51:24Z",
   "news": [
+    {
+      "title": "YouTube is expanding its AI deepfake detection tool to all adult users",
+      "url": "https://www.theverge.com/news/931884/youtube-likeness-detection-ai-deepfake-expansion-all-adults",
+      "source": "The Verge",
+      "publishedAt": "2026-05-15T22:25:00Z",
+      "snippet": "YouTube is expanding its AI likeness detection program to all users over the age of 18 - meaning just about anyone can have the platform hunt for potential deepfakes of themselves. The likeness detect"
+    },
     {
       "title": "ArXiv will ban researchers who upload papers full of AI slop",
       "url": "https://www.theverge.com/science/931766/arxiv-ai-slop-ban-researchers",
@@ -114,13 +121,6 @@
       "snippet": "More than 50 employees have reportedly left Elon Musk\u2019s newly merged SpaceXAI since February, raising questions about burnout, leadership changes, talent poaching, and whether liquidity events weakene"
     },
     {
-      "title": "Behold, the Elon Musk jackass trophy",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/930893/elon-musk-sam-altman-trial-ai-safety-jackass-statue",
-      "source": "The Verge",
-      "publishedAt": "2026-05-14T20:59:23Z",
-      "snippet": "Yesterday, in Musk v. Altman, before the jurors came in, Sam Altman's team passed up what looked - from a distance - like a Little League trophy. It was not. Judge Yvonne Gonzalez Rogers had the lawye"
-    },
-    {
       "title": "OpenAI says Codex is coming to your phone",
       "url": "https://techcrunch.com/2026/05/14/openai-says-codex-is-coming-to-your-phone/",
       "source": "TechCrunch",
@@ -224,9 +224,9 @@
       "downloads": 3075105
     },
     {
-      "id": "havenoammo/Qwen3.6-27B-MTP-UD-GGUF",
-      "displayName": "Qwen3.6 27B MTP UD",
-      "downloads": 62035
+      "id": "DavidAU/Qwen3.6-27B-Heretic-Uncensored-FINETUNE-NEO-CODE-Di-IMatrix-MAX-GGUF",
+      "displayName": "Qwen3.6 27B Heretic Uncensored FINETUNE NEO CODE Di IMatrix MAX",
+      "downloads": 287171
     }
   ]
 }
