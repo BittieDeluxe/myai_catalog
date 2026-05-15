@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-15T02:46:24Z",
+  "updated": "2026-05-15T06:52:33Z",
   "news": [
     {
       "title": "What the jury will actually decide in the case of Elon Musk vs. Sam Altman",
@@ -184,14 +184,14 @@
       "downloads": 627368
     },
     {
-      "id": "SeeSee21/Z-Anime",
-      "displayName": "Z Anime",
-      "downloads": 12061
-    },
-    {
       "id": "unsloth/Qwen3.6-27B-MTP-GGUF",
       "displayName": "Qwen3.6 27B MTP",
       "downloads": 74765
+    },
+    {
+      "id": "SeeSee21/Z-Anime",
+      "displayName": "Z Anime",
+      "downloads": 12061
     },
     {
       "id": "unsloth/Qwen3.6-35B-A3B-MTP-GGUF",
