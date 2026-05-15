@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-15T06:52:33Z",
+  "updated": "2026-05-15T10:18:31Z",
   "news": [
     {
       "title": "What the jury will actually decide in the case of Elon Musk vs. Sam Altman",
@@ -181,32 +181,32 @@
     {
       "id": "SulphurAI/Sulphur-2-base",
       "displayName": "Sulphur 2 base",
-      "downloads": 627368
+      "downloads": 783564
     },
     {
       "id": "unsloth/Qwen3.6-27B-MTP-GGUF",
       "displayName": "Qwen3.6 27B MTP",
-      "downloads": 74765
+      "downloads": 105097
     },
     {
       "id": "SeeSee21/Z-Anime",
       "displayName": "Z Anime",
-      "downloads": 12061
+      "downloads": 13998
     },
     {
       "id": "unsloth/Qwen3.6-35B-A3B-MTP-GGUF",
       "displayName": "Qwen3.6 35B A3B MTP",
-      "downloads": 67190
+      "downloads": 97682
     },
     {
       "id": "jackxinning/Leanly_AI",
       "displayName": "Leanly_AI",
-      "downloads": 10668
+      "downloads": 10822
     },
     {
       "id": "Jiunsong/supergemma4-26b-uncensored-gguf-v2",
       "displayName": "supergemma4 26b uncensored v2",
-      "downloads": 287048
+      "downloads": 279744
     },
     {
       "id": "RuneXX/LTX-2.3-Workflows",
@@ -216,17 +216,17 @@
     {
       "id": "antirez/deepseek-v4-gguf",
       "displayName": "deepseek v4",
-      "downloads": 212601
+      "downloads": 230548
     },
     {
       "id": "unsloth/Qwen3.6-35B-A3B-GGUF",
       "displayName": "Qwen3.6 35B A3B",
-      "downloads": 3001877
+      "downloads": 3075105
     },
     {
       "id": "havenoammo/Qwen3.6-27B-MTP-UD-GGUF",
       "displayName": "Qwen3.6 27B MTP UD",
-      "downloads": 60142
+      "downloads": 62035
     }
   ]
 }
