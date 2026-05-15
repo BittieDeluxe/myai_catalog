@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-14T22:53:26Z",
+  "updated": "2026-05-15T02:46:24Z",
   "news": [
     {
       "title": "What the jury will actually decide in the case of Elon Musk vs. Sam Altman",
@@ -219,14 +219,14 @@
       "downloads": 212601
     },
     {
-      "id": "havenoammo/Qwen3.6-27B-MTP-UD-GGUF",
-      "displayName": "Qwen3.6 27B MTP UD",
-      "downloads": 60142
-    },
-    {
       "id": "unsloth/Qwen3.6-35B-A3B-GGUF",
       "displayName": "Qwen3.6 35B A3B",
       "downloads": 3001877
+    },
+    {
+      "id": "havenoammo/Qwen3.6-27B-MTP-UD-GGUF",
+      "displayName": "Qwen3.6 27B MTP UD",
+      "downloads": 60142
     }
   ]
 }
