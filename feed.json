@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-15T22:51:24Z",
+  "updated": "2026-05-16T02:35:23Z",
   "news": [
     {
       "title": "YouTube is expanding its AI deepfake detection tool to all adult users",
@@ -199,11 +199,6 @@
       "downloads": 13998
     },
     {
-      "id": "jackxinning/Leanly_AI",
-      "displayName": "Leanly_AI",
-      "downloads": 10822
-    },
-    {
       "id": "Jiunsong/supergemma4-26b-uncensored-gguf-v2",
       "displayName": "supergemma4 26b uncensored v2",
       "downloads": 279744
@@ -217,6 +212,11 @@
       "id": "antirez/deepseek-v4-gguf",
       "displayName": "deepseek v4",
       "downloads": 230548
+    },
+    {
+      "id": "jackxinning/Leanly_AI",
+      "displayName": "Leanly_AI",
+      "downloads": 10822
     },
     {
       "id": "unsloth/Qwen3.6-35B-A3B-GGUF",
