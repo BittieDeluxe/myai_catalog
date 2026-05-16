@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-16T06:19:06Z",
+  "updated": "2026-05-16T09:26:44Z",
   "news": [
     {
       "title": "YouTube is expanding its AI deepfake detection tool to all adult users",
@@ -181,27 +181,27 @@
     {
       "id": "SulphurAI/Sulphur-2-base",
       "displayName": "Sulphur 2 base",
-      "downloads": 783564
+      "downloads": 875370
     },
     {
       "id": "unsloth/Qwen3.6-27B-MTP-GGUF",
       "displayName": "Qwen3.6 27B MTP",
-      "downloads": 105097
+      "downloads": 133815
     },
     {
       "id": "unsloth/Qwen3.6-35B-A3B-MTP-GGUF",
       "displayName": "Qwen3.6 35B A3B MTP",
-      "downloads": 97682
+      "downloads": 124082
     },
     {
       "id": "SeeSee21/Z-Anime",
       "displayName": "Z Anime",
-      "downloads": 13998
+      "downloads": 14494
     },
     {
       "id": "Jiunsong/supergemma4-26b-uncensored-gguf-v2",
       "displayName": "supergemma4 26b uncensored v2",
-      "downloads": 279744
+      "downloads": 273759
     },
     {
       "id": "RuneXX/LTX-2.3-Workflows",
@@ -211,22 +211,22 @@
     {
       "id": "antirez/deepseek-v4-gguf",
       "displayName": "deepseek v4",
-      "downloads": 230548
+      "downloads": 264757
     },
     {
       "id": "jackxinning/Leanly_AI",
       "displayName": "Leanly_AI",
-      "downloads": 10822
+      "downloads": 10961
     },
     {
       "id": "unsloth/Qwen3.6-35B-A3B-GGUF",
       "displayName": "Qwen3.6 35B A3B",
-      "downloads": 3075105
+      "downloads": 2965505
     },
     {
-      "id": "unsloth/Qwen3.6-27B-GGUF",
-      "displayName": "Qwen3.6 27B",
-      "downloads": 1670662
+      "id": "DavidAU/Qwen3.6-27B-Heretic-Uncensored-FINETUNE-NEO-CODE-Di-IMatrix-MAX-GGUF",
+      "displayName": "Qwen3.6 27B Heretic Uncensored FINETUNE NEO CODE Di IMatrix MAX",
+      "downloads": 311205
     }
   ]
 }
