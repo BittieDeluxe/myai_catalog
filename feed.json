@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-16T20:41:30Z",
+  "updated": "2026-05-16T22:40:39Z",
   "news": [
     {
       "title": "The haves and have nots of the AI gold rush",
@@ -204,14 +204,14 @@
       "downloads": 273759
     },
     {
-      "id": "RuneXX/LTX-2.3-Workflows",
-      "displayName": "LTX 2.3 Workflows",
-      "downloads": 0
-    },
-    {
       "id": "antirez/deepseek-v4-gguf",
       "displayName": "deepseek v4",
       "downloads": 264757
+    },
+    {
+      "id": "RuneXX/LTX-2.3-Workflows",
+      "displayName": "LTX 2.3 Workflows",
+      "downloads": 0
     },
     {
       "id": "jackxinning/Leanly_AI",
@@ -224,9 +224,9 @@
       "downloads": 2965505
     },
     {
-      "id": "DavidAU/Qwen3.6-27B-Heretic-Uncensored-FINETUNE-NEO-CODE-Di-IMatrix-MAX-GGUF",
-      "displayName": "Qwen3.6 27B Heretic Uncensored FINETUNE NEO CODE Di IMatrix MAX",
-      "downloads": 311205
+      "id": "vantagewithai/LTX2.3-10Eros-GGUF",
+      "displayName": "LTX2.3 10Eros",
+      "downloads": 56603
     }
   ]
 }
