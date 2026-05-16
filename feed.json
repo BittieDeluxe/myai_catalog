@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-16T02:35:23Z",
+  "updated": "2026-05-16T06:19:06Z",
   "news": [
     {
       "title": "YouTube is expanding its AI deepfake detection tool to all adult users",
@@ -224,9 +224,9 @@
       "downloads": 3075105
     },
     {
-      "id": "DavidAU/Qwen3.6-27B-Heretic-Uncensored-FINETUNE-NEO-CODE-Di-IMatrix-MAX-GGUF",
-      "displayName": "Qwen3.6 27B Heretic Uncensored FINETUNE NEO CODE Di IMatrix MAX",
-      "downloads": 287171
+      "id": "unsloth/Qwen3.6-27B-GGUF",
+      "displayName": "Qwen3.6 27B",
+      "downloads": 1670662
     }
   ]
 }
