@@ -1,6 +1,13 @@
 {
-  "updated": "2026-05-16T16:54:49Z",
+  "updated": "2026-05-16T18:58:57Z",
   "news": [
+    {
+      "title": "Research repository ArXiv will ban authors for a year if they let AI do all the work",
+      "url": "https://techcrunch.com/2026/05/16/research-repository-arxiv-will-ban-authors-for-a-year-if-they-let-ai-do-all-the-work/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-05-16T18:54:28Z",
+      "snippet": "ArXiv is doing more to crack down on the careless use of large language models in scientific papers."
+    },
     {
       "title": "Sony tries to explain that its AI Camera Assistant doesn\u2019t suck",
       "url": "https://www.theverge.com/tech/932133/sony-xperia-1-xiii-ai-camera-assistant",
@@ -9,7 +16,7 @@
       "snippet": "After Sony drew some unwanted attention for a post demonstrating its AI Camera Assistant on the Xperia 1 XIII, it's trying to clarify how the feature works. The company says it doesn't edit photos, bu"
     },
     {
-      "title": "OpenAI co-founder Greg Brockman reportedly takes charge of product strategy",
+      "title": "OpenAI co-founder Greg Brockman takes charge of product strategy",
       "url": "https://techcrunch.com/2026/05/16/openai-co-founder-greg-brockman-reportedly-takes-charge-of-product-strategy/",
       "source": "TechCrunch",
       "publishedAt": "2026-05-16T15:33:33Z",
@@ -168,13 +175,6 @@
       "source": "TechCrunch",
       "publishedAt": "2026-05-14T15:20:18Z",
       "snippet": "Crosby is building Synthetic, a fully autonomous AI bookkeeping service for other startups."
-    },
-    {
-      "title": "Cisco cuts nearly 4,000 jobs to spend more on AI, reports \u2018record quarterly revenue\u2019",
-      "url": "https://techcrunch.com/2026/05/14/cisco-cuts-nearly-4000-jobs-to-spend-more-on-ai-reports-record-quarterly-revenue/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-05-14T14:01:14Z",
-      "snippet": "This is Cisco's latest layoff in recent years, while the company's chief executive touts record revenue and growth."
     }
   ],
   "trending": [
