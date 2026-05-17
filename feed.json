@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-17T06:41:38Z",
+  "updated": "2026-05-17T09:43:20Z",
   "news": [
     {
       "title": "The haves and have nots of the AI gold rush",
@@ -181,32 +181,32 @@
     {
       "id": "SulphurAI/Sulphur-2-base",
       "displayName": "Sulphur 2 base",
-      "downloads": 875370
+      "downloads": 970124
     },
     {
       "id": "unsloth/Qwen3.6-27B-MTP-GGUF",
       "displayName": "Qwen3.6 27B MTP",
-      "downloads": 133815
+      "downloads": 185303
     },
     {
       "id": "unsloth/Qwen3.6-35B-A3B-MTP-GGUF",
       "displayName": "Qwen3.6 35B A3B MTP",
-      "downloads": 124082
+      "downloads": 181425
     },
     {
       "id": "SeeSee21/Z-Anime",
       "displayName": "Z Anime",
-      "downloads": 14494
+      "downloads": 14991
     },
     {
       "id": "Jiunsong/supergemma4-26b-uncensored-gguf-v2",
       "displayName": "supergemma4 26b uncensored v2",
-      "downloads": 273759
+      "downloads": 268773
     },
     {
       "id": "antirez/deepseek-v4-gguf",
       "displayName": "deepseek v4",
-      "downloads": 264757
+      "downloads": 283772
     },
     {
       "id": "RuneXX/LTX-2.3-Workflows",
@@ -216,17 +216,17 @@
     {
       "id": "jackxinning/Leanly_AI",
       "displayName": "Leanly_AI",
-      "downloads": 10961
+      "downloads": 9383
     },
     {
       "id": "unsloth/Qwen3.6-35B-A3B-GGUF",
       "displayName": "Qwen3.6 35B A3B",
-      "downloads": 2965505
+      "downloads": 2731687
     },
     {
-      "id": "DavidAU/Qwen3.6-27B-Heretic-Uncensored-FINETUNE-NEO-CODE-Di-IMatrix-MAX-GGUF",
-      "displayName": "Qwen3.6 27B Heretic Uncensored FINETUNE NEO CODE Di IMatrix MAX",
-      "downloads": 311205
+      "id": "vantagewithai/LTX2.3-10Eros-GGUF",
+      "displayName": "LTX2.3 10Eros",
+      "downloads": 62704
     }
   ]
 }
