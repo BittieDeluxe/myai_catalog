@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-16T22:40:39Z",
+  "updated": "2026-05-17T02:43:48Z",
   "news": [
     {
       "title": "The haves and have nots of the AI gold rush",
@@ -224,9 +224,9 @@
       "downloads": 2965505
     },
     {
-      "id": "vantagewithai/LTX2.3-10Eros-GGUF",
-      "displayName": "LTX2.3 10Eros",
-      "downloads": 56603
+      "id": "DavidAU/Qwen3.6-27B-Heretic-Uncensored-FINETUNE-NEO-CODE-Di-IMatrix-MAX-GGUF",
+      "displayName": "Qwen3.6 27B Heretic Uncensored FINETUNE NEO CODE Di IMatrix MAX",
+      "downloads": 311205
     }
   ]
 }
