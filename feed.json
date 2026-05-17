@@ -1,6 +1,20 @@
 {
-  "updated": "2026-05-17T16:54:15Z",
+  "updated": "2026-05-17T19:03:10Z",
   "news": [
+    {
+      "title": "Revamped Siri will reportedly offer auto-deleting chats",
+      "url": "https://www.theverge.com/tech/932207/siri-apple-intelligence-auto-deleting-chats",
+      "source": "The Verge",
+      "publishedAt": "2026-05-17T18:40:28Z",
+      "snippet": "Apple is hoping that its record on privacy can be the differentiator on the AI front, and maybe even buy it a little slack as it continues to lag behind the competition. According to Bloomberg's Mark "
+    },
+    {
+      "title": "University of Arizona students boo Eric Schmidt\u2019s AI cheerleading during commencement",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/932203/university-of-arizona-students-boo-eric-schmidt-ai-commencement",
+      "source": "The Verge",
+      "publishedAt": "2026-05-17T17:22:23Z",
+      "snippet": "Former Google CEO Eric Schmidt delivered the commencement address at the University of Arizona on Friday. And, as his speech veered into talk of AI, he was repeatedly drowned out by boos. AI is alread"
+    },
     {
       "title": "If you\u2019re giving a commencement speech in 2026, maybe don\u2019t mention AI",
       "url": "https://techcrunch.com/2026/05/17/if-youre-giving-a-commencement-speech-in-2026-maybe-dont-mention-ai/",
@@ -107,25 +121,11 @@
       "snippet": "Google updated its spam policy to mark attempts to \"manipulate\" its AI model in search results as spam, including results in AI Overview or AI Mode in Search, as Search Engine Land reports: \"In the co"
     },
     {
-      "title": "OpenAI now wants ChatGPT to access your bank accounts",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/931122/openai-chatgpt-financial-accounts-plaid-connection",
-      "source": "The Verge",
-      "publishedAt": "2026-05-15T16:00:00Z",
-      "snippet": "Your trust in AI is about to be put to the test: OpenAI will soon let you give the chatbot direct access to your bank accounts. The new feature announced in preview today will allow users to \"securely"
-    },
-    {
       "title": "OpenAI launches ChatGPT for personal finance, will let you connect bank accounts",
       "url": "https://techcrunch.com/2026/05/15/openai-launches-chatgpt-for-personal-finance-will-let-you-connect-bank-accounts/",
       "source": "TechCrunch",
       "publishedAt": "2026-05-15T16:00:00Z",
       "snippet": "Once users connect their accounts, they will see a dashboard of their portfolio performance, spending, subscriptions, and upcoming payments."
-    },
-    {
-      "title": "The promises and pitfalls of personalized health",
-      "url": "https://www.theverge.com/column/931148/optimizer-pmos-pcos-personalized-health",
-      "source": "The Verge",
-      "publishedAt": "2026-05-15T14:00:00Z",
-      "snippet": "This is Optimizer, a weekly newsletter sent every Friday from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life"
     },
     {
       "title": "Runway started by helping filmmakers \u2014 now it wants to beat Google at AI",
@@ -194,14 +194,14 @@
       "downloads": 181425
     },
     {
-      "id": "SeeSee21/Z-Anime",
-      "displayName": "Z Anime",
-      "downloads": 14991
-    },
-    {
       "id": "Jiunsong/supergemma4-26b-uncensored-gguf-v2",
       "displayName": "supergemma4 26b uncensored v2",
       "downloads": 268773
+    },
+    {
+      "id": "SeeSee21/Z-Anime",
+      "displayName": "Z Anime",
+      "downloads": 14991
     },
     {
       "id": "antirez/deepseek-v4-gguf",
@@ -219,14 +219,14 @@
       "downloads": 9383
     },
     {
-      "id": "unsloth/Qwen3.6-35B-A3B-GGUF",
-      "displayName": "Qwen3.6 35B A3B",
-      "downloads": 2731687
-    },
-    {
       "id": "vantagewithai/LTX2.3-10Eros-GGUF",
       "displayName": "LTX2.3 10Eros",
       "downloads": 62704
+    },
+    {
+      "id": "unsloth/Qwen3.6-35B-A3B-GGUF",
+      "displayName": "Qwen3.6 35B A3B",
+      "downloads": 2731687
     }
   ]
 }
