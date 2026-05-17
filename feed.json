@@ -1,6 +1,20 @@
 {
-  "updated": "2026-05-17T14:53:00Z",
+  "updated": "2026-05-17T16:54:15Z",
   "news": [
+    {
+      "title": "If you\u2019re giving a commencement speech in 2026, maybe don\u2019t mention AI",
+      "url": "https://techcrunch.com/2026/05/17/if-youre-giving-a-commencement-speech-in-2026-maybe-dont-mention-ai/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-05-17T16:32:04Z",
+      "snippet": "It's tough to get graduating students excited about a future shaped by artificial intelligence."
+    },
+    {
+      "title": "TechCrunch Mobility: The AI skills arms race is coming for automotive",
+      "url": "https://techcrunch.com/2026/05/17/techcrunch-mobility-the-ai-skills-arms-race-is-coming-for-automotive/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-05-17T16:05:00Z",
+      "snippet": "Welcome back to TechCrunch Mobility \u2014 your central hub for news and insights on the future of transportation."
+    },
     {
       "title": "Chatbots at the drive-thru are just the beginning",
       "url": "https://www.theverge.com/column/928096/chatbots-ai-drive-thru-mcdonalds-wendys",
@@ -161,20 +175,6 @@
       "source": "TechCrunch",
       "publishedAt": "2026-05-14T19:12:03Z",
       "snippet": "OpenAI is so frustrated with Apple over a ChatGPT integration that failed to deliver the subscribers and prominence it expected that the company is now actively exploring legal action against the iPho"
-    },
-    {
-      "title": "Clawdmeter turns your Claude Code usage stats into a tiny desktop dashboard",
-      "url": "https://techcrunch.com/2026/05/14/clawdmeter-turns-your-claude-code-usage-stats-into-a-tiny-desktop-dashboard/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-05-14T19:05:01Z",
-      "snippet": "A new open source gadget called Clawdmeter turns Claude Code usage stats into a tiny desktop dashboard for AI coding power users."
-    },
-    {
-      "title": "Cerebras raises $5.5B, then stock pops $108%, in the first huge tech IPO of 2026",
-      "url": "https://techcrunch.com/2026/05/14/cerebras-raises-5-5b-kicking-off-2026s-ipo-season-with-a-bang/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-05-14T16:30:02Z",
-      "snippet": "A year ago, it looked like this day would never happen for Cerebras."
     }
   ],
   "trending": [
