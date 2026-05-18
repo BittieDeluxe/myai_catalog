@@ -1,12 +1,12 @@
 {
-  "updated": "2026-05-18T19:44:24Z",
+  "updated": "2026-05-18T21:07:35Z",
   "news": [
     {
       "title": "Anthropic has acquired the dev tools startup used by OpenAI, Google, and Cloudflare",
       "url": "https://techcrunch.com/2026/05/18/anthropic-has-acquired-the-dev-tools-startup-used-by-openai-google-and-cloudflare/",
       "source": "TechCrunch",
       "publishedAt": "2026-05-18T19:27:52Z",
-      "snippet": "Stainless, a New York-based startup, will wind down all hosted products as part of the acquisition."
+      "snippet": "Stainless, a New York-based startup, founded in 2022, rose to prominence in the emerging AI industry for automating the creation and maintenance of software development kits, or SDKs \u2014 the libraries d"
     },
     {
       "title": "Musk v. Altman proved that AI is led by the wrong people",
@@ -34,7 +34,7 @@
       "url": "https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/",
       "source": "TechCrunch",
       "publishedAt": "2026-05-18T17:34:43Z",
-      "snippet": "Elon Musk's claim that he was mistreated by his OpenAI cofounders failed after nine California jurors decided in a unanimous verdict that his lawsuits had been filed too late."
+      "snippet": "Elon Musk's claim that he was mistreated by his OpenAI co-founders failed after nine California jurors decided in a unanimous verdict that his lawsuits had been filed too late."
     },
     {
       "title": "Amazon Alexa Plus can now create AI-generated podcasts",
