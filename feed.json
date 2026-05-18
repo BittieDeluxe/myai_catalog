@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-18T02:53:51Z",
+  "updated": "2026-05-18T07:58:22Z",
   "news": [
     {
       "title": "Apple\u2019s Siri revamp could include auto-deleting chats",
@@ -181,37 +181,37 @@
     {
       "id": "SulphurAI/Sulphur-2-base",
       "displayName": "Sulphur 2 base",
-      "downloads": 970124
+      "downloads": 1049229
     },
     {
       "id": "unsloth/Qwen3.6-27B-MTP-GGUF",
       "displayName": "Qwen3.6 27B MTP",
-      "downloads": 185303
+      "downloads": 268305
     },
     {
       "id": "unsloth/Qwen3.6-35B-A3B-MTP-GGUF",
       "displayName": "Qwen3.6 35B A3B MTP",
-      "downloads": 181425
+      "downloads": 237613
     },
     {
       "id": "Jiunsong/supergemma4-26b-uncensored-gguf-v2",
       "displayName": "supergemma4 26b uncensored v2",
-      "downloads": 268773
+      "downloads": 267449
     },
     {
       "id": "SeeSee21/Z-Anime",
       "displayName": "Z Anime",
-      "downloads": 14991
+      "downloads": 15495
     },
     {
       "id": "antirez/deepseek-v4-gguf",
       "displayName": "deepseek v4",
-      "downloads": 283772
+      "downloads": 295917
     },
     {
       "id": "jackxinning/Leanly_AI",
       "displayName": "Leanly_AI",
-      "downloads": 9383
+      "downloads": 9432
     },
     {
       "id": "RuneXX/LTX-2.3-Workflows",
@@ -221,12 +221,12 @@
     {
       "id": "Jackrong/Qwopus3.5-9B-Coder-GGUF",
       "displayName": "Qwopus3.5 9B Coder",
-      "downloads": 1762
+      "downloads": 6462
     },
     {
       "id": "vantagewithai/LTX2.3-10Eros-GGUF",
       "displayName": "LTX2.3 10Eros",
-      "downloads": 62704
+      "downloads": 71456
     }
   ]
 }
