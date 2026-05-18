@@ -1,6 +1,13 @@
 {
-  "updated": "2026-05-18T11:48:01Z",
+  "updated": "2026-05-18T15:21:22Z",
   "news": [
+    {
+      "title": "Amazon\u2019s new Alexa+ powered feature can generate podcast episodes",
+      "url": "https://techcrunch.com/2026/05/18/amazons-new-alexa-powered-feature-can-generate-podcast-episodes/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-05-18T14:56:47Z",
+      "snippet": "Amazon\u2019s Alexa+ can now generate custom AI podcasts on demand, as the company expands its assistant into a personalized AI content platform."
+    },
     {
       "title": "South Korea\u2019s LetinAR is building optics behind AI glasses",
       "url": "https://techcrunch.com/2026/05/18/south-koreas-letinar-is-building-the-optics-behind-ai-glasses/",
@@ -168,13 +175,6 @@
       "source": "TechCrunch",
       "publishedAt": "2026-05-14T22:47:51Z",
       "snippet": "Here's what the biggest tech court case of the year is all about."
-    },
-    {
-      "title": "Elon Musk\u2019s SpaceXAI has been bleeding staff since its merger",
-      "url": "https://techcrunch.com/2026/05/14/elon-musks-spacexai-has-been-bleeding-staff-since-its-merger/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-05-14T21:30:44Z",
-      "snippet": "More than 50 employees have reportedly left Elon Musk\u2019s newly merged SpaceXAI since February, raising questions about burnout, leadership changes, talent poaching, and whether liquidity events weakene"
     }
   ],
   "trending": [
@@ -214,14 +214,14 @@
       "downloads": 295917
     },
     {
-      "id": "jackxinning/Leanly_AI",
-      "displayName": "Leanly_AI",
-      "downloads": 9432
-    },
-    {
       "id": "RuneXX/LTX-2.3-Workflows",
       "displayName": "LTX 2.3 Workflows",
       "downloads": 0
+    },
+    {
+      "id": "jackxinning/Leanly_AI",
+      "displayName": "Leanly_AI",
+      "downloads": 9432
     },
     {
       "id": "vantagewithai/LTX2.3-10Eros-GGUF",
