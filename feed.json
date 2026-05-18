@@ -1,6 +1,13 @@
 {
-  "updated": "2026-05-18T07:58:22Z",
+  "updated": "2026-05-18T11:48:01Z",
   "news": [
+    {
+      "title": "South Korea\u2019s LetinAR is building optics behind AI glasses",
+      "url": "https://techcrunch.com/2026/05/18/south-koreas-letinar-is-building-the-optics-behind-ai-glasses/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-05-18T11:00:00Z",
+      "snippet": "A lens the size of a thumbnail \u2014 and the South Korean startup that makes it could become the optical backbone of the AI glasses era."
+    },
     {
       "title": "Apple\u2019s Siri revamp could include auto-deleting chats",
       "url": "https://techcrunch.com/2026/05/17/apples-siri-revamp-could-include-auto-deleting-chats/",
@@ -16,11 +23,11 @@
       "snippet": "A big theme in the trial\u2019s final days was whether OpenAI CEO Sam Altman is trustworthy."
     },
     {
-      "title": "Revamped Siri will reportedly offer auto-deleting chats",
+      "title": "Revamped Siri will reportedly offer autodeleting chats",
       "url": "https://www.theverge.com/tech/932207/siri-apple-intelligence-auto-deleting-chats",
       "source": "The Verge",
       "publishedAt": "2026-05-17T18:40:28Z",
-      "snippet": "Apple is hoping that its record on privacy can be the differentiator on the AI front, and maybe even buy it a little slack as it continues to lag behind the competition. According to Bloomberg's Mark "
+      "snippet": "Apple is hoping that its record on privacy can be the differentiator on the AI front and maybe even buy it a little slack as it continues to lag behind the competition. According to Bloomberg's Mark G"
     },
     {
       "title": "University of Arizona students boo Eric Schmidt\u2019s AI cheerleading during commencement",
@@ -168,13 +175,6 @@
       "source": "TechCrunch",
       "publishedAt": "2026-05-14T21:30:44Z",
       "snippet": "More than 50 employees have reportedly left Elon Musk\u2019s newly merged SpaceXAI since February, raising questions about burnout, leadership changes, talent poaching, and whether liquidity events weakene"
-    },
-    {
-      "title": "OpenAI says Codex is coming to your phone",
-      "url": "https://techcrunch.com/2026/05/14/openai-says-codex-is-coming-to-your-phone/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-05-14T20:58:55Z",
-      "snippet": "The update gives users enhanced flexibility over how they can manage their workflows."
     }
   ],
   "trending": [
@@ -204,6 +204,11 @@
       "downloads": 15495
     },
     {
+      "id": "Jackrong/Qwopus3.5-9B-Coder-GGUF",
+      "displayName": "Qwopus3.5 9B Coder",
+      "downloads": 6462
+    },
+    {
       "id": "antirez/deepseek-v4-gguf",
       "displayName": "deepseek v4",
       "downloads": 295917
@@ -217,11 +222,6 @@
       "id": "RuneXX/LTX-2.3-Workflows",
       "displayName": "LTX 2.3 Workflows",
       "downloads": 0
-    },
-    {
-      "id": "Jackrong/Qwopus3.5-9B-Coder-GGUF",
-      "displayName": "Qwopus3.5 9B Coder",
-      "downloads": 6462
     },
     {
       "id": "vantagewithai/LTX2.3-10Eros-GGUF",
