@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-17T22:50:25Z",
+  "updated": "2026-05-18T02:53:51Z",
   "news": [
     {
       "title": "Apple\u2019s Siri revamp could include auto-deleting chats",
@@ -209,19 +209,19 @@
       "downloads": 283772
     },
     {
-      "id": "RuneXX/LTX-2.3-Workflows",
-      "displayName": "LTX 2.3 Workflows",
-      "downloads": 0
-    },
-    {
       "id": "jackxinning/Leanly_AI",
       "displayName": "Leanly_AI",
       "downloads": 9383
     },
     {
-      "id": "unsloth/Qwen3.6-35B-A3B-GGUF",
-      "displayName": "Qwen3.6 35B A3B",
-      "downloads": 2731687
+      "id": "RuneXX/LTX-2.3-Workflows",
+      "displayName": "LTX 2.3 Workflows",
+      "downloads": 0
+    },
+    {
+      "id": "Jackrong/Qwopus3.5-9B-Coder-GGUF",
+      "displayName": "Qwopus3.5 9B Coder",
+      "downloads": 1762
     },
     {
       "id": "vantagewithai/LTX2.3-10Eros-GGUF",
