@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-18T22:56:56Z",
+  "updated": "2026-05-19T02:50:50Z",
   "news": [
     {
       "title": "SandboxAQ brings its drug discovery models to Claude \u2014 no PhD in computing required",
@@ -194,11 +194,6 @@
       "downloads": 237613
     },
     {
-      "id": "Jiunsong/supergemma4-26b-uncensored-gguf-v2",
-      "displayName": "supergemma4 26b uncensored v2",
-      "downloads": 267449
-    },
-    {
       "id": "Jackrong/Qwopus3.5-9B-Coder-GGUF",
       "displayName": "Qwopus3.5 9B Coder",
       "downloads": 6462
@@ -207,6 +202,11 @@
       "id": "SeeSee21/Z-Anime",
       "displayName": "Z Anime",
       "downloads": 15495
+    },
+    {
+      "id": "Jiunsong/supergemma4-26b-uncensored-gguf-v2",
+      "displayName": "supergemma4 26b uncensored v2",
+      "downloads": 267449
     },
     {
       "id": "jackxinning/Leanly_AI",
