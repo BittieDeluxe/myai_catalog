@@ -1,180 +1,180 @@
 {
-  "updated": "2026-05-19T14:52:11Z",
+  "updated": "2026-05-19T18:02:04Z",
   "news": [
     {
-      "title": "Gemini is in danger of going full Copilot",
-      "url": "https://www.theverge.com/tech/931752/google-io-2026-gemini-icon-docs-workspace",
+      "title": "Gemini will use Volvo\u2019s external cameras to interpret parking signs",
+      "url": "https://www.theverge.com/transportation/933556/google-io-gemini-volvo-ex60-camera-ai-parking",
       "source": "The Verge",
-      "publishedAt": "2026-05-19T10:30:00Z",
-      "snippet": "Gemini has a creep problem. A few years ago, that little sparkle icon started showing up in all of our Google apps. Gemini in your inbox! Gemini in your Google Drive! It was slow at first, and easy en"
+      "publishedAt": "2026-05-19T18:00:00Z",
+      "snippet": "Gemini is gaining the power of sight and mobility. Today at the I/O conference, Google and Volvo announced that the AI-powered assistant will be able to access external cameras in the upcoming EX60 SU"
     },
     {
-      "title": "SandboxAQ brings its drug discovery models to Claude \u2014 no PhD in computing required",
-      "url": "https://techcrunch.com/2026/05/18/sandboxaq-brings-its-drug-discovery-models-to-claude-no-phd-in-computing-required/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-05-18T21:29:31Z",
-      "snippet": "Other venture-backed companies like Chai Discovery and Isomorphic Labs have raced to build better models. SandboxAQ is betting that access is the bigger obstacle and that Claude solves it."
-    },
-    {
-      "title": "Anthropic has acquired the dev tools startup used by OpenAI, Google, and Cloudflare",
-      "url": "https://techcrunch.com/2026/05/18/anthropic-has-acquired-the-dev-tools-startup-used-by-openai-google-and-cloudflare/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-05-18T19:27:52Z",
-      "snippet": "Stainless, a New York-based startup, founded in 2022, rose to prominence in the emerging AI industry for automating the creation and maintenance of software development kits, or SDKs \u2014 the libraries d"
-    },
-    {
-      "title": "Musk v. Altman proved that AI is led by the wrong people",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/932464/musk-v-altman-proved-that-ai-is-led-by-the-wrong-people",
+      "title": "The 13 biggest announcements at Google I/O 2026",
+      "url": "https://www.theverge.com/tech/933415/google-io-2026-biggest-announcements-ai-gemini",
       "source": "The Verge",
-      "publishedAt": "2026-05-18T19:00:00Z",
-      "snippet": "The tech trial of the year, Musk v. Altman, was ultimately a fight for control. Elon Musk argued that Sam Altman, with whom he helped found the now-massive company OpenAI, shouldn't direct the future "
+      "publishedAt": "2026-05-19T17:54:33Z",
+      "snippet": "Google's I/O 2026 keynote today was once again full of AI-related announcements including a new family of Gemini 3.5 AI models, new features for Search and Gmail, and updates about its Project Aura sm"
     },
     {
-      "title": "All of the updates from Elon Musk and Sam Altman\u2019s battle over OpenAI",
-      "url": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
+      "title": "Google\u2019s Genie world model can now simulate real streets with Street View",
+      "url": "https://techcrunch.com/2026/05/19/googles-genie-world-model-can-now-simulate-real-streets-with-street-view/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-05-19T17:51:39Z",
+      "snippet": "Google DeepMind is integrating Street View with Project Genie to create immersive, interactive world simulations for robotics, gaming, and travel, allowing users to explore environments, weather chang"
+    },
+    {
+      "title": "With Gemini 3.5 Flash, Google bets its next AI wave on agents, not chatbots",
+      "url": "https://techcrunch.com/2026/05/19/with-gemini-3-5-flash-google-bets-its-next-ai-wave-on-agents-not-chatbots/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-05-19T17:51:30Z",
+      "snippet": "Google launched Gemini 3.5 Flash, its most powerful coding and agentic AI model yet, at the company's annual developer conference. It is capable of autonomously executing complex tasks and building so"
+    },
+    {
+      "title": "How to use Google\u2019s new information agents",
+      "url": "https://techcrunch.com/2026/05/19/how-to-use-googles-new-information-agents/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-05-19T17:50:00Z",
+      "snippet": "Google is launching AI-powered \u201cinformation agents\u201d that can monitor topics in the background and proactively alert users to updates and changes."
+    },
+    {
+      "title": "Google wants to compete with Anthropic\u2019s Mythos",
+      "url": "https://www.theverge.com/tech/933921/google-wants-to-compete-with-anthropics-mythos",
       "source": "The Verge",
-      "publishedAt": "2026-05-18T17:49:49Z",
-      "snippet": "Sam Altman and Elon Musk are facing off in a high-stakes trial that could alter the future of OpenAI and its most well-known product, ChatGPT. In 2024, Musk filed a lawsuit accusing OpenAI of abandoni"
+      "publishedAt": "2026-05-19T17:48:22Z",
+      "snippet": "Google is making a big push into cybersecurity. At I/O, the company announced that it was inviting select groups of experts to test the API for CodeMender, an \"AI agent for code security\" it debuted l"
     },
     {
-      "title": "Elon Musk loses his case against Sam Altman",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/932383/jury-verdict-musk-v-altman-openai-trial",
+      "title": "Google Search as you know it is over",
+      "url": "https://techcrunch.com/2026/05/19/google-search-as-you-know-it-is-over/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-05-19T17:46:00Z",
+      "snippet": "Google is transforming Search from a list of links into an AI-powered experience filled with conversational answers, autonomous agents, and interactive interfaces \u2014 a shift that could further reduce t"
+    },
+    {
+      "title": "Google can now vibe-code you an Android app",
+      "url": "https://www.theverge.com/tech/932364/google-ai-studio-native-android-apps-vibe-code-google-io-2026",
       "source": "The Verge",
-      "publishedAt": "2026-05-18T17:39:32Z",
-      "snippet": "After around two hours of deliberation, the jury has reached a unanimous verdict in Musk v. Altman, the tech trial of the year. The group found that two claims were barred by the statute of limitation"
+      "publishedAt": "2026-05-19T17:45:00Z",
+      "snippet": "Google is announcing a major upgrade to one of its vibe coding platforms: Beginning today, you can now use AI Studio to build native Android apps. With Google AI Studio, you can prompt your idea for a"
     },
     {
-      "title": "Elon Musk has lost his lawsuit against Sam Altman and OpenAI",
-      "url": "https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-05-18T17:34:43Z",
-      "snippet": "Elon Musk's claim that he was mistreated by his OpenAI co-founders failed after nine California jurors decided in a unanimous verdict that his lawsuits had been filed too late."
-    },
-    {
-      "title": "Amazon Alexa Plus can now create AI-generated podcasts",
-      "url": "https://www.theverge.com/tech/932375/amazon-alexa-plus-ai-podcasts",
+      "title": "Would you let robots spend your money? Google is betting on it",
+      "url": "https://www.theverge.com/news/932927/google-io-agentic-ai-shopping-universal-cart",
       "source": "The Verge",
-      "publishedAt": "2026-05-18T15:55:25Z",
-      "snippet": "Alexa Plus, Amazon's upgraded AI assistant, can now generate podcasts on \"virtually any topic,\" according to an announcement on Monday. With the update, Amazon says you can give Alexa Plus a topic, an"
+      "publishedAt": "2026-05-19T17:45:00Z",
+      "snippet": "Google is going all in on AI-driven shopping even as some competitors back off. At Google I/O, the company unveiled the latest iteration of its AI commerce tools: a \"Universal Cart\" that works across "
     },
     {
-      "title": "Amazon\u2019s new Alexa+ powered feature can generate podcast episodes",
-      "url": "https://techcrunch.com/2026/05/18/amazons-new-alexa-powered-feature-can-generate-podcast-episodes/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-05-18T14:56:47Z",
-      "snippet": "Amazon\u2019s Alexa+ can now generate custom AI podcasts on demand, as the company expands its assistant into a personalized AI content platform."
-    },
-    {
-      "title": "South Korea\u2019s LetinAR is building optics behind AI glasses",
-      "url": "https://techcrunch.com/2026/05/18/south-koreas-letinar-is-building-the-optics-behind-ai-glasses/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-05-18T11:00:00Z",
-      "snippet": "A lens the size of a thumbnail \u2014 and the South Korean startup that makes it \u2014 could become the optical backbone of the AI glasses era."
-    },
-    {
-      "title": "Apple\u2019s Siri revamp could include auto-deleting chats",
-      "url": "https://techcrunch.com/2026/05/17/apples-siri-revamp-could-include-auto-deleting-chats/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-05-17T20:15:00Z",
-      "snippet": "Privacy will be a major theme when Apple unveils a new version of Siri."
-    },
-    {
-      "title": "Why trust is a big question at the Elon Musk-OpenAI trial",
-      "url": "https://techcrunch.com/2026/05/17/why-trust-is-a-big-question-at-the-elon-musk-openai-trial/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-05-17T19:46:34Z",
-      "snippet": "A big theme in the trial\u2019s final days was whether OpenAI CEO Sam Altman is trustworthy."
-    },
-    {
-      "title": "Revamped Siri will reportedly offer autodeleting chats",
-      "url": "https://www.theverge.com/tech/932207/siri-apple-intelligence-auto-deleting-chats",
+      "title": "Google Search is getting its biggest changes ever",
+      "url": "https://www.theverge.com/tech/932970/google-search-ai-update-io-2026",
       "source": "The Verge",
-      "publishedAt": "2026-05-17T18:40:28Z",
-      "snippet": "Apple is hoping that its record on privacy can be the differentiator on the AI front and maybe even buy it a little slack as it continues to lag behind the competition. According to Bloomberg's Mark G"
+      "publishedAt": "2026-05-19T17:45:00Z",
+      "snippet": "Google Search is entering the next phase of its AI evolution. During Google I/O 2026, the company showed off a reimagined search box that makes it easier to flow between AI Overviews, the AI-generated"
     },
     {
-      "title": "University of Arizona students boo Eric Schmidt\u2019s AI cheerleading during commencement",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/932203/university-of-arizona-students-boo-eric-schmidt-ai-commencement",
+      "title": "Gmail is going to start talking to you",
+      "url": "https://www.theverge.com/tech/932973/google-gmail-live-ai-keep-docs-io-2026",
       "source": "The Verge",
-      "publishedAt": "2026-05-17T17:22:23Z",
-      "snippet": "Former Google CEO Eric Schmidt delivered the commencement address at the University of Arizona on Friday. And, as his speech veered into talk of AI, he was repeatedly drowned out by boos. AI is alread"
+      "publishedAt": "2026-05-19T17:45:00Z",
+      "snippet": "Google is launching a big new feature for Gmail called Gmail Live, a new AI-powered voice mode that's basically the Gemini Live experience but built specifically for your inbox. To use Gmail Live, tap"
     },
     {
-      "title": "If you\u2019re giving a commencement speech in 2026, maybe don\u2019t mention AI",
-      "url": "https://techcrunch.com/2026/05/17/if-youre-giving-a-commencement-speech-in-2026-maybe-dont-mention-ai/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-05-17T16:32:04Z",
-      "snippet": "It's tough to get graduating students excited about a future shaped by artificial intelligence."
-    },
-    {
-      "title": "TechCrunch Mobility: The AI skills arms race is coming for automotive",
-      "url": "https://techcrunch.com/2026/05/17/techcrunch-mobility-the-ai-skills-arms-race-is-coming-for-automotive/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-05-17T16:05:00Z",
-      "snippet": "Welcome back to TechCrunch Mobility \u2014 your central hub for news and insights on the future of transportation."
-    },
-    {
-      "title": "Chatbots at the drive-thru are just the beginning",
-      "url": "https://www.theverge.com/column/928096/chatbots-ai-drive-thru-mcdonalds-wendys",
+      "title": "Google is launching its own version of OpenClaw",
+      "url": "https://www.theverge.com/tech/932996/google-gemini-spark-antigravity-io-2026",
       "source": "The Verge",
-      "publishedAt": "2026-05-17T12:00:00Z",
-      "snippet": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more news about how AI is seeping into our daily lives, follow Emma Roth. The Stepback arrives in o"
+      "publishedAt": "2026-05-19T17:45:00Z",
+      "snippet": "Google is launching its own take on OpenClaw, the buzzy AI agent platform that caused a stir in the tech industry earlier this year. Announced during Google I/O 2026, Gemini Spark is an always-on AI a"
     },
     {
-      "title": "The haves and have-nots of the AI gold rush",
-      "url": "https://techcrunch.com/2026/05/16/the-haves-and-have-nots-of-the-ai-gold-rush/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-05-16T20:17:16Z",
-      "snippet": "The vibes around the current AI boom aren't great, even in the tech industry."
-    },
-    {
-      "title": "Research repository ArXiv will ban authors for a year if they let AI do all the work",
-      "url": "https://techcrunch.com/2026/05/16/research-repository-arxiv-will-ban-authors-for-a-year-if-they-let-ai-do-all-the-work/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-05-16T18:54:28Z",
-      "snippet": "ArXiv is doing more to crack down on the careless use of large language models in scientific papers."
-    },
-    {
-      "title": "Sony tries to explain that its AI Camera Assistant doesn\u2019t suck",
-      "url": "https://www.theverge.com/tech/932133/sony-xperia-1-xiii-ai-camera-assistant",
+      "title": "Google Pics is a new app that tries to fix AI image editing",
+      "url": "https://www.theverge.com/tech/933026/google-pics-app-workspace-ai-images-io-2026",
       "source": "The Verge",
-      "publishedAt": "2026-05-16T15:37:05Z",
-      "snippet": "After Sony drew some unwanted attention for a post demonstrating its AI Camera Assistant on the Xperia 1 XIII, it's trying to clarify how the feature works. The company says it doesn't edit photos, bu"
+      "publishedAt": "2026-05-19T17:45:00Z",
+      "snippet": "Google is launching a new AI image generation app to Workspace that it's calling Pics, and it has a new feature to try and reduce the hassle of iterating on AI images: Instead of having to write an en"
     },
     {
-      "title": "OpenAI co-founder Greg Brockman takes charge of product strategy",
-      "url": "https://techcrunch.com/2026/05/16/openai-co-founder-greg-brockman-reportedly-takes-charge-of-product-strategy/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-05-16T15:33:33Z",
-      "snippet": "OpenAI's latest shake-up comes as the company reportedly plans to combine ChatGPT and its programming product Codex."
-    },
-    {
-      "title": "YouTube is expanding its AI deepfake detection tool to all adult users",
-      "url": "https://www.theverge.com/news/931884/youtube-likeness-detection-ai-deepfake-expansion-all-adults",
+      "title": "Google is trying to make deepfake detection more accessible for everyone",
+      "url": "https://www.theverge.com/tech/933424/google-synthid-c2pa-content-credentials-expansion",
       "source": "The Verge",
-      "publishedAt": "2026-05-15T22:25:00Z",
-      "snippet": "YouTube is expanding its AI likeness detection program to all users over the age of 18 - meaning just about anyone can have the platform hunt for potential deepfakes of themselves. The likeness detect"
+      "publishedAt": "2026-05-19T17:45:00Z",
+      "snippet": "Google is expanding AI detection capabilities to Chrome and Search, with the aim of making it easier for people to identify deepfakes. The updates, announced at Google I/O today, cover not only SynthI"
     },
     {
-      "title": "The OpenAI trial wraps up,\u00a0and the Musk founder machine keeps spinning",
-      "url": "https://techcrunch.com/podcast/the-openai-trial-wraps-up-and-the-musk-founder-machine-keeps-spinning/",
+      "title": "Google\u2019s AI Studio now lets anyone build Android apps in minutes",
+      "url": "https://techcrunch.com/2026/05/19/googles-ai-studio-now-lets-anyone-build-android-apps-in-minutes/",
       "source": "TechCrunch",
-      "publishedAt": "2026-05-15T19:24:16Z",
-      "snippet": "The Musk v. Altman trial came to a close this week, and the final arguments kept circling back to one question:&#160;can we trust the people in charge of AI?&#160;All of this is playing out as SpaceX "
+      "publishedAt": "2026-05-19T17:45:00Z",
+      "snippet": "Google unveiled new web-based AI tools that can generate native Android apps in minutes, as the company expands its push into AI-powered software development."
     },
     {
-      "title": "Silicon Valley\u2019s vacationland needs a new energy provider just as AI is driving prices up",
-      "url": "https://techcrunch.com/2026/05/15/silicon-valleys-vacationland-needs-a-new-energy-provider-just-as-ai-is-driving-prices-up/",
+      "title": "Agentic app coding gets an upgrade with Google\u2019s release of Android CLI",
+      "url": "https://techcrunch.com/2026/05/19/agentic-app-coding-gets-an-upgrade-with-googles-release-of-android-cli/",
       "source": "TechCrunch",
-      "publishedAt": "2026-05-15T18:14:44Z",
-      "snippet": "Lake Tahoe, Silicon Valley's favorite vacation spot, is about to get hit with higher energy prices as AI drives demand for electricity."
+      "publishedAt": "2026-05-19T17:45:00Z",
+      "snippet": "Google is embracing the rise of AI coding agents with new Android tools designed to work with platforms like Claude Code and OpenAI\u2019s Codex, allowing developers \u2014 or their AI assistants \u2014 to build And"
     },
     {
-      "title": "OpenAI launches ChatGPT for personal finance, will let you connect bank accounts",
-      "url": "https://techcrunch.com/2026/05/15/openai-launches-chatgpt-for-personal-finance-will-let-you-connect-bank-accounts/",
+      "title": "Google\u2019s new Universal Cart wants to follow you across the entire internet",
+      "url": "https://techcrunch.com/2026/05/19/googles-new-universal-cart-wants-to-follow-you-across-the-entire-internet/",
       "source": "TechCrunch",
-      "publishedAt": "2026-05-15T16:00:00Z",
-      "snippet": "Once users connect their accounts, they will see a dashboard of their portfolio performance, spending, subscriptions, and upcoming payments."
+      "publishedAt": "2026-05-19T17:45:00Z",
+      "snippet": "The tech giant says it's aware that most people shop across multiple devices, many retailers, and over the course of many days, which is why it's launching Universal Cart."
+    },
+    {
+      "title": "Google introduces Gemini Spark, a 24/7 agentic assistant with Gmail integration",
+      "url": "https://techcrunch.com/2026/05/19/google-introduces-gemini-spark-a-24-7-agentic-assistant-with-gmail-integration/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-05-19T17:45:00Z",
+      "snippet": "At the I/O developer conference, Google announced a new agentic personal assistant called Gemini Spark, built from Gemini's base models and an agentic harness from Google Antigravity."
+    },
+    {
+      "title": "Google adds voice-based prompting to Docs and Keep",
+      "url": "https://techcrunch.com/2026/05/19/google-adds-voice-based-prompting-to-docs-and-keep/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-05-19T17:45:00Z",
+      "snippet": "Google is letting users create drafts, take notes, and search for email with voice with the new Workspace update"
+    },
+    {
+      "title": "Google\u2019s AI now lets you talk to your Gmail inbox",
+      "url": "https://techcrunch.com/2026/05/19/googles-ai-now-lets-you-talk-to-your-gmail-inbox/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-05-19T17:45:00Z",
+      "snippet": "Google expands Gmail\u2019s AI Inbox with conversational voice search, letting users ask Gemini to find buried email details."
+    },
+    {
+      "title": "Google just declared itself a contender in AI design",
+      "url": "https://techcrunch.com/2026/05/19/ai-design-tools-are-the-next-big-battleground-and-google-is-going-all-in/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-05-19T17:45:00Z",
+      "snippet": "The tech giant says it's designed the app to be accessible to everyone, from teachers to small business owners."
+    },
+    {
+      "title": "Google\u2019s Gemini Omni turns images, audio, and text into video \u2014 and that\u2019s just the start",
+      "url": "https://techcrunch.com/2026/05/19/googles-gemini-omni-turns-images-audio-and-text-into-video-and-thats-just-the-start/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-05-19T17:45:00Z",
+      "snippet": "Google's Gemini Omni is a new multimodal model that reasons across text, images, audio, and video to generate and edit videos through simple conversation \u2014 starting with Omni Flash."
+    },
+    {
+      "title": "Google launches Antigravity 2.0 with an updated desktop app and CLI tool",
+      "url": "https://techcrunch.com/2026/05/19/google-launches-antigravity-2-0-with-an-updated-desktop-app-and-cli-tool/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-05-19T17:45:00Z",
+      "snippet": "Google is debuting a new AI Ultra plan priced at $100, which will give users 5x more usage limit than the  AI Pro plan alongside Antigravity 2.0 launch."
+    },
+    {
+      "title": "Google updates its Gemini app to take on ChatGPT and Claude",
+      "url": "https://techcrunch.com/2026/05/19/google-updates-its-gemini-app-to-take-on-chatgpt-and-claude/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-05-19T17:45:00Z",
+      "snippet": "The updates signal Google\u2019s push to turn its Gemini Gemini app into an all-purpose AI hub rather than a standalone chatbot."
+    },
+    {
+      "title": "OpenAI is making it easier to check if an image was made by their models",
+      "url": "https://techcrunch.com/2026/05/19/openai-is-making-it-easier-to-check-if-an-image-was-made-by-their-models/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-05-19T17:45:00Z",
+      "snippet": "OpenAI announced two new measures to help detect AI generated imagery: joining the open C2PA standard and adding Google's SynthID to its products."
     }
   ],
   "trending": [
