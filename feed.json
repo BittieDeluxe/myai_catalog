@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-19T02:50:50Z",
+  "updated": "2026-05-19T07:41:47Z",
   "news": [
     {
       "title": "SandboxAQ brings its drug discovery models to Claude \u2014 no PhD in computing required",
@@ -181,37 +181,37 @@
     {
       "id": "SulphurAI/Sulphur-2-base",
       "displayName": "Sulphur 2 base",
-      "downloads": 1049229
+      "downloads": 1114657
     },
     {
       "id": "unsloth/Qwen3.6-27B-MTP-GGUF",
       "displayName": "Qwen3.6 27B MTP",
-      "downloads": 268305
+      "downloads": 337076
     },
     {
       "id": "unsloth/Qwen3.6-35B-A3B-MTP-GGUF",
       "displayName": "Qwen3.6 35B A3B MTP",
-      "downloads": 237613
+      "downloads": 296380
     },
     {
       "id": "Jackrong/Qwopus3.5-9B-Coder-GGUF",
       "displayName": "Qwopus3.5 9B Coder",
-      "downloads": 6462
+      "downloads": 12117
     },
     {
       "id": "SeeSee21/Z-Anime",
       "displayName": "Z Anime",
-      "downloads": 15495
+      "downloads": 15794
     },
     {
       "id": "Jiunsong/supergemma4-26b-uncensored-gguf-v2",
       "displayName": "supergemma4 26b uncensored v2",
-      "downloads": 267449
+      "downloads": 268561
     },
     {
       "id": "jackxinning/Leanly_AI",
       "displayName": "Leanly_AI",
-      "downloads": 9432
+      "downloads": 9440
     },
     {
       "id": "RuneXX/LTX-2.3-Workflows",
@@ -221,12 +221,12 @@
     {
       "id": "antirez/deepseek-v4-gguf",
       "displayName": "deepseek v4",
-      "downloads": 295917
+      "downloads": 322696
     },
     {
-      "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
-      "displayName": "Qwen3.6 35B A3B Uncensored HauhauCS Aggressive",
-      "downloads": 1234339
+      "id": "HauhauCS/Gemma4-26B-A4B-Uncensored-HauhauCS-Balanced",
+      "displayName": "Gemma4 26B A4B Uncensored HauhauCS Balanced",
+      "downloads": 53662
     }
   ]
 }
