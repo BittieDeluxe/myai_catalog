@@ -1,6 +1,48 @@
 {
-  "updated": "2026-05-20T14:54:40Z",
+  "updated": "2026-05-20T18:12:59Z",
   "news": [
+    {
+      "title": "Vibe coding is coming to your phone",
+      "url": "https://www.theverge.com/tech/934628/google-io-2026-android-ai-studio-widgets-shortcuts",
+      "source": "The Verge",
+      "publishedAt": "2026-05-20T17:40:00Z",
+      "snippet": "\"There's an app for that\" was the promise of the App Store from the very beginning. The app that will get your phone to do the thing you want it to? It's just a few taps away. The tagline wasn't stric"
+    },
+    {
+      "title": "OpenAI barrels towards IPO that may happen in September",
+      "url": "https://techcrunch.com/2026/05/20/openai-barrels-towards-ipo-that-may-happen-in-september/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-05-20T17:24:24Z",
+      "snippet": "A day after Elon Musk lost his lawsuit that threatened OpenAI's structure, leadership and finances, OpenAI is reportedly back to prepping for its IPO."
+    },
+    {
+      "title": "You can now remix other people\u2019s YouTube Shorts with AI",
+      "url": "https://www.theverge.com/tech/934704/google-gemini-omni-youtub-shorts-remix-ai",
+      "source": "The Verge",
+      "publishedAt": "2026-05-20T16:41:40Z",
+      "snippet": "Google announced a new YouTube Shorts Remix feature that lets users restyle clips or even insert themselves into other people's videos using Gemini Omni. Now, at the bottom of a YouTube Short, when yo"
+    },
+    {
+      "title": "Google Search\u2019s AI evolution includes more ads",
+      "url": "https://www.theverge.com/tech/934585/google-ai-shopping-ads-search",
+      "source": "The Verge",
+      "publishedAt": "2026-05-20T16:00:00Z",
+      "snippet": "Google's AI-powered Search era apparently also extends to its ads. Now, when you look for a product in Search, Google's Gemini AI model will surface relevant items and generate a \"custom explainer\" ab"
+    },
+    {
+      "title": "AI search startups are blowing up",
+      "url": "https://techcrunch.com/2026/05/20/ai-search-startups-are-blowing-up/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-05-20T15:04:45Z",
+      "snippet": "AI search has quietly become one of the most attractive targets in consumer AI."
+    },
+    {
+      "title": "Stability AI releases a new audio model that can create 6-minute songs",
+      "url": "https://techcrunch.com/2026/05/20/stability-ai-release-a-new-audio-model-that-can-create-six-minute-songs/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-05-20T15:00:00Z",
+      "snippet": "Stability Audio 3.0 small model can run on-device and generate two-minute long tracks."
+    },
     {
       "title": "It&#8217;s make or break time for AI labeling systems",
       "url": "https://www.theverge.com/ai-artificial-intelligence/934521/google-synthid-c2pa-content-credentials-ai-labelling-efforts",
@@ -9,18 +51,18 @@
       "snippet": "We're about to find out if the systems designed to make deepfakes and AI-generated content easy to spot are actually up to snuff. SynthID and C2PA Content Credentials, two distinct technologies for in"
     },
     {
+      "title": "Startup Battlefield 200 applications close in 1 week: Window to nominate and apply for the most promising startups closes May 27",
+      "url": "https://techcrunch.com/2026/05/20/startup-battlefield-200-applications-close-in-1-week-window-to-nominate-and-apply-for-the-most-promising-startups-closes-may-27/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-05-20T14:00:00Z",
+      "snippet": "Startup Battlefield 200 applications close May 27. Pitch at TechCrunch Disrupt, get investor access, win $100K, plus more scaling perks. Nominate an early-stage founder or submit your startup today."
+    },
+    {
       "title": "NanoClaw\u00a0creator\u00a0turns\u00a0down $20M buyout offer, raises $12M seed instead",
       "url": "https://techcrunch.com/2026/05/20/nanoclaw-creator-turns-down-20m-buyout-offer-raises-12m-seed-instead/",
       "source": "TechCrunch",
       "publishedAt": "2026-05-20T14:00:00Z",
-      "snippet": "NanoCo, the company behind  OpenClaw alternative NanoClaw, has raised a $12 million seed after a viral launch, the founders tell TechCrunch."
-    },
-    {
-      "title": "Startup Battlefield 200 applications close in one week: Window to nominate and apply for the most promising startups ends May 27",
-      "url": "https://techcrunch.com/2026/05/20/startup-battlefield-200-applications-close-in-one-week-window-to-nominate-and-apply-for-the-most-promising-startups-ends-may-27/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-05-20T14:00:00Z",
-      "snippet": "Startup Battlefield 200 applications close May 27. Pitch at TechCrunch Disrupt, get investor access, win $100K, plus more scaling perks. Nominate an early-stage founder or submit your startup here."
+      "snippet": "NanoClaw was created as a secure alternative to OpenClaw to assist the Cohen brothers with their AI marketing firm that used agents to do much of the work. But instead of running directly on a compute"
     },
     {
       "title": "If Google can\u2019t\u00a0make AI agents useful, maybe no one can",
@@ -114,13 +156,6 @@
       "snippet": "Gemini is gaining the power of sight and mobility. Today at the I/O conference, Google and Volvo announced that the AI-powered assistant will be able to access external cameras in the upcoming EX60 SU"
     },
     {
-      "title": "The 13 biggest announcements at Google I/O 2026",
-      "url": "https://www.theverge.com/tech/933415/google-io-2026-biggest-announcements-ai-gemini",
-      "source": "The Verge",
-      "publishedAt": "2026-05-19T17:54:33Z",
-      "snippet": "Google's I/O 2026 keynote today was once again full of AI-related announcements including a new family of Gemini 3.5 AI models, new features for Search and Gmail, and updates about its Project Aura sm"
-    },
-    {
       "title": "Google\u2019s Genie world model can now simulate real streets with Street View",
       "url": "https://techcrunch.com/2026/05/19/googles-genie-world-model-can-now-simulate-real-streets-with-street-view/",
       "source": "TechCrunch",
@@ -135,46 +170,11 @@
       "snippet": "Google launched Gemini 3.5 Flash, its most powerful coding and agentic AI model yet, at the company's annual developer conference. It is capable of autonomously executing complex tasks and building so"
     },
     {
-      "title": "Google wants to compete with Anthropic\u2019s Mythos",
-      "url": "https://www.theverge.com/tech/933921/google-wants-to-compete-with-anthropics-mythos",
-      "source": "The Verge",
-      "publishedAt": "2026-05-19T17:48:22Z",
-      "snippet": "Google is making a big push into cybersecurity. At I/O, the company announced that it was inviting select groups of experts to test the API for CodeMender, an \"AI agent for code security\" it debuted l"
-    },
-    {
       "title": "Google Search as you know it is over",
       "url": "https://techcrunch.com/2026/05/19/google-search-as-you-know-it-is-over/",
       "source": "TechCrunch",
       "publishedAt": "2026-05-19T17:46:00Z",
       "snippet": "Google is transforming Search from a list of links into an AI-powered experience filled with conversational answers, autonomous agents, and interactive interfaces \u2014 a shift that could further reduce t"
-    },
-    {
-      "title": "Google can now vibe-code you an Android app",
-      "url": "https://www.theverge.com/tech/932364/google-ai-studio-native-android-apps-vibe-code-google-io-2026",
-      "source": "The Verge",
-      "publishedAt": "2026-05-19T17:45:00Z",
-      "snippet": "Google is announcing a major upgrade to one of its vibe coding platforms: Beginning today, you can now use AI Studio to build native Android apps. With Google AI Studio, you can prompt your idea for a"
-    },
-    {
-      "title": "OpenAI is making it easier to check if an image was made by their models",
-      "url": "https://techcrunch.com/2026/05/19/openai-is-making-it-easier-to-check-if-an-image-was-made-by-their-models/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-05-19T17:45:00Z",
-      "snippet": "OpenAI announced two new measures to help detect AI generated imagery: joining the open C2PA standard and adding Google's SynthID to its products."
-    },
-    {
-      "title": "Agentic app coding gets an upgrade with Google\u2019s release of Android CLI",
-      "url": "https://techcrunch.com/2026/05/19/agentic-app-coding-gets-an-upgrade-with-googles-release-of-android-cli/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-05-19T17:45:00Z",
-      "snippet": "Google is embracing the rise of AI coding agents with new Android tools designed to work with platforms like Claude Code and OpenAI\u2019s Codex, allowing developers \u2014 or their AI assistants \u2014 to build And"
-    },
-    {
-      "title": "Google\u2019s AI Studio now lets anyone build Android apps in minutes",
-      "url": "https://techcrunch.com/2026/05/19/googles-ai-studio-now-lets-anyone-build-android-apps-in-minutes/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-05-19T17:45:00Z",
-      "snippet": "Google unveiled new web-based AI tools that can generate native Android apps in minutes, as the company expands its push into AI-powered software development."
     }
   ],
   "trending": [
