@@ -1,6 +1,34 @@
 {
-  "updated": "2026-05-20T18:12:59Z",
+  "updated": "2026-05-20T21:48:14Z",
   "news": [
+    {
+      "title": "Anthropic will pay xAI $1.25 billion per month for compute",
+      "url": "https://techcrunch.com/2026/05/20/anthropic-will-pay-xai-1-25-billion-per-month-for-compute/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-05-20T21:29:22Z",
+      "snippet": "Elon Musk's xAI surprised the AI world when it made a deal to sell compute to Anthropic. Now we know how much it's worth."
+    },
+    {
+      "title": "\u2018Solve all diseases,\u2019 you say?",
+      "url": "https://www.theverge.com/column/935021/google-io-gemini-for-science-alphafold-alphagenome-ai-health",
+      "source": "The Verge",
+      "publishedAt": "2026-05-20T21:06:35Z",
+      "snippet": "This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. This week's"
+    },
+    {
+      "title": "OpenAI claims it solved an 80-year-old math problem \u2014 for real this time",
+      "url": "https://techcrunch.com/2026/05/20/openai-claims-it-solved-an-80-year-old-math-problem-for-real-this-time/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-05-20T20:28:27Z",
+      "snippet": "OpenAI claims its reasoning model disproved a geometry conjecture unsolved since 1946 \u2014 and this time, the mathematicians who exposed its last embarrassing claim are backing it up."
+    },
+    {
+      "title": "IrisGo, a startup backed by Andrew Ng, looks to become the AI desktop buddy you never knew you needed",
+      "url": "https://techcrunch.com/2026/05/20/irisgo-a-startup-backed-by-andrew-ng-looks-to-become-the-ai-desktop-buddy-you-never-knew-you-needed/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-05-20T19:47:20Z",
+      "snippet": "Initially billed as an \"AI butler,\" Iris watches what happens on a user's desktop and automatically learns how to do tasks for them, its co-founder says."
+    },
     {
       "title": "Vibe coding is coming to your phone",
       "url": "https://www.theverge.com/tech/934628/google-io-2026-android-ai-studio-widgets-shortcuts",
@@ -9,11 +37,11 @@
       "snippet": "\"There's an app for that\" was the promise of the App Store from the very beginning. The app that will get your phone to do the thing you want it to? It's just a few taps away. The tagline wasn't stric"
     },
     {
-      "title": "OpenAI barrels towards IPO that may happen in September",
-      "url": "https://techcrunch.com/2026/05/20/openai-barrels-towards-ipo-that-may-happen-in-september/",
+      "title": "OpenAI barrels toward IPO that may happen in September",
+      "url": "https://techcrunch.com/2026/05/20/openai-barrels-toward-ipo-that-may-happen-in-september/",
       "source": "TechCrunch",
       "publishedAt": "2026-05-20T17:24:24Z",
-      "snippet": "A day after Elon Musk lost his lawsuit that threatened OpenAI's structure, leadership and finances, OpenAI is reportedly back to prepping for its IPO."
+      "snippet": "A day after Elon Musk lost his lawsuit that threatened OpenAI's structure, leadership, and finances, OpenAI is reportedly back to prepping for its IPO."
     },
     {
       "title": "You can now remix other people\u2019s YouTube Shorts with AI",
@@ -83,7 +111,7 @@
       "url": "https://techcrunch.com/2026/05/20/figma-adds-an-ai-assistant-to-its-collaborative-canvas/",
       "source": "TechCrunch",
       "publishedAt": "2026-05-20T13:00:00Z",
-      "snippet": "Figma's new AI assistant will be first available on Figma Design"
+      "snippet": "Figma says users can employ natural language text prompts to direct its new AI agent to generate new designs, edit existing ones, or automate tasks such as generating iterations of existing designs."
     },
     {
       "title": "Demis Hassabis said this might be the \u2018foothills of the singularity.\u2019 What?",
@@ -147,34 +175,6 @@
       "source": "TechCrunch",
       "publishedAt": "2026-05-19T19:15:31Z",
       "snippet": "Google is calling the new devices \"audio glasses,\" in that users will be able to issue verbal commands to them and get things done via its ecosystem of apps and services, including Gemini."
-    },
-    {
-      "title": "Gemini will use Volvo\u2019s external cameras to interpret parking signs",
-      "url": "https://www.theverge.com/transportation/933556/google-io-gemini-volvo-ex60-camera-ai-parking",
-      "source": "The Verge",
-      "publishedAt": "2026-05-19T18:00:00Z",
-      "snippet": "Gemini is gaining the power of sight and mobility. Today at the I/O conference, Google and Volvo announced that the AI-powered assistant will be able to access external cameras in the upcoming EX60 SU"
-    },
-    {
-      "title": "Google\u2019s Genie world model can now simulate real streets with Street View",
-      "url": "https://techcrunch.com/2026/05/19/googles-genie-world-model-can-now-simulate-real-streets-with-street-view/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-05-19T17:51:39Z",
-      "snippet": "Google DeepMind is integrating Street View with Project Genie to create immersive, interactive world simulations for robotics, gaming, and travel, allowing users to explore environments, weather chang"
-    },
-    {
-      "title": "With Gemini 3.5 Flash, Google bets its next AI wave on agents, not chatbots",
-      "url": "https://techcrunch.com/2026/05/19/with-gemini-3-5-flash-google-bets-its-next-ai-wave-on-agents-not-chatbots/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-05-19T17:51:30Z",
-      "snippet": "Google launched Gemini 3.5 Flash, its most powerful coding and agentic AI model yet, at the company's annual developer conference. It is capable of autonomously executing complex tasks and building so"
-    },
-    {
-      "title": "Google Search as you know it is over",
-      "url": "https://techcrunch.com/2026/05/19/google-search-as-you-know-it-is-over/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-05-19T17:46:00Z",
-      "snippet": "Google is transforming Search from a list of links into an AI-powered experience filled with conversational answers, autonomous agents, and interactive interfaces \u2014 a shift that could further reduce t"
     }
   ],
   "trending": [
@@ -204,19 +204,14 @@
       "downloads": 16159
     },
     {
-      "id": "RuneXX/LTX-2.3-Workflows",
-      "displayName": "LTX 2.3 Workflows",
-      "downloads": 0
-    },
-    {
       "id": "HauhauCS/Gemma4-26B-A4B-Uncensored-HauhauCS-Balanced",
       "displayName": "Gemma4 26B A4B Uncensored HauhauCS Balanced",
       "downloads": 61106
     },
     {
-      "id": "antirez/deepseek-v4-gguf",
-      "displayName": "deepseek v4",
-      "downloads": 326891
+      "id": "RuneXX/LTX-2.3-Workflows",
+      "displayName": "LTX 2.3 Workflows",
+      "downloads": 0
     },
     {
       "id": "Jiunsong/supergemma4-26b-uncensored-gguf-v2",
@@ -227,6 +222,11 @@
       "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
       "displayName": "Qwen3.6 35B A3B Uncensored HauhauCS Aggressive",
       "downloads": 1222863
+    },
+    {
+      "id": "antirez/deepseek-v4-gguf",
+      "displayName": "deepseek v4",
+      "downloads": 326891
     }
   ]
 }
