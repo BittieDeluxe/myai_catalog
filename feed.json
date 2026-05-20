@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-20T02:51:14Z",
+  "updated": "2026-05-20T07:39:43Z",
   "news": [
     {
       "title": "Demis Hassabis said this might be the \u2018foothills of the singularity.\u2019 What?",
@@ -142,18 +142,18 @@
       "snippet": "OpenAI announced two new measures to help detect AI generated imagery: joining the open C2PA standard and adding Google's SynthID to its products."
     },
     {
-      "title": "Agentic app coding gets an upgrade with Google\u2019s release of Android CLI",
-      "url": "https://techcrunch.com/2026/05/19/agentic-app-coding-gets-an-upgrade-with-googles-release-of-android-cli/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-05-19T17:45:00Z",
-      "snippet": "Google is embracing the rise of AI coding agents with new Android tools designed to work with platforms like Claude Code and OpenAI\u2019s Codex, allowing developers \u2014 or their AI assistants \u2014 to build And"
-    },
-    {
       "title": "Google\u2019s AI Studio now lets anyone build Android apps in minutes",
       "url": "https://techcrunch.com/2026/05/19/googles-ai-studio-now-lets-anyone-build-android-apps-in-minutes/",
       "source": "TechCrunch",
       "publishedAt": "2026-05-19T17:45:00Z",
       "snippet": "Google unveiled new web-based AI tools that can generate native Android apps in minutes, as the company expands its push into AI-powered software development."
+    },
+    {
+      "title": "Agentic app coding gets an upgrade with Google\u2019s release of Android CLI",
+      "url": "https://techcrunch.com/2026/05/19/agentic-app-coding-gets-an-upgrade-with-googles-release-of-android-cli/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-05-19T17:45:00Z",
+      "snippet": "Google is embracing the rise of AI coding agents with new Android tools designed to work with platforms like Claude Code and OpenAI\u2019s Codex, allowing developers \u2014 or their AI assistants \u2014 to build And"
     },
     {
       "title": "Google\u2019s new Universal Cart wants to follow your entire shopping journey across the internet",
@@ -163,45 +163,45 @@
       "snippet": "Most people shop across multiple devices, many retailers, and over the course of many days, which is why Google is launching Universal Cart."
     },
     {
-      "title": "Google launches Antigravity 2.0 with an updated desktop app and CLI tool at IO 2026",
-      "url": "https://techcrunch.com/2026/05/19/google-launches-antigravity-2-0-with-an-updated-desktop-app-and-cli-tool-at-io-2026/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-05-19T17:45:00Z",
-      "snippet": "Google is debuting a new AI Ultra plan priced at $100, which will give users 5x more usage limit than the AI Pro plan alongside the Antigravity 2.0 launch."
-    },
-    {
       "title": "Google introduces Gemini Spark, a 24/7 agentic assistant with Gmail integration, at IO 2026",
       "url": "https://techcrunch.com/2026/05/19/google-introduces-gemini-spark-a-24-7-agentic-assistant-with-gmail-integration/",
       "source": "TechCrunch",
       "publishedAt": "2026-05-19T17:45:00Z",
       "snippet": "At the Google I/O developer conference, the company announced a new agentic personal assistant called Gemini Spark, built from Gemini's base models and an agentic harness from Google Antigravity."
+    },
+    {
+      "title": "Google adds voice-based prompting to Docs and Keep",
+      "url": "https://techcrunch.com/2026/05/19/google-adds-voice-based-prompting-to-docs-and-keep/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-05-19T17:45:00Z",
+      "snippet": "Google is letting users create drafts, take notes, and search for email with voice with the new Workspace update."
     }
   ],
   "trending": [
     {
       "id": "SulphurAI/Sulphur-2-base",
       "displayName": "Sulphur 2 base",
-      "downloads": 1114657
+      "downloads": 1157497
     },
     {
       "id": "unsloth/Qwen3.6-27B-MTP-GGUF",
       "displayName": "Qwen3.6 27B MTP",
-      "downloads": 337076
+      "downloads": 411598
     },
     {
       "id": "unsloth/Qwen3.6-35B-A3B-MTP-GGUF",
       "displayName": "Qwen3.6 35B A3B MTP",
-      "downloads": 296380
+      "downloads": 363131
     },
     {
       "id": "Jackrong/Qwopus3.5-9B-Coder-GGUF",
       "displayName": "Qwopus3.5 9B Coder",
-      "downloads": 12117
+      "downloads": 17539
     },
     {
       "id": "SeeSee21/Z-Anime",
       "displayName": "Z Anime",
-      "downloads": 15794
+      "downloads": 16159
     },
     {
       "id": "RuneXX/LTX-2.3-Workflows",
@@ -211,22 +211,22 @@
     {
       "id": "Jiunsong/supergemma4-26b-uncensored-gguf-v2",
       "displayName": "supergemma4 26b uncensored v2",
-      "downloads": 268561
-    },
-    {
-      "id": "antirez/deepseek-v4-gguf",
-      "displayName": "deepseek v4",
-      "downloads": 322696
+      "downloads": 255430
     },
     {
       "id": "HauhauCS/Gemma4-26B-A4B-Uncensored-HauhauCS-Balanced",
       "displayName": "Gemma4 26B A4B Uncensored HauhauCS Balanced",
-      "downloads": 53662
+      "downloads": 61106
+    },
+    {
+      "id": "antirez/deepseek-v4-gguf",
+      "displayName": "deepseek v4",
+      "downloads": 326891
     },
     {
       "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
       "displayName": "Qwen3.6 35B A3B Uncensored HauhauCS Aggressive",
-      "downloads": 1239792
+      "downloads": 1222863
     }
   ]
 }
