@@ -1,8 +1,36 @@
 {
-  "updated": "2026-05-20T21:48:14Z",
+  "updated": "2026-05-20T23:08:51Z",
   "news": [
     {
-      "title": "Anthropic will pay xAI $1.25 billion per month for compute",
+      "title": "Clouted wants to take the guesswork out of making short videos go viral",
+      "url": "https://techcrunch.com/2026/05/20/clouted-wants-to-take-the-guesswork-out-of-making-short-videos-go-viral/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-05-20T22:30:45Z",
+      "snippet": "The video clipping startup raised a $7 million seed round led by Slow Ventures."
+    },
+    {
+      "title": "xAI burned $6.4B last year. SpaceX\u2019s IPO filing shows why the spending is far from over",
+      "url": "https://techcrunch.com/2026/05/20/xai-burned-6-4b-last-year-spacexs-ipo-filing-shows-why-the-spending-is-far-from-over/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-05-20T22:26:08Z",
+      "snippet": "SpaceX's IPO filing reveals xAI lost $6.4 billion in 2025 while planning a massive Grok expansion \u2014 offering the first public look at Elon Musk's AI financials and more details about his ambitions."
+    },
+    {
+      "title": "Nvidia posts another record quarter, reveals $43B of holdings in startups",
+      "url": "https://techcrunch.com/2026/05/20/nvidia-posts-another-record-quarter-reveals-43-billion-of-holdings-in-startups/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-05-20T22:03:51Z",
+      "snippet": "Nvidia announced another record revenue figure after market close on Wednesday, but forecasted that revenue growth would slow in the following quarter."
+    },
+    {
+      "title": "Musk\u2019s xAI is being sued over its data center generators \u2014 now it\u2019s buying $2.8B more",
+      "url": "https://techcrunch.com/2026/05/20/musks-xai-is-being-sued-over-its-data-center-generators-now-its-buying-2-8b-more/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-05-20T21:55:49Z",
+      "snippet": "Elon Musk's xAI said it will buy $2.8 billion worth of natural gas turbines over the next three years, according to SpaceX's IPO filing."
+    },
+    {
+      "title": "Anthropic will pay xAI $1.25B per month for compute",
       "url": "https://techcrunch.com/2026/05/20/anthropic-will-pay-xai-1-25-billion-per-month-for-compute/",
       "source": "TechCrunch",
       "publishedAt": "2026-05-20T21:29:22Z",
@@ -142,39 +170,11 @@
       "snippet": "Last year, after watching Google's I/O keynote, I wrote that it felt like Google's future was Google googling. After watching this year's I/O keynote on Tuesday, I don't think Google just wants to goo"
     },
     {
-      "title": "How to use Google\u2019s new AI agents to go beyond your standard searches",
-      "url": "https://techcrunch.com/2026/05/19/how-to-use-googles-new-ai-agents-to-go-beyond-your-standard-searches/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-05-19T21:16:25Z",
-      "snippet": "Google is launching AI-powered \u201cinformation agents\u201d that can monitor topics in the background and proactively alert users to updates and changes."
-    },
-    {
-      "title": "From teen hacker to Iron Dome researcher, this founder raised $28M to fight AI phishing",
-      "url": "https://techcrunch.com/2026/05/19/from-teen-hacker-to-iron-dome-researcher-this-founder-raised-28m-to-fight-ai-phishing/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-05-19T21:08:51Z",
-      "snippet": "Ocean, an agentic email security platform, claims its AI can thoroughly analyze the context of every incoming email to detect fraud and impersonation attempts."
-    },
-    {
       "title": "Google\u2019s AI future demands trust \u2014 and your personal data",
       "url": "https://www.theverge.com/tech/934172/google-io-gemini-ai-trust-personal-data",
       "source": "The Verge",
       "publishedAt": "2026-05-19T21:00:00Z",
       "snippet": "Google has big promises for its AI-powered future - and a lot of it depends on your trust. At I/O 2026, Google described a bunch of new tools that it claims will make your life easier. Gemini Spark, G"
-    },
-    {
-      "title": "Elon Musk said Sam Altman \u2018stole\u2019 a non-profit \u2014 but the trial showed he had similar aims",
-      "url": "https://techcrunch.com/2026/05/19/elon-musk-said-sam-altman-stole-a-non-profit-but-the-trial-showed-he-had-similar-aims/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-05-19T20:11:00Z",
-      "snippet": "The jury's speedy decision to reject Elon Musk's lawsuit against the other founders of OpenAI and Microsoft confirmed what we saw in the courtroom: Musk's case was a weak one, in part because he waite"
-    },
-    {
-      "title": "Google takes a page out of Meta\u2019s book, announces new audio-powered smart glasses at IO 2026",
-      "url": "https://techcrunch.com/2026/05/19/google-takes-a-page-out-of-metas-book-announces-new-audio-powered-smart-glasses-at-io-2026/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-05-19T19:15:31Z",
-      "snippet": "Google is calling the new devices \"audio glasses,\" in that users will be able to issue verbal commands to them and get things done via its ecosystem of apps and services, including Gemini."
     }
   ],
   "trending": [
@@ -219,14 +219,14 @@
       "downloads": 255430
     },
     {
-      "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
-      "displayName": "Qwen3.6 35B A3B Uncensored HauhauCS Aggressive",
-      "downloads": 1222863
-    },
-    {
       "id": "antirez/deepseek-v4-gguf",
       "displayName": "deepseek v4",
       "downloads": 326891
+    },
+    {
+      "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
+      "displayName": "Qwen3.6 35B A3B Uncensored HauhauCS Aggressive",
+      "downloads": 1222863
     }
   ]
 }
