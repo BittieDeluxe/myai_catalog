@@ -1,6 +1,48 @@
 {
-  "updated": "2026-05-20T10:46:46Z",
+  "updated": "2026-05-20T14:54:40Z",
   "news": [
+    {
+      "title": "It&#8217;s make or break time for AI labeling systems",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/934521/google-synthid-c2pa-content-credentials-ai-labelling-efforts",
+      "source": "The Verge",
+      "publishedAt": "2026-05-20T14:12:54Z",
+      "snippet": "We're about to find out if the systems designed to make deepfakes and AI-generated content easy to spot are actually up to snuff. SynthID and C2PA Content Credentials, two distinct technologies for in"
+    },
+    {
+      "title": "NanoClaw\u00a0creator\u00a0turns\u00a0down $20M buyout offer, raises $12M seed instead",
+      "url": "https://techcrunch.com/2026/05/20/nanoclaw-creator-turns-down-20m-buyout-offer-raises-12m-seed-instead/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-05-20T14:00:00Z",
+      "snippet": "NanoCo, the company behind  OpenClaw alternative NanoClaw, has raised a $12 million seed after a viral launch, the founders tell TechCrunch."
+    },
+    {
+      "title": "Startup Battlefield 200 applications close in one week: Window to nominate and apply for the most promising startups ends May 27",
+      "url": "https://techcrunch.com/2026/05/20/startup-battlefield-200-applications-close-in-one-week-window-to-nominate-and-apply-for-the-most-promising-startups-ends-may-27/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-05-20T14:00:00Z",
+      "snippet": "Startup Battlefield 200 applications close May 27. Pitch at TechCrunch Disrupt, get investor access, win $100K, plus more scaling perks. Nominate an early-stage founder or submit your startup here."
+    },
+    {
+      "title": "If Google can\u2019t\u00a0make AI agents useful, maybe no one can",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/934478/if-google-cant-make-ai-agents-useful-maybe-no-one-can",
+      "source": "The Verge",
+      "publishedAt": "2026-05-20T13:24:22Z",
+      "snippet": "For years, tech companies have promised AI will give everyone a capable personal assistant but delivered something more like a clueless intern. Over the past six months, that has started to change, th"
+    },
+    {
+      "title": "The biggest data center ever is becoming a huge problem in Utah",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/933687/utah-stratos-project-data-center-kevin-oleary",
+      "source": "The Verge",
+      "publishedAt": "2026-05-20T13:00:00Z",
+      "snippet": "Utah may host one of the world's most colossal data centers, despite stark warnings from experts and fierce public backlash. Earlier this month, commissioners in Box Elder County signed off on the Str"
+    },
+    {
+      "title": "Figma adds an AI assistant to its collaborative canvas",
+      "url": "https://techcrunch.com/2026/05/20/figma-adds-an-ai-assistant-to-its-collaborative-canvas/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-05-20T13:00:00Z",
+      "snippet": "Figma's new AI assistant will be first available on Figma Design"
+    },
     {
       "title": "Demis Hassabis said this might be the \u2018foothills of the singularity.\u2019 What?",
       "url": "https://www.theverge.com/tech/934260/google-io-ai-singularity-demis-hassabis",
@@ -114,27 +156,6 @@
       "snippet": "Google is announcing a major upgrade to one of its vibe coding platforms: Beginning today, you can now use AI Studio to build native Android apps. With Google AI Studio, you can prompt your idea for a"
     },
     {
-      "title": "Would you let robots spend your money? Google is betting on it",
-      "url": "https://www.theverge.com/news/932927/google-io-agentic-ai-shopping-universal-cart",
-      "source": "The Verge",
-      "publishedAt": "2026-05-19T17:45:00Z",
-      "snippet": "Google is going all in on AI-driven shopping even as some competitors back off. At Google I/O, the company unveiled the latest iteration of its AI commerce tools: a \"Universal Cart\" that works across "
-    },
-    {
-      "title": "Google Search is getting its biggest changes ever",
-      "url": "https://www.theverge.com/tech/932970/google-search-ai-update-io-2026",
-      "source": "The Verge",
-      "publishedAt": "2026-05-19T17:45:00Z",
-      "snippet": "Google Search is entering the next phase of its AI evolution. During Google I/O 2026, the company showed off a reimagined search box that makes it easier to flow between AI Overviews, the AI-generated"
-    },
-    {
-      "title": "Gmail is going to start talking to you",
-      "url": "https://www.theverge.com/tech/932973/google-gmail-live-ai-keep-docs-io-2026",
-      "source": "The Verge",
-      "publishedAt": "2026-05-19T17:45:00Z",
-      "snippet": "Google is launching a big new feature for Gmail called Gmail Live, a new AI-powered voice mode that's basically the Gemini Live experience but built specifically for your inbox. To use Gmail Live, tap"
-    },
-    {
       "title": "OpenAI is making it easier to check if an image was made by their models",
       "url": "https://techcrunch.com/2026/05/19/openai-is-making-it-easier-to-check-if-an-image-was-made-by-their-models/",
       "source": "TechCrunch",
@@ -154,27 +175,6 @@
       "source": "TechCrunch",
       "publishedAt": "2026-05-19T17:45:00Z",
       "snippet": "Google unveiled new web-based AI tools that can generate native Android apps in minutes, as the company expands its push into AI-powered software development."
-    },
-    {
-      "title": "Google updates its Gemini app to take on ChatGPT and Claude at IO 2026",
-      "url": "https://techcrunch.com/2026/05/19/google-updates-its-gemini-app-to-take-on-chatgpt-and-claude-at-io-2026/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-05-19T17:45:00Z",
-      "snippet": "The updates signal Google\u2019s push to turn its Gemini app into an all-purpose AI hub rather than a stand-alone chatbot."
-    },
-    {
-      "title": "Google\u2019s new Universal Cart wants to follow your entire shopping journey across the internet",
-      "url": "https://techcrunch.com/2026/05/19/googles-new-universal-cart-wants-to-follow-your-entire-shopping-journey-across-the-internet/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-05-19T17:45:00Z",
-      "snippet": "Most people shop across multiple devices, many retailers, and over the course of many days, which is why Google is launching Universal Cart."
-    },
-    {
-      "title": "Google launches Antigravity 2.0 with an updated desktop app and CLI tool at IO 2026",
-      "url": "https://techcrunch.com/2026/05/19/google-launches-antigravity-2-0-with-an-updated-desktop-app-and-cli-tool-at-io-2026/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-05-19T17:45:00Z",
-      "snippet": "Google is debuting a new AI Ultra plan priced at $100, which will give users 5x more usage limit than the AI Pro plan alongside the Antigravity 2.0 launch."
     }
   ],
   "trending": [
@@ -214,14 +214,14 @@
       "downloads": 61106
     },
     {
-      "id": "Jiunsong/supergemma4-26b-uncensored-gguf-v2",
-      "displayName": "supergemma4 26b uncensored v2",
-      "downloads": 255430
-    },
-    {
       "id": "antirez/deepseek-v4-gguf",
       "displayName": "deepseek v4",
       "downloads": 326891
+    },
+    {
+      "id": "Jiunsong/supergemma4-26b-uncensored-gguf-v2",
+      "displayName": "supergemma4 26b uncensored v2",
+      "downloads": 255430
     },
     {
       "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
