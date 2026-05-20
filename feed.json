@@ -1,8 +1,8 @@
 {
-  "updated": "2026-05-19T22:59:52Z",
+  "updated": "2026-05-20T02:51:14Z",
   "news": [
     {
-      "title": "Demis Hassabis said this might be the &#8216;foothills of the singularity.&#8217; What?",
+      "title": "Demis Hassabis said this might be the \u2018foothills of the singularity.\u2019 What?",
       "url": "https://www.theverge.com/tech/934260/google-io-ai-singularity-demis-hassabis",
       "source": "The Verge",
       "publishedAt": "2026-05-19T22:16:02Z",
@@ -41,7 +41,7 @@
       "url": "https://techcrunch.com/2026/05/19/from-teen-hacker-to-iron-dome-researcher-this-founder-raised-28m-to-fight-ai-phishing/",
       "source": "TechCrunch",
       "publishedAt": "2026-05-19T21:08:51Z",
-      "snippet": "Ocean, an agentic email security platform, raised funding from Lightspeed Venture Partners."
+      "snippet": "Ocean, an agentic email security platform, claims its AI can thoroughly analyze the context of every incoming email to detect fraud and impersonation attempts."
     },
     {
       "title": "Google\u2019s AI future demands trust \u2014 and your personal data",
@@ -51,11 +51,11 @@
       "snippet": "Google has big promises for its AI-powered future - and a lot of it depends on your trust. At I/O 2026, Google described a bunch of new tools that it claims will make your life easier. Gemini Spark, G"
     },
     {
-      "title": "Elon Musk said Sam Altman \u201cstole\u201d a non-profit \u2014 but the trial showed he had similar aims",
+      "title": "Elon Musk said Sam Altman \u2018stole\u2019 a non-profit \u2014 but the trial showed he had similar aims",
       "url": "https://techcrunch.com/2026/05/19/elon-musk-said-sam-altman-stole-a-non-profit-but-the-trial-showed-he-had-similar-aims/",
       "source": "TechCrunch",
       "publishedAt": "2026-05-19T20:11:00Z",
-      "snippet": "\u201cBy the end of this week, you and Sam will be the most hated men in America.\u201d"
+      "snippet": "The jury's speedy decision to reject Elon Musk's lawsuit against the other founders of OpenAI and Microsoft confirmed what we saw in the courtroom: Musk's case was a weak one, in part because he waite"
     },
     {
       "title": "Google takes a page out of Meta\u2019s book, announces new audio-powered smart glasses at IO 2026",
