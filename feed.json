@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-21T21:24:00Z",
+  "updated": "2026-05-21T22:59:47Z",
   "news": [
     {
       "title": "All of the updates from Elon Musk and Sam Altman\u2019s battle over OpenAI",
@@ -30,7 +30,7 @@
       "snippet": "Google is about to look really different, and if you're not a fan of the AI overview feature, then you're not going to like what's coming."
     },
     {
-      "title": "Trump delays AI security executive order: \u2018I don\u2019t want to get in the way of that leading\u2019",
+      "title": "Trump delays AI security executive order, saying language \u2018could have been a blocker\u2019",
       "url": "https://techcrunch.com/2026/05/21/trump-delays-ai-security-executive-order-i-dont-want-to-get-in-the-way-of-that-leading/",
       "source": "TechCrunch",
       "publishedAt": "2026-05-21T17:30:45Z",
@@ -199,14 +199,14 @@
       "downloads": 24412
     },
     {
-      "id": "HauhauCS/Gemma4-26B-A4B-Uncensored-HauhauCS-Balanced",
-      "displayName": "Gemma4 26B A4B Uncensored HauhauCS Balanced",
-      "downloads": 68075
-    },
-    {
       "id": "SeeSee21/Z-Anime",
       "displayName": "Z Anime",
       "downloads": 16391
+    },
+    {
+      "id": "HauhauCS/Gemma4-26B-A4B-Uncensored-HauhauCS-Balanced",
+      "displayName": "Gemma4 26B A4B Uncensored HauhauCS Balanced",
+      "downloads": 68075
     },
     {
       "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
