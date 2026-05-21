@@ -1,6 +1,13 @@
 {
-  "updated": "2026-05-21T07:45:04Z",
+  "updated": "2026-05-21T11:18:09Z",
   "news": [
+    {
+      "title": "Meta lays off thousands of employees to offset AI investments",
+      "url": "https://www.theverge.com/tech/935163/meta-layoffs-ai-investment-offset-memo",
+      "source": "The Verge",
+      "publishedAt": "2026-05-21T09:20:46Z",
+      "snippet": "Meta has reportedly notified thousands of employees that they've been laid off as the company attempts to compensate for its hefty AI investments. In an email from Meta management shared by Business I"
+    },
     {
       "title": "In SpaceX\u2019s IPO, Elon Musk is a risk factor",
       "url": "https://www.theverge.com/science/935102/spacex-ipo-elon-musk-tesla-cybertruck-xai-risk-factor",
@@ -168,13 +175,6 @@
       "source": "The Verge",
       "publishedAt": "2026-05-19T22:16:02Z",
       "snippet": "Welcome to a \"profound moment for humanity,\" according to Google DeepMind CEO Demis Hassabis, who closed out Google I/O's keynote presentation on Tuesday, saying: Google's cutting-edge research and pr"
-    },
-    {
-      "title": "The future of Google is a search box that does everything",
-      "url": "https://www.theverge.com/tech/934217/google-search-box-does-everything-ai-io-2026",
-      "source": "The Verge",
-      "publishedAt": "2026-05-19T21:24:14Z",
-      "snippet": "Last year, after watching Google's I/O keynote, I wrote that it felt like Google's future was Google googling. After watching this year's I/O keynote on Tuesday, I don't think Google just wants to goo"
     }
   ],
   "trending": [
@@ -219,14 +219,14 @@
       "downloads": 1201896
     },
     {
-      "id": "DavidAU/Qwen3.6-27B-Heretic-Uncensored-FINETUNE-NEO-CODE-Di-IMatrix-MAX-GGUF",
-      "displayName": "Qwen3.6 27B Heretic Uncensored FINETUNE NEO CODE Di IMatrix MAX",
-      "downloads": 419818
-    },
-    {
       "id": "Jackrong/Qwopus3.5-9B-Coder-MTP-GGUF",
       "displayName": "Qwopus3.5 9B Coder MTP",
       "downloads": 13470
+    },
+    {
+      "id": "Jiunsong/supergemma4-26b-uncensored-gguf-v2",
+      "displayName": "supergemma4 26b uncensored v2",
+      "downloads": 243991
     }
   ]
 }
