@@ -1,6 +1,55 @@
 {
-  "updated": "2026-05-21T11:18:09Z",
+  "updated": "2026-05-21T14:56:54Z",
   "news": [
+    {
+      "title": "Musk v. Altman: Much ado about nothing",
+      "url": "https://www.theverge.com/podcast/934869/elon-musk-sam-altman-openai-suit-loss-pointless",
+      "source": "The Verge",
+      "publishedAt": "2026-05-21T14:00:00Z",
+      "snippet": "Today I\u2019m talking with Liz Lopatto, who spent the last month covering the Musk v. Altman trial in all its chaos. You\u2019ll hear her describe the courthouse as a \u201czoo\u201d and explain that there were protests"
+    },
+    {
+      "title": "Hark raises $700M Series A for its secretive \u201cuniversal\u201d AI interface",
+      "url": "https://techcrunch.com/2026/05/21/hark-raises-700m-series-a-for-its-secretive-universal-ai-interface/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-05-21T14:00:00Z",
+      "snippet": "Brett Adcock's new AI startup is now valued at $6 billion by its investors."
+    },
+    {
+      "title": "The Path, founded by Tony Robbins and Calm alums, hopes to offer safer AI therapy",
+      "url": "https://techcrunch.com/2026/05/21/the-path-founded-by-tony-robbins-and-calm-alums-wants-to-offer-safer-ai-therapy/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-05-21T14:00:00Z",
+      "snippet": "The Path says its AI model has scored 95 on the mental health safety AI benchmark, Vera-MH. This compares to a top score of 65 for the consumer bots."
+    },
+    {
+      "title": "Google is pitching an AI agent ecosystem to consumers who may not buy it",
+      "url": "https://techcrunch.com/2026/05/21/google-is-pitching-an-ai-agent-ecosystem-to-consumers-who-may-not-buy-it/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-05-21T13:52:23Z",
+      "snippet": "The AI agents are coming. A lot of them."
+    },
+    {
+      "title": "With aluminum prices up 20%, recycling startups bet on AI to cash in",
+      "url": "https://techcrunch.com/2026/05/21/with-aluminum-prices-up-20-recycling-startups-bet-on-ai-to-cash-in/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-05-21T13:38:42Z",
+      "snippet": "Recycling startups are using AI to improve the recovery of critical minerals like aluminum, aiming to build a massive source of the metal."
+    },
+    {
+      "title": "Anthropic is paying $15 billion a year for access to Elon Musk\u2019s data centers",
+      "url": "https://www.theverge.com/science/935229/spacex-anthropic-ipo-ai-capacity-deal-colossus",
+      "source": "The Verge",
+      "publishedAt": "2026-05-21T13:35:52Z",
+      "snippet": "Earlier this month, SpaceX and Anthropic announced a new compute partnership that provides access to the rocket company's Colossus data centers in Memphis, TN. Now, with the release of SpaceX's IPO fi"
+    },
+    {
+      "title": "I can\u2019t believe how fast Google vibe coded my first Android app",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/935056/google-vibe-coding-first-android-app-gemini-ai-studio",
+      "source": "The Verge",
+      "publishedAt": "2026-05-21T13:00:00Z",
+      "snippet": "Yesterday, I built my first Android app. Then, I made two more - three in one afternoon. For one, I literally typed 148 words into my web browser and walked away. Ten minutes later, I had an entire ne"
+    },
     {
       "title": "Meta lays off thousands of employees to offset AI investments",
       "url": "https://www.theverge.com/tech/935163/meta-layoffs-ai-investment-offset-memo",
@@ -9,7 +58,7 @@
       "snippet": "Meta has reportedly notified thousands of employees that they've been laid off as the company attempts to compensate for its hefty AI investments. In an email from Meta management shared by Business I"
     },
     {
-      "title": "In SpaceX\u2019s IPO, Elon Musk is a risk factor",
+      "title": "In SpaceX\u2019s IPO, Elon Musk is the risk factor",
       "url": "https://www.theverge.com/science/935102/spacex-ipo-elon-musk-tesla-cybertruck-xai-risk-factor",
       "source": "The Verge",
       "publishedAt": "2026-05-21T03:42:45Z",
@@ -121,60 +170,11 @@
       "snippet": "AI search has quietly become one of the most attractive targets in consumer AI."
     },
     {
-      "title": "Stability AI releases a new audio model that can create 6-minute songs",
-      "url": "https://techcrunch.com/2026/05/20/stability-ai-release-a-new-audio-model-that-can-create-six-minute-songs/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-05-20T15:00:00Z",
-      "snippet": "Stability Audio 3.0 small model can run on-device and generate two-minute long tracks."
-    },
-    {
       "title": "It&#8217;s make or break time for AI labeling systems",
       "url": "https://www.theverge.com/ai-artificial-intelligence/934521/google-synthid-c2pa-content-credentials-ai-labelling-efforts",
       "source": "The Verge",
       "publishedAt": "2026-05-20T14:12:54Z",
       "snippet": "We're about to find out if the systems designed to make deepfakes and AI-generated content easy to spot are actually up to snuff. SynthID and C2PA Content Credentials, two distinct technologies for in"
-    },
-    {
-      "title": "Startup Battlefield 200 applications close in 1 week: Window to nominate and apply for the most promising startups closes May 27",
-      "url": "https://techcrunch.com/2026/05/20/startup-battlefield-200-applications-close-in-1-week-window-to-nominate-and-apply-for-the-most-promising-startups-closes-may-27/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-05-20T14:00:00Z",
-      "snippet": "Startup Battlefield 200 applications close May 27. Pitch at TechCrunch Disrupt, get investor access, win $100K, plus more scaling perks. Nominate an early-stage founder or submit your startup today."
-    },
-    {
-      "title": "NanoClaw\u00a0creator\u00a0turns\u00a0down $20M buyout offer, raises $12M seed instead",
-      "url": "https://techcrunch.com/2026/05/20/nanoclaw-creator-turns-down-20m-buyout-offer-raises-12m-seed-instead/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-05-20T14:00:00Z",
-      "snippet": "NanoClaw was created as a secure alternative to OpenClaw to assist the Cohen brothers with their AI marketing firm that used agents to do much of the work. But instead of running directly on a compute"
-    },
-    {
-      "title": "If Google can\u2019t\u00a0make AI agents useful, maybe no one can",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/934478/if-google-cant-make-ai-agents-useful-maybe-no-one-can",
-      "source": "The Verge",
-      "publishedAt": "2026-05-20T13:24:22Z",
-      "snippet": "For years, tech companies have promised AI will give everyone a capable personal assistant but delivered something more like a clueless intern. Over the past six months, that has started to change, th"
-    },
-    {
-      "title": "The biggest data center ever is becoming a huge problem in Utah",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/933687/utah-stratos-project-data-center-kevin-oleary",
-      "source": "The Verge",
-      "publishedAt": "2026-05-20T13:00:00Z",
-      "snippet": "Utah may host one of the world's most colossal data centers, despite stark warnings from experts and fierce public backlash. Earlier this month, commissioners in Box Elder County signed off on the Str"
-    },
-    {
-      "title": "Figma adds an AI assistant to its collaborative canvas",
-      "url": "https://techcrunch.com/2026/05/20/figma-adds-an-ai-assistant-to-its-collaborative-canvas/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-05-20T13:00:00Z",
-      "snippet": "Figma says users can employ natural language text prompts to direct its new AI agent to generate new designs, edit existing ones, or automate tasks such as generating iterations of existing designs."
-    },
-    {
-      "title": "Demis Hassabis said this might be the \u2018foothills of the singularity.\u2019 What?",
-      "url": "https://www.theverge.com/tech/934260/google-io-ai-singularity-demis-hassabis",
-      "source": "The Verge",
-      "publishedAt": "2026-05-19T22:16:02Z",
-      "snippet": "Welcome to a \"profound moment for humanity,\" according to Google DeepMind CEO Demis Hassabis, who closed out Google I/O's keynote presentation on Tuesday, saying: Google's cutting-edge research and pr"
     }
   ],
   "trending": [
@@ -199,19 +199,14 @@
       "downloads": 24412
     },
     {
-      "id": "SeeSee21/Z-Anime",
-      "displayName": "Z Anime",
-      "downloads": 16391
-    },
-    {
       "id": "HauhauCS/Gemma4-26B-A4B-Uncensored-HauhauCS-Balanced",
       "displayName": "Gemma4 26B A4B Uncensored HauhauCS Balanced",
       "downloads": 68075
     },
     {
-      "id": "RuneXX/LTX-2.3-Workflows",
-      "displayName": "LTX 2.3 Workflows",
-      "downloads": 0
+      "id": "SeeSee21/Z-Anime",
+      "displayName": "Z Anime",
+      "downloads": 16391
     },
     {
       "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
@@ -222,6 +217,11 @@
       "id": "Jackrong/Qwopus3.5-9B-Coder-MTP-GGUF",
       "displayName": "Qwopus3.5 9B Coder MTP",
       "downloads": 13470
+    },
+    {
+      "id": "RuneXX/LTX-2.3-Workflows",
+      "displayName": "LTX 2.3 Workflows",
+      "downloads": 0
     },
     {
       "id": "Jiunsong/supergemma4-26b-uncensored-gguf-v2",
