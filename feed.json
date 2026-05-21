@@ -1,6 +1,20 @@
 {
-  "updated": "2026-05-20T23:08:51Z",
+  "updated": "2026-05-21T02:54:16Z",
   "news": [
+    {
+      "title": "Jensen Huang says he\u2019s found a \u2018brand new\u2019 $200B market for Nvidia",
+      "url": "https://techcrunch.com/2026/05/20/jensen-huang-says-hes-found-a-brand-new-200b-market-for-nvidia/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-05-21T00:28:31Z",
+      "snippet": "The next big thing for Nvidia will be CPUs for AI agents, $200 billion worth, CEO Jensen Huang predicts."
+    },
+    {
+      "title": "Anthropic says it\u2019s about to have its first profitable quarter",
+      "url": "https://techcrunch.com/2026/05/20/anthropic-says-its-about-to-have-its-first-profitable-quarter/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-05-21T00:21:21Z",
+      "snippet": "Anthropic has told its investors that it will more than double revenue to around $10.9 billion in its second quarter."
+    },
     {
       "title": "Clouted wants to take the guesswork out of making short videos go viral",
       "url": "https://techcrunch.com/2026/05/20/clouted-wants-to-take-the-guesswork-out-of-making-short-videos-go-viral/",
@@ -9,7 +23,7 @@
       "snippet": "The video clipping startup raised a $7 million seed round led by Slow Ventures."
     },
     {
-      "title": "xAI burned $6.4B last year. SpaceX\u2019s IPO filing shows why the spending is far from over",
+      "title": "xAI burned $6.4B last year \u2014 SpaceX\u2019s IPO filing shows why the spending is far from over",
       "url": "https://techcrunch.com/2026/05/20/xai-burned-6-4b-last-year-spacexs-ipo-filing-shows-why-the-spending-is-far-from-over/",
       "source": "TechCrunch",
       "publishedAt": "2026-05-20T22:26:08Z",
@@ -149,20 +163,6 @@
       "snippet": "Welcome to a \"profound moment for humanity,\" according to Google DeepMind CEO Demis Hassabis, who closed out Google I/O's keynote presentation on Tuesday, saying: Google's cutting-edge research and pr"
     },
     {
-      "title": "Google just declared itself a contender in AI design at IO 2026",
-      "url": "https://techcrunch.com/2026/05/19/ai-design-tools-are-the-next-big-battleground-and-google-is-going-all-in-at-io-2026/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-05-19T21:33:30Z",
-      "snippet": "Google says it's designed the app to be accessible to everyone, from teachers to small business owners."
-    },
-    {
-      "title": "You can now talk to your Gmail inbox, as seen at Google IO 2026",
-      "url": "https://techcrunch.com/2026/05/19/you-can-now-talk-to-your-gmail-inbox-as-seen-at-google-io-2026/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-05-19T21:25:31Z",
-      "snippet": "Google expands Gmail\u2019s AI Inbox with conversational voice search, letting users ask Gemini to find buried email details."
-    },
-    {
       "title": "The future of Google is a search box that does everything",
       "url": "https://www.theverge.com/tech/934217/google-search-box-does-everything-ai-io-2026",
       "source": "The Verge",
@@ -219,14 +219,14 @@
       "downloads": 255430
     },
     {
-      "id": "antirez/deepseek-v4-gguf",
-      "displayName": "deepseek v4",
-      "downloads": 326891
-    },
-    {
       "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
       "displayName": "Qwen3.6 35B A3B Uncensored HauhauCS Aggressive",
       "downloads": 1222863
+    },
+    {
+      "id": "antirez/deepseek-v4-gguf",
+      "displayName": "deepseek v4",
+      "downloads": 326891
     }
   ]
 }
