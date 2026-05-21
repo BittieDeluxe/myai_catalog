@@ -1,19 +1,68 @@
 {
-  "updated": "2026-05-21T14:56:54Z",
+  "updated": "2026-05-21T17:53:43Z",
   "news": [
+    {
+      "title": "Trump delays AI security executive order: \u2018I don\u2019t want to get in the way of that leading\u2019",
+      "url": "https://techcrunch.com/2026/05/21/trump-delays-ai-security-executive-order-i-dont-want-to-get-in-the-way-of-that-leading/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-05-21T17:30:45Z",
+      "snippet": "President Trump delayed signing an executive order that would have required pre-release government security reviews of AI models, citing dissatisfaction with the order's language."
+    },
+    {
+      "title": "The Endless AI guitar pedal has potential",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/935219/polyend-endless-ai-guitar-effects-pedal",
+      "source": "The Verge",
+      "publishedAt": "2026-05-21T17:00:00Z",
+      "snippet": "I'm not sure anyone was really asking for an AI guitar pedal. But it was inevitable that someone would build one. One of the first to take the plunge is Polyend, a well-respected music gear maker with"
+    },
+    {
+      "title": "Spotify is launching AI-generated remixes",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/935379/spotify-umg-ai-covers-remix",
+      "source": "The Verge",
+      "publishedAt": "2026-05-21T15:54:03Z",
+      "snippet": "Spotify and Universal Music Group (UMG) just announced a licensing deal that will allow users to prompt the creation of AI-generated remixes and covers for streaming songs. The tool will be a paid add"
+    },
+    {
+      "title": "Spotify Studio&#8217;s AI agent creates a daily podcast just for you",
+      "url": "https://www.theverge.com/entertainment/935390/spotify-studio-ai-app-personal-podcasts",
+      "source": "The Verge",
+      "publishedAt": "2026-05-21T15:47:29Z",
+      "snippet": "Studio by Spotify Labs is a new standalone AI app that generates a daily briefing, podcasts, and playlists on your PC using chatbot prompts. The AI-generated content draws from your Spotify listening "
+    },
+    {
+      "title": "AI video is moving beyond clip slop",
+      "url": "https://www.theverge.com/column/935310/ai-video-luma-hollywood",
+      "source": "The Verge",
+      "publishedAt": "2026-05-21T15:30:00Z",
+      "snippet": "This is Lowpass by Janko Roettgers, a newsletter on the ever-evolving intersection of tech and entertainment, syndicated just for The Verge subscribers once a week. Hollywood is cooked - or so a growi"
+    },
+    {
+      "title": "Spotify launches an ElevenLabs-powered audiobook creation tool",
+      "url": "https://techcrunch.com/2026/05/21/spotify-launches-an-elevenlabs-powered-audiobook-creation-tool/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-05-21T15:27:00Z",
+      "snippet": "Spotify is releasing new audiobook plans later this year"
+    },
+    {
+      "title": "Spotify takes on Google\u2019s NotebookLM with its new app",
+      "url": "https://techcrunch.com/2026/05/21/spotify-debuts-a-new-desktop-app-for-creating-personal-podcasts/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-05-21T15:27:00Z",
+      "snippet": "Spotify is releasing the new desktop app as a research preview in more than 20 markets"
+    },
+    {
+      "title": "Spotify adds AI-powered Q&A and briefing generation features to podcasts",
+      "url": "https://techcrunch.com/2026/05/21/spotify-adds-ai-powered-qa-and-briefing-generation-features-to-podcasts/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-05-21T15:27:00Z",
+      "snippet": "Spotify will let you generate daily or weekly briefs based on your prompts"
+    },
     {
       "title": "Musk v. Altman: Much ado about nothing",
       "url": "https://www.theverge.com/podcast/934869/elon-musk-sam-altman-openai-suit-loss-pointless",
       "source": "The Verge",
       "publishedAt": "2026-05-21T14:00:00Z",
       "snippet": "Today I\u2019m talking with Liz Lopatto, who spent the last month covering the Musk v. Altman trial in all its chaos. You\u2019ll hear her describe the courthouse as a \u201czoo\u201d and explain that there were protests"
-    },
-    {
-      "title": "Hark raises $700M Series A for its secretive \u201cuniversal\u201d AI interface",
-      "url": "https://techcrunch.com/2026/05/21/hark-raises-700m-series-a-for-its-secretive-universal-ai-interface/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-05-21T14:00:00Z",
-      "snippet": "Brett Adcock's new AI startup is now valued at $6 billion by its investors."
     },
     {
       "title": "The Path, founded by Tony Robbins and Calm alums, hopes to offer safer AI therapy",
@@ -23,11 +72,18 @@
       "snippet": "The Path says its AI model has scored 95 on the mental health safety AI benchmark, Vera-MH. This compares to a top score of 65 for the consumer bots."
     },
     {
+      "title": "Hark raises $700M Series A for its secretive \u2018universal\u2019 AI interface",
+      "url": "https://techcrunch.com/2026/05/21/hark-raises-700m-series-a-for-its-secretive-universal-ai-interface/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-05-21T14:00:00Z",
+      "snippet": "Hark expects to release its first multimodal models this summer, which it says will power a personal AI platform that works with existing products and services. The company expects to follow that with"
+    },
+    {
       "title": "Google is pitching an AI agent ecosystem to consumers who may not buy it",
       "url": "https://techcrunch.com/2026/05/21/google-is-pitching-an-ai-agent-ecosystem-to-consumers-who-may-not-buy-it/",
       "source": "TechCrunch",
       "publishedAt": "2026-05-21T13:52:23Z",
-      "snippet": "The AI agents are coming. A lot of them."
+      "snippet": "One of the most promising introductions at Google\u2019s I/O developer conference on Tuesday was a new way for consumers to use the web: AI agents. Unfortunately, it was also the most confusing."
     },
     {
       "title": "With aluminum prices up 20%, recycling startups bet on AI to cash in",
@@ -119,62 +175,6 @@
       "source": "The Verge",
       "publishedAt": "2026-05-20T21:06:35Z",
       "snippet": "This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. This week's"
-    },
-    {
-      "title": "OpenAI claims it solved an 80-year-old math problem \u2014 for real this time",
-      "url": "https://techcrunch.com/2026/05/20/openai-claims-it-solved-an-80-year-old-math-problem-for-real-this-time/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-05-20T20:28:27Z",
-      "snippet": "OpenAI claims its reasoning model disproved a geometry conjecture unsolved since 1946 \u2014 and this time, the mathematicians who exposed its last embarrassing claim are backing it up."
-    },
-    {
-      "title": "IrisGo, a startup backed by Andrew Ng, looks to become the AI desktop buddy you never knew you needed",
-      "url": "https://techcrunch.com/2026/05/20/irisgo-a-startup-backed-by-andrew-ng-looks-to-become-the-ai-desktop-buddy-you-never-knew-you-needed/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-05-20T19:47:20Z",
-      "snippet": "Initially billed as an \"AI butler,\" Iris watches what happens on a user's desktop and automatically learns how to do tasks for them, its co-founder says."
-    },
-    {
-      "title": "Vibe coding is coming to your phone",
-      "url": "https://www.theverge.com/tech/934628/google-io-2026-android-ai-studio-widgets-shortcuts",
-      "source": "The Verge",
-      "publishedAt": "2026-05-20T17:40:00Z",
-      "snippet": "\"There's an app for that\" was the promise of the App Store from the very beginning. The app that will get your phone to do the thing you want it to? It's just a few taps away. The tagline wasn't stric"
-    },
-    {
-      "title": "OpenAI barrels toward IPO that may happen in September",
-      "url": "https://techcrunch.com/2026/05/20/openai-barrels-toward-ipo-that-may-happen-in-september/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-05-20T17:24:24Z",
-      "snippet": "A day after Elon Musk lost his lawsuit that threatened OpenAI's structure, leadership, and finances, OpenAI is reportedly back to prepping for its IPO."
-    },
-    {
-      "title": "You can now remix other people\u2019s YouTube Shorts with AI",
-      "url": "https://www.theverge.com/tech/934704/google-gemini-omni-youtub-shorts-remix-ai",
-      "source": "The Verge",
-      "publishedAt": "2026-05-20T16:41:40Z",
-      "snippet": "Google announced a new YouTube Shorts Remix feature that lets users restyle clips or even insert themselves into other people's videos using Gemini Omni. Now, at the bottom of a YouTube Short, when yo"
-    },
-    {
-      "title": "Google Search\u2019s AI evolution includes more ads",
-      "url": "https://www.theverge.com/tech/934585/google-ai-shopping-ads-search",
-      "source": "The Verge",
-      "publishedAt": "2026-05-20T16:00:00Z",
-      "snippet": "Google's AI-powered Search era apparently also extends to its ads. Now, when you look for a product in Search, Google's Gemini AI model will surface relevant items and generate a \"custom explainer\" ab"
-    },
-    {
-      "title": "AI search startups are blowing up",
-      "url": "https://techcrunch.com/2026/05/20/ai-search-startups-are-blowing-up/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-05-20T15:04:45Z",
-      "snippet": "AI search has quietly become one of the most attractive targets in consumer AI."
-    },
-    {
-      "title": "It&#8217;s make or break time for AI labeling systems",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/934521/google-synthid-c2pa-content-credentials-ai-labelling-efforts",
-      "source": "The Verge",
-      "publishedAt": "2026-05-20T14:12:54Z",
-      "snippet": "We're about to find out if the systems designed to make deepfakes and AI-generated content easy to spot are actually up to snuff. SynthID and C2PA Content Credentials, two distinct technologies for in"
     }
   ],
   "trending": [
@@ -199,14 +199,14 @@
       "downloads": 24412
     },
     {
-      "id": "HauhauCS/Gemma4-26B-A4B-Uncensored-HauhauCS-Balanced",
-      "displayName": "Gemma4 26B A4B Uncensored HauhauCS Balanced",
-      "downloads": 68075
-    },
-    {
       "id": "SeeSee21/Z-Anime",
       "displayName": "Z Anime",
       "downloads": 16391
+    },
+    {
+      "id": "HauhauCS/Gemma4-26B-A4B-Uncensored-HauhauCS-Balanced",
+      "displayName": "Gemma4 26B A4B Uncensored HauhauCS Balanced",
+      "downloads": 68075
     },
     {
       "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
