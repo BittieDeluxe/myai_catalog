@@ -1,6 +1,13 @@
 {
-  "updated": "2026-05-21T02:54:16Z",
+  "updated": "2026-05-21T07:45:04Z",
   "news": [
+    {
+      "title": "In SpaceX\u2019s IPO, Elon Musk is a risk factor",
+      "url": "https://www.theverge.com/science/935102/spacex-ipo-elon-musk-tesla-cybertruck-xai-risk-factor",
+      "source": "The Verge",
+      "publishedAt": "2026-05-21T03:42:45Z",
+      "snippet": "The SpaceX IPO is here, and it's more than just an historic public offering that could make Elon Musk the world's first trillionaire. It also reveals more ways in which Elon Musk's companies interact "
+    },
     {
       "title": "Jensen Huang says he\u2019s found a \u2018brand new\u2019 $200B market for Nvidia",
       "url": "https://techcrunch.com/2026/05/20/jensen-huang-says-hes-found-a-brand-new-200b-market-for-nvidia/",
@@ -168,45 +175,38 @@
       "source": "The Verge",
       "publishedAt": "2026-05-19T21:24:14Z",
       "snippet": "Last year, after watching Google's I/O keynote, I wrote that it felt like Google's future was Google googling. After watching this year's I/O keynote on Tuesday, I don't think Google just wants to goo"
-    },
-    {
-      "title": "Google\u2019s AI future demands trust \u2014 and your personal data",
-      "url": "https://www.theverge.com/tech/934172/google-io-gemini-ai-trust-personal-data",
-      "source": "The Verge",
-      "publishedAt": "2026-05-19T21:00:00Z",
-      "snippet": "Google has big promises for its AI-powered future - and a lot of it depends on your trust. At I/O 2026, Google described a bunch of new tools that it claims will make your life easier. Gemini Spark, G"
     }
   ],
   "trending": [
     {
       "id": "SulphurAI/Sulphur-2-base",
       "displayName": "Sulphur 2 base",
-      "downloads": 1157497
+      "downloads": 1198471
     },
     {
       "id": "unsloth/Qwen3.6-27B-MTP-GGUF",
       "displayName": "Qwen3.6 27B MTP",
-      "downloads": 411598
+      "downloads": 478488
     },
     {
       "id": "unsloth/Qwen3.6-35B-A3B-MTP-GGUF",
       "displayName": "Qwen3.6 35B A3B MTP",
-      "downloads": 363131
+      "downloads": 421542
     },
     {
       "id": "Jackrong/Qwopus3.5-9B-Coder-GGUF",
       "displayName": "Qwopus3.5 9B Coder",
-      "downloads": 17539
+      "downloads": 24412
     },
     {
       "id": "SeeSee21/Z-Anime",
       "displayName": "Z Anime",
-      "downloads": 16159
+      "downloads": 16391
     },
     {
       "id": "HauhauCS/Gemma4-26B-A4B-Uncensored-HauhauCS-Balanced",
       "displayName": "Gemma4 26B A4B Uncensored HauhauCS Balanced",
-      "downloads": 61106
+      "downloads": 68075
     },
     {
       "id": "RuneXX/LTX-2.3-Workflows",
@@ -214,19 +214,19 @@
       "downloads": 0
     },
     {
-      "id": "Jiunsong/supergemma4-26b-uncensored-gguf-v2",
-      "displayName": "supergemma4 26b uncensored v2",
-      "downloads": 255430
-    },
-    {
       "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
       "displayName": "Qwen3.6 35B A3B Uncensored HauhauCS Aggressive",
-      "downloads": 1222863
+      "downloads": 1201896
     },
     {
-      "id": "antirez/deepseek-v4-gguf",
-      "displayName": "deepseek v4",
-      "downloads": 326891
+      "id": "DavidAU/Qwen3.6-27B-Heretic-Uncensored-FINETUNE-NEO-CODE-Di-IMatrix-MAX-GGUF",
+      "displayName": "Qwen3.6 27B Heretic Uncensored FINETUNE NEO CODE Di IMatrix MAX",
+      "downloads": 419818
+    },
+    {
+      "id": "Jackrong/Qwopus3.5-9B-Coder-MTP-GGUF",
+      "displayName": "Qwopus3.5 9B Coder MTP",
+      "downloads": 13470
     }
   ]
 }
