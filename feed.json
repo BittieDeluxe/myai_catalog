@@ -1,6 +1,20 @@
 {
-  "updated": "2026-05-21T19:48:15Z",
+  "updated": "2026-05-21T21:24:00Z",
   "news": [
+    {
+      "title": "All of the updates from Elon Musk and Sam Altman\u2019s battle over OpenAI",
+      "url": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
+      "source": "The Verge",
+      "publishedAt": "2026-05-21T20:15:18Z",
+      "snippet": "Sam Altman and Elon Musk are facing off in a high-stakes trial that could alter the future of OpenAI and its most well-known product, ChatGPT. In 2024, Musk filed a lawsuit accusing OpenAI of abandoni"
+    },
+    {
+      "title": "In desperate times, graduates find hope in humiliating tech CEOs",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/935602/graduates-boo-ai-ceos",
+      "source": "The Verge",
+      "publishedAt": "2026-05-21T20:00:06Z",
+      "snippet": "University graduates are booing and heckling corporate executives who praise AI during their commencement ceremonies, and the only people who seem to be genuinely surprised by this are the executives "
+    },
     {
       "title": "Spotify and Universal Music strike deal allowing fan-made AI covers and remixes",
       "url": "https://techcrunch.com/2026/05/21/spotify-and-universal-music-strike-deal-allowing-fan-made-ai-covers-and-remixes/",
@@ -23,7 +37,7 @@
       "snippet": "President Trump delayed signing an executive order that would have required pre-release government security reviews of AI models, citing dissatisfaction with the order's language."
     },
     {
-      "title": "The Endless AI guitar pedal has potential",
+      "title": "This AI guitar pedal let me roll my own effects",
       "url": "https://www.theverge.com/ai-artificial-intelligence/935219/polyend-endless-ai-guitar-effects-pedal",
       "source": "The Verge",
       "publishedAt": "2026-05-21T17:00:00Z",
@@ -51,13 +65,6 @@
       "snippet": "This is Lowpass by Janko Roettgers, a newsletter on the ever-evolving intersection of tech and entertainment, syndicated just for The Verge subscribers once a week. Hollywood is cooked - or so a growi"
     },
     {
-      "title": "Spotify launches an ElevenLabs-powered audiobook creation tool",
-      "url": "https://techcrunch.com/2026/05/21/spotify-launches-an-elevenlabs-powered-audiobook-creation-tool/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-05-21T15:27:00Z",
-      "snippet": "Spotify is releasing new audiobook plans later this year"
-    },
-    {
       "title": "Spotify adds AI-powered Q&A and briefing generation features to podcasts",
       "url": "https://techcrunch.com/2026/05/21/spotify-adds-ai-powered-qa-and-briefing-generation-features-to-podcasts/",
       "source": "TechCrunch",
@@ -70,6 +77,13 @@
       "source": "TechCrunch",
       "publishedAt": "2026-05-21T15:27:00Z",
       "snippet": "Spotify is releasing the new desktop app as a research preview in more than 20 markets."
+    },
+    {
+      "title": "Spotify launches an ElevenLabs-powered audiobook creation tool",
+      "url": "https://techcrunch.com/2026/05/21/spotify-launches-an-elevenlabs-powered-audiobook-creation-tool/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-05-21T15:27:00Z",
+      "snippet": "Spotify is releasing new audiobook plans later this year"
     },
     {
       "title": "Musk v. Altman: Much ado about nothing",
@@ -128,13 +142,6 @@
       "snippet": "Meta has reportedly notified thousands of employees that they've been laid off as the company attempts to compensate for its hefty AI investments. In an email from Meta management shared by Business I"
     },
     {
-      "title": "In SpaceX\u2019s IPO, Elon Musk is the risk factor",
-      "url": "https://www.theverge.com/science/935102/spacex-ipo-elon-musk-tesla-cybertruck-xai-risk-factor",
-      "source": "The Verge",
-      "publishedAt": "2026-05-21T03:42:45Z",
-      "snippet": "The SpaceX IPO is here, and it's more than just an historic public offering that could make Elon Musk the world's first trillionaire. It also reveals more ways in which Elon Musk's companies interact "
-    },
-    {
       "title": "Jensen Huang says he\u2019s found a \u2018brand new\u2019 $200B market for Nvidia",
       "url": "https://techcrunch.com/2026/05/20/jensen-huang-says-hes-found-a-brand-new-200b-market-for-nvidia/",
       "source": "TechCrunch",
@@ -168,13 +175,6 @@
       "source": "TechCrunch",
       "publishedAt": "2026-05-20T22:03:51Z",
       "snippet": "Nvidia announced another record revenue figure after market close on Wednesday, but forecasted that revenue growth would slow in the following quarter."
-    },
-    {
-      "title": "\u2018Solve all diseases,\u2019 you say?",
-      "url": "https://www.theverge.com/column/935021/google-io-gemini-for-science-alphafold-alphagenome-ai-health",
-      "source": "The Verge",
-      "publishedAt": "2026-05-20T21:06:35Z",
-      "snippet": "This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. This week's"
     }
   ],
   "trending": [
