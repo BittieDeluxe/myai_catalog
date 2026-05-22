@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-21T22:59:47Z",
+  "updated": "2026-05-22T02:54:21Z",
   "news": [
     {
       "title": "All of the updates from Elon Musk and Sam Altman\u2019s battle over OpenAI",
@@ -83,7 +83,7 @@
       "url": "https://techcrunch.com/2026/05/21/spotify-launches-an-elevenlabs-powered-audiobook-creation-tool/",
       "source": "TechCrunch",
       "publishedAt": "2026-05-21T15:27:00Z",
-      "snippet": "Spotify is releasing new audiobook plans later this year"
+      "snippet": "The AI-powered audiobook generation won't bind authors to an exclusive contract, meaning they are free to publish their generated audiobooks anywhere."
     },
     {
       "title": "Musk v. Altman: Much ado about nothing",
@@ -209,11 +209,6 @@
       "downloads": 68075
     },
     {
-      "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
-      "displayName": "Qwen3.6 35B A3B Uncensored HauhauCS Aggressive",
-      "downloads": 1201896
-    },
-    {
       "id": "Jackrong/Qwopus3.5-9B-Coder-MTP-GGUF",
       "displayName": "Qwopus3.5 9B Coder MTP",
       "downloads": 13470
@@ -227,6 +222,11 @@
       "id": "Jiunsong/supergemma4-26b-uncensored-gguf-v2",
       "displayName": "supergemma4 26b uncensored v2",
       "downloads": 243991
+    },
+    {
+      "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
+      "displayName": "Qwen3.6 35B A3B Uncensored HauhauCS Aggressive",
+      "downloads": 1201896
     }
   ]
 }
