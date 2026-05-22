@@ -1,6 +1,27 @@
 {
-  "updated": "2026-05-22T19:29:03Z",
+  "updated": "2026-05-22T21:06:27Z",
   "news": [
+    {
+      "title": "Google goes for the glitter with disco-ball icons: \u2018Are y\u2019all sure you still want this?\u2019",
+      "url": "https://techcrunch.com/2026/05/22/google-goes-for-the-glitter-with-disco-ball-icons-are-yall-sure-you-still-want-this/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-05-22T21:02:36Z",
+      "snippet": "You can now disco ball-ify your entire Pixel homescreen, says Google."
+    },
+    {
+      "title": "How VCs and founders use inflated\u00a0\u2018ARR\u2019\u00a0to\u00a0crown\u00a0AI startups",
+      "url": "https://techcrunch.com/2026/05/22/how-vcs-and-founders-use-inflated-arr-to-kingmake-ai-startups/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-05-22T20:40:48Z",
+      "snippet": "Some AI startups are stretching traditional revenue metrics when talking about progress publicly. And their investors are fully aware."
+    },
+    {
+      "title": "Google&#8217;s AI search is so broken it can &#8216;disregard&#8217; what you&#8217;re looking for",
+      "url": "https://www.theverge.com/tech/936176/google-ai-overviews-search-disregard",
+      "source": "The Verge",
+      "publishedAt": "2026-05-22T20:39:54Z",
+      "snippet": "Google's AI Overviews are running into an interesting problem right now. Earlier on Friday, if you searched for the term \"disregard,\" the AI Overview section would include a response like what you'd s"
+    },
     {
       "title": "Elon Musk\u00a0can\u2019t\u00a0hear you over the sound of his\u00a0$1.75 trillion\u00a0IPO",
       "url": "https://techcrunch.com/podcast/elon-musk-cant-hear-you-over-the-sound-of-his-1-75-trillion-ipo/",
@@ -21,13 +42,6 @@
       "source": "TechCrunch",
       "publishedAt": "2026-05-22T16:16:48Z",
       "snippet": "After Google Search's AI update, the word \"disregard\" now effectively breaks the search interface."
-    },
-    {
-      "title": "Google&#8217;s AI search is so broken it can &#8216;disregard&#8217; what you&#8217;re looking for",
-      "url": "https://www.theverge.com/tech/936176/google-ai-overviews-search-disregard",
-      "source": "The Verge",
-      "publishedAt": "2026-05-22T16:01:17Z",
-      "snippet": "Google's AI Overviews are running into an interesting problem right now. As of this writing, if you search for the term \"disregard,\" instead of showing the usual AI-generated summary of search results"
     },
     {
       "title": "We tried Google\u2019s AI glasses and they\u2019re almost there",
@@ -161,20 +175,6 @@
       "source": "TechCrunch",
       "publishedAt": "2026-05-21T13:52:23Z",
       "snippet": "One of the most promising introductions at Google\u2019s I/O developer conference on Tuesday was a new way for consumers to use the web: AI agents. Unfortunately, it was also the most confusing."
-    },
-    {
-      "title": "With aluminum prices up 20%, recycling startups bet on AI to cash in",
-      "url": "https://techcrunch.com/2026/05/21/with-aluminum-prices-up-20-recycling-startups-bet-on-ai-to-cash-in/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-05-21T13:38:42Z",
-      "snippet": "Recycling startups are using AI to improve the recovery of critical minerals like aluminum, aiming to build a massive source of the metal."
-    },
-    {
-      "title": "Jensen Huang says he\u2019s found a \u2018brand new\u2019 $200B market for Nvidia",
-      "url": "https://techcrunch.com/2026/05/20/jensen-huang-says-hes-found-a-brand-new-200b-market-for-nvidia/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-05-21T00:28:31Z",
-      "snippet": "The next big thing for Nvidia will be CPUs for AI agents, $200 billion worth, CEO Jensen Huang predicts."
     }
   ],
   "trending": [
@@ -214,6 +214,11 @@
       "downloads": 345577
     },
     {
+      "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
+      "displayName": "Qwen3.6 35B A3B Uncensored HauhauCS Aggressive",
+      "downloads": 1218357
+    },
+    {
       "id": "HauhauCS/Gemma4-26B-A4B-Uncensored-HauhauCS-Balanced",
       "displayName": "Gemma4 26B A4B Uncensored HauhauCS Balanced",
       "downloads": 75628
@@ -222,11 +227,6 @@
       "id": "RuneXX/LTX-2.3-Workflows",
       "displayName": "LTX 2.3 Workflows",
       "downloads": 0
-    },
-    {
-      "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
-      "displayName": "Qwen3.6 35B A3B Uncensored HauhauCS Aggressive",
-      "downloads": 1218357
     }
   ]
 }
