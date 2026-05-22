@@ -1,6 +1,34 @@
 {
-  "updated": "2026-05-22T14:30:59Z",
+  "updated": "2026-05-22T17:48:13Z",
   "news": [
+    {
+      "title": "Elon, stop trying to make Grok happen",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/936219/elon-stop-trying-to-make-grok-happen",
+      "source": "The Verge",
+      "publishedAt": "2026-05-22T17:17:06Z",
+      "snippet": "There is a harsh truth about Elon Musk's \"truth-seeking\" AI chatbot Grok: It's not very good, and not many people are using it. That's the takeaway of a new Reuters report, which found that Grok barel"
+    },
+    {
+      "title": "You can no longer Google the word \u2018disregard\u2019",
+      "url": "https://techcrunch.com/2026/05/22/you-can-no-longer-google-the-word-disregard/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-05-22T16:16:48Z",
+      "snippet": "After Google Search's AI update, the word \"disregard\" now effectively breaks the search interface."
+    },
+    {
+      "title": "Google&#8217;s AI search is so broken it can &#8216;disregard&#8217; what you&#8217;re looking for",
+      "url": "https://www.theverge.com/tech/936176/google-ai-overviews-search-disregard",
+      "source": "The Verge",
+      "publishedAt": "2026-05-22T16:01:17Z",
+      "snippet": "Google's AI Overviews are running into an interesting problem right now. As of this writing, if you search for the term \"disregard,\" instead of showing the usual AI-generated summary of search results"
+    },
+    {
+      "title": "We tried Google\u2019s AI glasses and they\u2019re almost there",
+      "url": "https://techcrunch.com/2026/05/22/we-tried-googles-ai-glasses-and-theyre-almost-there/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-05-22T15:37:15Z",
+      "snippet": "Google demoed prototype Android XR glasses that overlay Gemini-powered translation, navigation, and other information directly into your field of view."
+    },
     {
       "title": "The literary world isn\u2019t prepared for AI",
       "url": "https://www.theverge.com/tech/936073/ai-writing-granta-commonwealth-prize",
@@ -9,7 +37,7 @@
       "snippet": "Since 2012, the British literary magazine Granta has published the regional winners of the annual Commonwealth Short Story Prize. This year, however, there was something off about one of the selection"
     },
     {
-      "title": "Why would you disrespect your favorite artist with an AI remix?",
+      "title": "Spotify says its AI remix tool is for superfans, but I&#8217;m not convinced",
       "url": "https://www.theverge.com/ai-artificial-intelligence/936072/spotify-umg-ai-music-remix-cover-superfan",
       "source": "The Verge",
       "publishedAt": "2026-05-22T14:20:00Z",
@@ -79,13 +107,6 @@
       "snippet": "Studio by Spotify Labs is a new standalone AI app that generates a daily briefing, podcasts, and playlists on your PC using chatbot prompts. The AI-generated content draws from your Spotify listening "
     },
     {
-      "title": "AI video is moving beyond clip slop",
-      "url": "https://www.theverge.com/column/935310/ai-video-luma-hollywood",
-      "source": "The Verge",
-      "publishedAt": "2026-05-21T15:30:00Z",
-      "snippet": "This is Lowpass by Janko Roettgers, a newsletter on the ever-evolving intersection of tech and entertainment, syndicated just for The Verge subscribers once a week. Hollywood is cooked - or so a growi"
-    },
-    {
       "title": "Spotify adds AI-powered Q&A and briefing generation features to podcasts",
       "url": "https://techcrunch.com/2026/05/21/spotify-adds-ai-powered-qa-and-briefing-generation-features-to-podcasts/",
       "source": "TechCrunch",
@@ -105,13 +126,6 @@
       "source": "TechCrunch",
       "publishedAt": "2026-05-21T15:27:00Z",
       "snippet": "The AI-powered audiobook generation won't bind authors to an exclusive contract, meaning they are free to publish their generated audiobooks anywhere."
-    },
-    {
-      "title": "Musk v. Altman: Much ado about nothing",
-      "url": "https://www.theverge.com/podcast/934869/elon-musk-sam-altman-openai-suit-loss-pointless",
-      "source": "The Verge",
-      "publishedAt": "2026-05-21T14:00:00Z",
-      "snippet": "Today I\u2019m talking with Liz Lopatto, who spent the last month covering the Musk v. Altman trial in all its chaos. You\u2019ll hear her describe the courthouse as a \u201czoo\u201d and explain that there were protests"
     },
     {
       "title": "The Path, founded by Tony Robbins and Calm alums, hopes to offer safer AI therapy",
@@ -161,20 +175,6 @@
       "source": "TechCrunch",
       "publishedAt": "2026-05-20T22:30:45Z",
       "snippet": "The video clipping startup raised a $7 million seed round led by Slow Ventures."
-    },
-    {
-      "title": "xAI burned $6.4B last year \u2014 SpaceX\u2019s IPO filing shows why the spending is far from over",
-      "url": "https://techcrunch.com/2026/05/20/xai-burned-6-4b-last-year-spacexs-ipo-filing-shows-why-the-spending-is-far-from-over/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-05-20T22:26:08Z",
-      "snippet": "SpaceX's IPO filing reveals xAI lost $6.4 billion in 2025 while planning a massive Grok expansion \u2014 offering the first public look at Elon Musk's AI financials and more details about his ambitions."
-    },
-    {
-      "title": "Nvidia posts another record quarter, reveals $43B of holdings in startups",
-      "url": "https://techcrunch.com/2026/05/20/nvidia-posts-another-record-quarter-reveals-43-billion-of-holdings-in-startups/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-05-20T22:03:51Z",
-      "snippet": "Nvidia announced another record revenue figure after market close on Wednesday, but forecasted that revenue growth would slow in the following quarter."
     }
   ],
   "trending": [
@@ -209,6 +209,11 @@
       "downloads": 16627
     },
     {
+      "id": "HauhauCS/Gemma4-26B-A4B-Uncensored-HauhauCS-Balanced",
+      "displayName": "Gemma4 26B A4B Uncensored HauhauCS Balanced",
+      "downloads": 75628
+    },
+    {
       "id": "RuneXX/LTX-2.3-Workflows",
       "displayName": "LTX 2.3 Workflows",
       "downloads": 0
@@ -217,11 +222,6 @@
       "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
       "displayName": "Qwen3.6 35B A3B Uncensored HauhauCS Aggressive",
       "downloads": 1218357
-    },
-    {
-      "id": "HauhauCS/Gemma4-26B-A4B-Uncensored-HauhauCS-Balanced",
-      "displayName": "Gemma4 26B A4B Uncensored HauhauCS Balanced",
-      "downloads": 75628
     },
     {
       "id": "antirez/deepseek-v4-gguf",
