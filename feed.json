@@ -1,6 +1,27 @@
 {
-  "updated": "2026-05-22T10:46:31Z",
+  "updated": "2026-05-22T14:30:59Z",
   "news": [
+    {
+      "title": "The literary world isn\u2019t prepared for AI",
+      "url": "https://www.theverge.com/tech/936073/ai-writing-granta-commonwealth-prize",
+      "source": "The Verge",
+      "publishedAt": "2026-05-22T14:30:00Z",
+      "snippet": "Since 2012, the British literary magazine Granta has published the regional winners of the annual Commonwealth Short Story Prize. This year, however, there was something off about one of the selection"
+    },
+    {
+      "title": "Why would you disrespect your favorite artist with an AI remix?",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/936072/spotify-umg-ai-music-remix-cover-superfan",
+      "source": "The Verge",
+      "publishedAt": "2026-05-22T14:20:00Z",
+      "snippet": "AI covers and remixes of songs are already a blight on the internet. Spotify, YouTube, TikTok, and Instagram are awash in flat reggae versions of \"Smells Like Teen Spirit,\" dinky country renditions of"
+    },
+    {
+      "title": "Samsung&#8217;s memory chip employees negotiated $340,000 bonuses this year",
+      "url": "https://www.theverge.com/tech/936002/samsung-memory-chip-employees-deal-strike-bonus",
+      "source": "The Verge",
+      "publishedAt": "2026-05-22T11:05:25Z",
+      "snippet": "Details have emerged about a tentative deal struck between Samsung and semiconductor employees who had threatened to strike. The deal reportedly makes some workers eligible for average annual bonuses "
+    },
     {
       "title": "All of the updates from Elon Musk and Sam Altman\u2019s battle over OpenAI",
       "url": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
@@ -121,27 +142,6 @@
       "snippet": "Recycling startups are using AI to improve the recovery of critical minerals like aluminum, aiming to build a massive source of the metal."
     },
     {
-      "title": "Anthropic is paying $15 billion a year for access to Elon Musk\u2019s data centers",
-      "url": "https://www.theverge.com/science/935229/spacex-anthropic-ipo-ai-capacity-deal-colossus",
-      "source": "The Verge",
-      "publishedAt": "2026-05-21T13:35:52Z",
-      "snippet": "Earlier this month, SpaceX and Anthropic announced a new compute partnership that provides access to the rocket company's Colossus data centers in Memphis, TN. Now, with the release of SpaceX's IPO fi"
-    },
-    {
-      "title": "I can\u2019t believe how fast Google vibe coded my first Android app",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/935056/google-vibe-coding-first-android-app-gemini-ai-studio",
-      "source": "The Verge",
-      "publishedAt": "2026-05-21T13:00:00Z",
-      "snippet": "Yesterday, I built my first Android app. Then, I made two more - three in one afternoon. For one, I literally typed 148 words into my web browser and walked away. Ten minutes later, I had an entire ne"
-    },
-    {
-      "title": "Meta lays off thousands of employees to offset AI investments",
-      "url": "https://www.theverge.com/tech/935163/meta-layoffs-ai-investment-offset-memo",
-      "source": "The Verge",
-      "publishedAt": "2026-05-21T09:20:46Z",
-      "snippet": "Meta has reportedly notified thousands of employees that they've been laid off as the company attempts to compensate for its hefty AI investments. In an email from Meta management shared by Business I"
-    },
-    {
       "title": "Jensen Huang says he\u2019s found a \u2018brand new\u2019 $200B market for Nvidia",
       "url": "https://techcrunch.com/2026/05/20/jensen-huang-says-hes-found-a-brand-new-200b-market-for-nvidia/",
       "source": "TechCrunch",
@@ -214,19 +214,19 @@
       "downloads": 0
     },
     {
-      "id": "HauhauCS/Gemma4-26B-A4B-Uncensored-HauhauCS-Balanced",
-      "displayName": "Gemma4 26B A4B Uncensored HauhauCS Balanced",
-      "downloads": 75628
-    },
-    {
       "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
       "displayName": "Qwen3.6 35B A3B Uncensored HauhauCS Aggressive",
       "downloads": 1218357
     },
     {
-      "id": "Jiunsong/supergemma4-26b-uncensored-gguf-v2",
-      "displayName": "supergemma4 26b uncensored v2",
-      "downloads": 234418
+      "id": "HauhauCS/Gemma4-26B-A4B-Uncensored-HauhauCS-Balanced",
+      "displayName": "Gemma4 26B A4B Uncensored HauhauCS Balanced",
+      "downloads": 75628
+    },
+    {
+      "id": "antirez/deepseek-v4-gguf",
+      "displayName": "deepseek v4",
+      "downloads": 345577
     }
   ]
 }
