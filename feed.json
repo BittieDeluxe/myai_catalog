@@ -1,15 +1,15 @@
 {
-  "updated": "2026-05-22T21:06:27Z",
+  "updated": "2026-05-22T22:54:03Z",
   "news": [
     {
       "title": "Google goes for the glitter with disco-ball icons: \u2018Are y\u2019all sure you still want this?\u2019",
       "url": "https://techcrunch.com/2026/05/22/google-goes-for-the-glitter-with-disco-ball-icons-are-yall-sure-you-still-want-this/",
       "source": "TechCrunch",
       "publishedAt": "2026-05-22T21:02:36Z",
-      "snippet": "You can now disco ball-ify your entire Pixel homescreen, says Google."
+      "snippet": "You can now disco ball-ify your entire Pixel home screen, says Google."
     },
     {
-      "title": "How VCs and founders use inflated\u00a0\u2018ARR\u2019\u00a0to\u00a0crown\u00a0AI startups",
+      "title": "How VCs and founders use inflated \u2018ARR\u2019 to crown AI startups",
       "url": "https://techcrunch.com/2026/05/22/how-vcs-and-founders-use-inflated-arr-to-kingmake-ai-startups/",
       "source": "TechCrunch",
       "publishedAt": "2026-05-22T20:40:48Z",
@@ -214,14 +214,14 @@
       "downloads": 345577
     },
     {
-      "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
-      "displayName": "Qwen3.6 35B A3B Uncensored HauhauCS Aggressive",
-      "downloads": 1218357
-    },
-    {
       "id": "HauhauCS/Gemma4-26B-A4B-Uncensored-HauhauCS-Balanced",
       "displayName": "Gemma4 26B A4B Uncensored HauhauCS Balanced",
       "downloads": 75628
+    },
+    {
+      "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
+      "displayName": "Qwen3.6 35B A3B Uncensored HauhauCS Aggressive",
+      "downloads": 1218357
     },
     {
       "id": "RuneXX/LTX-2.3-Workflows",
