@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-22T02:54:21Z",
+  "updated": "2026-05-22T07:40:09Z",
   "news": [
     {
       "title": "All of the updates from Elon Musk and Sam Altman\u2019s battle over OpenAI",
@@ -181,37 +181,32 @@
     {
       "id": "SulphurAI/Sulphur-2-base",
       "displayName": "Sulphur 2 base",
-      "downloads": 1198471
+      "downloads": 1249582
     },
     {
       "id": "unsloth/Qwen3.6-27B-MTP-GGUF",
       "displayName": "Qwen3.6 27B MTP",
-      "downloads": 478488
+      "downloads": 532255
     },
     {
       "id": "unsloth/Qwen3.6-35B-A3B-MTP-GGUF",
       "displayName": "Qwen3.6 35B A3B MTP",
-      "downloads": 421542
+      "downloads": 466060
     },
     {
       "id": "Jackrong/Qwopus3.5-9B-Coder-GGUF",
       "displayName": "Qwopus3.5 9B Coder",
-      "downloads": 24412
-    },
-    {
-      "id": "SeeSee21/Z-Anime",
-      "displayName": "Z Anime",
-      "downloads": 16391
-    },
-    {
-      "id": "HauhauCS/Gemma4-26B-A4B-Uncensored-HauhauCS-Balanced",
-      "displayName": "Gemma4 26B A4B Uncensored HauhauCS Balanced",
-      "downloads": 68075
+      "downloads": 28599
     },
     {
       "id": "Jackrong/Qwopus3.5-9B-Coder-MTP-GGUF",
       "displayName": "Qwopus3.5 9B Coder MTP",
-      "downloads": 13470
+      "downloads": 21448
+    },
+    {
+      "id": "SeeSee21/Z-Anime",
+      "displayName": "Z Anime",
+      "downloads": 16627
     },
     {
       "id": "RuneXX/LTX-2.3-Workflows",
@@ -219,14 +214,19 @@
       "downloads": 0
     },
     {
-      "id": "Jiunsong/supergemma4-26b-uncensored-gguf-v2",
-      "displayName": "supergemma4 26b uncensored v2",
-      "downloads": 243991
+      "id": "HauhauCS/Gemma4-26B-A4B-Uncensored-HauhauCS-Balanced",
+      "displayName": "Gemma4 26B A4B Uncensored HauhauCS Balanced",
+      "downloads": 75628
     },
     {
       "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
       "displayName": "Qwen3.6 35B A3B Uncensored HauhauCS Aggressive",
-      "downloads": 1201896
+      "downloads": 1218357
+    },
+    {
+      "id": "Jiunsong/supergemma4-26b-uncensored-gguf-v2",
+      "displayName": "supergemma4 26b uncensored v2",
+      "downloads": 234418
     }
   ]
 }
