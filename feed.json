@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-23T16:55:38Z",
+  "updated": "2026-05-23T19:04:07Z",
   "news": [
     {
       "title": "Ferrari is using IBM\u2019s AI to create F1 superfans",
@@ -199,14 +199,14 @@
       "downloads": 35795
     },
     {
-      "id": "Jackrong/Qwopus3.5-9B-Coder-MTP-GGUF",
-      "displayName": "Qwopus3.5 9B Coder MTP",
-      "downloads": 27398
-    },
-    {
       "id": "Jackrong/Qwopus3.6-27B-v2-GGUF",
       "displayName": "Qwopus3.6 27B v2",
       "downloads": 2853
+    },
+    {
+      "id": "Jackrong/Qwopus3.5-9B-Coder-MTP-GGUF",
+      "displayName": "Qwopus3.5 9B Coder MTP",
+      "downloads": 27398
     },
     {
       "id": "Jackrong/Qwopus3.6-27B-v2-MTP-GGUF",
@@ -214,19 +214,19 @@
       "downloads": 3532
     },
     {
-      "id": "unsloth/Qwen3.6-35B-A3B-GGUF",
-      "displayName": "Qwen3.6 35B A3B",
-      "downloads": 2363570
-    },
-    {
-      "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
-      "displayName": "Qwen3.6 35B A3B Uncensored HauhauCS Aggressive",
-      "downloads": 1214968
+      "id": "SeeSee21/Z-Anime",
+      "displayName": "Z Anime",
+      "downloads": 17343
     },
     {
       "id": "Jiunsong/supergemma4-26b-uncensored-gguf-v2",
       "displayName": "supergemma4 26b uncensored v2",
       "downloads": 225389
+    },
+    {
+      "id": "OBLITERATUS/Qwen3.6-27B-OBLITERATED",
+      "displayName": "Qwen3.6 27B OBLITERATED",
+      "downloads": 1863
     }
   ]
 }
