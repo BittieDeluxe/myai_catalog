@@ -1,6 +1,13 @@
 {
-  "updated": "2026-05-23T14:57:07Z",
+  "updated": "2026-05-23T16:55:38Z",
   "news": [
+    {
+      "title": "Ferrari is using IBM\u2019s AI to create F1 superfans",
+      "url": "https://techcrunch.com/2026/05/23/ferrari-is-using-ai-to-create-f1-superfans/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-05-23T15:08:00Z",
+      "snippet": "IBM and Scuderia Ferrari HP take TechCrunch inside how they are redefining the fan experience."
+    },
     {
       "title": "Elon Musk has given up on solar power (on Earth)",
       "url": "https://techcrunch.com/2026/05/23/elon-musk-has-given-up-on-solar-power-on-earth/",
@@ -168,25 +175,18 @@
       "source": "TechCrunch",
       "publishedAt": "2026-05-21T15:27:00Z",
       "snippet": "The AI-powered audiobook generation won't bind authors to an exclusive contract, meaning they are free to publish their generated audiobooks anywhere."
-    },
-    {
-      "title": "The Path, founded by Tony Robbins and Calm alums, hopes to offer safer AI therapy",
-      "url": "https://techcrunch.com/2026/05/21/the-path-founded-by-tony-robbins-and-calm-alums-wants-to-offer-safer-ai-therapy/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-05-21T14:00:00Z",
-      "snippet": "The Path says its AI model has scored 95 on the mental health safety AI benchmark, Vera-MH. This compares to a top score of 65 for the consumer bots."
     }
   ],
   "trending": [
     {
-      "id": "unsloth/Qwen3.6-27B-MTP-GGUF",
-      "displayName": "Qwen3.6 27B MTP",
-      "downloads": 597584
-    },
-    {
       "id": "SulphurAI/Sulphur-2-base",
       "displayName": "Sulphur 2 base",
       "downloads": 1286075
+    },
+    {
+      "id": "unsloth/Qwen3.6-27B-MTP-GGUF",
+      "displayName": "Qwen3.6 27B MTP",
+      "downloads": 597584
     },
     {
       "id": "unsloth/Qwen3.6-35B-A3B-MTP-GGUF",
@@ -214,11 +214,6 @@
       "downloads": 3532
     },
     {
-      "id": "Jiunsong/supergemma4-26b-uncensored-gguf-v2",
-      "displayName": "supergemma4 26b uncensored v2",
-      "downloads": 225389
-    },
-    {
       "id": "unsloth/Qwen3.6-35B-A3B-GGUF",
       "displayName": "Qwen3.6 35B A3B",
       "downloads": 2363570
@@ -227,6 +222,11 @@
       "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
       "displayName": "Qwen3.6 35B A3B Uncensored HauhauCS Aggressive",
       "downloads": 1214968
+    },
+    {
+      "id": "Jiunsong/supergemma4-26b-uncensored-gguf-v2",
+      "displayName": "supergemma4 26b uncensored v2",
+      "downloads": 225389
     }
   ]
 }
