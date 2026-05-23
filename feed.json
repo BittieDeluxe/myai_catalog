@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-23T13:16:07Z",
+  "updated": "2026-05-23T14:57:07Z",
   "news": [
     {
       "title": "Elon Musk has given up on solar power (on Earth)",
@@ -219,14 +219,14 @@
       "downloads": 225389
     },
     {
-      "id": "SeeSee21/Z-Anime",
-      "displayName": "Z Anime",
-      "downloads": 17343
+      "id": "unsloth/Qwen3.6-35B-A3B-GGUF",
+      "displayName": "Qwen3.6 35B A3B",
+      "downloads": 2363570
     },
     {
-      "id": "antirez/deepseek-v4-gguf",
-      "displayName": "deepseek v4",
-      "downloads": 351262
+      "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
+      "displayName": "Qwen3.6 35B A3B Uncensored HauhauCS Aggressive",
+      "downloads": 1214968
     }
   ]
 }
