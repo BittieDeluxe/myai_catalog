@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-23T22:49:10Z",
+  "updated": "2026-05-24T02:51:30Z",
   "news": [
     {
       "title": "Ferrari is using IBM\u2019s AI to create F1 superfans",
@@ -224,9 +224,9 @@
       "downloads": 2363570
     },
     {
-      "id": "Jiunsong/supergemma4-26b-uncensored-gguf-v2",
-      "displayName": "supergemma4 26b uncensored v2",
-      "downloads": 225389
+      "id": "RuneXX/LTX-2.3-Workflows",
+      "displayName": "LTX 2.3 Workflows",
+      "downloads": 0
     }
   ]
 }
