@@ -1,6 +1,13 @@
 {
-  "updated": "2026-05-24T14:59:19Z",
+  "updated": "2026-05-24T16:56:46Z",
   "news": [
+    {
+      "title": "I tried Amazon\u2019s Bee wearable and am both intrigued and slightly creeped out",
+      "url": "https://techcrunch.com/2026/05/24/i-tried-amazons-bee-wearable-and-am-both-intrigued-and-slightly-creeped-out/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-05-24T15:00:00Z",
+      "snippet": "Like other AI wearables, Amazon's Bee offers an odd combination of convenience and privacy anxiety."
+    },
     {
       "title": "Hackers are learning to exploit chatbot &#8216;personalities&#8217;",
       "url": "https://www.theverge.com/column/935545/hackers-ai-chatbots",
@@ -168,13 +175,6 @@
       "source": "TechCrunch",
       "publishedAt": "2026-05-21T15:27:00Z",
       "snippet": "Spotify is releasing the new desktop app as a research preview in more than 20 markets."
-    },
-    {
-      "title": "Spotify launches an ElevenLabs-powered audiobook creation tool",
-      "url": "https://techcrunch.com/2026/05/21/spotify-launches-an-elevenlabs-powered-audiobook-creation-tool/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-05-21T15:27:00Z",
-      "snippet": "The AI-powered audiobook generation won't bind authors to an exclusive contract, meaning they are free to publish their generated audiobooks anywhere."
     }
   ],
   "trending": [
@@ -209,6 +209,11 @@
       "downloads": 33197
     },
     {
+      "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
+      "displayName": "Qwen3.6 35B A3B Uncensored HauhauCS Aggressive",
+      "downloads": 1220114
+    },
+    {
       "id": "OBLITERATUS/Qwen3.6-27B-OBLITERATED",
       "displayName": "Qwen3.6 27B OBLITERATED",
       "downloads": 5298
@@ -217,11 +222,6 @@
       "id": "Jackrong/Qwopus3.6-27B-v2-MTP-GGUF",
       "displayName": "Qwopus3.6 27B v2 MTP",
       "downloads": 14966
-    },
-    {
-      "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
-      "displayName": "Qwen3.6 35B A3B Uncensored HauhauCS Aggressive",
-      "downloads": 1220114
     },
     {
       "id": "unsloth/Qwen3.6-35B-A3B-GGUF",
