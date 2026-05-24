@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-24T02:51:30Z",
+  "updated": "2026-05-24T06:56:10Z",
   "news": [
     {
       "title": "Ferrari is using IBM\u2019s AI to create F1 superfans",
@@ -189,14 +189,14 @@
       "downloads": 597584
     },
     {
-      "id": "Jackrong/Qwopus3.5-9B-Coder-GGUF",
-      "displayName": "Qwopus3.5 9B Coder",
-      "downloads": 35795
-    },
-    {
       "id": "unsloth/Qwen3.6-35B-A3B-MTP-GGUF",
       "displayName": "Qwen3.6 35B A3B MTP",
       "downloads": 507644
+    },
+    {
+      "id": "Jackrong/Qwopus3.5-9B-Coder-GGUF",
+      "displayName": "Qwopus3.5 9B Coder",
+      "downloads": 35795
     },
     {
       "id": "Jackrong/Qwopus3.6-27B-v2-GGUF",
@@ -219,14 +219,14 @@
       "downloads": 1863
     },
     {
+      "id": "HauhauCS/Gemma-4-E4B-Uncensored-HauhauCS-Aggressive",
+      "displayName": "Gemma 4 E4B Uncensored HauhauCS Aggressive",
+      "downloads": 746665
+    },
+    {
       "id": "unsloth/Qwen3.6-35B-A3B-GGUF",
       "displayName": "Qwen3.6 35B A3B",
       "downloads": 2363570
-    },
-    {
-      "id": "RuneXX/LTX-2.3-Workflows",
-      "displayName": "LTX 2.3 Workflows",
-      "downloads": 0
     }
   ]
 }
