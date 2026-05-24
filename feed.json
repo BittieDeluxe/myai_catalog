@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-24T13:17:14Z",
+  "updated": "2026-05-24T14:59:19Z",
   "news": [
     {
       "title": "Hackers are learning to exploit chatbot &#8216;personalities&#8217;",
@@ -209,24 +209,24 @@
       "downloads": 33197
     },
     {
-      "id": "Jackrong/Qwopus3.6-27B-v2-MTP-GGUF",
-      "displayName": "Qwopus3.6 27B v2 MTP",
-      "downloads": 14966
-    },
-    {
       "id": "OBLITERATUS/Qwen3.6-27B-OBLITERATED",
       "displayName": "Qwen3.6 27B OBLITERATED",
       "downloads": 5298
     },
     {
-      "id": "unsloth/Qwen3.6-35B-A3B-GGUF",
-      "displayName": "Qwen3.6 35B A3B",
-      "downloads": 2340477
+      "id": "Jackrong/Qwopus3.6-27B-v2-MTP-GGUF",
+      "displayName": "Qwopus3.6 27B v2 MTP",
+      "downloads": 14966
     },
     {
       "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
       "displayName": "Qwen3.6 35B A3B Uncensored HauhauCS Aggressive",
       "downloads": 1220114
+    },
+    {
+      "id": "unsloth/Qwen3.6-35B-A3B-GGUF",
+      "displayName": "Qwen3.6 35B A3B",
+      "downloads": 2340477
     }
   ]
 }
