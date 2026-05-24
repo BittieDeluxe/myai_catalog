@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-24T16:56:46Z",
+  "updated": "2026-05-24T19:11:49Z",
   "news": [
     {
       "title": "I tried Amazon\u2019s Bee wearable and am both intrigued and slightly creeped out",
@@ -204,14 +204,14 @@
       "downloads": 8300
     },
     {
-      "id": "Jackrong/Qwopus3.5-9B-Coder-MTP-GGUF",
-      "displayName": "Qwopus3.5 9B Coder MTP",
-      "downloads": 33197
-    },
-    {
       "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
       "displayName": "Qwen3.6 35B A3B Uncensored HauhauCS Aggressive",
       "downloads": 1220114
+    },
+    {
+      "id": "Jackrong/Qwopus3.5-9B-Coder-MTP-GGUF",
+      "displayName": "Qwopus3.5 9B Coder MTP",
+      "downloads": 33197
     },
     {
       "id": "OBLITERATUS/Qwen3.6-27B-OBLITERATED",
