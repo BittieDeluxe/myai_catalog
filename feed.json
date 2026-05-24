@@ -1,6 +1,13 @@
 {
-  "updated": "2026-05-24T11:12:56Z",
+  "updated": "2026-05-24T13:17:14Z",
   "news": [
+    {
+      "title": "Hackers are learning to exploit chatbot &#8216;personalities&#8217;",
+      "url": "https://www.theverge.com/column/935545/hackers-ai-chatbots",
+      "source": "The Verge",
+      "publishedAt": "2026-05-24T12:00:00Z",
+      "snippet": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on AI mischief, follow Robert Hart. The Stepback arrives in our subscribers' inboxes at 8AM ET"
+    },
     {
       "title": "Ferrari is using IBM\u2019s AI to create F1 superfans",
       "url": "https://techcrunch.com/2026/05/23/ferrari-is-using-ai-to-create-f1-superfans/",
@@ -149,13 +156,6 @@
       "snippet": "I'm not sure anyone was really asking for an AI guitar pedal. But it was inevitable that someone would build one. One of the first to take the plunge is Polyend, a well-respected music gear maker with"
     },
     {
-      "title": "Spotify is launching AI-generated remixes",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/935379/spotify-umg-ai-covers-remix",
-      "source": "The Verge",
-      "publishedAt": "2026-05-21T15:54:03Z",
-      "snippet": "Spotify and Universal Music Group (UMG) just announced a licensing deal that will allow users to prompt the creation of AI-generated remixes and covers for streaming songs. The tool will be a paid add"
-    },
-    {
       "title": "Spotify adds AI-powered Q&A and briefing generation features to podcasts",
       "url": "https://techcrunch.com/2026/05/21/spotify-adds-ai-powered-qa-and-briefing-generation-features-to-podcasts/",
       "source": "TechCrunch",
@@ -209,24 +209,24 @@
       "downloads": 33197
     },
     {
-      "id": "OBLITERATUS/Qwen3.6-27B-OBLITERATED",
-      "displayName": "Qwen3.6 27B OBLITERATED",
-      "downloads": 5298
-    },
-    {
       "id": "Jackrong/Qwopus3.6-27B-v2-MTP-GGUF",
       "displayName": "Qwopus3.6 27B v2 MTP",
       "downloads": 14966
     },
     {
-      "id": "HauhauCS/Gemma-4-E4B-Uncensored-HauhauCS-Aggressive",
-      "displayName": "Gemma 4 E4B Uncensored HauhauCS Aggressive",
-      "downloads": 733886
+      "id": "OBLITERATUS/Qwen3.6-27B-OBLITERATED",
+      "displayName": "Qwen3.6 27B OBLITERATED",
+      "downloads": 5298
     },
     {
       "id": "unsloth/Qwen3.6-35B-A3B-GGUF",
       "displayName": "Qwen3.6 35B A3B",
       "downloads": 2340477
+    },
+    {
+      "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
+      "displayName": "Qwen3.6 35B A3B Uncensored HauhauCS Aggressive",
+      "downloads": 1220114
     }
   ]
 }
