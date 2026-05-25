@@ -1,6 +1,13 @@
 {
-  "updated": "2026-05-25T16:20:25Z",
+  "updated": "2026-05-25T19:23:54Z",
   "news": [
+    {
+      "title": "What ClickUp\u2019s mass layoff tells us about the future of work",
+      "url": "https://techcrunch.com/2026/05/25/what-clickups-mass-layoff-tells-us-about-the-future-of-work/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-05-25T16:00:00Z",
+      "snippet": "The nine-year-old startup is replacing hundreds of employees with thousands of AI agents."
+    },
     {
       "title": "The pope\u2019s AI encyclical isn\u2019t really about AI",
       "url": "https://techcrunch.com/2026/05/25/the-popes-ai-encyclical-isnt-really-about-ai/",
@@ -168,13 +175,6 @@
       "source": "The Verge",
       "publishedAt": "2026-05-21T20:00:06Z",
       "snippet": "University graduates are booing and heckling corporate executives who praise AI during their commencement ceremonies, and the only people who seem to be genuinely surprised by this are the executives "
-    },
-    {
-      "title": "Spotify and Universal Music strike deal allowing fan-made AI covers and remixes",
-      "url": "https://techcrunch.com/2026/05/21/spotify-and-universal-music-strike-deal-allowing-fan-made-ai-covers-and-remixes/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-05-21T19:45:00Z",
-      "snippet": "Spotify is partnering with  Universal Music Group\ufffc to let Premium subscribers create AI-generated song covers and remixes, with participating artists receiving a share of the revenue."
     }
   ],
   "trending": [
@@ -194,14 +194,19 @@
       "downloads": 1392596
     },
     {
+      "id": "Jackrong/Qwopus3.6-27B-v2-GGUF",
+      "displayName": "Qwopus3.6 27B v2",
+      "downloads": 12677
+    },
+    {
       "id": "unsloth/Qwen3.6-35B-A3B-MTP-GGUF",
       "displayName": "Qwen3.6 35B A3B MTP",
       "downloads": 578580
     },
     {
-      "id": "Jackrong/Qwopus3.6-27B-v2-GGUF",
-      "displayName": "Qwopus3.6 27B v2",
-      "downloads": 12677
+      "id": "Jackrong/Qwopus3.6-27B-v2-MTP-GGUF",
+      "displayName": "Qwopus3.6 27B v2 MTP",
+      "downloads": 23762
     },
     {
       "id": "Jackrong/Qwopus3.5-9B-Coder-GGUF",
@@ -212,11 +217,6 @@
       "id": "OBLITERATUS/Qwen3.6-27B-OBLITERATED",
       "displayName": "Qwen3.6 27B OBLITERATED",
       "downloads": 7701
-    },
-    {
-      "id": "Jackrong/Qwopus3.6-27B-v2-MTP-GGUF",
-      "displayName": "Qwopus3.6 27B v2 MTP",
-      "downloads": 23762
     },
     {
       "id": "Jackrong/Qwopus3.5-9B-Coder-MTP-GGUF",
