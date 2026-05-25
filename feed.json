@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-25T21:02:06Z",
+  "updated": "2026-05-25T22:56:46Z",
   "news": [
     {
       "title": "What ClickUp\u2019s mass layoff tells us about the future of work",
@@ -204,14 +204,14 @@
       "downloads": 578580
     },
     {
-      "id": "Jackrong/Qwopus3.6-27B-v2-MTP-GGUF",
-      "displayName": "Qwopus3.6 27B v2 MTP",
-      "downloads": 23762
-    },
-    {
       "id": "OBLITERATUS/Qwen3.6-27B-OBLITERATED",
       "displayName": "Qwen3.6 27B OBLITERATED",
       "downloads": 7701
+    },
+    {
+      "id": "Jackrong/Qwopus3.6-27B-v2-MTP-GGUF",
+      "displayName": "Qwopus3.6 27B v2 MTP",
+      "downloads": 23762
     },
     {
       "id": "Jackrong/Qwopus3.5-9B-Coder-GGUF",
@@ -224,9 +224,9 @@
       "downloads": 37628
     },
     {
-      "id": "tencent/Hy-MT2-1.8B-GGUF",
-      "displayName": "Hy MT2 1.8B",
-      "downloads": 10214
+      "id": "HauhauCS/Gemma-4-E4B-Uncensored-HauhauCS-Aggressive",
+      "displayName": "Gemma 4 E4B Uncensored HauhauCS Aggressive",
+      "downloads": 706534
     }
   ]
 }
