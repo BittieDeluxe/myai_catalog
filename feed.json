@@ -1,6 +1,34 @@
 {
-  "updated": "2026-05-25T12:58:01Z",
+  "updated": "2026-05-25T16:20:25Z",
   "news": [
+    {
+      "title": "The pope\u2019s AI encyclical isn\u2019t really about AI",
+      "url": "https://techcrunch.com/2026/05/25/the-popes-ai-encyclical-isnt-really-about-ai/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-05-25T15:09:41Z",
+      "snippet": "Pope Leo XIV's first encyclical uses AI as a lens to diagnose older problems: concentrated power, eroding democracy, and a tech elite that shapes the world to its own advantage."
+    },
+    {
+      "title": "Pope Leo calls for being \u2018profoundly human\u2019 in the age of AI",
+      "url": "https://www.theverge.com/news/936945/pope-leo-letter-encyclical-ai-anthropic-labor-warfare",
+      "source": "The Verge",
+      "publishedAt": "2026-05-25T15:05:07Z",
+      "snippet": "Pope Leo XIV warned of the risks of AI and unconstrained technological power in his first major papal document released on Monday. Magnifica Humanitas is the pope's manifesto on \"safeguarding the huma"
+    },
+    {
+      "title": "Startup Battlefield 200 applications close in days: Apply before May 27",
+      "url": "https://techcrunch.com/2026/05/25/startup-battlefield-200-applications-close-in-days-apply-before-may-27/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-05-25T14:30:00Z",
+      "snippet": "The deadline to apply or nominate for Startup Battlefield 200 is May 27. This is your shot at VC access, global visibility, TechCrunch coverage, and $100,000. Apply now."
+    },
+    {
+      "title": "5 days left: Save up to $410 on TechCrunch Disrupt 2026 passes before prices increase",
+      "url": "https://techcrunch.com/2026/05/25/5-days-left-save-up-to-410-on-techcrunch-disrupt-2026-passes-before-prices-increase/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-05-25T14:00:00Z",
+      "snippet": "Early Bird savings for TechCrunch Disrupt 2026 in San Francisco end May 29 at 11:59 p.m. PT. Register now to save up to $410 before prices increase."
+    },
     {
       "title": "Everyone is navigating AI security in real time \u2014 even Google",
       "url": "https://techcrunch.com/2026/05/24/everyone-is-navigating-ai-security-in-real-time-even-google/",
@@ -147,34 +175,6 @@
       "source": "TechCrunch",
       "publishedAt": "2026-05-21T19:45:00Z",
       "snippet": "Spotify is partnering with  Universal Music Group\ufffc to let Premium subscribers create AI-generated song covers and remixes, with participating artists receiving a share of the revenue."
-    },
-    {
-      "title": "Six search engines worth trying now that Google isn\u2019t really Google anymore",
-      "url": "https://techcrunch.com/2026/05/21/six-search-engines-worth-trying-now-that-google-isnt-really-google-anymore/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-05-21T19:19:05Z",
-      "snippet": "Google is about to look really different, and if you're not a fan of the AI overview feature, then you're not going to like what's coming."
-    },
-    {
-      "title": "Trump delays AI security executive order, saying language \u2018could have been a blocker\u2019",
-      "url": "https://techcrunch.com/2026/05/21/trump-delays-ai-security-executive-order-i-dont-want-to-get-in-the-way-of-that-leading/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-05-21T17:30:45Z",
-      "snippet": "President Trump delayed signing an executive order that would have required pre-release government security reviews of AI models, citing dissatisfaction with the order's language."
-    },
-    {
-      "title": "This AI guitar pedal let me roll my own effects",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/935219/polyend-endless-ai-guitar-effects-pedal",
-      "source": "The Verge",
-      "publishedAt": "2026-05-21T17:00:00Z",
-      "snippet": "I'm not sure anyone was really asking for an AI guitar pedal. But it was inevitable that someone would build one. One of the first to take the plunge is Polyend, a well-respected music gear maker with"
-    },
-    {
-      "title": "Spotify adds AI-powered Q&A and briefing generation features to podcasts",
-      "url": "https://techcrunch.com/2026/05/21/spotify-adds-ai-powered-qa-and-briefing-generation-features-to-podcasts/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-05-21T15:27:00Z",
-      "snippet": "Spotify will let you generate daily or weekly briefs based on your prompts"
     }
   ],
   "trending": [
@@ -209,11 +209,6 @@
       "downloads": 42644
     },
     {
-      "id": "Jackrong/Qwopus3.5-9B-Coder-MTP-GGUF",
-      "displayName": "Qwopus3.5 9B Coder MTP",
-      "downloads": 37628
-    },
-    {
       "id": "OBLITERATUS/Qwen3.6-27B-OBLITERATED",
       "displayName": "Qwen3.6 27B OBLITERATED",
       "downloads": 7701
@@ -224,9 +219,14 @@
       "downloads": 23762
     },
     {
-      "id": "HauhauCS/Gemma-4-E4B-Uncensored-HauhauCS-Aggressive",
-      "displayName": "Gemma 4 E4B Uncensored HauhauCS Aggressive",
-      "downloads": 706534
+      "id": "Jackrong/Qwopus3.5-9B-Coder-MTP-GGUF",
+      "displayName": "Qwopus3.5 9B Coder MTP",
+      "downloads": 37628
+    },
+    {
+      "id": "tencent/Hy-MT2-1.8B-GGUF",
+      "displayName": "Hy MT2 1.8B",
+      "downloads": 10214
     }
   ]
 }
