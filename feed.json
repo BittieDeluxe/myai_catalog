@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-25T08:16:52Z",
+  "updated": "2026-05-25T12:58:01Z",
   "news": [
     {
       "title": "Everyone is navigating AI security in real time \u2014 even Google",
@@ -189,14 +189,14 @@
       "downloads": 695277
     },
     {
-      "id": "unsloth/Qwen3.6-35B-A3B-MTP-GGUF",
-      "displayName": "Qwen3.6 35B A3B MTP",
-      "downloads": 578580
-    },
-    {
       "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
       "displayName": "Qwen3.6 35B A3B Uncensored HauhauCS Aggressive",
       "downloads": 1392596
+    },
+    {
+      "id": "unsloth/Qwen3.6-35B-A3B-MTP-GGUF",
+      "displayName": "Qwen3.6 35B A3B MTP",
+      "downloads": 578580
     },
     {
       "id": "Jackrong/Qwopus3.6-27B-v2-GGUF",
@@ -214,14 +214,14 @@
       "downloads": 37628
     },
     {
-      "id": "Jackrong/Qwopus3.6-27B-v2-MTP-GGUF",
-      "displayName": "Qwopus3.6 27B v2 MTP",
-      "downloads": 23762
-    },
-    {
       "id": "OBLITERATUS/Qwen3.6-27B-OBLITERATED",
       "displayName": "Qwen3.6 27B OBLITERATED",
       "downloads": 7701
+    },
+    {
+      "id": "Jackrong/Qwopus3.6-27B-v2-MTP-GGUF",
+      "displayName": "Qwopus3.6 27B v2 MTP",
+      "downloads": 23762
     },
     {
       "id": "HauhauCS/Gemma-4-E4B-Uncensored-HauhauCS-Aggressive",
