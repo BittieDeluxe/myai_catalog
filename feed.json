@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-25T03:26:42Z",
+  "updated": "2026-05-25T08:16:52Z",
   "news": [
     {
       "title": "Everyone is navigating AI security in real time \u2014 even Google",
@@ -181,52 +181,52 @@
     {
       "id": "SulphurAI/Sulphur-2-base",
       "displayName": "Sulphur 2 base",
-      "downloads": 1331058
+      "downloads": 1354786
     },
     {
       "id": "unsloth/Qwen3.6-27B-MTP-GGUF",
       "displayName": "Qwen3.6 27B MTP",
-      "downloads": 660321
+      "downloads": 695277
     },
     {
       "id": "unsloth/Qwen3.6-35B-A3B-MTP-GGUF",
       "displayName": "Qwen3.6 35B A3B MTP",
-      "downloads": 547827
-    },
-    {
-      "id": "Jackrong/Qwopus3.5-9B-Coder-GGUF",
-      "displayName": "Qwopus3.5 9B Coder",
-      "downloads": 38937
-    },
-    {
-      "id": "Jackrong/Qwopus3.6-27B-v2-GGUF",
-      "displayName": "Qwopus3.6 27B v2",
-      "downloads": 8300
+      "downloads": 578580
     },
     {
       "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
       "displayName": "Qwen3.6 35B A3B Uncensored HauhauCS Aggressive",
-      "downloads": 1220114
+      "downloads": 1392596
+    },
+    {
+      "id": "Jackrong/Qwopus3.6-27B-v2-GGUF",
+      "displayName": "Qwopus3.6 27B v2",
+      "downloads": 12677
+    },
+    {
+      "id": "Jackrong/Qwopus3.5-9B-Coder-GGUF",
+      "displayName": "Qwopus3.5 9B Coder",
+      "downloads": 42644
     },
     {
       "id": "Jackrong/Qwopus3.5-9B-Coder-MTP-GGUF",
       "displayName": "Qwopus3.5 9B Coder MTP",
-      "downloads": 33197
-    },
-    {
-      "id": "OBLITERATUS/Qwen3.6-27B-OBLITERATED",
-      "displayName": "Qwen3.6 27B OBLITERATED",
-      "downloads": 5298
+      "downloads": 37628
     },
     {
       "id": "Jackrong/Qwopus3.6-27B-v2-MTP-GGUF",
       "displayName": "Qwopus3.6 27B v2 MTP",
-      "downloads": 14966
+      "downloads": 23762
     },
     {
-      "id": "unsloth/Qwen3.6-35B-A3B-GGUF",
-      "displayName": "Qwen3.6 35B A3B",
-      "downloads": 2340477
+      "id": "OBLITERATUS/Qwen3.6-27B-OBLITERATED",
+      "displayName": "Qwen3.6 27B OBLITERATED",
+      "downloads": 7701
+    },
+    {
+      "id": "HauhauCS/Gemma-4-E4B-Uncensored-HauhauCS-Aggressive",
+      "displayName": "Gemma 4 E4B Uncensored HauhauCS Aggressive",
+      "downloads": 706534
     }
   ]
 }
