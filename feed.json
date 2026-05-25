@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-25T19:23:54Z",
+  "updated": "2026-05-25T21:02:06Z",
   "news": [
     {
       "title": "What ClickUp\u2019s mass layoff tells us about the future of work",
@@ -209,14 +209,14 @@
       "downloads": 23762
     },
     {
-      "id": "Jackrong/Qwopus3.5-9B-Coder-GGUF",
-      "displayName": "Qwopus3.5 9B Coder",
-      "downloads": 42644
-    },
-    {
       "id": "OBLITERATUS/Qwen3.6-27B-OBLITERATED",
       "displayName": "Qwen3.6 27B OBLITERATED",
       "downloads": 7701
+    },
+    {
+      "id": "Jackrong/Qwopus3.5-9B-Coder-GGUF",
+      "displayName": "Qwopus3.5 9B Coder",
+      "downloads": 42644
     },
     {
       "id": "Jackrong/Qwopus3.5-9B-Coder-MTP-GGUF",
