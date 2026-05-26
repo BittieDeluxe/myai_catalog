@@ -1,6 +1,13 @@
 {
-  "updated": "2026-05-26T18:22:33Z",
+  "updated": "2026-05-26T21:40:11Z",
   "news": [
+    {
+      "title": "OpenRouter more than doubles valuation to $1.3B in a year",
+      "url": "https://techcrunch.com/2026/05/26/openrouter-more-than-doubles-valuation-to-1-3b-in-a-year/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-05-26T18:33:01Z",
+      "snippet": "OpenRouter has raised a $113 million Series B led by CapitalG. Its 5x growth in usage over six months indicates the multi-AI-model future is here."
+    },
     {
       "title": "This startup is betting India\u2019s gig economy can train the world\u2019s robots",
       "url": "https://techcrunch.com/2026/05/26/human-archive-taps-into-indias-services-startups-to-collect-data-for-physical-ai/",
@@ -13,7 +20,7 @@
       "url": "https://techcrunch.com/2026/05/26/universal-music-group-and-tiktok-renew-agreement-to-combat-unauthorized-ai-music/",
       "source": "TechCrunch",
       "publishedAt": "2026-05-26T14:55:05Z",
-      "snippet": "For years, UMG has pushed platforms, streaming services, and AI companies to implement stricter content moderation policies"
+      "snippet": "For years, UMG has pushed platforms, streaming services, and AI companies to implement stricter content moderation policies."
     },
     {
       "title": "Sundar Pichai on AI, the future of search, and what\u2019s happening to the web",
@@ -156,13 +163,6 @@
       "snippet": "Google's AI Overviews are running into an interesting problem right now. Earlier on Friday, if you searched for the term \"disregard,\" the AI Overview section would include a response like what you'd s"
     },
     {
-      "title": "Elon Musk\u00a0can\u2019t\u00a0hear you over the sound of his\u00a0$1.75 trillion\u00a0IPO",
-      "url": "https://techcrunch.com/podcast/elon-musk-cant-hear-you-over-the-sound-of-his-1-75-trillion-ipo/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-05-22T18:17:07Z",
-      "snippet": "The SpaceX S-1 is finally here, and the story it tells goes&#160;way further&#160;than rockets. The filing runs to 36 pages of risk factors alone, and the numbers inside match the ambition: a&#160;$28"
-    },
-    {
       "title": "Elon, stop trying to make Grok happen",
       "url": "https://www.theverge.com/ai-artificial-intelligence/936219/elon-stop-trying-to-make-grok-happen",
       "source": "The Verge",
@@ -199,14 +199,14 @@
       "downloads": 16379
     },
     {
-      "id": "unsloth/Qwen3.6-35B-A3B-MTP-GGUF",
-      "displayName": "Qwen3.6 35B A3B MTP",
-      "downloads": 627535
-    },
-    {
       "id": "Jackrong/Qwopus3.6-27B-v2-MTP-GGUF",
       "displayName": "Qwopus3.6 27B v2 MTP",
       "downloads": 31597
+    },
+    {
+      "id": "unsloth/Qwen3.6-35B-A3B-MTP-GGUF",
+      "displayName": "Qwen3.6 35B A3B MTP",
+      "downloads": 627535
     },
     {
       "id": "OBLITERATUS/Qwen3.6-27B-OBLITERATED",
