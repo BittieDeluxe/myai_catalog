@@ -1,6 +1,13 @@
 {
-  "updated": "2026-05-26T21:40:11Z",
+  "updated": "2026-05-26T23:05:54Z",
   "news": [
+    {
+      "title": "DuckDuckGo installs are up 30% as users reject being \u2018force-fed\u2019 Google\u2019s AI Search",
+      "url": "https://techcrunch.com/2026/05/26/duckduckgo-installs-are-up-30-as-users-reject-being-force-fed-googles-ai-search/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-05-26T22:32:56Z",
+      "snippet": "Google overhauled Search at I/O 2026, replacing blue links with AI agents. The backlash has been swift. DuckDuckGo app installs spiked 30% as users seek a way out."
+    },
     {
       "title": "OpenRouter more than doubles valuation to $1.3B in a year",
       "url": "https://techcrunch.com/2026/05/26/openrouter-more-than-doubles-valuation-to-1-3b-in-a-year/",
@@ -100,6 +107,13 @@
       "snippet": "We're in the transition period -- all of us."
     },
     {
+      "title": "Xreal, Google\u2019s smart glasses partner, thinks it has finally mastered this notoriously tricky industry",
+      "url": "https://techcrunch.com/2026/05/24/xreal-googles-smartglasses-partner-thinks-it-has-finally-mastered-this-notoriously-tricky-industry/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-05-24T19:00:00Z",
+      "snippet": "Chi Xu, the founder and CEO of Xreal, thinks the smart glasses business has finally reached a turning point."
+    },
+    {
       "title": "I tried Amazon\u2019s Bee wearable and am both intrigued and slightly creeped out",
       "url": "https://techcrunch.com/2026/05/24/i-tried-amazons-bee-wearable-and-am-both-intrigued-and-slightly-creeped-out/",
       "source": "TechCrunch",
@@ -140,20 +154,6 @@
       "source": "TechCrunch",
       "publishedAt": "2026-05-22T23:03:33Z",
       "snippet": "People used AI on a spectrogram image of cockpit recordings to reconstruct them, forcing the NTSB to temporarily block access to its docket system."
-    },
-    {
-      "title": "Google goes for the glitter with disco-ball icons: \u2018Are y\u2019all sure you still want this?\u2019",
-      "url": "https://techcrunch.com/2026/05/22/google-goes-for-the-glitter-with-disco-ball-icons-are-yall-sure-you-still-want-this/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-05-22T21:02:36Z",
-      "snippet": "You can now disco ball-ify your entire Pixel home screen, says Google."
-    },
-    {
-      "title": "How VCs and founders use inflated \u2018ARR\u2019 to crown AI startups",
-      "url": "https://techcrunch.com/2026/05/22/how-vcs-and-founders-use-inflated-arr-to-kingmake-ai-startups/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-05-22T20:40:48Z",
-      "snippet": "Some AI startups are stretching traditional revenue metrics when talking about progress publicly. And their investors are fully aware."
     },
     {
       "title": "Google&#8217;s AI search is so broken it can &#8216;disregard&#8217; what you&#8217;re looking for",
