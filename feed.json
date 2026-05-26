@@ -1,6 +1,48 @@
 {
-  "updated": "2026-05-26T07:41:05Z",
+  "updated": "2026-05-26T14:59:11Z",
   "news": [
+    {
+      "title": "Universal Music Group and TikTok renew agreement to combat unauthorized AI music",
+      "url": "https://techcrunch.com/2026/05/26/universal-music-group-and-tiktok-renew-agreement-to-combat-unauthorized-ai-music/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-05-26T14:55:05Z",
+      "snippet": "For years, UMG has pushed platforms, streaming services, and AI companies to implement stricter content moderation policies"
+    },
+    {
+      "title": "Sundar Pichai on AI, the future of search, and what\u2019s happening to the web",
+      "url": "https://www.theverge.com/podcast/936445/sundar-pichai-ai-search-google-zero-youtube-web",
+      "source": "The Verge",
+      "publishedAt": "2026-05-26T14:00:00Z",
+      "snippet": "Today, I\u2019m talking with Google and Alphabet CEO Sundar Pichai, in a conversation we recorded just after the Google I/O developer conference. This is the fifth year Sundar and I have sat down after I/O"
+    },
+    {
+      "title": "TechCrunch Disrupt 2026 Early Bird\u00a0ticket\u00a0rates end May 29",
+      "url": "https://techcrunch.com/2026/05/26/techcrunch-disrupt-2026-early-bird-ticket-rates-end-may-29/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-05-26T14:00:00Z",
+      "snippet": "Save up to $410 on your TechCrunch Disrupt 2026 pass before prices increase on May 29 at 11:59 p.m. PT. Register here to join the tech epicenter in San Francisco."
+    },
+    {
+      "title": "Nobody wants to tell me why they only listen to their own Suno slop",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/937059/nobody-wants-to-tell-me-why-they-only-listen-their-own-suno-slop",
+      "source": "The Verge",
+      "publishedAt": "2026-05-26T12:46:03Z",
+      "snippet": "There's this alarming trend in the Suno subreddit. People aren't just prompting AI songs; they're sitting around listening almost exclusively to their own slop. And in some cases, they proudly proclai"
+    },
+    {
+      "title": "AI warfare is already here",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/937028/military-ai-warfare-red-lines",
+      "source": "The Verge",
+      "publishedAt": "2026-05-26T12:00:00Z",
+      "snippet": "The Convention on Certain Conventional Weapons, an international forum that focuses on lethal autonomous systems, is hosted twice a year at the United Nations in Geneva. When Branka Marijan attended i"
+    },
+    {
+      "title": "Uber president says AI spending is getting \u2018harder to justify\u2019",
+      "url": "https://www.theverge.com/transportation/937116/uber-ai-investment-hard-to-justify",
+      "source": "The Verge",
+      "publishedAt": "2026-05-26T09:55:09Z",
+      "snippet": "After reportedly exhausting its annual AI budget just four months into 2026, Uber is now questioning whether it's actually seeing meaningful returns on its investments. In an interview with Rapid Resp"
+    },
     {
       "title": "What ClickUp\u2019s mass layoff tells us about the future of work",
       "url": "https://techcrunch.com/2026/05/25/what-clickups-mass-layoff-tells-us-about-the-future-of-work/",
@@ -128,65 +170,23 @@
       "snippet": "After Google Search's AI update, the word \"disregard\" now effectively breaks the search interface."
     },
     {
-      "title": "We tried Google\u2019s AI glasses and they\u2019re almost there",
-      "url": "https://techcrunch.com/2026/05/22/we-tried-googles-ai-glasses-and-theyre-almost-there/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-05-22T15:37:15Z",
-      "snippet": "Google demoed prototype Android XR glasses that overlay Gemini-powered translation, navigation, and other information directly into your field of view."
-    },
-    {
       "title": "The literary world isn\u2019t prepared for AI",
       "url": "https://www.theverge.com/tech/936073/ai-writing-granta-commonwealth-prize",
       "source": "The Verge",
       "publishedAt": "2026-05-22T14:30:00Z",
       "snippet": "Since 2012, the British literary magazine Granta has published the regional winners of the annual Commonwealth Short Story Prize. This year, however, there was something off about one of the selection"
-    },
-    {
-      "title": "SpaceX files to go public, and the math requires a little faith",
-      "url": "https://techcrunch.com/video/spacex-files-to-go-public-and-the-math-requires-a-little-faith/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-05-22T14:30:00Z",
-      "snippet": "The SpaceX S-1 is finally here, and the story it tells goes&#160;way further&#160;than rockets. The filing runs to 36 pages of risk factors alone, and the numbers inside match the ambition: a&#160;$28"
-    },
-    {
-      "title": "Spotify says its AI remix tool is for superfans, but I&#8217;m not convinced",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/936072/spotify-umg-ai-music-remix-cover-superfan",
-      "source": "The Verge",
-      "publishedAt": "2026-05-22T14:20:00Z",
-      "snippet": "AI covers and remixes of songs are already a blight on the internet. Spotify, YouTube, TikTok, and Instagram are awash in flat reggae versions of \"Smells Like Teen Spirit,\" dinky country renditions of"
-    },
-    {
-      "title": "Samsung&#8217;s memory chip employees negotiated $340,000 bonuses this year",
-      "url": "https://www.theverge.com/tech/936002/samsung-memory-chip-employees-deal-strike-bonus",
-      "source": "The Verge",
-      "publishedAt": "2026-05-22T11:05:25Z",
-      "snippet": "Details have emerged about a tentative deal struck between Samsung and semiconductor employees who had threatened to strike. The deal reportedly makes some workers eligible for average annual bonuses "
-    },
-    {
-      "title": "All of the updates from Elon Musk and Sam Altman\u2019s battle over OpenAI",
-      "url": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
-      "source": "The Verge",
-      "publishedAt": "2026-05-21T20:15:18Z",
-      "snippet": "Sam Altman and Elon Musk are facing off in a high-stakes trial that could alter the future of OpenAI and its most well-known product, ChatGPT. In 2024, Musk filed a lawsuit accusing OpenAI of abandoni"
-    },
-    {
-      "title": "In desperate times, graduates find hope in humiliating tech CEOs",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/935602/graduates-boo-ai-ceos",
-      "source": "The Verge",
-      "publishedAt": "2026-05-21T20:00:06Z",
-      "snippet": "University graduates are booing and heckling corporate executives who praise AI during their commencement ceremonies, and the only people who seem to be genuinely surprised by this are the executives "
     }
   ],
   "trending": [
     {
-      "id": "SulphurAI/Sulphur-2-base",
-      "displayName": "Sulphur 2 base",
-      "downloads": 1376847
-    },
-    {
       "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
       "displayName": "Qwen3.6 35B A3B Uncensored HauhauCS Aggressive",
       "downloads": 1598473
+    },
+    {
+      "id": "SulphurAI/Sulphur-2-base",
+      "displayName": "Sulphur 2 base",
+      "downloads": 1376847
     },
     {
       "id": "unsloth/Qwen3.6-27B-MTP-GGUF",
@@ -214,14 +214,14 @@
       "downloads": 10015
     },
     {
-      "id": "Jackrong/Qwopus3.5-9B-Coder-GGUF",
-      "displayName": "Qwopus3.5 9B Coder",
-      "downloads": 45392
-    },
-    {
       "id": "Jackrong/Qwopus3.5-9B-Coder-MTP-GGUF",
       "displayName": "Qwopus3.5 9B Coder MTP",
       "downloads": 42335
+    },
+    {
+      "id": "Jackrong/Qwopus3.5-9B-Coder-GGUF",
+      "displayName": "Qwopus3.5 9B Coder",
+      "downloads": 45392
     },
     {
       "id": "tencent/Hy-MT2-1.8B-GGUF",
