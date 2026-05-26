@@ -1,6 +1,13 @@
 {
-  "updated": "2026-05-26T14:59:11Z",
+  "updated": "2026-05-26T18:22:33Z",
   "news": [
+    {
+      "title": "This startup is betting India\u2019s gig economy can train the world\u2019s robots",
+      "url": "https://techcrunch.com/2026/05/26/human-archive-taps-into-indias-services-startups-to-collect-data-for-physical-ai/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-05-26T16:00:00Z",
+      "snippet": "Human Archive, a startup founded by UC Berkeley and Stanford researchers, is paying gig workers in India to wear camera-equipped caps and sensor devices to collect the real-world physical training dat"
+    },
     {
       "title": "Universal Music Group and TikTok renew agreement to combat unauthorized AI music",
       "url": "https://techcrunch.com/2026/05/26/universal-music-group-and-tiktok-renew-agreement-to-combat-unauthorized-ai-music/",
@@ -161,13 +168,6 @@
       "source": "The Verge",
       "publishedAt": "2026-05-22T17:17:06Z",
       "snippet": "There is a harsh truth about Elon Musk's \"truth-seeking\" AI chatbot Grok: It's not very good, and not many people are using it. That's the takeaway of a new Reuters report, which found that Grok barel"
-    },
-    {
-      "title": "You can no longer Google the word \u2018disregard\u2019",
-      "url": "https://techcrunch.com/2026/05/22/you-can-no-longer-google-the-word-disregard/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-05-22T16:16:48Z",
-      "snippet": "After Google Search's AI update, the word \"disregard\" now effectively breaks the search interface."
     },
     {
       "title": "The literary world isn\u2019t prepared for AI",
