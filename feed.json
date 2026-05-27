@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-27T02:58:46Z",
+  "updated": "2026-05-27T07:58:45Z",
   "news": [
     {
       "title": "Did the Pope use AI to write about the dangers of AI?",
@@ -219,14 +219,14 @@
       "downloads": 45392
     },
     {
-      "id": "Jackrong/Qwopus3.5-9B-Coder-MTP-GGUF",
-      "displayName": "Qwopus3.5 9B Coder MTP",
-      "downloads": 42335
-    },
-    {
       "id": "tencent/Hy-MT2-1.8B-GGUF",
       "displayName": "Hy MT2 1.8B",
       "downloads": 12083
+    },
+    {
+      "id": "Jackrong/Qwopus3.5-9B-Coder-MTP-GGUF",
+      "displayName": "Qwopus3.5 9B Coder MTP",
+      "downloads": 42335
     }
   ]
 }
