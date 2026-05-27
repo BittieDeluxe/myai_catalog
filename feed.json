@@ -1,6 +1,27 @@
 {
-  "updated": "2026-05-27T18:23:31Z",
+  "updated": "2026-05-27T21:50:12Z",
   "news": [
+    {
+      "title": "In more good news for Amazon, Snowflake signs $6B deal with AWS for AI CPU chips",
+      "url": "https://techcrunch.com/2026/05/27/in-more-good-news-for-amazon-snowflake-signs-6b-deal-with-aws-for-ai-cpu-chips/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-05-27T20:10:00Z",
+      "snippet": "Snowflake has signed a new, enormous five-year deal with Amazon to secure chips for AI usage. Nvidia is once again being put on notice."
+    },
+    {
+      "title": "Payroll startup Remote says it grew revenue 50% per employee without adding headcount",
+      "url": "https://techcrunch.com/2026/05/27/payroll-startup-remote-says-it-grew-revenue-50-per-employee-without-adding-headcount/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-05-27T19:39:45Z",
+      "snippet": "Payroll service provider Remote recently surpassed $300 million in annual recurring revenue (ARR) and became cash-flow positive, thanks to a 50% increase in revenue per employee resulting from AI adop"
+    },
+    {
+      "title": "Your SEO strategy is\u00a0optimized\u00a0for a search engine that no longer exists.",
+      "url": "https://techcrunch.com/podcast/your-seo-strategy-is-optimized-for-a-search-engine-that-no-longer-exists/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-05-27T18:39:17Z",
+      "snippet": "Google I/O made it official: AI-generated answers are now front and&#160;center&#160;in search, and most brands have almost no visibility into how AI is describing them to their customers.&#160;For an"
+    },
     {
       "title": "Meta launches Instagram, Facebook, and WhatsApp subscriptions, with more to come, including AI plans",
       "url": "https://techcrunch.com/2026/05/27/meta-officially-launches-instagram-facebook-and-whatsapp-subscriptions-with-more-to-come-including-ai-plans/",
@@ -62,7 +83,7 @@
       "url": "https://techcrunch.com/2026/05/27/sond-a-sleep-tech-startup-from-boses-former-head-of-sleep-exits-stealth-with-7m/",
       "source": "TechCrunch",
       "publishedAt": "2026-05-27T14:00:00Z",
-      "snippet": "SOND, a startup led by Bose\u2019s former head of sleep products, emerged from stealth with $7M in funding for its AI-powered sleep earbuds."
+      "snippet": "SOND introduced its debut product: Dreambuds, a closed-loop, in-ear system that captures 12 physiological signals from the wearer, then acts on them in real time to help consumers get better sleep."
     },
     {
       "title": "China is increasingly keeping its best AI talent to itself",
@@ -72,8 +93,8 @@
       "snippet": "China's AI boom is producing world-class talent, and Beijing is increasingly reluctant to let them go elsewhere."
     },
     {
-      "title": "ClickHouse triples anualized revenue to $250M, charting a path toward an IPO",
-      "url": "https://techcrunch.com/2026/05/27/clickhouse-triples-anualized-revenue-to-250m-charting-a-path-toward-an-ipo/",
+      "title": "ClickHouse triples annualized revenue to $250M, charting a path toward an IPO",
+      "url": "https://techcrunch.com/2026/05/27/clickhouse-triples-annualized-revenue-to-250m-charting-a-path-toward-an-ipo/",
       "source": "TechCrunch",
       "publishedAt": "2026-05-27T13:04:20Z",
       "snippet": "The database provider is eyeing a public debut within the next few years."
@@ -97,7 +118,7 @@
       "url": "https://techcrunch.com/2026/05/27/robinhood-now-lets-your-ai-agents-trade-stocks/",
       "source": "TechCrunch",
       "publishedAt": "2026-05-27T12:30:00Z",
-      "snippet": "Robinhood will let users create a separate account with pre-loaded balance that an agent use to trade"
+      "snippet": "While these agents would be able to read and analyze users' portfolios to come up with trading strategies and suggest investments, they'll only be able to access the pre-loaded balance in the dedicate"
     },
     {
       "title": "Tech CEOs are apparently suffering from AI psychosis",
@@ -133,27 +154,6 @@
       "source": "TechCrunch",
       "publishedAt": "2026-05-26T22:32:56Z",
       "snippet": "Google overhauled Search at I/O 2026, replacing blue links with AI agents. The backlash has been swift. DuckDuckGo app installs spiked 30% as users seek a way out."
-    },
-    {
-      "title": "OpenRouter more than doubles valuation to $1.3B in a year",
-      "url": "https://techcrunch.com/2026/05/26/openrouter-more-than-doubles-valuation-to-1-3b-in-a-year/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-05-26T18:33:01Z",
-      "snippet": "OpenRouter has raised a $113 million Series B led by CapitalG. Its 5x growth in usage over six months indicates the multi-AI-model future is here."
-    },
-    {
-      "title": "This startup is betting India\u2019s gig economy can train the world\u2019s robots",
-      "url": "https://techcrunch.com/2026/05/26/human-archive-taps-into-indias-services-startups-to-collect-data-for-physical-ai/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-05-26T16:00:00Z",
-      "snippet": "Human Archive, a startup founded by UC Berkeley and Stanford researchers, is paying gig workers in India to wear camera-equipped caps and sensor devices to collect the real-world physical training dat"
-    },
-    {
-      "title": "Universal Music Group and TikTok renew agreement to combat unauthorized AI music",
-      "url": "https://techcrunch.com/2026/05/26/universal-music-group-and-tiktok-renew-agreement-to-combat-unauthorized-ai-music/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-05-26T14:55:05Z",
-      "snippet": "For years, UMG has pushed platforms, streaming services, and AI companies to implement stricter content moderation policies."
     },
     {
       "title": "Sundar Pichai on AI, the future of search, and what\u2019s happening to the web",
