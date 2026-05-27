@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-27T21:50:12Z",
+  "updated": "2026-05-27T23:13:36Z",
   "news": [
     {
       "title": "In more good news for Amazon, Snowflake signs $6B deal with AWS for AI CPU chips",
@@ -204,14 +204,14 @@
       "downloads": 31597
     },
     {
-      "id": "unsloth/Qwen3.6-35B-A3B-MTP-GGUF",
-      "displayName": "Qwen3.6 35B A3B MTP",
-      "downloads": 627535
-    },
-    {
       "id": "OBLITERATUS/Qwen3.6-27B-OBLITERATED",
       "displayName": "Qwen3.6 27B OBLITERATED",
       "downloads": 10015
+    },
+    {
+      "id": "unsloth/Qwen3.6-35B-A3B-MTP-GGUF",
+      "displayName": "Qwen3.6 35B A3B MTP",
+      "downloads": 627535
     },
     {
       "id": "tencent/Hy-MT2-1.8B-GGUF",
