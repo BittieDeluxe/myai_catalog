@@ -1,6 +1,13 @@
 {
-  "updated": "2026-05-26T23:05:54Z",
+  "updated": "2026-05-27T02:58:46Z",
   "news": [
+    {
+      "title": "Did the Pope use AI to write about the dangers of AI?",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/937801/pope-leo-xiv-magnifica-humanitas-ai-pangram",
+      "source": "The Verge",
+      "publishedAt": "2026-05-27T00:38:11Z",
+      "snippet": "It's possible that AI was used to write parts of Pope Leo XIV's latest encyclical about AI's impact on humanity. An analysis by Linch Zhang posted on the forum LessWrong found certain paragraphs of Ma"
+    },
     {
       "title": "DuckDuckGo installs are up 30% as users reject being \u2018force-fed\u2019 Google\u2019s AI Search",
       "url": "https://techcrunch.com/2026/05/26/duckduckgo-installs-are-up-30-as-users-reject-being-force-fed-googles-ai-search/",
@@ -168,13 +175,6 @@
       "source": "The Verge",
       "publishedAt": "2026-05-22T17:17:06Z",
       "snippet": "There is a harsh truth about Elon Musk's \"truth-seeking\" AI chatbot Grok: It's not very good, and not many people are using it. That's the takeaway of a new Reuters report, which found that Grok barel"
-    },
-    {
-      "title": "The literary world isn\u2019t prepared for AI",
-      "url": "https://www.theverge.com/tech/936073/ai-writing-granta-commonwealth-prize",
-      "source": "The Verge",
-      "publishedAt": "2026-05-22T14:30:00Z",
-      "snippet": "Since 2012, the British literary magazine Granta has published the regional winners of the annual Commonwealth Short Story Prize. This year, however, there was something off about one of the selection"
     }
   ],
   "trending": [
@@ -214,14 +214,14 @@
       "downloads": 10015
     },
     {
-      "id": "Jackrong/Qwopus3.5-9B-Coder-MTP-GGUF",
-      "displayName": "Qwopus3.5 9B Coder MTP",
-      "downloads": 42335
-    },
-    {
       "id": "Jackrong/Qwopus3.5-9B-Coder-GGUF",
       "displayName": "Qwopus3.5 9B Coder",
       "downloads": 45392
+    },
+    {
+      "id": "Jackrong/Qwopus3.5-9B-Coder-MTP-GGUF",
+      "displayName": "Qwopus3.5 9B Coder MTP",
+      "downloads": 42335
     },
     {
       "id": "tencent/Hy-MT2-1.8B-GGUF",
