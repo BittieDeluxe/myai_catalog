@@ -1,6 +1,27 @@
 {
-  "updated": "2026-05-27T15:30:30Z",
+  "updated": "2026-05-27T18:23:31Z",
   "news": [
+    {
+      "title": "Meta launches Instagram, Facebook, and WhatsApp subscriptions, with more to come, including AI plans",
+      "url": "https://techcrunch.com/2026/05/27/meta-officially-launches-instagram-facebook-and-whatsapp-subscriptions-with-more-to-come-including-ai-plans/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-05-27T18:00:00Z",
+      "snippet": "Meta is rolling out paid subscription plans for Instagram, Facebook, and WhatsApp worldwide, while also testing new AI, creator, and business-focused offerings under its broader \u201cMeta One\u201d subscriptio"
+    },
+    {
+      "title": "AI coding startup Cognition raises $1B at $25B pre-money valuation",
+      "url": "https://techcrunch.com/2026/05/27/ai-coding-startup-cognition-raises-1b-at-25b-pre-money-valuation/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-05-27T16:00:00Z",
+      "snippet": "As Cognition reaches $492 million in annualized revenue run rate, it more than doubled its valuation in eight months, it says."
+    },
+    {
+      "title": "AI tried to bury this politician \u2014 now people have actually heard of him",
+      "url": "https://www.theverge.com/policy/937650/ai-alex-bores-openai-anthropic-ny12",
+      "source": "The Verge",
+      "publishedAt": "2026-05-27T15:40:00Z",
+      "snippet": "By the time that the Democratic primary for New York's 12th congressional district wraps up in June, Anthropic and OpenAI will have spent millions on their battle over the political future of AI: who "
+    },
     {
       "title": "Robinhood will let your AI agent trade stocks and make (or lose) lots of money",
       "url": "https://www.theverge.com/ai-artificial-intelligence/938095/robinhood-ai-agent-stock-trading",
@@ -16,11 +37,11 @@
       "snippet": "Today is the final day to apply or nominate a startup for Startup Battlefield 200. Once the clock strikes 11:59 p.m. PT, the window closes on your chance to compete for $100,000 in equity-free funding"
     },
     {
-      "title": "ElevenLabs\u2019s new music generation model can switch genres mid-track",
+      "title": "ElevenLabs\u2019 new music-generation model can switch genres mid-track",
       "url": "https://techcrunch.com/2026/05/27/elevenlabss-new-music-generation-model-can-switch-genres-mid-track/",
       "source": "TechCrunch",
       "publishedAt": "2026-05-27T14:14:10Z",
-      "snippet": "ElevenLabs' new model will let users regenerate a section of a song without affecting rest of the track"
+      "snippet": "ElevenLabs' new model will let users regenerate a section of a song without affecting the rest of the track."
     },
     {
       "title": "This smart bird feeder captures more of my backyard drama",
@@ -30,18 +51,18 @@
       "snippet": "Since moving to South Carolina's Lowcountry, I've been spellbound by the myriad of beautiful birds that share the coast with us - ospreys raising their babies in towering nests beside the road to my d"
     },
     {
-      "title": "SOND, a sleep tech startup from Bose\u2019s former head of sleep, exits stealth with $7M",
-      "url": "https://techcrunch.com/2026/05/27/sond-a-sleep-tech-startup-from-boses-former-head-of-sleep-exits-stealth-with-7m/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-05-27T14:00:00Z",
-      "snippet": "SOND, a startup led by Bose\u2019s former head of sleep products, emerged from stealth with $7M in funding for its AI-powered sleep earbuds."
-    },
-    {
       "title": "TechCrunch Disrupt 2026 Early Bird ticket savings end in 3 days",
       "url": "https://techcrunch.com/2026/05/27/techcrunch-disrupt-2026-early-bird-ticket-savings-end-in-3-days/",
       "source": "TechCrunch",
       "publishedAt": "2026-05-27T14:00:00Z",
       "snippet": "There are only 3 days left to save up to $410 on your ticket to TechCrunch Disrupt 2026. Early Bird pricing ends May 29 at 11:59 p.m. PT, and once the deadline passes, ticket prices increase. If you p"
+    },
+    {
+      "title": "SOND, a sleep tech startup from Bose\u2019s former head of sleep, exits stealth with $7M",
+      "url": "https://techcrunch.com/2026/05/27/sond-a-sleep-tech-startup-from-boses-former-head-of-sleep-exits-stealth-with-7m/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-05-27T14:00:00Z",
+      "snippet": "SOND, a startup led by Bose\u2019s former head of sleep products, emerged from stealth with $7M in funding for its AI-powered sleep earbuds."
     },
     {
       "title": "China is increasingly keeping its best AI talent to itself",
@@ -142,13 +163,6 @@
       "snippet": "Today, I\u2019m talking with Google and Alphabet CEO Sundar Pichai, in a conversation we recorded just after the Google I/O developer conference. This is the fifth year Sundar and I have sat down after I/O"
     },
     {
-      "title": "TechCrunch Disrupt 2026 Early Bird\u00a0ticket\u00a0rates end May 29",
-      "url": "https://techcrunch.com/2026/05/26/techcrunch-disrupt-2026-early-bird-ticket-rates-end-may-29/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-05-26T14:00:00Z",
-      "snippet": "Save up to $410 on your TechCrunch Disrupt 2026 pass before prices increase on May 29 at 11:59 p.m. PT. Register here to join the tech epicenter in San Francisco."
-    },
-    {
       "title": "Nobody wants to tell me why they only listen to their own Suno slop",
       "url": "https://www.theverge.com/ai-artificial-intelligence/937059/nobody-wants-to-tell-me-why-they-only-listen-their-own-suno-slop",
       "source": "The Verge",
@@ -161,20 +175,6 @@
       "source": "The Verge",
       "publishedAt": "2026-05-26T12:00:00Z",
       "snippet": "The Convention on Certain Conventional Weapons, an international forum that focuses on lethal autonomous systems, is hosted twice a year at the United Nations in Geneva. When Branka Marijan attended i"
-    },
-    {
-      "title": "Uber president says AI spending is getting \u2018harder to justify\u2019",
-      "url": "https://www.theverge.com/transportation/937116/uber-ai-investment-hard-to-justify",
-      "source": "The Verge",
-      "publishedAt": "2026-05-26T09:55:09Z",
-      "snippet": "After reportedly exhausting its annual AI budget just four months into 2026, Uber is now questioning whether it's actually seeing meaningful returns on its investments. In an interview with Rapid Resp"
-    },
-    {
-      "title": "What ClickUp\u2019s mass layoff tells us about the future of work",
-      "url": "https://techcrunch.com/2026/05/25/what-clickups-mass-layoff-tells-us-about-the-future-of-work/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-05-25T16:00:00Z",
-      "snippet": "The nine-year-old startup is replacing hundreds of employees with thousands of AI agents."
     }
   ],
   "trending": [
@@ -189,14 +189,14 @@
       "downloads": 1376847
     },
     {
-      "id": "unsloth/Qwen3.6-27B-MTP-GGUF",
-      "displayName": "Qwen3.6 27B MTP",
-      "downloads": 735349
-    },
-    {
       "id": "Jackrong/Qwopus3.6-27B-v2-GGUF",
       "displayName": "Qwopus3.6 27B v2",
       "downloads": 16379
+    },
+    {
+      "id": "unsloth/Qwen3.6-27B-MTP-GGUF",
+      "displayName": "Qwen3.6 27B MTP",
+      "downloads": 735349
     },
     {
       "id": "Jackrong/Qwopus3.6-27B-v2-MTP-GGUF",
