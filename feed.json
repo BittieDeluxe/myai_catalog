@@ -1,6 +1,13 @@
 {
-  "updated": "2026-05-28T02:45:56Z",
+  "updated": "2026-05-28T07:53:39Z",
   "news": [
+    {
+      "title": "Vertu wants CEOs to run companies from an AI foldable starting at $6,880",
+      "url": "https://techcrunch.com/2026/05/28/vertu-wants-ceos-to-run-companies-from-an-ai-foldable-starting-at-6880/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-05-28T07:00:00Z",
+      "snippet": "Built on top of the open-source Hermes project, Vertu's new foldable combines AI-agent workflows, enterprise integrations, and ultra-premium luxury finishes."
+    },
     {
       "title": "Why Google\u2019s AI can\u2019t spell Google (or anything else)",
       "url": "https://techcrunch.com/2026/05/27/why-googles-ai-cant-spell-google-or-anything-else/",
@@ -128,13 +135,6 @@
       "snippet": "While these agents would be able to read and analyze users' portfolios to come up with trading strategies and suggest investments, they'll only be able to access the pre-loaded balance in the dedicate"
     },
     {
-      "title": "Tech CEOs are apparently suffering from AI psychosis",
-      "url": "https://techcrunch.com/2026/05/27/tech-ceos-are-apparently-suffering-from-ai-psychosis/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-05-27T12:30:00Z",
-      "snippet": "\"CEOs are uniquely prone to AI psychosis,\" Box CEO Aaron Levie opines. Maybe that explains the almost religious belief in AI productivity gains."
-    },
-    {
       "title": "The AI fight brewing inside The New York Times",
       "url": "https://www.theverge.com/ai-artificial-intelligence/937689/new-york-times-tech-guild-ai-monitoring-performance-union-contract",
       "source": "The Verge",
@@ -181,52 +181,52 @@
     {
       "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
       "displayName": "Qwen3.6 35B A3B Uncensored HauhauCS Aggressive",
-      "downloads": 1598473
+      "downloads": 1956558
     },
     {
       "id": "SulphurAI/Sulphur-2-base",
       "displayName": "Sulphur 2 base",
-      "downloads": 1376847
+      "downloads": 1472982
     },
     {
       "id": "Jackrong/Qwopus3.6-27B-v2-GGUF",
       "displayName": "Qwopus3.6 27B v2",
-      "downloads": 16379
+      "downloads": 24336
     },
     {
       "id": "unsloth/Qwen3.6-27B-MTP-GGUF",
       "displayName": "Qwen3.6 27B MTP",
-      "downloads": 735349
+      "downloads": 806874
     },
     {
       "id": "Jackrong/Qwopus3.6-27B-v2-MTP-GGUF",
       "displayName": "Qwopus3.6 27B v2 MTP",
-      "downloads": 31597
+      "downloads": 65968
     },
     {
       "id": "OBLITERATUS/Qwen3.6-27B-OBLITERATED",
       "displayName": "Qwen3.6 27B OBLITERATED",
-      "downloads": 10015
+      "downloads": 13911
     },
     {
       "id": "unsloth/Qwen3.6-35B-A3B-MTP-GGUF",
       "displayName": "Qwen3.6 35B A3B MTP",
-      "downloads": 627535
+      "downloads": 686839
     },
     {
       "id": "tencent/Hy-MT2-1.8B-GGUF",
       "displayName": "Hy MT2 1.8B",
-      "downloads": 12083
+      "downloads": 16194
     },
     {
       "id": "Jackrong/Qwopus3.5-9B-Coder-MTP-GGUF",
       "displayName": "Qwopus3.5 9B Coder MTP",
-      "downloads": 42335
+      "downloads": 67622
     },
     {
-      "id": "Jackrong/Qwopus3.5-9B-Coder-GGUF",
-      "displayName": "Qwopus3.5 9B Coder",
-      "downloads": 45392
+      "id": "jedisct1/MiMo-V2.5-coder-Q2",
+      "displayName": "MiMo V2.5 coder Q2",
+      "downloads": 1546
     }
   ]
 }
