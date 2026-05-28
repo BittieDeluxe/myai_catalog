@@ -1,6 +1,13 @@
 {
-  "updated": "2026-05-27T23:13:36Z",
+  "updated": "2026-05-28T02:45:56Z",
   "news": [
+    {
+      "title": "Why Google\u2019s AI can\u2019t spell Google (or anything else)",
+      "url": "https://techcrunch.com/2026/05/27/why-googles-ai-cant-spell-google-or-anything-else/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-05-28T00:17:41Z",
+      "snippet": "Google is embarrassing itself, again."
+    },
     {
       "title": "In more good news for Amazon, Snowflake signs $6B deal with AWS for AI CPU chips",
       "url": "https://techcrunch.com/2026/05/27/in-more-good-news-for-amazon-snowflake-signs-6b-deal-with-aws-for-ai-cpu-chips/",
@@ -147,13 +154,6 @@
       "source": "The Verge",
       "publishedAt": "2026-05-27T00:38:11Z",
       "snippet": "It's possible that AI was used to write parts of Pope Leo XIV's latest encyclical about AI's impact on humanity. An analysis by Linch Zhang posted on the forum LessWrong found certain paragraphs of Ma"
-    },
-    {
-      "title": "DuckDuckGo installs are up 30% as users reject being \u2018force-fed\u2019 Google\u2019s AI Search",
-      "url": "https://techcrunch.com/2026/05/26/duckduckgo-installs-are-up-30-as-users-reject-being-force-fed-googles-ai-search/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-05-26T22:32:56Z",
-      "snippet": "Google overhauled Search at I/O 2026, replacing blue links with AI agents. The backlash has been swift. DuckDuckGo app installs spiked 30% as users seek a way out."
     },
     {
       "title": "Sundar Pichai on AI, the future of search, and what\u2019s happening to the web",
