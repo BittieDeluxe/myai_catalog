@@ -1,6 +1,34 @@
 {
-  "updated": "2026-05-28T18:33:36Z",
+  "updated": "2026-05-28T21:52:42Z",
   "news": [
+    {
+      "title": "The internet is being rebuilt for machines",
+      "url": "https://techcrunch.com/2026/05/28/the-internet-is-being-rebuilt-for-machines/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-05-28T21:24:01Z",
+      "snippet": "As AI agents move from experiments to production, AWS, Cloudflare, and others are redesigning cloud infrastructure for a future dominated by machine-generated internet traffic instead of human users."
+    },
+    {
+      "title": "Microsoft 365 Copilot gets a speed boost and cleaner design",
+      "url": "https://www.theverge.com/tech/939273/microsoft-365-copilot-redesign",
+      "source": "The Verge",
+      "publishedAt": "2026-05-28T20:14:07Z",
+      "snippet": "Microsoft is launching a revamped version of Microsoft 365 Copilot, offering a cleaner design that the company claims loads twice as fast. As part of this update, Copilot will provide more reliable an"
+    },
+    {
+      "title": "Asana acquires no-code agent-builder StackAI",
+      "url": "https://techcrunch.com/2026/05/28/asana-acquires-no-code-agent-builder-stack-ai/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-05-28T20:06:07Z",
+      "snippet": "Asana will incorporate StackAI into its growing suite of AI workflow tools."
+    },
+    {
+      "title": "Anthropic raises $65 billion, nears $1T valuation ahead of IPO",
+      "url": "https://techcrunch.com/2026/05/28/anthropic-raises-65-billion-nears-1t-valuation-ahead-of-ipo/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-05-28T18:52:51Z",
+      "snippet": "Anthropic has closed a $65 billion Series H round at a $965 billion post-money valuation, marking what could be the AI startup's final private fundraise before a highly anticipated IPO."
+    },
     {
       "title": "Just like gold and oil, we\u2019ll soon be able to trade AI token futures",
       "url": "https://techcrunch.com/2026/05/28/just-like-gold-and-oil-well-soon-be-able-to-trade-ai-token-futures/",
@@ -9,7 +37,7 @@
       "snippet": "Large exchanges are designing derivative products around AI tokens, which are increasingly being considered less a computational output and more a raw material input, like electricity or bandwidth."
     },
     {
-      "title": "In just 3 weeks,\u00a0StrictlyVC\u00a0is coming to Los Angeles",
+      "title": "In just 3 weeks, StrictlyVC is coming to Los Angeles",
       "url": "https://techcrunch.com/2026/05/28/in-just-3-weeks-strictlyvc-is-coming-to-los-angeles/",
       "source": "TechCrunch",
       "publishedAt": "2026-05-28T17:30:00Z",
@@ -44,7 +72,7 @@
       "snippet": "New features coming to YouTube could make it better for listening to podcasts, rolling out to Premium subscribers starting today on Android and coming later to iOS. A new \"on-the-go mode\" shifts YouTu"
     },
     {
-      "title": "How long is Anthropic\u2019s lease with SpaceX? Opinions vary.",
+      "title": "How long is Anthropic\u2019s lease with SpaceX? Opinions vary",
       "url": "https://techcrunch.com/2026/05/28/how-long-is-anthropics-lease-with-spacex-opinions-vary/",
       "source": "TechCrunch",
       "publishedAt": "2026-05-28T15:36:00Z",
@@ -62,7 +90,7 @@
       "url": "https://techcrunch.com/2026/05/28/sneak-peek-at-new-siri-app-reveals-apples-plans-to-take-on-chatgpt-and-more/",
       "source": "TechCrunch",
       "publishedAt": "2026-05-28T14:45:13Z",
-      "snippet": "New renders offer a closer look at Apple\u2019s planned AI overhaul for iOS 27, including a redesigned Siri experience powered and standalone Siri app."
+      "snippet": "New renders offer a closer look at Apple\u2019s planned AI overhaul for iOS 27, including a redesigned Siri experience and standalone Siri app."
     },
     {
       "title": "These new iOS 27 renders hint at Siri\u2019s big redesign",
@@ -135,27 +163,6 @@
       "snippet": "YouTube is launching a new AI feature that creates a personalized video feed based on descriptions of what you want to watch. In its announcement, YouTube says custom content feeds can be built around"
     },
     {
-      "title": "Vertu wants CEOs to run companies from an AI foldable starting at $6,880",
-      "url": "https://techcrunch.com/2026/05/28/vertu-wants-ceos-to-run-companies-from-an-ai-foldable-starting-at-6880/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-05-28T07:00:00Z",
-      "snippet": "Built on top of the open source Hermes project, Vertu's new foldable combines AI-agent workflows, enterprise integrations, and ultra-premium luxury finishes."
-    },
-    {
-      "title": "Why Google\u2019s AI can\u2019t spell Google (or anything else)",
-      "url": "https://techcrunch.com/2026/05/27/why-googles-ai-cant-spell-google-or-anything-else/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-05-28T00:17:41Z",
-      "snippet": "Google is embarrassing itself, again."
-    },
-    {
-      "title": "In more good news for Amazon, Snowflake signs $6B deal with AWS for AI CPU chips",
-      "url": "https://techcrunch.com/2026/05/27/in-more-good-news-for-amazon-snowflake-signs-6b-deal-with-aws-for-ai-cpu-chips/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-05-27T20:10:00Z",
-      "snippet": "Snowflake has signed a new, enormous five-year deal with Amazon to secure chips for AI usage. Nvidia is once again being put on notice."
-    },
-    {
       "title": "AI tried to bury this politician \u2014 now people have actually heard of him",
       "url": "https://www.theverge.com/policy/937650/ai-alex-bores-openai-anthropic-ny12",
       "source": "The Verge",
@@ -168,13 +175,6 @@
       "source": "The Verge",
       "publishedAt": "2026-05-27T14:36:10Z",
       "snippet": "Robinhood is opening its trading platform to AI agents. In an announcement on Wednesday, Robinhood says traders can now create a separate account for an AI agent and add a specific amount of money, al"
-    },
-    {
-      "title": "This smart bird feeder captures more of my backyard drama",
-      "url": "https://www.theverge.com/tech/937628/coolfly-aura-smart-bird-feeder-review",
-      "source": "The Verge",
-      "publishedAt": "2026-05-27T14:00:00Z",
-      "snippet": "Since moving to South Carolina's Lowcountry, I've been spellbound by the myriad of beautiful birds that share the coast with us - ospreys raising their babies in towering nests beside the road to my d"
     }
   ],
   "trending": [
@@ -224,9 +224,9 @@
       "downloads": 16194
     },
     {
-      "id": "Jackrong/Qwopus3.5-9B-Coder-GGUF",
-      "displayName": "Qwopus3.5 9B Coder",
-      "downloads": 52918
+      "id": "jedisct1/MiMo-V2.5-coder-Q2",
+      "displayName": "MiMo V2.5 coder Q2",
+      "downloads": 1546
     }
   ]
 }
