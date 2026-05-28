@@ -1,6 +1,13 @@
 {
-  "updated": "2026-05-28T07:53:39Z",
+  "updated": "2026-05-28T11:35:18Z",
   "news": [
+    {
+      "title": "YouTube will let you ask AI to make a custom video feed",
+      "url": "https://www.theverge.com/streaming/938759/youtube-custom-ai-feed-prompt-availability",
+      "source": "The Verge",
+      "publishedAt": "2026-05-28T08:49:07Z",
+      "snippet": "YouTube is launching a new AI feature that creates a personalized video feed based on descriptions of what you want to watch. In its announcement, YouTube says custom content feeds can be built around"
+    },
     {
       "title": "Vertu wants CEOs to run companies from an AI foldable starting at $6,880",
       "url": "https://techcrunch.com/2026/05/28/vertu-wants-ceos-to-run-companies-from-an-ai-foldable-starting-at-6880/",
@@ -128,11 +135,11 @@
       "snippet": "YouTube will now automatically label videos that use significant photorealistic AI, instead of relying solely on creators to disclose AI-generated content themselves. It's also making AI labels more p"
     },
     {
-      "title": "Robinhood now lets your AI agents trade stocks",
-      "url": "https://techcrunch.com/2026/05/27/robinhood-now-lets-your-ai-agents-trade-stocks/",
+      "title": "Tech CEOs are apparently suffering from AI psychosis",
+      "url": "https://techcrunch.com/2026/05/27/tech-ceos-are-apparently-suffering-from-ai-psychosis/",
       "source": "TechCrunch",
       "publishedAt": "2026-05-27T12:30:00Z",
-      "snippet": "While these agents would be able to read and analyze users' portfolios to come up with trading strategies and suggest investments, they'll only be able to access the pre-loaded balance in the dedicate"
+      "snippet": "\"CEOs are uniquely prone to AI psychosis,\" Box CEO Aaron Levie opines. Maybe that explains the almost religious belief in AI productivity gains."
     },
     {
       "title": "The AI fight brewing inside The New York Times",
@@ -168,13 +175,6 @@
       "source": "The Verge",
       "publishedAt": "2026-05-26T12:46:03Z",
       "snippet": "There's this alarming trend in the Suno subreddit. People aren't just prompting AI songs; they're sitting around listening almost exclusively to their own slop. And in some cases, they proudly proclai"
-    },
-    {
-      "title": "AI warfare is already here",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/937028/military-ai-warfare-red-lines",
-      "source": "The Verge",
-      "publishedAt": "2026-05-26T12:00:00Z",
-      "snippet": "The Convention on Certain Conventional Weapons, an international forum that focuses on lethal autonomous systems, is hosted twice a year at the United Nations in Geneva. When Branka Marijan attended i"
     }
   ],
   "trending": [
@@ -184,14 +184,14 @@
       "downloads": 1956558
     },
     {
-      "id": "SulphurAI/Sulphur-2-base",
-      "displayName": "Sulphur 2 base",
-      "downloads": 1472982
-    },
-    {
       "id": "Jackrong/Qwopus3.6-27B-v2-GGUF",
       "displayName": "Qwopus3.6 27B v2",
       "downloads": 24336
+    },
+    {
+      "id": "SulphurAI/Sulphur-2-base",
+      "displayName": "Sulphur 2 base",
+      "downloads": 1472982
     },
     {
       "id": "unsloth/Qwen3.6-27B-MTP-GGUF",
