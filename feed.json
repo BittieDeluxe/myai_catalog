@@ -1,6 +1,13 @@
 {
-  "updated": "2026-05-28T23:11:18Z",
+  "updated": "2026-05-29T02:49:50Z",
   "news": [
+    {
+      "title": "Glean\u2019s top line crosses $300M as AI budget-cutting becomes its major selling point",
+      "url": "https://techcrunch.com/2026/05/28/gleans-top-line-crosses-300m-as-ai-budget-cutting-becomes-its-major-selling-point/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-05-29T00:44:37Z",
+      "snippet": "The enterprise AI search startup tripled its annual revenue even as tech giants entered the category."
+    },
     {
       "title": "The internet is being rebuilt for machines",
       "url": "https://techcrunch.com/2026/05/28/the-internet-is-being-rebuilt-for-machines/",
@@ -149,13 +156,6 @@
       "snippet": "Visa said that over 1,000 employees have been using Replit for prototyping and development."
     },
     {
-      "title": "Has the hunt for AI compute uncovered the next Cerebras?",
-      "url": "https://techcrunch.com/2026/05/28/has-the-hunt-for-ai-compute-uncovered-the-next-cerebras/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-05-28T13:00:00Z",
-      "snippet": "General Compute is betting SambaNova will be the next breakout chipmaker."
-    },
-    {
       "title": "YouTube will let you ask AI to make a custom video feed",
       "url": "https://www.theverge.com/streaming/938759/youtube-custom-ai-feed-prompt-availability",
       "source": "The Verge",
@@ -214,19 +214,19 @@
       "downloads": 686839
     },
     {
-      "id": "Jackrong/Qwopus3.5-9B-Coder-MTP-GGUF",
-      "displayName": "Qwopus3.5 9B Coder MTP",
-      "downloads": 67622
-    },
-    {
-      "id": "tencent/Hy-MT2-1.8B-GGUF",
-      "displayName": "Hy MT2 1.8B",
-      "downloads": 16194
+      "id": "LiquidAI/LFM2.5-8B-A1B-GGUF",
+      "displayName": "LFM2.5 8B A1B",
+      "downloads": 42
     },
     {
       "id": "jedisct1/MiMo-V2.5-coder-Q2",
       "displayName": "MiMo V2.5 coder Q2",
       "downloads": 1546
+    },
+    {
+      "id": "Jackrong/Qwopus3.5-9B-Coder-MTP-GGUF",
+      "displayName": "Qwopus3.5 9B Coder MTP",
+      "downloads": 67622
     }
   ]
 }
