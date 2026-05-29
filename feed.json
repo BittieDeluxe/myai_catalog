@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-29T02:49:50Z",
+  "updated": "2026-05-29T07:51:27Z",
   "news": [
     {
       "title": "Glean\u2019s top line crosses $300M as AI budget-cutting becomes its major selling point",
@@ -181,7 +181,7 @@
     {
       "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
       "displayName": "Qwen3.6 35B A3B Uncensored HauhauCS Aggressive",
-      "downloads": 1956558
+      "downloads": 2114938
     },
     {
       "id": "Jackrong/Qwopus3.6-27B-v2-GGUF",
@@ -189,14 +189,14 @@
       "downloads": 24336
     },
     {
-      "id": "SulphurAI/Sulphur-2-base",
-      "displayName": "Sulphur 2 base",
-      "downloads": 1472982
-    },
-    {
       "id": "Jackrong/Qwopus3.6-27B-v2-MTP-GGUF",
       "displayName": "Qwopus3.6 27B v2 MTP",
       "downloads": 65968
+    },
+    {
+      "id": "SulphurAI/Sulphur-2-base",
+      "displayName": "Sulphur 2 base",
+      "downloads": 1528838
     },
     {
       "id": "unsloth/Qwen3.6-27B-MTP-GGUF",
