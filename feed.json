@@ -1,6 +1,13 @@
 {
-  "updated": "2026-05-29T07:51:27Z",
+  "updated": "2026-05-29T11:24:07Z",
   "news": [
+    {
+      "title": "Adobe\u2019s conversational AI agent is a mediocre design intern",
+      "url": "https://www.theverge.com/tech/939686/adobes-conversational-ai-agent-is-a-mediocre-design-intern",
+      "source": "The Verge",
+      "publishedAt": "2026-05-29T10:00:00Z",
+      "snippet": "AI image tools rarely make me feel like I'm part of the creative process. They are, after all, mostly designed so that people with no design experience can type in a few words and get back a usable re"
+    },
     {
       "title": "Glean\u2019s top line crosses $300M as AI budget-cutting becomes its major selling point",
       "url": "https://techcrunch.com/2026/05/28/gleans-top-line-crosses-300m-as-ai-budget-cutting-becomes-its-major-selling-point/",
@@ -168,13 +175,6 @@
       "source": "The Verge",
       "publishedAt": "2026-05-27T15:40:00Z",
       "snippet": "By the time that the Democratic primary for New York's 12th congressional district wraps up in June, Anthropic and OpenAI will have spent millions on their battle over the political future of AI: who "
-    },
-    {
-      "title": "Robinhood will let your AI agent trade stocks and make (or lose) lots of money",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/938095/robinhood-ai-agent-stock-trading",
-      "source": "The Verge",
-      "publishedAt": "2026-05-27T14:36:10Z",
-      "snippet": "Robinhood is opening its trading platform to AI agents. In an announcement on Wednesday, Robinhood says traders can now create a separate account for an AI agent and add a specific amount of money, al"
     }
   ],
   "trending": [
@@ -186,12 +186,12 @@
     {
       "id": "Jackrong/Qwopus3.6-27B-v2-GGUF",
       "displayName": "Qwopus3.6 27B v2",
-      "downloads": 24336
+      "downloads": 29306
     },
     {
       "id": "Jackrong/Qwopus3.6-27B-v2-MTP-GGUF",
       "displayName": "Qwopus3.6 27B v2 MTP",
-      "downloads": 65968
+      "downloads": 85680
     },
     {
       "id": "SulphurAI/Sulphur-2-base",
@@ -201,32 +201,32 @@
     {
       "id": "unsloth/Qwen3.6-27B-MTP-GGUF",
       "displayName": "Qwen3.6 27B MTP",
-      "downloads": 806874
+      "downloads": 841068
     },
     {
       "id": "OBLITERATUS/Qwen3.6-27B-OBLITERATED",
       "displayName": "Qwen3.6 27B OBLITERATED",
-      "downloads": 13911
+      "downloads": 16849
     },
     {
       "id": "unsloth/Qwen3.6-35B-A3B-MTP-GGUF",
       "displayName": "Qwen3.6 35B A3B MTP",
-      "downloads": 686839
+      "downloads": 726514
     },
     {
       "id": "LiquidAI/LFM2.5-8B-A1B-GGUF",
       "displayName": "LFM2.5 8B A1B",
-      "downloads": 42
+      "downloads": 5293
     },
     {
       "id": "jedisct1/MiMo-V2.5-coder-Q2",
       "displayName": "MiMo V2.5 coder Q2",
-      "downloads": 1546
+      "downloads": 1648
     },
     {
       "id": "Jackrong/Qwopus3.5-9B-Coder-MTP-GGUF",
       "displayName": "Qwopus3.5 9B Coder MTP",
-      "downloads": 67622
+      "downloads": 82894
     }
   ]
 }
