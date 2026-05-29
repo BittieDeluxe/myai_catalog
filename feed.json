@@ -1,6 +1,34 @@
 {
-  "updated": "2026-05-29T14:54:27Z",
+  "updated": "2026-05-29T18:28:59Z",
   "news": [
+    {
+      "title": "What happens when companies become too AI-pilled?",
+      "url": "https://techcrunch.com/video/what-happens-when-companies-become-too-ai-pilled/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-05-29T17:57:05Z",
+      "snippet": "The people deciding that AI can replace your job are also the ones least likely to understand what your job\u00a0truly involves, according to Box founder Aaron Levie, who pointed to this as an example of\u00a0&"
+    },
+    {
+      "title": "Tech companies desperately want to film you doing chores",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/940007/ai-companies-will-pay-for-robot-training-data",
+      "source": "The Verge",
+      "publishedAt": "2026-05-29T17:37:43Z",
+      "snippet": "This week, an AI training startup called Shift said it would clean New Yorkers' homes for free. It has plans to expand into other cities as well, including London, and looking around my flat, I get th"
+    },
+    {
+      "title": "After Nvidia\u2019s $20B not-aqui-hire, AI chip startup Groq reportedly raising $650M",
+      "url": "https://techcrunch.com/2026/05/29/after-nvidias-20b-not-aqui-hire-ai-chip-startup-groq-reportedly-raising-650m/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-05-29T17:27:13Z",
+      "snippet": "Chipmaker Groq is looking to raise $650 million in internal funding as it pivots from hardware to focus more on AI inference, the process of refining the way AI models respond to prompted requests, pe"
+    },
+    {
+      "title": "Cognition\u2019s Scott Wu says AI coding agents shouldn\u2019t replace humans",
+      "url": "https://techcrunch.com/2026/05/29/cognitions-scott-wu-says-ai-coding-agents-shouldnt-replace-humans/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-05-29T16:13:47Z",
+      "snippet": "Cognition makes Devin, the first and arguably most successful AI coding agent. But famed coder Wu says it isn't designed to supplant human programmers."
+    },
     {
       "title": "Today is the last\u00a0day to apply to speak at TechCrunch Disrupt 2026",
       "url": "https://techcrunch.com/2026/05/29/today-is-the-last-day-to-apply-to-speak-at-techcrunch-disrupt-2026/",
@@ -14,6 +42,13 @@
       "source": "TechCrunch",
       "publishedAt": "2026-05-29T14:00:00Z",
       "snippet": "You now have until tonight at 11:59 p.m. PT to lock in Early Bird savings of up to $410 for TechCrunch Disrupt 2026 before prices increase. Join 10,000+ tech leaders in October for one of the most ant"
+    },
+    {
+      "title": "Kiwibit\u2019s AI-powered bird feeder is my new backyard buddy",
+      "url": "https://techcrunch.com/2026/05/29/kiwibits-ai-powered-bird-feeder-is-my-new-backyard-buddy/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-05-29T13:00:00Z",
+      "snippet": "If you're looking for a fun way to connect with nature while collecting bird species on an app like Pok\u00e9mon, give this smart feeder a try."
     },
     {
       "title": "Jony Ive\u2019s funky Ferrari",
@@ -128,20 +163,6 @@
       "snippet": "Elon Musk is publicly reframing xAI\u2019s massive Anthropic compute deal as short-term and cancellable, despite SpaceX\u2019s own S-1 filing describing payments through May 2029."
     },
     {
-      "title": "Sesame, the conversational AI startup from Oculus founders, launches its iOS app",
-      "url": "https://techcrunch.com/2026/05/28/sesame-the-conversational-ai-startup-from-oculus-founders-launches-its-ios-app/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-05-28T15:35:43Z",
-      "snippet": "Sesame\u2019s new iOS app brings its conversational AI agents to the public, offering more natural back-and-forth interactions designed to feel less like traditional chatbots and more like talking to a per"
-    },
-    {
-      "title": "Sneak peek at new Siri app reveals Apple\u2019s plans to take on ChatGPT and more",
-      "url": "https://techcrunch.com/2026/05/28/sneak-peek-at-new-siri-app-reveals-apples-plans-to-take-on-chatgpt-and-more/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-05-28T14:45:13Z",
-      "snippet": "New renders offer a closer look at Apple\u2019s planned AI overhaul for iOS 27, including a redesigned Siri experience and standalone Siri app."
-    },
-    {
       "title": "These new iOS 27 renders hint at Siri\u2019s big redesign",
       "url": "https://www.theverge.com/tech/938915/ios-27-siri-renders-bloomberg",
       "source": "The Verge",
@@ -149,32 +170,11 @@
       "snippet": "Apple's long-awaited Siri overhaul, expected to arrive in iOS 27, might look a lot like ChatGPT with a splash of Liquid Glass. Renders from Bloomberg offer a preview of iOS 27, including the new app a"
     },
     {
-      "title": "RSI is the new AGI \u2014 and it\u2019s just as hard to pin down",
-      "url": "https://techcrunch.com/2026/05/28/rsi-is-the-new-agi-and-its-just-as-hard-to-pin-down/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-05-28T14:30:17Z",
-      "snippet": "A new crop of AI labs are focused on recursive self-improvement \u2014 but the goal is proving elusive."
-    },
-    {
-      "title": "At TechCrunch Disrupt 2026: Databricks\u2019 co-founder on what kills enterprise AI deals",
-      "url": "https://techcrunch.com/2026/05/28/techcrunch-disrupt-2026-databricks-co-founder-on-what-kills-enterprise-ai-deals/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-05-28T14:30:00Z",
-      "snippet": "Enterprise AI is entering a different phase now, one where enterprises are no longer evaluating whether AI is exciting. They are evaluating whether it is safe to deploy broadly."
-    },
-    {
       "title": "CNN sues Perplexity over \u2018verbatim\u2019 copycat articles",
       "url": "https://www.theverge.com/ai-artificial-intelligence/938893/cnn-perplexity-ai-copyright-lawsuit",
       "source": "The Verge",
       "publishedAt": "2026-05-28T14:08:36Z",
       "snippet": "CNN has filed a lawsuit against Perplexity, claiming that the startup's AI tools generate \"verbatim\" copies of its work, as reported earlier by CNN. The lawsuit, filed in a New York court on Thursday,"
-    },
-    {
-      "title": "Rivian\u2019s software chief thinks you don&#8217;t need CarPlay or buttons",
-      "url": "https://www.theverge.com/podcast/929940/rivian-wassym-bensaid-software-volkswagen-carplay-assistant-ai",
-      "source": "The Verge",
-      "publishedAt": "2026-05-28T14:00:00Z",
-      "snippet": "Today, I\u2019m talking with Wassym Bensaid, the chief software officer at Rivian, and the co-CEO of Rivian\u2019s platform joint venture with Volkswagen, which everyone just calls RV Tech. That joint venture k"
     }
   ],
   "trending": [
