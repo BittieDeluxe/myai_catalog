@@ -1,6 +1,41 @@
 {
-  "updated": "2026-05-29T11:24:07Z",
+  "updated": "2026-05-29T14:54:27Z",
   "news": [
+    {
+      "title": "Today is the last\u00a0day to apply to speak at TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/05/29/today-is-the-last-day-to-apply-to-speak-at-techcrunch-disrupt-2026/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-05-29T14:15:00Z",
+      "snippet": "Submit your session topic before today ends for a chance to speak at TechCrunch Disrupt 2026. Apply now to share your insight and help shape the conversations defining the tech industry."
+    },
+    {
+      "title": "Final 24 hours to save up to $410 on your TechCrunch Disrupt 2026 ticket",
+      "url": "https://techcrunch.com/2026/05/29/final-24-hours-to-save-up-to-410-on-your-techcrunch-disrupt-2026-ticket/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-05-29T14:00:00Z",
+      "snippet": "You now have until tonight at 11:59 p.m. PT to lock in Early Bird savings of up to $410 for TechCrunch Disrupt 2026 before prices increase. Join 10,000+ tech leaders in October for one of the most ant"
+    },
+    {
+      "title": "Jony Ive\u2019s funky Ferrari",
+      "url": "https://www.theverge.com/podcast/939589/ferrari-luce-jony-ive-vergecast",
+      "source": "The Verge",
+      "publishedAt": "2026-05-29T12:25:12Z",
+      "snippet": "Most people will never own, drive, or even sit inside a Ferrari Luce. (If you can, or do\u2026 hit us up.) There's still no question that Ferrari's first electric vehicle is one of the most interesting, su"
+    },
+    {
+      "title": "This chip startup just raised $135M on a bet that AI\u2019s biggest bottleneck isn\u2019t compute \u2014 it\u2019s memory",
+      "url": "https://techcrunch.com/2026/05/29/xcena-secures-135m-at-570m-valuation-betting-on-memory-as-ais-real-bottleneck/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-05-29T12:00:00Z",
+      "snippet": "South Korean chip startup XCENA is betting that AI's real bottleneck is not compute, but memory."
+    },
+    {
+      "title": "This AI startup will clean your home for free to train future robots",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/939765/ai-training-data-startup-shift-free-cleaning",
+      "source": "The Verge",
+      "publishedAt": "2026-05-29T11:58:40Z",
+      "snippet": "AI training startup Shift wants to clean your home for free. The catch - because, despite what its website says, there's always a catch - is that it will record cleaners as they scrub, vacuum, dust, t"
+    },
     {
       "title": "Adobe\u2019s conversational AI agent is a mediocre design intern",
       "url": "https://www.theverge.com/tech/939686/adobes-conversational-ai-agent-is-a-mediocre-design-intern",
@@ -9,7 +44,7 @@
       "snippet": "AI image tools rarely make me feel like I'm part of the creative process. They are, after all, mostly designed so that people with no design experience can type in a few words and get back a usable re"
     },
     {
-      "title": "Glean\u2019s top line crosses $300M as AI budget-cutting becomes its major selling point",
+      "title": "Glean\u2019s top line crosses $300M as AI budget cutting becomes its major selling point",
       "url": "https://techcrunch.com/2026/05/28/gleans-top-line-crosses-300m-as-ai-budget-cutting-becomes-its-major-selling-point/",
       "source": "TechCrunch",
       "publishedAt": "2026-05-29T00:44:37Z",
@@ -128,13 +163,6 @@
       "snippet": "Enterprise AI is entering a different phase now, one where enterprises are no longer evaluating whether AI is exciting. They are evaluating whether it is safe to deploy broadly."
     },
     {
-      "title": "YouTube adds new podcast features, including an AI recommendation tool and \u2018Auto speed\u2019",
-      "url": "https://techcrunch.com/2026/05/28/youtube-adds-new-podcast-features-including-an-ai-recommendation-tool-and-auto-speed/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-05-28T14:28:47Z",
-      "snippet": "The update signals YouTube's ongoing efforts to compete with other platforms for podcast audiences."
-    },
-    {
       "title": "CNN sues Perplexity over \u2018verbatim\u2019 copycat articles",
       "url": "https://www.theverge.com/ai-artificial-intelligence/938893/cnn-perplexity-ai-copyright-lawsuit",
       "source": "The Verge",
@@ -147,34 +175,6 @@
       "source": "The Verge",
       "publishedAt": "2026-05-28T14:00:00Z",
       "snippet": "Today, I\u2019m talking with Wassym Bensaid, the chief software officer at Rivian, and the co-CEO of Rivian\u2019s platform joint venture with Volkswagen, which everyone just calls RV Tech. That joint venture k"
-    },
-    {
-      "title": "2 days left: Lock in ticket savings of up to $410 to TechCrunch Disrupt 2026",
-      "url": "https://techcrunch.com/2026/05/28/2-days-left-lock-in-ticket-savings-of-up-to-410-to-techcrunch-disrupt-2026/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-05-28T14:00:00Z",
-      "snippet": "Savings of up to $410 on TechCrunch Disrupt 2026 tickets end tomorrow, May 29, 11:59 p.m. PT. Register now to save and join 10,000+ tech leaders on October 13-15 in San Francisco."
-    },
-    {
-      "title": "Visa invests in Replit to power agentic payments for developers",
-      "url": "https://techcrunch.com/2026/05/28/visa-invests-in-replit-to-power-agentic-payments-for-developers/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-05-28T14:00:00Z",
-      "snippet": "Visa said that over 1,000 employees have been using Replit for prototyping and development."
-    },
-    {
-      "title": "YouTube will let you ask AI to make a custom video feed",
-      "url": "https://www.theverge.com/streaming/938759/youtube-custom-ai-feed-prompt-availability",
-      "source": "The Verge",
-      "publishedAt": "2026-05-28T08:49:07Z",
-      "snippet": "YouTube is launching a new AI feature that creates a personalized video feed based on descriptions of what you want to watch. In its announcement, YouTube says custom content feeds can be built around"
-    },
-    {
-      "title": "AI tried to bury this politician \u2014 now people have actually heard of him",
-      "url": "https://www.theverge.com/policy/937650/ai-alex-bores-openai-anthropic-ny12",
-      "source": "The Verge",
-      "publishedAt": "2026-05-27T15:40:00Z",
-      "snippet": "By the time that the Democratic primary for New York's 12th congressional district wraps up in June, Anthropic and OpenAI will have spent millions on their battle over the political future of AI: who "
     }
   ],
   "trending": [
@@ -209,14 +209,14 @@
       "downloads": 16849
     },
     {
-      "id": "unsloth/Qwen3.6-35B-A3B-MTP-GGUF",
-      "displayName": "Qwen3.6 35B A3B MTP",
-      "downloads": 726514
-    },
-    {
       "id": "LiquidAI/LFM2.5-8B-A1B-GGUF",
       "displayName": "LFM2.5 8B A1B",
       "downloads": 5293
+    },
+    {
+      "id": "unsloth/Qwen3.6-35B-A3B-MTP-GGUF",
+      "displayName": "Qwen3.6 35B A3B MTP",
+      "downloads": 726514
     },
     {
       "id": "jedisct1/MiMo-V2.5-coder-Q2",
