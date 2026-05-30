@@ -1,6 +1,13 @@
 {
-  "updated": "2026-05-30T20:51:32Z",
+  "updated": "2026-05-30T22:55:00Z",
   "news": [
+    {
+      "title": "SoftBank says it will invest up to \u20ac75 billion to build French data centers",
+      "url": "https://techcrunch.com/2026/05/30/softbank-says-it-will-invest-up-to-e75-billion-to-build-french-data-centers/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-05-30T21:45:00Z",
+      "snippet": "The goal, the firm said, is to develop and operate up to 5 gigawatts of additional data center capacity."
+    },
     {
       "title": "\u2018What a joke\u2019: Github Copilot\u2019s new token-based billing spurs consternation among devs",
       "url": "https://techcrunch.com/2026/05/30/what-a-joke-github-copilots-new-token-based-billing-spurs-consternation-among-devs/",
@@ -149,13 +156,6 @@
       "snippet": "AI image tools rarely make me feel like I'm part of the creative process. They are, after all, mostly designed so that people with no design experience can type in a few words and get back a usable re"
     },
     {
-      "title": "Glean\u2019s top line crosses $300M as AI budget cutting becomes its major selling point",
-      "url": "https://techcrunch.com/2026/05/28/gleans-top-line-crosses-300m-as-ai-budget-cutting-becomes-its-major-selling-point/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-05-29T00:44:37Z",
-      "snippet": "The enterprise AI search startup tripled its annual revenue even as tech giants entered the category."
-    },
-    {
       "title": "Microsoft 365 Copilot gets a speed boost and cleaner design",
       "url": "https://www.theverge.com/tech/939273/microsoft-365-copilot-redesign",
       "source": "The Verge",
@@ -189,14 +189,14 @@
       "downloads": 23685
     },
     {
-      "id": "SulphurAI/Sulphur-2-base",
-      "displayName": "Sulphur 2 base",
-      "downloads": 1557858
-    },
-    {
       "id": "unsloth/Qwen3.6-27B-MTP-GGUF",
       "displayName": "Qwen3.6 27B MTP",
       "downloads": 877938
+    },
+    {
+      "id": "SulphurAI/Sulphur-2-base",
+      "displayName": "Sulphur 2 base",
+      "downloads": 1557858
     },
     {
       "id": "Jackrong/Qwopus3.6-27B-v2-MTP-GGUF",
