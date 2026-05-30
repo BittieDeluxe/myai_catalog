@@ -1,6 +1,27 @@
 {
-  "updated": "2026-05-30T15:02:49Z",
+  "updated": "2026-05-30T16:58:13Z",
   "news": [
+    {
+      "title": "\u2018What a joke\u2019: Github Copilot\u2019s new token-based billing spurs consternation among devs",
+      "url": "https://techcrunch.com/2026/05/30/what-a-joke-github-copilots-new-token-based-billing-spurs-consternation-among-devs/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-05-30T16:30:00Z",
+      "snippet": "The golden age of Microsoft's Github Copilot appears to be at an end."
+    },
+    {
+      "title": "Meta is reportedly developing an AI pendant",
+      "url": "https://techcrunch.com/2026/05/30/meta-is-reportedly-developing-an-ai-pendant/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-05-30T15:59:58Z",
+      "snippet": "Meta seems to be making big bets on AI-powered hardware."
+    },
+    {
+      "title": "I put Google\u2019s 24/7 AI assistant Gemini Spark to work, and it\u2019s actually pretty useful",
+      "url": "https://techcrunch.com/2026/05/30/i-put-googles-24-7-ai-assistant-gemini-spark-to-work-and-its-actually-pretty-useful/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-05-30T15:30:00Z",
+      "snippet": "Gemini Spark helps automate everyday tasks, from inbox summaries to local event planning, but it\u2019s unclear why Google made it a separate product."
+    },
     {
       "title": "How one founder\u2019s bet on \u2018the old school web\u2019 is paying off",
       "url": "https://www.theverge.com/tech/938245/past-maps-website-google-zero-ai",
@@ -135,32 +156,11 @@
       "snippet": "The enterprise AI search startup tripled its annual revenue even as tech giants entered the category."
     },
     {
-      "title": "The internet is being rebuilt for machines",
-      "url": "https://techcrunch.com/2026/05/28/the-internet-is-being-rebuilt-for-machines/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-05-28T21:24:01Z",
-      "snippet": "As AI agents move from experiments to production, AWS, Cloudflare, and others are redesigning cloud infrastructure for a future dominated by machine-generated internet traffic instead of human users."
-    },
-    {
       "title": "Microsoft 365 Copilot gets a speed boost and cleaner design",
       "url": "https://www.theverge.com/tech/939273/microsoft-365-copilot-redesign",
       "source": "The Verge",
       "publishedAt": "2026-05-28T20:14:07Z",
       "snippet": "Microsoft is launching a revamped version of Microsoft 365 Copilot, offering a cleaner design that the company claims loads twice as fast. As part of this update, Copilot will provide more reliable an"
-    },
-    {
-      "title": "Asana acquires no-code agent-builder StackAI",
-      "url": "https://techcrunch.com/2026/05/28/asana-acquires-no-code-agent-builder-stack-ai/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-05-28T20:06:07Z",
-      "snippet": "Asana will incorporate StackAI into its growing suite of AI workflow tools."
-    },
-    {
-      "title": "Anthropic raises $65 billion, nears $1T valuation ahead of IPO",
-      "url": "https://techcrunch.com/2026/05/28/anthropic-raises-65-billion-nears-1t-valuation-ahead-of-ipo/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-05-28T18:52:51Z",
-      "snippet": "Anthropic has closed a $65 billion Series H round at a $965 billion post-money valuation, marking what could be the AI startup's final private fundraise before a highly anticipated IPO."
     },
     {
       "title": "Claude\u2019s new model is more \u2018honest\u2019 when it messes up",
