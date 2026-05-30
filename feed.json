@@ -1,6 +1,34 @@
 {
-  "updated": "2026-05-30T11:18:15Z",
+  "updated": "2026-05-30T13:20:32Z",
   "news": [
+    {
+      "title": "How one founder\u2019s bet on \u2018the old school web\u2019 is paying off",
+      "url": "https://www.theverge.com/tech/938245/past-maps-website-google-zero-ai",
+      "source": "The Verge",
+      "publishedAt": "2026-05-30T13:00:00Z",
+      "snippet": "Craig Campbell walked away from the river of investor money flowing into AI to create, of all things, a website. Sure, Campbell probably could have started an AI company. He's a former engineer at Met"
+    },
+    {
+      "title": "AI grifters are creating fake Black people to sell Shein junk",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/938844/ai-tiktok-shop-blackface-shein-dropshipping",
+      "source": "The Verge",
+      "publishedAt": "2026-05-30T13:00:00Z",
+      "snippet": "Aliyah, a light-skinned Black woman dressed in country-western gear, is struggling to sell metal buckles she handmade on TikTok. In a video for the social media platform from March, she cries to the c"
+    },
+    {
+      "title": "As the browser wars heat up, here are the hottest alternatives to Chrome and Safari in 2026",
+      "url": "https://techcrunch.com/2026/05/30/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-05-30T13:00:00Z",
+      "snippet": "We\u2019ve compiled an overview of some of the top alternative browsers available today aiming to challenge Chrome and Safari."
+    },
+    {
+      "title": "The SpaceX IPO is great for Elon Musk and terrible for you",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/940001/elon-musk-spacex-ipo-ai",
+      "source": "The Verge",
+      "publishedAt": "2026-05-30T12:00:00Z",
+      "snippet": "I haven't seen anything as stupid as the WeWork IPO document in a very long time - that is, until Elon Musk filed to take SpaceX public. WeWork was a joke. SpaceX is a threat. And if Musk and his bank"
+    },
     {
       "title": "Coders are refusing to work without AI\u00a0\u2014\u00a0and that could come back to bite them",
       "url": "https://techcrunch.com/2026/05/29/coders-are-refusing-to-work-without-ai-and-that-could-come-back-to-bite-them/",
@@ -135,13 +163,6 @@
       "snippet": "Anthropic has closed a $65 billion Series H round at a $965 billion post-money valuation, marking what could be the AI startup's final private fundraise before a highly anticipated IPO."
     },
     {
-      "title": "Just like gold and oil, we\u2019ll soon be able to trade AI token futures",
-      "url": "https://techcrunch.com/2026/05/28/just-like-gold-and-oil-well-soon-be-able-to-trade-ai-token-futures/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-05-28T18:32:25Z",
-      "snippet": "Large exchanges are designing derivative products around AI tokens, which are increasingly being considered less a computational output and more a raw material input, like electricity or bandwidth."
-    },
-    {
       "title": "Claude\u2019s new model is more \u2018honest\u2019 when it messes up",
       "url": "https://www.theverge.com/ai-artificial-intelligence/939094/anthropic-claude-4-8-opus-honesty-effort",
       "source": "The Verge",
@@ -154,27 +175,6 @@
       "source": "The Verge",
       "publishedAt": "2026-05-28T16:08:45Z",
       "snippet": "Next month's Tribeca Festival will include the premiere of an AI-generated film: Dreams of Violets. The 75-minute film is a fictional dramatization of the Iranian government's mass killing of protesto"
-    },
-    {
-      "title": "YouTube takes baby steps to being a real podcast app",
-      "url": "https://www.theverge.com/streaming/939051/youtube-premium-podcast-features",
-      "source": "The Verge",
-      "publishedAt": "2026-05-28T16:05:00Z",
-      "snippet": "New features coming to YouTube could make it better for listening to podcasts, rolling out to Premium subscribers starting today on Android and coming later to iOS. A new \"on-the-go mode\" shifts YouTu"
-    },
-    {
-      "title": "These new iOS 27 renders hint at Siri\u2019s big redesign",
-      "url": "https://www.theverge.com/tech/938915/ios-27-siri-renders-bloomberg",
-      "source": "The Verge",
-      "publishedAt": "2026-05-28T14:33:31Z",
-      "snippet": "Apple's long-awaited Siri overhaul, expected to arrive in iOS 27, might look a lot like ChatGPT with a splash of Liquid Glass. Renders from Bloomberg offer a preview of iOS 27, including the new app a"
-    },
-    {
-      "title": "CNN sues Perplexity over \u2018verbatim\u2019 copycat articles",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/938893/cnn-perplexity-ai-copyright-lawsuit",
-      "source": "The Verge",
-      "publishedAt": "2026-05-28T14:08:36Z",
-      "snippet": "CNN has filed a lawsuit against Perplexity, claiming that the startup's AI tools generate \"verbatim\" copies of its work, as reported earlier by CNN. The lawsuit, filed in a New York court on Thursday,"
     }
   ],
   "trending": [
@@ -189,6 +189,16 @@
       "downloads": 1557858
     },
     {
+      "id": "LiquidAI/LFM2.5-8B-A1B-GGUF",
+      "displayName": "LFM2.5 8B A1B",
+      "downloads": 23685
+    },
+    {
+      "id": "Jackrong/Qwopus3.6-27B-v2-MTP-GGUF",
+      "displayName": "Qwopus3.6 27B v2 MTP",
+      "downloads": 105264
+    },
+    {
       "id": "unsloth/Qwen3.6-27B-MTP-GGUF",
       "displayName": "Qwen3.6 27B MTP",
       "downloads": 877938
@@ -197,16 +207,6 @@
       "id": "Jackrong/Qwopus3.6-27B-v2-GGUF",
       "displayName": "Qwopus3.6 27B v2",
       "downloads": 33167
-    },
-    {
-      "id": "Jackrong/Qwopus3.6-27B-v2-MTP-GGUF",
-      "displayName": "Qwopus3.6 27B v2 MTP",
-      "downloads": 105264
-    },
-    {
-      "id": "LiquidAI/LFM2.5-8B-A1B-GGUF",
-      "displayName": "LFM2.5 8B A1B",
-      "downloads": 23685
     },
     {
       "id": "OBLITERATUS/Qwen3.6-27B-OBLITERATED",
