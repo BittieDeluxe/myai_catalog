@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-30T13:20:32Z",
+  "updated": "2026-05-30T15:02:49Z",
   "news": [
     {
       "title": "How one founder\u2019s bet on \u2018the old school web\u2019 is paying off",
@@ -194,14 +194,14 @@
       "downloads": 23685
     },
     {
-      "id": "Jackrong/Qwopus3.6-27B-v2-MTP-GGUF",
-      "displayName": "Qwopus3.6 27B v2 MTP",
-      "downloads": 105264
-    },
-    {
       "id": "unsloth/Qwen3.6-27B-MTP-GGUF",
       "displayName": "Qwen3.6 27B MTP",
       "downloads": 877938
+    },
+    {
+      "id": "Jackrong/Qwopus3.6-27B-v2-MTP-GGUF",
+      "displayName": "Qwopus3.6 27B v2 MTP",
+      "downloads": 105264
     },
     {
       "id": "Jackrong/Qwopus3.6-27B-v2-GGUF",
