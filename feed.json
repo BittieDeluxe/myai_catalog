@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-30T06:42:28Z",
+  "updated": "2026-05-30T09:55:51Z",
   "news": [
     {
       "title": "Coders are refusing to work without AI\u00a0\u2014\u00a0and that could come back to bite them",
@@ -181,52 +181,52 @@
     {
       "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
       "displayName": "Qwen3.6 35B A3B Uncensored HauhauCS Aggressive",
-      "downloads": 2114938
+      "downloads": 2227885
     },
     {
       "id": "SulphurAI/Sulphur-2-base",
       "displayName": "Sulphur 2 base",
-      "downloads": 1528838
-    },
-    {
-      "id": "Jackrong/Qwopus3.6-27B-v2-MTP-GGUF",
-      "displayName": "Qwopus3.6 27B v2 MTP",
-      "downloads": 85680
-    },
-    {
-      "id": "Jackrong/Qwopus3.6-27B-v2-GGUF",
-      "displayName": "Qwopus3.6 27B v2",
-      "downloads": 29306
+      "downloads": 1557858
     },
     {
       "id": "unsloth/Qwen3.6-27B-MTP-GGUF",
       "displayName": "Qwen3.6 27B MTP",
-      "downloads": 841068
+      "downloads": 877938
     },
     {
-      "id": "OBLITERATUS/Qwen3.6-27B-OBLITERATED",
-      "displayName": "Qwen3.6 27B OBLITERATED",
-      "downloads": 16849
+      "id": "Jackrong/Qwopus3.6-27B-v2-GGUF",
+      "displayName": "Qwopus3.6 27B v2",
+      "downloads": 33167
+    },
+    {
+      "id": "Jackrong/Qwopus3.6-27B-v2-MTP-GGUF",
+      "displayName": "Qwopus3.6 27B v2 MTP",
+      "downloads": 105264
     },
     {
       "id": "LiquidAI/LFM2.5-8B-A1B-GGUF",
       "displayName": "LFM2.5 8B A1B",
-      "downloads": 5293
+      "downloads": 23685
+    },
+    {
+      "id": "OBLITERATUS/Qwen3.6-27B-OBLITERATED",
+      "displayName": "Qwen3.6 27B OBLITERATED",
+      "downloads": 18686
     },
     {
       "id": "unsloth/Qwen3.6-35B-A3B-MTP-GGUF",
       "displayName": "Qwen3.6 35B A3B MTP",
-      "downloads": 726514
+      "downloads": 778648
     },
     {
       "id": "jedisct1/MiMo-V2.5-coder-Q2",
       "displayName": "MiMo V2.5 coder Q2",
-      "downloads": 1648
+      "downloads": 1718
     },
     {
       "id": "openbmb/MiniCPM5-1B-GGUF",
       "displayName": "MiniCPM5 1B",
-      "downloads": 14018
+      "downloads": 18770
     }
   ]
 }
