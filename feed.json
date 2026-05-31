@@ -1,6 +1,13 @@
 {
-  "updated": "2026-05-31T10:11:14Z",
+  "updated": "2026-05-31T13:27:47Z",
   "news": [
+    {
+      "title": "I went looking for the AI weed vape that gives you Bitcoin for smoking",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/933916/ai-powered-crypto-cannabis-vape",
+      "source": "The Verge",
+      "publishedAt": "2026-05-31T13:00:00Z",
+      "snippet": "The crypto weed vape found me on 4/20, the high holiday of cannabis enthusiasts everywhere. It arrived over Slack with the thumbnail of a man exhaling a plume of vapor, the words \"every hit delivers B"
+    },
     {
       "title": "SoftBank says it will invest up to \u20ac75 billion to build French data centers",
       "url": "https://techcrunch.com/2026/05/30/softbank-says-it-will-invest-up-to-e75-billion-to-build-french-data-centers/",
@@ -168,13 +175,6 @@
       "source": "The Verge",
       "publishedAt": "2026-05-28T17:00:00Z",
       "snippet": "Anthropic is releasing Claude Opus 4.8 on Thursday, and the company is touting the model's \"honesty.\" According to Anthropic, it trains \"all [its] models to be honest - for instance, to avoid making c"
-    },
-    {
-      "title": "A $2,000 AI-generated film will make its debut at Tribeca",
-      "url": "https://www.theverge.com/entertainment/939067/ai-film-dreams-of-violets-tribeca",
-      "source": "The Verge",
-      "publishedAt": "2026-05-28T16:08:45Z",
-      "snippet": "Next month's Tribeca Festival will include the premiere of an AI-generated film: Dreams of Violets. The 75-minute film is a fictional dramatization of the Iranian government's mass killing of protesto"
     }
   ],
   "trending": [
