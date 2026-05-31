@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-31T07:41:30Z",
+  "updated": "2026-05-31T10:11:14Z",
   "news": [
     {
       "title": "SoftBank says it will invest up to \u20ac75 billion to build French data centers",
@@ -186,47 +186,47 @@
     {
       "id": "LiquidAI/LFM2.5-8B-A1B-GGUF",
       "displayName": "LFM2.5 8B A1B",
-      "downloads": 23685
-    },
-    {
-      "id": "SulphurAI/Sulphur-2-base",
-      "displayName": "Sulphur 2 base",
-      "downloads": 1557858
+      "downloads": 41828
     },
     {
       "id": "unsloth/Qwen3.6-27B-MTP-GGUF",
       "displayName": "Qwen3.6 27B MTP",
-      "downloads": 877938
+      "downloads": 926440
+    },
+    {
+      "id": "SulphurAI/Sulphur-2-base",
+      "displayName": "Sulphur 2 base",
+      "downloads": 1590236
     },
     {
       "id": "Jackrong/Qwopus3.6-27B-v2-MTP-GGUF",
       "displayName": "Qwopus3.6 27B v2 MTP",
-      "downloads": 105264
+      "downloads": 124807
     },
     {
       "id": "Jackrong/Qwopus3.6-27B-v2-GGUF",
       "displayName": "Qwopus3.6 27B v2",
-      "downloads": 33167
+      "downloads": 37241
     },
     {
       "id": "stepfun-ai/Step-3.7-Flash-GGUF",
       "displayName": "Step 3.7 Flash",
-      "downloads": 29666
-    },
-    {
-      "id": "unsloth/Qwen3.6-35B-A3B-MTP-GGUF",
-      "displayName": "Qwen3.6 35B A3B MTP",
-      "downloads": 778648
+      "downloads": 35511
     },
     {
       "id": "jedisct1/MiMo-V2.5-coder-Q2",
       "displayName": "MiMo V2.5 coder Q2",
-      "downloads": 1718
+      "downloads": 1898
+    },
+    {
+      "id": "unsloth/Qwen3.6-35B-A3B-MTP-GGUF",
+      "displayName": "Qwen3.6 35B A3B MTP",
+      "downloads": 805900
     },
     {
       "id": "openbmb/MiniCPM5-1B-GGUF",
       "displayName": "MiniCPM5 1B",
-      "downloads": 18770
+      "downloads": 21435
     }
   ]
 }
