@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-30T22:55:00Z",
+  "updated": "2026-05-31T03:24:54Z",
   "news": [
     {
       "title": "SoftBank says it will invest up to \u20ac75 billion to build French data centers",
@@ -214,9 +214,9 @@
       "downloads": 778648
     },
     {
-      "id": "OBLITERATUS/Qwen3.6-27B-OBLITERATED",
-      "displayName": "Qwen3.6 27B OBLITERATED",
-      "downloads": 18686
+      "id": "stepfun-ai/Step-3.7-Flash-GGUF",
+      "displayName": "Step 3.7 Flash",
+      "downloads": 29666
     },
     {
       "id": "jedisct1/MiMo-V2.5-coder-Q2",
@@ -224,9 +224,9 @@
       "downloads": 1718
     },
     {
-      "id": "stepfun-ai/Step-3.7-Flash-GGUF",
-      "displayName": "Step 3.7 Flash",
-      "downloads": 29666
+      "id": "openbmb/MiniCPM5-1B-GGUF",
+      "displayName": "MiniCPM5 1B",
+      "downloads": 18770
     }
   ]
 }
