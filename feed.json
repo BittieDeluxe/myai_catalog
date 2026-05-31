@@ -1,6 +1,13 @@
 {
-  "updated": "2026-05-31T15:15:34Z",
+  "updated": "2026-05-31T17:01:43Z",
   "news": [
+    {
+      "title": "Making sense of the debate over AI psychosis",
+      "url": "https://techcrunch.com/2026/05/31/making-sense-of-the-debate-over-ai-psychosis/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-05-31T15:30:00Z",
+      "snippet": "On the latest episode of Equity, we debate whether tech CEOs are \"uniquely prone to AI psychosis.\""
+    },
     {
       "title": "I went looking for the AI weed vape that gives you Bitcoin for smoking",
       "url": "https://www.theverge.com/ai-artificial-intelligence/933916/ai-powered-crypto-cannabis-vape",
@@ -140,13 +147,6 @@
       "source": "The Verge",
       "publishedAt": "2026-05-29T12:25:12Z",
       "snippet": "Most people will never own, drive, or even sit inside a Ferrari Luce. (If you can, or do\u2026 hit us up.) There's still no question that Ferrari's first electric vehicle is one of the most interesting, su"
-    },
-    {
-      "title": "This chip startup just raised $135M on a bet that AI\u2019s biggest bottleneck isn\u2019t compute \u2014 it\u2019s memory",
-      "url": "https://techcrunch.com/2026/05/29/xcena-secures-135m-at-570m-valuation-betting-on-memory-as-ais-real-bottleneck/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-05-29T12:00:00Z",
-      "snippet": "South Korean chip startup XCENA is betting that AI's real bottleneck is not compute, but memory."
     },
     {
       "title": "This AI startup will clean your home for free to train future robots",
