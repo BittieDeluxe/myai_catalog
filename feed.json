@@ -1,6 +1,20 @@
 {
-  "updated": "2026-06-01T20:13:34Z",
+  "updated": "2026-06-01T23:24:30Z",
   "news": [
+    {
+      "title": "Alphabet plans to raise $80 billion to pay for AI buildout",
+      "url": "https://techcrunch.com/2026/06/01/alphabet-plans-to-raise-80-billion-to-pay-for-ai-buildout/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-01T22:55:09Z",
+      "snippet": "The Google parent company plans to raise the funds by selling stock."
+    },
+    {
+      "title": "Nvidia chases $200B CPU market with AI agent PCs from Microsoft, Dell, and HP",
+      "url": "https://techcrunch.com/2026/06/01/nvidia-chases-200b-cpu-market-with-ai-agent-pcs-from-microsoft-dell-and-hp/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-01T21:35:00Z",
+      "snippet": "If Nvidia has cracked a way to bring AI agents easily, safely, and usefully to the masses, it could \u2014 and should \u2014 be big."
+    },
     {
       "title": "Florida sues OpenAI, Sam Altman, in first-of-its-kind lawsuit over violent incidents",
       "url": "https://techcrunch.com/2026/06/01/florida-sues-openai-sam-altman-in-first-of-its-kind-lawsuit-over-violent-incidents/",
@@ -48,7 +62,7 @@
       "url": "https://techcrunch.com/2026/06/01/anthropic-files-to-go-public/",
       "source": "TechCrunch",
       "publishedAt": "2026-06-01T16:36:55Z",
-      "snippet": "The company said Monday it has filed confidentially for an IPO."
+      "snippet": "Anthropic, now an AI powerhouse that has landed top-tier enterprise customers, was once considered an underdog in the emerging world of large language models."
     },
     {
       "title": "This AI weather startup is out-forecasting government agencies",
@@ -161,20 +175,6 @@
       "source": "TechCrunch",
       "publishedAt": "2026-05-30T13:00:00Z",
       "snippet": "We\u2019ve compiled an overview of some of the top alternative browsers available today aiming to challenge Chrome and Safari."
-    },
-    {
-      "title": "Coders are refusing to work without AI\u00a0\u2014\u00a0and that could come back to bite them",
-      "url": "https://techcrunch.com/2026/05/29/coders-are-refusing-to-work-without-ai-and-that-could-come-back-to-bite-them/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-05-29T22:14:22Z",
-      "snippet": "While AI is helping coders produce code faster, it may not be producing better code, researchers warn. And that could cause problems down the road for them."
-    },
-    {
-      "title": "So you\u2019ve heard these AI terms and nodded along; let\u2019s fix that",
-      "url": "https://techcrunch.com/2026/05/29/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-05-29T18:49:19Z",
-      "snippet": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter."
     }
   ],
   "trending": [
@@ -224,9 +224,9 @@
       "downloads": 24056
     },
     {
-      "id": "Jackrong/Qwopus3.5-9B-Coder-GGUF",
-      "displayName": "Qwopus3.5 9B Coder",
-      "downloads": 66521
+      "id": "unsloth/LFM2.5-8B-A1B-GGUF",
+      "displayName": "LFM2.5 8B A1B",
+      "downloads": 25639
     }
   ]
 }
