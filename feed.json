@@ -1,6 +1,34 @@
 {
-  "updated": "2026-06-01T09:21:47Z",
+  "updated": "2026-06-01T15:53:26Z",
   "news": [
+    {
+      "title": "DuckDuckGo makes its \u2018no-AI\u2019 search engine easier to access as its traffic booms",
+      "url": "https://techcrunch.com/2026/06/01/duckduckgo-makes-its-no-ai-search-engine-easier-to-access-as-its-traffic-booms/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-01T14:49:10Z",
+      "snippet": "Alternative search engine DuckDuckGo launches 'no AI' web extensions for Chrome and Firefox users."
+    },
+    {
+      "title": "Microsoft to unveil new AI models and Windows improvements at Build",
+      "url": "https://www.theverge.com/report/940861/microsoft-build-ai-models-windows-dev-mode-what-to-expect",
+      "source": "The Verge",
+      "publishedAt": "2026-06-01T14:39:03Z",
+      "snippet": "Microsoft is heading to San Francisco this week in a bid to win back developers at its Build conference. I've been attending Build since the days when Microsoft called it the Professional Developers C"
+    },
+    {
+      "title": "AI is blowing up music. How should the Grammys handle it?",
+      "url": "https://www.theverge.com/podcast/940831/ai-grammys-music-recording-harvey-mason",
+      "source": "The Verge",
+      "publishedAt": "2026-06-01T14:30:00Z",
+      "snippet": "Today I\u2019m talking with Harvey Mason Jr., who is CEO of the Recording Academy \u2014 that\u2019s the outfit that puts on the Grammy Awards. I last talked to Harvey in 2024, when it was obvious that generative AI"
+    },
+    {
+      "title": "Strava blames zero-code AI apps and scrapers as it tightens API access",
+      "url": "https://www.theverge.com/gadgets/940854/strava-restricts-api-access-ai-apps",
+      "source": "The Verge",
+      "publishedAt": "2026-06-01T14:06:44Z",
+      "snippet": "The popular fitness-tracking platform, Strava, is restricting access to its API as part of efforts to clamp down on AI scraping, as reported earlier by TechCrunch. Developers who want to build an app "
+    },
     {
       "title": "Erin Brockovich takes aim at data center secrecy",
       "url": "https://techcrunch.com/2026/05/31/erin-brockovich-takes-aim-at-data-center-secrecy/",
@@ -135,13 +163,6 @@
       "snippet": "You now have until tonight at 11:59 p.m. PT to lock in Early Bird savings of up to $410 for TechCrunch Disrupt 2026 before prices increase. Join 10,000+ tech leaders in October for one of the most ant"
     },
     {
-      "title": "Does your CEO have AI psychosis?\u00a0Aaron Levie thinks most of them\u00a0do.",
-      "url": "https://techcrunch.com/podcast/does-your-ceo-have-ai-psychosis-aaron-levie-thinks-most-of-them-do/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-05-29T14:00:00Z",
-      "snippet": "The people deciding that AI can replace your job are also the ones least likely to understand what your job\u00a0truly involves, according to Box founder Aaron Levie, who pointed to this as an example of\u00a0&"
-    },
-    {
       "title": "Jony Ive\u2019s funky Ferrari",
       "url": "https://www.theverge.com/podcast/939589/ferrari-luce-jony-ive-vergecast",
       "source": "The Verge",
@@ -154,27 +175,6 @@
       "source": "The Verge",
       "publishedAt": "2026-05-29T11:58:40Z",
       "snippet": "AI training startup Shift wants to clean your home for free. The catch - because, despite what its website says, there's always a catch - is that it will record cleaners as they scrub, vacuum, dust, t"
-    },
-    {
-      "title": "Adobe\u2019s conversational AI agent is a mediocre design intern",
-      "url": "https://www.theverge.com/tech/939686/adobes-conversational-ai-agent-is-a-mediocre-design-intern",
-      "source": "The Verge",
-      "publishedAt": "2026-05-29T10:00:00Z",
-      "snippet": "AI image tools rarely make me feel like I'm part of the creative process. They are, after all, mostly designed so that people with no design experience can type in a few words and get back a usable re"
-    },
-    {
-      "title": "Microsoft 365 Copilot gets a speed boost and cleaner design",
-      "url": "https://www.theverge.com/tech/939273/microsoft-365-copilot-redesign",
-      "source": "The Verge",
-      "publishedAt": "2026-05-28T20:14:07Z",
-      "snippet": "Microsoft is launching a revamped version of Microsoft 365 Copilot, offering a cleaner design that the company claims loads twice as fast. As part of this update, Copilot will provide more reliable an"
-    },
-    {
-      "title": "Claude\u2019s new model is more \u2018honest\u2019 when it messes up",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/939094/anthropic-claude-4-8-opus-honesty-effort",
-      "source": "The Verge",
-      "publishedAt": "2026-05-28T17:00:00Z",
-      "snippet": "Anthropic is releasing Claude Opus 4.8 on Thursday, and the company is touting the model's \"honesty.\" According to Anthropic, it trains \"all [its] models to be honest - for instance, to avoid making c"
     }
   ],
   "trending": [
@@ -214,11 +214,6 @@
       "downloads": 38894
     },
     {
-      "id": "jedisct1/MiMo-V2.5-coder-Q2",
-      "displayName": "MiMo V2.5 coder Q2",
-      "downloads": 1933
-    },
-    {
       "id": "unsloth/Qwen3.6-35B-A3B-MTP-GGUF",
       "displayName": "Qwen3.6 35B A3B MTP",
       "downloads": 836686
@@ -227,6 +222,11 @@
       "id": "openbmb/MiniCPM5-1B-GGUF",
       "displayName": "MiniCPM5 1B",
       "downloads": 24056
+    },
+    {
+      "id": "jedisct1/MiMo-V2.5-coder-Q2",
+      "displayName": "MiMo V2.5 coder Q2",
+      "downloads": 1933
     }
   ]
 }
