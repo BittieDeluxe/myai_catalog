@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-01T03:37:25Z",
+  "updated": "2026-06-01T09:21:47Z",
   "news": [
     {
       "title": "Erin Brockovich takes aim at data center secrecy",
@@ -181,52 +181,52 @@
     {
       "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
       "displayName": "Qwen3.6 35B A3B Uncensored HauhauCS Aggressive",
-      "downloads": 2439402
+      "downloads": 2533393
     },
     {
       "id": "LiquidAI/LFM2.5-8B-A1B-GGUF",
       "displayName": "LFM2.5 8B A1B",
-      "downloads": 41828
+      "downloads": 55212
     },
     {
       "id": "SulphurAI/Sulphur-2-base",
       "displayName": "Sulphur 2 base",
-      "downloads": 1590236
+      "downloads": 1656520
     },
     {
       "id": "unsloth/Qwen3.6-27B-MTP-GGUF",
       "displayName": "Qwen3.6 27B MTP",
-      "downloads": 926440
+      "downloads": 952188
     },
     {
       "id": "Jackrong/Qwopus3.6-27B-v2-MTP-GGUF",
       "displayName": "Qwopus3.6 27B v2 MTP",
-      "downloads": 124807
-    },
-    {
-      "id": "Jackrong/Qwopus3.6-27B-v2-GGUF",
-      "displayName": "Qwopus3.6 27B v2",
-      "downloads": 37241
+      "downloads": 139952
     },
     {
       "id": "stepfun-ai/Step-3.7-Flash-GGUF",
       "displayName": "Step 3.7 Flash",
-      "downloads": 35511
+      "downloads": 37533
+    },
+    {
+      "id": "Jackrong/Qwopus3.6-27B-v2-GGUF",
+      "displayName": "Qwopus3.6 27B v2",
+      "downloads": 38894
     },
     {
       "id": "jedisct1/MiMo-V2.5-coder-Q2",
       "displayName": "MiMo V2.5 coder Q2",
-      "downloads": 1898
+      "downloads": 1933
     },
     {
       "id": "unsloth/Qwen3.6-35B-A3B-MTP-GGUF",
       "displayName": "Qwen3.6 35B A3B MTP",
-      "downloads": 805900
+      "downloads": 836686
     },
     {
       "id": "openbmb/MiniCPM5-1B-GGUF",
       "displayName": "MiniCPM5 1B",
-      "downloads": 21435
+      "downloads": 24056
     }
   ]
 }
