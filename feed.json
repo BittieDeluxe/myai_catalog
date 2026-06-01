@@ -1,6 +1,62 @@
 {
-  "updated": "2026-06-01T15:53:26Z",
+  "updated": "2026-06-01T20:13:34Z",
   "news": [
+    {
+      "title": "Florida sues OpenAI, Sam Altman, in first-of-its-kind lawsuit over violent incidents",
+      "url": "https://techcrunch.com/2026/06/01/florida-sues-openai-sam-altman-in-first-of-its-kind-lawsuit-over-violent-incidents/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-01T20:03:40Z",
+      "snippet": "The lawsuit partially revolves around a shooting at Florida State University last year, and ChatGPT's alleged role in the incident."
+    },
+    {
+      "title": "This could be Windows\u2019 M1 moment \u2014 but expect it to cost a ton",
+      "url": "https://www.theverge.com/tech/941215/windows-laptops-nvidia-rtx-spark-apple-m1-arm-price-ram",
+      "source": "The Verge",
+      "publishedAt": "2026-06-01T20:02:31Z",
+      "snippet": "Nvidia's announcement that it's getting into the consumer laptop chip space with RTX Spark is huge. Apple has proved for years that Arm-based chips can perform incredibly well while also delivering gr"
+    },
+    {
+      "title": "Gemini\u2019s new AI agent is about as good as Google\u2019s demo",
+      "url": "https://www.theverge.com/tech/941138/google-gemini-spark-ai-agent-hands-on",
+      "source": "The Verge",
+      "publishedAt": "2026-06-01T20:00:00Z",
+      "snippet": "Google's new \"24/7\" AI agent, Gemini Spark, can be shockingly good at doing things on your behalf. But I'm not sure it's worth the financial cost and potential privacy tradeoffs. The company gave me a"
+    },
+    {
+      "title": "Meta&#8217;s own AI was exploited to hijack Instagram accounts",
+      "url": "https://www.theverge.com/tech/941179/meta-instagram-ai-support-chatbot-exploit-hacked",
+      "source": "The Verge",
+      "publishedAt": "2026-06-01T19:20:47Z",
+      "snippet": "Meta's AI support chatbot helped hackers hijack Instagram accounts, as reported earlier by 404 Media. In a video shared on Telegram, a hacker shows how they could take over an account by asking Meta's"
+    },
+    {
+      "title": "Water access is now a risk factor in SpaceX\u2019s IPO",
+      "url": "https://techcrunch.com/2026/06/01/water-access-is-now-a-risk-factor-in-spacexs-ipo/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-01T18:19:53Z",
+      "snippet": "The company says it needs \"significant\" water resources to cool its data centers, and that access to abundant, affordable water is a challenge."
+    },
+    {
+      "title": "Anthropic has officially filed to go public",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/941016/anthropic-has-officially-filed-to-go-public",
+      "source": "The Verge",
+      "publishedAt": "2026-06-01T16:40:38Z",
+      "snippet": "After months of speculation about whether OpenAI or Anthropic would be first in their race to IPO, Anthropic on Monday reached a key milestone: filing to kick off the process with the U.S. Securities "
+    },
+    {
+      "title": "Anthropic files to go public",
+      "url": "https://techcrunch.com/2026/06/01/anthropic-files-to-go-public/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-01T16:36:55Z",
+      "snippet": "The company said Monday it has filed confidentially for an IPO."
+    },
+    {
+      "title": "This AI weather startup is out-forecasting government agencies",
+      "url": "https://techcrunch.com/2026/06/01/this-ai-weather-startup-is-out-forecasting-government-agencies/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-01T16:00:00Z",
+      "snippet": "WindBorne benefits from its unique combination of model-building and data collection. The company now has about 400 balloons in flight gathering sensor readings at any given time, launched from 15 sit"
+    },
     {
       "title": "DuckDuckGo makes its \u2018no-AI\u2019 search engine easier to access as its traffic booms",
       "url": "https://techcrunch.com/2026/06/01/duckduckgo-makes-its-no-ai-search-engine-easier-to-access-as-its-traffic-booms/",
@@ -51,18 +107,18 @@
       "snippet": "The crypto weed vape found me on 4/20, the high holiday of cannabis enthusiasts everywhere. It arrived over Slack with the thumbnail of a man exhaling a plume of vapor, the words \"every hit delivers B"
     },
     {
-      "title": "SoftBank says it will invest up to \u20ac75 billion to build French data centers",
+      "title": "SoftBank says it will invest up to \u20ac75B to build French data centers",
       "url": "https://techcrunch.com/2026/05/30/softbank-says-it-will-invest-up-to-e75-billion-to-build-french-data-centers/",
       "source": "TechCrunch",
       "publishedAt": "2026-05-30T21:45:00Z",
       "snippet": "The goal, the firm said, is to develop and operate up to 5 gigawatts of additional data center capacity."
     },
     {
-      "title": "\u2018What a joke\u2019: Github Copilot\u2019s new token-based billing spurs consternation among devs",
+      "title": "\u2018What a joke\u2019: GitHub Copilot\u2019s new token-based billing spurs consternation among devs",
       "url": "https://techcrunch.com/2026/05/30/what-a-joke-github-copilots-new-token-based-billing-spurs-consternation-among-devs/",
       "source": "TechCrunch",
       "publishedAt": "2026-05-30T16:30:00Z",
-      "snippet": "The golden age of Microsoft's Github Copilot appears to be at an end."
+      "snippet": "The golden age of Microsoft's GitHub Copilot appears to be at an end."
     },
     {
       "title": "Meta is reportedly developing an AI pendant",
@@ -77,6 +133,13 @@
       "source": "TechCrunch",
       "publishedAt": "2026-05-30T15:30:00Z",
       "snippet": "Gemini Spark helps automate everyday tasks, from inbox summaries to local event planning, but it\u2019s unclear why Google made it a separate product."
+    },
+    {
+      "title": "The groupthink boom: what 3 top VCs really think about the AI frenzy",
+      "url": "https://techcrunch.com/2026/05/30/the-groupthink-boom-what-three-top-vcs-really-think-about-the-ai-frenzy/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-05-30T14:49:27Z",
+      "snippet": "\"If you're 22 years old in San Francisco and building something in AI, there may be a seed term sheet in your inbox \u2014 but if you're 19, oh my God, this means you're really good; you might already have"
     },
     {
       "title": "How one founder\u2019s bet on \u2018the old school web\u2019 is paying off",
@@ -100,13 +163,6 @@
       "snippet": "We\u2019ve compiled an overview of some of the top alternative browsers available today aiming to challenge Chrome and Safari."
     },
     {
-      "title": "The SpaceX IPO is great for Elon Musk and terrible for you",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/940001/elon-musk-spacex-ipo-ai",
-      "source": "The Verge",
-      "publishedAt": "2026-05-30T12:00:00Z",
-      "snippet": "I haven't seen anything as stupid as the WeWork IPO document in a very long time - that is, until Elon Musk filed to take SpaceX public. WeWork was a joke. SpaceX is a threat. And if Musk and his bank"
-    },
-    {
       "title": "Coders are refusing to work without AI\u00a0\u2014\u00a0and that could come back to bite them",
       "url": "https://techcrunch.com/2026/05/29/coders-are-refusing-to-work-without-ai-and-that-could-come-back-to-bite-them/",
       "source": "TechCrunch",
@@ -119,62 +175,6 @@
       "source": "TechCrunch",
       "publishedAt": "2026-05-29T18:49:19Z",
       "snippet": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter."
-    },
-    {
-      "title": "What happens when companies become too AI-pilled?",
-      "url": "https://techcrunch.com/video/what-happens-when-companies-become-too-ai-pilled/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-05-29T17:57:05Z",
-      "snippet": "The people deciding that AI can replace your job are also the ones least likely to understand what your job\u00a0truly involves, according to Box founder Aaron Levie, who pointed to this as an example of\u00a0&"
-    },
-    {
-      "title": "Tech companies desperately want to film you doing chores",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/940007/ai-companies-will-pay-for-robot-training-data",
-      "source": "The Verge",
-      "publishedAt": "2026-05-29T17:37:43Z",
-      "snippet": "This week, an AI training startup called Shift said it would clean New Yorkers' homes for free. It has plans to expand into other cities as well, including London, and looking around my flat, I get th"
-    },
-    {
-      "title": "After Nvidia\u2019s $20B not-acqui-hire, AI chip startup Groq reportedly raising $650M",
-      "url": "https://techcrunch.com/2026/05/29/after-nvidias-20b-not-acqui-hire-ai-chip-startup-groq-reportedly-raising-650m/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-05-29T17:27:13Z",
-      "snippet": "Chipmaker Groq is looking to raise $650 million in internal funding as it pivots from hardware to focus more on AI inference, the process of refining the way AI models respond to prompted requests, pe"
-    },
-    {
-      "title": "Cognition\u2019s Scott Wu says AI coding agents shouldn\u2019t replace humans",
-      "url": "https://techcrunch.com/2026/05/29/cognitions-scott-wu-says-ai-coding-agents-shouldnt-replace-humans/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-05-29T16:13:47Z",
-      "snippet": "Cognition makes Devin, the first and arguably most successful AI coding agent. But famed coder Wu says it isn't designed to supplant human programmers."
-    },
-    {
-      "title": "Today is the last\u00a0day to apply to speak at TechCrunch Disrupt 2026",
-      "url": "https://techcrunch.com/2026/05/29/today-is-the-last-day-to-apply-to-speak-at-techcrunch-disrupt-2026/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-05-29T14:15:00Z",
-      "snippet": "Submit your session topic before today ends for a chance to speak at TechCrunch Disrupt 2026. Apply now to share your insight and help shape the conversations defining the tech industry."
-    },
-    {
-      "title": "Final 24 hours to save up to $410 on your TechCrunch Disrupt 2026 ticket",
-      "url": "https://techcrunch.com/2026/05/29/final-24-hours-to-save-up-to-410-on-your-techcrunch-disrupt-2026-ticket/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-05-29T14:00:00Z",
-      "snippet": "You now have until tonight at 11:59 p.m. PT to lock in Early Bird savings of up to $410 for TechCrunch Disrupt 2026 before prices increase. Join 10,000+ tech leaders in October for one of the most ant"
-    },
-    {
-      "title": "Jony Ive\u2019s funky Ferrari",
-      "url": "https://www.theverge.com/podcast/939589/ferrari-luce-jony-ive-vergecast",
-      "source": "The Verge",
-      "publishedAt": "2026-05-29T12:25:12Z",
-      "snippet": "Most people will never own, drive, or even sit inside a Ferrari Luce. (If you can, or do\u2026 hit us up.) There's still no question that Ferrari's first electric vehicle is one of the most interesting, su"
-    },
-    {
-      "title": "This AI startup will clean your home for free to train future robots",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/939765/ai-training-data-startup-shift-free-cleaning",
-      "source": "The Verge",
-      "publishedAt": "2026-05-29T11:58:40Z",
-      "snippet": "AI training startup Shift wants to clean your home for free. The catch - because, despite what its website says, there's always a catch - is that it will record cleaners as they scrub, vacuum, dust, t"
     }
   ],
   "trending": [
@@ -224,9 +224,9 @@
       "downloads": 24056
     },
     {
-      "id": "jedisct1/MiMo-V2.5-coder-Q2",
-      "displayName": "MiMo V2.5 coder Q2",
-      "downloads": 1933
+      "id": "Jackrong/Qwopus3.5-9B-Coder-GGUF",
+      "displayName": "Qwopus3.5 9B Coder",
+      "downloads": 66521
     }
   ]
 }
