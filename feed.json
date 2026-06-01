@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-31T22:56:57Z",
+  "updated": "2026-06-01T03:37:25Z",
   "news": [
     {
       "title": "Erin Brockovich takes aim at data center secrecy",
@@ -189,14 +189,14 @@
       "downloads": 41828
     },
     {
-      "id": "unsloth/Qwen3.6-27B-MTP-GGUF",
-      "displayName": "Qwen3.6 27B MTP",
-      "downloads": 926440
-    },
-    {
       "id": "SulphurAI/Sulphur-2-base",
       "displayName": "Sulphur 2 base",
       "downloads": 1590236
+    },
+    {
+      "id": "unsloth/Qwen3.6-27B-MTP-GGUF",
+      "displayName": "Qwen3.6 27B MTP",
+      "downloads": 926440
     },
     {
       "id": "Jackrong/Qwopus3.6-27B-v2-MTP-GGUF",
