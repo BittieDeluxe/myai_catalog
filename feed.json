@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-02T03:34:23Z",
+  "updated": "2026-06-02T08:24:45Z",
   "news": [
     {
       "title": "Alphabet plans to raise $80B to pay for AI buildout",
@@ -181,52 +181,52 @@
     {
       "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
       "displayName": "Qwen3.6 35B A3B Uncensored HauhauCS Aggressive",
-      "downloads": 2533393
+      "downloads": 2573320
     },
     {
       "id": "LiquidAI/LFM2.5-8B-A1B-GGUF",
       "displayName": "LFM2.5 8B A1B",
-      "downloads": 55212
+      "downloads": 70865
     },
     {
       "id": "SulphurAI/Sulphur-2-base",
       "displayName": "Sulphur 2 base",
-      "downloads": 1656520
+      "downloads": 1663826
     },
     {
       "id": "unsloth/Qwen3.6-27B-MTP-GGUF",
       "displayName": "Qwen3.6 27B MTP",
-      "downloads": 952188
-    },
-    {
-      "id": "Jackrong/Qwopus3.6-27B-v2-MTP-GGUF",
-      "displayName": "Qwopus3.6 27B v2 MTP",
-      "downloads": 139952
+      "downloads": 982631
     },
     {
       "id": "stepfun-ai/Step-3.7-Flash-GGUF",
       "displayName": "Step 3.7 Flash",
-      "downloads": 37533
+      "downloads": 39258
+    },
+    {
+      "id": "Jackrong/Qwopus3.6-27B-v2-MTP-GGUF",
+      "displayName": "Qwopus3.6 27B v2 MTP",
+      "downloads": 155959
     },
     {
       "id": "Jackrong/Qwopus3.6-27B-v2-GGUF",
       "displayName": "Qwopus3.6 27B v2",
-      "downloads": 38894
+      "downloads": 40637
     },
     {
       "id": "unsloth/Qwen3.6-35B-A3B-MTP-GGUF",
       "displayName": "Qwen3.6 35B A3B MTP",
-      "downloads": 836686
+      "downloads": 857734
     },
     {
       "id": "unsloth/LFM2.5-8B-A1B-GGUF",
       "displayName": "LFM2.5 8B A1B",
-      "downloads": 25639
+      "downloads": 29513
     },
     {
-      "id": "openbmb/MiniCPM5-1B-GGUF",
-      "displayName": "MiniCPM5 1B",
-      "downloads": 24056
+      "id": "DavidAU/Qwen3.6-40B-Claude-4.6-Opus-Deckard-Heretic-Uncensored-Thinking-NEO-CODE-Di-IMatrix-MAX-GGUF",
+      "displayName": "Qwen3.6 40B Claude 4.6 Opus Deckard Heretic Uncensored Thinking NEO CODE Di IMatrix MAX",
+      "downloads": 538607
     }
   ]
 }
