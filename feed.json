@@ -1,6 +1,27 @@
 {
-  "updated": "2026-06-02T08:24:45Z",
+  "updated": "2026-06-02T13:58:03Z",
   "news": [
+    {
+      "title": "Gemini Spark is the most impressive and terrifying AI experience I\u2019ve had yet",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/941388/gemini-spark-ai-agent-trip-planning",
+      "source": "The Verge",
+      "publishedAt": "2026-06-02T12:38:08Z",
+      "snippet": "According to every product demo from the last four years, planning a trip is a killer use case for AI. Just tell it where you're going, they all promise, and your chatbot / agent / other buzzword will"
+    },
+    {
+      "title": "ZeroDrift raises $10M to protect AI models from themselves",
+      "url": "https://techcrunch.com/2026/06/02/zerodrift-raises-10-million-to-protect-ai-models-from-themselves/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-02T12:32:59Z",
+      "snippet": "A new AI compliance service sits between AI models and end users to flag and replace any messages that might present a compliance problem."
+    },
+    {
+      "title": "Rocket engine startup Impulse raises $500 million to hire people, not AI",
+      "url": "https://techcrunch.com/2026/06/02/rocket-engine-startup-impulse-raises-500-million-to-hire-people-not-ai/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-02T12:00:00Z",
+      "snippet": "Engineering physical systems still depends on human talent, according to Impulse Space president Eric Romo."
+    },
     {
       "title": "Alphabet plans to raise $80B to pay for AI buildout",
       "url": "https://techcrunch.com/2026/06/01/alphabet-plans-to-raise-80-billion-to-pay-for-ai-buildout/",
@@ -149,32 +170,11 @@
       "snippet": "Gemini Spark helps automate everyday tasks, from inbox summaries to local event planning, but it\u2019s unclear why Google made it a separate product."
     },
     {
-      "title": "The groupthink boom: what 3 top VCs really think about the AI frenzy",
-      "url": "https://techcrunch.com/2026/05/30/the-groupthink-boom-what-three-top-vcs-really-think-about-the-ai-frenzy/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-05-30T14:49:27Z",
-      "snippet": "\"If you're 22 years old in San Francisco and building something in AI, there may be a seed term sheet in your inbox \u2014 but if you're 19, oh my God, this means you're really good; you might already have"
-    },
-    {
       "title": "How one founder\u2019s bet on \u2018the old school web\u2019 is paying off",
       "url": "https://www.theverge.com/tech/938245/past-maps-website-google-zero-ai",
       "source": "The Verge",
       "publishedAt": "2026-05-30T13:00:00Z",
       "snippet": "Craig Campbell walked away from the river of investor money flowing into AI to create, of all things, a website. Sure, Campbell probably could have started an AI company. He's a former engineer at Met"
-    },
-    {
-      "title": "AI grifters are creating fake Black people to sell Shein junk",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/938844/ai-tiktok-shop-blackface-shein-dropshipping",
-      "source": "The Verge",
-      "publishedAt": "2026-05-30T13:00:00Z",
-      "snippet": "Aliyah, a light-skinned Black woman dressed in country-western gear, is struggling to sell metal buckles she handmade on TikTok. In a video for the social media platform from March, she cries to the c"
-    },
-    {
-      "title": "As the browser wars heat up, here are the hottest alternatives to Chrome and Safari in 2026",
-      "url": "https://techcrunch.com/2026/05/30/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-05-30T13:00:00Z",
-      "snippet": "We\u2019ve compiled an overview of some of the top alternative browsers available today aiming to challenge Chrome and Safari."
     }
   ],
   "trending": [
