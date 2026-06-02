@@ -1,6 +1,83 @@
 {
-  "updated": "2026-06-02T13:58:03Z",
+  "updated": "2026-06-02T18:06:19Z",
   "news": [
+    {
+      "title": "Microsoft launches Scout, an OpenClaw-inspired personal assistant",
+      "url": "https://techcrunch.com/2026/06/02/microsoft-launches-scout-an-openclaw-inspired-personal-assistant/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-02T18:02:44Z",
+      "snippet": "Launched at Build, Microsoft Scout is a new AI assistant meant to bring the power and flexibility of OpenClaw into the Microsoft 365 system."
+    },
+    {
+      "title": "Microsoft Scout is a new AI personal assistant built on OpenClaw",
+      "url": "https://www.theverge.com/news/939713/microsoft-scout-assistant-openclaw",
+      "source": "The Verge",
+      "publishedAt": "2026-06-02T18:00:00Z",
+      "snippet": "Much like Google, Microsoft is launching its own version of OpenClaw. Microsoft Scout is an always-on assistant that integrates into Microsoft 365 apps like Outlook, OneDrive, and Microsoft Teams, all"
+    },
+    {
+      "title": "Google\u2019s Phone app will tell you if a scammer is impersonating one of your contacts",
+      "url": "https://www.theverge.com/tech/941517/google-phone-scammer-ai-impersonation",
+      "source": "The Verge",
+      "publishedAt": "2026-06-02T18:00:00Z",
+      "snippet": "Google is launching a new feature for its Phone app that aims to protect you from AI impersonation scams. Now, when you receive a call from a scammer that appears to be coming from the same number as "
+    },
+    {
+      "title": "Microsoft offers devs a better way to control AI agent behavior",
+      "url": "https://techcrunch.com/2026/06/02/microsoft-offers-devs-a-better-way-to-control-ai-agent-behavior/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-02T18:00:00Z",
+      "snippet": "The specification lets developer, compliance and security teams define their own policies for agents to follow in portable policy files."
+    },
+    {
+      "title": "Amazon faces class action lawsuit over Ring facial recognition feature",
+      "url": "https://techcrunch.com/2026/06/02/amazon-faces-class-action-lawsuit-over-ring-facial-recognition-feature/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-02T17:47:28Z",
+      "snippet": "The class action lawsuit, filed in Seattle by Virginia resident Charles Sigwalt, claims that Ring's Familiar Faces feature stores images of passersby without consent."
+    },
+    {
+      "title": "Microsoft&#8217;s Project Solara is an OS for AI agent gadgets",
+      "url": "https://www.theverge.com/news/941830/microsoft-project-solara-os-ai-agent-gadgets",
+      "source": "The Verge",
+      "publishedAt": "2026-06-02T17:31:02Z",
+      "snippet": "Microsoft just announced \"Project Solara,\" a new OS designed for gadgets that run AI agents, at Build 2026. The company is calling it \"a new platform built from the ground up to power agent-driven exp"
+    },
+    {
+      "title": "Microsoft created the mini Surface dev box that Qualcomm couldn&#8217;t",
+      "url": "https://www.theverge.com/news/941271/microsoft-surface-rtx-spark-dev-box-specs-availability",
+      "source": "The Verge",
+      "publishedAt": "2026-06-02T16:30:00Z",
+      "snippet": "Microsoft only just announced a new Surface Laptop Ultra at the weekend, and it's now revealing a miniature Surface PC aimed at developers. The new Surface RTX Spark Dev Box is powered by Nvidia's new"
+    },
+    {
+      "title": "Trump signs narrower executive order on AI oversight after industry objections",
+      "url": "https://techcrunch.com/2026/06/02/trump-signs-narrower-executive-order-on-ai-oversight-after-industry-objections/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-02T16:23:08Z",
+      "snippet": "After industry objections, President Trump signed a revised AI executive order requiring only voluntary prerelease government reviews of advanced models."
+    },
+    {
+      "title": "OpenAI launches new Codex tools for white-collar work",
+      "url": "https://techcrunch.com/2026/06/02/openai-launches-new-codex-tools-for-white-collar-work/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-02T16:00:00Z",
+      "snippet": "OpenAI released a set of six plug-ins aimed at specific jobs: data analytics, creative production, sales, product design, equity investing, and investment banking. Available from within the Codex app,"
+    },
+    {
+      "title": "Microsoft Build 2026: All the news about Windows, AI, RTX Spark, and more",
+      "url": "https://www.theverge.com/tech/941668/microsoft-build-may-2026-live-news-updates",
+      "source": "The Verge",
+      "publishedAt": "2026-06-02T15:59:58Z",
+      "snippet": "Microsoft\u2019s annual developer conference is kicking off on June 2nd in San Francisco with the keynote presentation streaming live at 12:30PM ET / 9:30AM PT, and we will be following along here with eve"
+    },
+    {
+      "title": "Anthropic scales Claude Mythos  to critical infrastructure in 15+ countries",
+      "url": "https://techcrunch.com/2026/06/02/anthropic-scales-claude-mythos-to-critical-infrastructure-in-15-countries/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-02T14:44:21Z",
+      "snippet": "Anthropic is expanding Project Glasswing, its security vulnerability program, and access to Mythos to 150 organizations across 15 countries \u2014 targeting critical infrastructure in power, water, healthc"
+    },
     {
       "title": "Gemini Spark is the most impressive and terrifying AI experience I\u2019ve had yet",
       "url": "https://www.theverge.com/ai-artificial-intelligence/941388/gemini-spark-ai-agent-trip-planning",
@@ -98,83 +175,6 @@
       "source": "TechCrunch",
       "publishedAt": "2026-06-01T14:49:10Z",
       "snippet": "Alternative search engine DuckDuckGo launches 'no AI' web extensions for Chrome and Firefox users."
-    },
-    {
-      "title": "Microsoft to unveil new AI models and Windows improvements at Build",
-      "url": "https://www.theverge.com/report/940861/microsoft-build-ai-models-windows-dev-mode-what-to-expect",
-      "source": "The Verge",
-      "publishedAt": "2026-06-01T14:39:03Z",
-      "snippet": "Microsoft is heading to San Francisco this week in a bid to win back developers at its Build conference. I've been attending Build since the days when Microsoft called it the Professional Developers C"
-    },
-    {
-      "title": "AI is blowing up music. How should the Grammys handle it?",
-      "url": "https://www.theverge.com/podcast/940831/ai-grammys-music-recording-harvey-mason",
-      "source": "The Verge",
-      "publishedAt": "2026-06-01T14:30:00Z",
-      "snippet": "Today I\u2019m talking with Harvey Mason Jr., who is CEO of the Recording Academy \u2014 that\u2019s the outfit that puts on the Grammy Awards. I last talked to Harvey in 2024, when it was obvious that generative AI"
-    },
-    {
-      "title": "Strava blames zero-code AI apps and scrapers as it tightens API access",
-      "url": "https://www.theverge.com/gadgets/940854/strava-restricts-api-access-ai-apps",
-      "source": "The Verge",
-      "publishedAt": "2026-06-01T14:06:44Z",
-      "snippet": "The popular fitness-tracking platform, Strava, is restricting access to its API as part of efforts to clamp down on AI scraping, as reported earlier by TechCrunch. Developers who want to build an app "
-    },
-    {
-      "title": "Erin Brockovich takes aim at data center secrecy",
-      "url": "https://techcrunch.com/2026/05/31/erin-brockovich-takes-aim-at-data-center-secrecy/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-05-31T21:05:14Z",
-      "snippet": "Environmental activist Erin Brockovich has a new mission."
-    },
-    {
-      "title": "Making sense of the debate over AI psychosis",
-      "url": "https://techcrunch.com/2026/05/31/making-sense-of-the-debate-over-ai-psychosis/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-05-31T15:30:00Z",
-      "snippet": "On the latest episode of Equity, we debate whether tech CEOs are \"uniquely prone to AI psychosis.\""
-    },
-    {
-      "title": "I went looking for the AI weed vape that gives you Bitcoin for smoking",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/933916/ai-powered-crypto-cannabis-vape",
-      "source": "The Verge",
-      "publishedAt": "2026-05-31T13:00:00Z",
-      "snippet": "The crypto weed vape found me on 4/20, the high holiday of cannabis enthusiasts everywhere. It arrived over Slack with the thumbnail of a man exhaling a plume of vapor, the words \"every hit delivers B"
-    },
-    {
-      "title": "SoftBank says it will invest up to \u20ac75B to build French data centers",
-      "url": "https://techcrunch.com/2026/05/30/softbank-says-it-will-invest-up-to-e75-billion-to-build-french-data-centers/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-05-30T21:45:00Z",
-      "snippet": "The goal, the firm said, is to develop and operate up to 5 gigawatts of additional data center capacity."
-    },
-    {
-      "title": "\u2018What a joke\u2019: GitHub Copilot\u2019s new token-based billing spurs consternation among devs",
-      "url": "https://techcrunch.com/2026/05/30/what-a-joke-github-copilots-new-token-based-billing-spurs-consternation-among-devs/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-05-30T16:30:00Z",
-      "snippet": "The golden age of Microsoft's GitHub Copilot appears to be at an end."
-    },
-    {
-      "title": "Meta is reportedly developing an AI pendant",
-      "url": "https://techcrunch.com/2026/05/30/meta-is-reportedly-developing-an-ai-pendant/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-05-30T15:59:58Z",
-      "snippet": "Meta seems to be making big bets on AI-powered hardware."
-    },
-    {
-      "title": "I put Google\u2019s 24/7 AI assistant Gemini Spark to work, and it\u2019s actually pretty useful",
-      "url": "https://techcrunch.com/2026/05/30/i-put-googles-24-7-ai-assistant-gemini-spark-to-work-and-its-actually-pretty-useful/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-05-30T15:30:00Z",
-      "snippet": "Gemini Spark helps automate everyday tasks, from inbox summaries to local event planning, but it\u2019s unclear why Google made it a separate product."
-    },
-    {
-      "title": "How one founder\u2019s bet on \u2018the old school web\u2019 is paying off",
-      "url": "https://www.theverge.com/tech/938245/past-maps-website-google-zero-ai",
-      "source": "The Verge",
-      "publishedAt": "2026-05-30T13:00:00Z",
-      "snippet": "Craig Campbell walked away from the river of investor money flowing into AI to create, of all things, a website. Sure, Campbell probably could have started an AI company. He's a former engineer at Met"
     }
   ],
   "trending": [
@@ -214,14 +214,14 @@
       "downloads": 40637
     },
     {
-      "id": "unsloth/Qwen3.6-35B-A3B-MTP-GGUF",
-      "displayName": "Qwen3.6 35B A3B MTP",
-      "downloads": 857734
-    },
-    {
       "id": "unsloth/LFM2.5-8B-A1B-GGUF",
       "displayName": "LFM2.5 8B A1B",
       "downloads": 29513
+    },
+    {
+      "id": "unsloth/Qwen3.6-35B-A3B-MTP-GGUF",
+      "displayName": "Qwen3.6 35B A3B MTP",
+      "downloads": 857734
     },
     {
       "id": "DavidAU/Qwen3.6-40B-Claude-4.6-Opus-Deckard-Heretic-Uncensored-Thinking-NEO-CODE-Di-IMatrix-MAX-GGUF",
