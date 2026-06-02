@@ -1,6 +1,48 @@
 {
-  "updated": "2026-06-02T18:06:19Z",
+  "updated": "2026-06-02T22:20:28Z",
   "news": [
+    {
+      "title": "Microsoft Build 2026: The 7 biggest announcements",
+      "url": "https://www.theverge.com/tech/941738/microsoft-build-2026-biggest-announcements",
+      "source": "The Verge",
+      "publishedAt": "2026-06-02T19:23:52Z",
+      "snippet": "Microsoft just kicked off Build 2026 with a keynote from CEO Satya Nadella and other company leaders. As expected, it was filled with announcements, ranging from new Surface hardware to an always-on p"
+    },
+    {
+      "title": "Uber caps employee AI spending after blowing through budget in 4 months",
+      "url": "https://techcrunch.com/2026/06/02/uber-caps-employee-ai-spending-after-blowing-through-budget-in-four-months/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-02T19:11:48Z",
+      "snippet": "Uber's cutback has occurred after the company had reportedly encouraged staff to use AI as much as possible."
+    },
+    {
+      "title": "New Microsoft tool lets devs spin up AI behavior tests using text descriptions",
+      "url": "https://techcrunch.com/2026/06/02/new-microsoft-tool-lets-devs-spin-up-ai-behavior-tests-using-text-descriptions/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-02T19:02:21Z",
+      "snippet": "Microsoft on Tuesday took the wraps off Adaptive Spec-driven Scoring for Evaluation and Regression Testing, an open source framework for spinning up AI evaluations."
+    },
+    {
+      "title": "Trump signs executive order to review AI models before they\u2019re released",
+      "url": "https://www.theverge.com/policy/941775/trump-ai-executive-order",
+      "source": "The Verge",
+      "publishedAt": "2026-06-02T18:33:42Z",
+      "snippet": "President Donald Trump signed an executive order Tuesday creating a \"voluntary framework\" for AI companies to share their frontier models with the federal government before they're released \"to promot"
+    },
+    {
+      "title": "Martin Scorsese becomes the latest \u2014 and most unlikely \u2014 Hollywood voice for AI",
+      "url": "https://techcrunch.com/2026/06/02/martin-scorsese-becomes-the-latest-and-most-unlikely-hollywood-voice-for-ai/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-02T18:16:53Z",
+      "snippet": "The caveat is that one of the world's most famous living directors is using the tech solely for storyboarding."
+    },
+    {
+      "title": "Microsoft\u2019s first advanced reasoning AI is here",
+      "url": "https://www.theverge.com/tech/941664/microsoft-ai-model-reasoning-mai-thinking-1-build-2026",
+      "source": "The Verge",
+      "publishedAt": "2026-06-02T18:12:44Z",
+      "snippet": "Microsoft announced a bunch of new in-house AI models at Build 2026, including a new \"flagship\" model: MAI-Thinking-1. It's an ambitious step into model development for Microsoft, which introduced its"
+    },
     {
       "title": "Microsoft launches Scout, an OpenClaw-inspired personal assistant",
       "url": "https://techcrunch.com/2026/06/02/microsoft-launches-scout-an-openclaw-inspired-personal-assistant/",
@@ -23,14 +65,21 @@
       "snippet": "Google is launching a new feature for its Phone app that aims to protect you from AI impersonation scams. Now, when you receive a call from a scammer that appears to be coming from the same number as "
     },
     {
+      "title": "Google rolls out fake call detection to protect against AI deepfake impersonation scams",
+      "url": "https://techcrunch.com/2026/06/02/google-rolls-out-fake-call-detection-to-protect-against-ai-deepfake-impersonation-scams/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-02T18:00:00Z",
+      "snippet": "As people increasingly refuse to answer calls from unknown numbers, scammers are shifting their tactics by spoofing trusted phone numbers and using AI deepfake technology to sound like authority figur"
+    },
+    {
       "title": "Microsoft offers devs a better way to control AI agent behavior",
       "url": "https://techcrunch.com/2026/06/02/microsoft-offers-devs-a-better-way-to-control-ai-agent-behavior/",
       "source": "TechCrunch",
       "publishedAt": "2026-06-02T18:00:00Z",
-      "snippet": "The specification lets developer, compliance and security teams define their own policies for agents to follow in portable policy files."
+      "snippet": "The specification lets developer, compliance, and security teams define their own policies for agents to follow in portable policy files."
     },
     {
-      "title": "Amazon faces class action lawsuit over Ring facial recognition feature",
+      "title": "Amazon faces class action lawsuit over Ring facial-recognition feature",
       "url": "https://techcrunch.com/2026/06/02/amazon-faces-class-action-lawsuit-over-ring-facial-recognition-feature/",
       "source": "TechCrunch",
       "publishedAt": "2026-06-02T17:47:28Z",
@@ -69,7 +118,7 @@
       "url": "https://www.theverge.com/tech/941668/microsoft-build-may-2026-live-news-updates",
       "source": "The Verge",
       "publishedAt": "2026-06-02T15:59:58Z",
-      "snippet": "Microsoft\u2019s annual developer conference is kicking off on June 2nd in San Francisco with the keynote presentation streaming live at 12:30PM ET / 9:30AM PT, and we will be following along here with eve"
+      "snippet": "Microsoft Build 2026 kicked off with a keynote presentation that introduced some developer-focused Windows updates, an OpenClaw-based AI assistant called Scout, the new Majorana 2 quantum computing ch"
     },
     {
       "title": "Anthropic scales Claude Mythos  to critical infrastructure in 15+ countries",
@@ -126,55 +175,6 @@
       "source": "The Verge",
       "publishedAt": "2026-06-01T20:02:31Z",
       "snippet": "Nvidia's announcement that it's getting into the consumer laptop chip space with RTX Spark is huge. Apple has proved for years that Arm-based chips can perform incredibly well while also delivering gr"
-    },
-    {
-      "title": "Gemini\u2019s new AI agent is about as good as Google\u2019s demo",
-      "url": "https://www.theverge.com/tech/941138/google-gemini-spark-ai-agent-hands-on",
-      "source": "The Verge",
-      "publishedAt": "2026-06-01T20:00:00Z",
-      "snippet": "Google's new \"24/7\" AI agent, Gemini Spark, can be shockingly good at doing things on your behalf. But I'm not sure it's worth the financial cost and potential privacy tradeoffs. The company gave me a"
-    },
-    {
-      "title": "Meta&#8217;s own AI was exploited to hijack Instagram accounts",
-      "url": "https://www.theverge.com/tech/941179/meta-instagram-ai-support-chatbot-exploit-hacked",
-      "source": "The Verge",
-      "publishedAt": "2026-06-01T19:20:47Z",
-      "snippet": "Meta's AI support chatbot helped hackers hijack Instagram accounts, as reported earlier by 404 Media. In a video shared on Telegram, a hacker shows how they could take over an account by asking Meta's"
-    },
-    {
-      "title": "Water access is now a risk factor in SpaceX\u2019s IPO",
-      "url": "https://techcrunch.com/2026/06/01/water-access-is-now-a-risk-factor-in-spacexs-ipo/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-01T18:19:53Z",
-      "snippet": "The company says it needs \"significant\" water resources to cool its data centers, and that access to abundant, affordable water is a challenge."
-    },
-    {
-      "title": "Anthropic has officially filed to go public",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/941016/anthropic-has-officially-filed-to-go-public",
-      "source": "The Verge",
-      "publishedAt": "2026-06-01T16:40:38Z",
-      "snippet": "After months of speculation about whether OpenAI or Anthropic would be first in their race to IPO, Anthropic on Monday reached a key milestone: filing to kick off the process with the U.S. Securities "
-    },
-    {
-      "title": "Anthropic files to go public",
-      "url": "https://techcrunch.com/2026/06/01/anthropic-files-to-go-public/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-01T16:36:55Z",
-      "snippet": "Anthropic, now an AI powerhouse that has landed top-tier enterprise customers, was once considered an underdog in the emerging world of large language models."
-    },
-    {
-      "title": "This AI weather startup is out-forecasting government agencies",
-      "url": "https://techcrunch.com/2026/06/01/this-ai-weather-startup-is-out-forecasting-government-agencies/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-01T16:00:00Z",
-      "snippet": "WindBorne benefits from its unique combination of model-building and data collection. The company now has about 400 balloons in flight gathering sensor readings at any given time, launched from 15 sit"
-    },
-    {
-      "title": "DuckDuckGo makes its \u2018no-AI\u2019 search engine easier to access as its traffic booms",
-      "url": "https://techcrunch.com/2026/06/01/duckduckgo-makes-its-no-ai-search-engine-easier-to-access-as-its-traffic-booms/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-01T14:49:10Z",
-      "snippet": "Alternative search engine DuckDuckGo launches 'no AI' web extensions for Chrome and Firefox users."
     }
   ],
   "trending": [
