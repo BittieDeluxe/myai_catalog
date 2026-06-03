@@ -1,6 +1,34 @@
 {
-  "updated": "2026-06-03T08:51:11Z",
+  "updated": "2026-06-03T14:25:07Z",
   "news": [
+    {
+      "title": "Microsoft and OpenAI broke up \u2014\u00a0now they\u2019re ready to fight",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/942242/microsoft-build-ai-agents-openai-competition",
+      "source": "The Verge",
+      "publishedAt": "2026-06-03T14:04:00Z",
+      "snippet": "At Microsoft's annual Build conference on Tuesday, the company announced a slew of new or expanded AI initiatives, including a super app, in-house reasoning models, a cybersecurity tool, and OpenClaw-"
+    },
+    {
+      "title": "Meta\u2019s AI agent for WhatsApp Business is now available globally",
+      "url": "https://techcrunch.com/2026/06/03/metas-ai-agent-for-whatsapp-business-is-now-available-globally/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-03T13:40:00Z",
+      "snippet": "WhatsApp will charge businesses for using its AI agent based on token usage"
+    },
+    {
+      "title": "Coralogix raises $200M on bet that someone needs to watch the AI agents",
+      "url": "https://techcrunch.com/2026/06/03/coralogix-raises-200m-in-race-to-build-the-monitoring-layer-for-ai-agents/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-03T13:02:51Z",
+      "snippet": "The Series F round values Coralogix at $1.6 billion and comes less than a year after its previous raise."
+    },
+    {
+      "title": "AI has a water problem. Google thinks it has a fix",
+      "url": "https://www.theverge.com/policy/942296/google-water-commitments-data-centers",
+      "source": "The Verge",
+      "publishedAt": "2026-06-03T09:00:00Z",
+      "snippet": "In the face of widespread backlash to the AI data center buildout throughout the US, Google is touting its efforts to minimize the environmental impact by actually increasing water for local communiti"
+    },
     {
       "title": "Google must let publishers opt out of AI Search features, rules UK",
       "url": "https://www.theverge.com/tech/942302/google-search-ai-overviews-uk-cma-publisher-opt-out",
@@ -128,25 +156,11 @@
       "snippet": "OpenAI released a set of six plug-ins aimed at specific jobs: data analytics, creative production, sales, product design, equity investing, and investment banking. Available from within the Codex app,"
     },
     {
-      "title": "Microsoft Build 2026: All the news about Windows, AI, RTX Spark, and more",
-      "url": "https://www.theverge.com/tech/941668/microsoft-build-may-2026-live-news-updates",
-      "source": "The Verge",
-      "publishedAt": "2026-06-02T15:59:58Z",
-      "snippet": "Microsoft Build 2026 kicked off with a keynote presentation that introduced some developer-focused Windows updates, an OpenClaw-based AI assistant called Scout, the new Majorana 2 quantum computing ch"
-    },
-    {
       "title": "Anthropic scales Claude Mythos  to critical infrastructure in 15+ countries",
       "url": "https://techcrunch.com/2026/06/02/anthropic-scales-claude-mythos-to-critical-infrastructure-in-15-countries/",
       "source": "TechCrunch",
       "publishedAt": "2026-06-02T14:44:21Z",
       "snippet": "Anthropic is expanding Project Glasswing, its security vulnerability program, and access to Mythos to 150 organizations across 15 countries \u2014 targeting critical infrastructure in power, water, healthc"
-    },
-    {
-      "title": "Gemini Spark is the most impressive and terrifying AI experience I\u2019ve had yet",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/941388/gemini-spark-ai-agent-trip-planning",
-      "source": "The Verge",
-      "publishedAt": "2026-06-02T12:38:08Z",
-      "snippet": "According to every product demo from the last four years, planning a trip is a killer use case for AI. Just tell it where you're going, they all promise, and your chatbot / agent / other buzzword will"
     },
     {
       "title": "ZeroDrift raises $10M to protect AI models from themselves",
@@ -161,20 +175,6 @@
       "source": "TechCrunch",
       "publishedAt": "2026-06-02T12:00:00Z",
       "snippet": "Engineering physical systems still depends on human talent, according to Impulse Space president Eric Romo."
-    },
-    {
-      "title": "Alphabet plans to raise $80B to pay for AI buildout",
-      "url": "https://techcrunch.com/2026/06/01/alphabet-plans-to-raise-80-billion-to-pay-for-ai-buildout/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-01T22:55:09Z",
-      "snippet": "\"The company is experiencing strong demand for its AI solutions and services from enterprises and consumers, at levels that are exceeding the company\u2019s available supply,\" Alphabet said in its statemen"
-    },
-    {
-      "title": "Nvidia chases $200B CPU market with AI agent PCs from Microsoft, Dell, and HP",
-      "url": "https://techcrunch.com/2026/06/01/nvidia-chases-200b-cpu-market-with-ai-agent-pcs-from-microsoft-dell-and-hp/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-01T21:35:00Z",
-      "snippet": "If Nvidia has cracked a way to bring AI agents easily, safely, and usefully to the masses, it could \u2014 and should \u2014 be big."
     }
   ],
   "trending": [
@@ -219,14 +219,14 @@
       "downloads": 33916
     },
     {
-      "id": "DavidAU/Qwen3.6-40B-Claude-4.6-Opus-Deckard-Heretic-Uncensored-Thinking-NEO-CODE-Di-IMatrix-MAX-GGUF",
-      "displayName": "Qwen3.6 40B Claude 4.6 Opus Deckard Heretic Uncensored Thinking NEO CODE Di IMatrix MAX",
-      "downloads": 563707
+      "id": "unsloth/Qwen3.6-35B-A3B-MTP-GGUF",
+      "displayName": "Qwen3.6 35B A3B MTP",
+      "downloads": 881201
     },
     {
-      "id": "HauhauCS/Gemma-4-E4B-Uncensored-HauhauCS-Aggressive",
-      "displayName": "Gemma 4 E4B Uncensored HauhauCS Aggressive",
-      "downloads": 694647
+      "id": "Jackrong/Qwopus3.5-9B-Coder-GGUF",
+      "displayName": "Qwopus3.5 9B Coder",
+      "downloads": 73299
     }
   ]
 }
