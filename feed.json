@@ -1,6 +1,55 @@
 {
-  "updated": "2026-06-03T14:25:07Z",
+  "updated": "2026-06-03T19:44:47Z",
   "news": [
+    {
+      "title": "Alphabet\u2019s record-breaking $85B raise for Google\u2019s AI business is a helluva good signal",
+      "url": "https://techcrunch.com/2026/06/03/alphabets-record-breaking-85b-raise-for-googles-ai-business-is-a-helluva-good-signal/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-03T19:38:32Z",
+      "snippet": "If Alphabet's record-breaking, $85 billion stock sale signals investor appetite for AI-related offerings, we can see that investors are ready to chow."
+    },
+    {
+      "title": "Google\u2019s Dreambeans, its weirdest-named AI tool to date, will turn your life into a cartoon",
+      "url": "https://techcrunch.com/2026/06/03/googles-dreambeans-its-weirdest-named-ai-tool-to-date-will-turn-your-life-into-a-cartoon/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-03T19:07:42Z",
+      "snippet": "Dreambeans is a curated list of AI-illustrated \"stories\" culled from the personal data in your Google account."
+    },
+    {
+      "title": "As AI gets better, it reveals an empty promise",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/942629/as-ai-gets-better-it-reveals-an-empty-promise",
+      "source": "The Verge",
+      "publishedAt": "2026-06-03T17:45:35Z",
+      "snippet": "This week we've got tandem hands-ons with Google's new Gemini AI agent - Spark - from my colleagues David Pierce and Jay Peters. Their takeaways are similar: It's so effective that it's scary. Spark k"
+    },
+    {
+      "title": "Amazon&#8217;s search bar will invent AI-generated products you can&#8217;t buy",
+      "url": "https://www.theverge.com/tech/942547/amazon-search-bar-ai-images",
+      "source": "The Verge",
+      "publishedAt": "2026-06-03T16:07:31Z",
+      "snippet": "Amazon's updated search bar will now show you AI-generated images of products as you describe them. For now, the in-app feature only surfaces AI images of clothing and home goods, allowing you to tap "
+    },
+    {
+      "title": "Amazon will show AI product images when you search for some reason",
+      "url": "https://techcrunch.com/2026/06/03/amazon-will-show-ai-product-images-when-you-search-for-some-reason/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-03T15:50:26Z",
+      "snippet": "Amazon will use visual search and AI to show AI-generated product images that match your search queries. The retailer says it will help guide users to products."
+    },
+    {
+      "title": "These two founders left Goldman and Meta to build voice AI for markets everyone else overlooked",
+      "url": "https://techcrunch.com/2026/06/03/these-two-founders-left-goldman-and-meta-to-build-voice-ai-for-markets-everyone-else-overlooked/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-03T15:00:00Z",
+      "snippet": "The startup's own stack for Africa and Middle East is now handling more than 17,000 calls per day."
+    },
+    {
+      "title": "Publishers will be able to opt out of AI Search, thanks to new regulation",
+      "url": "https://techcrunch.com/2026/06/03/publishers-will-be-able-to-opt-out-of-ai-search-thanks-to-new-regulation/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-03T14:58:33Z",
+      "snippet": "U.K. regulators are requiring Google offer a tool allowing website publishers to opt-out of generative AI search features. The option will be tested in the U.K. then rolled out globally."
+    },
     {
       "title": "Microsoft and OpenAI broke up \u2014\u00a0now they\u2019re ready to fight",
       "url": "https://www.theverge.com/ai-artificial-intelligence/942242/microsoft-build-ai-agents-openai-competition",
@@ -13,17 +62,17 @@
       "url": "https://techcrunch.com/2026/06/03/metas-ai-agent-for-whatsapp-business-is-now-available-globally/",
       "source": "TechCrunch",
       "publishedAt": "2026-06-03T13:40:00Z",
-      "snippet": "WhatsApp will charge businesses for using its AI agent based on token usage"
+      "snippet": "WhatsApp will charge businesses for using its AI agent based on token usage."
     },
     {
       "title": "Coralogix raises $200M on bet that someone needs to watch the AI agents",
       "url": "https://techcrunch.com/2026/06/03/coralogix-raises-200m-in-race-to-build-the-monitoring-layer-for-ai-agents/",
       "source": "TechCrunch",
       "publishedAt": "2026-06-03T13:02:51Z",
-      "snippet": "The Series F round values Coralogix at $1.6 billion and comes less than a year after its previous raise."
+      "snippet": "Coralogix is among a growing number of infrastructure firms betting that as AI systems move into production, demand will rise for tools that can monitor their behavior, troubleshoot failures, and prov"
     },
     {
-      "title": "AI has a water problem. Google thinks it has a fix",
+      "title": "AI has a water problem \u2014 Google thinks it has a fix",
       "url": "https://www.theverge.com/policy/942296/google-water-commitments-data-centers",
       "source": "The Verge",
       "publishedAt": "2026-06-03T09:00:00Z",
@@ -126,107 +175,7 @@
       "source": "TechCrunch",
       "publishedAt": "2026-06-02T17:47:28Z",
       "snippet": "The class action lawsuit, filed in Seattle by Virginia resident Charles Sigwalt, claims that Ring's Familiar Faces feature stores images of passersby without consent."
-    },
-    {
-      "title": "Microsoft&#8217;s Project Solara is an OS for AI agent gadgets",
-      "url": "https://www.theverge.com/news/941830/microsoft-project-solara-os-ai-agent-gadgets",
-      "source": "The Verge",
-      "publishedAt": "2026-06-02T17:31:02Z",
-      "snippet": "Microsoft just announced \"Project Solara,\" a new OS designed for gadgets that run AI agents, at Build 2026. The company is calling it \"a new platform built from the ground up to power agent-driven exp"
-    },
-    {
-      "title": "Microsoft created the mini Surface dev box that Qualcomm couldn&#8217;t",
-      "url": "https://www.theverge.com/news/941271/microsoft-surface-rtx-spark-dev-box-specs-availability",
-      "source": "The Verge",
-      "publishedAt": "2026-06-02T16:30:00Z",
-      "snippet": "Microsoft only just announced a new Surface Laptop Ultra at the weekend, and it's now revealing a miniature Surface PC aimed at developers. The new Surface RTX Spark Dev Box is powered by Nvidia's new"
-    },
-    {
-      "title": "Trump signs narrower executive order on AI oversight after industry objections",
-      "url": "https://techcrunch.com/2026/06/02/trump-signs-narrower-executive-order-on-ai-oversight-after-industry-objections/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-02T16:23:08Z",
-      "snippet": "After industry objections, President Trump signed a revised AI executive order requiring only voluntary prerelease government reviews of advanced models."
-    },
-    {
-      "title": "OpenAI launches new Codex tools for white-collar work",
-      "url": "https://techcrunch.com/2026/06/02/openai-launches-new-codex-tools-for-white-collar-work/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-02T16:00:00Z",
-      "snippet": "OpenAI released a set of six plug-ins aimed at specific jobs: data analytics, creative production, sales, product design, equity investing, and investment banking. Available from within the Codex app,"
-    },
-    {
-      "title": "Anthropic scales Claude Mythos  to critical infrastructure in 15+ countries",
-      "url": "https://techcrunch.com/2026/06/02/anthropic-scales-claude-mythos-to-critical-infrastructure-in-15-countries/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-02T14:44:21Z",
-      "snippet": "Anthropic is expanding Project Glasswing, its security vulnerability program, and access to Mythos to 150 organizations across 15 countries \u2014 targeting critical infrastructure in power, water, healthc"
-    },
-    {
-      "title": "ZeroDrift raises $10M to protect AI models from themselves",
-      "url": "https://techcrunch.com/2026/06/02/zerodrift-raises-10-million-to-protect-ai-models-from-themselves/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-02T12:32:59Z",
-      "snippet": "A new AI compliance service sits between AI models and end users to flag and replace any messages that might present a compliance problem."
-    },
-    {
-      "title": "Rocket engine startup Impulse raises $500 million to hire people, not AI",
-      "url": "https://techcrunch.com/2026/06/02/rocket-engine-startup-impulse-raises-500-million-to-hire-people-not-ai/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-02T12:00:00Z",
-      "snippet": "Engineering physical systems still depends on human talent, according to Impulse Space president Eric Romo."
     }
   ],
-  "trending": [
-    {
-      "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
-      "displayName": "Qwen3.6 35B A3B Uncensored HauhauCS Aggressive",
-      "downloads": 2602333
-    },
-    {
-      "id": "LiquidAI/LFM2.5-8B-A1B-GGUF",
-      "displayName": "LFM2.5 8B A1B",
-      "downloads": 87045
-    },
-    {
-      "id": "SulphurAI/Sulphur-2-base",
-      "displayName": "Sulphur 2 base",
-      "downloads": 1666353
-    },
-    {
-      "id": "unsloth/Qwen3.6-27B-MTP-GGUF",
-      "displayName": "Qwen3.6 27B MTP",
-      "downloads": 1016595
-    },
-    {
-      "id": "stepfun-ai/Step-3.7-Flash-GGUF",
-      "displayName": "Step 3.7 Flash",
-      "downloads": 41522
-    },
-    {
-      "id": "Jackrong/Qwopus3.6-27B-v2-MTP-GGUF",
-      "displayName": "Qwopus3.6 27B v2 MTP",
-      "downloads": 175269
-    },
-    {
-      "id": "Jackrong/Qwopus3.6-27B-v2-GGUF",
-      "displayName": "Qwopus3.6 27B v2",
-      "downloads": 42259
-    },
-    {
-      "id": "unsloth/LFM2.5-8B-A1B-GGUF",
-      "displayName": "LFM2.5 8B A1B",
-      "downloads": 33916
-    },
-    {
-      "id": "unsloth/Qwen3.6-35B-A3B-MTP-GGUF",
-      "displayName": "Qwen3.6 35B A3B MTP",
-      "downloads": 881201
-    },
-    {
-      "id": "Jackrong/Qwopus3.5-9B-Coder-GGUF",
-      "displayName": "Qwopus3.5 9B Coder",
-      "downloads": 73299
-    }
-  ]
+  "trending": []
 }
