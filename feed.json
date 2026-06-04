@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-04T03:36:53Z",
+  "updated": "2026-06-04T08:16:40Z",
   "news": [
     {
       "title": "Lovable signs multiyear deal with Google Cloud to up usage 5x, source says",
@@ -181,52 +181,52 @@
     {
       "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
       "displayName": "Qwen3.6 35B A3B Uncensored HauhauCS Aggressive",
-      "downloads": 2602333
+      "downloads": 2646756
     },
     {
       "id": "LiquidAI/LFM2.5-8B-A1B-GGUF",
       "displayName": "LFM2.5 8B A1B",
-      "downloads": 87045
+      "downloads": 102119
     },
     {
       "id": "unsloth/gemma-4-12b-it-GGUF",
       "displayName": "gemma 4 12b",
-      "downloads": 0
+      "downloads": 62850
     },
     {
       "id": "SulphurAI/Sulphur-2-base",
       "displayName": "Sulphur 2 base",
-      "downloads": 1666353
+      "downloads": 1678259
     },
     {
       "id": "unsloth/Qwen3.6-27B-MTP-GGUF",
       "displayName": "Qwen3.6 27B MTP",
-      "downloads": 1016595
+      "downloads": 1063964
     },
     {
       "id": "stepfun-ai/Step-3.7-Flash-GGUF",
       "displayName": "Step 3.7 Flash",
-      "downloads": 41522
+      "downloads": 44434
     },
     {
       "id": "Jackrong/Qwopus3.6-27B-v2-MTP-GGUF",
       "displayName": "Qwopus3.6 27B v2 MTP",
-      "downloads": 175269
+      "downloads": 191400
     },
     {
       "id": "unsloth/LFM2.5-8B-A1B-GGUF",
       "displayName": "LFM2.5 8B A1B",
-      "downloads": 33916
+      "downloads": 38924
     },
     {
       "id": "unsloth/Qwen3.6-35B-A3B-MTP-GGUF",
       "displayName": "Qwen3.6 35B A3B MTP",
-      "downloads": 881201
+      "downloads": 904860
     },
     {
       "id": "Jackrong/Qwopus3.6-27B-v2-GGUF",
       "displayName": "Qwopus3.6 27B v2",
-      "downloads": 42259
+      "downloads": 43492
     }
   ]
 }
