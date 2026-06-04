@@ -1,12 +1,26 @@
 {
-  "updated": "2026-06-04T21:48:43Z",
+  "updated": "2026-06-04T23:05:55Z",
   "news": [
+    {
+      "title": "Ahead of its IPO, Anthropic\u2019s Daniela Amodei shrugs off doubts about AI\u2019s returns",
+      "url": "https://techcrunch.com/2026/06/04/ahead-of-its-ipo-anthropics-daniela-amodei-shrugs-off-doubts-about-ais-returns/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-04T22:43:26Z",
+      "snippet": "The AI giant's co-founder explained why the company may tap the public market for capital and why tokenmaxxing pushback isn't a concern."
+    },
+    {
+      "title": "Airbnb\u2019s Brian Chesky plans to launch a new AI lab",
+      "url": "https://techcrunch.com/2026/06/04/airbnbs-brian-chesky-plans-to-launch-a-new-ai-lab/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-04T22:29:50Z",
+      "snippet": "The Airbnb CEO said last year it hasn't struck an LLM partnership because existing products weren't quite ready."
+    },
     {
       "title": "Defense tech, AI, and fundraising take center stage at StrictlyVC Los Angeles on June 18",
       "url": "https://techcrunch.com/2026/06/04/defense-tech-ai-and-fundraising-take-center-stage-at-strictlyvc-los-angeles-on-june-18/",
       "source": "TechCrunch",
       "publishedAt": "2026-06-04T21:30:00Z",
-      "snippet": "With just two weeks to go,\u00a0StrictlyVC\u00a0Los Angeles\u00a0is quickly approaching. On Thursday, June 18, at The Aerospace Corporation Campus in El Segundo.\u00a0Investors, founders, and tech leaders will gather for"
+      "snippet": "On Thursday, June 18, at The Aerospace Corporation Campus, investors, founders, and tech leaders will gather for an evening of conversation exploring some of the most consequential shifts taking place"
     },
     {
       "title": "Meta steals a tactic from Tesla and builds data centers in tents",
@@ -156,20 +170,6 @@
       "snippet": "At Microsoft's annual Build conference on Tuesday, the company announced a slew of new or expanded AI initiatives, including a super app, in-house reasoning models, a cybersecurity tool, and OpenClaw-"
     },
     {
-      "title": "Meta\u2019s AI agent for WhatsApp Business is now available globally",
-      "url": "https://techcrunch.com/2026/06/03/metas-ai-agent-for-whatsapp-business-is-now-available-globally/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-03T13:40:00Z",
-      "snippet": "WhatsApp will charge businesses for using its AI agent based on token usage."
-    },
-    {
-      "title": "Coralogix raises $200M on bet that someone needs to watch the AI agents",
-      "url": "https://techcrunch.com/2026/06/03/coralogix-raises-200m-in-race-to-build-the-monitoring-layer-for-ai-agents/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-03T13:02:51Z",
-      "snippet": "Coralogix is among a growing number of infrastructure firms betting that as AI systems move into production, demand will rise for tools that can monitor their behavior, troubleshoot failures, and prov"
-    },
-    {
       "title": "AI has a water problem \u2014 Google thinks it has a fix",
       "url": "https://www.theverge.com/policy/942296/google-water-commitments-data-centers",
       "source": "The Verge",
@@ -219,14 +219,14 @@
       "downloads": 38924
     },
     {
-      "id": "DavidAU/Qwen3.6-40B-Claude-4.6-Opus-Deckard-Heretic-Uncensored-Thinking-NEO-CODE-Di-IMatrix-MAX-GGUF",
-      "displayName": "Qwen3.6 40B Claude 4.6 Opus Deckard Heretic Uncensored Thinking NEO CODE Di IMatrix MAX",
-      "downloads": 580226
-    },
-    {
       "id": "unsloth/Qwen3.6-35B-A3B-MTP-GGUF",
       "displayName": "Qwen3.6 35B A3B MTP",
       "downloads": 904860
+    },
+    {
+      "id": "Jackrong/Qwopus3.5-4B-Coder-MTP-GGUF",
+      "displayName": "Qwopus3.5 4B Coder MTP",
+      "downloads": 10013
     }
   ]
 }
