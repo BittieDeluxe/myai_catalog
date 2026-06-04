@@ -1,12 +1,19 @@
 {
-  "updated": "2026-06-04T19:59:41Z",
+  "updated": "2026-06-04T21:48:43Z",
   "news": [
+    {
+      "title": "Defense tech, AI, and fundraising take center stage at StrictlyVC Los Angeles on June 18",
+      "url": "https://techcrunch.com/2026/06/04/defense-tech-ai-and-fundraising-take-center-stage-at-strictlyvc-los-angeles-on-june-18/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-04T21:30:00Z",
+      "snippet": "With just two weeks to go,\u00a0StrictlyVC\u00a0Los Angeles\u00a0is quickly approaching. On Thursday, June 18, at The Aerospace Corporation Campus in El Segundo.\u00a0Investors, founders, and tech leaders will gather for"
+    },
     {
       "title": "Meta steals a tactic from Tesla and builds data centers in tents",
       "url": "https://techcrunch.com/2026/06/04/meta-steals-a-tactic-from-tesla-and-builds-data-centers-in-tents/",
       "source": "TechCrunch",
       "publishedAt": "2026-06-04T19:33:09Z",
-      "snippet": "Meta may have one found one way to slash its massive data center bill: tents."
+      "snippet": "Meta may have found one way to slash its massive data center bill: tents."
     },
     {
       "title": "Apple approves Poke as the first AI agent on its Messages for Business platform",
@@ -168,13 +175,6 @@
       "source": "The Verge",
       "publishedAt": "2026-06-03T09:00:00Z",
       "snippet": "In the face of widespread backlash to the AI data center buildout throughout the US, Google is touting its efforts to minimize the environmental impact by actually increasing water for local communiti"
-    },
-    {
-      "title": "Cyera eyes $12B valuation at 80x ARR multiple despite operating losses",
-      "url": "https://techcrunch.com/2026/06/02/cyera-eyes-12b-valuation-at-80x-arr-multiple-despite-operating-losses/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-02T22:50:56Z",
-      "snippet": "The cybersecurity company is nearing a $300 million round led by Evolution Equity Partners."
     }
   ],
   "trending": [
@@ -219,14 +219,14 @@
       "downloads": 38924
     },
     {
-      "id": "Jackrong/Qwopus3.6-27B-v2-GGUF",
-      "displayName": "Qwopus3.6 27B v2",
-      "downloads": 43492
-    },
-    {
       "id": "DavidAU/Qwen3.6-40B-Claude-4.6-Opus-Deckard-Heretic-Uncensored-Thinking-NEO-CODE-Di-IMatrix-MAX-GGUF",
       "displayName": "Qwen3.6 40B Claude 4.6 Opus Deckard Heretic Uncensored Thinking NEO CODE Di IMatrix MAX",
       "downloads": 580226
+    },
+    {
+      "id": "unsloth/Qwen3.6-35B-A3B-MTP-GGUF",
+      "displayName": "Qwen3.6 35B A3B MTP",
+      "downloads": 904860
     }
   ]
 }
