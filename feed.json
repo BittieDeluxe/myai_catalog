@@ -1,6 +1,13 @@
 {
-  "updated": "2026-06-03T22:26:19Z",
+  "updated": "2026-06-04T03:36:53Z",
   "news": [
+    {
+      "title": "Lovable signs multiyear deal with Google Cloud to up usage 5x, source says",
+      "url": "https://techcrunch.com/2026/06/03/lovable-signs-multi-year-deal-with-google-cloud-to-up-usage-5x-source-says/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-03T22:56:51Z",
+      "snippet": "Lovable and Google signed an expanded multiyear deal that involves a 5x expansion of Lovable's footprint on Google Cloud, and expanded access to Anthropic Claude."
+    },
     {
       "title": "Alphabet\u2019s record-breaking $85B raise for Google\u2019s AI business is a helluva good signal",
       "url": "https://techcrunch.com/2026/06/03/alphabets-record-breaking-85b-raise-for-googles-ai-business-is-a-helluva-good-signal/",
@@ -168,13 +175,6 @@
       "source": "TechCrunch",
       "publishedAt": "2026-06-02T18:00:00Z",
       "snippet": "The specification lets developer, compliance, and security teams define their own policies for agents to follow in portable policy files."
-    },
-    {
-      "title": "Amazon faces class action lawsuit over Ring facial-recognition feature",
-      "url": "https://techcrunch.com/2026/06/02/amazon-faces-class-action-lawsuit-over-ring-facial-recognition-feature/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-02T17:47:28Z",
-      "snippet": "The class action lawsuit, filed in Seattle by Virginia resident Charles Sigwalt, claims that Ring's Familiar Faces feature stores images of passersby without consent."
     }
   ],
   "trending": [
@@ -189,6 +189,11 @@
       "downloads": 87045
     },
     {
+      "id": "unsloth/gemma-4-12b-it-GGUF",
+      "displayName": "gemma 4 12b",
+      "downloads": 0
+    },
+    {
       "id": "SulphurAI/Sulphur-2-base",
       "displayName": "Sulphur 2 base",
       "downloads": 1666353
@@ -197,11 +202,6 @@
       "id": "unsloth/Qwen3.6-27B-MTP-GGUF",
       "displayName": "Qwen3.6 27B MTP",
       "downloads": 1016595
-    },
-    {
-      "id": "unsloth/gemma-4-12b-it-GGUF",
-      "displayName": "gemma 4 12b",
-      "downloads": 0
     },
     {
       "id": "stepfun-ai/Step-3.7-Flash-GGUF",
@@ -219,14 +219,14 @@
       "downloads": 33916
     },
     {
-      "id": "Jackrong/Qwopus3.6-27B-v2-GGUF",
-      "displayName": "Qwopus3.6 27B v2",
-      "downloads": 42259
-    },
-    {
       "id": "unsloth/Qwen3.6-35B-A3B-MTP-GGUF",
       "displayName": "Qwen3.6 35B A3B MTP",
       "downloads": 881201
+    },
+    {
+      "id": "Jackrong/Qwopus3.6-27B-v2-GGUF",
+      "displayName": "Qwopus3.6 27B v2",
+      "downloads": 42259
     }
   ]
 }
