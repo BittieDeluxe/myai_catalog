@@ -1,6 +1,27 @@
 {
-  "updated": "2026-06-04T16:51:07Z",
+  "updated": "2026-06-04T19:59:41Z",
   "news": [
+    {
+      "title": "Meta steals a tactic from Tesla and builds data centers in tents",
+      "url": "https://techcrunch.com/2026/06/04/meta-steals-a-tactic-from-tesla-and-builds-data-centers-in-tents/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-04T19:33:09Z",
+      "snippet": "Meta may have one found one way to slash its massive data center bill: tents."
+    },
+    {
+      "title": "Apple approves Poke as the first AI agent on its Messages for Business platform",
+      "url": "https://techcrunch.com/2026/06/04/apple-approves-poke-as-the-first-ai-agent-on-its-messages-for-business-platform/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-04T19:20:58Z",
+      "snippet": "Poke, the startup that lets people use AI agents through simple text messages, has become the first AI agent approved for Apple\u2019s Messages for Business platform."
+    },
+    {
+      "title": "Kevin O\u2019Leary agrees to downsize massive Utah data center",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/943234/kevin-oleary-agrees-to-downsize-massive-utah-data-center",
+      "source": "The Verge",
+      "publishedAt": "2026-06-04T18:38:04Z",
+      "snippet": "Kevin O'Leary agreed to halve the size of his planned 40,000-acre data center in Utah amid mounting pressure from residents and activists, as reported earlier by local affiliate ABC4. The Shark Tank s"
+    },
     {
       "title": "Meta rolls out a new AI creator assistant on Facebook",
       "url": "https://techcrunch.com/2026/06/04/meta-rolls-out-a-new-ai-creator-assistant-on-facebook/",
@@ -13,7 +34,7 @@
       "url": "https://techcrunch.com/2026/06/04/what-to-expect-from-wwdc-2026-siris-highly-anticipated-revamp-and-apple-intelligence-updates/",
       "source": "TechCrunch",
       "publishedAt": "2026-06-04T16:31:12Z",
-      "snippet": "Apple's WWDC nears: here's what you can look forward to."
+      "snippet": "Apple's WWDC nears: Here's what you can look forward to."
     },
     {
       "title": "Is Silicon Valley ready to put robots in people\u2019s homes? Hello Robot is.",
@@ -149,32 +170,11 @@
       "snippet": "In the face of widespread backlash to the AI data center buildout throughout the US, Google is touting its efforts to minimize the environmental impact by actually increasing water for local communiti"
     },
     {
-      "title": "Google must let publishers opt out of AI Search features, rules UK",
-      "url": "https://www.theverge.com/tech/942302/google-search-ai-overviews-uk-cma-publisher-opt-out",
-      "source": "The Verge",
-      "publishedAt": "2026-06-03T08:45:48Z",
-      "snippet": "Online publishers are getting more control over whether their websites appear in Google's AI Search features, thanks to a UK regulatory ruling. The new conduct rule imposed by the Competition and Mark"
-    },
-    {
       "title": "Cyera eyes $12B valuation at 80x ARR multiple despite operating losses",
       "url": "https://techcrunch.com/2026/06/02/cyera-eyes-12b-valuation-at-80x-arr-multiple-despite-operating-losses/",
       "source": "TechCrunch",
       "publishedAt": "2026-06-02T22:50:56Z",
       "snippet": "The cybersecurity company is nearing a $300 million round led by Evolution Equity Partners."
-    },
-    {
-      "title": "Uber caps employee AI spending after blowing through budget in 4 months",
-      "url": "https://techcrunch.com/2026/06/02/uber-caps-employee-ai-spending-after-blowing-through-budget-in-four-months/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-02T19:11:48Z",
-      "snippet": "Uber's cutback has occurred after the company had reportedly encouraged staff to use AI as much as possible."
-    },
-    {
-      "title": "New Microsoft tool lets devs spin up AI behavior tests using text descriptions",
-      "url": "https://techcrunch.com/2026/06/02/new-microsoft-tool-lets-devs-spin-up-ai-behavior-tests-using-text-descriptions/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-02T19:02:21Z",
-      "snippet": "Microsoft on Tuesday took the wraps off Adaptive Spec-driven Scoring for Evaluation and Regression Testing, an open source framework for spinning up AI evaluations."
     }
   ],
   "trending": [
@@ -194,14 +194,14 @@
       "downloads": 102119
     },
     {
-      "id": "unsloth/Qwen3.6-27B-MTP-GGUF",
-      "displayName": "Qwen3.6 27B MTP",
-      "downloads": 1063964
-    },
-    {
       "id": "SulphurAI/Sulphur-2-base",
       "displayName": "Sulphur 2 base",
       "downloads": 1678259
+    },
+    {
+      "id": "unsloth/Qwen3.6-27B-MTP-GGUF",
+      "displayName": "Qwen3.6 27B MTP",
+      "downloads": 1063964
     },
     {
       "id": "stepfun-ai/Step-3.7-Flash-GGUF",
@@ -224,9 +224,9 @@
       "downloads": 43492
     },
     {
-      "id": "unsloth/Qwen3.6-35B-A3B-MTP-GGUF",
-      "displayName": "Qwen3.6 35B A3B MTP",
-      "downloads": 904860
+      "id": "DavidAU/Qwen3.6-40B-Claude-4.6-Opus-Deckard-Heretic-Uncensored-Thinking-NEO-CODE-Di-IMatrix-MAX-GGUF",
+      "displayName": "Qwen3.6 40B Claude 4.6 Opus Deckard Heretic Uncensored Thinking NEO CODE Di IMatrix MAX",
+      "downloads": 580226
     }
   ]
 }
