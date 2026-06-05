@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-05T21:21:45Z",
+  "updated": "2026-06-05T23:03:55Z",
   "news": [
     {
       "title": "Startup Battlefield 200 applications officially close in 3 days",
@@ -177,5 +177,56 @@
       "snippet": "This week we've got tandem hands-ons with Google's new Gemini AI agent - Spark - from my colleagues David Pierce and Jay Peters. Their takeaways are similar: It's so effective that it's scary. Spark k"
     }
   ],
-  "trending": []
+  "trending": [
+    {
+      "id": "unsloth/gemma-4-12b-it-GGUF",
+      "displayName": "gemma 4 12b",
+      "downloads": 296410
+    },
+    {
+      "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
+      "displayName": "Qwen3.6 35B A3B Uncensored HauhauCS Aggressive",
+      "downloads": 2687304
+    },
+    {
+      "id": "SulphurAI/Sulphur-2-base",
+      "displayName": "Sulphur 2 base",
+      "downloads": 1691633
+    },
+    {
+      "id": "unsloth/Qwen3.6-27B-MTP-GGUF",
+      "displayName": "Qwen3.6 27B MTP",
+      "downloads": 1092323
+    },
+    {
+      "id": "LiquidAI/LFM2.5-8B-A1B-GGUF",
+      "displayName": "LFM2.5 8B A1B",
+      "downloads": 119910
+    },
+    {
+      "id": "stepfun-ai/Step-3.7-Flash-GGUF",
+      "displayName": "Step 3.7 Flash",
+      "downloads": 48366
+    },
+    {
+      "id": "Jackrong/Qwopus3.6-27B-v2-MTP-GGUF",
+      "displayName": "Qwopus3.6 27B v2 MTP",
+      "downloads": 210745
+    },
+    {
+      "id": "HauhauCS/Qwen3.5-9B-Uncensored-HauhauCS-Aggressive",
+      "displayName": "Qwen3.5 9B Uncensored HauhauCS Aggressive",
+      "downloads": 640675
+    },
+    {
+      "id": "unsloth/Qwen3.6-35B-A3B-MTP-GGUF",
+      "displayName": "Qwen3.6 35B A3B MTP",
+      "downloads": 929696
+    },
+    {
+      "id": "unsloth/LFM2.5-8B-A1B-GGUF",
+      "displayName": "LFM2.5 8B A1B",
+      "downloads": 43004
+    }
+  ]
 }
