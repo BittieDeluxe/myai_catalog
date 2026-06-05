@@ -1,6 +1,27 @@
 {
-  "updated": "2026-06-05T16:27:45Z",
+  "updated": "2026-06-05T19:48:44Z",
   "news": [
+    {
+      "title": "Google will pay SpaceX $920M per month for compute",
+      "url": "https://techcrunch.com/2026/06/05/google-will-pay-spacex-920m-per-month-for-compute/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-05T18:57:20Z",
+      "snippet": "The companies announced the deal on Friday, just one week ahead of SpaceX's historic IPO."
+    },
+    {
+      "title": "The most interesting startups right now want to get you off your phone",
+      "url": "https://techcrunch.com/video/the-most-interesting-startups-right-now-want-to-get-you-off-your-phone/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-05T17:17:06Z",
+      "snippet": "While the AI fundraising machine&#160;keeps breaking its own records, some founders are building in the other direction.&#160; Mirror founder Brynn Putnam just raised money for&#160;Board, a startup f"
+    },
+    {
+      "title": "This is your laptop\u2026 on AI",
+      "url": "https://www.theverge.com/podcast/944058/ai-laptop-nvidia-build-gemini-spark-vergecast",
+      "source": "The Verge",
+      "publishedAt": "2026-06-05T16:39:07Z",
+      "snippet": "We're now deep into developer conference season, and one of the themes so far is the relentless conviction from Big Tech companies that AI is going to change everything about how we do everything. Nvi"
+    },
     {
       "title": "New York lawmakers pass one-year ban on new data centers",
       "url": "https://www.theverge.com/policy/944041/new-york-data-center-moratorium",
@@ -14,6 +35,13 @@
       "source": "TechCrunch",
       "publishedAt": "2026-06-05T14:49:12Z",
       "snippet": "\"The whole conversation shifted from tokenmaxxing and 'go fast' to 'we need guardrails, how do we control this?'\""
+    },
+    {
+      "title": "The \u2018together tech\u2019 wave might be the most intriguing startup bet of 2026",
+      "url": "https://techcrunch.com/podcast/the-together-tech-wave-might-be-the-most-intriguing-startup-bet-of-2026/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-05T14:00:00Z",
+      "snippet": "While the AI fundraising machine&#160;keeps breaking its own records, some founders are building in the other direction.&#160; Mirror founder Brynn Putnam just raised money for&#160;Board, a startup f"
     },
     {
       "title": "This AI startup says it can tell if a script will make a hit film",
@@ -142,39 +170,11 @@
       "snippet": "Amazon has announced a new version of its fully autonomous warehouse robot, Proteus, that will interact using language instead of code. The expanded capabilities come as part of a growing pivot toward"
     },
     {
-      "title": "Lovable signs multiyear deal with Google Cloud to up usage 5x, source says",
-      "url": "https://techcrunch.com/2026/06/03/lovable-signs-multi-year-deal-with-google-cloud-to-up-usage-5x-source-says/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-03T22:56:51Z",
-      "snippet": "Lovable and Google signed an expanded multiyear deal that involves a 5x expansion of Lovable's footprint on Google Cloud, and expanded access to Anthropic Claude."
-    },
-    {
-      "title": "Alphabet\u2019s record-breaking $85B raise for Google\u2019s AI business is a helluva good signal",
-      "url": "https://techcrunch.com/2026/06/03/alphabets-record-breaking-85b-raise-for-googles-ai-business-is-a-helluva-good-signal/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-03T19:38:32Z",
-      "snippet": "If Alphabet's record-breaking $85 billion stock sale signals investor appetite for AI-related offerings, we can see that investors are ready to chow."
-    },
-    {
-      "title": "Google\u2019s Dreambeans, its weirdest-named AI tool to date, will turn your life into a cartoon",
-      "url": "https://techcrunch.com/2026/06/03/googles-dreambeans-its-weirdest-named-ai-tool-to-date-will-turn-your-life-into-a-cartoon/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-03T19:07:42Z",
-      "snippet": "Dreambeans is a curated list of AI-illustrated \"stories\" culled from the personal data in your Google account."
-    },
-    {
       "title": "As AI gets better, it reveals an empty promise",
       "url": "https://www.theverge.com/ai-artificial-intelligence/942629/as-ai-gets-better-it-reveals-an-empty-promise",
       "source": "The Verge",
       "publishedAt": "2026-06-03T17:45:35Z",
       "snippet": "This week we've got tandem hands-ons with Google's new Gemini AI agent - Spark - from my colleagues David Pierce and Jay Peters. Their takeaways are similar: It's so effective that it's scary. Spark k"
-    },
-    {
-      "title": "Amazon&#8217;s search bar will invent AI-generated products you can&#8217;t buy",
-      "url": "https://www.theverge.com/tech/942547/amazon-search-bar-ai-images",
-      "source": "The Verge",
-      "publishedAt": "2026-06-03T16:07:31Z",
-      "snippet": "Amazon's updated search bar will now show you AI-generated images of products as you describe them. For now, the in-app feature only surfaces AI images of clothing and home goods, allowing you to tap "
     }
   ],
   "trending": [
