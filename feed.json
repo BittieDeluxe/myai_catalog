@@ -1,6 +1,34 @@
 {
-  "updated": "2026-06-05T12:33:17Z",
+  "updated": "2026-06-05T16:27:45Z",
   "news": [
+    {
+      "title": "New York lawmakers pass one-year ban on new data centers",
+      "url": "https://www.theverge.com/policy/944041/new-york-data-center-moratorium",
+      "source": "The Verge",
+      "publishedAt": "2026-06-05T15:25:10Z",
+      "snippet": "The New York State legislature passed a one-year moratorium on new large data centers, the first statewide ban of its kind if Democratic Governor Kathy Hochul signs it into law. Lawmakers behind the b"
+    },
+    {
+      "title": "The token bill comes due: Inside the industry scramble to manage AI\u2019s runaway costs",
+      "url": "https://techcrunch.com/2026/06/05/the-token-bill-comes-due-inside-the-industry-scramble-to-manage-ais-runaway-costs/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-05T14:49:12Z",
+      "snippet": "\"The whole conversation shifted from tokenmaxxing and 'go fast' to 'we need guardrails, how do we control this?'\""
+    },
+    {
+      "title": "This AI startup says it can tell if a script will make a hit film",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/943531/ai-script-quilty-simon-horsman-daniel-wood",
+      "source": "The Verge",
+      "publishedAt": "2026-06-05T13:57:31Z",
+      "snippet": "When Quilty hit the industry trades earlier this year, the AI startup promised that its tool could accurately predict a film's success just by reading the script. When people actually got a chance to "
+    },
+    {
+      "title": "AirTrunk commits $30B to build 5GW of AI data centers in India",
+      "url": "https://techcrunch.com/2026/06/05/airtrunk-commits-30b-to-build-5gw-of-ai-data-centers-in-india/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-05T13:03:10Z",
+      "snippet": "The Australian data center operator plans to set up 5GW of capacity in India."
+    },
     {
       "title": "Mira Murati steps back into the spotlight, carefully",
       "url": "https://techcrunch.com/2026/06/04/mira-murati-steps-back-into-the-spotlight-carefully/",
@@ -147,46 +175,18 @@
       "source": "The Verge",
       "publishedAt": "2026-06-03T16:07:31Z",
       "snippet": "Amazon's updated search bar will now show you AI-generated images of products as you describe them. For now, the in-app feature only surfaces AI images of clothing and home goods, allowing you to tap "
-    },
-    {
-      "title": "Amazon will show AI product images when you search for some reason",
-      "url": "https://techcrunch.com/2026/06/03/amazon-will-show-ai-product-images-when-you-search-for-some-reason/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-03T15:50:26Z",
-      "snippet": "Amazon will use visual search and AI to show AI-generated product images that match your search queries. The retailer says it will help guide users to products."
-    },
-    {
-      "title": "These two founders left Goldman and Meta to build voice AI for markets everyone else overlooked",
-      "url": "https://techcrunch.com/2026/06/03/these-two-founders-left-goldman-and-meta-to-build-voice-ai-for-markets-everyone-else-overlooked/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-03T15:00:00Z",
-      "snippet": "The startup's own stack for Africa and Middle East is now handling more than 17,000 calls per day."
-    },
-    {
-      "title": "Microsoft and OpenAI broke up \u2014\u00a0now they\u2019re ready to fight",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/942242/microsoft-build-ai-agents-openai-competition",
-      "source": "The Verge",
-      "publishedAt": "2026-06-03T14:04:00Z",
-      "snippet": "At Microsoft's annual Build conference on Tuesday, the company announced a slew of new or expanded AI initiatives, including a super app, in-house reasoning models, a cybersecurity tool, and OpenClaw-"
-    },
-    {
-      "title": "AI has a water problem \u2014 Google thinks it has a fix",
-      "url": "https://www.theverge.com/policy/942296/google-water-commitments-data-centers",
-      "source": "The Verge",
-      "publishedAt": "2026-06-03T09:00:00Z",
-      "snippet": "In the face of widespread backlash to the AI data center buildout throughout the US, Google is touting its efforts to minimize the environmental impact by actually increasing water for local communiti"
     }
   ],
   "trending": [
     {
-      "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
-      "displayName": "Qwen3.6 35B A3B Uncensored HauhauCS Aggressive",
-      "downloads": 2687304
-    },
-    {
       "id": "unsloth/gemma-4-12b-it-GGUF",
       "displayName": "gemma 4 12b",
       "downloads": 296410
+    },
+    {
+      "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
+      "displayName": "Qwen3.6 35B A3B Uncensored HauhauCS Aggressive",
+      "downloads": 2687304
     },
     {
       "id": "SulphurAI/Sulphur-2-base",
@@ -214,14 +214,14 @@
       "downloads": 210745
     },
     {
-      "id": "unsloth/LFM2.5-8B-A1B-GGUF",
-      "displayName": "LFM2.5 8B A1B",
-      "downloads": 43004
-    },
-    {
       "id": "HauhauCS/Qwen3.5-9B-Uncensored-HauhauCS-Aggressive",
       "displayName": "Qwen3.5 9B Uncensored HauhauCS Aggressive",
       "downloads": 640675
+    },
+    {
+      "id": "unsloth/LFM2.5-8B-A1B-GGUF",
+      "displayName": "LFM2.5 8B A1B",
+      "downloads": 43004
     },
     {
       "id": "unsloth/Qwen3.6-35B-A3B-MTP-GGUF",
