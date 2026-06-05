@@ -1,12 +1,12 @@
 {
-  "updated": "2026-06-04T23:05:55Z",
+  "updated": "2026-06-05T02:58:54Z",
   "news": [
     {
       "title": "Ahead of its IPO, Anthropic\u2019s Daniela Amodei shrugs off doubts about AI\u2019s returns",
       "url": "https://techcrunch.com/2026/06/04/ahead-of-its-ipo-anthropics-daniela-amodei-shrugs-off-doubts-about-ais-returns/",
       "source": "TechCrunch",
       "publishedAt": "2026-06-04T22:43:26Z",
-      "snippet": "The AI giant's co-founder explained why the company may tap the public market for capital and why tokenmaxxing pushback isn't a concern."
+      "snippet": "Anthropic has been growing at a breakneck pace. The company announced that annualized revenue crossed $47 billion in May, up dramatically from roughly $9 billion at the end of 2025. That trajectory fa"
     },
     {
       "title": "Airbnb\u2019s Brian Chesky plans to launch a new AI lab",
@@ -189,14 +189,14 @@
       "downloads": 62850
     },
     {
-      "id": "LiquidAI/LFM2.5-8B-A1B-GGUF",
-      "displayName": "LFM2.5 8B A1B",
-      "downloads": 102119
-    },
-    {
       "id": "SulphurAI/Sulphur-2-base",
       "displayName": "Sulphur 2 base",
       "downloads": 1678259
+    },
+    {
+      "id": "LiquidAI/LFM2.5-8B-A1B-GGUF",
+      "displayName": "LFM2.5 8B A1B",
+      "downloads": 102119
     },
     {
       "id": "unsloth/Qwen3.6-27B-MTP-GGUF",
@@ -224,9 +224,9 @@
       "downloads": 904860
     },
     {
-      "id": "Jackrong/Qwopus3.5-4B-Coder-MTP-GGUF",
-      "displayName": "Qwopus3.5 4B Coder MTP",
-      "downloads": 10013
+      "id": "HauhauCS/Qwen3.5-9B-Uncensored-HauhauCS-Aggressive",
+      "displayName": "Qwen3.5 9B Uncensored HauhauCS Aggressive",
+      "downloads": 657165
     }
   ]
 }
