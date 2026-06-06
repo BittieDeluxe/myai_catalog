@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-06T09:59:51Z",
+  "updated": "2026-06-06T11:39:51Z",
   "news": [
     {
       "title": "Startup Battlefield 200 applications officially close in 3 days",
@@ -204,24 +204,24 @@
       "downloads": 136369
     },
     {
-      "id": "stepfun-ai/Step-3.7-Flash-GGUF",
-      "displayName": "Step 3.7 Flash",
-      "downloads": 53177
-    },
-    {
       "id": "unsloth/gemma-4-12B-it-qat-GGUF",
       "displayName": "gemma 4 12B qat",
       "downloads": 14681
     },
     {
-      "id": "Jackrong/Qwopus3.6-27B-v2-MTP-GGUF",
-      "displayName": "Qwopus3.6 27B v2 MTP",
-      "downloads": 237696
+      "id": "stepfun-ai/Step-3.7-Flash-GGUF",
+      "displayName": "Step 3.7 Flash",
+      "downloads": 53177
     },
     {
       "id": "google/gemma-4-12B-it-qat-q4_0-gguf",
       "displayName": "gemma 4 12B qat q4_0",
       "downloads": 4674
+    },
+    {
+      "id": "Jackrong/Qwopus3.6-27B-v2-MTP-GGUF",
+      "displayName": "Qwopus3.6 27B v2 MTP",
+      "downloads": 237696
     },
     {
       "id": "unsloth/gemma-4-26B-A4B-it-qat-GGUF",
