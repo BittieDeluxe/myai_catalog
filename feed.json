@@ -1,6 +1,20 @@
 {
-  "updated": "2026-06-06T13:23:12Z",
+  "updated": "2026-06-06T15:11:03Z",
   "news": [
+    {
+      "title": "The mayor of Shelbyville, Indiana, says only people who live in \u2018shitty houses\u2019 oppose data center",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/944984/shelbyville-indiana-mayor-shitty-houses-data-center",
+      "source": "The Verge",
+      "publishedAt": "2026-06-06T15:05:00Z",
+      "snippet": "A proposed $2 billion data center has become a political flashpoint in the small city of Shelbyville, Indiana. And the controversy has only grown more intense after the mayor, Scott Furgeson, was caug"
+    },
+    {
+      "title": "Meta made its own AI-generated clickbait news feed",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/944235/meta-app-ai-clickbait-articles",
+      "source": "The Verge",
+      "publishedAt": "2026-06-06T14:00:00Z",
+      "snippet": "Facebook has long been filled with feeds of clickbait articles. Now, Meta is making its own clickbait articles with AI. The standalone Meta AI app now has a \"For You\" section that populates a list of "
+    },
     {
       "title": "Here comes new Siri again",
       "url": "https://www.theverge.com/tech/944245/apple-wwdc-2026-ai-siri-gemini",
@@ -161,20 +175,6 @@
       "source": "The Verge",
       "publishedAt": "2026-06-04T12:30:00Z",
       "snippet": "It's almost impossible to avoid seeing AI-generated content online, but it doesn't have to be this way. YouTube, Instagram, TikTok, and more have ramped up content authentication efforts over the last"
-    },
-    {
-      "title": "AI leaders call for tougher protections against AI-aided bioweapons",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/942956/ai-biological-weapons-open-letter-congress",
-      "source": "The Verge",
-      "publishedAt": "2026-06-04T12:12:12Z",
-      "snippet": "Some of the AI industry's biggest rivals have put their many, many grievances aside for a common cause: making it harder for people to use their technology to develop biological weapons. In an open le"
-    },
-    {
-      "title": "Amazon develops a warehouse robot that workers can speak to",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/942884/amazon-next-generation-warehouse-robot-proteus",
-      "source": "The Verge",
-      "publishedAt": "2026-06-04T09:31:14Z",
-      "snippet": "Amazon has announced a new version of its fully autonomous warehouse robot, Proteus, that will interact using language instead of code. The expanded capabilities come as part of a growing pivot toward"
     }
   ],
   "trending": [
@@ -209,9 +209,9 @@
       "downloads": 14681
     },
     {
-      "id": "stepfun-ai/Step-3.7-Flash-GGUF",
-      "displayName": "Step 3.7 Flash",
-      "downloads": 53177
+      "id": "google/gemma-4-12B-it-qat-q4_0-gguf",
+      "displayName": "gemma 4 12B qat q4_0",
+      "downloads": 4674
     },
     {
       "id": "unsloth/gemma-4-26B-A4B-it-qat-GGUF",
@@ -219,9 +219,9 @@
       "downloads": 28372
     },
     {
-      "id": "google/gemma-4-12B-it-qat-q4_0-gguf",
-      "displayName": "gemma 4 12B qat q4_0",
-      "downloads": 4674
+      "id": "stepfun-ai/Step-3.7-Flash-GGUF",
+      "displayName": "Step 3.7 Flash",
+      "downloads": 53177
     },
     {
       "id": "Jackrong/Qwopus3.6-27B-v2-MTP-GGUF",
