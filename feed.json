@@ -1,6 +1,13 @@
 {
-  "updated": "2026-06-06T15:11:03Z",
+  "updated": "2026-06-06T17:06:56Z",
   "news": [
+    {
+      "title": "The Trump administration might take an equity stake in OpenAI",
+      "url": "https://techcrunch.com/2026/06/06/the-trump-administration-might-take-an-equity-stake-in-openai/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-06T16:17:21Z",
+      "snippet": "President Donald Trump said he's discussing deals \"where the American people can benefit from the success of AI.\""
+    },
     {
       "title": "The mayor of Shelbyville, Indiana, says only people who live in \u2018shitty houses\u2019 oppose data center",
       "url": "https://www.theverge.com/ai-artificial-intelligence/944984/shelbyville-indiana-mayor-shitty-houses-data-center",
@@ -149,13 +156,6 @@
       "snippet": "Apple's WWDC nears: Here's what you can look forward to."
     },
     {
-      "title": "Is Silicon Valley ready to put robots in people\u2019s homes? Hello Robot is.",
-      "url": "https://techcrunch.com/2026/06/04/is-silicon-valley-ready-to-put-robots-in-peoples-homes-hello-robot-is/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-04T15:05:00Z",
-      "snippet": "The California startup released the fourth-generation of its home assistance robot, Stretch."
-    },
-    {
       "title": "TSMC struggles to keep up with AI demand: &#8216;We can only support so much&#8217;",
       "url": "https://www.theverge.com/tech/943066/tsmc-ai-demand-struggles",
       "source": "The Verge",
@@ -177,56 +177,5 @@
       "snippet": "It's almost impossible to avoid seeing AI-generated content online, but it doesn't have to be this way. YouTube, Instagram, TikTok, and more have ramped up content authentication efforts over the last"
     }
   ],
-  "trending": [
-    {
-      "id": "unsloth/gemma-4-12b-it-GGUF",
-      "displayName": "gemma 4 12b",
-      "downloads": 458174
-    },
-    {
-      "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
-      "displayName": "Qwen3.6 35B A3B Uncensored HauhauCS Aggressive",
-      "downloads": 2771843
-    },
-    {
-      "id": "SulphurAI/Sulphur-2-base",
-      "displayName": "Sulphur 2 base",
-      "downloads": 1704964
-    },
-    {
-      "id": "unsloth/Qwen3.6-27B-MTP-GGUF",
-      "displayName": "Qwen3.6 27B MTP",
-      "downloads": 1122805
-    },
-    {
-      "id": "LiquidAI/LFM2.5-8B-A1B-GGUF",
-      "displayName": "LFM2.5 8B A1B",
-      "downloads": 136369
-    },
-    {
-      "id": "unsloth/gemma-4-12B-it-qat-GGUF",
-      "displayName": "gemma 4 12B qat",
-      "downloads": 14681
-    },
-    {
-      "id": "google/gemma-4-12B-it-qat-q4_0-gguf",
-      "displayName": "gemma 4 12B qat q4_0",
-      "downloads": 4674
-    },
-    {
-      "id": "unsloth/gemma-4-26B-A4B-it-qat-GGUF",
-      "displayName": "gemma 4 26B A4B qat",
-      "downloads": 28372
-    },
-    {
-      "id": "stepfun-ai/Step-3.7-Flash-GGUF",
-      "displayName": "Step 3.7 Flash",
-      "downloads": 53177
-    },
-    {
-      "id": "Jackrong/Qwopus3.6-27B-v2-MTP-GGUF",
-      "displayName": "Qwopus3.6 27B v2 MTP",
-      "downloads": 237696
-    }
-  ]
+  "trending": []
 }
