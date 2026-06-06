@@ -1,6 +1,13 @@
 {
-  "updated": "2026-06-06T11:39:51Z",
+  "updated": "2026-06-06T13:23:12Z",
   "news": [
+    {
+      "title": "Here comes new Siri again",
+      "url": "https://www.theverge.com/tech/944245/apple-wwdc-2026-ai-siri-gemini",
+      "source": "The Verge",
+      "publishedAt": "2026-06-06T12:00:00Z",
+      "snippet": "Apple has been on its back foot, AI-wise, for the past few years. But in a strange way, playing from behind might not be such a bad move. At WWDC on Monday, Apple appears to be getting ready to reintr"
+    },
     {
       "title": "Startup Battlefield 200 applications officially close in 3 days",
       "url": "https://techcrunch.com/2026/06/05/startup-battlefield-200-applications-officially-close-in-3-days/",
@@ -168,13 +175,6 @@
       "source": "The Verge",
       "publishedAt": "2026-06-04T09:31:14Z",
       "snippet": "Amazon has announced a new version of its fully autonomous warehouse robot, Proteus, that will interact using language instead of code. The expanded capabilities come as part of a growing pivot toward"
-    },
-    {
-      "title": "As AI gets better, it reveals an empty promise",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/942629/as-ai-gets-better-it-reveals-an-empty-promise",
-      "source": "The Verge",
-      "publishedAt": "2026-06-03T17:45:35Z",
-      "snippet": "This week we've got tandem hands-ons with Google's new Gemini AI agent - Spark - from my colleagues David Pierce and Jay Peters. Their takeaways are similar: It's so effective that it's scary. Spark k"
     }
   ],
   "trending": [
@@ -214,6 +214,11 @@
       "downloads": 53177
     },
     {
+      "id": "unsloth/gemma-4-26B-A4B-it-qat-GGUF",
+      "displayName": "gemma 4 26B A4B qat",
+      "downloads": 28372
+    },
+    {
       "id": "google/gemma-4-12B-it-qat-q4_0-gguf",
       "displayName": "gemma 4 12B qat q4_0",
       "downloads": 4674
@@ -222,11 +227,6 @@
       "id": "Jackrong/Qwopus3.6-27B-v2-MTP-GGUF",
       "displayName": "Qwopus3.6 27B v2 MTP",
       "downloads": 237696
-    },
-    {
-      "id": "unsloth/gemma-4-26B-A4B-it-qat-GGUF",
-      "displayName": "gemma 4 26B A4B qat",
-      "downloads": 28372
     }
   ]
 }
