@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-06T06:49:48Z",
+  "updated": "2026-06-06T09:59:51Z",
   "news": [
     {
       "title": "Startup Battlefield 200 applications officially close in 3 days",
@@ -177,5 +177,56 @@
       "snippet": "This week we've got tandem hands-ons with Google's new Gemini AI agent - Spark - from my colleagues David Pierce and Jay Peters. Their takeaways are similar: It's so effective that it's scary. Spark k"
     }
   ],
-  "trending": []
+  "trending": [
+    {
+      "id": "unsloth/gemma-4-12b-it-GGUF",
+      "displayName": "gemma 4 12b",
+      "downloads": 458174
+    },
+    {
+      "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
+      "displayName": "Qwen3.6 35B A3B Uncensored HauhauCS Aggressive",
+      "downloads": 2771843
+    },
+    {
+      "id": "SulphurAI/Sulphur-2-base",
+      "displayName": "Sulphur 2 base",
+      "downloads": 1704964
+    },
+    {
+      "id": "unsloth/Qwen3.6-27B-MTP-GGUF",
+      "displayName": "Qwen3.6 27B MTP",
+      "downloads": 1122805
+    },
+    {
+      "id": "LiquidAI/LFM2.5-8B-A1B-GGUF",
+      "displayName": "LFM2.5 8B A1B",
+      "downloads": 136369
+    },
+    {
+      "id": "stepfun-ai/Step-3.7-Flash-GGUF",
+      "displayName": "Step 3.7 Flash",
+      "downloads": 53177
+    },
+    {
+      "id": "unsloth/gemma-4-12B-it-qat-GGUF",
+      "displayName": "gemma 4 12B qat",
+      "downloads": 14681
+    },
+    {
+      "id": "Jackrong/Qwopus3.6-27B-v2-MTP-GGUF",
+      "displayName": "Qwopus3.6 27B v2 MTP",
+      "downloads": 237696
+    },
+    {
+      "id": "google/gemma-4-12B-it-qat-q4_0-gguf",
+      "displayName": "gemma 4 12B qat q4_0",
+      "downloads": 4674
+    },
+    {
+      "id": "unsloth/gemma-4-26B-A4B-it-qat-GGUF",
+      "displayName": "gemma 4 26B A4B qat",
+      "downloads": 28372
+    }
+  ]
 }
