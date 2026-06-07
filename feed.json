@@ -1,6 +1,13 @@
 {
-  "updated": "2026-06-07T19:16:14Z",
+  "updated": "2026-06-07T21:07:35Z",
   "news": [
+    {
+      "title": "Is this the dawn of the Tokenpocalypse?",
+      "url": "https://techcrunch.com/2026/06/07/is-this-the-dawn-of-the-tokenpocalypse/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-07T20:26:13Z",
+      "snippet": "We're likely to see more price increases as the big AI companies plan to go public."
+    },
     {
       "title": "Notion restores access to Anthropic after service disruption",
       "url": "https://techcrunch.com/2026/06/07/notion-restores-access-to-anthropic-after-service-disruption/",
@@ -147,13 +154,6 @@
       "source": "TechCrunch",
       "publishedAt": "2026-06-04T22:43:26Z",
       "snippet": "Anthropic has been growing at a breakneck pace. The company announced that annualized revenue crossed $47 billion in May, up dramatically from roughly $9 billion at the end of 2025. That trajectory fa"
-    },
-    {
-      "title": "Airbnb\u2019s Brian Chesky plans to launch a new AI lab",
-      "url": "https://techcrunch.com/2026/06/04/airbnbs-brian-chesky-plans-to-launch-a-new-ai-lab/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-04T22:29:50Z",
-      "snippet": "The Airbnb CEO said last year it hasn't struck an LLM partnership because existing products weren't quite ready."
     },
     {
       "title": "Kevin O\u2019Leary agrees to downsize massive Utah data center",
