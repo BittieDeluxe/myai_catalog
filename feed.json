@@ -1,6 +1,13 @@
 {
-  "updated": "2026-06-07T15:21:51Z",
+  "updated": "2026-06-07T17:11:35Z",
   "news": [
+    {
+      "title": "OpenAI is still working on that \u2018super app\u2019",
+      "url": "https://techcrunch.com/2026/06/07/openai-is-still-working-on-that-super-app/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-07T16:23:22Z",
+      "snippet": "\"Chat is dead\" \u2014 at least, according to a senior OpenAI employee."
+    },
     {
       "title": "AI \u2018content creators\u2019 are getting harder to spot",
       "url": "https://www.theverge.com/ai-artificial-intelligence/943187/ai-content-creators",
@@ -147,13 +154,6 @@
       "source": "TechCrunch",
       "publishedAt": "2026-06-04T21:30:00Z",
       "snippet": "On Thursday, June 18, at The Aerospace Corporation Campus, investors, founders, and tech leaders will gather for an evening of conversation exploring some of the most consequential shifts taking place"
-    },
-    {
-      "title": "Meta steals a tactic from Tesla and builds data centers in tents",
-      "url": "https://techcrunch.com/2026/06/04/meta-steals-a-tactic-from-tesla-and-builds-data-centers-in-tents/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-04T19:33:09Z",
-      "snippet": "Meta may have found one way to slash its massive data center bill: tents."
     },
     {
       "title": "Kevin O\u2019Leary agrees to downsize massive Utah data center",
