@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-07T07:50:58Z",
+  "updated": "2026-06-07T10:25:08Z",
   "news": [
     {
       "title": "OpenAI unveils Lockdown Mode to protect sensitive data from prompt injection attacks",
@@ -177,5 +177,56 @@
       "snippet": "It's almost impossible to avoid seeing AI-generated content online, but it doesn't have to be this way. YouTube, Instagram, TikTok, and more have ramped up content authentication efforts over the last"
     }
   ],
-  "trending": []
+  "trending": [
+    {
+      "id": "unsloth/gemma-4-12b-it-GGUF",
+      "displayName": "gemma 4 12b",
+      "downloads": 568158
+    },
+    {
+      "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
+      "displayName": "Qwen3.6 35B A3B Uncensored HauhauCS Aggressive",
+      "downloads": 2923564
+    },
+    {
+      "id": "SulphurAI/Sulphur-2-base",
+      "displayName": "Sulphur 2 base",
+      "downloads": 1715710
+    },
+    {
+      "id": "unsloth/gemma-4-12B-it-qat-GGUF",
+      "displayName": "gemma 4 12B qat",
+      "downloads": 85842
+    },
+    {
+      "id": "unsloth/Qwen3.6-27B-MTP-GGUF",
+      "displayName": "Qwen3.6 27B MTP",
+      "downloads": 1150295
+    },
+    {
+      "id": "LiquidAI/LFM2.5-8B-A1B-GGUF",
+      "displayName": "LFM2.5 8B A1B",
+      "downloads": 150487
+    },
+    {
+      "id": "unsloth/gemma-4-26B-A4B-it-qat-GGUF",
+      "displayName": "gemma 4 26B A4B qat",
+      "downloads": 60001
+    },
+    {
+      "id": "google/gemma-4-12B-it-qat-q4_0-gguf",
+      "displayName": "gemma 4 12B qat q4_0",
+      "downloads": 25077
+    },
+    {
+      "id": "HauhauCS/Qwen3.5-9B-Uncensored-HauhauCS-Aggressive",
+      "displayName": "Qwen3.5 9B Uncensored HauhauCS Aggressive",
+      "downloads": 629944
+    },
+    {
+      "id": "stepfun-ai/Step-3.7-Flash-GGUF",
+      "displayName": "Step 3.7 Flash",
+      "downloads": 54812
+    }
+  ]
 }
