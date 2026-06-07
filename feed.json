@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-07T13:44:16Z",
+  "updated": "2026-06-07T15:21:51Z",
   "news": [
     {
       "title": "AI \u2018content creators\u2019 are getting harder to spot",
@@ -189,14 +189,14 @@
       "downloads": 2923564
     },
     {
-      "id": "SulphurAI/Sulphur-2-base",
-      "displayName": "Sulphur 2 base",
-      "downloads": 1715710
-    },
-    {
       "id": "unsloth/gemma-4-12B-it-qat-GGUF",
       "displayName": "gemma 4 12B qat",
       "downloads": 85842
+    },
+    {
+      "id": "SulphurAI/Sulphur-2-base",
+      "displayName": "Sulphur 2 base",
+      "downloads": 1715710
     },
     {
       "id": "unsloth/Qwen3.6-27B-MTP-GGUF",
@@ -224,9 +224,9 @@
       "downloads": 629944
     },
     {
-      "id": "google/gemma-4-31B-it-qat-q4_0-gguf",
-      "displayName": "gemma 4 31B qat q4_0",
-      "downloads": 8774
+      "id": "ggml-org/gemma-4-12B-it-GGUF",
+      "displayName": "gemma 4 12B",
+      "downloads": 144624
     }
   ]
 }
