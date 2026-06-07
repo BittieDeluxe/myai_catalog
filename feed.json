@@ -1,6 +1,13 @@
 {
-  "updated": "2026-06-07T10:25:08Z",
+  "updated": "2026-06-07T13:44:16Z",
   "news": [
+    {
+      "title": "AI \u2018content creators\u2019 are getting harder to spot",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/943187/ai-content-creators",
+      "source": "The Verge",
+      "publishedAt": "2026-06-07T12:00:00Z",
+      "snippet": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on AI confusion, follow Robert Hart. The Stepback arrives in our subscribers' inboxes at 8AM E"
+    },
     {
       "title": "OpenAI unveils Lockdown Mode to protect sensitive data from prompt injection attacks",
       "url": "https://techcrunch.com/2026/06/06/openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-attacks/",
@@ -168,13 +175,6 @@
       "source": "The Verge",
       "publishedAt": "2026-06-04T14:00:00Z",
       "snippet": "Today on Decoder, I\u2019m talking to Ryan Mac, a technology reporter at The New York Times and coauthor of the excellent book Character Limit: How Elon Musk Destroyed Twitter, which came out in 2024. I ca"
-    },
-    {
-      "title": "Let us filter AI slop, you cowards",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/942909/let-us-filter-ai-slop-google-youtube-meta-instagram-tiktok",
-      "source": "The Verge",
-      "publishedAt": "2026-06-04T12:30:00Z",
-      "snippet": "It's almost impossible to avoid seeing AI-generated content online, but it doesn't have to be this way. YouTube, Instagram, TikTok, and more have ramped up content authentication efforts over the last"
     }
   ],
   "trending": [
@@ -204,11 +204,6 @@
       "downloads": 1150295
     },
     {
-      "id": "LiquidAI/LFM2.5-8B-A1B-GGUF",
-      "displayName": "LFM2.5 8B A1B",
-      "downloads": 150487
-    },
-    {
       "id": "unsloth/gemma-4-26B-A4B-it-qat-GGUF",
       "displayName": "gemma 4 26B A4B qat",
       "downloads": 60001
@@ -219,14 +214,19 @@
       "downloads": 25077
     },
     {
+      "id": "LiquidAI/LFM2.5-8B-A1B-GGUF",
+      "displayName": "LFM2.5 8B A1B",
+      "downloads": 150487
+    },
+    {
       "id": "HauhauCS/Qwen3.5-9B-Uncensored-HauhauCS-Aggressive",
       "displayName": "Qwen3.5 9B Uncensored HauhauCS Aggressive",
       "downloads": 629944
     },
     {
-      "id": "stepfun-ai/Step-3.7-Flash-GGUF",
-      "displayName": "Step 3.7 Flash",
-      "downloads": 54812
+      "id": "google/gemma-4-31B-it-qat-q4_0-gguf",
+      "displayName": "gemma 4 31B qat q4_0",
+      "downloads": 8774
     }
   ]
 }
