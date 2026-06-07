@@ -1,6 +1,13 @@
 {
-  "updated": "2026-06-07T17:11:35Z",
+  "updated": "2026-06-07T19:16:14Z",
   "news": [
+    {
+      "title": "Notion restores access to Anthropic after service disruption",
+      "url": "https://techcrunch.com/2026/06/07/notion-restores-access-to-anthropic-after-service-disruption/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-07T17:56:22Z",
+      "snippet": "Notion's head of product said he was \"astonished\" at \u201cthe amount of people RT-ing this.\""
+    },
     {
       "title": "OpenAI is still working on that \u2018super app\u2019",
       "url": "https://techcrunch.com/2026/06/07/openai-is-still-working-on-that-super-app/",
@@ -147,13 +154,6 @@
       "source": "TechCrunch",
       "publishedAt": "2026-06-04T22:29:50Z",
       "snippet": "The Airbnb CEO said last year it hasn't struck an LLM partnership because existing products weren't quite ready."
-    },
-    {
-      "title": "Defense tech, AI, and fundraising take center stage at StrictlyVC Los Angeles on June 18",
-      "url": "https://techcrunch.com/2026/06/04/defense-tech-ai-and-fundraising-take-center-stage-at-strictlyvc-los-angeles-on-june-18/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-04T21:30:00Z",
-      "snippet": "On Thursday, June 18, at The Aerospace Corporation Campus, investors, founders, and tech leaders will gather for an evening of conversation exploring some of the most consequential shifts taking place"
     },
     {
       "title": "Kevin O\u2019Leary agrees to downsize massive Utah data center",
