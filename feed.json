@@ -1,6 +1,83 @@
 {
-  "updated": "2026-06-08T18:22:20Z",
+  "updated": "2026-06-08T21:47:07Z",
   "news": [
+    {
+      "title": "OpenAI files for IPO, following Anthropic",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/946335/openai-ipo-s-1-confidential",
+      "source": "The Verge",
+      "publishedAt": "2026-06-08T21:38:29Z",
+      "snippet": "OpenAI on Monday checked off a preliminary step in the IPO race that it and rival Anthropic have been competing in for the better part of a year: The company announced it has confidentially submitted "
+    },
+    {
+      "title": "Following Anthropic, OpenAI files confidentially for IPO",
+      "url": "https://techcrunch.com/2026/06/08/following-anthropic-openai-files-confidentially-for-ipo/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-08T21:29:57Z",
+      "snippet": "The filing comes a little more than a week after its main rival, Anthropic, also filed to go public, ramping up the race between the two AI firms."
+    },
+    {
+      "title": "Apple plays catch-up at WWDC",
+      "url": "https://techcrunch.com/2026/06/08/apple-plays-catch-up-at-wwdc/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-08T21:15:42Z",
+      "snippet": "Apple spent much of its WWDC keynote highlighting fixes, performance improvements, and long-requested features before unveiling its upgraded AI-powered Siri, signaling that the company wants users to "
+    },
+    {
+      "title": "Apple bets cheaper AI will woo small developers",
+      "url": "https://techcrunch.com/2026/06/08/apple-bets-cheaper-ai-will-woo-small-developers/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-08T20:53:55Z",
+      "snippet": "As AI experimentation grows more expensive, Apple is waiving cloud API costs for developers with fewer than 2 million first-time App Store downloads."
+    },
+    {
+      "title": "WWDC 2026: Everything announced on Siri AI, iOS 27, Apple Intelligence and more",
+      "url": "https://techcrunch.com/2026/06/08/wwdc-2026-everything-announced-on-siri-ai-os-27-apple-intelligence-and-more/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-08T19:41:32Z",
+      "snippet": "Apple primarily made the case for an improved experience with its longstanding Siri assistant, which like most other announcements had a hefty helping of AI."
+    },
+    {
+      "title": "Apple just taught your iPhone to finish your sentences, your photos, and your workflows",
+      "url": "https://techcrunch.com/2026/06/08/apple-just-taught-your-iphone-to-finish-your-sentences-your-photos-and-your-workflows/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-08T18:48:45Z",
+      "snippet": "Apple is adding new AI-powered features to Safari, Shortcuts, and Password apps."
+    },
+    {
+      "title": "Apple will let you build workflows using AI in its new Shortcuts app",
+      "url": "https://techcrunch.com/2026/06/08/apple-will-let-you-build-workflows-using-ai-in-its-new-shortcuts-app/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-08T18:45:12Z",
+      "snippet": "Shortcuts gets an AI upgrade, letting you describe the workflow you want in a prompt."
+    },
+    {
+      "title": "Apple\u2019s Image Playground doesn\u2019t suck anymore",
+      "url": "https://techcrunch.com/2026/06/08/apples-image-playground-doesnt-suck-anymore/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-08T18:38:07Z",
+      "snippet": "Apple's AI image generator is getting a makeover that could make it more competitive."
+    },
+    {
+      "title": "Apple\u2019s Photos app is getting new AI editing features",
+      "url": "https://techcrunch.com/2026/06/08/apples-photos-app-is-getting-new-ai-editing-features/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-08T18:36:04Z",
+      "snippet": "A new spatial \"Reframe\" feature will let users use AI to adjust perspectives."
+    },
+    {
+      "title": "Apple gives Siri its own dedicated app",
+      "url": "https://techcrunch.com/2026/06/08/apple-gives-siri-its-own-dedicated-app/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-08T18:33:42Z",
+      "snippet": "Siri is finally getting its own app."
+    },
+    {
+      "title": "Apple is fixing the headache of splitting the bill with its new Siri in Camera feature",
+      "url": "https://techcrunch.com/2026/06/08/apple-is-fixing-the-headache-of-splitting-the-bill-with-its-new-siri-in-camera-feature/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-08T18:23:04Z",
+      "snippet": "\"If you're grabbing a bite with friends and point your iPhone at the bill, then [you can] select what you ordered to split the tab with Apple Cash,\" said Apple VP of Software Sebastien Marineau-Mes."
+    },
     {
       "title": "Apple\u2019s long-awaited AI Siri overhaul is finally here",
       "url": "https://techcrunch.com/2026/06/08/apples-long-awaited-ai-siri-overhaul-is-finally-here/",
@@ -14,13 +91,6 @@
       "source": "The Verge",
       "publishedAt": "2026-06-08T17:52:51Z",
       "snippet": "Amazon is expanding its print-on-demand features to AI-generated designs created using Alexa for Shopping for products like T-shirts, water bottles, and hoodies. Shoppers can use text prompts to gener"
-    },
-    {
-      "title": "WWDC 2026: Everything announced on Siri AI, iOS 27, Apple Intelligence and more",
-      "url": "https://techcrunch.com/2026/06/08/wwdc-2026-everything-announced-on-siri-ai-os-27-apple-intelligence-and-more/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-08T17:42:26Z",
-      "snippet": "Apple&#8217;s WWDC 2026 event kicked off this morning at 10 a.m. PT at Apple Park, starting a week full of expected announcements around Siri, iOS 27, Apple Intelligence and more, along with developer"
     },
     {
       "title": "Apple announces Siri AI and its next generation of Apple Intelligence",
@@ -79,39 +149,11 @@
       "snippet": "Notion's head of product said he was \"astonished\" at \u201cthe amount of people RT-ing this.\""
     },
     {
-      "title": "OpenAI is still working on that \u2018super app\u2019",
-      "url": "https://techcrunch.com/2026/06/07/openai-is-still-working-on-that-super-app/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-07T16:23:22Z",
-      "snippet": "\"Chat is dead\" \u2014 at least, according to a senior OpenAI employee."
-    },
-    {
       "title": "AI \u2018content creators\u2019 are getting harder to spot",
       "url": "https://www.theverge.com/ai-artificial-intelligence/943187/ai-content-creators",
       "source": "The Verge",
       "publishedAt": "2026-06-07T12:00:00Z",
       "snippet": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on AI confusion, follow Robert Hart. The Stepback arrives in our subscribers' inboxes at 8AM E"
-    },
-    {
-      "title": "OpenAI unveils Lockdown Mode to protect sensitive data from prompt injection attacks",
-      "url": "https://techcrunch.com/2026/06/06/openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-attacks/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-06T20:32:24Z",
-      "snippet": "Even with Lockdown Mode, ChatGPT could be vulnerable to prompt injections, but the goal is to reduce the likelihood that sensitive data gets shared in the process."
-    },
-    {
-      "title": "Sriram Krishnan is leaving his role as White House AI advisor",
-      "url": "https://techcrunch.com/2026/06/06/sriram-krishnan-is-leaving-his-role-as-white-house-ai-advisor/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-06T17:42:15Z",
-      "snippet": "Krishnan is reportedly starting a new institution to continue shaping Trump's AI policy."
-    },
-    {
-      "title": "The Trump administration might take an equity stake in OpenAI",
-      "url": "https://techcrunch.com/2026/06/06/the-trump-administration-might-take-an-equity-stake-in-openai/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-06T16:17:21Z",
-      "snippet": "President Donald Trump said he's discussing deals \"where the American people can benefit from the success of AI.\""
     },
     {
       "title": "The mayor of Shelbyville, Indiana, says only people who live in \u2018shitty houses\u2019 oppose data center",
@@ -133,48 +175,6 @@
       "source": "The Verge",
       "publishedAt": "2026-06-06T12:00:00Z",
       "snippet": "Apple has been on its back foot, AI-wise, for the past few years. But in a strange way, playing from behind might not be such a bad move. At WWDC on Monday, Apple appears to be getting ready to reintr"
-    },
-    {
-      "title": "Startup Battlefield 200 applications officially close in 3 days",
-      "url": "https://techcrunch.com/2026/06/05/startup-battlefield-200-applications-officially-close-in-3-days/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-05T20:00:00Z",
-      "snippet": "Applications for Startup Battlefield 200 officially close on June 8, 11:59 p.m. PT. Don't wait any longer. Secure your shot at competing on the Disrupt Stage at TechCrunch Disrupt 2026 this October at"
-    },
-    {
-      "title": "Google will pay SpaceX $920M per month for compute",
-      "url": "https://techcrunch.com/2026/06/05/google-will-pay-spacex-920m-per-month-for-compute/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-05T18:57:20Z",
-      "snippet": "In a statement, a Google representative described the deal as a result of unexpected demand for its recently launched AI products."
-    },
-    {
-      "title": "The most interesting startups right now want to get you off your phone",
-      "url": "https://techcrunch.com/video/the-most-interesting-startups-right-now-want-to-get-you-off-your-phone/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-05T17:17:06Z",
-      "snippet": "While the AI fundraising machine&#160;keeps breaking its own records, some founders are building in the other direction.&#160; Mirror founder Brynn Putnam just raised money for&#160;Board, a startup f"
-    },
-    {
-      "title": "This is your laptop\u2026 on AI",
-      "url": "https://www.theverge.com/podcast/944058/ai-laptop-nvidia-build-gemini-spark-vergecast",
-      "source": "The Verge",
-      "publishedAt": "2026-06-05T16:39:07Z",
-      "snippet": "We're now deep into developer conference season, and one of the themes so far is the relentless conviction from Big Tech companies that AI is going to change everything about how we do everything. Nvi"
-    },
-    {
-      "title": "The token bill comes due: Inside the industry scramble to manage AI\u2019s runaway costs",
-      "url": "https://techcrunch.com/2026/06/05/the-token-bill-comes-due-inside-the-industry-scramble-to-manage-ais-runaway-costs/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-05T14:49:12Z",
-      "snippet": "\"The whole conversation shifted from tokenmaxxing and 'go fast' to 'we need guardrails, how do we control this?'\""
-    },
-    {
-      "title": "The \u2018together tech\u2019 wave might be the most intriguing startup bet of 2026",
-      "url": "https://techcrunch.com/podcast/the-together-tech-wave-might-be-the-most-intriguing-startup-bet-of-2026/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-05T14:00:00Z",
-      "snippet": "While the AI fundraising machine&#160;keeps breaking its own records, some founders are building in the other direction.&#160; Mirror founder Brynn Putnam just raised money for&#160;Board, a startup f"
     }
   ],
   "trending": [
@@ -224,9 +224,9 @@
       "downloads": 162930
     },
     {
-      "id": "HauhauCS/Qwen3.5-9B-Uncensored-HauhauCS-Aggressive",
-      "displayName": "Qwen3.5 9B Uncensored HauhauCS Aggressive",
-      "downloads": 626754
+      "id": "unsloth/gemma-4-31B-it-qat-GGUF",
+      "displayName": "gemma 4 31B qat",
+      "downloads": 45612
     }
   ]
 }
