@@ -1,6 +1,55 @@
 {
-  "updated": "2026-06-08T14:02:47Z",
+  "updated": "2026-06-08T18:22:20Z",
   "news": [
+    {
+      "title": "Apple\u2019s long-awaited AI Siri overhaul is finally here",
+      "url": "https://techcrunch.com/2026/06/08/apples-long-awaited-ai-siri-overhaul-is-finally-here/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-08T17:56:21Z",
+      "snippet": "The idea behind the new \"Siri AI\" is to turn the assistant from a voice controlled assistant into an AI companion that can do a lot more."
+    },
+    {
+      "title": "Amazon is launching AI-generated custom merch",
+      "url": "https://www.theverge.com/news/945905/amazon-alexa-shopping-ai-generated-custom-merch-design-printing",
+      "source": "The Verge",
+      "publishedAt": "2026-06-08T17:52:51Z",
+      "snippet": "Amazon is expanding its print-on-demand features to AI-generated designs created using Alexa for Shopping for products like T-shirts, water bottles, and hoodies. Shoppers can use text prompts to gener"
+    },
+    {
+      "title": "WWDC 2026: Everything announced on Siri AI, iOS 27, Apple Intelligence and more",
+      "url": "https://techcrunch.com/2026/06/08/wwdc-2026-everything-announced-on-siri-ai-os-27-apple-intelligence-and-more/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-08T17:42:26Z",
+      "snippet": "Apple&#8217;s WWDC 2026 event kicked off this morning at 10 a.m. PT at Apple Park, starting a week full of expected announcements around Siri, iOS 27, Apple Intelligence and more, along with developer"
+    },
+    {
+      "title": "Apple announces Siri AI and its next generation of Apple Intelligence",
+      "url": "https://www.theverge.com/tech/942416/apple-siri-ai-update-wwdc",
+      "source": "The Verge",
+      "publishedAt": "2026-06-08T17:34:24Z",
+      "snippet": "Two years after first revealing its plans for Apple Intelligence and a smarter Siri that never fully materialized, at WWDC, Apple just revealed a new set of AI features and a smarter, more personalize"
+    },
+    {
+      "title": "NotebookLM&#8217;s Gemini 3.5 upgrade adds a cloud computer and help finding sources",
+      "url": "https://www.theverge.com/tech/944325/google-notebooklm-ai-gemini-update",
+      "source": "The Verge",
+      "publishedAt": "2026-06-08T16:00:00Z",
+      "snippet": "Google is rolling out \"across the board\" updates to NotebookLM. The AI-powered note-taking app now uses Google's upgraded Gemini 3.5 model, which will allow it to respond with \"more accurate and relia"
+    },
+    {
+      "title": "Amazon now lets you design custom merch using AI",
+      "url": "https://techcrunch.com/2026/06/08/amazon-now-lets-you-design-custom-merch-using-ai/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-08T15:49:12Z",
+      "snippet": "A new feature in the Amazon Shopping app allows users to generate designs with Alexa, then print them on products like T-shirts, hoodies, and tumblers."
+    },
+    {
+      "title": "WWDC 2026: What to expect, from Siri\u2019s highly anticipated revamp to Apple Intelligence and iOS 27",
+      "url": "https://techcrunch.com/2026/06/08/wwdc-2026-what-to-expect-from-siris-highly-anticipated-revamp-to-apple-intelligence-and-ios-27/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-08T15:34:59Z",
+      "snippet": "Apple's WWDC nears: Here's what you can look forward to."
+    },
     {
       "title": "Microsoft\u2019s AI chief says superintelligence is near, but won\u2019t take your job",
       "url": "https://www.theverge.com/podcast/944138/microsoft-ai-ceo-mustafa-suleyman-superintelligence-agi-openai-automation",
@@ -48,14 +97,7 @@
       "url": "https://techcrunch.com/2026/06/06/openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-attacks/",
       "source": "TechCrunch",
       "publishedAt": "2026-06-06T20:32:24Z",
-      "snippet": "Even with Lockdown Mode, ChatGPT could be still vulnerable to prompt injections, but the goal is to reduce the likelihood that sensitive data gets shared in the process."
-    },
-    {
-      "title": "What to expect from WWDC 2026: Siri\u2019s highly anticipated revamp and Apple Intelligence updates",
-      "url": "https://techcrunch.com/2026/06/06/what-to-expect-from-wwdc-2026-siris-highly-anticipated-revamp-and-apple-intelligence-updates/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-06T18:13:36Z",
-      "snippet": "Apple's WWDC nears: Here's what you can look forward to."
+      "snippet": "Even with Lockdown Mode, ChatGPT could be vulnerable to prompt injections, but the goal is to reduce the likelihood that sensitive data gets shared in the process."
     },
     {
       "title": "Sriram Krishnan is leaving his role as White House AI advisor",
@@ -121,13 +163,6 @@
       "snippet": "We're now deep into developer conference season, and one of the themes so far is the relentless conviction from Big Tech companies that AI is going to change everything about how we do everything. Nvi"
     },
     {
-      "title": "New York lawmakers pass one-year ban on new data centers",
-      "url": "https://www.theverge.com/policy/944041/new-york-data-center-moratorium",
-      "source": "The Verge",
-      "publishedAt": "2026-06-05T15:25:10Z",
-      "snippet": "The New York State legislature passed a one-year moratorium on new large data centers, the first statewide ban of its kind if Democratic Governor Kathy Hochul signs it into law. Lawmakers behind the b"
-    },
-    {
       "title": "The token bill comes due: Inside the industry scramble to manage AI\u2019s runaway costs",
       "url": "https://techcrunch.com/2026/06/05/the-token-bill-comes-due-inside-the-industry-scramble-to-manage-ais-runaway-costs/",
       "source": "TechCrunch",
@@ -140,41 +175,6 @@
       "source": "TechCrunch",
       "publishedAt": "2026-06-05T14:00:00Z",
       "snippet": "While the AI fundraising machine&#160;keeps breaking its own records, some founders are building in the other direction.&#160; Mirror founder Brynn Putnam just raised money for&#160;Board, a startup f"
-    },
-    {
-      "title": "This AI startup says it can tell if a script will make a hit film",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/943531/ai-script-quilty-simon-horsman-daniel-wood",
-      "source": "The Verge",
-      "publishedAt": "2026-06-05T13:57:31Z",
-      "snippet": "When Quilty hit the industry trades earlier this year, the AI startup promised that its tool could accurately predict a film's success just by reading the script. When people actually got a chance to "
-    },
-    {
-      "title": "AirTrunk commits $30B to build 5GW of AI data centers in India",
-      "url": "https://techcrunch.com/2026/06/05/airtrunk-commits-30b-to-build-5gw-of-ai-data-centers-in-india/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-05T13:03:10Z",
-      "snippet": "The Australian data center operator plans to set up 5GW of capacity in India."
-    },
-    {
-      "title": "Mira Murati steps back into the spotlight, carefully",
-      "url": "https://techcrunch.com/2026/06/04/mira-murati-steps-back-into-the-spotlight-carefully/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-05T05:06:37Z",
-      "snippet": "In the current environment, remaining heads down has diminishing returns; at some point, you have to make some noise just to remind the market you exist."
-    },
-    {
-      "title": "Ahead of its IPO, Anthropic\u2019s Daniela Amodei shrugs off doubts about AI\u2019s returns",
-      "url": "https://techcrunch.com/2026/06/04/ahead-of-its-ipo-anthropics-daniela-amodei-shrugs-off-doubts-about-ais-returns/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-04T22:43:26Z",
-      "snippet": "Anthropic has been growing at a breakneck pace. The company announced that annualized revenue crossed $47 billion in May, up dramatically from roughly $9 billion at the end of 2025. That trajectory fa"
-    },
-    {
-      "title": "Kevin O\u2019Leary agrees to downsize massive Utah data center",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/943234/kevin-oleary-agrees-to-downsize-massive-utah-data-center",
-      "source": "The Verge",
-      "publishedAt": "2026-06-04T18:38:04Z",
-      "snippet": "Kevin O'Leary agreed to halve the size of his planned 40,000-acre data center in Utah amid mounting pressure from residents and activists, as reported earlier by local affiliate ABC4. The Shark Tank s"
     }
   ],
   "trending": [
