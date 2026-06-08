@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-08T03:34:59Z",
+  "updated": "2026-06-08T08:49:47Z",
   "news": [
     {
       "title": "Is this the dawn of the Tokenpocalypse?",
@@ -181,52 +181,52 @@
     {
       "id": "unsloth/gemma-4-12b-it-GGUF",
       "displayName": "gemma 4 12b",
-      "downloads": 568158
+      "downloads": 645263
     },
     {
       "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
       "displayName": "Qwen3.6 35B A3B Uncensored HauhauCS Aggressive",
-      "downloads": 2923564
+      "downloads": 3036465
     },
     {
       "id": "unsloth/gemma-4-12B-it-qat-GGUF",
       "displayName": "gemma 4 12B qat",
-      "downloads": 85842
+      "downloads": 121399
     },
     {
       "id": "SulphurAI/Sulphur-2-base",
       "displayName": "Sulphur 2 base",
-      "downloads": 1715710
+      "downloads": 1707062
     },
     {
       "id": "unsloth/Qwen3.6-27B-MTP-GGUF",
       "displayName": "Qwen3.6 27B MTP",
-      "downloads": 1150295
+      "downloads": 1186648
     },
     {
       "id": "unsloth/gemma-4-26B-A4B-it-qat-GGUF",
       "displayName": "gemma 4 26B A4B qat",
-      "downloads": 60001
+      "downloads": 87455
     },
     {
       "id": "google/gemma-4-12B-it-qat-q4_0-gguf",
       "displayName": "gemma 4 12B qat q4_0",
-      "downloads": 25077
+      "downloads": 52386
     },
     {
       "id": "LiquidAI/LFM2.5-8B-A1B-GGUF",
       "displayName": "LFM2.5 8B A1B",
-      "downloads": 150487
+      "downloads": 162930
     },
     {
       "id": "Jiunsong/supergemma4-26b-uncensored-gguf-v2",
       "displayName": "supergemma4 26b uncensored v2",
-      "downloads": 153429
+      "downloads": 153288
     },
     {
       "id": "HauhauCS/Qwen3.5-9B-Uncensored-HauhauCS-Aggressive",
       "displayName": "Qwen3.5 9B Uncensored HauhauCS Aggressive",
-      "downloads": 629944
+      "downloads": 626754
     }
   ]
 }
