@@ -1,6 +1,27 @@
 {
-  "updated": "2026-06-08T21:47:07Z",
+  "updated": "2026-06-08T23:09:49Z",
   "news": [
+    {
+      "title": "As OpenAI files for IPO, Sam Altman\u2019s eye-scanning company is doing layoffs, report says",
+      "url": "https://techcrunch.com/2026/06/08/as-openai-files-for-ipo-sam-altmans-eye-scanning-company-is-doing-layoffs-report-says/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-08T22:41:45Z",
+      "snippet": "Tools for Humanity, Sam Altman's identify verification company, is reportedly struggling to generate revenue and will downsize its staff."
+    },
+    {
+      "title": "Apple\u2019s WWDC AI demos looked more real after $250M false ad settlement",
+      "url": "https://techcrunch.com/2026/06/08/apples-wwdc-ai-demos-looked-more-real-after-250m-false-ad-settlement/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-08T22:39:57Z",
+      "snippet": "The vibe of Apple's 2026 WWDC keynote felt like a spouse proudly listing all the honey-do-list items tackled. One subtle example: the many AI demos of someone standing, phone in hand."
+    },
+    {
+      "title": "Apple is using AI to fix Safari\u2019s extension problem",
+      "url": "https://www.theverge.com/tech/946345/apple-safari-ai-update-extensions",
+      "source": "The Verge",
+      "publishedAt": "2026-06-08T22:14:17Z",
+      "snippet": "Apple is trying to solve one of Safari's biggest weaknesses with AI. Safari has long lacked the robust library of extensions that its rivals have, mainly due to the stringent development requirements "
+    },
     {
       "title": "OpenAI files for IPO, following Anthropic",
       "url": "https://www.theverge.com/ai-artificial-intelligence/946335/openai-ipo-s-1-confidential",
@@ -9,7 +30,7 @@
       "snippet": "OpenAI on Monday checked off a preliminary step in the IPO race that it and rival Anthropic have been competing in for the better part of a year: The company announced it has confidentially submitted "
     },
     {
-      "title": "Following Anthropic, OpenAI files confidentially for IPO",
+      "title": "OpenAI files confidentially for IPO, following Anthropic",
       "url": "https://techcrunch.com/2026/06/08/following-anthropic-openai-files-confidentially-for-ipo/",
       "source": "TechCrunch",
       "publishedAt": "2026-06-08T21:29:57Z",
@@ -135,20 +156,6 @@
       "snippet": "Apple's biggest event of the year is nearly here. The company's Worldwide Developers Conference will spotlight updates to iOS, macOS, and all of Apple's other operating systems, and this year's event "
     },
     {
-      "title": "Is this the dawn of the Tokenpocalypse?",
-      "url": "https://techcrunch.com/2026/06/07/is-this-the-dawn-of-the-tokenpocalypse/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-07T20:26:13Z",
-      "snippet": "We're likely to see more price increases as the big AI companies plan to go public."
-    },
-    {
-      "title": "Notion restores access to Anthropic after service disruption",
-      "url": "https://techcrunch.com/2026/06/07/notion-restores-access-to-anthropic-after-service-disruption/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-07T17:56:22Z",
-      "snippet": "Notion's head of product said he was \"astonished\" at \u201cthe amount of people RT-ing this.\""
-    },
-    {
       "title": "AI \u2018content creators\u2019 are getting harder to spot",
       "url": "https://www.theverge.com/ai-artificial-intelligence/943187/ai-content-creators",
       "source": "The Verge",
@@ -168,13 +175,6 @@
       "source": "The Verge",
       "publishedAt": "2026-06-06T14:00:00Z",
       "snippet": "Facebook has long been filled with feeds of clickbait articles. Now, Meta is making its own clickbait articles with AI. The standalone Meta AI app now has a \"For You\" section that populates a list of "
-    },
-    {
-      "title": "Here comes new Siri again",
-      "url": "https://www.theverge.com/tech/944245/apple-wwdc-2026-ai-siri-gemini",
-      "source": "The Verge",
-      "publishedAt": "2026-06-06T12:00:00Z",
-      "snippet": "Apple has been on its back foot, AI-wise, for the past few years. But in a strange way, playing from behind might not be such a bad move. At WWDC on Monday, Apple appears to be getting ready to reintr"
     }
   ],
   "trending": [
@@ -194,11 +194,6 @@
       "downloads": 121399
     },
     {
-      "id": "SulphurAI/Sulphur-2-base",
-      "displayName": "Sulphur 2 base",
-      "downloads": 1707062
-    },
-    {
       "id": "unsloth/Qwen3.6-27B-MTP-GGUF",
       "displayName": "Qwen3.6 27B MTP",
       "downloads": 1186648
@@ -207,6 +202,11 @@
       "id": "unsloth/gemma-4-26B-A4B-it-qat-GGUF",
       "displayName": "gemma 4 26B A4B qat",
       "downloads": 87455
+    },
+    {
+      "id": "SulphurAI/Sulphur-2-base",
+      "displayName": "Sulphur 2 base",
+      "downloads": 1707062
     },
     {
       "id": "google/gemma-4-12B-it-qat-q4_0-gguf",
