@@ -1,6 +1,20 @@
 {
-  "updated": "2026-06-08T08:49:47Z",
+  "updated": "2026-06-08T14:02:47Z",
   "news": [
+    {
+      "title": "Microsoft\u2019s AI chief says superintelligence is near, but won\u2019t take your job",
+      "url": "https://www.theverge.com/podcast/944138/microsoft-ai-ceo-mustafa-suleyman-superintelligence-agi-openai-automation",
+      "source": "The Verge",
+      "publishedAt": "2026-06-08T14:00:00Z",
+      "snippet": "Today I\u2019m talking with Mustafa Suleyman, the CEO of Microsoft AI. And I\u2019m actually going to keep today\u2019s intro short \u2014 I\u2019m working from my wife\u2019s family farm this week, as you\u2019ll see in the video, but"
+    },
+    {
+      "title": "WWDC 2026: How to watch and what to expect",
+      "url": "https://www.theverge.com/tech/944099/wwdc-2026-how-to-watch",
+      "source": "The Verge",
+      "publishedAt": "2026-06-08T11:00:00Z",
+      "snippet": "Apple's biggest event of the year is nearly here. The company's Worldwide Developers Conference will spotlight updates to iOS, macOS, and all of Apple's other operating systems, and this year's event "
+    },
     {
       "title": "Is this the dawn of the Tokenpocalypse?",
       "url": "https://techcrunch.com/2026/06/07/is-this-the-dawn-of-the-tokenpocalypse/",
@@ -161,20 +175,6 @@
       "source": "The Verge",
       "publishedAt": "2026-06-04T18:38:04Z",
       "snippet": "Kevin O'Leary agreed to halve the size of his planned 40,000-acre data center in Utah amid mounting pressure from residents and activists, as reported earlier by local affiliate ABC4. The Shark Tank s"
-    },
-    {
-      "title": "TSMC struggles to keep up with AI demand: &#8216;We can only support so much&#8217;",
-      "url": "https://www.theverge.com/tech/943066/tsmc-ai-demand-struggles",
-      "source": "The Verge",
-      "publishedAt": "2026-06-04T14:15:44Z",
-      "snippet": "Taiwan Semiconductor Manufacturing Co. - the world's biggest semiconductor-maker - is struggling to meet demands from American customers even with its factory buildout in the US, according to reports "
-    },
-    {
-      "title": "Elon Musk is steamrolling Wall Street to become a trillionaire",
-      "url": "https://www.theverge.com/podcast/942586/elon-musk-spacex-ipo-x-xai-index-funds",
-      "source": "The Verge",
-      "publishedAt": "2026-06-04T14:00:00Z",
-      "snippet": "Today on Decoder, I\u2019m talking to Ryan Mac, a technology reporter at The New York Times and coauthor of the excellent book Character Limit: How Elon Musk Destroyed Twitter, which came out in 2024. I ca"
     }
   ],
   "trending": [
@@ -214,14 +214,14 @@
       "downloads": 52386
     },
     {
-      "id": "LiquidAI/LFM2.5-8B-A1B-GGUF",
-      "displayName": "LFM2.5 8B A1B",
-      "downloads": 162930
-    },
-    {
       "id": "Jiunsong/supergemma4-26b-uncensored-gguf-v2",
       "displayName": "supergemma4 26b uncensored v2",
       "downloads": 153288
+    },
+    {
+      "id": "LiquidAI/LFM2.5-8B-A1B-GGUF",
+      "displayName": "LFM2.5 8B A1B",
+      "downloads": 162930
     },
     {
       "id": "HauhauCS/Qwen3.5-9B-Uncensored-HauhauCS-Aggressive",
