@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-07T23:00:47Z",
+  "updated": "2026-06-08T03:34:59Z",
   "news": [
     {
       "title": "Is this the dawn of the Tokenpocalypse?",
@@ -219,14 +219,14 @@
       "downloads": 150487
     },
     {
+      "id": "Jiunsong/supergemma4-26b-uncensored-gguf-v2",
+      "displayName": "supergemma4 26b uncensored v2",
+      "downloads": 153429
+    },
+    {
       "id": "HauhauCS/Qwen3.5-9B-Uncensored-HauhauCS-Aggressive",
       "displayName": "Qwen3.5 9B Uncensored HauhauCS Aggressive",
       "downloads": 629944
-    },
-    {
-      "id": "ggml-org/gemma-4-12B-it-GGUF",
-      "displayName": "gemma 4 12B",
-      "downloads": 144624
     }
   ]
 }
