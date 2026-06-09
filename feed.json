@@ -1,6 +1,20 @@
 {
-  "updated": "2026-06-09T17:58:27Z",
+  "updated": "2026-06-09T20:11:37Z",
   "news": [
+    {
+      "title": "Can tech companies learn to love cheaper AI models?",
+      "url": "https://techcrunch.com/2026/06/09/can-tech-companies-learn-to-love-cheaper-models/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-09T18:56:09Z",
+      "snippet": "If those same AI workloads can be\u00a0handled by\u00a0cheaper models without affecting quality, it would mean a massive shift in the economics of\u00a0AI."
+    },
+    {
+      "title": "WWDC 2026: Everything announced on Siri AI, iOS 27, Apple Intelligence, and more",
+      "url": "https://techcrunch.com/2026/06/09/wwdc-2026-everything-announced-on-siri-ai-os-27-apple-intelligence-and-more/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-09T18:04:24Z",
+      "snippet": "Apple primarily made the case for an improved experience with its long-standing Siri assistant, which like most other announcements had a hefty helping of AI."
+    },
     {
       "title": "Anthropic releases its first Mythos-class model Claude Fable",
       "url": "https://www.theverge.com/news/946725/anthropic-releases-claude-fable-5-mythos",
@@ -149,25 +163,11 @@
       "snippet": "As AI experimentation grows more expensive, Apple is waiving cloud API costs for developers with fewer than 2 million first-time App Store downloads."
     },
     {
-      "title": "WWDC 2026: Everything announced on Siri AI, iOS 27, Apple Intelligence and more",
-      "url": "https://techcrunch.com/2026/06/08/wwdc-2026-everything-announced-on-siri-ai-os-27-apple-intelligence-and-more/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-08T19:41:32Z",
-      "snippet": "Apple primarily made the case for an improved experience with its longstanding Siri assistant, which like most other announcements had a hefty helping of AI."
-    },
-    {
       "title": "Apple just taught your iPhone to finish your sentences, your photos, and your workflows",
       "url": "https://techcrunch.com/2026/06/08/apple-just-taught-your-iphone-to-finish-your-sentences-your-photos-and-your-workflows/",
       "source": "TechCrunch",
       "publishedAt": "2026-06-08T18:48:45Z",
       "snippet": "Apple is adding new AI-powered features to Safari, Shortcuts, and Password apps."
-    },
-    {
-      "title": "Apple will let you build workflows using AI in its new Shortcuts app",
-      "url": "https://techcrunch.com/2026/06/08/apple-will-let-you-build-workflows-using-ai-in-its-new-shortcuts-app/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-08T18:45:12Z",
-      "snippet": "Shortcuts gets an AI upgrade, letting you describe the workflow you want in a prompt."
     },
     {
       "title": "Amazon is launching AI-generated custom merch",
@@ -177,5 +177,56 @@
       "snippet": "Amazon is expanding its print-on-demand features to AI-generated designs created using Alexa for Shopping for products like T-shirts, water bottles, and hoodies. Shoppers can use text prompts to gener"
     }
   ],
-  "trending": []
+  "trending": [
+    {
+      "id": "unsloth/gemma-4-12b-it-GGUF",
+      "displayName": "gemma 4 12b",
+      "downloads": 660140
+    },
+    {
+      "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
+      "displayName": "Qwen3.6 35B A3B Uncensored HauhauCS Aggressive",
+      "downloads": 2983909
+    },
+    {
+      "id": "unsloth/gemma-4-12B-it-qat-GGUF",
+      "displayName": "gemma 4 12B qat",
+      "downloads": 127332
+    },
+    {
+      "id": "OBLITERATUS/Gemma-4-12B-OBLITERATED",
+      "displayName": "Gemma 4 12B OBLITERATED",
+      "downloads": 8106
+    },
+    {
+      "id": "unsloth/gemma-4-26B-A4B-it-qat-GGUF",
+      "displayName": "gemma 4 26B A4B qat",
+      "downloads": 96059
+    },
+    {
+      "id": "google/gemma-4-12B-it-qat-q4_0-gguf",
+      "displayName": "gemma 4 12B qat q4_0",
+      "downloads": 63049
+    },
+    {
+      "id": "unsloth/Qwen3.6-27B-MTP-GGUF",
+      "displayName": "Qwen3.6 27B MTP",
+      "downloads": 1067735
+    },
+    {
+      "id": "SulphurAI/Sulphur-2-base",
+      "displayName": "Sulphur 2 base",
+      "downloads": 1617418
+    },
+    {
+      "id": "Jiunsong/supergemma4-26b-uncensored-gguf-v2",
+      "displayName": "supergemma4 26b uncensored v2",
+      "downloads": 141157
+    },
+    {
+      "id": "unsloth/gemma-4-31B-it-qat-GGUF",
+      "displayName": "gemma 4 31B qat",
+      "downloads": 51002
+    }
+  ]
 }
