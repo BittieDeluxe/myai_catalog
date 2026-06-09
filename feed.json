@@ -1,6 +1,34 @@
 {
-  "updated": "2026-06-09T20:11:37Z",
+  "updated": "2026-06-09T23:15:05Z",
   "news": [
+    {
+      "title": "GM thinks EVs can help offset AI\u2019s energy suck with vehicle-to-grid tech",
+      "url": "https://www.theverge.com/transportation/946820/gm-energy-ev-v2g-storage-sodium-ion",
+      "source": "The Verge",
+      "publishedAt": "2026-06-09T21:00:00Z",
+      "snippet": "At an event in San Francisco today, General Motors made a series of announcements around EV batteries, energy storage, and grid resiliency in the face of growing electricity demand from AI data center"
+    },
+    {
+      "title": "Hey, Siri, here\u2019s what I actually want from AI",
+      "url": "https://techcrunch.com/2026/06/09/hey-siri-heres-what-i-actually-want-from-ai/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-09T20:50:17Z",
+      "snippet": "I'm desperate for a personal AI assistant, but do I really want to become the kind of person who can't function without the friendly robot voice in my phone?"
+    },
+    {
+      "title": "Anthropic\u2019s Fable 5 can make weirdly fun video games with the click of a button",
+      "url": "https://techcrunch.com/2026/06/09/anthropics-fable-5-can-make-weirdly-fun-video-games-with-the-click-of-a-button/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-09T20:37:49Z",
+      "snippet": "Anthropic's Claude Fable 5 is going to be a big hit with the web's vibe coders."
+    },
+    {
+      "title": "Microsoft AI head calls out Anthropic for acting like Claude is conscious",
+      "url": "https://www.theverge.com/tech/947197/microsoft-ai-mustafa-suleyman-anthropic-claude-conscious",
+      "source": "The Verge",
+      "publishedAt": "2026-06-09T20:24:25Z",
+      "snippet": "Microsoft AI CEO Mustafa Suleyman says it's \"really, really dangerous\" for Anthropic to speculate about Claude's consciousness inside its \"constitution,\" or the instructions that tell the model how to"
+    },
     {
       "title": "Can tech companies learn to love cheaper AI models?",
       "url": "https://techcrunch.com/2026/06/09/can-tech-companies-learn-to-love-cheaper-models/",
@@ -24,7 +52,7 @@
     },
     {
       "title": "Anthropic\u2019s Claude Fable 5 is a version of Mythos the public can access today",
-      "url": "https://techcrunch.com/2026/06/09/anthropic-released-claude-fable-5-its-most-powerful-model-publicly-days-after-warning-ai-is-getting-too-dangerous/",
+      "url": "https://techcrunch.com/2026/06/09/anthropics-claude-fable-5-is-a-version-of-mythos-the-public-can-access-today/",
       "source": "TechCrunch",
       "publishedAt": "2026-06-09T17:00:00Z",
       "snippet": "Anthropic is releasing Claude Fable 5, its first Mythos-class model available to the public. The model comes with guardrails that block responses in high-risk areas like cybersecurity and biology."
@@ -135,13 +163,6 @@
       "snippet": "Apple is trying to solve one of Safari's biggest weaknesses with AI. Safari has long lacked the robust library of extensions that its rivals have, mainly due to the stringent development requirements "
     },
     {
-      "title": "OpenAI files for IPO, following Anthropic",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/946335/openai-ipo-s-1-confidential",
-      "source": "The Verge",
-      "publishedAt": "2026-06-08T21:38:29Z",
-      "snippet": "OpenAI on Monday checked off a preliminary step in the IPO race that it and rival Anthropic have been competing in for the better part of a year: The company announced it has confidentially submitted "
-    },
-    {
       "title": "OpenAI files confidentially for IPO, following Anthropic",
       "url": "https://techcrunch.com/2026/06/08/following-anthropic-openai-files-confidentially-for-ipo/",
       "source": "TechCrunch",
@@ -154,27 +175,6 @@
       "source": "TechCrunch",
       "publishedAt": "2026-06-08T21:15:42Z",
       "snippet": "Apple spent much of its WWDC keynote highlighting fixes, performance improvements, and long-requested features before unveiling its upgraded AI-powered Siri, signaling that the company wants users to "
-    },
-    {
-      "title": "Apple bets cheaper AI will woo small developers",
-      "url": "https://techcrunch.com/2026/06/08/apple-bets-cheaper-ai-will-woo-small-developers/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-08T20:53:55Z",
-      "snippet": "As AI experimentation grows more expensive, Apple is waiving cloud API costs for developers with fewer than 2 million first-time App Store downloads."
-    },
-    {
-      "title": "Apple just taught your iPhone to finish your sentences, your photos, and your workflows",
-      "url": "https://techcrunch.com/2026/06/08/apple-just-taught-your-iphone-to-finish-your-sentences-your-photos-and-your-workflows/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-08T18:48:45Z",
-      "snippet": "Apple is adding new AI-powered features to Safari, Shortcuts, and Password apps."
-    },
-    {
-      "title": "Amazon is launching AI-generated custom merch",
-      "url": "https://www.theverge.com/news/945905/amazon-alexa-shopping-ai-generated-custom-merch-design-printing",
-      "source": "The Verge",
-      "publishedAt": "2026-06-08T17:52:51Z",
-      "snippet": "Amazon is expanding its print-on-demand features to AI-generated designs created using Alexa for Shopping for products like T-shirts, water bottles, and hoodies. Shoppers can use text prompts to gener"
     }
   ],
   "trending": [
