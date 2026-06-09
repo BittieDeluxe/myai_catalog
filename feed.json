@@ -1,6 +1,13 @@
 {
-  "updated": "2026-06-09T07:42:39Z",
+  "updated": "2026-06-09T10:56:44Z",
   "news": [
+    {
+      "title": "Amazon employees ask Seattle to put the brakes on new data centers",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/945809/amazon-employees-seattle-data-center-moratorium",
+      "source": "The Verge",
+      "publishedAt": "2026-06-09T10:00:00Z",
+      "snippet": "On Tuesday, the Seattle City Council will vote on whether to enact a one-year moratorium on new data centers - just two months after several companies proposed building five large-scale centers in the"
+    },
     {
       "title": "Why Apple\u2019s slow-and-steady AI bet is starting to look pretty smart",
       "url": "https://techcrunch.com/2026/06/08/why-apples-slow-and-steady-ai-bet-is-starting-to-look-pretty-smart/",
@@ -168,65 +175,58 @@
       "source": "The Verge",
       "publishedAt": "2026-06-06T15:05:00Z",
       "snippet": "A proposed $2 billion data center has become a political flashpoint in the small city of Shelbyville, Indiana. And the controversy has only grown more intense after the mayor, Scott Furgeson, was caug"
-    },
-    {
-      "title": "Meta made its own AI-generated clickbait news feed",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/944235/meta-app-ai-clickbait-articles",
-      "source": "The Verge",
-      "publishedAt": "2026-06-06T14:00:00Z",
-      "snippet": "Facebook has long been filled with feeds of clickbait articles. Now, Meta is making its own clickbait articles with AI. The standalone Meta AI app now has a \"For You\" section that populates a list of "
     }
   ],
   "trending": [
     {
       "id": "unsloth/gemma-4-12b-it-GGUF",
       "displayName": "gemma 4 12b",
-      "downloads": 645263
+      "downloads": 660140
     },
     {
       "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
       "displayName": "Qwen3.6 35B A3B Uncensored HauhauCS Aggressive",
-      "downloads": 3036465
+      "downloads": 2983909
     },
     {
       "id": "unsloth/gemma-4-12B-it-qat-GGUF",
       "displayName": "gemma 4 12B qat",
-      "downloads": 121399
+      "downloads": 127332
     },
     {
       "id": "unsloth/gemma-4-26B-A4B-it-qat-GGUF",
       "displayName": "gemma 4 26B A4B qat",
-      "downloads": 87455
+      "downloads": 96059
     },
     {
       "id": "google/gemma-4-12B-it-qat-q4_0-gguf",
       "displayName": "gemma 4 12B qat q4_0",
-      "downloads": 52386
-    },
-    {
-      "id": "SulphurAI/Sulphur-2-base",
-      "displayName": "Sulphur 2 base",
-      "downloads": 1707062
+      "downloads": 63049
     },
     {
       "id": "unsloth/Qwen3.6-27B-MTP-GGUF",
       "displayName": "Qwen3.6 27B MTP",
-      "downloads": 1186648
+      "downloads": 1067735
     },
     {
-      "id": "Jiunsong/supergemma4-26b-uncensored-gguf-v2",
-      "displayName": "supergemma4 26b uncensored v2",
-      "downloads": 153288
+      "id": "SulphurAI/Sulphur-2-base",
+      "displayName": "Sulphur 2 base",
+      "downloads": 1617418
     },
     {
       "id": "OBLITERATUS/Gemma-4-12B-OBLITERATED",
       "displayName": "Gemma 4 12B OBLITERATED",
-      "downloads": 6936
+      "downloads": 8106
+    },
+    {
+      "id": "Jiunsong/supergemma4-26b-uncensored-gguf-v2",
+      "displayName": "supergemma4 26b uncensored v2",
+      "downloads": 141157
     },
     {
       "id": "unsloth/gemma-4-31B-it-qat-GGUF",
       "displayName": "gemma 4 31B qat",
-      "downloads": 45612
+      "downloads": 51002
     }
   ]
 }
