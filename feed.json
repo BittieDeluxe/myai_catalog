@@ -1,8 +1,43 @@
 {
-  "updated": "2026-06-09T14:40:56Z",
+  "updated": "2026-06-09T17:58:27Z",
   "news": [
     {
-      "title": "Apple\u2019s AI promises are finally, almost, sort of, here",
+      "title": "Anthropic releases its first Mythos-class model Claude Fable",
+      "url": "https://www.theverge.com/news/946725/anthropic-releases-claude-fable-5-mythos",
+      "source": "The Verge",
+      "publishedAt": "2026-06-09T17:00:00Z",
+      "snippet": "Anthropic just announced Claude Fable 5, a new AI model it said is the most powerful model it has ever made widely available. According to the company, Fable 5 \"shows exceptional performance in softwa"
+    },
+    {
+      "title": "Anthropic\u2019s Claude Fable 5 is a version of Mythos the public can access today",
+      "url": "https://techcrunch.com/2026/06/09/anthropic-released-claude-fable-5-its-most-powerful-model-publicly-days-after-warning-ai-is-getting-too-dangerous/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-09T17:00:00Z",
+      "snippet": "Anthropic is releasing Claude Fable 5, its first Mythos-class model available to the public. The model comes with guardrails that block responses in high-risk areas like cybersecurity and biology."
+    },
+    {
+      "title": "Apple is embracing the fantasy of AI photo editing",
+      "url": "https://www.theverge.com/tech/946850/apple-ai-photo-editing-tools-ios27-wwdc-2026-deepfakes",
+      "source": "The Verge",
+      "publishedAt": "2026-06-09T16:13:14Z",
+      "snippet": "Apple used to question whether generative AI-powered editing features were worth the risk of distorting our perceptions of the world. Now it seems Apple no longer believes that photos should accuratel"
+    },
+    {
+      "title": "It\u2019s not FAANG anymore. It\u2019s MANGOS.",
+      "url": "https://techcrunch.com/2026/06/09/its-not-faang-anymore-its-mangos/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-09T16:09:14Z",
+      "snippet": "With SpaceX, Anthropic, and OpenAI all eyeing massive public debuts, the tech industry may soon have a new class of corporate overlords \u2014 and a new acronym to match. Say goodbye to FAANG and hello to "
+    },
+    {
+      "title": "Microsoft AI chief walks back comments about AI taking over white-collar work",
+      "url": "https://www.theverge.com/tech/946879/microsoft-mustafa-suleyman-ai-white-collar-jobs",
+      "source": "The Verge",
+      "publishedAt": "2026-06-09T14:54:51Z",
+      "snippet": "Microsoft AI head Mustafa Suleyman is walking back his statement about AI automating jobs done by white-collar workers, including lawyers, accountants, and project managers. During an episode of Decod"
+    },
+    {
+      "title": "Apple\u2019s AI promises are finally, almost, sort of here",
       "url": "https://www.theverge.com/ai-artificial-intelligence/946780/apples-ai-promises-are-finally-almost-sort-of-here",
       "source": "The Verge",
       "publishedAt": "2026-06-09T14:18:18Z",
@@ -13,7 +48,7 @@
       "url": "https://techcrunch.com/2026/06/09/sandstone-raises-30m-to-bring-ai-to-in-house-legal-teams/",
       "source": "TechCrunch",
       "publishedAt": "2026-06-09T13:47:25Z",
-      "snippet": "Sandstone's Series A was led by Lightspeed Partners, with participation from Sequoia."
+      "snippet": "Sandstone's Series A comes just six months after a Sequoia-led seed round."
     },
     {
       "title": "Apple\u2019s best AI idea looks a lot like vibe coding",
@@ -55,7 +90,7 @@
       "url": "https://techcrunch.com/2026/06/08/why-apples-slow-and-steady-ai-bet-is-starting-to-look-pretty-smart/",
       "source": "TechCrunch",
       "publishedAt": "2026-06-09T01:56:48Z",
-      "snippet": "Can Apple's new AI glow up put to bed accusations that it's losing an all-important industry race?"
+      "snippet": "Can Apple's new AI glow-up put to bed accusations that it's losing an all-important industry race?"
     },
     {
       "title": "Mercor\u2019s Brendan Foody calls out Sequoia, accusing it of \u2018dual-pricing\u2019 valuation tricks",
@@ -135,98 +170,12 @@
       "snippet": "Shortcuts gets an AI upgrade, letting you describe the workflow you want in a prompt."
     },
     {
-      "title": "Apple\u2019s Image Playground doesn\u2019t suck anymore",
-      "url": "https://techcrunch.com/2026/06/08/apples-image-playground-doesnt-suck-anymore/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-08T18:38:07Z",
-      "snippet": "Apple's AI image generator is getting a makeover that could make it more competitive."
-    },
-    {
-      "title": "Apple\u2019s Photos app is getting new AI editing features",
-      "url": "https://techcrunch.com/2026/06/08/apples-photos-app-is-getting-new-ai-editing-features/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-08T18:36:04Z",
-      "snippet": "A new spatial \"Reframe\" feature will let users use AI to adjust perspectives."
-    },
-    {
       "title": "Amazon is launching AI-generated custom merch",
       "url": "https://www.theverge.com/news/945905/amazon-alexa-shopping-ai-generated-custom-merch-design-printing",
       "source": "The Verge",
       "publishedAt": "2026-06-08T17:52:51Z",
       "snippet": "Amazon is expanding its print-on-demand features to AI-generated designs created using Alexa for Shopping for products like T-shirts, water bottles, and hoodies. Shoppers can use text prompts to gener"
-    },
-    {
-      "title": "Apple announces Siri AI and its next generation of Apple Intelligence",
-      "url": "https://www.theverge.com/tech/942416/apple-siri-ai-update-wwdc",
-      "source": "The Verge",
-      "publishedAt": "2026-06-08T17:34:24Z",
-      "snippet": "Two years after first revealing its plans for Apple Intelligence and a smarter Siri that never fully materialized, at WWDC, Apple just revealed a new set of AI features and a smarter, more personalize"
-    },
-    {
-      "title": "NotebookLM&#8217;s Gemini 3.5 upgrade adds a cloud computer and help finding sources",
-      "url": "https://www.theverge.com/tech/944325/google-notebooklm-ai-gemini-update",
-      "source": "The Verge",
-      "publishedAt": "2026-06-08T16:00:00Z",
-      "snippet": "Google is rolling out \"across the board\" updates to NotebookLM. The AI-powered note-taking app now uses Google's upgraded Gemini 3.5 model, which will allow it to respond with \"more accurate and relia"
-    },
-    {
-      "title": "Microsoft\u2019s AI chief says superintelligence is near, but won\u2019t take your job",
-      "url": "https://www.theverge.com/podcast/944138/microsoft-ai-ceo-mustafa-suleyman-superintelligence-agi-openai-automation",
-      "source": "The Verge",
-      "publishedAt": "2026-06-08T14:00:00Z",
-      "snippet": "Today I\u2019m talking with Mustafa Suleyman, the CEO of Microsoft AI. And I\u2019m actually going to keep today\u2019s intro short \u2014 I\u2019m working from my wife\u2019s family farm this week, as you\u2019ll see in the video, but"
     }
   ],
-  "trending": [
-    {
-      "id": "unsloth/gemma-4-12b-it-GGUF",
-      "displayName": "gemma 4 12b",
-      "downloads": 660140
-    },
-    {
-      "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
-      "displayName": "Qwen3.6 35B A3B Uncensored HauhauCS Aggressive",
-      "downloads": 2983909
-    },
-    {
-      "id": "unsloth/gemma-4-12B-it-qat-GGUF",
-      "displayName": "gemma 4 12B qat",
-      "downloads": 127332
-    },
-    {
-      "id": "unsloth/gemma-4-26B-A4B-it-qat-GGUF",
-      "displayName": "gemma 4 26B A4B qat",
-      "downloads": 96059
-    },
-    {
-      "id": "google/gemma-4-12B-it-qat-q4_0-gguf",
-      "displayName": "gemma 4 12B qat q4_0",
-      "downloads": 63049
-    },
-    {
-      "id": "OBLITERATUS/Gemma-4-12B-OBLITERATED",
-      "displayName": "Gemma 4 12B OBLITERATED",
-      "downloads": 8106
-    },
-    {
-      "id": "unsloth/Qwen3.6-27B-MTP-GGUF",
-      "displayName": "Qwen3.6 27B MTP",
-      "downloads": 1067735
-    },
-    {
-      "id": "SulphurAI/Sulphur-2-base",
-      "displayName": "Sulphur 2 base",
-      "downloads": 1617418
-    },
-    {
-      "id": "Jiunsong/supergemma4-26b-uncensored-gguf-v2",
-      "displayName": "supergemma4 26b uncensored v2",
-      "downloads": 141157
-    },
-    {
-      "id": "unsloth/gemma-4-31B-it-qat-GGUF",
-      "displayName": "gemma 4 31B qat",
-      "downloads": 51002
-    }
-  ]
+  "trending": []
 }
