@@ -1,6 +1,55 @@
 {
-  "updated": "2026-06-10T12:52:56Z",
+  "updated": "2026-06-10T16:55:31Z",
   "news": [
+    {
+      "title": "How memory tools can make AI models worse",
+      "url": "https://techcrunch.com/2026/06/10/how-memory-tools-can-make-ai-models-worse/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-10T16:11:08Z",
+      "snippet": "New research suggests that AI memory systems can degrade model performance and encourage sycophantic tendencies."
+    },
+    {
+      "title": "Cybersecurity researchers aren\u2019t happy about the guardrails on Anthropic\u2019s Fable",
+      "url": "https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-10T15:41:22Z",
+      "snippet": "Cybersecurity researchers are complaining that Anthropic's new model Fable has guardrails that are too strict for any cybersecurity work."
+    },
+    {
+      "title": "Datadog veterans launch AI coding startup Niteshift on a bet against Big AI lock-in",
+      "url": "https://techcrunch.com/2026/06/10/datadog-veterans-launch-ai-coding-startup-niteshift-on-a-bet-against-big-ai-lock-in/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-10T15:00:00Z",
+      "snippet": "AI coding agent startup Niteshift has raised a $7 million seed round from a who's who of angels. It's betting companies will want power over, not lock-in with model makers."
+    },
+    {
+      "title": "The three hard-tech moonshots fueling SpaceX\u2019s unbelievable IPO",
+      "url": "https://techcrunch.com/2026/06/10/the-three-hard-tech-moonshots-fueling-spacexs-unbelievable-ipo/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-10T14:48:01Z",
+      "snippet": "Most of the value in SpaceX's IPO is effectively a call option on the company's ambitious space data center plans."
+    },
+    {
+      "title": "Warner Music acquires AI attribution startup Sureel AI",
+      "url": "https://techcrunch.com/2026/06/10/warner-music-acquires-ai-attribution-startup-sureel-ai/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-10T14:31:30Z",
+      "snippet": "Through the acquisition, WMG aims to better track when its artists' work is used in AI-generated content or for training AI models."
+    },
+    {
+      "title": "Jedify raises $24M to help companies arm AI agents with context on their business",
+      "url": "https://techcrunch.com/2026/06/10/jedify-raises-24m-to-help-companies-arm-ai-agents-with-context-on-their-business/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-10T13:33:09Z",
+      "snippet": "The funding round was led by Norwest, with participation from S Capital VC, Cerca Partners, and Oceans Ventures. Snowflake Ventures also participated as a strategic investor."
+    },
+    {
+      "title": "Decart\u2019s new world model can simulate hours of photorealistic driving \u2014 with some caveats",
+      "url": "https://techcrunch.com/2026/06/10/decarts-new-world-model-can-simulate-hours-of-photorealistic-driving-with-some-caveats/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-10T13:07:56Z",
+      "snippet": "Decart is launching Oasis 3, a real-time world model that generates photorealistic driving environments for autonomous vehicle testing, now available via API for developers to build on."
+    },
     {
       "title": "Meta signs first AI data center deal in India with Reliance",
       "url": "https://techcrunch.com/2026/06/10/meta-signs-first-ai-data-center-deal-in-india-with-reliance/",
@@ -93,13 +142,6 @@
       "snippet": "Apple used to question whether generative AI-powered editing features were worth the risk of distorting our perceptions of the world. Now it seems Apple no longer believes that photos should accuratel"
     },
     {
-      "title": "It\u2019s not FAANG anymore. It\u2019s MANGOS.",
-      "url": "https://techcrunch.com/2026/06/09/its-not-faang-anymore-its-mangos/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-09T16:09:14Z",
-      "snippet": "With SpaceX, Anthropic, and OpenAI all eyeing massive public debuts, the tech industry may soon have a new class of corporate overlords \u2014 and a new acronym to match. Say goodbye to FAANG and hello to "
-    },
-    {
       "title": "Microsoft AI chief walks back comments about AI taking over white-collar work",
       "url": "https://www.theverge.com/tech/946879/microsoft-mustafa-suleyman-ai-white-collar-jobs",
       "source": "The Verge",
@@ -114,25 +156,11 @@
       "snippet": "Apple kicked off its annual developer conference with bold promises about AI. The company, CEO Tim Cook said, would be \"introducing new technologies and innovations that push the limits on what's poss"
     },
     {
-      "title": "Sandstone raises $30M to bring AI to in-house legal teams",
-      "url": "https://techcrunch.com/2026/06/09/sandstone-raises-30m-to-bring-ai-to-in-house-legal-teams/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-09T13:47:25Z",
-      "snippet": "Sandstone's Series A comes just six months after a Sequoia-led seed round."
-    },
-    {
       "title": "Apple\u2019s best AI idea looks a lot like vibe coding",
       "url": "https://www.theverge.com/tech/946733/apple-shortcuts-ai-safari-tabs-vibe-code",
       "source": "The Verge",
       "publishedAt": "2026-06-09T13:34:48Z",
       "snippet": "Most of Apple's current AI ideas are roughly the same as everyone else's AI ideas. A chatbot you can ask questions; quick ways to create or summarize text; bizarre, borderline creepy image-generation "
-    },
-    {
-      "title": "Lovable says it has hit $500M in annualized revenue, with 1 million new projects a week",
-      "url": "https://techcrunch.com/2026/06/09/lovable-says-it-has-hit-500m-in-annualized-revenue-with-1-million-new-projects-a-week/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-09T13:00:00Z",
-      "snippet": "Lovable says it has now surpassed $500 million in annualized run-rate revenue and its users are building businesses and replacing internal software."
     },
     {
       "title": "Apple\u2019s AI pitch will live or die by its privacy promise",
@@ -142,91 +170,63 @@
       "snippet": "As expected, yesterday's WWDC keynote was mostly about AI. And also as expected, Apple tried to turn its late arrival into its sales pitch: It didn't rush into AI because it was taking its time to do "
     },
     {
-      "title": "How an e-scooter founder raised $5 million to build space data centers",
-      "url": "https://techcrunch.com/2026/06/09/how-an-e-scooter-founder-raised-5-million-to-build-space-data-centers/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-09T12:00:00Z",
-      "snippet": "Orbital founder Euwyn Poon built 250,000 scooters at Spin. Now he wants to launch 10,000 space data centers."
-    },
-    {
       "title": "Amazon employees ask Seattle to put the brakes on new data centers",
       "url": "https://www.theverge.com/ai-artificial-intelligence/945809/amazon-employees-seattle-data-center-moratorium",
       "source": "The Verge",
       "publishedAt": "2026-06-09T10:00:00Z",
       "snippet": "On Tuesday, the Seattle City Council will vote on whether to enact a one-year moratorium on new data centers - just two months after several companies proposed building five large-scale centers in the"
-    },
-    {
-      "title": "Why Apple\u2019s slow-and-steady AI bet is starting to look pretty smart",
-      "url": "https://techcrunch.com/2026/06/08/why-apples-slow-and-steady-ai-bet-is-starting-to-look-pretty-smart/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-09T01:56:48Z",
-      "snippet": "Can Apple's new AI glow-up put to bed accusations that it's losing an all-important industry race?"
-    },
-    {
-      "title": "Mercor\u2019s Brendan Foody calls out Sequoia, accusing it of \u2018dual-pricing\u2019 valuation tricks",
-      "url": "https://techcrunch.com/2026/06/08/mercors-brendan-foody-calls-out-sequoia-over-dual-pricing-valuation-tricks/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-09T00:45:56Z",
-      "snippet": "Sequoia is just one of the top firms that sells same equity at two different prices."
-    },
-    {
-      "title": "As OpenAI files for IPO, Sam Altman\u2019s eye-scanning company is doing layoffs, report says",
-      "url": "https://techcrunch.com/2026/06/08/as-openai-files-for-ipo-sam-altmans-eye-scanning-company-is-doing-layoffs-report-says/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-08T22:41:45Z",
-      "snippet": "Tools for Humanity, Sam Altman's identity verification company, is reportedly struggling to generate revenue and will downsize its staff."
     }
   ],
   "trending": [
     {
       "id": "unsloth/gemma-4-12b-it-GGUF",
       "displayName": "gemma 4 12b",
-      "downloads": 660140
+      "downloads": 711706
     },
     {
       "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
       "displayName": "Qwen3.6 35B A3B Uncensored HauhauCS Aggressive",
-      "downloads": 2983909
+      "downloads": 3057541
     },
     {
       "id": "OBLITERATUS/Gemma-4-12B-OBLITERATED",
       "displayName": "Gemma 4 12B OBLITERATED",
-      "downloads": 8106
+      "downloads": 14838
     },
     {
       "id": "unsloth/gemma-4-12B-it-qat-GGUF",
       "displayName": "gemma 4 12B qat",
-      "downloads": 127332
+      "downloads": 148252
     },
     {
       "id": "unsloth/gemma-4-26B-A4B-it-qat-GGUF",
       "displayName": "gemma 4 26B A4B qat",
-      "downloads": 96059
+      "downloads": 129110
     },
     {
       "id": "google/gemma-4-12B-it-qat-q4_0-gguf",
       "displayName": "gemma 4 12B qat q4_0",
-      "downloads": 63049
+      "downloads": 96749
     },
     {
       "id": "unsloth/Qwen3.6-27B-MTP-GGUF",
       "displayName": "Qwen3.6 27B MTP",
-      "downloads": 1067735
-    },
-    {
-      "id": "SulphurAI/Sulphur-2-base",
-      "displayName": "Sulphur 2 base",
-      "downloads": 1617418
+      "downloads": 1083728
     },
     {
       "id": "Jiunsong/supergemma4-26b-uncensored-gguf-v2",
       "displayName": "supergemma4 26b uncensored v2",
-      "downloads": 141157
+      "downloads": 142580
+    },
+    {
+      "id": "SulphurAI/Sulphur-2-base",
+      "displayName": "Sulphur 2 base",
+      "downloads": 1498587
     },
     {
       "id": "unsloth/gemma-4-31B-it-qat-GGUF",
       "displayName": "gemma 4 31B qat",
-      "downloads": 51002
+      "downloads": 64518
     }
   ]
 }
