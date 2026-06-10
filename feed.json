@@ -1,6 +1,13 @@
 {
-  "updated": "2026-06-10T02:57:53Z",
+  "updated": "2026-06-10T08:03:43Z",
   "news": [
+    {
+      "title": "Meta signs first AI data center deal in India with Reliance",
+      "url": "https://techcrunch.com/2026/06/10/meta-signs-first-ai-data-center-deal-in-india-with-reliance/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-10T07:05:26Z",
+      "snippet": "The 168-megawatt facility will support Meta's global AI computing needs and can be expanded over time."
+    },
     {
       "title": "Google just fired a warning shot in the AI subscription price wars",
       "url": "https://techcrunch.com/2026/06/09/google-just-fired-a-warning-shot-in-the-ai-subscription-price-wars/",
@@ -168,13 +175,6 @@
       "source": "TechCrunch",
       "publishedAt": "2026-06-08T22:41:45Z",
       "snippet": "Tools for Humanity, Sam Altman's identity verification company, is reportedly struggling to generate revenue and will downsize its staff."
-    },
-    {
-      "title": "Apple\u2019s WWDC AI demos looked more real after $250M false ad settlement",
-      "url": "https://techcrunch.com/2026/06/08/apples-wwdc-ai-demos-looked-more-real-after-250m-false-ad-settlement/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-08T22:39:57Z",
-      "snippet": "The vibe of Apple's 2026 WWDC keynote felt like a spouse proudly listing all the honey-do-list items tackled. One subtle example: the many AI demos of someone standing, phone in hand."
     }
   ],
   "trending": [
