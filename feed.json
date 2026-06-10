@@ -1,12 +1,19 @@
 {
-  "updated": "2026-06-10T20:24:07Z",
+  "updated": "2026-06-10T23:22:34Z",
   "news": [
     {
-      "title": "Fresh off bond sale, Amazon borrows $17.5 billion from banks as AI spending continues",
+      "title": "xAI fired an engineer who raised alarms about Grok safety, new lawsuit claims",
+      "url": "https://techcrunch.com/2026/06/10/xai-fired-an-engineer-who-raised-alarms-about-grok-safety-new-lawsuit-claims/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-10T22:31:19Z",
+      "snippet": "A former xAI engineer is suing the company and SpaceX, alleging he was fired for raising AI safety concerns about Grok days before SpaceX's historic IPO."
+    },
+    {
+      "title": "Fresh off bond sale, Amazon borrows $17.5B from banks as AI spending continues",
       "url": "https://techcrunch.com/2026/06/10/fresh-off-bond-sale-amazon-borrows-17-5-billion-from-banks-as-ai-spending-continues/",
       "source": "TechCrunch",
       "publishedAt": "2026-06-10T20:19:31Z",
-      "snippet": "As AI spending continues to climb, the e-commerce giant has taken out a fresh $17.5 billion loan from a small coterie of banks."
+      "snippet": "Companies are burning through exorbitant sums of money to keep pace in the AI arms race. Debt is climbing."
     },
     {
       "title": "Claude Fable won\u2019t answer basic biology questions",
@@ -163,13 +170,6 @@
       "snippet": "Microsoft AI CEO Mustafa Suleyman says it's \"really, really dangerous\" for Anthropic to speculate about Claude's consciousness inside its \"constitution,\" or the instructions that tell the model how to"
     },
     {
-      "title": "Can tech companies learn to love cheaper AI models?",
-      "url": "https://techcrunch.com/2026/06/09/can-tech-companies-learn-to-love-cheaper-models/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-09T18:56:09Z",
-      "snippet": "If those same AI workloads can be\u00a0handled by\u00a0cheaper models without affecting quality, it would mean a massive shift in the economics of\u00a0AI."
-    },
-    {
       "title": "Anthropic releases its first Mythos-class model Claude Fable",
       "url": "https://www.theverge.com/news/946725/anthropic-releases-claude-fable-5-mythos",
       "source": "The Verge",
@@ -214,6 +214,11 @@
       "downloads": 142580
     },
     {
+      "id": "unsloth/diffusiongemma-26B-A4B-it-GGUF",
+      "displayName": "diffusiongemma 26B A4B",
+      "downloads": 0
+    },
+    {
       "id": "unsloth/Qwen3.6-27B-MTP-GGUF",
       "displayName": "Qwen3.6 27B MTP",
       "downloads": 1083728
@@ -222,11 +227,6 @@
       "id": "SulphurAI/Sulphur-2-base",
       "displayName": "Sulphur 2 base",
       "downloads": 1498587
-    },
-    {
-      "id": "unsloth/gemma-4-31B-it-qat-GGUF",
-      "displayName": "gemma 4 31B qat",
-      "downloads": 64518
     }
   ]
 }
