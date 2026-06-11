@@ -1,6 +1,13 @@
 {
-  "updated": "2026-06-11T17:34:40Z",
+  "updated": "2026-06-11T20:15:33Z",
   "news": [
+    {
+      "title": "SpaceX SPV investors won\u2019t know their true holdings until post-IPO lock-ups lift",
+      "url": "https://techcrunch.com/2026/06/11/spacex-spv-investors-wont-know-their-true-holdings-until-post-ipo-lock-ups-lift/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-11T19:58:01Z",
+      "snippet": "After SpaceX makes its public debut, lower-tier SPV investors face hidden fees, lengthy payout delays, and the  risk of outright fraud."
+    },
     {
       "title": "Amazon&#8217;s data centers used 2.5 billion gallons of water last year",
       "url": "https://www.theverge.com/tech/948534/amazon-data-centers-water-use",
@@ -163,13 +170,6 @@
       "snippet": "The funding round was led by Norwest, with participation from S Capital VC, Cerca Partners, and Oceans Ventures. Snowflake Ventures also participated as a strategic investor."
     },
     {
-      "title": "Decart\u2019s new world model can simulate hours of photorealistic driving \u2014 with some caveats",
-      "url": "https://techcrunch.com/2026/06/10/decarts-new-world-model-can-simulate-hours-of-photorealistic-driving-with-some-caveats/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-10T13:07:56Z",
-      "snippet": "Decart is launching Oasis 3, a real-time world model that generates photorealistic driving environments for autonomous vehicle testing, now available via API for developers to build on."
-    },
-    {
       "title": "I tried Siri AI, and so far it actually works",
       "url": "https://www.theverge.com/tech/947432/siri-ai-apple-intelligence-ios-27-wwdc",
       "source": "The Verge",
@@ -219,14 +219,14 @@
       "downloads": 142580
     },
     {
-      "id": "SulphurAI/Sulphur-2-base",
-      "displayName": "Sulphur 2 base",
-      "downloads": 1498587
-    },
-    {
       "id": "unsloth/gemma-4-31B-it-qat-GGUF",
       "displayName": "gemma 4 31B qat",
       "downloads": 64518
+    },
+    {
+      "id": "SulphurAI/Sulphur-2-base",
+      "displayName": "Sulphur 2 base",
+      "downloads": 1498587
     }
   ]
 }
