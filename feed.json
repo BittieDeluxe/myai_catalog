@@ -1,6 +1,34 @@
 {
-  "updated": "2026-06-11T13:55:31Z",
+  "updated": "2026-06-11T17:34:40Z",
   "news": [
+    {
+      "title": "Amazon&#8217;s data centers used 2.5 billion gallons of water last year",
+      "url": "https://www.theverge.com/tech/948534/amazon-data-centers-water-use",
+      "source": "The Verge",
+      "publishedAt": "2026-06-11T17:26:57Z",
+      "snippet": "Just after Seattle enacted a one-year data center moratorium that some of Amazon's own employees pushed for, Amazon shared how much water its data centers use, reportedly for the first time. With conc"
+    },
+    {
+      "title": "Deezer\u2019s new tool can identify AI music from Spotify, Apple Music, and others",
+      "url": "https://techcrunch.com/2026/06/11/deezers-new-tool-can-identify-ai-music-from-spotify-apple-music-and-others/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-11T16:36:20Z",
+      "snippet": "Deezer introduced a tool that scans playlists from Spotify, Apple Music, and other platforms to identify AI music."
+    },
+    {
+      "title": "Pool\u2019s new app turns your screenshots into something useful",
+      "url": "https://techcrunch.com/2026/06/11/pools-new-app-turns-your-screenshots-into-a-searchable-memory-bank/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-11T15:30:00Z",
+      "snippet": "Pool's new app automatically sorts screenshots into personalized collections, tracks down the original links behind saved content, and helps you rediscover products, recipes, travel ideas, and other t"
+    },
+    {
+      "title": "DoorDash\u2019s new AI chatbot lets you order with prompts and photos",
+      "url": "https://techcrunch.com/2026/06/11/doordashs-new-ai-chatbot-lets-you-order-with-prompts-and-photos/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-11T14:23:43Z",
+      "snippet": "The new chatbot, called Ask DoorDash, allows users to search the app for what they're looking for in their own words instead of having to scroll through restaurants and stores to build a cart."
+    },
     {
       "title": "Anthropic apologizes for invisible Claude Fable guardrails",
       "url": "https://www.theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail",
@@ -27,7 +55,7 @@
       "url": "https://techcrunch.com/2026/06/10/anthropics-dario-amodei-has-just-one-direct-report/",
       "source": "TechCrunch",
       "publishedAt": "2026-06-11T03:53:06Z",
-      "snippet": "If you doubted his genius, doubt no more."
+      "snippet": "If founders and other business leaders weren't already envious of Dario Amodei, who sits atop one of the world's fastest-growing AI companies, they're going to be seriously envious now."
     },
     {
       "title": "xAI fired an engineer who raised alarms about Grok safety, new lawsuit claims",
@@ -142,39 +170,11 @@
       "snippet": "Decart is launching Oasis 3, a real-time world model that generates photorealistic driving environments for autonomous vehicle testing, now available via API for developers to build on."
     },
     {
-      "title": "Meta signs first AI data center deal in India with Reliance",
-      "url": "https://techcrunch.com/2026/06/10/meta-signs-first-ai-data-center-deal-in-india-with-reliance/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-10T07:05:26Z",
-      "snippet": "The 168-megawatt facility will support Meta's global AI computing needs and can be expanded over time."
-    },
-    {
-      "title": "Google just fired a warning shot in the AI subscription price wars",
-      "url": "https://techcrunch.com/2026/06/09/google-just-fired-a-warning-shot-in-the-ai-subscription-price-wars/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-10T00:26:10Z",
-      "snippet": "Google just made it significantly cheaper to enjoy its budget AI subscription tier."
-    },
-    {
       "title": "I tried Siri AI, and so far it actually works",
       "url": "https://www.theverge.com/tech/947432/siri-ai-apple-intelligence-ios-27-wwdc",
       "source": "The Verge",
       "publishedAt": "2026-06-09T23:43:00Z",
       "snippet": "Parents want one thing, and one thing only, out of AI: to add a list of soccer games or \"spirit week\" theme days from an email or a poorly formatted flyer onto their calendar in one shot. And I have g"
-    },
-    {
-      "title": "How Justin Ernest invested nearly $500M into hot startups without a traditional VC fund",
-      "url": "https://techcrunch.com/2026/06/09/how-justin-ernest-invested-nearly-500m-into-hot-startups-without-a-traditional-vc-fund/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-09T23:17:51Z",
-      "snippet": "Instead of spending a year raising a formal venture fund, the Sabertooth VC founder used a captive network of LPs to invest in startups like Anthropic, Anduril, and SpaceX."
-    },
-    {
-      "title": "GM thinks EVs can help offset AI\u2019s energy suck with vehicle-to-grid tech",
-      "url": "https://www.theverge.com/transportation/946820/gm-energy-ev-v2g-storage-sodium-ion",
-      "source": "The Verge",
-      "publishedAt": "2026-06-09T21:00:00Z",
-      "snippet": "At an event in San Francisco today, General Motors made a series of announcements around EV batteries, energy storage, and grid resiliency in the face of growing electricity demand from AI data center"
     }
   ],
   "trending": [
