@@ -1,6 +1,20 @@
 {
-  "updated": "2026-06-11T08:41:47Z",
+  "updated": "2026-06-11T13:55:31Z",
   "news": [
+    {
+      "title": "Anthropic apologizes for invisible Claude Fable guardrails",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail",
+      "source": "The Verge",
+      "publishedAt": "2026-06-11T11:40:43Z",
+      "snippet": "Anthropic has apologized for stealthily throttling its new AI model, Claude Fable 5, with hidden guardrails that undermine both researchers and rivals using it to develop competing systems. The compan"
+    },
+    {
+      "title": "Deezer launches an AI music detector for other streaming services",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/948153/deezer-ai-music-detector-spotify-apple",
+      "source": "The Verge",
+      "publishedAt": "2026-06-11T08:00:00Z",
+      "snippet": "Deezer will now scan your playlists on other streaming platforms to detect AI-generated music. Deezer was the first of the big streaming services to start labeling AI-generated music. It even offered "
+    },
     {
       "title": "Opendoor\u2019s India exit is fueling a bigger conversation about AI and outsourcing",
       "url": "https://techcrunch.com/2026/06/10/opendoors-india-exit-is-fueling-a-bigger-conversation-about-ai-and-outsourcing/",
@@ -161,20 +175,6 @@
       "source": "The Verge",
       "publishedAt": "2026-06-09T21:00:00Z",
       "snippet": "At an event in San Francisco today, General Motors made a series of announcements around EV batteries, energy storage, and grid resiliency in the face of growing electricity demand from AI data center"
-    },
-    {
-      "title": "Microsoft AI head calls out Anthropic for acting like Claude is conscious",
-      "url": "https://www.theverge.com/tech/947197/microsoft-ai-mustafa-suleyman-anthropic-claude-conscious",
-      "source": "The Verge",
-      "publishedAt": "2026-06-09T20:24:25Z",
-      "snippet": "Microsoft AI CEO Mustafa Suleyman says it's \"really, really dangerous\" for Anthropic to speculate about Claude's consciousness inside its \"constitution,\" or the instructions that tell the model how to"
-    },
-    {
-      "title": "Anthropic releases its first Mythos-class model Claude Fable",
-      "url": "https://www.theverge.com/news/946725/anthropic-releases-claude-fable-5-mythos",
-      "source": "The Verge",
-      "publishedAt": "2026-06-09T17:00:00Z",
-      "snippet": "Anthropic just announced Claude Fable 5, a new AI model it said is the most powerful model it has ever made widely available. According to the company, Fable 5 \"shows exceptional performance in softwa"
     }
   ],
   "trending": [
@@ -199,14 +199,14 @@
       "downloads": 148252
     },
     {
-      "id": "unsloth/gemma-4-26B-A4B-it-qat-GGUF",
-      "displayName": "gemma 4 26B A4B qat",
-      "downloads": 129110
-    },
-    {
       "id": "unsloth/diffusiongemma-26B-A4B-it-GGUF",
       "displayName": "diffusiongemma 26B A4B",
       "downloads": 0
+    },
+    {
+      "id": "unsloth/gemma-4-26B-A4B-it-qat-GGUF",
+      "displayName": "gemma 4 26B A4B qat",
+      "downloads": 129110
     },
     {
       "id": "google/gemma-4-12B-it-qat-q4_0-gguf",
@@ -224,9 +224,9 @@
       "downloads": 1498587
     },
     {
-      "id": "unsloth/Qwen3.6-27B-MTP-GGUF",
-      "displayName": "Qwen3.6 27B MTP",
-      "downloads": 1083728
+      "id": "unsloth/gemma-4-31B-it-qat-GGUF",
+      "displayName": "gemma 4 31B qat",
+      "downloads": 64518
     }
   ]
 }
