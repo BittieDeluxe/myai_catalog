@@ -1,6 +1,20 @@
 {
-  "updated": "2026-06-11T03:33:12Z",
+  "updated": "2026-06-11T08:41:47Z",
   "news": [
+    {
+      "title": "Opendoor\u2019s India exit is fueling a bigger conversation about AI and outsourcing",
+      "url": "https://techcrunch.com/2026/06/10/opendoors-india-exit-is-fueling-a-bigger-conversation-about-ai-and-outsourcing/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-11T04:02:19Z",
+      "snippet": "The decision comes as India emerges as the world\u2019s largest GCC market."
+    },
+    {
+      "title": "Anthropic\u2019s Dario Amodei has just one direct report",
+      "url": "https://techcrunch.com/2026/06/10/anthropics-dario-amodei-has-just-one-direct-report/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-11T03:53:06Z",
+      "snippet": "If you doubted his genius, doubt no more."
+    },
     {
       "title": "xAI fired an engineer who raised alarms about Grok safety, new lawsuit claims",
       "url": "https://techcrunch.com/2026/06/10/xai-fired-an-engineer-who-raised-alarms-about-grok-safety-new-lawsuit-claims/",
@@ -149,20 +163,6 @@
       "snippet": "At an event in San Francisco today, General Motors made a series of announcements around EV batteries, energy storage, and grid resiliency in the face of growing electricity demand from AI data center"
     },
     {
-      "title": "Hey, Siri, here\u2019s what I actually want from AI",
-      "url": "https://techcrunch.com/2026/06/09/hey-siri-heres-what-i-actually-want-from-ai/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-09T20:50:17Z",
-      "snippet": "I'm desperate for a personal AI assistant, but do I really want to become the kind of person who can't function without the friendly robot voice in my phone?"
-    },
-    {
-      "title": "Anthropic\u2019s Fable 5 can make weirdly fun video games with the click of a button",
-      "url": "https://techcrunch.com/2026/06/09/anthropics-fable-5-can-make-weirdly-fun-video-games-with-the-click-of-a-button/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-09T20:37:49Z",
-      "snippet": "Anthropic's Claude Fable 5 is going to be a big hit with the web's vibe coders."
-    },
-    {
       "title": "Microsoft AI head calls out Anthropic for acting like Claude is conscious",
       "url": "https://www.theverge.com/tech/947197/microsoft-ai-mustafa-suleyman-anthropic-claude-conscious",
       "source": "The Verge",
@@ -204,14 +204,14 @@
       "downloads": 129110
     },
     {
-      "id": "google/gemma-4-12B-it-qat-q4_0-gguf",
-      "displayName": "gemma 4 12B qat q4_0",
-      "downloads": 96749
-    },
-    {
       "id": "unsloth/diffusiongemma-26B-A4B-it-GGUF",
       "displayName": "diffusiongemma 26B A4B",
       "downloads": 0
+    },
+    {
+      "id": "google/gemma-4-12B-it-qat-q4_0-gguf",
+      "displayName": "gemma 4 12B qat q4_0",
+      "downloads": 96749
     },
     {
       "id": "Jiunsong/supergemma4-26b-uncensored-gguf-v2",
@@ -219,14 +219,14 @@
       "downloads": 142580
     },
     {
-      "id": "unsloth/Qwen3.6-27B-MTP-GGUF",
-      "displayName": "Qwen3.6 27B MTP",
-      "downloads": 1083728
-    },
-    {
       "id": "SulphurAI/Sulphur-2-base",
       "displayName": "Sulphur 2 base",
       "downloads": 1498587
+    },
+    {
+      "id": "unsloth/Qwen3.6-27B-MTP-GGUF",
+      "displayName": "Qwen3.6 27B MTP",
+      "downloads": 1083728
     }
   ]
 }
