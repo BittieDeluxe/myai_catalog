@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-10T23:22:34Z",
+  "updated": "2026-06-11T03:33:12Z",
   "news": [
     {
       "title": "xAI fired an engineer who raised alarms about Grok safety, new lawsuit claims",
@@ -209,14 +209,14 @@
       "downloads": 96749
     },
     {
-      "id": "Jiunsong/supergemma4-26b-uncensored-gguf-v2",
-      "displayName": "supergemma4 26b uncensored v2",
-      "downloads": 142580
-    },
-    {
       "id": "unsloth/diffusiongemma-26B-A4B-it-GGUF",
       "displayName": "diffusiongemma 26B A4B",
       "downloads": 0
+    },
+    {
+      "id": "Jiunsong/supergemma4-26b-uncensored-gguf-v2",
+      "displayName": "supergemma4 26b uncensored v2",
+      "downloads": 142580
     },
     {
       "id": "unsloth/Qwen3.6-27B-MTP-GGUF",
