@@ -1,6 +1,48 @@
 {
-  "updated": "2026-06-12T12:51:19Z",
+  "updated": "2026-06-12T16:41:17Z",
   "news": [
+    {
+      "title": "Elon Musk is the world&#8217;s first trillionaire",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/948409/elon-musk-trillionaire-spacex-ipo",
+      "source": "The Verge",
+      "publishedAt": "2026-06-12T16:24:39Z",
+      "snippet": "Elon Musk's net worth has passed the trillion-dollar mark after SpaceX's IPO. His net worth, which was hovering around $800 billion before the IPO, includes the value of his 4.8 billion shares in Spac"
+    },
+    {
+      "title": "SpaceX, Anthropic, and OpenAI\u2019s hot IPO summer",
+      "url": "https://techcrunch.com/video/spacex-anthropic-and-openais-hot-ipo-summer/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-12T16:23:25Z",
+      "snippet": "The IPO market is back, and&#160;it&#8217;s&#160;not the same&#160;companies&#160;leading the charge. FAANG had a good run, but a&#160;new acronym is taking over: MANGOS&#160;\u2014 Meta (or Microsoft, dep"
+    },
+    {
+      "title": "It\u2019s\u00a0hot IPO summer, and the MANGOS are ripe",
+      "url": "https://techcrunch.com/podcast/its-hot-ipo-summer-and-the-mangos-are-ripe/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-12T15:50:52Z",
+      "snippet": "The IPO market is back, and&#160;it&#8217;s&#160;not the same&#160;companies&#160;leading the charge. FAANG had a good run, but a&#160;new acronym is taking over: MANGOS&#160;\u2014 Meta (or Microsoft, dep"
+    },
+    {
+      "title": "SpaceX\u2019s massive IPO: all the latest news",
+      "url": "https://www.theverge.com/business/948996/spacex-ipo-elon-musk",
+      "source": "The Verge",
+      "publishedAt": "2026-06-12T14:35:48Z",
+      "snippet": "SpaceX&#8217;s IPO on Friday allows the public to buy shares of the combined rocket, AI, and social media company for the first time, and is raising enough money to likely make Elon Musk the first tri"
+    },
+    {
+      "title": "SpaceX IPO: Everything you need to know",
+      "url": "https://techcrunch.com/2026/06/12/spacex-ipo-everything-you-need-to-know/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-12T14:08:54Z",
+      "snippet": "TechCrunch has followed SpaceX's start, struggles, and successes from the early days. And we're here for what happens next too. This package of SpaceX IPO coverage includes who stands to win (and mayb"
+    },
+    {
+      "title": "Jeff Bezos\u2019 AI startup aims to build an \u2018artificial general engineer\u2019",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/949005/jeff-bezos-prometheus-artificial-general-engineer",
+      "source": "The Verge",
+      "publishedAt": "2026-06-12T14:03:39Z",
+      "snippet": "Amazon founder Jeff Bezos says his new AI startup will work toward developing an \"artificial general engineer,\" according to reports from The New York Times and CNBC. The startup, called Prometheus, a"
+    },
     {
       "title": "Siri won\u2019t be your AI girlfriend",
       "url": "https://www.theverge.com/tech/948890/siri-wont-be-your-ai-girlfriend",
@@ -13,7 +55,7 @@
       "url": "https://techcrunch.com/2026/06/11/cheaper-faster-and-culturally-aware-avataars-video-ai-is-built-for-indias-scale/",
       "source": "TechCrunch",
       "publishedAt": "2026-06-12T04:30:00Z",
-      "snippet": "Avataar AI's distilled video model is priced at $0.005 for every second of generation"
+      "snippet": "Avataar AI's distilled video model is priced at $0.005 for every second of generation."
     },
     {
       "title": "Theker just raised $85M to build the factory robot that doesn\u2019t specialize in anything",
@@ -133,60 +175,23 @@
       "source": "The Verge",
       "publishedAt": "2026-06-10T17:38:00Z",
       "snippet": "Hello and welcome to Regulator, a newsletter for Verge subscribers about tech politics, tech influence, and tech shenanigans in Washington, DC. (If you're not a subscriber, you can get on board here.)"
-    },
-    {
-      "title": "Google won\u2019t just admit it\u2019s feeding YouTube creators to its music AI",
-      "url": "https://www.theverge.com/tech/947770/google-lyria-music-ai-lawsuit-youtube",
-      "source": "The Verge",
-      "publishedAt": "2026-06-10T17:20:36Z",
-      "snippet": "If you've uploaded a song to YouTube, Google almost certainly considers your video fair game for training its Lyria music AI, it just won't admit it right now. A group of independent musicians is suin"
-    },
-    {
-      "title": "\u2018AI-pilled\u2019 firms spend $7,500 per employee each month on AI",
-      "url": "https://techcrunch.com/2026/06/10/ai-pilled-firms-spend-7500-per-employee-each-month-on-ai/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-10T17:07:35Z",
-      "snippet": "The most AI-obsessed firms are spending roughly $7,500 monthly per employee on AI, per Ramp AI Index. That's not more than an engineer's salary \u2014 yet."
-    },
-    {
-      "title": "Microsoft restricts Claude Fable for employees over data retention concerns",
-      "url": "https://www.theverge.com/report/947575/microsoft-claude-fable-5-restricted-internally",
-      "source": "The Verge",
-      "publishedAt": "2026-06-10T16:50:23Z",
-      "snippet": "Anthropic released Claude Fable, its first Mythos-class AI model, yesterday and it's already causing concerns inside Microsoft. Sources tell me that Microsoft is limiting the use of Claude Fable 5 for"
-    },
-    {
-      "title": "Google will save your Lens photos, Search Live recordings, and Translate audio for AI training",
-      "url": "https://www.theverge.com/tech/947836/google-search-privacy-settings-images-audio",
-      "source": "The Verge",
-      "publishedAt": "2026-06-10T16:18:45Z",
-      "snippet": "Google is making some changes to how it saves your interactions with Search. In an email sent to users, Google says it will save the images, files, audio, and video you use to search under a new \"Sear"
-    },
-    {
-      "title": "How memory tools can make AI models worse",
-      "url": "https://techcrunch.com/2026/06/10/how-memory-tools-can-make-ai-models-worse/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-10T16:11:08Z",
-      "snippet": "New research suggests that AI memory systems can degrade model performance and encourage sycophantic tendencies."
-    },
-    {
-      "title": "Cybersecurity researchers aren\u2019t happy about the guardrails on Anthropic\u2019s Fable",
-      "url": "https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-10T15:41:22Z",
-      "snippet": "Cybersecurity researchers are complaining that Anthropic's new model Fable has guardrails that are too strict for any cybersecurity work."
     }
   ],
   "trending": [
+    {
+      "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
+      "displayName": "Qwen3.6 35B A3B Uncensored HauhauCS Aggressive",
+      "downloads": 2393894
+    },
     {
       "id": "OBLITERATUS/Gemma-4-12B-OBLITERATED",
       "displayName": "Gemma 4 12B OBLITERATED",
       "downloads": 43578
     },
     {
-      "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
-      "displayName": "Qwen3.6 35B A3B Uncensored HauhauCS Aggressive",
-      "downloads": 2393894
+      "id": "unsloth/diffusiongemma-26B-A4B-it-GGUF",
+      "displayName": "diffusiongemma 26B A4B",
+      "downloads": 17666
     },
     {
       "id": "unsloth/gemma-4-12b-it-GGUF",
@@ -199,11 +204,6 @@
       "downloads": 208889
     },
     {
-      "id": "unsloth/diffusiongemma-26B-A4B-it-GGUF",
-      "displayName": "diffusiongemma 26B A4B",
-      "downloads": 17666
-    },
-    {
       "id": "unsloth/gemma-4-26B-A4B-it-qat-GGUF",
       "displayName": "gemma 4 26B A4B qat",
       "downloads": 221174
@@ -214,6 +214,11 @@
       "downloads": 175635
     },
     {
+      "id": "Jackrong/Qwopus3.6-27B-Coder-MTP-GGUF",
+      "displayName": "Qwopus3.6 27B Coder MTP",
+      "downloads": 0
+    },
+    {
       "id": "Jiunsong/supergemma4-26b-uncensored-gguf-v2",
       "displayName": "supergemma4 26b uncensored v2",
       "downloads": 136143
@@ -222,11 +227,6 @@
       "id": "unsloth/gemma-4-31B-it-qat-GGUF",
       "displayName": "gemma 4 31B qat",
       "downloads": 107500
-    },
-    {
-      "id": "Jackrong/Qwopus3.6-27B-Coder-MTP-GGUF",
-      "displayName": "Qwopus3.6 27B Coder MTP",
-      "downloads": 0
     }
   ]
 }
