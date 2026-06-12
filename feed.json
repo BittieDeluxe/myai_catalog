@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-12T08:21:09Z",
+  "updated": "2026-06-12T12:51:19Z",
   "news": [
     {
       "title": "Siri won\u2019t be your AI girlfriend",
@@ -179,54 +179,54 @@
   ],
   "trending": [
     {
-      "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
-      "displayName": "Qwen3.6 35B A3B Uncensored HauhauCS Aggressive",
-      "downloads": 3057541
-    },
-    {
       "id": "OBLITERATUS/Gemma-4-12B-OBLITERATED",
       "displayName": "Gemma 4 12B OBLITERATED",
-      "downloads": 14838
+      "downloads": 43578
+    },
+    {
+      "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
+      "displayName": "Qwen3.6 35B A3B Uncensored HauhauCS Aggressive",
+      "downloads": 2393894
     },
     {
       "id": "unsloth/gemma-4-12b-it-GGUF",
       "displayName": "gemma 4 12b",
-      "downloads": 711706
+      "downloads": 836531
     },
     {
       "id": "unsloth/gemma-4-12B-it-qat-GGUF",
       "displayName": "gemma 4 12B qat",
-      "downloads": 148252
+      "downloads": 208889
     },
     {
       "id": "unsloth/diffusiongemma-26B-A4B-it-GGUF",
       "displayName": "diffusiongemma 26B A4B",
-      "downloads": 0
+      "downloads": 17666
     },
     {
       "id": "unsloth/gemma-4-26B-A4B-it-qat-GGUF",
       "displayName": "gemma 4 26B A4B qat",
-      "downloads": 129110
+      "downloads": 221174
     },
     {
       "id": "google/gemma-4-12B-it-qat-q4_0-gguf",
       "displayName": "gemma 4 12B qat q4_0",
-      "downloads": 96749
+      "downloads": 175635
     },
     {
       "id": "Jiunsong/supergemma4-26b-uncensored-gguf-v2",
       "displayName": "supergemma4 26b uncensored v2",
-      "downloads": 142580
+      "downloads": 136143
     },
     {
       "id": "unsloth/gemma-4-31B-it-qat-GGUF",
       "displayName": "gemma 4 31B qat",
-      "downloads": 64518
+      "downloads": 107500
     },
     {
-      "id": "google/gemma-4-31B-it-qat-q4_0-gguf",
-      "displayName": "gemma 4 31B qat q4_0",
-      "downloads": 45613
+      "id": "Jackrong/Qwopus3.6-27B-Coder-MTP-GGUF",
+      "displayName": "Qwopus3.6 27B Coder MTP",
+      "downloads": 0
     }
   ]
 }
