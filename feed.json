@@ -1,6 +1,20 @@
 {
-  "updated": "2026-06-11T23:18:38Z",
+  "updated": "2026-06-12T03:32:36Z",
   "news": [
+    {
+      "title": "Theker just raised $85M to build the factory robot that doesn\u2019t specialize in anything",
+      "url": "https://techcrunch.com/2026/06/11/theker-just-raised-85m-to-build-the-factory-robot-that-doesnt-specialize-in-anything/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-12T01:48:07Z",
+      "snippet": "Unlike humanoid robots designed around a fixed form \u2014 think Boston Dynamics \u2014 Theker's machines are built to be reconfigured."
+    },
+    {
+      "title": "Jeff Bezos\u2019s Prometheus raises $12B to build an \u2018artificial general engineer\u2019 for the physical world",
+      "url": "https://techcrunch.com/2026/06/11/jeff-bezoss-prometheus-raises-12b-to-build-an-artificial-general-engineer-for-the-physical-world/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-12T01:04:38Z",
+      "snippet": "The new round values the physical AI startup that aims to automate heavy engineering and drug design at $41 billion."
+    },
     {
       "title": "SpaceX officially prices shares at $135 in the largest IPO ever",
       "url": "https://techcrunch.com/2026/06/11/spacex-officially-prices-shares-at-135-in-the-largest-ipo-ever/",
@@ -154,20 +168,6 @@
       "source": "TechCrunch",
       "publishedAt": "2026-06-10T15:00:00Z",
       "snippet": "AI coding agent startup Niteshift has raised a $7 million seed round from a who's who of angels. It's betting companies will want power over, not lock-in with model makers."
-    },
-    {
-      "title": "The three hard-tech moonshots fueling SpaceX\u2019s unbelievable IPO",
-      "url": "https://techcrunch.com/2026/06/10/the-three-hard-tech-moonshots-fueling-spacexs-unbelievable-ipo/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-10T14:48:01Z",
-      "snippet": "Most of the value in SpaceX's IPO is effectively a call option on the company's ambitious space data center plans."
-    },
-    {
-      "title": "Warner Music acquires AI attribution startup Sureel AI",
-      "url": "https://techcrunch.com/2026/06/10/warner-music-acquires-ai-attribution-startup-sureel-ai/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-10T14:31:30Z",
-      "snippet": "Through the acquisition, WMG aims to better track when its artists' work is used in AI-generated content or for training AI models."
     },
     {
       "title": "I tried Siri AI, and so far it actually works",
