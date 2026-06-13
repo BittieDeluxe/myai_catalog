@@ -1,6 +1,13 @@
 {
-  "updated": "2026-06-13T15:40:46Z",
+  "updated": "2026-06-13T17:18:44Z",
   "news": [
+    {
+      "title": "OpenAI faces investigation from state attorneys general",
+      "url": "https://techcrunch.com/2026/06/13/openai-faces-investigation-from-state-attorneys-general/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-13T16:47:18Z",
+      "snippet": "It's not clear which states are involved, but they're asking about everything from OpenAI's ad policies to its handling of health data."
+    },
     {
       "title": "My yard is dying, so I made an app for that",
       "url": "https://www.theverge.com/ai-artificial-intelligence/942119/vibecoding-backyard-app-gardening-organizing",
@@ -168,13 +175,6 @@
       "source": "TechCrunch",
       "publishedAt": "2026-06-11T16:36:20Z",
       "snippet": "Deezer introduced a tool that scans playlists from Spotify, Apple Music, and other platforms to identify AI music."
-    },
-    {
-      "title": "Pool\u2019s new app turns your screenshots into something useful",
-      "url": "https://techcrunch.com/2026/06/11/pools-new-app-turns-your-screenshots-into-a-searchable-memory-bank/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-11T15:30:00Z",
-      "snippet": "Pool's new app automatically sorts screenshots into personalized collections, tracks down the original links behind saved content, and helps you rediscover products, recipes, travel ideas, and other t"
     }
   ],
   "trending": [
@@ -184,14 +184,14 @@
       "downloads": 42885
     },
     {
-      "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
-      "displayName": "Qwen3.6 35B A3B Uncensored HauhauCS Aggressive",
-      "downloads": 2411202
-    },
-    {
       "id": "OBLITERATUS/Gemma-4-12B-OBLITERATED",
       "displayName": "Gemma 4 12B OBLITERATED",
       "downloads": 50289
+    },
+    {
+      "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
+      "displayName": "Qwen3.6 35B A3B Uncensored HauhauCS Aggressive",
+      "downloads": 2411202
     },
     {
       "id": "unsloth/gemma-4-12b-it-GGUF",
