@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-13T13:50:55Z",
+  "updated": "2026-06-13T15:40:46Z",
   "news": [
     {
       "title": "My yard is dying, so I made an app for that",
@@ -184,14 +184,14 @@
       "downloads": 42885
     },
     {
-      "id": "OBLITERATUS/Gemma-4-12B-OBLITERATED",
-      "displayName": "Gemma 4 12B OBLITERATED",
-      "downloads": 50289
-    },
-    {
       "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
       "displayName": "Qwen3.6 35B A3B Uncensored HauhauCS Aggressive",
       "downloads": 2411202
+    },
+    {
+      "id": "OBLITERATUS/Gemma-4-12B-OBLITERATED",
+      "displayName": "Gemma 4 12B OBLITERATED",
+      "downloads": 50289
     },
     {
       "id": "unsloth/gemma-4-12b-it-GGUF",
