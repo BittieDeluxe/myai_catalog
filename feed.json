@@ -1,6 +1,13 @@
 {
-  "updated": "2026-06-13T17:18:44Z",
+  "updated": "2026-06-13T19:19:10Z",
   "news": [
+    {
+      "title": "Amazon CEO reportedly raised Anthropic model concerns before government crackdown",
+      "url": "https://techcrunch.com/2026/06/13/amazon-ceo-reportedly-raised-anthropic-model-concerns-before-government-crackdown/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-13T19:11:41Z",
+      "snippet": "Amazon CEO Andy Jassy may have been the source of security concerns that led Anthropic to cut off worldwide access to two models on Friday."
+    },
     {
       "title": "OpenAI faces investigation from state attorneys general",
       "url": "https://techcrunch.com/2026/06/13/openai-faces-investigation-from-state-attorneys-general/",
@@ -168,13 +175,6 @@
       "source": "The Verge",
       "publishedAt": "2026-06-11T17:26:57Z",
       "snippet": "Just after Seattle enacted a one-year data center moratorium that some of Amazon's own employees pushed for, Amazon shared how much water its data centers use, reportedly for the first time. With conc"
-    },
-    {
-      "title": "Deezer\u2019s new tool can identify AI music from Spotify, Apple Music, and others",
-      "url": "https://techcrunch.com/2026/06/11/deezers-new-tool-can-identify-ai-music-from-spotify-apple-music-and-others/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-11T16:36:20Z",
-      "snippet": "Deezer introduced a tool that scans playlists from Spotify, Apple Music, and other platforms to identify AI music."
     }
   ],
   "trending": [
@@ -184,24 +184,24 @@
       "downloads": 42885
     },
     {
-      "id": "OBLITERATUS/Gemma-4-12B-OBLITERATED",
-      "displayName": "Gemma 4 12B OBLITERATED",
-      "downloads": 50289
-    },
-    {
       "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
       "displayName": "Qwen3.6 35B A3B Uncensored HauhauCS Aggressive",
       "downloads": 2411202
     },
     {
-      "id": "unsloth/gemma-4-12b-it-GGUF",
-      "displayName": "gemma 4 12b",
-      "downloads": 872895
+      "id": "OBLITERATUS/Gemma-4-12B-OBLITERATED",
+      "displayName": "Gemma 4 12B OBLITERATED",
+      "downloads": 50289
     },
     {
       "id": "Jackrong/Qwopus3.6-27B-Coder-MTP-GGUF",
       "displayName": "Qwopus3.6 27B Coder MTP",
       "downloads": 11291
+    },
+    {
+      "id": "unsloth/gemma-4-12b-it-GGUF",
+      "displayName": "gemma 4 12b",
+      "downloads": 872895
     },
     {
       "id": "unsloth/gemma-4-12B-it-qat-GGUF",
@@ -214,14 +214,14 @@
       "downloads": 260757
     },
     {
-      "id": "google/gemma-4-12B-it-qat-q4_0-gguf",
-      "displayName": "gemma 4 12B qat q4_0",
-      "downloads": 210048
-    },
-    {
       "id": "Jiunsong/supergemma4-26b-uncensored-gguf-v2",
       "displayName": "supergemma4 26b uncensored v2",
       "downloads": 98892
+    },
+    {
+      "id": "google/gemma-4-12B-it-qat-q4_0-gguf",
+      "displayName": "gemma 4 12B qat q4_0",
+      "downloads": 210048
     },
     {
       "id": "DavidAU/Qwen3.6-40B-Claude-4.6-Opus-Deckard-Heretic-Uncensored-Thinking-NEO-CODE-Di-IMatrix-MAX-GGUF",
