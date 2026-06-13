@@ -1,6 +1,13 @@
 {
-  "updated": "2026-06-13T19:19:10Z",
+  "updated": "2026-06-13T21:10:52Z",
   "news": [
+    {
+      "title": "KPMG pulls report on AI usage due to apparent hallucinations",
+      "url": "https://techcrunch.com/2026/06/13/kpmg-pulls-report-on-ai-usage-due-to-apparent-hallucinations/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-13T20:42:31Z",
+      "snippet": "Once again, AI proves to be an unreliable source of information about AI."
+    },
     {
       "title": "Amazon CEO reportedly raised Anthropic model concerns before government crackdown",
       "url": "https://techcrunch.com/2026/06/13/amazon-ceo-reportedly-raised-anthropic-model-concerns-before-government-crackdown/",
@@ -163,13 +170,6 @@
       "snippet": "Wits its official share pricing announcement, SpaceX's IPO has begun."
     },
     {
-      "title": "SpaceX SPV investors won\u2019t know their true holdings until post-IPO lock-ups lift",
-      "url": "https://techcrunch.com/2026/06/11/spacex-spv-investors-wont-know-their-true-holdings-until-post-ipo-lock-ups-lift/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-11T19:58:01Z",
-      "snippet": "After SpaceX makes its public debut, lower-tier SPV investors face hidden fees, lengthy payout delays, and the  risk of outright fraud."
-    },
-    {
       "title": "Amazon&#8217;s data centers used 2.5 billion gallons of water last year",
       "url": "https://www.theverge.com/tech/948534/amazon-data-centers-water-use",
       "source": "The Verge",
@@ -219,14 +219,14 @@
       "downloads": 98892
     },
     {
-      "id": "google/gemma-4-12B-it-qat-q4_0-gguf",
-      "displayName": "gemma 4 12B qat q4_0",
-      "downloads": 210048
-    },
-    {
       "id": "DavidAU/Qwen3.6-40B-Claude-4.6-Opus-Deckard-Heretic-Uncensored-Thinking-NEO-CODE-Di-IMatrix-MAX-GGUF",
       "displayName": "Qwen3.6 40B Claude 4.6 Opus Deckard Heretic Uncensored Thinking NEO CODE Di IMatrix MAX",
       "downloads": 387010
+    },
+    {
+      "id": "google/gemma-4-12B-it-qat-q4_0-gguf",
+      "displayName": "gemma 4 12B qat q4_0",
+      "downloads": 210048
     }
   ]
 }
