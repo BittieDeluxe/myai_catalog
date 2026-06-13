@@ -1,68 +1,26 @@
 {
-  "updated": "2026-06-13T07:42:19Z",
+  "updated": "2026-06-13T10:24:38Z",
   "news": [
     {
-      "title": "Andrew Yang thinks the next big startup opportunity is lowering the cost of living",
-      "url": "https://techcrunch.com/2026/06/12/andrew-yang-thinks-the-next-big-startup-opportunity-is-lowering-the-cost-of-living/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-13T04:14:19Z",
-      "snippet": "Andrew Yang made a list of everything Americans overpay for \u2014 housing, food, wireless \u2014 and thinks the next startup gold rush is giving that money back."
+      "title": "Siri is good now??",
+      "url": "https://www.theverge.com/podcast/949079/siri-ai-good-vergecast",
+      "source": "The Verge",
+      "publishedAt": "2026-06-12T17:17:04Z",
+      "snippet": "You'd be forgiven for thinking this day would never come. Siri has spent a decade and half somewhere between \"sort of useful at a few things\" and \"utterly disastrous, why did I even try, can it honest"
     },
     {
-      "title": "Anthropic\u2019s safety warnings may have just backfired \u2014 the government has pulled the plug on its most powerful AI",
-      "url": "https://techcrunch.com/2026/06/12/anthropics-safety-warnings-may-have-just-backfired-the-government-has-pulled-the-plug-on-its-most-powerful-ai/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-13T02:26:30Z",
-      "snippet": "Anthropic isn't hiding its frustration. \"We disagree that the finding of a narrow potential jailbreak should be cause for recalling a commercial model deployed to hundreds of millions of people,\" the "
-    },
-    {
-      "title": "SpaceX IPO: Live updates on everything you need to know",
-      "url": "https://techcrunch.com/2026/06/12/spacex-ipo-live-updates-on-everything-you-need-to-know/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-12T23:15:14Z",
-      "snippet": "TechCrunch has followed SpaceX's start, struggles, and successes from the early days. And we're here for what happens next too. This package of SpaceX IPO coverage includes who stands to win (and mayb"
-    },
-    {
-      "title": "Meta\u2019s months-old AI unit is a soul-crushing gulag, say the engineers stuck inside it",
-      "url": "https://techcrunch.com/2026/06/12/metas-months-old-ai-unit-is-a-soul-crushing-gulag-say-the-engineers-stuck-inside-it/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-12T23:00:54Z",
-      "snippet": "A new report suggests the unit, which employs 6,500 people, is on the verge of revolt."
-    },
-    {
-      "title": "Chinese cybercrime operation that used AI to scam \u2018hundreds of thousands of victims\u2019 sued by Google",
-      "url": "https://techcrunch.com/2026/06/12/chinese-cybercrime-operation-that-used-ai-to-scam-hundreds-of-thousands-of-victims-sued-by-google/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-12T20:38:09Z",
-      "snippet": "The tech giant said a group called \"Outsider Enterprise\" used AI to scam hundreds of thousands of victims, sending 2.5 million text messages over a span of two weeks."
-    },
-    {
-      "title": "Mistral is rumored to be raising \u20ac3B at \u20ac20B valuation",
-      "url": "https://techcrunch.com/2026/06/12/mistral-is-rumored-to-be-raising-e3b-at-e20-valuation/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-12T17:38:11Z",
-      "snippet": "The funding round would value the company at around \u20ac20 billion (about $23.15 billion), nearly double its Series C valuation of \u20ac11.7 billion."
-    },
-    {
-      "title": "SpaceX, Anthropic, and OpenAI\u2019s hot IPO summer",
-      "url": "https://techcrunch.com/video/spacex-anthropic-and-openais-hot-ipo-summer/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-12T16:23:25Z",
-      "snippet": "The IPO market is back, and&#160;it&#8217;s&#160;not the same&#160;companies&#160;leading the charge. FAANG had a good run, but a&#160;new acronym is taking over: MANGOS&#160;\u2014 Meta (or Microsoft, dep"
-    },
-    {
-      "title": "It\u2019s\u00a0hot IPO summer, and the MANGOS are ripe",
-      "url": "https://techcrunch.com/podcast/its-hot-ipo-summer-and-the-mangos-are-ripe/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-12T15:50:52Z",
-      "snippet": "The IPO market is back, and&#160;it&#8217;s&#160;not the same&#160;companies&#160;leading the charge. FAANG had a good run, but a&#160;new acronym is taking over: MANGOS&#160;\u2014 Meta (or Microsoft, dep"
+      "title": "Elon Musk is the world&#8217;s first trillionaire",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/948409/elon-musk-trillionaire-spacex-ipo",
+      "source": "The Verge",
+      "publishedAt": "2026-06-12T16:24:39Z",
+      "snippet": "Elon Musk's net worth has passed the trillion-dollar mark after SpaceX's IPO. His net worth, which was hovering around $800 billion before the IPO, includes the value of his 4.8 billion shares in Spac"
     },
     {
       "title": "SpaceX\u2019s massive IPO: all the latest news",
       "url": "https://www.theverge.com/business/948996/spacex-ipo-elon-musk",
       "source": "The Verge",
       "publishedAt": "2026-06-12T14:35:48Z",
-      "snippet": "SpaceX&#8217;s IPO on Friday allows the public to buy shares of the combined rocket, AI, and social media company for the first time, and is raising enough money to likely make Elon Musk the first tri"
+      "snippet": "SpaceX&#8217;s IPO on Friday allows the public to buy shares of the combined rocket, AI, and social media company for the first time, and raised enough money to make Elon Musk the first trillionaire.\u00a0"
     },
     {
       "title": "Jeff Bezos\u2019 AI startup aims to build an \u2018artificial general engineer\u2019",
@@ -79,60 +37,11 @@
       "snippet": "Our early testing has already shown that Siri AI knows when to shut up, and that's very much by design. In an interview with Mostly Human spotted by MacRumors, Craig Federighi said Apple's new Siri wo"
     },
     {
-      "title": "Cheaper, faster, and culturally aware, Avataar\u2019s video AI is built for India\u2019s scale",
-      "url": "https://techcrunch.com/2026/06/11/cheaper-faster-and-culturally-aware-avataars-video-ai-is-built-for-indias-scale/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-12T04:30:00Z",
-      "snippet": "Avataar AI's distilled video model is priced at $0.005 for every second of generation."
-    },
-    {
-      "title": "Theker just raised $85M to build the factory robot that doesn\u2019t specialize in anything",
-      "url": "https://techcrunch.com/2026/06/11/theker-just-raised-85m-to-build-the-factory-robot-that-doesnt-specialize-in-anything/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-12T01:48:07Z",
-      "snippet": "Unlike humanoid robots designed around a fixed form \u2014 think Boston Dynamics \u2014 Theker's machines are built to be reconfigured."
-    },
-    {
-      "title": "Jeff Bezos\u2019s Prometheus raises $12B to build an \u2018artificial general engineer\u2019 for the physical world",
-      "url": "https://techcrunch.com/2026/06/11/jeff-bezoss-prometheus-raises-12b-to-build-an-artificial-general-engineer-for-the-physical-world/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-12T01:04:38Z",
-      "snippet": "The new round values the physical AI startup that aims to automate heavy engineering and drug design at $41 billion."
-    },
-    {
-      "title": "SpaceX officially prices shares at $135 in the largest IPO ever",
-      "url": "https://techcrunch.com/2026/06/11/spacex-officially-prices-shares-at-135-in-the-largest-ipo-ever/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-11T20:33:10Z",
-      "snippet": "Wits its official share pricing announcement, SpaceX's IPO has begun."
-    },
-    {
-      "title": "SpaceX SPV investors won\u2019t know their true holdings until post-IPO lock-ups lift",
-      "url": "https://techcrunch.com/2026/06/11/spacex-spv-investors-wont-know-their-true-holdings-until-post-ipo-lock-ups-lift/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-11T19:58:01Z",
-      "snippet": "After SpaceX makes its public debut, lower-tier SPV investors face hidden fees, lengthy payout delays, and the  risk of outright fraud."
-    },
-    {
       "title": "Amazon&#8217;s data centers used 2.5 billion gallons of water last year",
       "url": "https://www.theverge.com/tech/948534/amazon-data-centers-water-use",
       "source": "The Verge",
       "publishedAt": "2026-06-11T17:26:57Z",
       "snippet": "Just after Seattle enacted a one-year data center moratorium that some of Amazon's own employees pushed for, Amazon shared how much water its data centers use, reportedly for the first time. With conc"
-    },
-    {
-      "title": "Deezer\u2019s new tool can identify AI music from Spotify, Apple Music, and others",
-      "url": "https://techcrunch.com/2026/06/11/deezers-new-tool-can-identify-ai-music-from-spotify-apple-music-and-others/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-11T16:36:20Z",
-      "snippet": "Deezer introduced a tool that scans playlists from Spotify, Apple Music, and other platforms to identify AI music."
-    },
-    {
-      "title": "Pool\u2019s new app turns your screenshots into something useful",
-      "url": "https://techcrunch.com/2026/06/11/pools-new-app-turns-your-screenshots-into-a-searchable-memory-bank/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-11T15:30:00Z",
-      "snippet": "Pool's new app automatically sorts screenshots into personalized collections, tracks down the original links behind saved content, and helps you rediscover products, recipes, travel ideas, and other t"
     },
     {
       "title": "Anthropic apologizes for invisible Claude Fable guardrails",
@@ -161,72 +70,58 @@
       "source": "The Verge",
       "publishedAt": "2026-06-10T17:45:11Z",
       "snippet": "New college graduates around the country have been booing and heckling commencement speakers who hype up AI. Microsoft would like everyone to talk it out. In a blog post running more than 3,100 words,"
-    },
-    {
-      "title": "The future of AI regulation is courting the strangest, most anxious bedfellows",
-      "url": "https://www.theverge.com/column/947838/washington-ai-network-honors-2026-midterms",
-      "source": "The Verge",
-      "publishedAt": "2026-06-10T17:38:00Z",
-      "snippet": "Hello and welcome to Regulator, a newsletter for Verge subscribers about tech politics, tech influence, and tech shenanigans in Washington, DC. (If you're not a subscriber, you can get on board here.)"
-    },
-    {
-      "title": "Google won\u2019t just admit it\u2019s feeding YouTube creators to its music AI",
-      "url": "https://www.theverge.com/tech/947770/google-lyria-music-ai-lawsuit-youtube",
-      "source": "The Verge",
-      "publishedAt": "2026-06-10T17:20:36Z",
-      "snippet": "If you've uploaded a song to YouTube, Google almost certainly considers your video fair game for training its Lyria music AI, it just won't admit it right now. A group of independent musicians is suin"
     }
   ],
   "trending": [
     {
       "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
       "displayName": "Qwen3.6 35B A3B Uncensored HauhauCS Aggressive",
-      "downloads": 2393894
-    },
-    {
-      "id": "OBLITERATUS/Gemma-4-12B-OBLITERATED",
-      "displayName": "Gemma 4 12B OBLITERATED",
-      "downloads": 43578
+      "downloads": 2411202
     },
     {
       "id": "unsloth/diffusiongemma-26B-A4B-it-GGUF",
       "displayName": "diffusiongemma 26B A4B",
-      "downloads": 17666
+      "downloads": 42885
+    },
+    {
+      "id": "OBLITERATUS/Gemma-4-12B-OBLITERATED",
+      "displayName": "Gemma 4 12B OBLITERATED",
+      "downloads": 50289
     },
     {
       "id": "unsloth/gemma-4-12b-it-GGUF",
       "displayName": "gemma 4 12b",
-      "downloads": 836531
+      "downloads": 872895
     },
     {
       "id": "unsloth/gemma-4-12B-it-qat-GGUF",
       "displayName": "gemma 4 12B qat",
-      "downloads": 208889
+      "downloads": 227830
     },
     {
       "id": "Jackrong/Qwopus3.6-27B-Coder-MTP-GGUF",
       "displayName": "Qwopus3.6 27B Coder MTP",
-      "downloads": 0
+      "downloads": 11291
     },
     {
       "id": "unsloth/gemma-4-26B-A4B-it-qat-GGUF",
       "displayName": "gemma 4 26B A4B qat",
-      "downloads": 221174
+      "downloads": 260757
     },
     {
       "id": "google/gemma-4-12B-it-qat-q4_0-gguf",
       "displayName": "gemma 4 12B qat q4_0",
-      "downloads": 175635
+      "downloads": 210048
     },
     {
       "id": "Jiunsong/supergemma4-26b-uncensored-gguf-v2",
       "displayName": "supergemma4 26b uncensored v2",
-      "downloads": 136143
+      "downloads": 98892
     },
     {
       "id": "DavidAU/Qwen3.6-40B-Claude-4.6-Opus-Deckard-Heretic-Uncensored-Thinking-NEO-CODE-Di-IMatrix-MAX-GGUF",
       "displayName": "Qwen3.6 40B Claude 4.6 Opus Deckard Heretic Uncensored Thinking NEO CODE Di IMatrix MAX",
-      "downloads": 400712
+      "downloads": 387010
     }
   ]
 }
