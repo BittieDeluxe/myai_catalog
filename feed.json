@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-14T21:06:23Z",
+  "updated": "2026-06-14T23:04:38Z",
   "news": [
     {
       "title": "China may have accessed Mythos",
@@ -184,14 +184,14 @@
       "downloads": 80118
     },
     {
-      "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
-      "displayName": "Qwen3.6 35B A3B Uncensored HauhauCS Aggressive",
-      "downloads": 2516709
-    },
-    {
       "id": "OBLITERATUS/Gemma-4-12B-OBLITERATED",
       "displayName": "Gemma 4 12B OBLITERATED",
       "downloads": 60949
+    },
+    {
+      "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
+      "displayName": "Qwen3.6 35B A3B Uncensored HauhauCS Aggressive",
+      "downloads": 2516709
     },
     {
       "id": "Jackrong/Qwopus3.6-27B-Coder-MTP-GGUF",
@@ -199,14 +199,14 @@
       "downloads": 33720
     },
     {
-      "id": "unsloth/gemma-4-12b-it-GGUF",
-      "displayName": "gemma 4 12b",
-      "downloads": 926372
-    },
-    {
       "id": "yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
       "displayName": "gemma 4 12B coder fable5 composer2.5 v1",
       "downloads": 6219
+    },
+    {
+      "id": "unsloth/gemma-4-12b-it-GGUF",
+      "displayName": "gemma 4 12b",
+      "downloads": 926372
     },
     {
       "id": "unsloth/gemma-4-12B-it-qat-GGUF",
