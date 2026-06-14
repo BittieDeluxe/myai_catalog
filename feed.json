@@ -1,6 +1,13 @@
 {
-  "updated": "2026-06-14T15:46:43Z",
+  "updated": "2026-06-14T17:16:20Z",
   "news": [
+    {
+      "title": "As AI companies race to go public, who else is along for the ride?",
+      "url": "https://techcrunch.com/2026/06/14/as-ai-companies-race-to-go-public-who-else-is-along-for-the-ride/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-14T16:38:09Z",
+      "snippet": "Startups are trying to \"ride that SpaceX IPO wave.\""
+    },
     {
       "title": "As Anthropic suspends access to new models, India debates its AI future",
       "url": "https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future/",
@@ -168,65 +175,7 @@
       "source": "TechCrunch",
       "publishedAt": "2026-06-12T04:30:00Z",
       "snippet": "Avataar AI's distilled video model is priced at $0.005 for every second of generation."
-    },
-    {
-      "title": "Theker just raised $85M to build the factory robot that doesn\u2019t specialize in anything",
-      "url": "https://techcrunch.com/2026/06/11/theker-just-raised-85m-to-build-the-factory-robot-that-doesnt-specialize-in-anything/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-12T01:48:07Z",
-      "snippet": "Unlike humanoid robots designed around a fixed form \u2014 think Boston Dynamics \u2014 Theker's machines are built to be reconfigured."
     }
   ],
-  "trending": [
-    {
-      "id": "unsloth/diffusiongemma-26B-A4B-it-GGUF",
-      "displayName": "diffusiongemma 26B A4B",
-      "downloads": 80118
-    },
-    {
-      "id": "OBLITERATUS/Gemma-4-12B-OBLITERATED",
-      "displayName": "Gemma 4 12B OBLITERATED",
-      "downloads": 60949
-    },
-    {
-      "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
-      "displayName": "Qwen3.6 35B A3B Uncensored HauhauCS Aggressive",
-      "downloads": 2516709
-    },
-    {
-      "id": "Jackrong/Qwopus3.6-27B-Coder-MTP-GGUF",
-      "displayName": "Qwopus3.6 27B Coder MTP",
-      "downloads": 33720
-    },
-    {
-      "id": "unsloth/gemma-4-12b-it-GGUF",
-      "displayName": "gemma 4 12b",
-      "downloads": 926372
-    },
-    {
-      "id": "unsloth/gemma-4-12B-it-qat-GGUF",
-      "displayName": "gemma 4 12B qat",
-      "downloads": 255424
-    },
-    {
-      "id": "DavidAU/Qwen3.6-40B-Claude-4.6-Opus-Deckard-Heretic-Uncensored-Thinking-NEO-CODE-Di-IMatrix-MAX-GGUF",
-      "displayName": "Qwen3.6 40B Claude 4.6 Opus Deckard Heretic Uncensored Thinking NEO CODE Di IMatrix MAX",
-      "downloads": 375966
-    },
-    {
-      "id": "Jiunsong/supergemma4-26b-uncensored-gguf-v2",
-      "displayName": "supergemma4 26b uncensored v2",
-      "downloads": 96437
-    },
-    {
-      "id": "unsloth/gemma-4-26B-A4B-it-qat-GGUF",
-      "displayName": "gemma 4 26B A4B qat",
-      "downloads": 317261
-    },
-    {
-      "id": "yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
-      "displayName": "gemma 4 12B coder fable5 composer2.5 v1",
-      "downloads": 6219
-    }
-  ]
+  "trending": []
 }
