@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-14T19:19:57Z",
+  "updated": "2026-06-14T21:06:23Z",
   "news": [
     {
       "title": "China may have accessed Mythos",
@@ -184,14 +184,14 @@
       "downloads": 80118
     },
     {
-      "id": "OBLITERATUS/Gemma-4-12B-OBLITERATED",
-      "displayName": "Gemma 4 12B OBLITERATED",
-      "downloads": 60949
-    },
-    {
       "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
       "displayName": "Qwen3.6 35B A3B Uncensored HauhauCS Aggressive",
       "downloads": 2516709
+    },
+    {
+      "id": "OBLITERATUS/Gemma-4-12B-OBLITERATED",
+      "displayName": "Gemma 4 12B OBLITERATED",
+      "downloads": 60949
     },
     {
       "id": "Jackrong/Qwopus3.6-27B-Coder-MTP-GGUF",
@@ -219,14 +219,14 @@
       "downloads": 375966
     },
     {
-      "id": "Jiunsong/supergemma4-26b-uncensored-gguf-v2",
-      "displayName": "supergemma4 26b uncensored v2",
-      "downloads": 96437
-    },
-    {
       "id": "Jackrong/Qwopus3.6-27B-v2-MTP-GGUF",
       "displayName": "Qwopus3.6 27B v2 MTP",
       "downloads": 175472
+    },
+    {
+      "id": "unsloth/gemma-4-26B-A4B-it-qat-GGUF",
+      "displayName": "gemma 4 26B A4B qat",
+      "downloads": 317261
     }
   ]
 }
