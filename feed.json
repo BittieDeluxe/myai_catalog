@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-14T13:53:38Z",
+  "updated": "2026-06-14T15:46:43Z",
   "news": [
     {
       "title": "As Anthropic suspends access to new models, India debates its AI future",
@@ -209,14 +209,14 @@
       "downloads": 255424
     },
     {
-      "id": "Jiunsong/supergemma4-26b-uncensored-gguf-v2",
-      "displayName": "supergemma4 26b uncensored v2",
-      "downloads": 96437
-    },
-    {
       "id": "DavidAU/Qwen3.6-40B-Claude-4.6-Opus-Deckard-Heretic-Uncensored-Thinking-NEO-CODE-Di-IMatrix-MAX-GGUF",
       "displayName": "Qwen3.6 40B Claude 4.6 Opus Deckard Heretic Uncensored Thinking NEO CODE Di IMatrix MAX",
       "downloads": 375966
+    },
+    {
+      "id": "Jiunsong/supergemma4-26b-uncensored-gguf-v2",
+      "displayName": "supergemma4 26b uncensored v2",
+      "downloads": 96437
     },
     {
       "id": "unsloth/gemma-4-26B-A4B-it-qat-GGUF",
@@ -224,9 +224,9 @@
       "downloads": 317261
     },
     {
-      "id": "Jackrong/Qwopus3.6-27B-v2-MTP-GGUF",
-      "displayName": "Qwopus3.6 27B v2 MTP",
-      "downloads": 175472
+      "id": "yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
+      "displayName": "gemma 4 12B coder fable5 composer2.5 v1",
+      "downloads": 6219
     }
   ]
 }
