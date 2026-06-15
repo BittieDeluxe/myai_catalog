@@ -1,6 +1,41 @@
 {
-  "updated": "2026-06-15T15:50:35Z",
+  "updated": "2026-06-15T19:44:00Z",
   "news": [
+    {
+      "title": "All the news about Anthropic&#8217;s new AI fight with the White House",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/950026/anthropic-fable-mythos-ban-ai-shutdown",
+      "source": "The Verge",
+      "publishedAt": "2026-06-15T19:04:53Z",
+      "snippet": "Anthropic was already navigating one dispute with the government in its standoff with the Pentagon, and then came an order on June 12th to block off foreign access to its most recently released AI mod"
+    },
+    {
+      "title": "Meta\u2019s new \u2018AI Mode\u2019 on Facebook pulls from public info across its platforms",
+      "url": "https://techcrunch.com/2026/06/15/metas-new-ai-mode-on-facebook-pulls-from-public-info-across-its-platforms/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-15T18:30:58Z",
+      "snippet": "Meta announced Monday that it's rolling out a wave of new AI features on Facebook, the latest sign of the company's effort to catch up in the AI race and keep users more engaged on the platform."
+    },
+    {
+      "title": "SpaceX is public: Everything you need to know post-IPO",
+      "url": "https://techcrunch.com/2026/06/15/spacex-is-public-everything-you-need-to-know-post-ipo/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-15T18:30:34Z",
+      "snippet": "TechCrunch has followed SpaceX's start, struggles, and successes from the early days. And we're here for what happens next too. This package of SpaceX IPO coverage includes who stands to win (and mayb"
+    },
+    {
+      "title": "Trump\u2019s Anthropic shutdown just made the case for non-American AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/949986/anthropic-fable-mythos-shutdown-sovereign-ai",
+      "source": "The Verge",
+      "publishedAt": "2026-06-15T18:10:27Z",
+      "snippet": "At Washington's request, Anthropic suddenly took its newest and most powerful AI models offline over the weekend. The American company said it had little choice after the White House demanded it block"
+    },
+    {
+      "title": "Big Tech\u2019s desperate last push at AI regulation",
+      "url": "https://www.theverge.com/policy/949970/ai-regulation-child-safety-kosa-congress",
+      "source": "The Verge",
+      "publishedAt": "2026-06-15T17:44:10Z",
+      "snippet": "For months, Big Tech's Washington lobbyists have chased after the holy grail of pro-AI legislation: preemption. This would be a comprehensive federal law, passed in Congress and signed by the presiden"
+    },
     {
       "title": "Cybersecurity vets protest \u2018dangerous\u2019 US government ban on Anthropic\u2019s most powerful models",
       "url": "https://techcrunch.com/2026/06/15/cybersecurity-vets-protest-dangerous-us-government-ban-on-anthropics-most-powerful-models/",
@@ -48,7 +83,7 @@
       "url": "https://techcrunch.com/2026/06/15/the-ai-layoff-wave-is-becoming-a-powder-keg/",
       "source": "TechCrunch",
       "publishedAt": "2026-06-15T07:25:41Z",
-      "snippet": "What makes this combustible: at the very moment that tens of thousands of workers are being shown the door, a small cohort of AI insiders is becoming wealthy on a scale that's hard to comprehend."
+      "snippet": "At the very moment that tens of thousands of workers are being shown the door, a small cohort of AI insiders is becoming wealthy on a scale that's hard to comprehend."
     },
     {
       "title": "China may have accessed Mythos",
@@ -76,7 +111,7 @@
       "url": "https://techcrunch.com/2026/06/13/meta-reportedly-moves-to-unwind-2b-manus-deal-after-beijings-demand/",
       "source": "TechCrunch",
       "publishedAt": "2026-06-14T00:03:49Z",
-      "snippet": "Meta starts dismantling its $2 billion Manus acquisition after Beijing ordered the deal reversed."
+      "snippet": "This is the most concrete step yet toward complying with a divestiture order Beijing issued roughly two months ago on national security grounds."
     },
     {
       "title": "Amazon security research reportedly led to the White House\u2019s Anthropic Fable ban",
@@ -140,41 +175,6 @@
       "source": "TechCrunch",
       "publishedAt": "2026-06-13T04:14:19Z",
       "snippet": "Andrew Yang made a list of everything Americans overpay for \u2014 housing, food, wireless \u2014 and thinks the next startup gold rush is giving that money back."
-    },
-    {
-      "title": "Anthropic\u2019s safety warnings may have just backfired \u2014 the government has pulled the plug on its most powerful AI",
-      "url": "https://techcrunch.com/2026/06/12/anthropics-safety-warnings-may-have-just-backfired-the-government-has-pulled-the-plug-on-its-most-powerful-ai/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-13T02:26:30Z",
-      "snippet": "Anthropic isn't hiding its frustration. \"We disagree that the finding of a narrow potential jailbreak should be cause for recalling a commercial model deployed to hundreds of millions of people,\" the "
-    },
-    {
-      "title": "SpaceX IPO: Live updates on everything you need to know",
-      "url": "https://techcrunch.com/2026/06/12/spacex-ipo-live-updates-on-everything-you-need-to-know/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-12T23:15:14Z",
-      "snippet": "TechCrunch has followed SpaceX's start, struggles, and successes from the early days. And we're here for what happens next too. This package of SpaceX IPO coverage includes who stands to win (and mayb"
-    },
-    {
-      "title": "Siri is good now??",
-      "url": "https://www.theverge.com/podcast/949079/siri-ai-good-vergecast",
-      "source": "The Verge",
-      "publishedAt": "2026-06-12T17:17:04Z",
-      "snippet": "You'd be forgiven for thinking this day would never come. Siri has spent a decade and half somewhere between \"sort of useful at a few things\" and \"utterly disastrous, why did I even try, can it honest"
-    },
-    {
-      "title": "Elon Musk is the world&#8217;s first trillionaire",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/948409/elon-musk-trillionaire-spacex-ipo",
-      "source": "The Verge",
-      "publishedAt": "2026-06-12T16:24:39Z",
-      "snippet": "Elon Musk's net worth has passed the trillion-dollar mark after SpaceX's IPO. His net worth, which was hovering around $800 billion before the IPO, includes the value of his 4.8 billion shares in Spac"
-    },
-    {
-      "title": "SpaceX\u2019s massive IPO: all the latest news",
-      "url": "https://www.theverge.com/business/948996/spacex-ipo-elon-musk",
-      "source": "The Verge",
-      "publishedAt": "2026-06-12T14:35:48Z",
-      "snippet": "SpaceX&#8217;s IPO on Friday allows the public to buy shares of the combined rocket, AI, and social media company for the first time, and raised enough money to make Elon Musk the first trillionaire.\u00a0"
     }
   ],
   "trending": [
@@ -214,19 +214,19 @@
       "downloads": 369526
     },
     {
-      "id": "unsloth/gemma-4-12B-it-qat-GGUF",
-      "displayName": "gemma 4 12B qat",
-      "downloads": 288390
-    },
-    {
       "id": "unsloth/Kimi-K2.7-Code-GGUF",
       "displayName": "Kimi K2.7 Code",
       "downloads": 9327
     },
     {
-      "id": "Jackrong/Qwopus3.6-27B-v2-MTP-GGUF",
-      "displayName": "Qwopus3.6 27B v2 MTP",
-      "downloads": 184446
+      "id": "unsloth/gemma-4-12B-it-qat-GGUF",
+      "displayName": "gemma 4 12B qat",
+      "downloads": 288390
+    },
+    {
+      "id": "unsloth/MiniMax-M3-GGUF",
+      "displayName": "MiniMax M3",
+      "downloads": 14799
     }
   ]
 }
