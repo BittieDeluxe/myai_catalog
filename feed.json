@@ -1,6 +1,13 @@
 {
-  "updated": "2026-06-15T19:44:00Z",
+  "updated": "2026-06-15T22:15:28Z",
   "news": [
+    {
+      "title": "Facebook\u2019s new AI Mode search gets its info from public posts",
+      "url": "https://www.theverge.com/tech/950264/meta-ai-mode-search-facebook",
+      "source": "The Verge",
+      "publishedAt": "2026-06-15T21:15:08Z",
+      "snippet": "Your public Facebook posts could help inform AI-generated results in Meta's new AI Mode. When you search on Facebook, the \"AI Mode\" option will appear alongside the usual search modes like \"People\" an"
+    },
     {
       "title": "All the news about Anthropic&#8217;s new AI fight with the White House",
       "url": "https://www.theverge.com/ai-artificial-intelligence/950026/anthropic-fable-mythos-ban-ai-shutdown",
@@ -41,10 +48,10 @@
       "url": "https://techcrunch.com/2026/06/15/cybersecurity-vets-protest-dangerous-us-government-ban-on-anthropics-most-powerful-models/",
       "source": "TechCrunch",
       "publishedAt": "2026-06-15T15:29:51Z",
-      "snippet": "A group made up of dozens of cybersecurity experts urged the White House to remove export control restrictions on Anthropic\u2019s models Fable and Mythos, arguing that the order is going to limit the abil"
+      "snippet": "A group made up of dozens of cybersecurity experts urged the White House to remove export-control restrictions on Anthropic\u2019s Fable and Mythos models, arguing that the order is going to limit the abil"
     },
     {
-      "title": "Salesforce acquires AI customer service platform Fin for $3.6 billion",
+      "title": "Salesforce acquires AI customer service platform Fin for $3.6B",
       "url": "https://techcrunch.com/2026/06/15/salesforce-acquires-ai-customer-service-platform-fin-for-3-6b/",
       "source": "TechCrunch",
       "publishedAt": "2026-06-15T14:34:45Z",
@@ -161,13 +168,6 @@
       "source": "The Verge",
       "publishedAt": "2026-06-13T12:00:00Z",
       "snippet": "The most popular camera in the world just got its first set of serious AI photo editing features, and I don't think any of us are ready. As far as AI photo editing goes, the new features in iOS 27 are"
-    },
-    {
-      "title": "The future of Hollywood isn\u2019t feeding prompts into vanilla gen AI models",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/948425/tribeca-2026-dear-upstairs-neighbors-google-deepmind-openai",
-      "source": "The Verge",
-      "publishedAt": "2026-06-13T11:00:00Z",
-      "snippet": "For all the noise that's been made about how generative AI is poised to revolutionize the filmmaking industry, there haven't really been any projects created with the technology that felt like the sor"
     },
     {
       "title": "Andrew Yang thinks the next big startup opportunity is lowering the cost of living",
