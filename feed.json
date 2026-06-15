@@ -1,6 +1,48 @@
 {
-  "updated": "2026-06-15T09:58:59Z",
+  "updated": "2026-06-15T15:50:35Z",
   "news": [
+    {
+      "title": "Cybersecurity vets protest \u2018dangerous\u2019 US government ban on Anthropic\u2019s most powerful models",
+      "url": "https://techcrunch.com/2026/06/15/cybersecurity-vets-protest-dangerous-us-government-ban-on-anthropics-most-powerful-models/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-15T15:29:51Z",
+      "snippet": "A group made up of dozens of cybersecurity experts urged the White House to remove export control restrictions on Anthropic\u2019s models Fable and Mythos, arguing that the order is going to limit the abil"
+    },
+    {
+      "title": "Salesforce acquires AI customer service platform Fin for $3.6 billion",
+      "url": "https://techcrunch.com/2026/06/15/salesforce-acquires-ai-customer-service-platform-fin-for-3-6b/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-15T14:34:45Z",
+      "snippet": "Salesforce says it wants to use Fin's team and technology to improve Agentforce, its existing enterprise platform that businesses can use to build custom AI agents that automate tasks."
+    },
+    {
+      "title": "Skydio CEO Adam Bry on why Silicon Valley shouldn\u2019t draw red lines for drone use",
+      "url": "https://www.theverge.com/podcast/949195/skydio-ceo-adam-bry-autonmous-drones-china-red-lines-military",
+      "source": "The Verge",
+      "publishedAt": "2026-06-15T14:00:00Z",
+      "snippet": "Today, I\u2019m talking with Adam Bry, who is CEO of Skydio, the leading US maker of autonomous drones. Before we recorded this episode, I actually got to remotely operate one of Skydio\u2019s drones in the Bay"
+    },
+    {
+      "title": "Sarvam becomes India\u2019s newest AI unicorn with $234 million funding round led by HCLTech",
+      "url": "https://techcrunch.com/2026/06/15/sarvam-becomes-indias-newest-ai-unicorn-with-234-million-funding-round-led-by-hcltech/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-15T13:46:08Z",
+      "snippet": "Indian IT services company HCLTech is investing $150 million in the Bengaluru startup."
+    },
+    {
+      "title": "As AI agents become employees, NewCore emerges with $66M to give them identities",
+      "url": "https://techcrunch.com/2026/06/15/ai-agents-are-becoming-employees-newcore-emerges-with-66m-to-give-them-identities/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-15T13:00:00Z",
+      "snippet": "NewCore argues the next challenge in enterprise security will be managing AI agents, not people."
+    },
+    {
+      "title": "A satellite just learned to find things on its own \u2014 here\u2019s what that means",
+      "url": "https://techcrunch.com/2026/06/15/a-satellite-just-learned-to-find-things-on-its-own-heres-what-that-means/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-15T12:00:00Z",
+      "snippet": "In April, for the first time ever, an Earth observation satellite found what it was looking for, all on its own."
+    },
     {
       "title": "The AI layoff wave is becoming a powder keg",
       "url": "https://techcrunch.com/2026/06/15/the-ai-layoff-wave-is-becoming-a-powder-keg/",
@@ -41,7 +83,7 @@
       "url": "https://www.theverge.com/ai-artificial-intelligence/949601/amazon-anthropic-fablemythos-government-ban",
       "source": "The Verge",
       "publishedAt": "2026-06-13T21:39:26Z",
-      "snippet": "According to the Wall Street Journal, the export control directive that led to Anthropic cutting off access to Fable 5 and Mythos 5 was triggered in part by cybersecurity research from Amazon and conv"
+      "snippet": "According to the The Wall Street Journal, the export control directive that led to Anthropic cutting off access to Fable 5 and Mythos 5 was triggered in part by cybersecurity research from Amazon and "
     },
     {
       "title": "KPMG pulls report on AI usage due to apparent hallucinations",
@@ -114,27 +156,6 @@
       "snippet": "TechCrunch has followed SpaceX's start, struggles, and successes from the early days. And we're here for what happens next too. This package of SpaceX IPO coverage includes who stands to win (and mayb"
     },
     {
-      "title": "Meta\u2019s months-old AI unit is a soul-crushing gulag, say the engineers stuck inside it",
-      "url": "https://techcrunch.com/2026/06/12/metas-months-old-ai-unit-is-a-soul-crushing-gulag-say-the-engineers-stuck-inside-it/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-12T23:00:54Z",
-      "snippet": "A new report suggests the unit, which employs 6,500 people, is on the verge of revolt."
-    },
-    {
-      "title": "Chinese cybercrime operation that used AI to scam \u2018hundreds of thousands of victims\u2019 sued by Google",
-      "url": "https://techcrunch.com/2026/06/12/chinese-cybercrime-operation-that-used-ai-to-scam-hundreds-of-thousands-of-victims-sued-by-google/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-12T20:38:09Z",
-      "snippet": "The tech giant said a group called \"Outsider Enterprise\" used AI to scam hundreds of thousands of victims, sending 2.5 million text messages over a span of two weeks."
-    },
-    {
-      "title": "Mistral is rumored to be raising \u20ac3B at \u20ac20B valuation",
-      "url": "https://techcrunch.com/2026/06/12/mistral-is-rumored-to-be-raising-e3b-at-e20-valuation/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-12T17:38:11Z",
-      "snippet": "The funding round would value the company at around \u20ac20 billion (about $23.15 billion), nearly double its Series C valuation of \u20ac11.7 billion."
-    },
-    {
       "title": "Siri is good now??",
       "url": "https://www.theverge.com/podcast/949079/siri-ai-good-vergecast",
       "source": "The Verge",
@@ -149,44 +170,23 @@
       "snippet": "Elon Musk's net worth has passed the trillion-dollar mark after SpaceX's IPO. His net worth, which was hovering around $800 billion before the IPO, includes the value of his 4.8 billion shares in Spac"
     },
     {
-      "title": "SpaceX, Anthropic, and OpenAI\u2019s hot IPO summer",
-      "url": "https://techcrunch.com/video/spacex-anthropic-and-openais-hot-ipo-summer/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-12T16:23:25Z",
-      "snippet": "The IPO market is back, and&#160;it&#8217;s&#160;not the same&#160;companies&#160;leading the charge. FAANG had a good run, but a&#160;new acronym is taking over: MANGOS&#160;\u2014 Meta (or Microsoft, dep"
-    },
-    {
-      "title": "It\u2019s\u00a0hot IPO summer, and the MANGOS are ripe",
-      "url": "https://techcrunch.com/podcast/its-hot-ipo-summer-and-the-mangos-are-ripe/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-12T15:50:52Z",
-      "snippet": "The IPO market is back, and&#160;it&#8217;s&#160;not the same&#160;companies&#160;leading the charge. FAANG had a good run, but a&#160;new acronym is taking over: MANGOS&#160;\u2014 Meta (or Microsoft, dep"
-    },
-    {
       "title": "SpaceX\u2019s massive IPO: all the latest news",
       "url": "https://www.theverge.com/business/948996/spacex-ipo-elon-musk",
       "source": "The Verge",
       "publishedAt": "2026-06-12T14:35:48Z",
       "snippet": "SpaceX&#8217;s IPO on Friday allows the public to buy shares of the combined rocket, AI, and social media company for the first time, and raised enough money to make Elon Musk the first trillionaire.\u00a0"
-    },
-    {
-      "title": "Jeff Bezos\u2019 AI startup aims to build an \u2018artificial general engineer\u2019",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/949005/jeff-bezos-prometheus-artificial-general-engineer",
-      "source": "The Verge",
-      "publishedAt": "2026-06-12T14:03:39Z",
-      "snippet": "Amazon founder Jeff Bezos says his new AI startup will work toward developing an \"artificial general engineer,\" according to reports from The New York Times and CNBC. The startup, called Prometheus, a"
     }
   ],
   "trending": [
     {
-      "id": "unsloth/diffusiongemma-26B-A4B-it-GGUF",
-      "displayName": "diffusiongemma 26B A4B",
-      "downloads": 107243
-    },
-    {
       "id": "yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
       "displayName": "gemma 4 12B coder fable5 composer2.5 v1",
       "downloads": 20207
+    },
+    {
+      "id": "unsloth/diffusiongemma-26B-A4B-it-GGUF",
+      "displayName": "diffusiongemma 26B A4B",
+      "downloads": 107243
     },
     {
       "id": "OBLITERATUS/Gemma-4-12B-OBLITERATED",
@@ -209,24 +209,24 @@
       "downloads": 980781
     },
     {
-      "id": "unsloth/gemma-4-12B-it-qat-GGUF",
-      "displayName": "gemma 4 12B qat",
-      "downloads": 288390
-    },
-    {
       "id": "DavidAU/Qwen3.6-40B-Claude-4.6-Opus-Deckard-Heretic-Uncensored-Thinking-NEO-CODE-Di-IMatrix-MAX-GGUF",
       "displayName": "Qwen3.6 40B Claude 4.6 Opus Deckard Heretic Uncensored Thinking NEO CODE Di IMatrix MAX",
       "downloads": 369526
     },
     {
-      "id": "Jackrong/Qwopus3.6-27B-v2-MTP-GGUF",
-      "displayName": "Qwopus3.6 27B v2 MTP",
-      "downloads": 184446
+      "id": "unsloth/gemma-4-12B-it-qat-GGUF",
+      "displayName": "gemma 4 12B qat",
+      "downloads": 288390
     },
     {
       "id": "unsloth/Kimi-K2.7-Code-GGUF",
       "displayName": "Kimi K2.7 Code",
       "downloads": 9327
+    },
+    {
+      "id": "Jackrong/Qwopus3.6-27B-v2-MTP-GGUF",
+      "displayName": "Qwopus3.6 27B v2 MTP",
+      "downloads": 184446
     }
   ]
 }
