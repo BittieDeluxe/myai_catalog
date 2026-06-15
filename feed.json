@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-14T23:04:38Z",
+  "updated": "2026-06-15T03:47:45Z",
   "news": [
     {
       "title": "China may have accessed Mythos",
@@ -224,9 +224,9 @@
       "downloads": 175472
     },
     {
-      "id": "unsloth/gemma-4-26B-A4B-it-qat-GGUF",
-      "displayName": "gemma 4 26B A4B qat",
-      "downloads": 317261
+      "id": "unsloth/Kimi-K2.7-Code-GGUF",
+      "displayName": "Kimi K2.7 Code",
+      "downloads": 25
     }
   ]
 }
