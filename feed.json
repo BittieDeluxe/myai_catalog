@@ -1,6 +1,13 @@
 {
-  "updated": "2026-06-15T03:47:45Z",
+  "updated": "2026-06-15T09:58:59Z",
   "news": [
+    {
+      "title": "The AI layoff wave is becoming a powder keg",
+      "url": "https://techcrunch.com/2026/06/15/the-ai-layoff-wave-is-becoming-a-powder-keg/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-15T07:25:41Z",
+      "snippet": "What makes this combustible: at the very moment that tens of thousands of workers are being shown the door, a small cohort of AI insiders is becoming wealthy on a scale that's hard to comprehend."
+    },
     {
       "title": "China may have accessed Mythos",
       "url": "https://www.theverge.com/ai-artificial-intelligence/949644/china-white-house-anthropic-mythos",
@@ -168,65 +175,58 @@
       "source": "The Verge",
       "publishedAt": "2026-06-12T14:03:39Z",
       "snippet": "Amazon founder Jeff Bezos says his new AI startup will work toward developing an \"artificial general engineer,\" according to reports from The New York Times and CNBC. The startup, called Prometheus, a"
-    },
-    {
-      "title": "Cheaper, faster, and culturally aware, Avataar\u2019s video AI is built for India\u2019s scale",
-      "url": "https://techcrunch.com/2026/06/11/cheaper-faster-and-culturally-aware-avataars-video-ai-is-built-for-indias-scale/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-12T04:30:00Z",
-      "snippet": "Avataar AI's distilled video model is priced at $0.005 for every second of generation."
     }
   ],
   "trending": [
     {
       "id": "unsloth/diffusiongemma-26B-A4B-it-GGUF",
       "displayName": "diffusiongemma 26B A4B",
-      "downloads": 80118
-    },
-    {
-      "id": "OBLITERATUS/Gemma-4-12B-OBLITERATED",
-      "displayName": "Gemma 4 12B OBLITERATED",
-      "downloads": 60949
-    },
-    {
-      "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
-      "displayName": "Qwen3.6 35B A3B Uncensored HauhauCS Aggressive",
-      "downloads": 2516709
-    },
-    {
-      "id": "Jackrong/Qwopus3.6-27B-Coder-MTP-GGUF",
-      "displayName": "Qwopus3.6 27B Coder MTP",
-      "downloads": 33720
+      "downloads": 107243
     },
     {
       "id": "yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
       "displayName": "gemma 4 12B coder fable5 composer2.5 v1",
-      "downloads": 6219
+      "downloads": 20207
+    },
+    {
+      "id": "OBLITERATUS/Gemma-4-12B-OBLITERATED",
+      "displayName": "Gemma 4 12B OBLITERATED",
+      "downloads": 70732
+    },
+    {
+      "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
+      "displayName": "Qwen3.6 35B A3B Uncensored HauhauCS Aggressive",
+      "downloads": 2697882
+    },
+    {
+      "id": "Jackrong/Qwopus3.6-27B-Coder-MTP-GGUF",
+      "displayName": "Qwopus3.6 27B Coder MTP",
+      "downloads": 62469
     },
     {
       "id": "unsloth/gemma-4-12b-it-GGUF",
       "displayName": "gemma 4 12b",
-      "downloads": 926372
+      "downloads": 980781
     },
     {
       "id": "unsloth/gemma-4-12B-it-qat-GGUF",
       "displayName": "gemma 4 12B qat",
-      "downloads": 255424
+      "downloads": 288390
     },
     {
       "id": "DavidAU/Qwen3.6-40B-Claude-4.6-Opus-Deckard-Heretic-Uncensored-Thinking-NEO-CODE-Di-IMatrix-MAX-GGUF",
       "displayName": "Qwen3.6 40B Claude 4.6 Opus Deckard Heretic Uncensored Thinking NEO CODE Di IMatrix MAX",
-      "downloads": 375966
+      "downloads": 369526
     },
     {
       "id": "Jackrong/Qwopus3.6-27B-v2-MTP-GGUF",
       "displayName": "Qwopus3.6 27B v2 MTP",
-      "downloads": 175472
+      "downloads": 184446
     },
     {
       "id": "unsloth/Kimi-K2.7-Code-GGUF",
       "displayName": "Kimi K2.7 Code",
-      "downloads": 25
+      "downloads": 9327
     }
   ]
 }
