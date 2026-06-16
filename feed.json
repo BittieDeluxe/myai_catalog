@@ -1,6 +1,27 @@
 {
-  "updated": "2026-06-15T22:15:28Z",
+  "updated": "2026-06-16T03:40:11Z",
   "news": [
+    {
+      "title": "Inside the fight over Claude Mythos 5",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/950412/anthropic-trump-adminstration-claude-mythos-fable-5-export-controls",
+      "source": "The Verge",
+      "publishedAt": "2026-06-16T03:00:00Z",
+      "snippet": "As the rest of the country celebrated the USA's first World Cup win and the New York Knicks championship, Anthropic spent its weekend fighting the Trump administration over its latest model release. A"
+    },
+    {
+      "title": "Sundar Pichai faces boos, walkout at Stanford graduation ceremony over Google\u2019s Israel, ICE ties",
+      "url": "https://techcrunch.com/2026/06/15/sundar-pichai-faces-boos-walkout-at-stanford-graduation-ceremony-over-googles-israel-ice-ties/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-15T23:51:44Z",
+      "snippet": "AI is once again at the heart of a college graduation protest \u2014 this time for the technology's use in Google's defense contracts."
+    },
+    {
+      "title": "The US government\u2019s Anthropic models ban was never about an AI jailbreak",
+      "url": "https://techcrunch.com/2026/06/15/the-us-governments-anthropic-models-ban-was-never-about-an-ai-jailbreak/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-15T21:50:21Z",
+      "snippet": "The Trump administration's decision that forced Anthropic to pull its latest cybersecurity models could be reactionary, retaliatory, or both, but the message is clear: The AI industry isn't immune fro"
+    },
     {
       "title": "Facebook\u2019s new AI Mode search gets its info from public posts",
       "url": "https://www.theverge.com/tech/950264/meta-ai-mode-search-facebook",
@@ -142,13 +163,6 @@
       "snippet": "Amazon CEO Andy Jassy may have been the source of security concerns that led Anthropic to cut off worldwide access to two models on Friday."
     },
     {
-      "title": "OpenAI faces investigation from state attorneys general",
-      "url": "https://techcrunch.com/2026/06/13/openai-faces-investigation-from-state-attorneys-general/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-13T16:47:18Z",
-      "snippet": "It's not clear which states are involved, but they're asking about everything from OpenAI's ad policies to its handling of health data."
-    },
-    {
       "title": "My yard is dying, so I made an app for that",
       "url": "https://www.theverge.com/ai-artificial-intelligence/942119/vibecoding-backyard-app-gardening-organizing",
       "source": "The Verge",
@@ -161,20 +175,6 @@
       "source": "The Verge",
       "publishedAt": "2026-06-13T12:55:49Z",
       "snippet": "On Friday evening, the government ordered Anthropic to block access to Fable 5 and Mythos 5 for all foreign nations, both inside and outside the US, due to national security concerns. That order inclu"
-    },
-    {
-      "title": "Apple\u2019s new AI photo editing tools mostly work, for better and worse",
-      "url": "https://www.theverge.com/tech/949360/apple-ai-photo-edit-reframe-extend-clean-up-hands-on",
-      "source": "The Verge",
-      "publishedAt": "2026-06-13T12:00:00Z",
-      "snippet": "The most popular camera in the world just got its first set of serious AI photo editing features, and I don't think any of us are ready. As far as AI photo editing goes, the new features in iOS 27 are"
-    },
-    {
-      "title": "Andrew Yang thinks the next big startup opportunity is lowering the cost of living",
-      "url": "https://techcrunch.com/2026/06/12/andrew-yang-thinks-the-next-big-startup-opportunity-is-lowering-the-cost-of-living/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-13T04:14:19Z",
-      "snippet": "Andrew Yang made a list of everything Americans overpay for \u2014 housing, food, wireless \u2014 and thinks the next startup gold rush is giving that money back."
     }
   ],
   "trending": [
@@ -189,19 +189,24 @@
       "downloads": 107243
     },
     {
-      "id": "OBLITERATUS/Gemma-4-12B-OBLITERATED",
-      "displayName": "Gemma 4 12B OBLITERATED",
-      "downloads": 70732
-    },
-    {
       "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
       "displayName": "Qwen3.6 35B A3B Uncensored HauhauCS Aggressive",
       "downloads": 2697882
     },
     {
+      "id": "OBLITERATUS/Gemma-4-12B-OBLITERATED",
+      "displayName": "Gemma 4 12B OBLITERATED",
+      "downloads": 70732
+    },
+    {
       "id": "Jackrong/Qwopus3.6-27B-Coder-MTP-GGUF",
       "displayName": "Qwopus3.6 27B Coder MTP",
       "downloads": 62469
+    },
+    {
+      "id": "unsloth/Kimi-K2.7-Code-GGUF",
+      "displayName": "Kimi K2.7 Code",
+      "downloads": 9327
     },
     {
       "id": "unsloth/gemma-4-12b-it-GGUF",
@@ -212,11 +217,6 @@
       "id": "DavidAU/Qwen3.6-40B-Claude-4.6-Opus-Deckard-Heretic-Uncensored-Thinking-NEO-CODE-Di-IMatrix-MAX-GGUF",
       "displayName": "Qwen3.6 40B Claude 4.6 Opus Deckard Heretic Uncensored Thinking NEO CODE Di IMatrix MAX",
       "downloads": 369526
-    },
-    {
-      "id": "unsloth/Kimi-K2.7-Code-GGUF",
-      "displayName": "Kimi K2.7 Code",
-      "downloads": 9327
     },
     {
       "id": "unsloth/gemma-4-12B-it-qat-GGUF",
