@@ -1,6 +1,13 @@
 {
-  "updated": "2026-06-16T03:40:11Z",
+  "updated": "2026-06-16T09:22:06Z",
   "news": [
+    {
+      "title": "Malaysia\u2019s AI agent-powered messaging app Respond.io raises $62.5M, eyes acquisitions",
+      "url": "https://techcrunch.com/2026/06/15/malaysias-respond-io-raises-62-5m-eyes-acquisitions-in-north-america-and-europe/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-16T06:59:00Z",
+      "snippet": "Respond.io, one of Malaysia startups to watch, uses AI agents to handle high volumes of customer inquiries and charges per convo, not per seat."
+    },
     {
       "title": "Inside the fight over Claude Mythos 5",
       "url": "https://www.theverge.com/ai-artificial-intelligence/950412/anthropic-trump-adminstration-claude-mythos-fable-5-export-controls",
@@ -156,13 +163,6 @@
       "snippet": "Once again, AI proves to be an unreliable source of information about AI."
     },
     {
-      "title": "Amazon CEO reportedly raised Anthropic model concerns before government crackdown",
-      "url": "https://techcrunch.com/2026/06/13/amazon-ceo-reportedly-raised-anthropic-model-concerns-before-government-crackdown/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-13T19:11:41Z",
-      "snippet": "Amazon CEO Andy Jassy may have been the source of security concerns that led Anthropic to cut off worldwide access to two models on Friday."
-    },
-    {
       "title": "My yard is dying, so I made an app for that",
       "url": "https://www.theverge.com/ai-artificial-intelligence/942119/vibecoding-backyard-app-gardening-organizing",
       "source": "The Verge",
@@ -181,52 +181,52 @@
     {
       "id": "yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
       "displayName": "gemma 4 12B coder fable5 composer2.5 v1",
-      "downloads": 20207
+      "downloads": 60921
     },
     {
       "id": "unsloth/diffusiongemma-26B-A4B-it-GGUF",
       "displayName": "diffusiongemma 26B A4B",
-      "downloads": 107243
+      "downloads": 120435
     },
     {
       "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
       "displayName": "Qwen3.6 35B A3B Uncensored HauhauCS Aggressive",
-      "downloads": 2697882
+      "downloads": 2716651
     },
     {
       "id": "OBLITERATUS/Gemma-4-12B-OBLITERATED",
       "displayName": "Gemma 4 12B OBLITERATED",
-      "downloads": 70732
+      "downloads": 76044
     },
     {
       "id": "Jackrong/Qwopus3.6-27B-Coder-MTP-GGUF",
       "displayName": "Qwopus3.6 27B Coder MTP",
-      "downloads": 62469
+      "downloads": 79157
     },
     {
       "id": "unsloth/Kimi-K2.7-Code-GGUF",
       "displayName": "Kimi K2.7 Code",
-      "downloads": 9327
+      "downloads": 16817
     },
     {
       "id": "unsloth/gemma-4-12b-it-GGUF",
       "displayName": "gemma 4 12b",
-      "downloads": 980781
+      "downloads": 1009602
     },
     {
       "id": "DavidAU/Qwen3.6-40B-Claude-4.6-Opus-Deckard-Heretic-Uncensored-Thinking-NEO-CODE-Di-IMatrix-MAX-GGUF",
       "displayName": "Qwen3.6 40B Claude 4.6 Opus Deckard Heretic Uncensored Thinking NEO CODE Di IMatrix MAX",
-      "downloads": 369526
-    },
-    {
-      "id": "unsloth/gemma-4-12B-it-qat-GGUF",
-      "displayName": "gemma 4 12B qat",
-      "downloads": 288390
+      "downloads": 366279
     },
     {
       "id": "unsloth/MiniMax-M3-GGUF",
       "displayName": "MiniMax M3",
-      "downloads": 14799
+      "downloads": 18206
+    },
+    {
+      "id": "Jackrong/Qwopus3.6-27B-v2-MTP-GGUF",
+      "displayName": "Qwopus3.6 27B v2 MTP",
+      "downloads": 189172
     }
   ]
 }
