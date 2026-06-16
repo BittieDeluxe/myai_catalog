@@ -1,6 +1,48 @@
 {
-  "updated": "2026-06-16T09:22:06Z",
+  "updated": "2026-06-16T15:06:24Z",
   "news": [
+    {
+      "title": "DOJ claims xAI\u2019s unpermitted gas turbines are a matter of \u2018national, economic, and energy security\u2019",
+      "url": "https://techcrunch.com/2026/06/16/doj-claims-xais-unpermitted-gas-turbines-are-a-matter-of-national-economic-and-energy-security/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-16T15:05:03Z",
+      "snippet": "The Justice department says the Pentagon needs xAI to keep using its unpermitted gas turbines."
+    },
+    {
+      "title": "Robinhood\u2019s note on 10% layoffs shows blaming AI isn\u2019t cutting it",
+      "url": "https://techcrunch.com/2026/06/16/robinhoods-note-on-10-layoffs-shows-blaming-ai-isnt-cutting-it/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-16T14:50:09Z",
+      "snippet": "Unlike many of his tech industry peers who have cut thousands of jobs citing the need to restructure  to make the most of AI, Robinhood's CEO Vlad Tenev conspicuously made no mention of AI in his note"
+    },
+    {
+      "title": "SpaceX passes Amazon as valuation balloons to $2.7T",
+      "url": "https://techcrunch.com/2026/06/16/spacex-passes-amazon-as-valuation-balloons-to-2-7t/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-16T13:48:37Z",
+      "snippet": "SpaceX's valuation has increased by $1 trillion since its shares started trading on Friday."
+    },
+    {
+      "title": "Probably raises $9M to build a more reliable kind of AI",
+      "url": "https://techcrunch.com/2026/06/16/probably-raises-9m-to-build-a-more-reliable-kind-of-ai/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-16T13:15:09Z",
+      "snippet": "Probably wants to prevent hallucinations and factual errors from reaching users, and achieve accuracy on par with deterministic systems."
+    },
+    {
+      "title": "SpaceX is officially buying Cursor for $60 billion",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/950571/spacex-is-officially-buying-cursor-for-60-billion",
+      "source": "The Verge",
+      "publishedAt": "2026-06-16T11:41:31Z",
+      "snippet": "Days after its massive IPO, SpaceX says it is spending $60 billion to buy Cursor - a bet designed to help Elon Musk's sprawling rocket / AI / social media behemoth win over lucrative enterprise custom"
+    },
+    {
+      "title": "SpaceX to acquire Cursor for $60B in stock, days after blockbuster IPO",
+      "url": "https://techcrunch.com/2026/06/16/spacex-to-acquire-cursor-for-60b-in-stock-days-after-blockbuster-ipo/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-16T11:21:41Z",
+      "snippet": "The deal is supposed to help SpaceX's struggling AI division. The company told IPO investors it sees a $26 trillion addressable market in AI."
+    },
     {
       "title": "Malaysia\u2019s AI agent-powered messaging app Respond.io raises $62.5M, eyes acquisitions",
       "url": "https://techcrunch.com/2026/06/15/malaysias-respond-io-raises-62-5m-eyes-acquisitions-in-north-america-and-europe/",
@@ -114,39 +156,11 @@
       "snippet": "In April, for the first time ever, an Earth observation satellite found what it was looking for, all on its own."
     },
     {
-      "title": "The AI layoff wave is becoming a powder keg",
-      "url": "https://techcrunch.com/2026/06/15/the-ai-layoff-wave-is-becoming-a-powder-keg/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-15T07:25:41Z",
-      "snippet": "At the very moment that tens of thousands of workers are being shown the door, a small cohort of AI insiders is becoming wealthy on a scale that's hard to comprehend."
-    },
-    {
       "title": "China may have accessed Mythos",
       "url": "https://www.theverge.com/ai-artificial-intelligence/949644/china-white-house-anthropic-mythos",
       "source": "The Verge",
       "publishedAt": "2026-06-14T18:27:55Z",
       "snippet": "According to a new report from Semafor, the White House's decision to impose export restrictions on Anthropic's Mythos was driven in part by fears that it had been accessed by a group linked to China."
-    },
-    {
-      "title": "As AI companies race to go public, who else is along for the ride?",
-      "url": "https://techcrunch.com/2026/06/14/as-ai-companies-race-to-go-public-who-else-is-along-for-the-ride/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-14T16:38:09Z",
-      "snippet": "Startups are trying to \"ride that SpaceX IPO wave.\""
-    },
-    {
-      "title": "As Anthropic suspends access to new models, India debates its AI future",
-      "url": "https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-14T03:00:00Z",
-      "snippet": "Tech leaders debate whether the Anthropic episode is a wake-up call for India\u2019s AI ambitions."
-    },
-    {
-      "title": "Meta reportedly moves to unwind $2B Manus deal after Beijing\u2019s demand",
-      "url": "https://techcrunch.com/2026/06/13/meta-reportedly-moves-to-unwind-2b-manus-deal-after-beijings-demand/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-14T00:03:49Z",
-      "snippet": "This is the most concrete step yet toward complying with a divestiture order Beijing issued roughly two months ago on national security grounds."
     },
     {
       "title": "Amazon security research reportedly led to the White House\u2019s Anthropic Fable ban",
@@ -156,25 +170,11 @@
       "snippet": "According to the The Wall Street Journal, the export control directive that led to Anthropic cutting off access to Fable 5 and Mythos 5 was triggered in part by cybersecurity research from Amazon and "
     },
     {
-      "title": "KPMG pulls report on AI usage due to apparent hallucinations",
-      "url": "https://techcrunch.com/2026/06/13/kpmg-pulls-report-on-ai-usage-due-to-apparent-hallucinations/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-13T20:42:31Z",
-      "snippet": "Once again, AI proves to be an unreliable source of information about AI."
-    },
-    {
       "title": "My yard is dying, so I made an app for that",
       "url": "https://www.theverge.com/ai-artificial-intelligence/942119/vibecoding-backyard-app-gardening-organizing",
       "source": "The Verge",
       "publishedAt": "2026-06-13T13:00:00Z",
       "snippet": "When I returned to my computer five minutes after giving Gemini a lengthy prompt, I had two things: a functional app in a preview window, and a message about a bug. \"~ Channel is unrecoverably broken "
-    },
-    {
-      "title": "Anthropic cuts off Fable 5 and Mythos 5 access following government order",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/949553/anthropic-fable-5-mythos-5-government-national-security",
-      "source": "The Verge",
-      "publishedAt": "2026-06-13T12:55:49Z",
-      "snippet": "On Friday evening, the government ordered Anthropic to block access to Fable 5 and Mythos 5 for all foreign nations, both inside and outside the US, due to national security concerns. That order inclu"
     }
   ],
   "trending": [
@@ -194,14 +194,14 @@
       "downloads": 2716651
     },
     {
-      "id": "OBLITERATUS/Gemma-4-12B-OBLITERATED",
-      "displayName": "Gemma 4 12B OBLITERATED",
-      "downloads": 76044
-    },
-    {
       "id": "Jackrong/Qwopus3.6-27B-Coder-MTP-GGUF",
       "displayName": "Qwopus3.6 27B Coder MTP",
       "downloads": 79157
+    },
+    {
+      "id": "OBLITERATUS/Gemma-4-12B-OBLITERATED",
+      "displayName": "Gemma 4 12B OBLITERATED",
+      "downloads": 76044
     },
     {
       "id": "unsloth/Kimi-K2.7-Code-GGUF",
@@ -209,14 +209,14 @@
       "downloads": 16817
     },
     {
-      "id": "unsloth/gemma-4-12b-it-GGUF",
-      "displayName": "gemma 4 12b",
-      "downloads": 1009602
-    },
-    {
       "id": "DavidAU/Qwen3.6-40B-Claude-4.6-Opus-Deckard-Heretic-Uncensored-Thinking-NEO-CODE-Di-IMatrix-MAX-GGUF",
       "displayName": "Qwen3.6 40B Claude 4.6 Opus Deckard Heretic Uncensored Thinking NEO CODE Di IMatrix MAX",
       "downloads": 366279
+    },
+    {
+      "id": "unsloth/gemma-4-12b-it-GGUF",
+      "displayName": "gemma 4 12b",
+      "downloads": 1009602
     },
     {
       "id": "unsloth/MiniMax-M3-GGUF",
@@ -224,9 +224,9 @@
       "downloads": 18206
     },
     {
-      "id": "Jackrong/Qwopus3.6-27B-v2-MTP-GGUF",
-      "displayName": "Qwopus3.6 27B v2 MTP",
-      "downloads": 189172
+      "id": "unsloth/gemma-4-12B-it-qat-GGUF",
+      "displayName": "gemma 4 12B qat",
+      "downloads": 305704
     }
   ]
 }
