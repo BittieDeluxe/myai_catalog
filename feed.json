@@ -1,12 +1,54 @@
 {
-  "updated": "2026-06-16T15:06:24Z",
+  "updated": "2026-06-16T19:30:35Z",
   "news": [
+    {
+      "title": "Android 17 launches with new multitasking tools as Google expands Gemini features",
+      "url": "https://techcrunch.com/2026/06/16/android-17-launches-with-new-multitasking-tools-as-google-expands-gemini-features/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-16T18:00:00Z",
+      "snippet": "Google has released Android 17 and Wear OS 7, introducing new multitasking features, parental controls, security tools, and smartwatch upgrades. The launch is also accompanied by a Pixel Drop that bri"
+    },
+    {
+      "title": "Apple 2027 rumors: AirPods with cameras for AI and the second folding iPhone",
+      "url": "https://www.theverge.com/tech/950826/apple-airpod-camera-ai-foldable-iphone-rumor",
+      "source": "The Verge",
+      "publishedAt": "2026-06-16T17:04:05Z",
+      "snippet": "Now that we're clear of WWDC and all of the new AI-powered features coming to Apple's platforms, Bloomberg reporter Mark Gurman has more details about rumored new hardware, like the camera-equipped Ai"
+    },
+    {
+      "title": "Qualcomm\u2019s latest chip hints that more powerful smart glasses could be on the way",
+      "url": "https://www.theverge.com/gadgets/950229/qualcomm-snapdragon-reality-elite-xr-smart-glasses-wearables",
+      "source": "The Verge",
+      "publishedAt": "2026-06-16T17:00:00Z",
+      "snippet": "Smart glasses are still a nascent category, but chipmaker Qualcomm is hard at work upgrading the silicon to power the next wave of XR devices: the Snapdragon Reality Elite. Although Qualcomm is announ"
+    },
+    {
+      "title": "Sixty percent of US consumers say \u2018AI\u2019 in brand messaging is a turnoff, survey finds",
+      "url": "https://techcrunch.com/2026/06/16/sixty-percent-of-u-s-consumers-say-ai-in-brand-messaging-is-a-turnoff-survey-finds/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-16T16:49:44Z",
+      "snippet": "WordPress VIP\u2019s latest survey suggests consumers are wary of AI-generated answers even as companies increasingly view AI search as an important referral channel."
+    },
+    {
+      "title": "SpaceX is public: Everything you need to know post-IPO",
+      "url": "https://techcrunch.com/2026/06/16/spacex-is-public-everything-you-need-to-know-post-ipo/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-16T15:53:12Z",
+      "snippet": "TechCrunch has followed SpaceX's start, struggles, and successes from the early days. And we're here for what happens next too. This package of SpaceX IPO coverage includes who stands to win (and mayb"
+    },
     {
       "title": "DOJ claims xAI\u2019s unpermitted gas turbines are a matter of \u2018national, economic, and energy security\u2019",
       "url": "https://techcrunch.com/2026/06/16/doj-claims-xais-unpermitted-gas-turbines-are-a-matter-of-national-economic-and-energy-security/",
       "source": "TechCrunch",
       "publishedAt": "2026-06-16T15:05:03Z",
       "snippet": "The Justice department says the Pentagon needs xAI to keep using its unpermitted gas turbines."
+    },
+    {
+      "title": "Plaud says its software business topped $100M in ARR after shipping over 2M AI notetakers",
+      "url": "https://techcrunch.com/2026/06/16/plaud-says-its-software-business-topped-100m-in-arr-after-shipping-over-2m-ai-notetakers/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-16T15:00:00Z",
+      "snippet": "Plaud is trying to make a mark in a crowded market full of AI-powered meeting notetakers."
     },
     {
       "title": "Robinhood\u2019s note on 10% layoffs shows blaming AI isn\u2019t cutting it",
@@ -44,11 +86,18 @@
       "snippet": "The deal is supposed to help SpaceX's struggling AI division. The company told IPO investors it sees a $26 trillion addressable market in AI."
     },
     {
+      "title": "ChatGPT\u2019s market share slips below 50% for first time",
+      "url": "https://techcrunch.com/2026/06/16/chatgpts-market-share-slips-below-50-for-first-time/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-16T10:30:00Z",
+      "snippet": "The chatbot still remains the most popular AI assistant worldwide with over 1.1 billion monthly users, followed by Gemini with 662 million and Claude with 245 million."
+    },
+    {
       "title": "Malaysia\u2019s AI agent-powered messaging app Respond.io raises $62.5M, eyes acquisitions",
       "url": "https://techcrunch.com/2026/06/15/malaysias-respond-io-raises-62-5m-eyes-acquisitions-in-north-america-and-europe/",
       "source": "TechCrunch",
       "publishedAt": "2026-06-16T06:59:00Z",
-      "snippet": "Respond.io, one of Malaysia startups to watch, uses AI agents to handle high volumes of customer inquiries and charges per convo, not per seat."
+      "snippet": "Respond.io, one of Malaysia's startups to watch, uses AI agents to handle high volumes of customer inquiries and charges per convo, not per seat."
     },
     {
       "title": "Inside the fight over Claude Mythos 5",
@@ -93,13 +142,6 @@
       "snippet": "Meta announced Monday that it's rolling out a wave of new AI features on Facebook, the latest sign of the company's effort to catch up in the AI race and keep users more engaged on the platform."
     },
     {
-      "title": "SpaceX is public: Everything you need to know post-IPO",
-      "url": "https://techcrunch.com/2026/06/15/spacex-is-public-everything-you-need-to-know-post-ipo/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-15T18:30:34Z",
-      "snippet": "TechCrunch has followed SpaceX's start, struggles, and successes from the early days. And we're here for what happens next too. This package of SpaceX IPO coverage includes who stands to win (and mayb"
-    },
-    {
       "title": "Trump\u2019s Anthropic shutdown just made the case for non-American AI",
       "url": "https://www.theverge.com/ai-artificial-intelligence/949986/anthropic-fable-mythos-shutdown-sovereign-ai",
       "source": "The Verge",
@@ -121,13 +163,6 @@
       "snippet": "A group made up of dozens of cybersecurity experts urged the White House to remove export-control restrictions on Anthropic\u2019s Fable and Mythos models, arguing that the order is going to limit the abil"
     },
     {
-      "title": "Salesforce acquires AI customer service platform Fin for $3.6B",
-      "url": "https://techcrunch.com/2026/06/15/salesforce-acquires-ai-customer-service-platform-fin-for-3-6b/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-15T14:34:45Z",
-      "snippet": "Salesforce says it wants to use Fin's team and technology to improve Agentforce, its existing enterprise platform that businesses can use to build custom AI agents that automate tasks."
-    },
-    {
       "title": "Skydio CEO Adam Bry on why Silicon Valley shouldn\u2019t draw red lines for drone use",
       "url": "https://www.theverge.com/podcast/949195/skydio-ceo-adam-bry-autonmous-drones-china-red-lines-military",
       "source": "The Verge",
@@ -135,46 +170,11 @@
       "snippet": "Today, I\u2019m talking with Adam Bry, who is CEO of Skydio, the leading US maker of autonomous drones. Before we recorded this episode, I actually got to remotely operate one of Skydio\u2019s drones in the Bay"
     },
     {
-      "title": "Sarvam becomes India\u2019s newest AI unicorn with $234 million funding round led by HCLTech",
-      "url": "https://techcrunch.com/2026/06/15/sarvam-becomes-indias-newest-ai-unicorn-with-234-million-funding-round-led-by-hcltech/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-15T13:46:08Z",
-      "snippet": "Indian IT services company HCLTech is investing $150 million in the Bengaluru startup."
-    },
-    {
-      "title": "As AI agents become employees, NewCore emerges with $66M to give them identities",
-      "url": "https://techcrunch.com/2026/06/15/ai-agents-are-becoming-employees-newcore-emerges-with-66m-to-give-them-identities/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-15T13:00:00Z",
-      "snippet": "NewCore argues the next challenge in enterprise security will be managing AI agents, not people."
-    },
-    {
-      "title": "A satellite just learned to find things on its own \u2014 here\u2019s what that means",
-      "url": "https://techcrunch.com/2026/06/15/a-satellite-just-learned-to-find-things-on-its-own-heres-what-that-means/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-15T12:00:00Z",
-      "snippet": "In April, for the first time ever, an Earth observation satellite found what it was looking for, all on its own."
-    },
-    {
       "title": "China may have accessed Mythos",
       "url": "https://www.theverge.com/ai-artificial-intelligence/949644/china-white-house-anthropic-mythos",
       "source": "The Verge",
       "publishedAt": "2026-06-14T18:27:55Z",
       "snippet": "According to a new report from Semafor, the White House's decision to impose export restrictions on Anthropic's Mythos was driven in part by fears that it had been accessed by a group linked to China."
-    },
-    {
-      "title": "Amazon security research reportedly led to the White House\u2019s Anthropic Fable ban",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/949601/amazon-anthropic-fablemythos-government-ban",
-      "source": "The Verge",
-      "publishedAt": "2026-06-13T21:39:26Z",
-      "snippet": "According to the The Wall Street Journal, the export control directive that led to Anthropic cutting off access to Fable 5 and Mythos 5 was triggered in part by cybersecurity research from Amazon and "
-    },
-    {
-      "title": "My yard is dying, so I made an app for that",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/942119/vibecoding-backyard-app-gardening-organizing",
-      "source": "The Verge",
-      "publishedAt": "2026-06-13T13:00:00Z",
-      "snippet": "When I returned to my computer five minutes after giving Gemini a lengthy prompt, I had two things: a functional app in a preview window, and a message about a bug. \"~ Channel is unrecoverably broken "
     }
   ],
   "trending": [
@@ -209,14 +209,14 @@
       "downloads": 16817
     },
     {
-      "id": "DavidAU/Qwen3.6-40B-Claude-4.6-Opus-Deckard-Heretic-Uncensored-Thinking-NEO-CODE-Di-IMatrix-MAX-GGUF",
-      "displayName": "Qwen3.6 40B Claude 4.6 Opus Deckard Heretic Uncensored Thinking NEO CODE Di IMatrix MAX",
-      "downloads": 366279
-    },
-    {
       "id": "unsloth/gemma-4-12b-it-GGUF",
       "displayName": "gemma 4 12b",
       "downloads": 1009602
+    },
+    {
+      "id": "DavidAU/Qwen3.6-40B-Claude-4.6-Opus-Deckard-Heretic-Uncensored-Thinking-NEO-CODE-Di-IMatrix-MAX-GGUF",
+      "displayName": "Qwen3.6 40B Claude 4.6 Opus Deckard Heretic Uncensored Thinking NEO CODE Di IMatrix MAX",
+      "downloads": 366279
     },
     {
       "id": "unsloth/MiniMax-M3-GGUF",
@@ -224,9 +224,9 @@
       "downloads": 18206
     },
     {
-      "id": "unsloth/gemma-4-12B-it-qat-GGUF",
-      "displayName": "gemma 4 12B qat",
-      "downloads": 305704
+      "id": "unsloth/North-Mini-Code-1.0-GGUF",
+      "displayName": "North Mini Code 1.0",
+      "downloads": 26313
     }
   ]
 }
