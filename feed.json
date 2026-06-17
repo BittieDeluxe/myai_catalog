@@ -1,6 +1,48 @@
 {
-  "updated": "2026-06-17T13:39:07Z",
+  "updated": "2026-06-17T16:53:05Z",
   "news": [
+    {
+      "title": "Google bets on Gemini to reinvent the smart home speaker",
+      "url": "https://techcrunch.com/2026/06/17/google-bets-on-gemini-to-reinvent-the-smart-home-speaker/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-17T16:30:09Z",
+      "snippet": "Google is betting generative AI can breathe new life into the smart speaker. The company's new $99.99 Google Home Speaker replaces the rigid commands of the Google Assistant era with more conversation"
+    },
+    {
+      "title": "Vibe-decoding the White House-Anthropic fight over Fable",
+      "url": "https://www.theverge.com/column/951516/trump-anthropic-feud-mythos-fable-white-house",
+      "source": "The Verge",
+      "publishedAt": "2026-06-17T16:27:00Z",
+      "snippet": "Hello and welcome to Regulator, an email for Verge subscribers about technology, politics, and what happens when science crashes headlong into self-interest. Not a subscriber? Sign up here today! Got "
+    },
+    {
+      "title": "Can anyone look cool wearing Snap\u2019s $2,000 glasses?",
+      "url": "https://www.theverge.com/report/951481/snap-specs-wearables-smart-glasses-fashion",
+      "source": "The Verge",
+      "publishedAt": "2026-06-17T16:13:34Z",
+      "snippet": "Yesterday, Snap debuted its new $2,195 Specs glasses. In an interview with CNBC, Snap CEO Evan Spiegel described the Specs as something the company had been working on for more than 12 years, an attem"
+    },
+    {
+      "title": "The slowtech revolution is here to kill your phone addiction and rescue your attention span",
+      "url": "https://techcrunch.com/2026/06/17/the-slowtech-revolution-is-here-to-kill-your-phone-addiction-and-rescue-your-attention-span/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-17T15:24:41Z",
+      "snippet": "\u201cPeople just really want to take back control of their time, their lives, their attention... They\u2019re down for whatever helps them do that.\u201d"
+    },
+    {
+      "title": "Collecting robot training data is dirty, unglamorous work. Some AI labs are already paying XDOF to do it.",
+      "url": "https://techcrunch.com/2026/06/17/collecting-robot-training-data-is-dirty-unglamorous-work-some-ai-labs-are-already-paying-xdof-to-do-it/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-17T15:00:00Z",
+      "snippet": "If physical AI is going to match the accomplishments of LLMs, there's a data problem that needs to be solved."
+    },
+    {
+      "title": "Pramaana Labs raises $27M seed round from Khosla Ventures to bring formal verification to AI",
+      "url": "https://techcrunch.com/2026/06/17/pramaana-labs-raises-27-million-seed-round-from-khosla-ventures-to-bring-formal-verification-to-ai/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-17T14:15:22Z",
+      "snippet": "Pramaana will focus on highly sensitive verticals like law, drug discovery, and tax preparation \u2014 where errors can be costly and reliability is at a premium."
+    },
     {
       "title": "AI search grounded in Facebook posts? What could go wrong?",
       "url": "https://www.theverge.com/ai-artificial-intelligence/951099/meta-ai-mode-search-hands-on",
@@ -13,7 +55,7 @@
       "url": "https://www.theverge.com/tech/951147/google-home-speaker-gemini-launch-date-price-specs-features",
       "source": "The Verge",
       "publishedAt": "2026-06-17T13:00:00Z",
-      "snippet": "Google's first new smart speaker in six years starts shipping on June 29th, narrowly missing its promised spring launch window. Preorders for the Google Home Speaker open today, June 17th. Nothing has"
+      "snippet": "Google's first new smart speaker in six years starts shipping on June 25th, narrowly missing its promised spring launch window. Preorders for the Google Home Speaker open today, June 17th. Nothing has"
     },
     {
       "title": "Canadian pension giant joins race to fund India\u2019s AI-fueled data center boom",
@@ -114,39 +156,11 @@
       "snippet": "Unlike many of his tech industry peers who have cut thousands of jobs citing the need to restructure  to make the most of AI, Robinhood's CEO Vlad Tenev conspicuously made no mention of AI in his note"
     },
     {
-      "title": "Probably raises $9M to build a more reliable kind of AI",
-      "url": "https://techcrunch.com/2026/06/16/probably-raises-9m-to-build-a-more-reliable-kind-of-ai/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-16T13:15:09Z",
-      "snippet": "Probably wants to prevent hallucinations and factual errors from reaching users, and achieve accuracy on par with deterministic systems."
-    },
-    {
       "title": "SpaceX is officially buying Cursor for $60 billion",
       "url": "https://www.theverge.com/ai-artificial-intelligence/950571/spacex-is-officially-buying-cursor-for-60-billion",
       "source": "The Verge",
       "publishedAt": "2026-06-16T11:41:31Z",
       "snippet": "Days after its massive IPO, SpaceX says it is spending $60 billion to buy Cursor - a bet designed to help Elon Musk's sprawling rocket / AI / social media behemoth win over lucrative enterprise custom"
-    },
-    {
-      "title": "SpaceX to acquire Cursor for $60B in stock, days after blockbuster IPO",
-      "url": "https://techcrunch.com/2026/06/16/spacex-to-acquire-cursor-for-60b-in-stock-days-after-blockbuster-ipo/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-16T11:21:41Z",
-      "snippet": "The deal is supposed to help SpaceX's struggling AI division. The company told IPO investors it sees a $26 trillion addressable market in AI."
-    },
-    {
-      "title": "ChatGPT\u2019s market share slips below 50% for first time",
-      "url": "https://techcrunch.com/2026/06/16/chatgpts-market-share-slips-below-50-for-first-time/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-16T10:30:00Z",
-      "snippet": "The chatbot still remains the most popular AI assistant worldwide with over 1.1 billion monthly users, followed by Gemini with 662 million and Claude with 245 million."
-    },
-    {
-      "title": "Malaysia\u2019s AI agent-powered messaging app Respond.io raises $62.5M, eyes acquisitions",
-      "url": "https://techcrunch.com/2026/06/15/malaysias-respond-io-raises-62-5m-eyes-acquisitions-in-north-america-and-europe/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-16T06:59:00Z",
-      "snippet": "Respond.io, one of Malaysia's startups to watch, uses AI agents to handle high volumes of customer inquiries and charges per convo, not per seat."
     },
     {
       "title": "Inside the fight over Claude Mythos 5",
@@ -161,20 +175,6 @@
       "source": "The Verge",
       "publishedAt": "2026-06-15T21:15:08Z",
       "snippet": "Your public Facebook posts could help inform AI-generated results in Meta's new AI Mode. When you search on Facebook, the \"AI Mode\" option will appear alongside the usual search modes like \"People\" an"
-    },
-    {
-      "title": "All the news about Anthropic&#8217;s new AI fight with the White House",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/950026/anthropic-fable-mythos-ban-ai-shutdown",
-      "source": "The Verge",
-      "publishedAt": "2026-06-15T19:04:53Z",
-      "snippet": "Anthropic was already navigating one dispute with the government in its standoff with the Pentagon, and then came an order on June 12th to block off foreign access to its most recently released AI mod"
-    },
-    {
-      "title": "Trump\u2019s Anthropic shutdown just made the case for non-American AI",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/949986/anthropic-fable-mythos-shutdown-sovereign-ai",
-      "source": "The Verge",
-      "publishedAt": "2026-06-15T18:10:27Z",
-      "snippet": "At Washington's request, Anthropic suddenly took its newest and most powerful AI models offline over the weekend. The American company said it had little choice after the White House demanded it block"
     }
   ],
   "trending": [
@@ -199,14 +199,14 @@
       "downloads": 99909
     },
     {
-      "id": "OBLITERATUS/Gemma-4-12B-OBLITERATED",
-      "displayName": "Gemma 4 12B OBLITERATED",
-      "downloads": 78333
-    },
-    {
       "id": "unsloth/Kimi-K2.7-Code-GGUF",
       "displayName": "Kimi K2.7 Code",
       "downloads": 23956
+    },
+    {
+      "id": "OBLITERATUS/Gemma-4-12B-OBLITERATED",
+      "displayName": "Gemma 4 12B OBLITERATED",
+      "downloads": 78333
     },
     {
       "id": "unsloth/MiniMax-M3-GGUF",
@@ -214,19 +214,19 @@
       "downloads": 20504
     },
     {
-      "id": "unsloth/gemma-4-12b-it-GGUF",
-      "displayName": "gemma 4 12b",
-      "downloads": 579224
-    },
-    {
       "id": "DavidAU/Qwen3.6-40B-Claude-4.6-Opus-Deckard-Heretic-Uncensored-Thinking-NEO-CODE-Di-IMatrix-MAX-GGUF",
       "displayName": "Qwen3.6 40B Claude 4.6 Opus Deckard Heretic Uncensored Thinking NEO CODE Di IMatrix MAX",
       "downloads": 427359
     },
     {
-      "id": "unsloth/North-Mini-Code-1.0-GGUF",
-      "displayName": "North Mini Code 1.0",
-      "downloads": 28890
+      "id": "unsloth/gemma-4-12b-it-GGUF",
+      "displayName": "gemma 4 12b",
+      "downloads": 579224
+    },
+    {
+      "id": "Mia-AiLab/Qwable-3.6-27b",
+      "displayName": "Qwable 3.6 27b",
+      "downloads": 646
     }
   ]
 }
