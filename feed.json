@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-17T03:39:49Z",
+  "updated": "2026-06-17T08:58:42Z",
   "news": [
     {
       "title": "Anthropic\u2019s latest feud with the Trump admin may actually help it, sales data suggests",
@@ -209,11 +209,6 @@
       "downloads": 16817
     },
     {
-      "id": "DavidAU/Qwen3.6-40B-Claude-4.6-Opus-Deckard-Heretic-Uncensored-Thinking-NEO-CODE-Di-IMatrix-MAX-GGUF",
-      "displayName": "Qwen3.6 40B Claude 4.6 Opus Deckard Heretic Uncensored Thinking NEO CODE Di IMatrix MAX",
-      "downloads": 366279
-    },
-    {
       "id": "unsloth/MiniMax-M3-GGUF",
       "displayName": "MiniMax M3",
       "downloads": 18206
@@ -222,6 +217,11 @@
       "id": "unsloth/gemma-4-12b-it-GGUF",
       "displayName": "gemma 4 12b",
       "downloads": 1009602
+    },
+    {
+      "id": "DavidAU/Qwen3.6-40B-Claude-4.6-Opus-Deckard-Heretic-Uncensored-Thinking-NEO-CODE-Di-IMatrix-MAX-GGUF",
+      "displayName": "Qwen3.6 40B Claude 4.6 Opus Deckard Heretic Uncensored Thinking NEO CODE Di IMatrix MAX",
+      "downloads": 366279
     },
     {
       "id": "unsloth/North-Mini-Code-1.0-GGUF",
