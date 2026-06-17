@@ -1,6 +1,48 @@
 {
-  "updated": "2026-06-17T08:58:42Z",
+  "updated": "2026-06-17T13:39:07Z",
   "news": [
+    {
+      "title": "AI search grounded in Facebook posts? What could go wrong?",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/951099/meta-ai-mode-search-hands-on",
+      "source": "The Verge",
+      "publishedAt": "2026-06-17T13:30:00Z",
+      "snippet": "AI is pretty reliable at putting things on your calendar these days, but it hasn't quite cracked answering the related and all-important question of \"What should I do this weekend?\" Meta's new AI Mode"
+    },
+    {
+      "title": "Google\u2019s first smart speaker in six years arrives next week",
+      "url": "https://www.theverge.com/tech/951147/google-home-speaker-gemini-launch-date-price-specs-features",
+      "source": "The Verge",
+      "publishedAt": "2026-06-17T13:00:00Z",
+      "snippet": "Google's first new smart speaker in six years starts shipping on June 29th, narrowly missing its promised spring launch window. Preorders for the Google Home Speaker open today, June 17th. Nothing has"
+    },
+    {
+      "title": "Canadian pension giant joins race to fund India\u2019s AI-fueled data center boom",
+      "url": "https://techcrunch.com/2026/06/17/canadian-pension-giant-joins-race-to-fund-indias-ai-fueled-data-center-boom/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-17T12:38:09Z",
+      "snippet": "The Canadian pension giant will acquire an 8.2% stake in CtrlS, a tech giant that operates more than 15 data centers across India."
+    },
+    {
+      "title": "DeepL acquires Mixhalo for live-event audio streaming and translation",
+      "url": "https://techcrunch.com/2026/06/17/deepl-acquires-mixhalo-for-live-event-audio-streaming-and-translation/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-17T12:14:44Z",
+      "snippet": "With this acquisition, DeepL is opening an office in San Francisco to expand its U.S. business."
+    },
+    {
+      "title": "Pinterest launches an experimental AI shopping app called \u2018Ask Pinterest\u2019",
+      "url": "https://techcrunch.com/2026/06/17/pinterest-launches-an-experimental-ai-shopping-app-called-ask-pinterest/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-17T11:00:00Z",
+      "snippet": "Pinterest has launched 'Ask Pinterest,' an experimental AI-powered shopping app that lets users seek recommendations and inspiration through a conversational interface."
+    },
+    {
+      "title": "The next humanoid robot might not look human at all",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/951283/genesis-ai-humanoid-robot-eno",
+      "source": "The Verge",
+      "publishedAt": "2026-06-17T09:46:56Z",
+      "snippet": "The next humanoid robot might not have a head. It might not have legs. It might even sit on a wheeled base and fold down like a deck chair. But, as Genesis AI puts it, \"humanoid robots don't need to l"
+    },
     {
       "title": "Anthropic\u2019s latest feud with the Trump admin may actually help it, sales data suggests",
       "url": "https://techcrunch.com/2026/06/16/anthropics-latest-feud-with-the-trump-admin-may-actually-help-it-sales-data-suggests/",
@@ -114,20 +156,6 @@
       "snippet": "As the rest of the country celebrated the USA's first World Cup win and the New York Knicks championship, Anthropic spent its weekend fighting the Trump administration over its latest model release. A"
     },
     {
-      "title": "Sundar Pichai faces boos, walkout at Stanford graduation ceremony over Google\u2019s Israel, ICE ties",
-      "url": "https://techcrunch.com/2026/06/15/sundar-pichai-faces-boos-walkout-at-stanford-graduation-ceremony-over-googles-israel-ice-ties/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-15T23:51:44Z",
-      "snippet": "AI is once again at the heart of a college graduation protest \u2014 this time for the technology's use in Google's defense contracts."
-    },
-    {
-      "title": "The US government\u2019s Anthropic models ban was never about an AI jailbreak",
-      "url": "https://techcrunch.com/2026/06/15/the-us-governments-anthropic-models-ban-was-never-about-an-ai-jailbreak/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-15T21:50:21Z",
-      "snippet": "The Trump administration's decision that forced Anthropic to pull its latest cybersecurity models could be reactionary, retaliatory, or both, but the message is clear: The AI industry isn't immune fro"
-    },
-    {
       "title": "Facebook\u2019s new AI Mode search gets its info from public posts",
       "url": "https://www.theverge.com/tech/950264/meta-ai-mode-search-facebook",
       "source": "The Verge",
@@ -142,91 +170,63 @@
       "snippet": "Anthropic was already navigating one dispute with the government in its standoff with the Pentagon, and then came an order on June 12th to block off foreign access to its most recently released AI mod"
     },
     {
-      "title": "Meta\u2019s new \u2018AI Mode\u2019 on Facebook pulls from public info across its platforms",
-      "url": "https://techcrunch.com/2026/06/15/metas-new-ai-mode-on-facebook-pulls-from-public-info-across-its-platforms/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-15T18:30:58Z",
-      "snippet": "Meta announced Monday that it's rolling out a wave of new AI features on Facebook, the latest sign of the company's effort to catch up in the AI race and keep users more engaged on the platform."
-    },
-    {
       "title": "Trump\u2019s Anthropic shutdown just made the case for non-American AI",
       "url": "https://www.theverge.com/ai-artificial-intelligence/949986/anthropic-fable-mythos-shutdown-sovereign-ai",
       "source": "The Verge",
       "publishedAt": "2026-06-15T18:10:27Z",
       "snippet": "At Washington's request, Anthropic suddenly took its newest and most powerful AI models offline over the weekend. The American company said it had little choice after the White House demanded it block"
-    },
-    {
-      "title": "Big Tech\u2019s desperate last push at AI regulation",
-      "url": "https://www.theverge.com/policy/949970/ai-regulation-child-safety-kosa-congress",
-      "source": "The Verge",
-      "publishedAt": "2026-06-15T17:44:10Z",
-      "snippet": "For months, Big Tech's Washington lobbyists have chased after the holy grail of pro-AI legislation: preemption. This would be a comprehensive federal law, passed in Congress and signed by the presiden"
-    },
-    {
-      "title": "Skydio CEO Adam Bry on why Silicon Valley shouldn\u2019t draw red lines for drone use",
-      "url": "https://www.theverge.com/podcast/949195/skydio-ceo-adam-bry-autonmous-drones-china-red-lines-military",
-      "source": "The Verge",
-      "publishedAt": "2026-06-15T14:00:00Z",
-      "snippet": "Today, I\u2019m talking with Adam Bry, who is CEO of Skydio, the leading US maker of autonomous drones. Before we recorded this episode, I actually got to remotely operate one of Skydio\u2019s drones in the Bay"
-    },
-    {
-      "title": "China may have accessed Mythos",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/949644/china-white-house-anthropic-mythos",
-      "source": "The Verge",
-      "publishedAt": "2026-06-14T18:27:55Z",
-      "snippet": "According to a new report from Semafor, the White House's decision to impose export restrictions on Anthropic's Mythos was driven in part by fears that it had been accessed by a group linked to China."
     }
   ],
   "trending": [
     {
       "id": "yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
       "displayName": "gemma 4 12B coder fable5 composer2.5 v1",
-      "downloads": 60921
+      "downloads": 146784
     },
     {
       "id": "unsloth/diffusiongemma-26B-A4B-it-GGUF",
       "displayName": "diffusiongemma 26B A4B",
-      "downloads": 120435
+      "downloads": 136634
     },
     {
       "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
       "displayName": "Qwen3.6 35B A3B Uncensored HauhauCS Aggressive",
-      "downloads": 2716651
+      "downloads": 2876624
     },
     {
       "id": "Jackrong/Qwopus3.6-27B-Coder-MTP-GGUF",
       "displayName": "Qwopus3.6 27B Coder MTP",
-      "downloads": 79157
+      "downloads": 99909
     },
     {
       "id": "OBLITERATUS/Gemma-4-12B-OBLITERATED",
       "displayName": "Gemma 4 12B OBLITERATED",
-      "downloads": 76044
+      "downloads": 78333
     },
     {
       "id": "unsloth/Kimi-K2.7-Code-GGUF",
       "displayName": "Kimi K2.7 Code",
-      "downloads": 16817
+      "downloads": 23956
     },
     {
       "id": "unsloth/MiniMax-M3-GGUF",
       "displayName": "MiniMax M3",
-      "downloads": 18206
+      "downloads": 20504
     },
     {
       "id": "unsloth/gemma-4-12b-it-GGUF",
       "displayName": "gemma 4 12b",
-      "downloads": 1009602
+      "downloads": 579224
     },
     {
       "id": "DavidAU/Qwen3.6-40B-Claude-4.6-Opus-Deckard-Heretic-Uncensored-Thinking-NEO-CODE-Di-IMatrix-MAX-GGUF",
       "displayName": "Qwen3.6 40B Claude 4.6 Opus Deckard Heretic Uncensored Thinking NEO CODE Di IMatrix MAX",
-      "downloads": 366279
+      "downloads": 427359
     },
     {
       "id": "unsloth/North-Mini-Code-1.0-GGUF",
       "displayName": "North Mini Code 1.0",
-      "downloads": 26313
+      "downloads": 28890
     }
   ]
 }
