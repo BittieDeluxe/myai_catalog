@@ -1,6 +1,48 @@
 {
-  "updated": "2026-06-18T16:53:33Z",
+  "updated": "2026-06-18T20:20:45Z",
   "news": [
+    {
+      "title": "OpenAI is bringing on some big guns in the lead-up to its IPO",
+      "url": "https://techcrunch.com/2026/06/18/openai-is-bringing-on-some-big-guns-in-the-lead-up-to-its-ipo/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-18T19:59:22Z",
+      "snippet": "OpenAI is bulking up before its IPO, landing Transformer co-inventor Noam Shazeer from Google DeepMind and former Trump AI policy official Dean Ball in the same week."
+    },
+    {
+      "title": "Almost half of U.S. singles feel negatively about AI in dating, Match says",
+      "url": "https://techcrunch.com/2026/06/18/almost-half-of-u-s-singles-feel-negatively-about-ai-in-dating-match-says/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-18T18:51:46Z",
+      "snippet": "About 47% of singles look negatively at the use of AI in dating -- but, many dating app users are open to AI helping with profile punch-ups and conversation starters."
+    },
+    {
+      "title": "Amazon hopes to challenge Nvidia more directly by selling its AI chips",
+      "url": "https://techcrunch.com/2026/06/18/amazon-hopes-to-challenge-nvidia-more-directly-by-selling-its-ai-chips/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-18T18:22:13Z",
+      "snippet": "AWS is in talks to sell its chips to other data centers. CEO Andy Jassy has said this represents a $50 billion opportunity for the company."
+    },
+    {
+      "title": "AI data centers just got a government-mandated fast lane to the grid",
+      "url": "https://techcrunch.com/2026/06/18/ai-data-centers-just-got-a-government-mandated-fast-lane-to-the-grid/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-18T17:49:23Z",
+      "snippet": "FERC told grid operators to give data centers a fast lane for interconnections, but it failed to address electricity supply shortages."
+    },
+    {
+      "title": "The smartphone era created an attention crisis. Slowtech is fixing it",
+      "url": "https://techcrunch.com/2026/06/18/the-smartphone-era-created-an-attention-crisis-slowtech-is-fixing-it/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-18T17:16:30Z",
+      "snippet": "\u201cPeople just really want to take back control of their time, their lives, their attention... They\u2019re down for whatever helps them do that.\u201d"
+    },
+    {
+      "title": "\u2018Queer Eye\u2019s\u2019 life coach Karamo Brown launches K\u0113, a wellness app featuring his AI digital clone",
+      "url": "https://techcrunch.com/2026/06/18/queer-eyes-life-coach-karamo-brown-launches-ke-a-wellness-app-featuring-his-ai-digital-clone/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-18T16:55:04Z",
+      "snippet": "Karamo Brown, famous for his pep talks on Netflix&#8217;s \u201cQueer Eye,\u201d has jumped into the wellness and AI space with his new app, K\u0113. After spending a year and a half focusing on his own journey\u2014from"
+    },
     {
       "title": "Amazon employees say they\u2019re facing termination for backing data center limits",
       "url": "https://www.theverge.com/ai-artificial-intelligence/952180/amazon-seattle-data-center-moratorium-aecj-disciplinary-action",
@@ -107,46 +149,11 @@
       "snippet": "Anthropic has spent much of this week fighting to get its newest AI models back online after the Trump administration abruptly ordered the company to cut access for all foreign nationals, including us"
     },
     {
-      "title": "Social media\u2019s next evolution: user-controlled algorithms",
-      "url": "https://techcrunch.com/2026/06/17/social-medias-next-evolution-user-controlled-algorithms/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-17T18:19:48Z",
-      "snippet": "Social media feeds are becoming more customizable as platforms like Threads, Instagram, and TikTok introduce tools that let users directly influence the algorithms powering their recommendations."
-    },
-    {
-      "title": "NEA\u2019s Tiffany Luck on AI IPOs, personal agents, and the ROI reckoning",
-      "url": "https://techcrunch.com/podcast/neas-tiffany-luck-on-ai-ipos-personal-agents-and-the-roi-reckoning/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-17T18:00:00Z",
-      "snippet": "Tokenmaxxing&#160;was&#160;the hottest trend in Silicon Valley earlier this year, with CEOs encouraging employees to push AI usage as far&#160;as it would go.&#160;Then the bill came due. Uber&#160;re"
-    },
-    {
-      "title": "World model maker Odyssey nabs $1.45B valuation backed by Amazon and other big names",
-      "url": "https://techcrunch.com/2026/06/17/world-model-maker-odyssey-nabs-1-45b-valuation-backed-by-amazon-and-other-big-names/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-17T17:43:07Z",
-      "snippet": "World models are the next big thing in AI beyond LLMs and, with this round, Odyssey has cemented itself as one of the startups to watch."
-    },
-    {
       "title": "Two-thirds of Americans think AI is advancing too quickly",
       "url": "https://www.theverge.com/ai-artificial-intelligence/951653/pew-research-ai-chatbot-usage-advancing-too-quickly",
       "source": "The Verge",
       "publishedAt": "2026-06-17T17:20:24Z",
       "snippet": "According to the latest Pew Research poll, 49 percent of Americans report using chatbots at least occasionally, but 63 percent think the tech is advancing too quickly. Overall, use of AI chatbots has "
-    },
-    {
-      "title": "Only 16 percent of Americans think AI will have a positive impact on society, a new study shows",
-      "url": "https://techcrunch.com/2026/06/17/only-16-percent-of-americans-think-ai-will-have-a-positive-impact-on-society-a-new-study-shows/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-17T17:00:01Z",
-      "snippet": "Although Wall Street loves AI, every day Americans are significantly less optimistic about the industry, a new report from Pew Research shows."
-    },
-    {
-      "title": "Google bets on Gemini to reinvent the smart home speaker",
-      "url": "https://techcrunch.com/2026/06/17/google-bets-on-gemini-to-reinvent-the-smart-home-speaker/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-17T16:30:09Z",
-      "snippet": "Google is betting generative AI can breathe new life into the smart speaker. The company's new $99.99 Google Home Speaker replaces the rigid commands of the Google Assistant era with more conversation"
     },
     {
       "title": "Vibe-decoding the White House-Anthropic fight over Fable",
@@ -161,13 +168,6 @@
       "source": "The Verge",
       "publishedAt": "2026-06-17T16:13:34Z",
       "snippet": "Yesterday, Snap debuted its new $2,195 Specs glasses. In an interview with CNBC, Snap CEO Evan Spiegel described the Specs as something the company had been working on for more than 12 years, an attem"
-    },
-    {
-      "title": "The slowtech revolution is here to kill your phone addiction and rescue your attention span",
-      "url": "https://techcrunch.com/2026/06/17/the-slowtech-revolution-is-here-to-kill-your-phone-addiction-and-rescue-your-attention-span/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-17T15:24:41Z",
-      "snippet": "\u201cPeople just really want to take back control of their time, their lives, their attention... They\u2019re down for whatever helps them do that.\u201d"
     },
     {
       "title": "AI search grounded in Facebook posts? What could go wrong?",
@@ -204,24 +204,24 @@
       "downloads": 29287
     },
     {
-      "id": "unsloth/MiniMax-M3-GGUF",
-      "displayName": "MiniMax M3",
-      "downloads": 22659
-    },
-    {
       "id": "unsloth/GLM-5.2-GGUF",
       "displayName": "GLM 5.2",
       "downloads": 305
     },
     {
-      "id": "OBLITERATUS/Gemma-4-12B-OBLITERATED",
-      "displayName": "Gemma 4 12B OBLITERATED",
-      "downloads": 96805
+      "id": "unsloth/MiniMax-M3-GGUF",
+      "displayName": "MiniMax M3",
+      "downloads": 22659
     },
     {
       "id": "DavidAU/Qwen3.6-40B-Claude-4.6-Opus-Deckard-Heretic-Uncensored-Thinking-NEO-CODE-Di-IMatrix-MAX-GGUF",
       "displayName": "Qwen3.6 40B Claude 4.6 Opus Deckard Heretic Uncensored Thinking NEO CODE Di IMatrix MAX",
       "downloads": 529069
+    },
+    {
+      "id": "OBLITERATUS/Gemma-4-12B-OBLITERATED",
+      "displayName": "Gemma 4 12B OBLITERATED",
+      "downloads": 96805
     },
     {
       "id": "Mia-AiLab/Qwable-3.6-27b",
