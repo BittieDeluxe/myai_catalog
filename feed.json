@@ -1,6 +1,20 @@
 {
-  "updated": "2026-06-17T23:19:56Z",
+  "updated": "2026-06-18T03:31:33Z",
   "news": [
+    {
+      "title": "Midjourney Medical goes from generating \u2018cat images\u2019 to full-body ultrasound scans",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/952011/midjourney-medical-ai-ultrasound-scan",
+      "source": "The Verge",
+      "publishedAt": "2026-06-18T03:12:31Z",
+      "snippet": "Midjourney CEO David Holz just showed off the company's first hardware product and plans to build a San Francisco spa, which he admitted is a bit different from the \"cat pictures\" produced by its AI i"
+    },
+    {
+      "title": "How to turn off AI in your Google Docs",
+      "url": "https://techcrunch.com/2026/06/17/how-to-turn-off-ai-in-your-google-docs/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-18T01:23:51Z",
+      "snippet": "Here's what you need to do to get those pesky \"write with Gemini\" pop-ups to go away."
+    },
     {
       "title": "Roelof Botha joins SpaceX\u2019s board of directors",
       "url": "https://techcrunch.com/2026/06/17/roelof-botha-joins-spacexs-board-of-directors/",
@@ -142,13 +156,6 @@
       "snippet": "The Canadian pension giant will acquire an 8.2% stake in CtrlS, a tech giant that operates more than 15 data centers across India."
     },
     {
-      "title": "DeepL acquires Mixhalo for live-event audio streaming and translation",
-      "url": "https://techcrunch.com/2026/06/17/deepl-acquires-mixhalo-for-live-event-audio-streaming-and-translation/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-17T12:14:44Z",
-      "snippet": "With this acquisition, DeepL is opening an office in San Francisco to expand its U.S. business."
-    },
-    {
       "title": "The next humanoid robot might not look human at all",
       "url": "https://www.theverge.com/ai-artificial-intelligence/951283/genesis-ai-humanoid-robot-eno",
       "source": "The Verge",
@@ -168,13 +175,6 @@
       "source": "The Verge",
       "publishedAt": "2026-06-16T17:00:00Z",
       "snippet": "Smart glasses are still a nascent category, but chipmaker Qualcomm is hard at work upgrading the silicon to power the next wave of XR devices: the Snapdragon Reality Elite. Although Qualcomm is announ"
-    },
-    {
-      "title": "SpaceX is officially buying Cursor for $60 billion",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/950571/spacex-is-officially-buying-cursor-for-60-billion",
-      "source": "The Verge",
-      "publishedAt": "2026-06-16T11:41:31Z",
-      "snippet": "Days after its massive IPO, SpaceX says it is spending $60 billion to buy Cursor - a bet designed to help Elon Musk's sprawling rocket / AI / social media behemoth win over lucrative enterprise custom"
     }
   ],
   "trending": [
@@ -184,14 +184,14 @@
       "downloads": 146784
     },
     {
-      "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
-      "displayName": "Qwen3.6 35B A3B Uncensored HauhauCS Aggressive",
-      "downloads": 2876624
-    },
-    {
       "id": "Jackrong/Qwopus3.6-27B-Coder-MTP-GGUF",
       "displayName": "Qwopus3.6 27B Coder MTP",
       "downloads": 99909
+    },
+    {
+      "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
+      "displayName": "Qwen3.6 35B A3B Uncensored HauhauCS Aggressive",
+      "downloads": 2876624
     },
     {
       "id": "unsloth/diffusiongemma-26B-A4B-it-GGUF",
