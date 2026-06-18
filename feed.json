@@ -1,6 +1,48 @@
 {
-  "updated": "2026-06-18T12:48:29Z",
+  "updated": "2026-06-18T16:53:33Z",
   "news": [
+    {
+      "title": "Amazon employees say they\u2019re facing termination for backing data center limits",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/952180/amazon-seattle-data-center-moratorium-aecj-disciplinary-action",
+      "source": "The Verge",
+      "publishedAt": "2026-06-18T16:00:00Z",
+      "snippet": "When three Amazon software engineers testified earlier this month at Seattle City Council hearings about data centers, they started their testimony by citing a city law barring employment discriminati"
+    },
+    {
+      "title": "General Intuition in talks to raise $300M at around $2B valuation",
+      "url": "https://techcrunch.com/2026/06/18/general-intuition-in-talks-to-raise-300m-at-around-2b-valuation/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-18T15:20:37Z",
+      "snippet": "The startup trains embodied AI and world models using Medal\u2019s dataset of 2 billion videos per year from 10 million monthly active users."
+    },
+    {
+      "title": "A tech worker-backed PAC is bringing a $5M knife to Big Tech\u2019s $100M gunfight",
+      "url": "https://techcrunch.com/2026/06/18/a-tech-worker-backed-pac-is-bringing-a-5m-knife-to-big-techs-100m-gunfight/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-18T15:13:21Z",
+      "snippet": "Guardrails positions itself as a populist political movement that runs on small donations from people in the trenches of the AI boom."
+    },
+    {
+      "title": "Who decides when AI is too dangerous?",
+      "url": "https://www.theverge.com/podcast/951542/anthropic-claude-fable-5-mythos-ban-pentagon-ai-regulation-trump",
+      "source": "The Verge",
+      "publishedAt": "2026-06-18T14:00:00Z",
+      "snippet": "On today\u2019s episode of Decoder, my guest is Hayden Field, senior AI reporter for The Verge. Often when Hayden comes on the show, it\u2019s because something has gone wrong in the world of AI. Last weekend, "
+    },
+    {
+      "title": "Photoshop and Premiere now have AI assistants",
+      "url": "https://www.theverge.com/tech/952099/adobe-ai-assistants-photoshop-premiere-illustrator-beta-launch",
+      "source": "The Verge",
+      "publishedAt": "2026-06-18T13:00:00Z",
+      "snippet": "Adobe's plan to stick AI assistants into all of its Creative Cloud suite is now fully underway, with new chatbots now rolling out to its biggest editing and design apps. As part of a public beta launc"
+    },
+    {
+      "title": "Adobe\u2019s redesigned AI studio remembers what your creations look like",
+      "url": "https://www.theverge.com/tech/952104/adobe-firefly-ai-agent-elements-projects-update",
+      "source": "The Verge",
+      "publishedAt": "2026-06-18T13:00:00Z",
+      "snippet": "Adobe is introducing some new capabilities for its Firefly AI assistant, alongside a \"reimagined\" AI studio that lets you edit and generate new designs from a single interface. The new Firefly experie"
+    },
     {
       "title": "Pixi\u2019s new iOS app turns text messages into interactive AR experiences",
       "url": "https://techcrunch.com/2026/06/18/pixis-new-ios-app-turns-text-messages-into-interactive-ar-experiences/",
@@ -128,53 +170,11 @@
       "snippet": "\u201cPeople just really want to take back control of their time, their lives, their attention... They\u2019re down for whatever helps them do that.\u201d"
     },
     {
-      "title": "Collecting robot training data is dirty, unglamorous work. Some AI labs are already paying XDOF to do it.",
-      "url": "https://techcrunch.com/2026/06/17/collecting-robot-training-data-is-dirty-unglamorous-work-some-ai-labs-are-already-paying-xdof-to-do-it/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-17T15:00:00Z",
-      "snippet": "If physical AI is going to match the accomplishments of LLMs, there's a data problem that needs to be solved."
-    },
-    {
-      "title": "Pramaana Labs raises $27M seed round from Khosla Ventures to bring formal verification to AI",
-      "url": "https://techcrunch.com/2026/06/17/pramaana-labs-raises-27-million-seed-round-from-khosla-ventures-to-bring-formal-verification-to-ai/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-17T14:15:22Z",
-      "snippet": "Pramaana will focus on highly sensitive verticals like law, drug discovery, and tax preparation \u2014 where errors can be costly and reliability is at a premium."
-    },
-    {
       "title": "AI search grounded in Facebook posts? What could go wrong?",
       "url": "https://www.theverge.com/ai-artificial-intelligence/951099/meta-ai-mode-search-hands-on",
       "source": "The Verge",
       "publishedAt": "2026-06-17T13:30:00Z",
       "snippet": "AI is pretty reliable at putting things on your calendar these days, but it hasn't quite cracked answering the related and all-important question of \"What should I do this weekend?\" Meta's new AI Mode"
-    },
-    {
-      "title": "Google\u2019s first smart speaker in six years arrives next week",
-      "url": "https://www.theverge.com/tech/951147/google-home-speaker-gemini-launch-date-price-specs-features",
-      "source": "The Verge",
-      "publishedAt": "2026-06-17T13:00:00Z",
-      "snippet": "Google's first new smart speaker in six years starts shipping on June 25th, narrowly missing its promised spring launch window. Preorders for the Google Home Speaker open today, June 17th. Nothing has"
-    },
-    {
-      "title": "The next humanoid robot might not look human at all",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/951283/genesis-ai-humanoid-robot-eno",
-      "source": "The Verge",
-      "publishedAt": "2026-06-17T09:46:56Z",
-      "snippet": "The next humanoid robot might not have a head. It might not have legs. It might even sit on a wheeled base and fold down like a deck chair. But, as Genesis AI puts it, \"humanoid robots don't need to l"
-    },
-    {
-      "title": "Apple 2027 rumors: AirPods with cameras for AI and the second folding iPhone",
-      "url": "https://www.theverge.com/tech/950826/apple-airpod-camera-ai-foldable-iphone-rumor",
-      "source": "The Verge",
-      "publishedAt": "2026-06-16T17:04:05Z",
-      "snippet": "Now that we're clear of WWDC and all of the new AI-powered features coming to Apple's platforms, Bloomberg reporter Mark Gurman has more details about rumored new hardware, like the camera-equipped Ai"
-    },
-    {
-      "title": "Qualcomm\u2019s latest chip hints that more powerful smart glasses could be on the way",
-      "url": "https://www.theverge.com/gadgets/950229/qualcomm-snapdragon-reality-elite-xr-smart-glasses-wearables",
-      "source": "The Verge",
-      "publishedAt": "2026-06-16T17:00:00Z",
-      "snippet": "Smart glasses are still a nascent category, but chipmaker Qualcomm is hard at work upgrading the silicon to power the next wave of XR devices: the Snapdragon Reality Elite. Although Qualcomm is announ"
     }
   ],
   "trending": [
@@ -209,6 +209,11 @@
       "downloads": 22659
     },
     {
+      "id": "unsloth/GLM-5.2-GGUF",
+      "displayName": "GLM 5.2",
+      "downloads": 305
+    },
+    {
       "id": "OBLITERATUS/Gemma-4-12B-OBLITERATED",
       "displayName": "Gemma 4 12B OBLITERATED",
       "downloads": 96805
@@ -222,11 +227,6 @@
       "id": "Mia-AiLab/Qwable-3.6-27b",
       "displayName": "Qwable 3.6 27b",
       "downloads": 2496
-    },
-    {
-      "id": "unsloth/gemma-4-12b-it-GGUF",
-      "displayName": "gemma 4 12b",
-      "downloads": 918431
     }
   ]
 }
