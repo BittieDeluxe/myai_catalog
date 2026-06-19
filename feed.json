@@ -1,6 +1,13 @@
 {
-  "updated": "2026-06-19T21:06:03Z",
+  "updated": "2026-06-19T22:52:11Z",
   "news": [
+    {
+      "title": "Encryption, spyware, and now Mythos: History shows why cyber export control doesn\u2019t work",
+      "url": "https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-19T22:40:14Z",
+      "snippet": "For the last 30 years, stopping the flow of cybersecurity-related software has proven to be ineffective. It's unclear why it would work now with Anthropic\u2019s cybersecurity model Mythos."
+    },
     {
       "title": "Is the US government\u2019s Anthropic ban accidentally helping the brand?",
       "url": "https://techcrunch.com/video/is-the-us-governments-anthropic-ban-accidentally-helping-the-brand/",
@@ -30,7 +37,7 @@
       "snippet": "Luca Guadagnino's film about OpenAI CEO Sam Altman, Artificial, has reportedly been dropped by Amazon MGM. The film, which stars Andrew Garfield and covers the rollercoaster five days in 2023 spanning"
     },
     {
-      "title": "The CEO of Allbirds\u2019 new AI biz has a plan, but no employees",
+      "title": "The CEO of Allbirds\u2019 new AI biz has a plan, but no team",
       "url": "https://techcrunch.com/2026/06/19/the-ceo-of-allbirds-new-ai-biz-has-a-plan-but-no-employees/",
       "source": "TechCrunch",
       "publishedAt": "2026-06-19T13:00:00Z",
@@ -119,13 +126,6 @@
       "source": "The Verge",
       "publishedAt": "2026-06-18T16:00:00Z",
       "snippet": "When three Amazon software engineers testified earlier this month at Seattle City Council hearings about data centers, they started their testimony by citing a city law barring employment discriminati"
-    },
-    {
-      "title": "General Intuition in talks to raise $300M at around $2B valuation",
-      "url": "https://techcrunch.com/2026/06/18/general-intuition-in-talks-to-raise-300m-at-around-2b-valuation/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-18T15:20:37Z",
-      "snippet": "The startup trains embodied AI and world models using Medal\u2019s dataset of 2 billion videos per year from 10 million monthly active users."
     },
     {
       "title": "Who decides when AI is too dangerous?",
@@ -219,14 +219,14 @@
       "downloads": 588753
     },
     {
-      "id": "unsloth/MiniMax-M3-GGUF",
-      "displayName": "MiniMax M3",
-      "downloads": 24354
+      "id": "yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF",
+      "displayName": "gemma 4 12B agentic fable5 composer2.5 v2 3.5x tau2",
+      "downloads": 0
     },
     {
-      "id": "OBLITERATUS/Gemma-4-12B-OBLITERATED",
-      "displayName": "Gemma 4 12B OBLITERATED",
-      "downloads": 106885
+      "id": "bytkim/Qwen3.6-27B-MTP-pi-tune-GGUF",
+      "displayName": "Qwen3.6 27B MTP pi tune",
+      "downloads": 8138
     }
   ]
 }
