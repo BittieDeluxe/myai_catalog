@@ -1,6 +1,34 @@
 {
-  "updated": "2026-06-19T13:32:18Z",
+  "updated": "2026-06-19T16:30:13Z",
   "news": [
+    {
+      "title": "Is the US government\u2019s Anthropic ban accidentally helping the brand?",
+      "url": "https://techcrunch.com/video/is-the-us-governments-anthropic-ban-accidentally-helping-the-brand/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-19T16:08:17Z",
+      "snippet": "Just as last week&#160;was ending,&#160;the US government&#160;forced Anthropic to pull its two newest models, Fable 5 and Mythos 5, citing national security concerns after Amazon researchers allegedl"
+    },
+    {
+      "title": "The US banned Anthropic\u2019s Fable 5 release, but the numbers don\u2019t seem to care",
+      "url": "https://techcrunch.com/podcast/the-us-banned-anthropics-fable-5-release-but-the-numbers-dont-seem-to-care/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-19T16:01:03Z",
+      "snippet": "Just as last week&#160;was ending,&#160;the US government&#160;forced Anthropic to pull its two newest models, Fable 5 and Mythos 5, citing national security concerns after Amazon researchers allegedl"
+    },
+    {
+      "title": "Billionaire Ambani wants AI in every call, app, and home",
+      "url": "https://techcrunch.com/2026/06/19/billionaire-ambani-wants-ai-in-every-call-app-and-home/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-19T15:23:28Z",
+      "snippet": "Reliance is weaving AI into telecom services used by more than 500 million people."
+    },
+    {
+      "title": "The film about Sam Altman has been dropped by Amazon MGM",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/952906/sam-altman-film-artificial-openai-amazon-mgm-dropped",
+      "source": "The Verge",
+      "publishedAt": "2026-06-19T14:15:29Z",
+      "snippet": "Luca Guadagnino's film about OpenAI CEO Sam Altman, Artificial, has reportedly been dropped by Amazon MGM. The film, which stars Andrew Garfield and covers the rollercoaster five days in 2023 spanning"
+    },
     {
       "title": "The CEO of Allbirds\u2019 new AI biz has a plan, but no employees",
       "url": "https://techcrunch.com/2026/06/19/the-ceo-of-allbirds-new-ai-biz-has-a-plan-but-no-employees/",
@@ -100,13 +128,6 @@
       "snippet": "The startup trains embodied AI and world models using Medal\u2019s dataset of 2 billion videos per year from 10 million monthly active users."
     },
     {
-      "title": "A tech worker-backed PAC is bringing a $5M knife to Big Tech\u2019s $100M gunfight",
-      "url": "https://techcrunch.com/2026/06/18/a-tech-worker-backed-pac-is-bringing-a-5m-knife-to-big-techs-100m-gunfight/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-18T15:13:21Z",
-      "snippet": "Guardrails positions itself as a populist political movement that runs on small donations from people in the trenches of the AI boom."
-    },
-    {
       "title": "Who decides when AI is too dangerous?",
       "url": "https://www.theverge.com/podcast/951542/anthropic-claude-fable-5-mythos-ban-pentagon-ai-regulation-trump",
       "source": "The Verge",
@@ -128,25 +149,11 @@
       "snippet": "Adobe is introducing some new capabilities for its Firefly AI assistant, alongside a \"reimagined\" AI studio that lets you edit and generate new designs from a single interface. The new Firefly experie"
     },
     {
-      "title": "Pixi\u2019s new iOS app turns text messages into interactive AR experiences",
-      "url": "https://techcrunch.com/2026/06/18/pixis-new-ios-app-turns-text-messages-into-interactive-ar-experiences/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-18T12:00:00Z",
-      "snippet": "Forget stickers, GIFs, and emoji reactions. Pixi is betting that the next evolution of messaging is interactive augmented reality (AR)."
-    },
-    {
       "title": "Midjourney goes from generating cat images to full-body ultrasound scans",
       "url": "https://www.theverge.com/ai-artificial-intelligence/952011/midjourney-medical-ai-ultrasound-scan",
       "source": "The Verge",
       "publishedAt": "2026-06-18T03:12:31Z",
       "snippet": "Midjourney CEO David Holz just showed off the company's first hardware product and plans to build a San Francisco spa, which he admitted is a bit different from the \"cat pictures\" produced by its AI i"
-    },
-    {
-      "title": "How to turn off AI in your Google Docs",
-      "url": "https://techcrunch.com/2026/06/17/how-to-turn-off-ai-in-your-google-docs/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-18T01:23:51Z",
-      "snippet": "Here's what you need to do to get those pesky \"write with Gemini\" pop-ups to go away."
     },
     {
       "title": "Anthropic got hit by export rules nobody understands",
@@ -168,13 +175,6 @@
       "source": "The Verge",
       "publishedAt": "2026-06-17T16:27:00Z",
       "snippet": "Hello and welcome to Regulator, an email for Verge subscribers about technology, politics, and what happens when science crashes headlong into self-interest. Not a subscriber? Sign up here today! Got "
-    },
-    {
-      "title": "Can anyone look cool wearing Snap\u2019s $2,000 glasses?",
-      "url": "https://www.theverge.com/report/951481/snap-specs-wearables-smart-glasses-fashion",
-      "source": "The Verge",
-      "publishedAt": "2026-06-17T16:13:34Z",
-      "snippet": "Yesterday, Snap debuted its new $2,195 Specs glasses. In an interview with CNBC, Snap CEO Evan Spiegel described the Specs as something the company had been working on for more than 12 years, an attem"
     }
   ],
   "trending": [
