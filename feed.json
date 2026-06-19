@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-19T16:30:13Z",
+  "updated": "2026-06-19T19:43:41Z",
   "news": [
     {
       "title": "Is the US government\u2019s Anthropic ban accidentally helping the brand?",
@@ -37,7 +37,7 @@
       "snippet": "Call it a startup with a sole founder and a very large seed round, but what's next is less clear."
     },
     {
-      "title": "The US says ASML\u2019s top chip tool may be in China. ASML says it isn\u2019t",
+      "title": "The US says ASML\u2019s top chip tool may be in China. ASML says it isn\u2019t.",
       "url": "https://techcrunch.com/2026/06/19/the-us-says-asmls-top-chip-tool-may-be-in-china-asml-says-it-isnt/",
       "source": "TechCrunch",
       "publishedAt": "2026-06-19T07:59:12Z",
@@ -51,11 +51,11 @@
       "snippet": "Five months after returning to OpenAI, Barret Zoph - the company's head of enterprise AI sales - has departed, The Verge has learned. Zoph returned to OpenAI in mid-January after a stint as co-founder"
     },
     {
-      "title": "Source: Elastic agrees to buy CRV-backed DeductiveAI for up to $85M",
+      "title": "Source: Elastic agrees to buy CRV-backed Deductive AI for up to $85M",
       "url": "https://techcrunch.com/2026/06/18/source-elastic-agrees-to-buy-crv-backed-deductiveai-for-up-to-85m/",
       "source": "TechCrunch",
       "publishedAt": "2026-06-19T00:51:11Z",
-      "snippet": "DeductiveAI, a startup that uses AI to catch and resolve bugs in software, was founded just three years ago."
+      "snippet": "Deductive AI, a startup that uses AI to catch and resolve bugs in software, was founded just three years ago."
     },
     {
       "title": "AI inference startup Baseten reportedly raising $1.5B months after its last mega-round",
@@ -189,14 +189,14 @@
       "downloads": 3730978
     },
     {
-      "id": "Jackrong/Qwopus3.6-27B-Coder-MTP-GGUF",
-      "displayName": "Qwopus3.6 27B Coder MTP",
-      "downloads": 148525
-    },
-    {
       "id": "unsloth/GLM-5.2-GGUF",
       "displayName": "GLM 5.2",
       "downloads": 8392
+    },
+    {
+      "id": "Jackrong/Qwopus3.6-27B-Coder-MTP-GGUF",
+      "displayName": "Qwopus3.6 27B Coder MTP",
+      "downloads": 148525
     },
     {
       "id": "unsloth/Kimi-K2.7-Code-GGUF",
@@ -209,11 +209,6 @@
       "downloads": 202867
     },
     {
-      "id": "unsloth/MiniMax-M3-GGUF",
-      "displayName": "MiniMax M3",
-      "downloads": 24354
-    },
-    {
       "id": "Mia-AiLab/Qwable-3.6-27b",
       "displayName": "Qwable 3.6 27b",
       "downloads": 16105
@@ -222,6 +217,11 @@
       "id": "DavidAU/Qwen3.6-40B-Claude-4.6-Opus-Deckard-Heretic-Uncensored-Thinking-NEO-CODE-Di-IMatrix-MAX-GGUF",
       "displayName": "Qwen3.6 40B Claude 4.6 Opus Deckard Heretic Uncensored Thinking NEO CODE Di IMatrix MAX",
       "downloads": 588753
+    },
+    {
+      "id": "unsloth/MiniMax-M3-GGUF",
+      "displayName": "MiniMax M3",
+      "downloads": 24354
     },
     {
       "id": "OBLITERATUS/Gemma-4-12B-OBLITERATED",
