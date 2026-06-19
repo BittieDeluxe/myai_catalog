@@ -1,6 +1,13 @@
 {
-  "updated": "2026-06-18T23:41:57Z",
+  "updated": "2026-06-19T03:53:42Z",
   "news": [
+    {
+      "title": "Source: Elastic agrees to buy CRV-backed DeductiveAI for up to $85M",
+      "url": "https://techcrunch.com/2026/06/18/source-elastic-agrees-to-buy-crv-backed-deductiveai-for-up-to-85m/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-19T00:51:11Z",
+      "snippet": "DeductiveAI, a startup that uses AI to catch and resolve bugs in software, was founded just three years ago."
+    },
     {
       "title": "AI inference startup Baseten reportedly raising $1.5B months after its last mega-round",
       "url": "https://techcrunch.com/2026/06/18/ai-inference-startup-baseten-reportedly-raising-1-5b-months-after-its-last-mega-round/",
@@ -23,11 +30,11 @@
       "snippet": "OpenAI is bulking up before its IPO, landing Transformer co-inventor Noam Shazeer from Google DeepMind and former Trump AI policy official Dean Ball in the same week."
     },
     {
-      "title": "Almost half of U.S. singles feel negatively about AI in dating, Match says",
+      "title": "Almost half of US singles feel negatively about AI in dating, Match says",
       "url": "https://techcrunch.com/2026/06/18/almost-half-of-u-s-singles-feel-negatively-about-ai-in-dating-match-says/",
       "source": "TechCrunch",
       "publishedAt": "2026-06-18T18:51:46Z",
-      "snippet": "About 47% of singles look negatively at the use of AI in dating -- but, many dating app users are open to AI helping with profile punch-ups and conversation starters."
+      "snippet": "About 47% of singles look negatively at the use of AI in dating -- but many dating app users are open to AI helping with profile punch-ups and conversation starters."
     },
     {
       "title": "Amazon hopes to challenge Nvidia more directly by selling its AI chips",
@@ -44,7 +51,7 @@
       "snippet": "FERC told grid operators to give data centers a fast lane for interconnections, but it failed to address electricity supply shortages."
     },
     {
-      "title": "The smartphone era created an attention crisis. Slowtech is fixing it",
+      "title": "The smartphone era created an attention crisis \u2014 slow tech is fixing it",
       "url": "https://techcrunch.com/2026/06/18/the-smartphone-era-created-an-attention-crisis-slowtech-is-fixing-it/",
       "source": "TechCrunch",
       "publishedAt": "2026-06-18T17:16:30Z",
@@ -135,13 +142,6 @@
       "snippet": "Snap's long-awaited smart glasses debut hasn't exactly done wonders for the company's stock."
     },
     {
-      "title": "NEA\u2019s Tiffany Luck says enterprises are still figuring out their AI ROI",
-      "url": "https://techcrunch.com/video/neas-tiffany-luck-says-enterprises-are-still-figuring-out-their-ai-roi/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-17T20:17:38Z",
-      "snippet": "Tokenmaxxing&#160;was&#160;the hottest trend in Silicon Valley earlier this year, with CEOs encouraging employees to push AI usage as far&#160;as it would go.&#160;Then the bill came due. Uber&#160;re"
-    },
-    {
       "title": "Anthropic got hit by export rules nobody understands",
       "url": "https://www.theverge.com/ai-artificial-intelligence/951703/anthropic-shutdown-export-controls",
       "source": "The Verge",
@@ -194,11 +194,6 @@
       "downloads": 3420052
     },
     {
-      "id": "unsloth/diffusiongemma-26B-A4B-it-GGUF",
-      "displayName": "diffusiongemma 26B A4B",
-      "downloads": 164209
-    },
-    {
       "id": "unsloth/Kimi-K2.7-Code-GGUF",
       "displayName": "Kimi K2.7 Code",
       "downloads": 29287
@@ -209,14 +204,14 @@
       "downloads": 305
     },
     {
+      "id": "unsloth/diffusiongemma-26B-A4B-it-GGUF",
+      "displayName": "diffusiongemma 26B A4B",
+      "downloads": 164209
+    },
+    {
       "id": "unsloth/MiniMax-M3-GGUF",
       "displayName": "MiniMax M3",
       "downloads": 22659
-    },
-    {
-      "id": "DavidAU/Qwen3.6-40B-Claude-4.6-Opus-Deckard-Heretic-Uncensored-Thinking-NEO-CODE-Di-IMatrix-MAX-GGUF",
-      "displayName": "Qwen3.6 40B Claude 4.6 Opus Deckard Heretic Uncensored Thinking NEO CODE Di IMatrix MAX",
-      "downloads": 529069
     },
     {
       "id": "OBLITERATUS/Gemma-4-12B-OBLITERATED",
@@ -227,6 +222,11 @@
       "id": "Mia-AiLab/Qwable-3.6-27b",
       "displayName": "Qwable 3.6 27b",
       "downloads": 2496
+    },
+    {
+      "id": "DavidAU/Qwen3.6-40B-Claude-4.6-Opus-Deckard-Heretic-Uncensored-Thinking-NEO-CODE-Di-IMatrix-MAX-GGUF",
+      "displayName": "Qwen3.6 40B Claude 4.6 Opus Deckard Heretic Uncensored Thinking NEO CODE Di IMatrix MAX",
+      "downloads": 529069
     }
   ]
 }
