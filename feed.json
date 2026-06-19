@@ -1,6 +1,13 @@
 {
-  "updated": "2026-06-19T09:03:28Z",
+  "updated": "2026-06-19T13:32:18Z",
   "news": [
+    {
+      "title": "The CEO of Allbirds\u2019 new AI biz has a plan, but no employees",
+      "url": "https://techcrunch.com/2026/06/19/the-ceo-of-allbirds-new-ai-biz-has-a-plan-but-no-employees/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-19T13:00:00Z",
+      "snippet": "Call it a startup with a sole founder and a very large seed round, but what's next is less clear."
+    },
     {
       "title": "The US says ASML\u2019s top chip tool may be in China. ASML says it isn\u2019t",
       "url": "https://techcrunch.com/2026/06/19/the-us-says-asmls-top-chip-tool-may-be-in-china-asml-says-it-isnt/",
@@ -142,13 +149,6 @@
       "snippet": "Here's what you need to do to get those pesky \"write with Gemini\" pop-ups to go away."
     },
     {
-      "title": "Roelof Botha joins SpaceX\u2019s board of directors",
-      "url": "https://techcrunch.com/2026/06/17/roelof-botha-joins-spacexs-board-of-directors/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-17T20:32:52Z",
-      "snippet": "The former Sequoia Capital leader is filling an \"existing vacancy\" on SpaceX's board, days after the company went public in the largest IPO ever."
-    },
-    {
       "title": "Anthropic got hit by export rules nobody understands",
       "url": "https://www.theverge.com/ai-artificial-intelligence/951703/anthropic-shutdown-export-controls",
       "source": "The Verge",
@@ -181,52 +181,52 @@
     {
       "id": "yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
       "displayName": "gemma 4 12B coder fable5 composer2.5 v1",
-      "downloads": 211424
+      "downloads": 268102
     },
     {
       "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
       "displayName": "Qwen3.6 35B A3B Uncensored HauhauCS Aggressive",
-      "downloads": 3420052
+      "downloads": 3730978
     },
     {
       "id": "Jackrong/Qwopus3.6-27B-Coder-MTP-GGUF",
       "displayName": "Qwopus3.6 27B Coder MTP",
-      "downloads": 122175
+      "downloads": 148525
     },
     {
       "id": "unsloth/GLM-5.2-GGUF",
       "displayName": "GLM 5.2",
-      "downloads": 305
+      "downloads": 8392
     },
     {
       "id": "unsloth/Kimi-K2.7-Code-GGUF",
       "displayName": "Kimi K2.7 Code",
-      "downloads": 29287
+      "downloads": 33667
     },
     {
       "id": "unsloth/diffusiongemma-26B-A4B-it-GGUF",
       "displayName": "diffusiongemma 26B A4B",
-      "downloads": 164209
+      "downloads": 202867
     },
     {
       "id": "unsloth/MiniMax-M3-GGUF",
       "displayName": "MiniMax M3",
-      "downloads": 22659
+      "downloads": 24354
     },
     {
       "id": "Mia-AiLab/Qwable-3.6-27b",
       "displayName": "Qwable 3.6 27b",
-      "downloads": 2496
+      "downloads": 16105
     },
     {
       "id": "DavidAU/Qwen3.6-40B-Claude-4.6-Opus-Deckard-Heretic-Uncensored-Thinking-NEO-CODE-Di-IMatrix-MAX-GGUF",
       "displayName": "Qwen3.6 40B Claude 4.6 Opus Deckard Heretic Uncensored Thinking NEO CODE Di IMatrix MAX",
-      "downloads": 529069
+      "downloads": 588753
     },
     {
       "id": "OBLITERATUS/Gemma-4-12B-OBLITERATED",
       "displayName": "Gemma 4 12B OBLITERATED",
-      "downloads": 96805
+      "downloads": 106885
     }
   ]
 }
