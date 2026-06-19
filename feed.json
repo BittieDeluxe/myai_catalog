@@ -1,6 +1,20 @@
 {
-  "updated": "2026-06-19T03:53:42Z",
+  "updated": "2026-06-19T09:03:28Z",
   "news": [
+    {
+      "title": "The US says ASML\u2019s top chip tool may be in China. ASML says it isn\u2019t",
+      "url": "https://techcrunch.com/2026/06/19/the-us-says-asmls-top-chip-tool-may-be-in-china-asml-says-it-isnt/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-19T07:59:12Z",
+      "snippet": "There's a commercial logic that cuts against the idea that ASML would risk its export license to arm a Chinese customer."
+    },
+    {
+      "title": "Barret Zoph is out at OpenAI again after just five months",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/952837/barret-zoph-openai-thinking-machines-lab",
+      "source": "The Verge",
+      "publishedAt": "2026-06-19T04:49:33Z",
+      "snippet": "Five months after returning to OpenAI, Barret Zoph - the company's head of enterprise AI sales - has departed, The Verge has learned. Zoph returned to OpenAI in mid-January after a stint as co-founder"
+    },
     {
       "title": "Source: Elastic agrees to buy CRV-backed DeductiveAI for up to $85M",
       "url": "https://techcrunch.com/2026/06/18/source-elastic-agrees-to-buy-crv-backed-deductiveai-for-up-to-85m/",
@@ -58,11 +72,11 @@
       "snippet": "\u201cPeople just really want to take back control of their time, their lives, their attention... They\u2019re down for whatever helps them do that.\u201d"
     },
     {
-      "title": "\u2018Queer Eye\u2019s\u2019 life coach Karamo Brown launches K\u0113, a wellness app featuring his AI digital clone",
+      "title": "\u2018Queer Eye\u2019 life coach Karamo Brown launches K\u0113, a wellness app featuring his AI digital clone",
       "url": "https://techcrunch.com/2026/06/18/queer-eyes-life-coach-karamo-brown-launches-ke-a-wellness-app-featuring-his-ai-digital-clone/",
       "source": "TechCrunch",
       "publishedAt": "2026-06-18T16:55:04Z",
-      "snippet": "Karamo Brown, famous for his pep talks on Netflix&#8217;s \u201cQueer Eye,\u201d has jumped into the wellness and AI space with his new app, K\u0113. After spending a year and a half focusing on his own journey\u2014from"
+      "snippet": "After spending a year and a half focusing on his own journey \u2014 from fitness and nutrition to meditation, sobriety, relationships, and personal growth \u2014 Brown wants to help others do the same."
     },
     {
       "title": "Amazon employees say they\u2019re facing termination for backing data center limits",
@@ -135,13 +149,6 @@
       "snippet": "The former Sequoia Capital leader is filling an \"existing vacancy\" on SpaceX's board, days after the company went public in the largest IPO ever."
     },
     {
-      "title": "After unveiling ridiculously expensive AR glasses, Snap\u2019s stock takes a dive",
-      "url": "https://techcrunch.com/2026/06/17/after-unveiling-ridiculously-expensive-ar-glasses-snaps-stock-takes-a-dive/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-17T20:24:28Z",
-      "snippet": "Snap's long-awaited smart glasses debut hasn't exactly done wonders for the company's stock."
-    },
-    {
       "title": "Anthropic got hit by export rules nobody understands",
       "url": "https://www.theverge.com/ai-artificial-intelligence/951703/anthropic-shutdown-export-controls",
       "source": "The Verge",
@@ -168,13 +175,6 @@
       "source": "The Verge",
       "publishedAt": "2026-06-17T16:13:34Z",
       "snippet": "Yesterday, Snap debuted its new $2,195 Specs glasses. In an interview with CNBC, Snap CEO Evan Spiegel described the Specs as something the company had been working on for more than 12 years, an attem"
-    },
-    {
-      "title": "AI search grounded in Facebook posts? What could go wrong?",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/951099/meta-ai-mode-search-hands-on",
-      "source": "The Verge",
-      "publishedAt": "2026-06-17T13:30:00Z",
-      "snippet": "AI is pretty reliable at putting things on your calendar these days, but it hasn't quite cracked answering the related and all-important question of \"What should I do this weekend?\" Meta's new AI Mode"
     }
   ],
   "trending": [
@@ -184,24 +184,24 @@
       "downloads": 211424
     },
     {
-      "id": "Jackrong/Qwopus3.6-27B-Coder-MTP-GGUF",
-      "displayName": "Qwopus3.6 27B Coder MTP",
-      "downloads": 122175
-    },
-    {
       "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
       "displayName": "Qwen3.6 35B A3B Uncensored HauhauCS Aggressive",
       "downloads": 3420052
     },
     {
-      "id": "unsloth/Kimi-K2.7-Code-GGUF",
-      "displayName": "Kimi K2.7 Code",
-      "downloads": 29287
+      "id": "Jackrong/Qwopus3.6-27B-Coder-MTP-GGUF",
+      "displayName": "Qwopus3.6 27B Coder MTP",
+      "downloads": 122175
     },
     {
       "id": "unsloth/GLM-5.2-GGUF",
       "displayName": "GLM 5.2",
       "downloads": 305
+    },
+    {
+      "id": "unsloth/Kimi-K2.7-Code-GGUF",
+      "displayName": "Kimi K2.7 Code",
+      "downloads": 29287
     },
     {
       "id": "unsloth/diffusiongemma-26B-A4B-it-GGUF",
@@ -214,11 +214,6 @@
       "downloads": 22659
     },
     {
-      "id": "OBLITERATUS/Gemma-4-12B-OBLITERATED",
-      "displayName": "Gemma 4 12B OBLITERATED",
-      "downloads": 96805
-    },
-    {
       "id": "Mia-AiLab/Qwable-3.6-27b",
       "displayName": "Qwable 3.6 27b",
       "downloads": 2496
@@ -227,6 +222,11 @@
       "id": "DavidAU/Qwen3.6-40B-Claude-4.6-Opus-Deckard-Heretic-Uncensored-Thinking-NEO-CODE-Di-IMatrix-MAX-GGUF",
       "displayName": "Qwen3.6 40B Claude 4.6 Opus Deckard Heretic Uncensored Thinking NEO CODE Di IMatrix MAX",
       "downloads": 529069
+    },
+    {
+      "id": "OBLITERATUS/Gemma-4-12B-OBLITERATED",
+      "displayName": "Gemma 4 12B OBLITERATED",
+      "downloads": 96805
     }
   ]
 }
