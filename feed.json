@@ -1,6 +1,13 @@
 {
-  "updated": "2026-06-20T17:21:47Z",
+  "updated": "2026-06-20T19:19:02Z",
   "news": [
+    {
+      "title": "The Atlantic created a searchable database of the music used to train AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/953183/the-atlantic-searchable-database-music-ai-training-data",
+      "source": "The Verge",
+      "publishedAt": "2026-06-20T18:46:48Z",
+      "snippet": "Atlantic reporter Alex Reisner recently uncovered four datasets of music being used to train AI models and made them fully searchable for the public. Two of the sets are absolutely enormous at 12 mill"
+    },
     {
       "title": "Nobel laureate John Jumper is leaving DeepMind for rival Anthropic",
       "url": "https://techcrunch.com/2026/06/20/nobel-laureate-john-jumper-is-leaving-deepmind-for-rival-anthropic/",
@@ -168,13 +175,6 @@
       "source": "The Verge",
       "publishedAt": "2026-06-17T17:20:24Z",
       "snippet": "According to the latest Pew Research poll, 49 percent of Americans report using chatbots at least occasionally, but 63 percent think the tech is advancing too quickly. Overall, use of AI chatbots has "
-    },
-    {
-      "title": "Vibe-decoding the White House-Anthropic fight over Fable",
-      "url": "https://www.theverge.com/column/951516/trump-anthropic-feud-mythos-fable-white-house",
-      "source": "The Verge",
-      "publishedAt": "2026-06-17T16:27:00Z",
-      "snippet": "Hello and welcome to Regulator, an email for Verge subscribers about technology, politics, and what happens when science crashes headlong into self-interest. Not a subscriber? Sign up here today! Got "
     }
   ],
   "trending": [
@@ -219,14 +219,14 @@
       "downloads": 20465
     },
     {
-      "id": "unsloth/diffusiongemma-26B-A4B-it-GGUF",
-      "displayName": "diffusiongemma 26B A4B",
-      "downloads": 216396
-    },
-    {
       "id": "DavidAU/Qwen3.6-40B-Claude-4.6-Opus-Deckard-Heretic-Uncensored-Thinking-NEO-CODE-Di-IMatrix-MAX-GGUF",
       "displayName": "Qwen3.6 40B Claude 4.6 Opus Deckard Heretic Uncensored Thinking NEO CODE Di IMatrix MAX",
       "downloads": 587521
+    },
+    {
+      "id": "unsloth/diffusiongemma-26B-A4B-it-GGUF",
+      "displayName": "diffusiongemma 26B A4B",
+      "downloads": 216396
     }
   ]
 }
