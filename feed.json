@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-20T13:52:40Z",
+  "updated": "2026-06-20T15:43:33Z",
   "news": [
     {
       "title": "From PGP to Mythos: a brief history of export controls that didn\u2019t stop anyone",
@@ -194,14 +194,14 @@
       "downloads": 22586
     },
     {
-      "id": "Jackrong/Qwopus3.6-27B-Coder-MTP-GGUF",
-      "displayName": "Qwopus3.6 27B Coder MTP",
-      "downloads": 168502
-    },
-    {
       "id": "yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF",
       "displayName": "gemma 4 12B agentic fable5 composer2.5 v2 3.5x tau2",
       "downloads": 6307
+    },
+    {
+      "id": "Jackrong/Qwopus3.6-27B-Coder-MTP-GGUF",
+      "displayName": "Qwopus3.6 27B Coder MTP",
+      "downloads": 168502
     },
     {
       "id": "unsloth/Kimi-K2.7-Code-GGUF",
@@ -214,14 +214,14 @@
       "downloads": 17311
     },
     {
-      "id": "unsloth/diffusiongemma-26B-A4B-it-GGUF",
-      "displayName": "diffusiongemma 26B A4B",
-      "downloads": 216396
-    },
-    {
       "id": "bytkim/Qwen3.6-27B-MTP-pi-tune-GGUF",
       "displayName": "Qwen3.6 27B MTP pi tune",
       "downloads": 20465
+    },
+    {
+      "id": "unsloth/diffusiongemma-26B-A4B-it-GGUF",
+      "displayName": "diffusiongemma 26B A4B",
+      "downloads": 216396
     },
     {
       "id": "DavidAU/Qwen3.6-40B-Claude-4.6-Opus-Deckard-Heretic-Uncensored-Thinking-NEO-CODE-Di-IMatrix-MAX-GGUF",
