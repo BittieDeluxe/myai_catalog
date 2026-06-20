@@ -1,6 +1,20 @@
 {
-  "updated": "2026-06-20T19:19:02Z",
+  "updated": "2026-06-20T21:12:51Z",
   "news": [
+    {
+      "title": "Signal\u2019s Meredith Whittaker wants you to remember that AI chatbots \u2018are not your friends\u2019",
+      "url": "https://techcrunch.com/2026/06/20/signals-meredith-whittaker-wants-you-to-remember-that-ai-chatbots-are-not-your-friends/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-20T20:32:29Z",
+      "snippet": "\"These are not your friends. These are not conscious beings. These are not sentient interlocutors.\u201d"
+    },
+    {
+      "title": "In the Weights is your new AI-centric vanity search",
+      "url": "https://techcrunch.com/2026/06/20/in-the-weights-is-your-new-ai-centric-vanity-search/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-20T19:41:11Z",
+      "snippet": "So ... what's your In the Weights score?"
+    },
     {
       "title": "The Atlantic created a searchable database of the music used to train AI",
       "url": "https://www.theverge.com/ai-artificial-intelligence/953183/the-atlantic-searchable-database-music-ai-training-data",
@@ -112,20 +126,6 @@
       "source": "TechCrunch",
       "publishedAt": "2026-06-18T18:22:13Z",
       "snippet": "AWS is in talks to sell its chips to other data centers. CEO Andy Jassy has said this represents a $50 billion opportunity for the company."
-    },
-    {
-      "title": "AI data centers just got a government-mandated fast lane to the grid",
-      "url": "https://techcrunch.com/2026/06/18/ai-data-centers-just-got-a-government-mandated-fast-lane-to-the-grid/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-18T17:49:23Z",
-      "snippet": "FERC told grid operators to give data centers a fast lane for interconnections, but it failed to address electricity supply shortages."
-    },
-    {
-      "title": "The smartphone era created an attention crisis \u2014 slow tech is fixing it",
-      "url": "https://techcrunch.com/2026/06/18/the-smartphone-era-created-an-attention-crisis-slowtech-is-fixing-it/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-18T17:16:30Z",
-      "snippet": "\u201cPeople just really want to take back control of their time, their lives, their attention... They\u2019re down for whatever helps them do that.\u201d"
     },
     {
       "title": "Amazon employees say they\u2019re facing termination for backing data center limits",
