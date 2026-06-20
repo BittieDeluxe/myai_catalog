@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-20T07:46:36Z",
+  "updated": "2026-06-20T10:29:26Z",
   "news": [
     {
       "title": "From PGP to Mythos: a brief history of export controls that didn\u2019t stop anyone",
@@ -181,52 +181,52 @@
     {
       "id": "yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
       "displayName": "gemma 4 12B coder fable5 composer2.5 v1",
-      "downloads": 268102
+      "downloads": 312332
     },
     {
       "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
       "displayName": "Qwen3.6 35B A3B Uncensored HauhauCS Aggressive",
-      "downloads": 3730978
+      "downloads": 3812636
     },
     {
       "id": "unsloth/GLM-5.2-GGUF",
       "displayName": "GLM 5.2",
-      "downloads": 8392
+      "downloads": 22586
     },
     {
       "id": "Jackrong/Qwopus3.6-27B-Coder-MTP-GGUF",
       "displayName": "Qwopus3.6 27B Coder MTP",
-      "downloads": 148525
-    },
-    {
-      "id": "unsloth/Kimi-K2.7-Code-GGUF",
-      "displayName": "Kimi K2.7 Code",
-      "downloads": 33667
+      "downloads": 168502
     },
     {
       "id": "yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF",
       "displayName": "gemma 4 12B agentic fable5 composer2.5 v2 3.5x tau2",
-      "downloads": 0
+      "downloads": 6307
+    },
+    {
+      "id": "unsloth/Kimi-K2.7-Code-GGUF",
+      "displayName": "Kimi K2.7 Code",
+      "downloads": 37260
     },
     {
       "id": "Mia-AiLab/Qwable-3.6-27b",
       "displayName": "Qwable 3.6 27b",
-      "downloads": 16105
+      "downloads": 17311
     },
     {
       "id": "unsloth/diffusiongemma-26B-A4B-it-GGUF",
       "displayName": "diffusiongemma 26B A4B",
-      "downloads": 202867
+      "downloads": 216396
     },
     {
       "id": "DavidAU/Qwen3.6-40B-Claude-4.6-Opus-Deckard-Heretic-Uncensored-Thinking-NEO-CODE-Di-IMatrix-MAX-GGUF",
       "displayName": "Qwen3.6 40B Claude 4.6 Opus Deckard Heretic Uncensored Thinking NEO CODE Di IMatrix MAX",
-      "downloads": 588753
+      "downloads": 587521
     },
     {
       "id": "bytkim/Qwen3.6-27B-MTP-pi-tune-GGUF",
       "displayName": "Qwen3.6 27B MTP pi tune",
-      "downloads": 8138
+      "downloads": 20465
     }
   ]
 }
