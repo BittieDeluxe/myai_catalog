@@ -1,6 +1,13 @@
 {
-  "updated": "2026-06-20T15:43:33Z",
+  "updated": "2026-06-20T17:21:47Z",
   "news": [
+    {
+      "title": "Nobel laureate John Jumper is leaving DeepMind for rival Anthropic",
+      "url": "https://techcrunch.com/2026/06/20/nobel-laureate-john-jumper-is-leaving-deepmind-for-rival-anthropic/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-20T16:39:57Z",
+      "snippet": "Jumper isn't the only big name leaving Google DeepMind."
+    },
     {
       "title": "From PGP to Mythos: a brief history of export controls that didn\u2019t stop anyone",
       "url": "https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work/",
@@ -114,13 +121,6 @@
       "snippet": "\u201cPeople just really want to take back control of their time, their lives, their attention... They\u2019re down for whatever helps them do that.\u201d"
     },
     {
-      "title": "How to turn off AI in your Google Docs",
-      "url": "https://techcrunch.com/2026/06/18/how-to-turn-off-ai-in-your-google-docs/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-18T17:00:00Z",
-      "snippet": "Here's what you need to do to get those pesky \"write with Gemini\" pop-ups to go away."
-    },
-    {
       "title": "Amazon employees say they\u2019re facing termination for backing data center limits",
       "url": "https://www.theverge.com/ai-artificial-intelligence/952180/amazon-seattle-data-center-moratorium-aecj-disciplinary-action",
       "source": "The Verge",
@@ -204,14 +204,14 @@
       "downloads": 168502
     },
     {
-      "id": "unsloth/Kimi-K2.7-Code-GGUF",
-      "displayName": "Kimi K2.7 Code",
-      "downloads": 37260
-    },
-    {
       "id": "Mia-AiLab/Qwable-3.6-27b",
       "displayName": "Qwable 3.6 27b",
       "downloads": 17311
+    },
+    {
+      "id": "unsloth/Kimi-K2.7-Code-GGUF",
+      "displayName": "Kimi K2.7 Code",
+      "downloads": 37260
     },
     {
       "id": "bytkim/Qwen3.6-27B-MTP-pi-tune-GGUF",
