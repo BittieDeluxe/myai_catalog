@@ -1,8 +1,8 @@
 {
-  "updated": "2026-06-20T02:55:51Z",
+  "updated": "2026-06-20T07:46:36Z",
   "news": [
     {
-      "title": "Encryption, spyware, and now Mythos: History shows why cyber export control doesn\u2019t work",
+      "title": "From PGP to Mythos: a brief history of export controls that didn\u2019t stop anyone",
       "url": "https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work/",
       "source": "TechCrunch",
       "publishedAt": "2026-06-19T22:40:14Z",
@@ -204,9 +204,9 @@
       "downloads": 33667
     },
     {
-      "id": "unsloth/diffusiongemma-26B-A4B-it-GGUF",
-      "displayName": "diffusiongemma 26B A4B",
-      "downloads": 202867
+      "id": "yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF",
+      "displayName": "gemma 4 12B agentic fable5 composer2.5 v2 3.5x tau2",
+      "downloads": 0
     },
     {
       "id": "Mia-AiLab/Qwable-3.6-27b",
@@ -214,9 +214,9 @@
       "downloads": 16105
     },
     {
-      "id": "yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF",
-      "displayName": "gemma 4 12B agentic fable5 composer2.5 v2 3.5x tau2",
-      "downloads": 0
+      "id": "unsloth/diffusiongemma-26B-A4B-it-GGUF",
+      "displayName": "diffusiongemma 26B A4B",
+      "downloads": 202867
     },
     {
       "id": "DavidAU/Qwen3.6-40B-Claude-4.6-Opus-Deckard-Heretic-Uncensored-Thinking-NEO-CODE-Di-IMatrix-MAX-GGUF",
