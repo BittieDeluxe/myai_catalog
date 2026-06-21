@@ -1,6 +1,20 @@
 {
-  "updated": "2026-06-21T12:08:43Z",
+  "updated": "2026-06-21T15:48:43Z",
   "news": [
+    {
+      "title": "When the Trump administration cracks down on Anthropic, who benefits?",
+      "url": "https://techcrunch.com/2026/06/21/when-the-trump-administration-cracks-down-on-anthropic-who-benefits/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-21T15:28:17Z",
+      "snippet": "On the new episode of Equity, we discussed what actually prompted the administration's latest moves against Anthropic, and what this might mean for the AI ecosystem."
+    },
+    {
+      "title": "Beyond Siri: Here are the practical AI features coming to your iPhone in iOS 27",
+      "url": "https://techcrunch.com/2026/06/21/beyond-siri-here-are-the-practical-ai-features-coming-to-your-iphone-in-ios-27/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-21T14:40:28Z",
+      "snippet": "Siri\u2019s AI overhaul may have grabbed the headlines at WWDC, but some of Apple\u2019s most useful AI features are arriving elsewhere in iOS 27."
+    },
     {
       "title": "Signal\u2019s Meredith Whittaker wants you to remember that AI chatbots \u2018are not your friends\u2019",
       "url": "https://techcrunch.com/2026/06/20/signals-meredith-whittaker-wants-you-to-remember-that-ai-chatbots-are-not-your-friends/",
@@ -114,20 +128,6 @@
       "snippet": "OpenAI is bulking up before its IPO, landing Transformer co-inventor Noam Shazeer from Google DeepMind and former Trump AI policy official Dean Ball in the same week."
     },
     {
-      "title": "Almost half of US singles feel negatively about AI in dating, Match says",
-      "url": "https://techcrunch.com/2026/06/18/almost-half-of-u-s-singles-feel-negatively-about-ai-in-dating-match-says/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-18T18:51:46Z",
-      "snippet": "About 47% of singles look negatively at the use of AI in dating -- but many dating app users are open to AI helping with profile punch-ups and conversation starters."
-    },
-    {
-      "title": "Amazon hopes to challenge Nvidia more directly by selling its AI chips",
-      "url": "https://techcrunch.com/2026/06/18/amazon-hopes-to-challenge-nvidia-more-directly-by-selling-its-ai-chips/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-18T18:22:13Z",
-      "snippet": "AWS is in talks to sell its chips to other data centers. CEO Andy Jassy has said this represents a $50 billion opportunity for the company."
-    },
-    {
       "title": "Amazon employees say they\u2019re facing termination for backing data center limits",
       "url": "https://www.theverge.com/ai-artificial-intelligence/952180/amazon-seattle-data-center-moratorium-aecj-disciplinary-action",
       "source": "The Verge",
@@ -184,11 +184,6 @@
       "downloads": 358677
     },
     {
-      "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
-      "displayName": "Qwen3.6 35B A3B Uncensored HauhauCS Aggressive",
-      "downloads": 3966691
-    },
-    {
       "id": "yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF",
       "displayName": "gemma 4 12B agentic fable5 composer2.5 v2 3.5x tau2",
       "downloads": 21730
@@ -197,6 +192,11 @@
       "id": "unsloth/GLM-5.2-GGUF",
       "displayName": "GLM 5.2",
       "downloads": 32260
+    },
+    {
+      "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
+      "displayName": "Qwen3.6 35B A3B Uncensored HauhauCS Aggressive",
+      "downloads": 3966691
     },
     {
       "id": "Mia-AiLab/Qwable-3.6-27b",
@@ -224,9 +224,9 @@
       "downloads": 583919
     },
     {
-      "id": "unsloth/gemma-4-12b-it-GGUF",
-      "displayName": "gemma 4 12b",
-      "downloads": 1225763
+      "id": "unsloth/diffusiongemma-26B-A4B-it-GGUF",
+      "displayName": "diffusiongemma 26B A4B",
+      "downloads": 225538
     }
   ]
 }
