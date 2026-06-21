@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-21T03:42:11Z",
+  "updated": "2026-06-21T08:25:59Z",
   "news": [
     {
       "title": "Signal\u2019s Meredith Whittaker wants you to remember that AI chatbots \u2018are not your friends\u2019",
@@ -199,24 +199,24 @@
       "downloads": 6307
     },
     {
-      "id": "Jackrong/Qwopus3.6-27B-Coder-MTP-GGUF",
-      "displayName": "Qwopus3.6 27B Coder MTP",
-      "downloads": 168502
-    },
-    {
       "id": "Mia-AiLab/Qwable-3.6-27b",
       "displayName": "Qwable 3.6 27b",
       "downloads": 17311
     },
     {
-      "id": "unsloth/Kimi-K2.7-Code-GGUF",
-      "displayName": "Kimi K2.7 Code",
-      "downloads": 37260
+      "id": "Jackrong/Qwopus3.6-27B-Coder-MTP-GGUF",
+      "displayName": "Qwopus3.6 27B Coder MTP",
+      "downloads": 168502
     },
     {
       "id": "bytkim/Qwen3.6-27B-MTP-pi-tune-GGUF",
       "displayName": "Qwen3.6 27B MTP pi tune",
       "downloads": 20465
+    },
+    {
+      "id": "unsloth/Kimi-K2.7-Code-GGUF",
+      "displayName": "Kimi K2.7 Code",
+      "downloads": 37260
     },
     {
       "id": "DavidAU/Qwen3.6-40B-Claude-4.6-Opus-Deckard-Heretic-Uncensored-Thinking-NEO-CODE-Di-IMatrix-MAX-GGUF",
