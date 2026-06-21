@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-21T17:24:42Z",
+  "updated": "2026-06-21T19:24:28Z",
   "news": [
     {
       "title": "When the Trump administration cracks down on Anthropic, who benefits?",
@@ -224,9 +224,9 @@
       "downloads": 583919
     },
     {
-      "id": "unsloth/diffusiongemma-26B-A4B-it-GGUF",
-      "displayName": "diffusiongemma 26B A4B",
-      "downloads": 225538
+      "id": "unsloth/gemma-4-12b-it-GGUF",
+      "displayName": "gemma 4 12b",
+      "downloads": 1225763
     }
   ]
 }
