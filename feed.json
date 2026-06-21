@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-21T08:25:59Z",
+  "updated": "2026-06-21T12:08:43Z",
   "news": [
     {
       "title": "Signal\u2019s Meredith Whittaker wants you to remember that AI chatbots \u2018are not your friends\u2019",
@@ -181,52 +181,52 @@
     {
       "id": "yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
       "displayName": "gemma 4 12B coder fable5 composer2.5 v1",
-      "downloads": 312332
+      "downloads": 358677
     },
     {
       "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
       "displayName": "Qwen3.6 35B A3B Uncensored HauhauCS Aggressive",
-      "downloads": 3812636
-    },
-    {
-      "id": "unsloth/GLM-5.2-GGUF",
-      "displayName": "GLM 5.2",
-      "downloads": 22586
+      "downloads": 3966691
     },
     {
       "id": "yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF",
       "displayName": "gemma 4 12B agentic fable5 composer2.5 v2 3.5x tau2",
-      "downloads": 6307
+      "downloads": 21730
+    },
+    {
+      "id": "unsloth/GLM-5.2-GGUF",
+      "displayName": "GLM 5.2",
+      "downloads": 32260
     },
     {
       "id": "Mia-AiLab/Qwable-3.6-27b",
       "displayName": "Qwable 3.6 27b",
-      "downloads": 17311
+      "downloads": 22879
     },
     {
       "id": "Jackrong/Qwopus3.6-27B-Coder-MTP-GGUF",
       "displayName": "Qwopus3.6 27B Coder MTP",
-      "downloads": 168502
+      "downloads": 190993
     },
     {
       "id": "bytkim/Qwen3.6-27B-MTP-pi-tune-GGUF",
       "displayName": "Qwen3.6 27B MTP pi tune",
-      "downloads": 20465
+      "downloads": 36421
     },
     {
       "id": "unsloth/Kimi-K2.7-Code-GGUF",
       "displayName": "Kimi K2.7 Code",
-      "downloads": 37260
+      "downloads": 42837
     },
     {
       "id": "DavidAU/Qwen3.6-40B-Claude-4.6-Opus-Deckard-Heretic-Uncensored-Thinking-NEO-CODE-Di-IMatrix-MAX-GGUF",
       "displayName": "Qwen3.6 40B Claude 4.6 Opus Deckard Heretic Uncensored Thinking NEO CODE Di IMatrix MAX",
-      "downloads": 587521
+      "downloads": 583919
     },
     {
       "id": "unsloth/gemma-4-12b-it-GGUF",
       "displayName": "gemma 4 12b",
-      "downloads": 1182658
+      "downloads": 1225763
     }
   ]
 }
