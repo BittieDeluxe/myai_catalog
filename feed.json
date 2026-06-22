@@ -1,6 +1,13 @@
 {
-  "updated": "2026-06-22T21:59:43Z",
+  "updated": "2026-06-22T23:27:05Z",
   "news": [
+    {
+      "title": "Nvidia says its AI data center design runs hotter to use a lot less water",
+      "url": "https://www.theverge.com/tech/954139/nvidia-data-centers-rubin-liquid-cooling",
+      "source": "The Verge",
+      "publishedAt": "2026-06-22T23:24:32Z",
+      "snippet": "Public pushback against data centers has emphasized their water and energy consumption, and now Nvidia is highlighting its claim that the Rubin generation reference design for a fully liquid-cooled da"
+    },
     {
       "title": "The AI world is getting \u2018loopy\u2019",
       "url": "https://techcrunch.com/2026/06/22/the-ai-world-is-getting-loopy/",
@@ -168,13 +175,6 @@
       "source": "The Verge",
       "publishedAt": "2026-06-18T13:00:00Z",
       "snippet": "Adobe is introducing some new capabilities for its Firefly AI assistant, alongside a \"reimagined\" AI studio that lets you edit and generate new designs from a single interface. The new Firefly experie"
-    },
-    {
-      "title": "Midjourney goes from generating cat images to full-body ultrasound scans",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/952011/midjourney-medical-ai-ultrasound-scan",
-      "source": "The Verge",
-      "publishedAt": "2026-06-18T03:12:31Z",
-      "snippet": "Midjourney CEO David Holz just showed off the company's first hardware product and plans to build a San Francisco spa, which he admitted is a bit different from the \"cat pictures\" produced by its AI i"
     }
   ],
   "trending": [
@@ -199,14 +199,14 @@
       "downloads": 4078305
     },
     {
-      "id": "Mia-AiLab/Qwable-3.6-27b",
-      "displayName": "Qwable 3.6 27b",
-      "downloads": 23958
-    },
-    {
       "id": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
       "displayName": "Qwythos 9B Claude Mythos 5 1M",
       "downloads": 6633
+    },
+    {
+      "id": "Mia-AiLab/Qwable-3.6-27b",
+      "displayName": "Qwable 3.6 27b",
+      "downloads": 23958
     },
     {
       "id": "bytkim/Qwen3.6-27B-MTP-pi-tune-GGUF",
