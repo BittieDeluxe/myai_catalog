@@ -1,12 +1,33 @@
 {
-  "updated": "2026-06-22T15:21:17Z",
+  "updated": "2026-06-22T19:21:51Z",
   "news": [
+    {
+      "title": "Google DeepMind bets $75M on AI\u2019s future in Hollywood with A24 deal",
+      "url": "https://techcrunch.com/2026/06/22/google-deepmind-bets-75m-on-ais-future-in-hollywood-with-a24-deal/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-22T18:49:44Z",
+      "snippet": "Google DeepMind and A24 are teaming up to build AI filmmaking tools."
+    },
+    {
+      "title": "Amazon is testing Alexa+ in India with Hindi support",
+      "url": "https://techcrunch.com/2026/06/22/amazon-is-testing-alexa-in-india-with-hindi-support/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-22T17:31:29Z",
+      "snippet": "Amazon is planning to increase the footprint of its new conversational AI assistant Alexa+ to India and is inviting users in the country to test out a Hindi-language version."
+    },
+    {
+      "title": "SpaceX inks compute deal with Reflection AI, an open source AI lab",
+      "url": "https://techcrunch.com/2026/06/22/spacex-inks-compute-deal-with-reflection-ai-an-open-source-ai-lab/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-22T16:51:29Z",
+      "snippet": "Reflection AI will pay $150 million a month beginning July 1, 2026 through 2029 for immediate access to Nvidia's latest GB300 AI chips and supporting hardware across SpaceX's Colossus 2 data center ne"
+    },
     {
       "title": "The founder conference built for growth: TechCrunch Founder Summit pass rates increase June 26",
       "url": "https://techcrunch.com/2026/06/22/the-founder-conference-built-for-growth-techcrunch-founder-summit-pass-rates-increase-june-26/",
       "source": "TechCrunch",
       "publishedAt": "2026-06-22T14:00:00Z",
-      "snippet": "Save up to $190 on your pass to TechCrunch Founder Summit 2026 by June 26, 11:59 p.m. PT. Designed for founders first on November 4 in Boston. Register here."
+      "snippet": "Save up to $190 on your pass to TechCrunch Founder Summit 2026 by June 26, 11:59 p.m. PT. Designed for founders first on November 4 in Boston. Register today."
     },
     {
       "title": "Read this before you vibe-code another app",
@@ -114,27 +135,6 @@
       "snippet": "Five months after returning to OpenAI, Barret Zoph - the company's head of enterprise AI sales - has departed, The Verge has learned. Zoph returned to OpenAI in mid-January after a stint as cofounder "
     },
     {
-      "title": "Source: Elastic agrees to buy CRV-backed Deductive AI for up to $85M",
-      "url": "https://techcrunch.com/2026/06/18/source-elastic-agrees-to-buy-crv-backed-deductiveai-for-up-to-85m/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-19T00:51:11Z",
-      "snippet": "Deductive AI, a startup that uses AI to catch and resolve bugs in software, was founded just three years ago."
-    },
-    {
-      "title": "AI inference startup Baseten reportedly raising $1.5B months after its last mega-round",
-      "url": "https://techcrunch.com/2026/06/18/ai-inference-startup-baseten-reportedly-raising-1-5b-months-after-its-last-mega-round/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-18T21:20:13Z",
-      "snippet": "Startup Baseten is reportedly close to finalizing a $1.5 billion round at a $13 billion as the \u201cinference gold rush\" marches on."
-    },
-    {
-      "title": "Snap spins off AI video team into new company, Dotmo, due to costs",
-      "url": "https://techcrunch.com/2026/06/18/snap-spins-off-ai-video-team-into-new-company-dotmo-due-to-costs/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-18T20:30:00Z",
-      "snippet": "The Snapchat maker is spinning off yet another internal unit. Dotmo will be composed of current Snap staff who are leaving the social media company to focus on AI video development."
-    },
-    {
       "title": "Amazon employees say they\u2019re facing termination for backing data center limits",
       "url": "https://www.theverge.com/ai-artificial-intelligence/952180/amazon-seattle-data-center-moratorium-aecj-disciplinary-action",
       "source": "The Verge",
@@ -219,14 +219,14 @@
       "downloads": 214630
     },
     {
-      "id": "unsloth/Kimi-K2.7-Code-GGUF",
-      "displayName": "Kimi K2.7 Code",
-      "downloads": 48642
+      "id": "AlexWortega/SIQ-1-35B",
+      "displayName": "SIQ 1 35B",
+      "downloads": 3027
     },
     {
-      "id": "unsloth/gemma-4-12b-it-GGUF",
-      "displayName": "gemma 4 12b",
-      "downloads": 1255027
+      "id": "unsloth/Qwen3.6-27B-MTP-GGUF",
+      "displayName": "Qwen3.6 27B MTP",
+      "downloads": 875257
     }
   ]
 }
