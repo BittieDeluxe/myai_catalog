@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-21T23:08:42Z",
+  "updated": "2026-06-22T03:47:21Z",
   "news": [
     {
       "title": "When the Trump administration cracks down on Anthropic, who benefits?",
@@ -204,14 +204,14 @@
       "downloads": 22879
     },
     {
-      "id": "Jackrong/Qwopus3.6-27B-Coder-MTP-GGUF",
-      "displayName": "Qwopus3.6 27B Coder MTP",
-      "downloads": 190993
-    },
-    {
       "id": "bytkim/Qwen3.6-27B-MTP-pi-tune-GGUF",
       "displayName": "Qwen3.6 27B MTP pi tune",
       "downloads": 36421
+    },
+    {
+      "id": "Jackrong/Qwopus3.6-27B-Coder-MTP-GGUF",
+      "displayName": "Qwopus3.6 27B Coder MTP",
+      "downloads": 190993
     },
     {
       "id": "unsloth/Kimi-K2.7-Code-GGUF",
@@ -219,14 +219,14 @@
       "downloads": 42837
     },
     {
-      "id": "DavidAU/Qwen3.6-40B-Claude-4.6-Opus-Deckard-Heretic-Uncensored-Thinking-NEO-CODE-Di-IMatrix-MAX-GGUF",
-      "displayName": "Qwen3.6 40B Claude 4.6 Opus Deckard Heretic Uncensored Thinking NEO CODE Di IMatrix MAX",
-      "downloads": 583919
-    },
-    {
       "id": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
       "displayName": "Qwythos 9B Claude Mythos 5 1M",
       "downloads": 688
+    },
+    {
+      "id": "DavidAU/Qwen3.6-40B-Claude-4.6-Opus-Deckard-Heretic-Uncensored-Thinking-NEO-CODE-Di-IMatrix-MAX-GGUF",
+      "displayName": "Qwen3.6 40B Claude 4.6 Opus Deckard Heretic Uncensored Thinking NEO CODE Di IMatrix MAX",
+      "downloads": 583919
     }
   ]
 }
