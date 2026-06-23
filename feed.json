@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-23T02:50:10Z",
+  "updated": "2026-06-23T07:43:21Z",
   "news": [
     {
       "title": "The running list: major tech layoffs in 2026 where employers cited AI",
@@ -9,11 +9,11 @@
       "snippet": "A running look \u2014 in reverse chronological order \u2014 at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor."
     },
     {
-      "title": "OpenAI launches new initiative to help find and patch open-source bugs",
+      "title": "OpenAI launches new initiative to help find and patch open source bugs",
       "url": "https://techcrunch.com/2026/06/22/openai-launches-new-initiative-to-help-find-and-patch-open-source-bugs/",
       "source": "TechCrunch",
       "publishedAt": "2026-06-23T00:11:31Z",
-      "snippet": "OpenAI is attempting to tackle the security issues of the open source software community."
+      "snippet": "OpenAI is using AI to help the open source community better protect itself."
     },
     {
       "title": "Nvidia says its AI data center design runs hotter to use a lot less water",
