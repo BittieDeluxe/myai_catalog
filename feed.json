@@ -1,6 +1,20 @@
 {
-  "updated": "2026-06-23T21:40:45Z",
+  "updated": "2026-06-23T23:05:18Z",
   "news": [
+    {
+      "title": "Google Home will soon get better at recognizing you",
+      "url": "https://www.theverge.com/tech/955385/google-home-familiar-faces-clothing",
+      "source": "The Verge",
+      "publishedAt": "2026-06-23T22:28:19Z",
+      "snippet": "A new update for Google Home could make it less likely your smart home cameras mistake you for someone else, just because you're facing away from the camera. Starting June 23rd, Google's expanding its"
+    },
+    {
+      "title": "Hollywood is bending the knee to OpenAI",
+      "url": "https://www.theverge.com/entertainment/954899/luca-guadagnino-artificial-sam-altman-amazon-a24-neon-mubi-chatgpt",
+      "source": "The Verge",
+      "publishedAt": "2026-06-23T22:03:18Z",
+      "snippet": "Netflix, A24, Focus Features, and Warner Bros.' Clockwork have all reportedly decided to pass on picking up Artificial - director Luca Guadagnino's new biographical drama about OpenAI cofounder / CEO "
+    },
     {
       "title": "Why corporate AI super PACs spent $27 million on a local election",
       "url": "https://www.theverge.com/policy/954970/ai-super-pacs-alex-bores-new-york-12th-district",
@@ -161,20 +175,6 @@
       "source": "TechCrunch",
       "publishedAt": "2026-06-20T20:32:29Z",
       "snippet": "\"These are not your friends. These are not conscious beings. These are not sentient interlocutors.\u201d"
-    },
-    {
-      "title": "The Atlantic created a searchable database of the music used to train AI",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/953183/the-atlantic-searchable-database-music-ai-training-data",
-      "source": "The Verge",
-      "publishedAt": "2026-06-20T18:46:48Z",
-      "snippet": "Atlantic reporter Alex Reisner recently uncovered four datasets of music being used to train AI models and made them fully searchable for the public. Two of the sets are absolutely enormous at 12 mill"
-    },
-    {
-      "title": "The film about Sam Altman has been dropped by Amazon MGM",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/952906/sam-altman-film-artificial-openai-amazon-mgm-dropped",
-      "source": "The Verge",
-      "publishedAt": "2026-06-19T14:15:29Z",
-      "snippet": "Luca Guadagnino's film about OpenAI CEO Sam Altman, Artificial, has reportedly been dropped by Amazon MGM. The film, which stars Andrew Garfield and covers the rollercoaster five days in 2023 spanning"
     }
   ],
   "trending": [
