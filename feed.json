@@ -1,6 +1,34 @@
 {
-  "updated": "2026-06-23T10:58:30Z",
+  "updated": "2026-06-23T14:39:47Z",
   "news": [
+    {
+      "title": "4 days left to save up to $190 on TechCrunch Founder Summit 2026",
+      "url": "https://techcrunch.com/2026/06/23/4-days-left-to-save-up-to-190-on-techcrunch-founder-summit-2026/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-23T14:00:00Z",
+      "snippet": "Four days left to save up to $190 on your pass to TechCrunch Founder Summit 2026 - the ultimate founder bootcamp - before Early Bird rates end on June 26 at 11:59 p.m. PT. Register here."
+    },
+    {
+      "title": "Sony\u2019s AI Camera Assistant is exactly as bad as it looks",
+      "url": "https://www.theverge.com/tech/954676/sony-xperia-1-viii-ai-camera-assistant",
+      "source": "The Verge",
+      "publishedAt": "2026-06-23T13:25:42Z",
+      "snippet": "When Sony announced the Xperia 1 VIII last month, it promoted the phone by sharing some of the worst photos taken on a Sony camera in years. These weren't just any photos, though: they were taken with"
+    },
+    {
+      "title": "Meta launches cheaper smart glasses without Ray-Ban",
+      "url": "https://www.theverge.com/tech/954052/meta-glasses-hands-on-kylie-jenner-smart-glasses-price-battery-privacy",
+      "source": "The Verge",
+      "publishedAt": "2026-06-23T13:00:00Z",
+      "snippet": "For the past three years, \"Meta\" and \"Ray-Ban\" have been synonymous in the smart glasses space. Not anymore. Yesterday, I slipped on several pairs of Meta Glasses - no Ray-Bans - in three different st"
+    },
+    {
+      "title": "Fika Jobs raises $4M to build a video-first hiring platform where AI agents interview candidates",
+      "url": "https://techcrunch.com/2026/06/23/fika-jobs-raises-4m-to-build-a-video-first-hiring-platform-where-ai-agents-interview-candidates/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-23T13:00:00Z",
+      "snippet": "Stockholm-based startup Fika Jobs is building a video-first hiring platform that combines AI interview agents with short-form video profiles, creating something that feels like a cross between LinkedI"
+    },
     {
       "title": "The running list: major tech layoffs in 2026 where employers cited AI",
       "url": "https://techcrunch.com/2026/06/22/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
@@ -121,20 +149,6 @@
       "snippet": "Atlantic reporter Alex Reisner recently uncovered four datasets of music being used to train AI models and made them fully searchable for the public. Two of the sets are absolutely enormous at 12 mill"
     },
     {
-      "title": "Nobel laureate John Jumper is leaving DeepMind for rival Anthropic",
-      "url": "https://techcrunch.com/2026/06/20/nobel-laureate-john-jumper-is-leaving-deepmind-for-rival-anthropic/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-20T16:39:57Z",
-      "snippet": "Jumper isn't the only big name leaving Google DeepMind."
-    },
-    {
-      "title": "From PGP to Mythos: a brief history of export controls that didn\u2019t stop anyone",
-      "url": "https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-19T22:40:14Z",
-      "snippet": "For the last 30 years, stopping the flow of cybersecurity-related software has proven to be ineffective. It's unclear why it would work now with Anthropic\u2019s cybersecurity model Mythos."
-    },
-    {
       "title": "The film about Sam Altman has been dropped by Amazon MGM",
       "url": "https://www.theverge.com/ai-artificial-intelligence/952906/sam-altman-film-artificial-openai-amazon-mgm-dropped",
       "source": "The Verge",
@@ -161,20 +175,6 @@
       "source": "The Verge",
       "publishedAt": "2026-06-18T14:00:00Z",
       "snippet": "On today\u2019s episode of Decoder, my guest is Hayden Field, senior AI reporter for The Verge. Often when Hayden comes on the show, it\u2019s because something has gone wrong in the world of AI. Last weekend, "
-    },
-    {
-      "title": "Photoshop and Premiere now have AI assistants",
-      "url": "https://www.theverge.com/tech/952099/adobe-ai-assistants-photoshop-premiere-illustrator-beta-launch",
-      "source": "The Verge",
-      "publishedAt": "2026-06-18T13:00:00Z",
-      "snippet": "Adobe's plan to stick AI assistants into all of its Creative Cloud suite is now fully underway, with new chatbots now rolling out to its biggest editing and design apps. As part of a public beta launc"
-    },
-    {
-      "title": "Adobe\u2019s redesigned AI studio remembers what your creations look like",
-      "url": "https://www.theverge.com/tech/952104/adobe-firefly-ai-agent-elements-projects-update",
-      "source": "The Verge",
-      "publishedAt": "2026-06-18T13:00:00Z",
-      "snippet": "Adobe is introducing some new capabilities for its Firefly AI assistant, alongside a \"reimagined\" AI studio that lets you edit and generate new designs from a single interface. The new Firefly experie"
     }
   ],
   "trending": [
@@ -224,9 +224,9 @@
       "downloads": 3375
     },
     {
-      "id": "unsloth/Qwen3.6-27B-MTP-GGUF",
-      "displayName": "Qwen3.6 27B MTP",
-      "downloads": 887352
+      "id": "Jackrong/Qwopus3.6-27B-Coder-Compat-MTP-GGUF",
+      "displayName": "Qwopus3.6 27B Coder Compat MTP",
+      "downloads": 3958
     }
   ]
 }
