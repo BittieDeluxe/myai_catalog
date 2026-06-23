@@ -1,6 +1,13 @@
 {
-  "updated": "2026-06-23T17:49:00Z",
+  "updated": "2026-06-23T19:55:16Z",
   "news": [
+    {
+      "title": "Why corporate AI super PACs spent $27 million on a local election",
+      "url": "https://www.theverge.com/policy/954970/ai-super-pacs-alex-bores-new-york-12th-district",
+      "source": "The Verge",
+      "publishedAt": "2026-06-23T17:00:00Z",
+      "snippet": "Hello and welcome to Regulator, the newsletter for Verge subscribers chronicling the misadventures of their favorite tech overlords and Washington swamp creatures. (\"Favorite\" is, of course, subjectiv"
+    },
     {
       "title": "Anthropic\u2019s Claude Tag is learning your company, one Slack message at a time",
       "url": "https://techcrunch.com/2026/06/23/anthropics-claude-tag-is-learning-your-company-one-slack-message-at-a-time/",
@@ -168,13 +175,6 @@
       "source": "The Verge",
       "publishedAt": "2026-06-19T14:15:29Z",
       "snippet": "Luca Guadagnino's film about OpenAI CEO Sam Altman, Artificial, has reportedly been dropped by Amazon MGM. The film, which stars Andrew Garfield and covers the rollercoaster five days in 2023 spanning"
-    },
-    {
-      "title": "Barret Zoph is out at OpenAI again after just five months",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/952837/barret-zoph-openai-thinking-machines-lab",
-      "source": "The Verge",
-      "publishedAt": "2026-06-19T04:49:33Z",
-      "snippet": "Five months after returning to OpenAI, Barret Zoph - the company's head of enterprise AI sales - has departed, The Verge has learned. Zoph returned to OpenAI in mid-January after a stint as cofounder "
     }
   ],
   "trending": [
