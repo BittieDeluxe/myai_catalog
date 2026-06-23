@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-23T19:55:16Z",
+  "updated": "2026-06-23T21:40:45Z",
   "news": [
     {
       "title": "Why corporate AI super PACs spent $27 million on a local election",
@@ -214,11 +214,6 @@
       "downloads": 24935
     },
     {
-      "id": "Jackrong/Qwopus3.6-27B-Coder-MTP-GGUF",
-      "displayName": "Qwopus3.6 27B Coder MTP",
-      "downloads": 231888
-    },
-    {
       "id": "AlexWortega/SIQ-1-35B",
       "displayName": "SIQ 1 35B",
       "downloads": 3375
@@ -227,6 +222,11 @@
       "id": "Jackrong/Qwopus3.6-27B-Coder-Compat-MTP-GGUF",
       "displayName": "Qwopus3.6 27B Coder Compat MTP",
       "downloads": 3958
+    },
+    {
+      "id": "Jackrong/Qwopus3.6-27B-Coder-MTP-GGUF",
+      "displayName": "Qwopus3.6 27B Coder MTP",
+      "downloads": 231888
     }
   ]
 }
