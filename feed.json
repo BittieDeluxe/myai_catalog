@@ -1,12 +1,61 @@
 {
-  "updated": "2026-06-24T14:21:42Z",
+  "updated": "2026-06-24T17:50:53Z",
   "news": [
+    {
+      "title": "The $27 million Al proxy war over Alex Bores ends in a draw",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/956263/alex-bores-new-york-12th-district-congressional-primary-results",
+      "source": "The Verge",
+      "publishedAt": "2026-06-24T17:25:00Z",
+      "snippet": "The expensive, $27 million political proxy war between Anthropic and OpenAI came to a draw last night when Alex Bores, a New York state Assemblyman whose popularity surged after being targeted by a pr"
+    },
+    {
+      "title": "Facebook rolls out an AI companion app for creators",
+      "url": "https://techcrunch.com/2026/06/24/facebook-rolls-out-an-ai-companion-app-for-creators/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-24T17:16:24Z",
+      "snippet": "The new app, which is currently being tested with select creators, will have Facebook's recently launched AI creator assistant built into it."
+    },
+    {
+      "title": "Agility Robotics plans to go public via SPAC in a $2.5B deal",
+      "url": "https://techcrunch.com/2026/06/24/agility-robotics-plans-to-go-public-via-spac-in-a-2-5b-deal/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-24T16:48:43Z",
+      "snippet": "Agility Robotics, the humanoid robotics startup that spun out of Oregon State University in 2015, expects to generate $620 million in proceeds."
+    },
+    {
+      "title": "Figma now has AI motion graphics and shader tools",
+      "url": "https://www.theverge.com/tech/955831/figma-code-design-tools-config-2026-announcements",
+      "source": "The Verge",
+      "publishedAt": "2026-06-24T16:15:00Z",
+      "snippet": "Figma has revealed some new design and coding product updates at its annual Config conference that aim to help creatives \"push their ideas further\" and automate tedious tasks with AI. Part of this is "
+    },
+    {
+      "title": "Figma adds code layers, support for animations, more AI features in new update",
+      "url": "https://techcrunch.com/2026/06/24/figma-adds-code-layers-support-for-animations-more-ai-features-in-new-update/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-24T16:15:00Z",
+      "snippet": "Figma's update adds a new code layer, support for motion and shaders, and the ability to create custom plug-ins for various tasks using AI."
+    },
+    {
+      "title": "OpenAI unveils its first custom chip, built by Broadcom",
+      "url": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-24T14:54:46Z",
+      "snippet": "Named Jalape\u00f1o, the new processor was designed specifically for the unique needs of OpenAI's inference systems."
+    },
+    {
+      "title": "OpenAI reveals its first AI processor: Jalape\u00f1o",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/955939/openai-reveals-its-first-ai-processor-jalapeno",
+      "source": "The Verge",
+      "publishedAt": "2026-06-24T14:36:47Z",
+      "snippet": "OpenAI has just revealed a new \"intelligence processor\" chip for AI servers made in partnership with Broadcom. The chip, called Jalape&#241;o, is designed to power current and future large language mo"
+    },
     {
       "title": "3 days left to save up to $190 on your TechCrunch Founder Summit 2026 pass",
       "url": "https://techcrunch.com/2026/06/24/3-days-left-to-save-up-to-190-on-techcrunch-founder-summit-2026/",
       "source": "TechCrunch",
       "publishedAt": "2026-06-24T14:00:00Z",
-      "snippet": "You have just 3 days left to save up to $190 on your pass to TechCrunch Founder Summit 2026 before Early Bird rates end on June 26 at 11:59 p.m. PT. Register here."
+      "snippet": "You have just 3 days left to save up to $190 on your pass to TechCrunch Founder Summit 2026 before Early Bird rates end on June 26 at 11:59 p.m. PT. Register today."
     },
     {
       "title": "The Google Home Speaker sounds good and looks great \u2014 but it\u2019s finicky",
@@ -79,13 +128,6 @@
       "snippet": "When Sony announced the Xperia 1 VIII last month, it promoted the phone by sharing some of the worst photos taken on a Sony camera in years. These weren't just any photos, though: they were taken with"
     },
     {
-      "title": "Meta launches cheaper smart glasses without Ray-Ban",
-      "url": "https://www.theverge.com/tech/954052/meta-glasses-hands-on-kylie-jenner-smart-glasses-price-battery-privacy",
-      "source": "The Verge",
-      "publishedAt": "2026-06-23T13:00:00Z",
-      "snippet": "For the past three years, \"Meta\" and \"Ray-Ban\" have been synonymous in the smart glasses space. Not anymore. Yesterday, I slipped on several pairs of Meta Glasses - no Ray-Bans - in three different st"
-    },
-    {
       "title": "Fika Jobs raises $4M to build a video-first hiring platform where AI agents interview candidates",
       "url": "https://techcrunch.com/2026/06/23/fika-jobs-raises-4m-to-build-a-video-first-hiring-platform-where-ai-agents-interview-candidates/",
       "source": "TechCrunch",
@@ -105,13 +147,6 @@
       "source": "TechCrunch",
       "publishedAt": "2026-06-23T00:11:31Z",
       "snippet": "OpenAI is using AI to help the open source community better protect itself."
-    },
-    {
-      "title": "Nvidia says its AI data center design runs hotter to use a lot less water",
-      "url": "https://www.theverge.com/tech/954139/nvidia-data-centers-rubin-liquid-cooling",
-      "source": "The Verge",
-      "publishedAt": "2026-06-22T23:24:32Z",
-      "snippet": "Public pushback against data centers has emphasized their water and energy consumption, and now Nvidia is highlighting its claim that the Rubin generation reference design for a fully liquid-cooled da"
     },
     {
       "title": "The AI world is getting \u2018loopy\u2019",
@@ -135,46 +170,11 @@
       "snippet": "Nvidia announced a new cooling system that cuts water use inside the data center. But it does nothing to address AI's biggest water use \u2014 fossil fuel power plants."
     },
     {
-      "title": "AI is cursing renters with the promise of impossible homes",
-      "url": "https://www.theverge.com/report/953888/ai-virtual-staging-real-estate-apartment-listings",
-      "source": "The Verge",
-      "publishedAt": "2026-06-22T20:00:00Z",
-      "snippet": "Joyce, a native New Yorker, didn't think finding her first solo apartment in the city would be easy. But she also didn't think it'd be \"hell.\" After looking at a lot of tiny, overpriced places she des"
-    },
-    {
       "title": "Google DeepMind bets $75M on AI\u2019s future in Hollywood with A24 deal",
       "url": "https://techcrunch.com/2026/06/22/google-deepmind-bets-75m-on-ais-future-in-hollywood-with-a24-deal/",
       "source": "TechCrunch",
       "publishedAt": "2026-06-22T18:49:44Z",
       "snippet": "Google DeepMind and A24 are teaming up to build AI filmmaking tools."
-    },
-    {
-      "title": "Amazon is testing Alexa+ in India with Hindi support",
-      "url": "https://techcrunch.com/2026/06/22/amazon-is-testing-alexa-in-india-with-hindi-support/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-22T17:31:29Z",
-      "snippet": "Amazon is planning to increase the footprint of its new conversational AI assistant Alexa+ to India and is inviting users in the country to test out a Hindi-language version."
-    },
-    {
-      "title": "SpaceX inks compute deal with Reflection AI, an open source AI lab",
-      "url": "https://techcrunch.com/2026/06/22/spacex-inks-compute-deal-with-reflection-ai-an-open-source-ai-lab/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-22T16:51:29Z",
-      "snippet": "Reflection AI will pay $150 million a month beginning July 1, 2026 through 2029 for immediate access to Nvidia's latest GB300 AI chips and supporting hardware across SpaceX's Colossus 2 data center ne"
-    },
-    {
-      "title": "The founder conference built for growth: TechCrunch Founder Summit pass rates increase June 26",
-      "url": "https://techcrunch.com/2026/06/22/the-founder-conference-built-for-growth-techcrunch-founder-summit-pass-rates-increase-june-26/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-22T14:00:00Z",
-      "snippet": "Save up to $190 on your pass to TechCrunch Founder Summit 2026 by June 26, 11:59 p.m. PT. Designed for founders first on November 4 in Boston. Register today."
-    },
-    {
-      "title": "When the Trump administration cracks down on Anthropic, who benefits?",
-      "url": "https://techcrunch.com/2026/06/21/when-the-trump-administration-cracks-down-on-anthropic-who-benefits/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-21T15:28:17Z",
-      "snippet": "On the new episode of Equity, we discussed what actually prompted the administration's latest moves against Anthropic, and what this might mean for the AI ecosystem."
     }
   ],
   "trending": [
@@ -209,14 +209,9 @@
       "downloads": 10867
     },
     {
-      "id": "bytkim/Qwen3.6-27B-MTP-pi-tune-GGUF",
-      "displayName": "Qwen3.6 27B MTP pi tune",
-      "downloads": 77337
-    },
-    {
-      "id": "AlexWortega/SIQ-1-35B",
-      "displayName": "SIQ 1 35B",
-      "downloads": 3847
+      "id": "HauhauCS/Gemma4-12B-QAT-Uncensored-HauhauCS-Balanced",
+      "displayName": "Gemma4 12B QAT Uncensored HauhauCS Balanced",
+      "downloads": 9162
     },
     {
       "id": "Mia-AiLab/Qwable-3.6-27b",
@@ -227,6 +222,11 @@
       "id": "Jackrong/Qwopus3.6-27B-Coder-MTP-GGUF",
       "displayName": "Qwopus3.6 27B Coder MTP",
       "downloads": 245107
+    },
+    {
+      "id": "unsloth/Qwen3.6-27B-MTP-GGUF",
+      "displayName": "Qwen3.6 27B MTP",
+      "downloads": 896040
     }
   ]
 }
