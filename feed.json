@@ -1,6 +1,13 @@
 {
-  "updated": "2026-06-24T17:50:53Z",
+  "updated": "2026-06-24T19:41:05Z",
   "news": [
+    {
+      "title": "Congresswoman denies staff used AI to write defense funding amendment",
+      "url": "https://www.theverge.com/policy/956394/florida-anna-paulina-luna-anthropic-claude",
+      "source": "The Verge",
+      "publishedAt": "2026-06-24T19:36:46Z",
+      "snippet": "Rep. Anna Paulina Luna (R-FL) says her staff used AI for \"spellcheck\" in an amendment summary for a major defense bill, but denies it was used for the bill text itself and says \"NO Legislation is ever"
+    },
     {
       "title": "The $27 million Al proxy war over Alex Bores ends in a draw",
       "url": "https://www.theverge.com/ai-artificial-intelligence/956263/alex-bores-new-york-12th-district-congressional-primary-results",
@@ -121,13 +128,6 @@
       "snippet": "Four days left to save up to $190 on your pass to TechCrunch Founder Summit 2026 \u2014 the ultimate founder bootcamp \u2014 before Early Bird rates end on June 26 at 11:59 p.m. PT. Register today."
     },
     {
-      "title": "Sony\u2019s AI Camera Assistant is exactly as bad as it looks",
-      "url": "https://www.theverge.com/tech/954676/sony-xperia-1-viii-ai-camera-assistant",
-      "source": "The Verge",
-      "publishedAt": "2026-06-23T13:25:42Z",
-      "snippet": "When Sony announced the Xperia 1 VIII last month, it promoted the phone by sharing some of the worst photos taken on a Sony camera in years. These weren't just any photos, though: they were taken with"
-    },
-    {
       "title": "Fika Jobs raises $4M to build a video-first hiring platform where AI agents interview candidates",
       "url": "https://techcrunch.com/2026/06/23/fika-jobs-raises-4m-to-build-a-video-first-hiring-platform-where-ai-agents-interview-candidates/",
       "source": "TechCrunch",
@@ -189,14 +189,14 @@
       "downloads": 138704
     },
     {
-      "id": "unsloth/GLM-5.2-GGUF",
-      "displayName": "GLM 5.2",
-      "downloads": 76971
-    },
-    {
       "id": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
       "displayName": "Qwythos 9B Claude Mythos 5 1M",
       "downloads": 63637
+    },
+    {
+      "id": "unsloth/GLM-5.2-GGUF",
+      "displayName": "GLM 5.2",
+      "downloads": 76971
     },
     {
       "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
@@ -219,14 +219,14 @@
       "downloads": 25787
     },
     {
-      "id": "Jackrong/Qwopus3.6-27B-Coder-MTP-GGUF",
-      "displayName": "Qwopus3.6 27B Coder MTP",
-      "downloads": 245107
-    },
-    {
       "id": "unsloth/Qwen3.6-27B-MTP-GGUF",
       "displayName": "Qwen3.6 27B MTP",
       "downloads": 896040
+    },
+    {
+      "id": "Jackrong/Qwopus3.6-27B-Coder-MTP-GGUF",
+      "displayName": "Qwopus3.6 27B Coder MTP",
+      "downloads": 245107
     }
   ]
 }
