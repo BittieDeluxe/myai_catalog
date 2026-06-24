@@ -1,6 +1,34 @@
 {
-  "updated": "2026-06-24T21:19:34Z",
+  "updated": "2026-06-24T23:01:04Z",
   "news": [
+    {
+      "title": "Cerebras stock plunges after earnings as CEO says margin outlook was misunderstood",
+      "url": "https://techcrunch.com/2026/06/24/cerebras-stock-plunges-after-earnings-as-ceo-says-margin-outlook-was-misunderstood/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-24T22:41:41Z",
+      "snippet": "In its first earnings report since going public, the AI chipmaker forecast a narrower gross margin in its core business, scaring investors."
+    },
+    {
+      "title": "AI was supposed to kill engineering jobs, but new data suggests they\u2019re the most resilient",
+      "url": "https://techcrunch.com/2026/06/24/ai-was-supposed-to-kill-engineering-jobs-but-new-data-suggests-theyre-the-most-resilient/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-24T21:56:41Z",
+      "snippet": "While AI dominates the layoff narrative, engineers are actually making up a larger share of new hires, according to SignalFire data."
+    },
+    {
+      "title": "AI researchers continue to leave Google for its rivals",
+      "url": "https://techcrunch.com/2026/06/24/ai-researchers-continue-to-leave-google-for-its-rivals/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-24T21:42:07Z",
+      "snippet": "Top AI researchers Jonas Adler and Alexander Pritzel are leaving Google for Anthropic, following departures from top scientists Noam Shazeer and John Jumper."
+    },
+    {
+      "title": "The memory chip crunch is paying off for this US company",
+      "url": "https://techcrunch.com/2026/06/24/the-memory-chip-crunch-is-paying-off-for-this-u-s-company/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-24T21:30:55Z",
+      "snippet": "Revenue quadrupled to $41.45 billion compared with the same period a year ago. The company's profit, meanwhile, rose from $1.88 billion to an incredible $28.2 billion year-over-year."
+    },
     {
       "title": "Companies are scrambling to stop employees from maxing out AI budgets with small tasks",
       "url": "https://techcrunch.com/2026/06/24/companies-are-scrambling-to-stop-employees-from-maxing-out-ai-budgets-with-small-tasks/",
@@ -147,34 +175,6 @@
       "source": "TechCrunch",
       "publishedAt": "2026-06-23T01:27:55Z",
       "snippet": "A running look \u2014 in reverse chronological order \u2014 at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor."
-    },
-    {
-      "title": "OpenAI launches new initiative to help find and patch open source bugs",
-      "url": "https://techcrunch.com/2026/06/22/openai-launches-new-initiative-to-help-find-and-patch-open-source-bugs/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-23T00:11:31Z",
-      "snippet": "OpenAI is using AI to help the open source community better protect itself."
-    },
-    {
-      "title": "The AI world is getting \u2018loopy\u2019",
-      "url": "https://techcrunch.com/2026/06/22/the-ai-world-is-getting-loopy/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-22T20:53:11Z",
-      "snippet": "The loop takes agentic AI a step further by authorizing a swarm of agents to work continuously in the background, endlessly."
-    },
-    {
-      "title": "AI chipmaker Groq confirms $650M raise, re-staffs after Nvidia\u2019s $20B not-acqui-hire deal",
-      "url": "https://techcrunch.com/2026/06/22/ai-chipmaker-groq-confirms-650m-raise-re-staffs-after-nvidias-20b-not-acqui-hire-deal/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-22T20:13:58Z",
-      "snippet": "What does an AI company do after one of those not-acqui-hire deals? Groq raised money, is leaning into its neocloud business, and is hiring new execs."
-    },
-    {
-      "title": "Nvidia wants to cut data center water use, but that\u2019s not the same as fixing AI\u2019s water problem",
-      "url": "https://techcrunch.com/2026/06/22/nvidia-wants-to-cut-data-center-water-use-but-thats-not-the-same-as-fixing-ais-water-problem/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-22T20:08:15Z",
-      "snippet": "Nvidia announced a new cooling system that cuts water use inside the data center. But it does nothing to address AI's biggest water use \u2014 fossil fuel power plants."
     }
   ],
   "trending": [
