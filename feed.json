@@ -1,6 +1,13 @@
 {
-  "updated": "2026-06-24T19:41:05Z",
+  "updated": "2026-06-24T21:19:34Z",
   "news": [
+    {
+      "title": "Companies are scrambling to stop employees from maxing out AI budgets with small tasks",
+      "url": "https://techcrunch.com/2026/06/24/companies-are-scrambling-to-stop-employees-from-maxing-out-ai-budgets-with-small-tasks/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-24T20:09:45Z",
+      "snippet": "The tokenmaxxing era was brief. We now appear to be entering the era of token rationing."
+    },
     {
       "title": "Congresswoman denies staff used AI to write defense funding amendment",
       "url": "https://www.theverge.com/policy/956394/florida-anna-paulina-luna-anthropic-claude",
@@ -168,13 +175,6 @@
       "source": "TechCrunch",
       "publishedAt": "2026-06-22T20:08:15Z",
       "snippet": "Nvidia announced a new cooling system that cuts water use inside the data center. But it does nothing to address AI's biggest water use \u2014 fossil fuel power plants."
-    },
-    {
-      "title": "Google DeepMind bets $75M on AI\u2019s future in Hollywood with A24 deal",
-      "url": "https://techcrunch.com/2026/06/22/google-deepmind-bets-75m-on-ais-future-in-hollywood-with-a24-deal/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-22T18:49:44Z",
-      "snippet": "Google DeepMind and A24 are teaming up to build AI filmmaking tools."
     }
   ],
   "trending": [
