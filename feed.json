@@ -1,6 +1,13 @@
 {
-  "updated": "2026-06-23T23:05:18Z",
+  "updated": "2026-06-24T02:50:45Z",
   "news": [
+    {
+      "title": "India\u2019s MoEngage bets that the future of marketing is millions of AI agents",
+      "url": "https://techcrunch.com/2026/06/23/indias-moengage-bets-marketings-future-on-millions-of-ai-agents/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-23T23:30:00Z",
+      "snippet": "The all-cash deal gives MoEngage access to technology that assigns AI agents to individual customers."
+    },
     {
       "title": "Google Home will soon get better at recognizing you",
       "url": "https://www.theverge.com/tech/955385/google-home-familiar-faces-clothing",
@@ -168,13 +175,6 @@
       "source": "TechCrunch",
       "publishedAt": "2026-06-21T14:40:28Z",
       "snippet": "Siri\u2019s AI overhaul may have grabbed the headlines at WWDC, but some of Apple\u2019s most useful AI features are arriving elsewhere in iOS 27."
-    },
-    {
-      "title": "Signal\u2019s Meredith Whittaker wants you to remember that AI chatbots \u2018are not your friends\u2019",
-      "url": "https://techcrunch.com/2026/06/20/signals-meredith-whittaker-wants-you-to-remember-that-ai-chatbots-are-not-your-friends/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-20T20:32:29Z",
-      "snippet": "\"These are not your friends. These are not conscious beings. These are not sentient interlocutors.\u201d"
     }
   ],
   "trending": [
@@ -209,9 +209,9 @@
       "downloads": 65765
     },
     {
-      "id": "Mia-AiLab/Qwable-3.6-27b",
-      "displayName": "Qwable 3.6 27b",
-      "downloads": 24935
+      "id": "Jackrong/Qwopus3.6-27B-Coder-Compat-MTP-GGUF",
+      "displayName": "Qwopus3.6 27B Coder Compat MTP",
+      "downloads": 3958
     },
     {
       "id": "AlexWortega/SIQ-1-35B",
@@ -219,9 +219,9 @@
       "downloads": 3375
     },
     {
-      "id": "Jackrong/Qwopus3.6-27B-Coder-Compat-MTP-GGUF",
-      "displayName": "Qwopus3.6 27B Coder Compat MTP",
-      "downloads": 3958
+      "id": "Mia-AiLab/Qwable-3.6-27b",
+      "displayName": "Qwable 3.6 27b",
+      "downloads": 24935
     },
     {
       "id": "Jackrong/Qwopus3.6-27B-Coder-MTP-GGUF",
