@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-24T07:36:06Z",
+  "updated": "2026-06-24T10:44:49Z",
   "news": [
     {
       "title": "India\u2019s MoEngage bets that the future of marketing is millions of AI agents",
@@ -194,14 +194,14 @@
       "downloads": 55820
     },
     {
-      "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
-      "displayName": "Qwen3.6 35B A3B Uncensored HauhauCS Aggressive",
-      "downloads": 3955016
-    },
-    {
       "id": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
       "displayName": "Qwythos 9B Claude Mythos 5 1M",
       "downloads": 27218
+    },
+    {
+      "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
+      "displayName": "Qwen3.6 35B A3B Uncensored HauhauCS Aggressive",
+      "downloads": 3955016
     },
     {
       "id": "bytkim/Qwen3.6-27B-MTP-pi-tune-GGUF",
