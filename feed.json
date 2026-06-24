@@ -1,6 +1,20 @@
 {
-  "updated": "2026-06-24T10:44:49Z",
+  "updated": "2026-06-24T14:21:42Z",
   "news": [
+    {
+      "title": "3 days left to save up to $190 on your TechCrunch Founder Summit 2026 pass",
+      "url": "https://techcrunch.com/2026/06/24/3-days-left-to-save-up-to-190-on-techcrunch-founder-summit-2026/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-24T14:00:00Z",
+      "snippet": "You have just 3 days left to save up to $190 on your pass to TechCrunch Founder Summit 2026 before Early Bird rates end on June 26 at 11:59 p.m. PT. Register here."
+    },
+    {
+      "title": "The Google Home Speaker sounds good and looks great \u2014 but it\u2019s finicky",
+      "url": "https://www.theverge.com/gadgets/955537/google-home-smart-speaker-hands-on",
+      "source": "The Verge",
+      "publishedAt": "2026-06-24T13:00:00Z",
+      "snippet": "Right out of the box, the new Google Home Speaker passed a couple of important tests. Even with the volume at 100 percent and music blaring out of the speaker, it quickly ducked the audio and listened"
+    },
     {
       "title": "India\u2019s MoEngage bets that the future of marketing is millions of AI agents",
       "url": "https://techcrunch.com/2026/06/23/indias-moengage-bets-marketings-future-on-millions-of-ai-agents/",
@@ -156,77 +170,63 @@
       "snippet": "Save up to $190 on your pass to TechCrunch Founder Summit 2026 by June 26, 11:59 p.m. PT. Designed for founders first on November 4 in Boston. Register today."
     },
     {
-      "title": "Read this before you vibe-code another app",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/950844/vibe-coding-security-risks-apps",
-      "source": "The Verge",
-      "publishedAt": "2026-06-22T11:00:00Z",
-      "snippet": "Bob Starr was delighted with his vibe-coded website. \"Boomberg\" showed how much US tax money is going to tech companies, and Starr launched it online immediately after making it. It wasn't until month"
-    },
-    {
       "title": "When the Trump administration cracks down on Anthropic, who benefits?",
       "url": "https://techcrunch.com/2026/06/21/when-the-trump-administration-cracks-down-on-anthropic-who-benefits/",
       "source": "TechCrunch",
       "publishedAt": "2026-06-21T15:28:17Z",
       "snippet": "On the new episode of Equity, we discussed what actually prompted the administration's latest moves against Anthropic, and what this might mean for the AI ecosystem."
-    },
-    {
-      "title": "Beyond Siri: Here are the practical AI features coming to your iPhone in iOS 27",
-      "url": "https://techcrunch.com/2026/06/21/beyond-siri-here-are-the-practical-ai-features-coming-to-your-iphone-in-ios-27/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-21T14:40:28Z",
-      "snippet": "Siri\u2019s AI overhaul may have grabbed the headlines at WWDC, but some of Apple\u2019s most useful AI features are arriving elsewhere in iOS 27."
     }
   ],
   "trending": [
     {
       "id": "yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
       "displayName": "gemma 4 12B coder fable5 composer2.5 v1",
-      "downloads": 456117
+      "downloads": 483139
     },
     {
       "id": "yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF",
       "displayName": "gemma 4 12B agentic fable5 composer2.5 v2 3.5x tau2",
-      "downloads": 96459
+      "downloads": 138704
     },
     {
       "id": "unsloth/GLM-5.2-GGUF",
       "displayName": "GLM 5.2",
-      "downloads": 55820
+      "downloads": 76971
     },
     {
       "id": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
       "displayName": "Qwythos 9B Claude Mythos 5 1M",
-      "downloads": 27218
+      "downloads": 63637
     },
     {
       "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
       "displayName": "Qwen3.6 35B A3B Uncensored HauhauCS Aggressive",
-      "downloads": 3955016
-    },
-    {
-      "id": "bytkim/Qwen3.6-27B-MTP-pi-tune-GGUF",
-      "displayName": "Qwen3.6 27B MTP pi tune",
-      "downloads": 65765
+      "downloads": 3769369
     },
     {
       "id": "Jackrong/Qwopus3.6-27B-Coder-Compat-MTP-GGUF",
       "displayName": "Qwopus3.6 27B Coder Compat MTP",
-      "downloads": 3958
+      "downloads": 10867
+    },
+    {
+      "id": "bytkim/Qwen3.6-27B-MTP-pi-tune-GGUF",
+      "displayName": "Qwen3.6 27B MTP pi tune",
+      "downloads": 77337
     },
     {
       "id": "AlexWortega/SIQ-1-35B",
       "displayName": "SIQ 1 35B",
-      "downloads": 3375
+      "downloads": 3847
     },
     {
       "id": "Mia-AiLab/Qwable-3.6-27b",
       "displayName": "Qwable 3.6 27b",
-      "downloads": 24935
+      "downloads": 25787
     },
     {
       "id": "Jackrong/Qwopus3.6-27B-Coder-MTP-GGUF",
       "displayName": "Qwopus3.6 27B Coder MTP",
-      "downloads": 231888
+      "downloads": 245107
     }
   ]
 }
