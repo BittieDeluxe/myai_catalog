@@ -1,6 +1,13 @@
 {
-  "updated": "2026-06-25T21:27:56Z",
+  "updated": "2026-06-25T23:13:50Z",
   "news": [
+    {
+      "title": "OpenAI will delay GPT-5.6 after Trump administration request",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/957372/openai-will-delay-gpt-5-6-after-trump-administration-request",
+      "source": "The Verge",
+      "publishedAt": "2026-06-25T21:57:06Z",
+      "snippet": "The Trump administration, apprehensive of potential security issues, has reportedly asked OpenAI to stagger the release of its next big-ticket model, GPT-5.6. The Information reported that OpenAI CEO "
+    },
     {
       "title": "Patronus AI lands $50M to build \u2018digital worlds\u2019 that stress-test AI agents",
       "url": "https://techcrunch.com/2026/06/25/patronus-ai-lands-50m-to-build-digital-worlds-that-stress-test-ai-agents/",
@@ -168,13 +175,6 @@
       "source": "The Verge",
       "publishedAt": "2026-06-23T22:03:18Z",
       "snippet": "Netflix, A24, Focus Features, and Warner Bros.' Clockwork have all reportedly decided to pass on picking up Artificial - director Luca Guadagnino's new biographical drama about OpenAI cofounder / CEO "
-    },
-    {
-      "title": "Why corporate AI super PACs spent $27 million on a local election",
-      "url": "https://www.theverge.com/policy/954970/ai-super-pacs-alex-bores-new-york-12th-district",
-      "source": "The Verge",
-      "publishedAt": "2026-06-23T17:00:00Z",
-      "snippet": "Hello and welcome to Regulator, the newsletter for Verge subscribers chronicling the misadventures of their favorite tech overlords and Washington swamp creatures. (\"Favorite\" is, of course, subjectiv"
     }
   ],
   "trending": [
@@ -214,6 +214,11 @@
       "downloads": 15128
     },
     {
+      "id": "deepreinforce-ai/Ornith-1.0-35B-GGUF",
+      "displayName": "Ornith 1.0 35B",
+      "downloads": 0
+    },
+    {
       "id": "unsloth/Qwen3.6-27B-MTP-GGUF",
       "displayName": "Qwen3.6 27B MTP",
       "downloads": 883916
@@ -222,11 +227,6 @@
       "id": "hotdogs/qwen3.6-27b-fable5-lora",
       "displayName": "qwen3.6 27b fable5 lora",
       "downloads": 452
-    },
-    {
-      "id": "mradermacher/Mythos-nano-i1-GGUF",
-      "displayName": "Mythos nano i1",
-      "downloads": 5545
     }
   ]
 }
