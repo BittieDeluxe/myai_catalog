@@ -1,6 +1,13 @@
 {
-  "updated": "2026-06-25T07:38:36Z",
+  "updated": "2026-06-25T10:38:27Z",
   "news": [
+    {
+      "title": "Facebook\u2019s Creator Studio has been revived as an AI companion app",
+      "url": "https://www.theverge.com/tech/956668/meta-facebook-creator-studio-ai-app-relaunch",
+      "source": "The Verge",
+      "publishedAt": "2026-06-25T09:06:19Z",
+      "snippet": "Meta is bringing back the Facebook Creator Studio page manager, now \"reimagined\" as a standalone AI companion app. The new app aims to make it easier for creators to connect with their audiences and s"
+    },
     {
       "title": "Europe is pushing back on Washington\u2019s chip war",
       "url": "https://techcrunch.com/2026/06/24/europe-is-pushing-back-on-washingtons-chip-war/",
@@ -163,13 +170,6 @@
       "snippet": "Last week, Midjourney, an AI startup best known for its image generator, made an unusual pivot: medical imaging. The company announced a futuristic ultrasound scanner that would dunk users into a vat "
     },
     {
-      "title": "The Fitbit Air takes a smarter approach to the AI health dumpster fire",
-      "url": "https://www.theverge.com/tech/954768/google-fitbit-air-review-fitness-tracker-wearable-ai-health-coach",
-      "source": "The Verge",
-      "publishedAt": "2026-06-23T15:00:00Z",
-      "snippet": "Google Health Coach seems to think I'm on the verge of physical collapse. My sleep is not where it needs to be, hence my unimpressive readiness score. My heart rate variability, a measure of how recov"
-    },
-    {
       "title": "4 days left to save up to $190 on TechCrunch Founder Summit 2026",
       "url": "https://techcrunch.com/2026/06/23/4-days-left-to-save-up-to-190-on-techcrunch-founder-summit-2026/",
       "source": "TechCrunch",
@@ -181,52 +181,52 @@
     {
       "id": "yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
       "displayName": "gemma 4 12B coder fable5 composer2.5 v1",
-      "downloads": 483139
+      "downloads": 495813
     },
     {
       "id": "yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF",
       "displayName": "gemma 4 12B agentic fable5 composer2.5 v2 3.5x tau2",
-      "downloads": 138704
+      "downloads": 165187
     },
     {
       "id": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
       "displayName": "Qwythos 9B Claude Mythos 5 1M",
-      "downloads": 63637
+      "downloads": 134294
     },
     {
       "id": "unsloth/GLM-5.2-GGUF",
       "displayName": "GLM 5.2",
-      "downloads": 76971
+      "downloads": 88915
     },
     {
       "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
       "displayName": "Qwen3.6 35B A3B Uncensored HauhauCS Aggressive",
-      "downloads": 3769369
+      "downloads": 3520206
     },
     {
       "id": "Jackrong/Qwopus3.6-27B-Coder-Compat-MTP-GGUF",
       "displayName": "Qwopus3.6 27B Coder Compat MTP",
-      "downloads": 10867
+      "downloads": 19382
     },
     {
       "id": "HauhauCS/Gemma4-12B-QAT-Uncensored-HauhauCS-Balanced",
       "displayName": "Gemma4 12B QAT Uncensored HauhauCS Balanced",
-      "downloads": 9162
+      "downloads": 15128
     },
     {
       "id": "unsloth/Qwen3.6-27B-MTP-GGUF",
       "displayName": "Qwen3.6 27B MTP",
-      "downloads": 896040
-    },
-    {
-      "id": "Mia-AiLab/Qwable-3.6-27b",
-      "displayName": "Qwable 3.6 27b",
-      "downloads": 25787
+      "downloads": 883916
     },
     {
       "id": "hotdogs/qwen3.6-27b-fable5-lora",
       "displayName": "qwen3.6 27b fable5 lora",
-      "downloads": 439
+      "downloads": 452
+    },
+    {
+      "id": "mradermacher/Mythos-nano-i1-GGUF",
+      "displayName": "Mythos nano i1",
+      "downloads": 5545
     }
   ]
 }
