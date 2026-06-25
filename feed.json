@@ -1,6 +1,34 @@
 {
-  "updated": "2026-06-25T10:38:27Z",
+  "updated": "2026-06-25T14:22:42Z",
   "news": [
+    {
+      "title": "2 days left to save up to $190: Join 1,000+ founders and investors at TechCrunch Founder Summit",
+      "url": "https://techcrunch.com/2026/06/25/2-days-left-to-save-up-to-190-join-1000-founders-and-investors-at-techcrunch-founder-summit/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-25T14:00:00Z",
+      "snippet": "2 days left to lock in your spot at TechCrunch Founder Summit 2026 and save up to $190 before Early Bird rates expire on June 26 at 11:59 p.m. PT. Register here."
+    },
+    {
+      "title": "Adobe acquires image and video enhancement tool maker Topaz Labs",
+      "url": "https://techcrunch.com/2026/06/25/adobe-acquires-image-and-video-enhancement-tool-maker-topaz-labs/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-25T13:30:00Z",
+      "snippet": "Adobe said that it will integrate Topaz Labs' tools across its apps."
+    },
+    {
+      "title": "Amazon ups India bet with fresh $13B AI infrastructure investment",
+      "url": "https://techcrunch.com/2026/06/25/amazon-ups-india-bet-with-fresh-13b-ai-infrastructure-investment/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-25T12:00:38Z",
+      "snippet": "Amazon\u2019s latest India investment comes as global tech companies race to expand AI infrastructure in the country."
+    },
+    {
+      "title": "Ford had to hire back former engineers to fix mistakes made by its automated systems",
+      "url": "https://www.theverge.com/transportation/956316/ford-quality-jd-power-ranking-ai-automated-mistakes",
+      "source": "The Verge",
+      "publishedAt": "2026-06-25T12:00:00Z",
+      "snippet": "To celebrate its new status as No. 1 in JD Power's initial quality ranking among mainstream automakers, Ford is opening up about the challenges it has faced in recent years, especially around its reli"
+    },
     {
       "title": "Facebook\u2019s Creator Studio has been revived as an AI companion app",
       "url": "https://www.theverge.com/tech/956668/meta-facebook-creator-studio-ai-app-relaunch",
@@ -128,13 +156,6 @@
       "snippet": "Right out of the box, the new Google Home Speaker passed a couple of important tests. Even with the volume at 100 percent and music blaring out of the speaker, it quickly ducked the audio and listened"
     },
     {
-      "title": "India\u2019s MoEngage bets that the future of marketing is millions of AI agents",
-      "url": "https://techcrunch.com/2026/06/23/indias-moengage-bets-marketings-future-on-millions-of-ai-agents/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-23T23:30:00Z",
-      "snippet": "The all-cash deal gives MoEngage access to technology that assigns AI agents to individual customers."
-    },
-    {
       "title": "Google Home will soon get better at recognizing you",
       "url": "https://www.theverge.com/tech/955385/google-home-familiar-faces-clothing",
       "source": "The Verge",
@@ -154,27 +175,6 @@
       "source": "The Verge",
       "publishedAt": "2026-06-23T17:00:00Z",
       "snippet": "Hello and welcome to Regulator, the newsletter for Verge subscribers chronicling the misadventures of their favorite tech overlords and Washington swamp creatures. (\"Favorite\" is, of course, subjectiv"
-    },
-    {
-      "title": "Anthropic\u2019s Claude Tag is learning your company, one Slack message at a time",
-      "url": "https://techcrunch.com/2026/06/23/anthropics-claude-tag-is-learning-your-company-one-slack-message-at-a-time/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-23T17:00:00Z",
-      "snippet": "Anthropic\u2019s new Claude Tag brings an always-on AI teammate to Slack. But beyond productivity, the feature is a strategic play to capture organizational context, institutional knowledge, and enterprise"
-    },
-    {
-      "title": "Something&#8217;s off with Midjourney\u2019s pivot to body scanners",
-      "url": "https://www.theverge.com/report/954826/midjourney-medical-ai-ultrasound-body-scanner-lacks-evidence",
-      "source": "The Verge",
-      "publishedAt": "2026-06-23T15:56:35Z",
-      "snippet": "Last week, Midjourney, an AI startup best known for its image generator, made an unusual pivot: medical imaging. The company announced a futuristic ultrasound scanner that would dunk users into a vat "
-    },
-    {
-      "title": "4 days left to save up to $190 on TechCrunch Founder Summit 2026",
-      "url": "https://techcrunch.com/2026/06/23/4-days-left-to-save-up-to-190-on-techcrunch-founder-summit-2026/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-23T14:00:00Z",
-      "snippet": "Four days left to save up to $190 on your pass to TechCrunch Founder Summit 2026 \u2014 the ultimate founder bootcamp \u2014 before Early Bird rates end on June 26 at 11:59 p.m. PT. Register today."
     }
   ],
   "trending": [
@@ -224,9 +224,9 @@
       "downloads": 452
     },
     {
-      "id": "mradermacher/Mythos-nano-i1-GGUF",
-      "displayName": "Mythos nano i1",
-      "downloads": 5545
+      "id": "Mia-AiLab/Qwable-3.6-27b",
+      "displayName": "Qwable 3.6 27b",
+      "downloads": 26206
     }
   ]
 }
