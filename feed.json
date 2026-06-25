@@ -1,12 +1,40 @@
 {
-  "updated": "2026-06-25T14:22:42Z",
+  "updated": "2026-06-25T18:06:31Z",
   "news": [
+    {
+      "title": "Anthropic\u2019s Claude is winning over paid consumers, a market owned by ChatGPT",
+      "url": "https://techcrunch.com/2026/06/25/anthropics-claude-is-winning-over-paid-consumers-a-market-owned-by-chatgpt/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-25T17:38:27Z",
+      "snippet": "Despite ChatGPT's commanding market lead, consumers who pay for AI have been increasingly choosing Anthropic's Claude, data shows."
+    },
+    {
+      "title": "General Intuition\u2019s $2.3B bet that video games can train AI agents for the real world",
+      "url": "https://techcrunch.com/2026/06/25/general-intuitions-2-3b-bet-that-video-games-can-train-ai-agents-for-the-real-world/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-25T16:55:00Z",
+      "snippet": "General Intuition has raised $320 million to scale AI trained on millions of hours of gameplay, betting action data can help AI develop something closer to human intuition."
+    },
+    {
+      "title": "Databricks\u2019 former AI chief thinks he can cut AI\u2019s power bill by 1,000x",
+      "url": "https://techcrunch.com/2026/06/25/databricks-former-ai-chief-thinks-he-can-cut-ais-power-bill-by-1000x/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-25T16:48:11Z",
+      "snippet": "Un-0 is an image-generation system tool that shows for the first time how the company's technology can replicate conventional AI systems."
+    },
+    {
+      "title": "Netris raises $15M Series A from a16z to help AI neoclouds go live faster",
+      "url": "https://techcrunch.com/2026/06/25/netris-raises-15m-series-a-from-a16z-to-help-ai-neoclouds-go-live-faster/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-25T14:55:38Z",
+      "snippet": "Netris provides software that runs on network switches, and offers a platform that helps neocloud operators reduce the time it takes to go live."
+    },
     {
       "title": "2 days left to save up to $190: Join 1,000+ founders and investors at TechCrunch Founder Summit",
       "url": "https://techcrunch.com/2026/06/25/2-days-left-to-save-up-to-190-join-1000-founders-and-investors-at-techcrunch-founder-summit/",
       "source": "TechCrunch",
       "publishedAt": "2026-06-25T14:00:00Z",
-      "snippet": "2 days left to lock in your spot at TechCrunch Founder Summit 2026 and save up to $190 before Early Bird rates expire on June 26 at 11:59 p.m. PT. Register here."
+      "snippet": "Two days left to lock in your spot at TechCrunch Founder Summit 2026 and save up to $190 before Early Bird rates expire on June 26 at 11:59 p.m. PT. Register today."
     },
     {
       "title": "Adobe acquires image and video enhancement tool maker Topaz Labs",
@@ -107,13 +135,6 @@
       "snippet": "The new app, which is currently being tested with select creators, will have Facebook's recently launched AI creator assistant built into it."
     },
     {
-      "title": "Agility Robotics plans to go public via SPAC in a $2.5B deal",
-      "url": "https://techcrunch.com/2026/06/24/agility-robotics-plans-to-go-public-via-spac-in-a-2-5b-deal/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-24T16:48:43Z",
-      "snippet": "Agility Robotics, the humanoid robotics startup that spun out of Oregon State University in 2015, expects to generate $620 million in proceeds."
-    },
-    {
       "title": "Figma now has AI motion graphics and shader tools",
       "url": "https://www.theverge.com/tech/955831/figma-code-design-tools-config-2026-announcements",
       "source": "The Verge",
@@ -121,32 +142,11 @@
       "snippet": "Figma has revealed some new design and coding product updates at its annual Config conference that aim to help creatives \"push their ideas further\" and automate tedious tasks with AI. Part of this is "
     },
     {
-      "title": "Figma adds code layers, support for animations, more AI features in new update",
-      "url": "https://techcrunch.com/2026/06/24/figma-adds-code-layers-support-for-animations-more-ai-features-in-new-update/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-24T16:15:00Z",
-      "snippet": "Figma's update adds a new code layer, support for motion and shaders, and the ability to create custom plug-ins for various tasks using AI."
-    },
-    {
-      "title": "OpenAI unveils its first custom chip, built by Broadcom",
-      "url": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-24T14:54:46Z",
-      "snippet": "Named Jalape\u00f1o, the new processor was designed specifically for the unique needs of OpenAI's inference systems."
-    },
-    {
       "title": "OpenAI reveals its first AI processor: Jalape\u00f1o",
       "url": "https://www.theverge.com/ai-artificial-intelligence/955939/openai-reveals-its-first-ai-processor-jalapeno",
       "source": "The Verge",
       "publishedAt": "2026-06-24T14:36:47Z",
       "snippet": "OpenAI has just revealed a new \"intelligence processor\" chip for AI servers made in partnership with Broadcom. The chip, called Jalape&#241;o, is designed to power current and future large language mo"
-    },
-    {
-      "title": "3 days left to save up to $190 on your TechCrunch Founder Summit 2026 pass",
-      "url": "https://techcrunch.com/2026/06/24/3-days-left-to-save-up-to-190-on-techcrunch-founder-summit-2026/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-24T14:00:00Z",
-      "snippet": "You have just 3 days left to save up to $190 on your pass to TechCrunch Founder Summit 2026 before Early Bird rates end on June 26 at 11:59 p.m. PT. Register today."
     },
     {
       "title": "The Google Home Speaker sounds good and looks great \u2014 but it\u2019s finicky",
@@ -224,9 +224,9 @@
       "downloads": 452
     },
     {
-      "id": "Mia-AiLab/Qwable-3.6-27b",
-      "displayName": "Qwable 3.6 27b",
-      "downloads": 26206
+      "id": "mradermacher/Mythos-nano-i1-GGUF",
+      "displayName": "Mythos nano i1",
+      "downloads": 5545
     }
   ]
 }
