@@ -1,6 +1,13 @@
 {
-  "updated": "2026-06-25T23:13:50Z",
+  "updated": "2026-06-26T02:55:17Z",
   "news": [
+    {
+      "title": "The White House is asking OpenAI to slow roll the release of its new model over safety concerns",
+      "url": "https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-25T23:34:39Z",
+      "snippet": "penAI reportedly plans to share its newest model, GPT 5.6, with a select group of partners instead of to the broader public. The reason: the Trump administration told it to."
+    },
     {
       "title": "OpenAI will delay GPT-5.6 after Trump administration request",
       "url": "https://www.theverge.com/ai-artificial-intelligence/957372/openai-will-delay-gpt-5-6-after-trump-administration-request",
@@ -121,13 +128,6 @@
       "snippet": "Revenue quadrupled to $41.45 billion compared with the same period a year ago. The company's profit, meanwhile, rose from $1.88 billion to an incredible $28.2 billion year-over-year."
     },
     {
-      "title": "Companies are scrambling to stop employees from maxing out AI budgets with small tasks",
-      "url": "https://techcrunch.com/2026/06/24/companies-are-scrambling-to-stop-employees-from-maxing-out-ai-budgets-with-small-tasks/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-24T20:09:45Z",
-      "snippet": "The tokenmaxxing era was brief. We now appear to be entering the era of token rationing."
-    },
-    {
       "title": "Congresswoman denies staff used AI to write defense funding amendment",
       "url": "https://www.theverge.com/policy/956394/florida-anna-paulina-luna-anthropic-claude",
       "source": "The Verge",
@@ -179,14 +179,14 @@
   ],
   "trending": [
     {
-      "id": "yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
-      "displayName": "gemma 4 12B coder fable5 composer2.5 v1",
-      "downloads": 495813
-    },
-    {
       "id": "yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF",
       "displayName": "gemma 4 12B agentic fable5 composer2.5 v2 3.5x tau2",
       "downloads": 165187
+    },
+    {
+      "id": "yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
+      "displayName": "gemma 4 12B coder fable5 composer2.5 v1",
+      "downloads": 495813
     },
     {
       "id": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
@@ -204,6 +204,11 @@
       "downloads": 3520206
     },
     {
+      "id": "deepreinforce-ai/Ornith-1.0-35B-GGUF",
+      "displayName": "Ornith 1.0 35B",
+      "downloads": 0
+    },
+    {
       "id": "Jackrong/Qwopus3.6-27B-Coder-Compat-MTP-GGUF",
       "displayName": "Qwopus3.6 27B Coder Compat MTP",
       "downloads": 19382
@@ -214,19 +219,14 @@
       "downloads": 15128
     },
     {
-      "id": "deepreinforce-ai/Ornith-1.0-35B-GGUF",
-      "displayName": "Ornith 1.0 35B",
-      "downloads": 0
-    },
-    {
       "id": "unsloth/Qwen3.6-27B-MTP-GGUF",
       "displayName": "Qwen3.6 27B MTP",
       "downloads": 883916
     },
     {
-      "id": "hotdogs/qwen3.6-27b-fable5-lora",
-      "displayName": "qwen3.6 27b fable5 lora",
-      "downloads": 452
+      "id": "mradermacher/Mythos-nano-i1-GGUF",
+      "displayName": "Mythos nano i1",
+      "downloads": 5545
     }
   ]
 }
