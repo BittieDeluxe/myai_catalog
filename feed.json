@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-26T07:46:36Z",
+  "updated": "2026-06-26T10:46:58Z",
   "news": [
     {
       "title": "The White House is asking OpenAI to slow roll the release of its new model over safety concerns",
@@ -181,52 +181,52 @@
     {
       "id": "yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF",
       "displayName": "gemma 4 12B agentic fable5 composer2.5 v2 3.5x tau2",
-      "downloads": 165187
+      "downloads": 186663
     },
     {
       "id": "yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
       "displayName": "gemma 4 12B coder fable5 composer2.5 v1",
-      "downloads": 495813
+      "downloads": 516333
     },
     {
       "id": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
       "displayName": "Qwythos 9B Claude Mythos 5 1M",
-      "downloads": 134294
+      "downloads": 486810
     },
     {
       "id": "unsloth/GLM-5.2-GGUF",
       "displayName": "GLM 5.2",
-      "downloads": 88915
+      "downloads": 107553
     },
     {
       "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
       "displayName": "Qwen3.6 35B A3B Uncensored HauhauCS Aggressive",
-      "downloads": 3520206
+      "downloads": 3453492
     },
     {
       "id": "deepreinforce-ai/Ornith-1.0-35B-GGUF",
       "displayName": "Ornith 1.0 35B",
-      "downloads": 0
+      "downloads": 3002
     },
     {
       "id": "Jackrong/Qwopus3.6-27B-Coder-Compat-MTP-GGUF",
       "displayName": "Qwopus3.6 27B Coder Compat MTP",
-      "downloads": 19382
-    },
-    {
-      "id": "HauhauCS/Gemma4-12B-QAT-Uncensored-HauhauCS-Balanced",
-      "displayName": "Gemma4 12B QAT Uncensored HauhauCS Balanced",
-      "downloads": 15128
+      "downloads": 35027
     },
     {
       "id": "deepreinforce-ai/Ornith-1.0-9B-GGUF",
       "displayName": "Ornith 1.0 9B",
-      "downloads": 0
+      "downloads": 1779
+    },
+    {
+      "id": "HauhauCS/Gemma4-12B-QAT-Uncensored-HauhauCS-Balanced",
+      "displayName": "Gemma4 12B QAT Uncensored HauhauCS Balanced",
+      "downloads": 23772
     },
     {
       "id": "unsloth/Qwen3.6-27B-MTP-GGUF",
       "displayName": "Qwen3.6 27B MTP",
-      "downloads": 883916
+      "downloads": 881579
     }
   ]
 }
