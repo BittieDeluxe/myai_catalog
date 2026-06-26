@@ -1,6 +1,13 @@
 {
-  "updated": "2026-06-26T10:46:58Z",
+  "updated": "2026-06-26T14:14:38Z",
   "news": [
+    {
+      "title": "Early Bird pricing ends tonight for TechCrunch Founder Summit",
+      "url": "https://techcrunch.com/2026/06/26/early-bird-pricing-ends-tonight-for-techcrunch-founder-summit/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-26T13:00:00Z",
+      "snippet": "Save up to $190 on your pass to TechCrunch Founder Summit 2026. Early Bird pricing ends today, at 11:59 p.m. PT, after which rates increase. Register now."
+    },
     {
       "title": "The White House is asking OpenAI to slow roll the release of its new model over safety concerns",
       "url": "https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/",
@@ -121,13 +128,6 @@
       "snippet": "Top AI researchers Jonas Adler and Alexander Pritzel are leaving Google for Anthropic, following departures from top scientists Noam Shazeer and John Jumper."
     },
     {
-      "title": "The memory chip crunch is paying off for this US company",
-      "url": "https://techcrunch.com/2026/06/24/the-memory-chip-crunch-is-paying-off-for-this-u-s-company/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-24T21:30:55Z",
-      "snippet": "Revenue quadrupled to $41.45 billion compared with the same period a year ago. The company's profit, meanwhile, rose from $1.88 billion to an incredible $28.2 billion year-over-year."
-    },
-    {
       "title": "Congresswoman denies staff used AI to write defense funding amendment",
       "url": "https://www.theverge.com/policy/956394/florida-anna-paulina-luna-anthropic-claude",
       "source": "The Verge",
@@ -209,14 +209,14 @@
       "downloads": 3002
     },
     {
-      "id": "Jackrong/Qwopus3.6-27B-Coder-Compat-MTP-GGUF",
-      "displayName": "Qwopus3.6 27B Coder Compat MTP",
-      "downloads": 35027
-    },
-    {
       "id": "deepreinforce-ai/Ornith-1.0-9B-GGUF",
       "displayName": "Ornith 1.0 9B",
       "downloads": 1779
+    },
+    {
+      "id": "Jackrong/Qwopus3.6-27B-Coder-Compat-MTP-GGUF",
+      "displayName": "Qwopus3.6 27B Coder Compat MTP",
+      "downloads": 35027
     },
     {
       "id": "HauhauCS/Gemma4-12B-QAT-Uncensored-HauhauCS-Balanced",
