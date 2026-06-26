@@ -1,6 +1,27 @@
 {
-  "updated": "2026-06-26T17:43:22Z",
+  "updated": "2026-06-26T19:45:08Z",
   "news": [
+    {
+      "title": "OpenAI limits GPT-5.6 rollout after government request, says restrictions shouldn\u2019t be the norm",
+      "url": "https://techcrunch.com/2026/06/26/openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldnt-be-the-norm/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-26T18:32:14Z",
+      "snippet": "\u201cWe don\u2019t believe this kind of government access process should become the long-term default,\u201d says OpenAI. \u201cIt keeps the best tools from users, developers, enterprises, cyber defenders, and global pa"
+    },
+    {
+      "title": "OpenAI poaches Uber India chief to lead its biggest market outside the US",
+      "url": "https://techcrunch.com/2026/06/26/openai-poaches-uber-india-chief-to-lead-its-biggest-market-outside-the-u-s/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-26T18:19:36Z",
+      "snippet": "The hire marks OpenAI's latest push into India, expanding offices, partnerships and hiring."
+    },
+    {
+      "title": "Why everyone from OpenAI to SpaceX is building their own chips (and turning up the heat on Nvidia)",
+      "url": "https://techcrunch.com/video/why-everyone-from-openai-to-spacex-is-building-their-own-chips-and-turning-up-the-heat-on-nvidia/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-26T17:43:22Z",
+      "snippet": "Nvidia has dominated the AI chip market for years, but the era of total dependence might be ending.&#160;&#160; OpenAI just shared its plans to spice things up with&#160;Jalape\u00f1o, its custom inference"
+    },
     {
       "title": "OpenAI unveils GPT-5.6 amid US AI regulatory drama",
       "url": "https://www.theverge.com/ai-artificial-intelligence/957845/openai-gpt-5-6-trump-administration-ai-preview",
@@ -121,27 +142,6 @@
       "snippet": "Meta is bringing back the Facebook Creator Studio page manager, now \"reimagined\" as a standalone AI companion app. The new app aims to make it easier for creators to connect with their audiences and s"
     },
     {
-      "title": "Europe is pushing back on Washington\u2019s chip war",
-      "url": "https://techcrunch.com/2026/06/24/europe-is-pushing-back-on-washingtons-chip-war/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-25T00:08:36Z",
-      "snippet": "As ASML CEO Christophe Fouquet told TechCrunch in May, what China can currently buy are older-generation deep ultraviolet tools \u2014 gear first shipped about a decade ago \u2014 the same machines the MATCH Ac"
-    },
-    {
-      "title": "Former Infosys chief has a new startup that wants to challenge the IT services world",
-      "url": "https://techcrunch.com/2026/06/24/former-infosys-chief-has-a-new-startup-that-wants-to-challenge-the-it-services-world/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-24T23:26:52Z",
-      "snippet": "Backed by Mayfield and Aramco Ventures, Vishal Sikka\u2019s new venture brings together veterans from SAP, Infosys, and VianAI."
-    },
-    {
-      "title": "Cerebras stock plunges after earnings as CEO says margin outlook was misunderstood",
-      "url": "https://techcrunch.com/2026/06/24/cerebras-stock-plunges-after-earnings-as-ceo-says-margin-outlook-was-misunderstood/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-24T22:41:41Z",
-      "snippet": "In its first earnings report since going public, the AI chipmaker forecast a narrower gross margin in its core business, scaring investors."
-    },
-    {
       "title": "Congresswoman denies staff used AI to write defense funding amendment",
       "url": "https://www.theverge.com/policy/956394/florida-anna-paulina-luna-anthropic-claude",
       "source": "The Verge",
@@ -199,14 +199,14 @@
       "downloads": 107553
     },
     {
-      "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
-      "displayName": "Qwen3.6 35B A3B Uncensored HauhauCS Aggressive",
-      "downloads": 3453492
-    },
-    {
       "id": "deepreinforce-ai/Ornith-1.0-35B-GGUF",
       "displayName": "Ornith 1.0 35B",
       "downloads": 3002
+    },
+    {
+      "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
+      "displayName": "Qwen3.6 35B A3B Uncensored HauhauCS Aggressive",
+      "downloads": 3453492
     },
     {
       "id": "deepreinforce-ai/Ornith-1.0-9B-GGUF",
