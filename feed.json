@@ -1,6 +1,13 @@
 {
-  "updated": "2026-06-27T15:12:41Z",
+  "updated": "2026-06-27T17:05:18Z",
   "news": [
+    {
+      "title": "Apple Vision Pro exec is reportedly leaving for OpenAI",
+      "url": "https://techcrunch.com/2026/06/27/apple-vision-pro-exec-is-reportedly-leaving-for-openai/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-27T16:45:09Z",
+      "snippet": "Paul Meade, the Apple vice president in charge of the Vision Pro headset, is reportedly leaving the company to join OpenAI\u2019s hardware team."
+    },
     {
       "title": "The fittest founder in the room got cancer. Here\u2019s how he used AI to fight back.",
       "url": "https://techcrunch.com/2026/06/27/the-fittest-founder-in-the-room-got-cancer-heres-how-he-used-ai-to-fight-back/",
@@ -135,13 +142,6 @@
       "snippet": "Un-0 is an image-generation system tool that shows for the first time how the company's technology can replicate conventional AI systems."
     },
     {
-      "title": "Netris raises $15M Series A from a16z to help AI neoclouds go live faster",
-      "url": "https://techcrunch.com/2026/06/25/netris-raises-15m-series-a-from-a16z-to-help-ai-neoclouds-go-live-faster/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-25T14:55:38Z",
-      "snippet": "Netris provides software that runs on network switches, and offers a platform that helps neocloud operators reduce the time it takes to go live."
-    },
-    {
       "title": "Ford had to hire back former engineers to fix mistakes made by its automated systems",
       "url": "https://www.theverge.com/transportation/956316/ford-quality-jd-power-ranking-ai-automated-mistakes",
       "source": "The Verge",
@@ -214,14 +214,14 @@
       "downloads": 3331475
     },
     {
-      "id": "HauhauCS/Gemma4-12B-QAT-Uncensored-HauhauCS-Balanced",
-      "displayName": "Gemma4 12B QAT Uncensored HauhauCS Balanced",
-      "downloads": 32222
-    },
-    {
       "id": "Jackrong/Qwopus3.6-27B-Coder-Compat-MTP-GGUF",
       "displayName": "Qwopus3.6 27B Coder Compat MTP",
       "downloads": 49935
+    },
+    {
+      "id": "HauhauCS/Gemma4-12B-QAT-Uncensored-HauhauCS-Balanced",
+      "displayName": "Gemma4 12B QAT Uncensored HauhauCS Balanced",
+      "downloads": 32222
     },
     {
       "id": "unsloth/Qwen-AgentWorld-35B-A3B-GGUF",
