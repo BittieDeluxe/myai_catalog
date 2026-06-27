@@ -1,6 +1,20 @@
 {
-  "updated": "2026-06-27T13:23:49Z",
+  "updated": "2026-06-27T15:12:41Z",
   "news": [
+    {
+      "title": "The fittest founder in the room got cancer. Here\u2019s how he used AI to fight back.",
+      "url": "https://techcrunch.com/2026/06/27/the-fittest-founder-in-the-room-got-cancer-heres-how-he-used-ai-to-fight-back/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-27T14:00:00Z",
+      "snippet": "When confronted with cancer, Connor Christou fed everything tied tied to his regime \u2014 blood results, scan data, wearable output, journal entries \u2014 into Claude."
+    },
+    {
+      "title": "Why is Apple asking me to pay more for Big Tech\u2019s AI obsession?",
+      "url": "https://www.theverge.com/report/958678/apple-consumer-price-increase-ai-big-tech",
+      "source": "The Verge",
+      "publishedAt": "2026-06-27T13:30:00Z",
+      "snippet": "Tim Cook recently said price increases were \"unavoidable\" and described the company's pricing as \"unsustainable.\" The 16-inch MacBook Pro saw its price go up by $300. The 11-inch iPad Air went from $5"
+    },
     {
       "title": "Asian AI startups launch Mythos-like  models as Anthropic\u2019s export ban drags on",
       "url": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/",
@@ -128,13 +142,6 @@
       "snippet": "Netris provides software that runs on network switches, and offers a platform that helps neocloud operators reduce the time it takes to go live."
     },
     {
-      "title": "2 days left to save up to $190: Join 1,000+ founders and investors at TechCrunch Founder Summit",
-      "url": "https://techcrunch.com/2026/06/25/2-days-left-to-save-up-to-190-join-1000-founders-and-investors-at-techcrunch-founder-summit/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-25T14:00:00Z",
-      "snippet": "Two days left to lock in your spot at TechCrunch Founder Summit 2026 and save up to $190 before Early Bird rates expire on June 26 at 11:59 p.m. PT. Register today."
-    },
-    {
       "title": "Ford had to hire back former engineers to fix mistakes made by its automated systems",
       "url": "https://www.theverge.com/transportation/956316/ford-quality-jd-power-ranking-ai-automated-mistakes",
       "source": "The Verge",
@@ -168,13 +175,6 @@
       "source": "The Verge",
       "publishedAt": "2026-06-24T16:15:00Z",
       "snippet": "Figma has revealed some new design and coding product updates at its annual Config conference that aim to help creatives \"push their ideas further\" and automate tedious tasks with AI. Part of this is "
-    },
-    {
-      "title": "OpenAI reveals its first AI processor: Jalape\u00f1o",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/955939/openai-reveals-its-first-ai-processor-jalapeno",
-      "source": "The Verge",
-      "publishedAt": "2026-06-24T14:36:47Z",
-      "snippet": "OpenAI has just revealed a new \"intelligence processor\" chip for AI servers made in partnership with Broadcom. The chip, called Jalape&#241;o, is designed to power current and future large language mo"
     }
   ],
   "trending": [
@@ -204,24 +204,24 @@
       "downloads": 125230
     },
     {
-      "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
-      "displayName": "Qwen3.6 35B A3B Uncensored HauhauCS Aggressive",
-      "downloads": 3331475
-    },
-    {
       "id": "deepreinforce-ai/Ornith-1.0-9B-GGUF",
       "displayName": "Ornith 1.0 9B",
       "downloads": 11034
     },
     {
-      "id": "Jackrong/Qwopus3.6-27B-Coder-Compat-MTP-GGUF",
-      "displayName": "Qwopus3.6 27B Coder Compat MTP",
-      "downloads": 49935
+      "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
+      "displayName": "Qwen3.6 35B A3B Uncensored HauhauCS Aggressive",
+      "downloads": 3331475
     },
     {
       "id": "HauhauCS/Gemma4-12B-QAT-Uncensored-HauhauCS-Balanced",
       "displayName": "Gemma4 12B QAT Uncensored HauhauCS Balanced",
       "downloads": 32222
+    },
+    {
+      "id": "Jackrong/Qwopus3.6-27B-Coder-Compat-MTP-GGUF",
+      "displayName": "Qwopus3.6 27B Coder Compat MTP",
+      "downloads": 49935
     },
     {
       "id": "unsloth/Qwen-AgentWorld-35B-A3B-GGUF",
