@@ -1,6 +1,20 @@
 {
-  "updated": "2026-06-26T23:01:41Z",
+  "updated": "2026-06-27T02:45:20Z",
   "news": [
+    {
+      "title": "Trump Admin releases Anthropic  Mythos to be used by more than 100 US companies, agencies",
+      "url": "https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-27T01:01:37Z",
+      "snippet": "Over 100 companies and government agencies are reportedly authorized to use Mythos 5, including their non-American employees."
+    },
+    {
+      "title": "Anthropic&#8217;s Mythos 5 is back",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/958458/anthropic-mythos-5-is-back-trump-negotiations",
+      "source": "The Verge",
+      "publishedAt": "2026-06-27T00:33:44Z",
+      "snippet": "After a rollercoaster negotiation process with the Trump administration that dragged on for two weeks, Anthropic's Mythos 5 is finally back in action - at least, somewhat, for a select group of organi"
+    },
     {
       "title": "OpenAI limits GPT-5.6 rollout after government request, says restrictions shouldn\u2019t be the norm",
       "url": "https://techcrunch.com/2026/06/26/openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldnt-be-the-norm/",
@@ -121,13 +135,6 @@
       "snippet": "Adobe said that it will integrate Topaz Labs' tools across its apps."
     },
     {
-      "title": "Amazon ups India bet with fresh $13B AI infrastructure investment",
-      "url": "https://techcrunch.com/2026/06/25/amazon-ups-india-bet-with-fresh-13b-ai-infrastructure-investment/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-25T12:00:38Z",
-      "snippet": "Amazon\u2019s latest India investment comes as global tech companies race to expand AI infrastructure in the country."
-    },
-    {
       "title": "Ford had to hire back former engineers to fix mistakes made by its automated systems",
       "url": "https://www.theverge.com/transportation/956316/ford-quality-jd-power-ranking-ai-automated-mistakes",
       "source": "The Verge",
@@ -168,13 +175,6 @@
       "source": "The Verge",
       "publishedAt": "2026-06-24T14:36:47Z",
       "snippet": "OpenAI has just revealed a new \"intelligence processor\" chip for AI servers made in partnership with Broadcom. The chip, called Jalape&#241;o, is designed to power current and future large language mo"
-    },
-    {
-      "title": "The Google Home Speaker sounds good and looks great \u2014 but it\u2019s finicky",
-      "url": "https://www.theverge.com/gadgets/955537/google-home-smart-speaker-hands-on",
-      "source": "The Verge",
-      "publishedAt": "2026-06-24T13:00:00Z",
-      "snippet": "Right out of the box, the new Google Home Speaker passed a couple of important tests. Even with the volume at 100 percent and music blaring out of the speaker, it quickly ducked the audio and listened"
     }
   ],
   "trending": [
