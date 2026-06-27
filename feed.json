@@ -1,6 +1,13 @@
 {
-  "updated": "2026-06-27T19:14:10Z",
+  "updated": "2026-06-27T20:57:21Z",
   "news": [
+    {
+      "title": "SoftBank\u2019s CEO isn\u2019t the only one with questions about Elon Musk\u2019s orbital data center hype",
+      "url": "https://techcrunch.com/2026/06/27/softbanks-ceo-isnt-the-only-one-with-questions-about-elon-musks-orbital-data-center-hype/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-27T20:42:36Z",
+      "snippet": "Not everyone is buying Elon Musk\u2019s vision for orbital data centers."
+    },
     {
       "title": "Margaret Atwood says the problem with AI is &#8216;garbage in, garbage out&#8217;",
       "url": "https://www.theverge.com/ai-artificial-intelligence/958715/margaret-atwood-ai-problem-garbage-in-garbage-out",
@@ -140,13 +147,6 @@
       "source": "TechCrunch",
       "publishedAt": "2026-06-25T16:55:00Z",
       "snippet": "General Intuition has raised $320 million to scale AI trained on millions of hours of gameplay, betting action data can help AI develop something closer to human intuition."
-    },
-    {
-      "title": "Databricks\u2019 former AI chief thinks he can cut AI\u2019s power bill by 1,000x",
-      "url": "https://techcrunch.com/2026/06/25/databricks-former-ai-chief-thinks-he-can-cut-ais-power-bill-by-1000x/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-25T16:48:11Z",
-      "snippet": "Un-0 is an image-generation system tool that shows for the first time how the company's technology can replicate conventional AI systems."
     },
     {
       "title": "Ford had to hire back former engineers to fix mistakes made by its automated systems",
