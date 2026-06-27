@@ -1,6 +1,13 @@
 {
-  "updated": "2026-06-27T17:05:18Z",
+  "updated": "2026-06-27T19:14:10Z",
   "news": [
+    {
+      "title": "Margaret Atwood says the problem with AI is &#8216;garbage in, garbage out&#8217;",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/958715/margaret-atwood-ai-problem-garbage-in-garbage-out",
+      "source": "The Verge",
+      "publishedAt": "2026-06-27T18:39:32Z",
+      "snippet": "Maraget Atwood, the storied author of The Handmaid's Tale and The Blind Assassin, was interviewed as part of the Babell Literary and Cultural Festival in Porto, Portugal. As it usually does at these t"
+    },
     {
       "title": "Apple Vision Pro exec is reportedly leaving for OpenAI",
       "url": "https://techcrunch.com/2026/06/27/apple-vision-pro-exec-is-reportedly-leaving-for-openai/",
@@ -168,13 +175,6 @@
       "source": "The Verge",
       "publishedAt": "2026-06-24T17:25:00Z",
       "snippet": "The expensive, $27 million political proxy war between Anthropic and OpenAI came to a draw last night when Alex Bores, a New York state Assemblyman whose popularity surged after being targeted by a pr"
-    },
-    {
-      "title": "Figma now has AI motion graphics and shader tools",
-      "url": "https://www.theverge.com/tech/955831/figma-code-design-tools-config-2026-announcements",
-      "source": "The Verge",
-      "publishedAt": "2026-06-24T16:15:00Z",
-      "snippet": "Figma has revealed some new design and coding product updates at its annual Config conference that aim to help creatives \"push their ideas further\" and automate tedious tasks with AI. Part of this is "
     }
   ],
   "trending": [
@@ -214,14 +214,14 @@
       "downloads": 3331475
     },
     {
-      "id": "Jackrong/Qwopus3.6-27B-Coder-Compat-MTP-GGUF",
-      "displayName": "Qwopus3.6 27B Coder Compat MTP",
-      "downloads": 49935
-    },
-    {
       "id": "HauhauCS/Gemma4-12B-QAT-Uncensored-HauhauCS-Balanced",
       "displayName": "Gemma4 12B QAT Uncensored HauhauCS Balanced",
       "downloads": 32222
+    },
+    {
+      "id": "Jackrong/Qwopus3.6-27B-Coder-Compat-MTP-GGUF",
+      "displayName": "Qwopus3.6 27B Coder Compat MTP",
+      "downloads": 49935
     },
     {
       "id": "unsloth/Qwen-AgentWorld-35B-A3B-GGUF",
