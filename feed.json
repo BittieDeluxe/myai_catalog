@@ -1,6 +1,13 @@
 {
-  "updated": "2026-06-28T13:27:28Z",
+  "updated": "2026-06-28T15:15:05Z",
   "news": [
+    {
+      "title": "Prosecutors used ChatGPT logs as evidence in the Palisades fire trial",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/958751/prosecutors-chatgpt-palisades-wildfire-arson-mistrial",
+      "source": "The Verge",
+      "publishedAt": "2026-06-28T14:12:06Z",
+      "snippet": "Jonathan Rinderknecht was facing arson charges for setting a fire on New Year's Day in 2025, which became one of the deadliest wildfires in LA history. To make their case, prosecutors turned to locati"
+    },
     {
       "title": "SoftBank\u2019s CEO isn\u2019t the only one with questions about Elon Musk\u2019s orbital data center hype",
       "url": "https://techcrunch.com/2026/06/27/softbanks-ceo-isnt-the-only-one-with-questions-about-elon-musks-orbital-data-center-hype/",
@@ -168,13 +175,6 @@
       "source": "The Verge",
       "publishedAt": "2026-06-24T19:36:46Z",
       "snippet": "Rep. Anna Paulina Luna (R-FL) says her staff used AI for \"spellcheck\" in an amendment summary for a major defense bill, but denies it was used for the bill text itself and says \"NO Legislation is ever"
-    },
-    {
-      "title": "The $27 million Al proxy war over Alex Bores ends in a draw",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/956263/alex-bores-new-york-12th-district-congressional-primary-results",
-      "source": "The Verge",
-      "publishedAt": "2026-06-24T17:25:00Z",
-      "snippet": "The expensive, $27 million political proxy war between Anthropic and OpenAI came to a draw last night when Alex Bores, a New York state Assemblyman whose popularity surged after being targeted by a pr"
     }
   ],
   "trending": [
