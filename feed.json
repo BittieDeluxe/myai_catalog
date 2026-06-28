@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-27T22:58:48Z",
+  "updated": "2026-06-28T03:24:40Z",
   "news": [
     {
       "title": "SoftBank\u2019s CEO isn\u2019t the only one with questions about Elon Musk\u2019s orbital data center hype",
@@ -199,14 +199,14 @@
       "downloads": 20266
     },
     {
-      "id": "unsloth/GLM-5.2-GGUF",
-      "displayName": "GLM 5.2",
-      "downloads": 125230
-    },
-    {
       "id": "deepreinforce-ai/Ornith-1.0-9B-GGUF",
       "displayName": "Ornith 1.0 9B",
       "downloads": 11034
+    },
+    {
+      "id": "unsloth/GLM-5.2-GGUF",
+      "displayName": "GLM 5.2",
+      "downloads": 125230
     },
     {
       "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
