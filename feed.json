@@ -1,6 +1,41 @@
 {
-  "updated": "2026-06-29T18:05:43Z",
+  "updated": "2026-06-29T21:21:52Z",
   "news": [
+    {
+      "title": "Gemini\u2019s personalized AI image generation is now free for US users",
+      "url": "https://techcrunch.com/2026/06/29/geminis-personalized-ai-image-generation-is-now-free-for-u-s-users/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-29T20:12:59Z",
+      "snippet": "Google is expanding Gemini\u2019s personalized AI image generation to eligible free users in the U.S., allowing the chatbot to create images based on your interests and data from connected Google apps."
+    },
+    {
+      "title": "Tidal won\u2019t pay royalties on AI-generated music but isn\u2019t banning it outright",
+      "url": "https://www.theverge.com/tech/959211/tidal-ai-music-policy-demonetizingdetect-label",
+      "source": "The Verge",
+      "publishedAt": "2026-06-29T19:47:35Z",
+      "snippet": "Tidal shared its new policies regarding AI-generated music today and how the platform plans to \"protect artists\" and \"inform listeners.\" Instead of banning it outright, starting on July 15th Tidal wil"
+    },
+    {
+      "title": "OpenAI is teasing new hardware\u2026 for Codex",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/959174/openai-codex-hardware-work-louder",
+      "source": "The Verge",
+      "publishedAt": "2026-06-29T18:52:03Z",
+      "snippet": "OpenAI is releasing some sort of device related to its AI-powered coding tool, Codex, on July 15th. In a video posted to X on Monday, OpenAI shows a square-shaped device with several buttons, alongsid"
+    },
+    {
+      "title": "Anthropic and Gov. Newsom forge deal allowing California government to use Claude at half price",
+      "url": "https://techcrunch.com/2026/06/29/anthropic-and-gov-newsom-forge-deal-allowing-california-government-to-use-claude-at-half-price/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-29T18:10:26Z",
+      "snippet": "As Anthropic forges a closer relationship with the state of California, the federal government has made an enemy out of the OpenAI rival."
+    },
+    {
+      "title": "South Korean tech giants commit over $550B to ease \u2018RAMageddon\u2019",
+      "url": "https://techcrunch.com/2026/06/29/south-korean-tech-giants-commit-over-550b-to-ease-ramageddon/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-29T18:07:48Z",
+      "snippet": "The world's two largest memory chip companies vow to build more memory lab fabs as South Korea positions itself as an AI tech powerhouse country."
+    },
     {
       "title": "Arena, the AI leaderboard everyone uses, is now a $100M business",
       "url": "https://techcrunch.com/2026/06/29/arena-the-ai-leaderboard-everyone-uses-is-now-a-100m-business/",
@@ -20,7 +55,7 @@
       "url": "https://techcrunch.com/2026/06/29/tidal-cracks-down-on-ai-music-by-cutting-off-monetization/",
       "source": "TechCrunch",
       "publishedAt": "2026-06-29T16:29:04Z",
-      "snippet": "TIDAL's new policy will prevent AI-generated music from making money on its service."
+      "snippet": "In addition, TIDAL will use automated tools to remove AI-generated music that attempts to impersonate an artist or a group, the company said."
     },
     {
       "title": "Lawmakers want to ban AI companies from selling your health data",
@@ -135,46 +170,11 @@
       "snippet": "After a rollercoaster negotiation process with the Trump administration that dragged on for two weeks, Anthropic's Mythos 5 is finally back in action - at least, somewhat, for a select group of organi"
     },
     {
-      "title": "OpenAI limits GPT-5.6 rollout after government request, says restrictions shouldn\u2019t be the norm",
-      "url": "https://techcrunch.com/2026/06/26/openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldnt-be-the-norm/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-26T18:32:14Z",
-      "snippet": "\u201cWe don\u2019t believe this kind of government access process should become the long-term default,\u201d says OpenAI. \u201cIt keeps the best tools from users, developers, enterprises, cyber defenders, and global pa"
-    },
-    {
-      "title": "OpenAI poaches Uber India chief to lead its biggest market outside the US",
-      "url": "https://techcrunch.com/2026/06/26/openai-poaches-uber-india-chief-to-lead-its-biggest-market-outside-the-u-s/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-26T18:19:36Z",
-      "snippet": "The hire marks OpenAI's latest push into India, expanding offices, partnerships and hiring."
-    },
-    {
-      "title": "Why everyone from OpenAI to SpaceX is building their own chips (and turning up the heat on Nvidia)",
-      "url": "https://techcrunch.com/video/why-everyone-from-openai-to-spacex-is-building-their-own-chips-and-turning-up-the-heat-on-nvidia/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-26T17:43:22Z",
-      "snippet": "Nvidia has dominated the AI chip market for years, but the era of total dependence might be ending.&#160;&#160; OpenAI just shared its plans to spice things up with&#160;Jalape\u00f1o, its custom inference"
-    },
-    {
       "title": "OpenAI unveils GPT-5.6 amid US AI regulatory drama",
       "url": "https://www.theverge.com/ai-artificial-intelligence/957845/openai-gpt-5-6-trump-administration-ai-preview",
       "source": "The Verge",
       "publishedAt": "2026-06-26T17:00:00Z",
       "snippet": "Less than 24 hours after news broke that OpenAI would stagger its next model release at the request of the Trump administration, that model, GPT-5.6, is here. On Friday, the company unveiled the limit"
-    },
-    {
-      "title": "Anthropic&#8217;s Mythos mess is only getting worse",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/957327/anthropic-mythos-fable-ai-trump-administration-negotiations",
-      "source": "The Verge",
-      "publishedAt": "2026-06-26T14:07:03Z",
-      "snippet": "It's been two weeks since Anthropic took its Mythos-class models offline after a Friday evening ultimatum from the Trump administration. The company sprang into action immediately, sending a barrage o"
-    },
-    {
-      "title": "OpenAI will delay GPT-5.6 after Trump administration request",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/957372/openai-will-delay-gpt-5-6-after-trump-administration-request",
-      "source": "The Verge",
-      "publishedAt": "2026-06-25T21:57:06Z",
-      "snippet": "The Trump administration, apprehensive of potential security issues, has reportedly asked OpenAI to stagger the release of its next big-ticket model, GPT-5.6. The Information reported that OpenAI CEO "
     }
   ],
   "trending": [
@@ -224,9 +224,9 @@
       "downloads": 46053
     },
     {
-      "id": "Jackrong/Qwopus3.6-27B-Coder-Compat-MTP-GGUF",
-      "displayName": "Qwopus3.6 27B Coder Compat MTP",
-      "downloads": 83051
+      "id": "BugTraceAI/BugTraceAI-CORE-Ultra-27B-Q6",
+      "displayName": "BugTraceAI CORE Ultra 27B Q6",
+      "downloads": 207
     }
   ]
 }
