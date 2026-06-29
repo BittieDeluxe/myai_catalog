@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-29T03:29:53Z",
+  "updated": "2026-06-29T08:54:33Z",
   "news": [
     {
       "title": "China\u2019s Z.ai claims it can match Mythos on cybersecurity",
@@ -211,7 +211,7 @@
     {
       "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
       "displayName": "Qwen3.6 35B A3B Uncensored HauhauCS Aggressive",
-      "downloads": 3248724
+      "downloads": 3089944
     },
     {
       "id": "HauhauCS/Gemma4-12B-QAT-Uncensored-HauhauCS-Balanced",
