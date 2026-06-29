@@ -1,6 +1,20 @@
 {
-  "updated": "2026-06-29T08:54:33Z",
+  "updated": "2026-06-29T14:01:03Z",
   "news": [
+    {
+      "title": "Robot hand company settles Tesla trade secret suit and announces $11M raise",
+      "url": "https://techcrunch.com/2026/06/29/robot-hand-company-settles-tesla-trade-secret-suit-and-announces-11m-raise/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-29T14:00:08Z",
+      "snippet": "Jay Li doesn&#8217;t recommend getting sued by Tesla if you&#8217;re trying to get a startup off the ground. But he does think his company, Proception, might be better off for having endured the exper"
+    },
+    {
+      "title": "Omen AI\u2019s plan to optimize data centers is all wet",
+      "url": "https://techcrunch.com/2026/06/29/omen-ais-plan-to-optimize-data-centers-is-all-wet/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-29T13:00:00Z",
+      "snippet": "Omen AI raised a $31 million Series A to monitor chip coolant and stop bacterial outbreaks in data centers."
+    },
     {
       "title": "China\u2019s Z.ai claims it can match Mythos on cybersecurity",
       "url": "https://www.theverge.com/ai-artificial-intelligence/958804/chinas-z-ai-glm-52-mythos-cybersecurity",
@@ -149,25 +163,11 @@
       "snippet": "Save up to $190 on your pass to TechCrunch Founder Summit 2026. Early Bird pricing ends today, at 11:59 p.m. PT, after which rates increase. Register now."
     },
     {
-      "title": "The White House is asking OpenAI to slow roll the release of its new model over safety concerns",
-      "url": "https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-25T23:34:39Z",
-      "snippet": "OpenAI reportedly plans to share its newest model, GPT 5.6, with a select group of partners instead of with the broader public. The reason: the Trump administration told it to."
-    },
-    {
       "title": "OpenAI will delay GPT-5.6 after Trump administration request",
       "url": "https://www.theverge.com/ai-artificial-intelligence/957372/openai-will-delay-gpt-5-6-after-trump-administration-request",
       "source": "The Verge",
       "publishedAt": "2026-06-25T21:57:06Z",
       "snippet": "The Trump administration, apprehensive of potential security issues, has reportedly asked OpenAI to stagger the release of its next big-ticket model, GPT-5.6. The Information reported that OpenAI CEO "
-    },
-    {
-      "title": "Patronus AI lands $50M to build \u2018digital worlds\u2019 that stress-test AI agents",
-      "url": "https://techcrunch.com/2026/06/25/patronus-ai-lands-50m-to-build-digital-worlds-that-stress-test-ai-agents/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-25T20:19:25Z",
-      "snippet": "Agent-testing startup Patronus AI, founded by former Meta AI researchers, is experiencing nearly insatiable demand, its investor says."
     },
     {
       "title": "Ford had to hire back former engineers to fix mistakes made by its automated systems",
@@ -181,32 +181,32 @@
     {
       "id": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
       "displayName": "Qwythos 9B Claude Mythos 5 1M",
-      "downloads": 831529
+      "downloads": 907682
     },
     {
       "id": "yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF",
       "displayName": "gemma 4 12B agentic fable5 composer2.5 v2 3.5x tau2",
-      "downloads": 225822
+      "downloads": 241409
     },
     {
       "id": "deepreinforce-ai/Ornith-1.0-35B-GGUF",
       "displayName": "Ornith 1.0 35B",
-      "downloads": 79630
+      "downloads": 123598
     },
     {
       "id": "yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
       "displayName": "gemma 4 12B coder fable5 composer2.5 v1",
-      "downloads": 549926
+      "downloads": 561577
     },
     {
       "id": "deepreinforce-ai/Ornith-1.0-9B-GGUF",
       "displayName": "Ornith 1.0 9B",
-      "downloads": 36846
+      "downloads": 68667
     },
     {
       "id": "unsloth/GLM-5.2-GGUF",
       "displayName": "GLM 5.2",
-      "downloads": 146023
+      "downloads": 164180
     },
     {
       "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
@@ -216,17 +216,17 @@
     {
       "id": "HauhauCS/Gemma4-12B-QAT-Uncensored-HauhauCS-Balanced",
       "displayName": "Gemma4 12B QAT Uncensored HauhauCS Balanced",
-      "downloads": 40820
+      "downloads": 46053
     },
     {
       "id": "unsloth/Qwen-AgentWorld-35B-A3B-GGUF",
       "displayName": "Qwen AgentWorld 35B A3B",
-      "downloads": 79503
+      "downloads": 116693
     },
     {
       "id": "Jackrong/Qwopus3.6-27B-Coder-Compat-MTP-GGUF",
       "displayName": "Qwopus3.6 27B Coder Compat MTP",
-      "downloads": 66282
+      "downloads": 83051
     }
   ]
 }
