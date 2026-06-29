@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-29T21:21:52Z",
+  "updated": "2026-06-29T22:52:28Z",
   "news": [
     {
       "title": "Gemini\u2019s personalized AI image generation is now free for US users",
@@ -194,14 +194,14 @@
       "downloads": 241409
     },
     {
-      "id": "yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
-      "displayName": "gemma 4 12B coder fable5 composer2.5 v1",
-      "downloads": 561577
-    },
-    {
       "id": "deepreinforce-ai/Ornith-1.0-9B-GGUF",
       "displayName": "Ornith 1.0 9B",
       "downloads": 68667
+    },
+    {
+      "id": "yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
+      "displayName": "gemma 4 12B coder fable5 composer2.5 v1",
+      "downloads": 561577
     },
     {
       "id": "unsloth/GLM-5.2-GGUF",
