@@ -1,12 +1,40 @@
 {
-  "updated": "2026-06-29T14:01:03Z",
+  "updated": "2026-06-29T18:05:43Z",
   "news": [
+    {
+      "title": "Arena, the AI leaderboard everyone uses, is now a $100M business",
+      "url": "https://techcrunch.com/2026/06/29/arena-the-ai-leaderboard-everyone-uses-is-now-a-100m-business/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-29T17:39:17Z",
+      "snippet": "The startup, which runs a popular free AI leaderboard, launched its commercial service just last September."
+    },
+    {
+      "title": "Cursor now has a mobile app for guiding your coding agent on the go",
+      "url": "https://techcrunch.com/2026/06/29/cursor-now-has-a-mobile-app-for-guiding-your-coding-agent-on-the-go/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-29T17:03:50Z",
+      "snippet": "Cursor has launched a new mobile app for remote oversight over coding agents."
+    },
+    {
+      "title": "TIDAL cracks down on AI music by cutting off monetization",
+      "url": "https://techcrunch.com/2026/06/29/tidal-cracks-down-on-ai-music-by-cutting-off-monetization/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-29T16:29:04Z",
+      "snippet": "TIDAL's new policy will prevent AI-generated music from making money on its service."
+    },
+    {
+      "title": "Lawmakers want to ban AI companies from selling your health data",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/959033/health-location-data-protection-act-ai-warren-scanlon",
+      "source": "The Verge",
+      "publishedAt": "2026-06-29T16:00:00Z",
+      "snippet": "A new proposal would ban the sale of Americans' health and location information to data brokers - including information people reveal to an AI chatbot like ChatGPT or Claude. In the coming weeks, Sena"
+    },
     {
       "title": "Robot hand company settles Tesla trade secret suit and announces $11M raise",
       "url": "https://techcrunch.com/2026/06/29/robot-hand-company-settles-tesla-trade-secret-suit-and-announces-11m-raise/",
       "source": "TechCrunch",
       "publishedAt": "2026-06-29T14:00:08Z",
-      "snippet": "Jay Li doesn&#8217;t recommend getting sued by Tesla if you&#8217;re trying to get a startup off the ground. But he does think his company, Proception, might be better off for having endured the exper"
+      "snippet": "The startup, Proception, is taking a unique approach to collecting training data to tackle one of the hardest problems in robotics: hands."
     },
     {
       "title": "Omen AI\u2019s plan to optimize data centers is all wet",
@@ -62,7 +90,7 @@
       "url": "https://www.theverge.com/ai-artificial-intelligence/958715/margaret-atwood-ai-problem-garbage-in-garbage-out",
       "source": "The Verge",
       "publishedAt": "2026-06-27T18:39:32Z",
-      "snippet": "Maraget Atwood, the storied author of The Handmaid's Tale and The Blind Assassin, was interviewed as part of the Babell Literary and Cultural Festival in Porto, Portugal. As it usually does at these t"
+      "snippet": "Margaret Atwood, the storied author of The Handmaid's Tale and The Blind Assassin, was interviewed as part of the Babell Literary and Cultural Festival in Porto, Portugal. As it usually does at these "
     },
     {
       "title": "Apple Vision Pro exec is reportedly leaving for OpenAI",
@@ -76,7 +104,7 @@
       "url": "https://techcrunch.com/2026/06/27/the-fittest-founder-in-the-room-got-cancer-heres-how-he-used-ai-to-fight-back/",
       "source": "TechCrunch",
       "publishedAt": "2026-06-27T14:00:00Z",
-      "snippet": "When confronted with cancer, Connor Christou fed everything tied tied to his regime \u2014 blood results, scan data, wearable output, journal entries \u2014 into Claude."
+      "snippet": "When confronted with cancer, Conno Christou fed everything tied to his regime \u2014 blood results, scan data, wearable output, journal entries \u2014 into Claude."
     },
     {
       "title": "Why is Apple asking me to pay more for Big Tech\u2019s AI obsession?",
@@ -93,7 +121,7 @@
       "snippet": "New models are launching in Asia that promise Mythos-like capabilities without fear of an export ban. U.S. AI labs may never recover this enormous market."
     },
     {
-      "title": "Trump Admin releases Anthropic Mythos to be used by more than 100 US companies, agencies",
+      "title": "Trump administration releases Anthropic Mythos to be used by more than 100 US companies, agencies",
       "url": "https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies/",
       "source": "TechCrunch",
       "publishedAt": "2026-06-27T01:01:37Z",
@@ -135,13 +163,6 @@
       "snippet": "Less than 24 hours after news broke that OpenAI would stagger its next model release at the request of the Trump administration, that model, GPT-5.6, is here. On Friday, the company unveiled the limit"
     },
     {
-      "title": "It\u2019s not about Anthropic vs. OpenAI anymore",
-      "url": "https://techcrunch.com/2026/06/26/its-not-about-anthropic-vs-openai-anymore/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-26T16:24:47Z",
-      "snippet": "AI models have progressed to the point where their capabilities have real political consequences. Dealing with those consequences will require collective action."
-    },
-    {
       "title": "Anthropic&#8217;s Mythos mess is only getting worse",
       "url": "https://www.theverge.com/ai-artificial-intelligence/957327/anthropic-mythos-fable-ai-trump-administration-negotiations",
       "source": "The Verge",
@@ -149,32 +170,11 @@
       "snippet": "It's been two weeks since Anthropic took its Mythos-class models offline after a Friday evening ultimatum from the Trump administration. The company sprang into action immediately, sending a barrage o"
     },
     {
-      "title": "OpenAI\u2019s Jalape\u00f1o chip is Big Tech\u2019s spiciest move away from Nvidia",
-      "url": "https://techcrunch.com/podcast/openais-jalapeno-chip-is-big-techs-spiciest-move-away-from-nvidia/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-26T14:00:00Z",
-      "snippet": "Nvidia has dominated the AI chip market for years, but the era of total dependence might be ending.&#160;&#160; OpenAI just shared its plans to spice things up with&#160;Jalape\u00f1o, its custom inference"
-    },
-    {
-      "title": "Early Bird pricing ends tonight for TechCrunch Founder Summit",
-      "url": "https://techcrunch.com/2026/06/26/early-bird-pricing-ends-tonight-for-techcrunch-founder-summit/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-26T13:00:00Z",
-      "snippet": "Save up to $190 on your pass to TechCrunch Founder Summit 2026. Early Bird pricing ends today, at 11:59 p.m. PT, after which rates increase. Register now."
-    },
-    {
       "title": "OpenAI will delay GPT-5.6 after Trump administration request",
       "url": "https://www.theverge.com/ai-artificial-intelligence/957372/openai-will-delay-gpt-5-6-after-trump-administration-request",
       "source": "The Verge",
       "publishedAt": "2026-06-25T21:57:06Z",
       "snippet": "The Trump administration, apprehensive of potential security issues, has reportedly asked OpenAI to stagger the release of its next big-ticket model, GPT-5.6. The Information reported that OpenAI CEO "
-    },
-    {
-      "title": "Ford had to hire back former engineers to fix mistakes made by its automated systems",
-      "url": "https://www.theverge.com/transportation/956316/ford-quality-jd-power-ranking-ai-automated-mistakes",
-      "source": "The Verge",
-      "publishedAt": "2026-06-25T12:00:00Z",
-      "snippet": "To celebrate its new status as No. 1 in JD Power's initial quality ranking among mainstream automakers, Ford is opening up about the challenges it has faced in recent years, especially around its reli"
     }
   ],
   "trending": [
@@ -184,14 +184,14 @@
       "downloads": 907682
     },
     {
-      "id": "yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF",
-      "displayName": "gemma 4 12B agentic fable5 composer2.5 v2 3.5x tau2",
-      "downloads": 241409
-    },
-    {
       "id": "deepreinforce-ai/Ornith-1.0-35B-GGUF",
       "displayName": "Ornith 1.0 35B",
       "downloads": 123598
+    },
+    {
+      "id": "yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF",
+      "displayName": "gemma 4 12B agentic fable5 composer2.5 v2 3.5x tau2",
+      "downloads": 241409
     },
     {
       "id": "yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
@@ -214,14 +214,14 @@
       "downloads": 3089944
     },
     {
-      "id": "HauhauCS/Gemma4-12B-QAT-Uncensored-HauhauCS-Balanced",
-      "displayName": "Gemma4 12B QAT Uncensored HauhauCS Balanced",
-      "downloads": 46053
-    },
-    {
       "id": "unsloth/Qwen-AgentWorld-35B-A3B-GGUF",
       "displayName": "Qwen AgentWorld 35B A3B",
       "downloads": 116693
+    },
+    {
+      "id": "HauhauCS/Gemma4-12B-QAT-Uncensored-HauhauCS-Balanced",
+      "displayName": "Gemma4 12B QAT Uncensored HauhauCS Balanced",
+      "downloads": 46053
     },
     {
       "id": "Jackrong/Qwopus3.6-27B-Coder-Compat-MTP-GGUF",
