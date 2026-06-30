@@ -1,6 +1,48 @@
 {
-  "updated": "2026-06-30T14:09:58Z",
+  "updated": "2026-06-30T17:49:04Z",
   "news": [
+    {
+      "title": "Netflix is using an AI-generated Gene Wilder voice in its Willy Wonka reality show",
+      "url": "https://www.theverge.com/streaming/959684/netflix-wonka-golden-ticket-gene-wilder",
+      "source": "The Verge",
+      "publishedAt": "2026-06-30T17:19:15Z",
+      "snippet": "A new teaser trailer confirmed that Wonka's The Golden Ticket will premiere on Netflix on September 23rd, following its Squid Game reality show in the trend of creating real competitions based on fict"
+    },
+    {
+      "title": "Anthropic\u2019s Claude Science bets on workflow, not a new model, to win over scientists",
+      "url": "https://techcrunch.com/2026/06/30/anthropics-claude-science-bets-on-workflow-not-a-new-model-to-win-over-scientists/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-30T17:00:00Z",
+      "snippet": "Anthropic's Claude Science is a workbench that gives scientists one environment to do computational research, saving them from the need to bounce between databases, pipelines, and tools."
+    },
+    {
+      "title": "Libby will filter out AI content, kind of",
+      "url": "https://www.theverge.com/column/959433/libby-ai-filter",
+      "source": "The Verge",
+      "publishedAt": "2026-06-30T15:30:00Z",
+      "snippet": "This is Lowpass by Janko Roettgers, a newsletter on the ever-evolving intersection of tech and entertainment, syndicated just for The Verge subscribers once a week. \"AI is the new frontier for us,\" sa"
+    },
+    {
+      "title": "X now offers an MCP server to make its platform easier for AI tools to use",
+      "url": "https://techcrunch.com/2026/06/30/x-now-offers-an-mcp-server-to-make-its-platform-easier-for-ai-tools-to-use/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-30T15:08:42Z",
+      "snippet": "X has launched a hosted MCP server, making it easier for developers to connect AI applications with the company\u2019s API."
+    },
+    {
+      "title": "Podcasting platform Riverside enters the newsletter publishing game",
+      "url": "https://techcrunch.com/2026/06/30/podcasting-platform-riverside-enters-the-newsletter-publishing-game/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-30T15:00:00Z",
+      "snippet": "Users will be able use AI to create newsletters based on their recordings."
+    },
+    {
+      "title": "Amazon launches new $1 billion FDE org, following OpenAI and Anthropic",
+      "url": "https://techcrunch.com/2026/06/30/amazon-launches-new-1-billion-fde-org-following-openai-and-anthropic/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-30T15:00:00Z",
+      "snippet": "Engineers on the new team will embed within companies to deploy purpose-built agents, focusing on fast deployments and customer self-sufficiency."
+    },
     {
       "title": "Lumo, Proton\u2019s privacy-focused AI chatbot, gets an upgrade",
       "url": "https://techcrunch.com/2026/06/30/lumo-protons-privacy-focused-ai-chatbot-gets-an-upgrade/",
@@ -30,11 +72,11 @@
       "snippet": "A new report finds \"high-intensity AI adopters\u201d saw headcount increase 10.2%. Among those companies, entry-level headcount rose by 12%, countering the rhetoric that AI kills junior jobs."
     },
     {
-      "title": "Vibe coding platform Base44 launches own model as AI startups seek defensibility",
+      "title": "Vibe-coding platform Base44 launches own model as AI startups seek defensibility",
       "url": "https://techcrunch.com/2026/06/29/vibe-coding-platform-base44-launches-own-model-as-ai-startups-seek-defensibility/",
       "source": "TechCrunch",
       "publishedAt": "2026-06-30T02:28:41Z",
-      "snippet": "Wix-owned vibe coding platform Base44 has started rolling out its own AI model \u2014 with hopes that it will eventually outperform frontier models."
+      "snippet": "Wix-owned vibe-coding platform Base44 has started rolling out its own AI model \u2014 with hopes that it will eventually outperform frontier models."
     },
     {
       "title": "Gemini\u2019s personalized AI image generation is now free for US users",
@@ -107,13 +149,6 @@
       "snippet": "The startup, Proception, is taking a unique approach to collecting training data to tackle one of the hardest problems in robotics: hands."
     },
     {
-      "title": "Omen AI\u2019s plan to optimize data centers is all wet",
-      "url": "https://techcrunch.com/2026/06/29/omen-ais-plan-to-optimize-data-centers-is-all-wet/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-29T13:00:00Z",
-      "snippet": "Omen AI raised a $31 million Series A to monitor chip coolant and stop bacterial outbreaks in data centers."
-    },
-    {
       "title": "China\u2019s Z.ai claims it can match Mythos on cybersecurity",
       "url": "https://www.theverge.com/ai-artificial-intelligence/958804/chinas-z-ai-glm-52-mythos-cybersecurity",
       "source": "The Verge",
@@ -128,20 +163,6 @@
       "snippet": "Suno has ambitions to be more than just a toy to churn out AI slop, it also wants to be a streaming destination and to break new artists. Spark is their new incubator program for independent artists t"
     },
     {
-      "title": "Ford rehires \u2018gray beard\u2019 engineers after AI falls short",
-      "url": "https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-28T19:05:39Z",
-      "snippet": "\"Mistakenly we thought that by just introducing artificial intelligence ... that would produce a high-quality product.\u201d"
-    },
-    {
-      "title": "Why Wall Street thinks US memory maker Micron is the next Nvidia",
-      "url": "https://techcrunch.com/2026/06/28/why-wall-street-thinks-us-memory-maker-micron-is-the-next-nvidia/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-28T15:00:00Z",
-      "snippet": "Eager to find more public AI-related companies that may do as well as Nvidia, Wall Street investors think they've found a winner with Micron."
-    },
-    {
       "title": "Prosecutors used ChatGPT logs as evidence in the Palisades fire trial",
       "url": "https://www.theverge.com/ai-artificial-intelligence/958751/prosecutors-chatgpt-palisades-wildfire-arson-mistrial",
       "source": "The Verge",
@@ -149,32 +170,11 @@
       "snippet": "Jonathan Rinderknecht was facing arson charges for setting a fire on New Year's Day in 2025, which became one of the deadliest wildfires in LA history. To make their case, prosecutors turned to locati"
     },
     {
-      "title": "SoftBank\u2019s CEO isn\u2019t the only one with questions about Elon Musk\u2019s orbital data center hype",
-      "url": "https://techcrunch.com/2026/06/27/softbanks-ceo-isnt-the-only-one-with-questions-about-elon-musks-orbital-data-center-hype/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-27T20:42:36Z",
-      "snippet": "Not everyone is buying Elon Musk\u2019s vision for orbital data centers."
-    },
-    {
       "title": "Margaret Atwood says the problem with AI is &#8216;garbage in, garbage out&#8217;",
       "url": "https://www.theverge.com/ai-artificial-intelligence/958715/margaret-atwood-ai-problem-garbage-in-garbage-out",
       "source": "The Verge",
       "publishedAt": "2026-06-27T18:39:32Z",
       "snippet": "Margaret Atwood, the storied author of The Handmaid's Tale and The Blind Assassin, was interviewed as part of the Babell Literary and Cultural Festival in Porto, Portugal. As it usually does at these "
-    },
-    {
-      "title": "Why is Apple asking me to pay more for Big Tech\u2019s AI obsession?",
-      "url": "https://www.theverge.com/report/958678/apple-consumer-price-increase-ai-big-tech",
-      "source": "The Verge",
-      "publishedAt": "2026-06-27T13:30:00Z",
-      "snippet": "Tim Cook recently said price increases were \"unavoidable\" and described the company's pricing as \"unsustainable.\" The 16-inch MacBook Pro saw its price go up by $300. The 11-inch iPad Air went from $5"
-    },
-    {
-      "title": "Anthropic&#8217;s Mythos 5 is back",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/958458/anthropic-mythos-5-is-back-trump-negotiations",
-      "source": "The Verge",
-      "publishedAt": "2026-06-27T00:33:44Z",
-      "snippet": "After a rollercoaster negotiation process with the Trump administration that dragged on for two weeks, Anthropic's Mythos 5 is finally back in action - at least, somewhat, for a select group of organi"
     }
   ],
   "trending": [
