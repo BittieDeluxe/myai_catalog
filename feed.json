@@ -1,12 +1,26 @@
 {
-  "updated": "2026-06-30T10:53:23Z",
+  "updated": "2026-06-30T14:09:58Z",
   "news": [
+    {
+      "title": "Lumo, Proton\u2019s privacy-focused AI chatbot, gets an upgrade",
+      "url": "https://techcrunch.com/2026/06/30/lumo-protons-privacy-focused-ai-chatbot-gets-an-upgrade/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-30T14:00:00Z",
+      "snippet": "Proton's Lumo 2.0 is dropping this week, giving users a broader variety of capabilities."
+    },
+    {
+      "title": "Meet the lawyer who beat Elon Musk \u2014\u00a0twice",
+      "url": "https://www.theverge.com/column/959270/elon-musk-open-ai-bill-savitt-twitter",
+      "source": "The Verge",
+      "publishedAt": "2026-06-30T12:00:00Z",
+      "snippet": "Watching Elon Musk fulminate at Bill Savitt during Musk v. Altman - the case in which Musk sued Sam Altman and OpenAI instead of seeing a therapist about his AI failures - was a bit like watching a to"
+    },
     {
       "title": "Crypto exchange OKX wants AI agents to hire and pay each other",
       "url": "https://techcrunch.com/2026/06/30/crypto-exchange-okx-wants-ai-agents-to-hire-and-pay-each-other/",
       "source": "TechCrunch",
       "publishedAt": "2026-06-30T09:00:00Z",
-      "snippet": "OKX is bringing together payments, identity and reputation into a marketplace for AI agents."
+      "snippet": "OKX is bringing together payments, identity, and reputation into a marketplace for AI agents."
     },
     {
       "title": "The AI jobs debate just got messier",
@@ -149,13 +163,6 @@
       "snippet": "Margaret Atwood, the storied author of The Handmaid's Tale and The Blind Assassin, was interviewed as part of the Babell Literary and Cultural Festival in Porto, Portugal. As it usually does at these "
     },
     {
-      "title": "Apple Vision Pro exec is reportedly leaving for OpenAI",
-      "url": "https://techcrunch.com/2026/06/27/apple-vision-pro-exec-is-reportedly-leaving-for-openai/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-27T16:45:09Z",
-      "snippet": "Paul Meade, the Apple vice president in charge of the Vision Pro headset, is reportedly leaving the company to join OpenAI\u2019s hardware team."
-    },
-    {
       "title": "Why is Apple asking me to pay more for Big Tech\u2019s AI obsession?",
       "url": "https://www.theverge.com/report/958678/apple-consumer-price-increase-ai-big-tech",
       "source": "The Verge",
@@ -168,13 +175,6 @@
       "source": "The Verge",
       "publishedAt": "2026-06-27T00:33:44Z",
       "snippet": "After a rollercoaster negotiation process with the Trump administration that dragged on for two weeks, Anthropic's Mythos 5 is finally back in action - at least, somewhat, for a select group of organi"
-    },
-    {
-      "title": "OpenAI unveils GPT-5.6 amid US AI regulatory drama",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/957845/openai-gpt-5-6-trump-administration-ai-preview",
-      "source": "The Verge",
-      "publishedAt": "2026-06-26T17:00:00Z",
-      "snippet": "Less than 24 hours after news broke that OpenAI would stagger its next model release at the request of the Trump administration, that model, GPT-5.6, is here. On Friday, the company unveiled the limit"
     }
   ],
   "trending": [
@@ -224,9 +224,9 @@
       "downloads": 253
     },
     {
-      "id": "unsloth/Qwen3.6-27B-MTP-GGUF",
-      "displayName": "Qwen3.6 27B MTP",
-      "downloads": 882121
+      "id": "huihui-ai/Huihui-GLM-5.2-abliterated-GGUF",
+      "displayName": "Huihui GLM 5.2 abliterated",
+      "downloads": 65
     }
   ]
 }
