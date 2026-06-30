@@ -1,6 +1,13 @@
 {
-  "updated": "2026-06-30T07:50:17Z",
+  "updated": "2026-06-30T10:53:23Z",
   "news": [
+    {
+      "title": "Crypto exchange OKX wants AI agents to hire and pay each other",
+      "url": "https://techcrunch.com/2026/06/30/crypto-exchange-okx-wants-ai-agents-to-hire-and-pay-each-other/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-30T09:00:00Z",
+      "snippet": "OKX is bringing together payments, identity and reputation into a marketplace for AI agents."
+    },
     {
       "title": "The AI jobs debate just got messier",
       "url": "https://techcrunch.com/2026/06/29/the-ai-jobs-debate-just-got-messier/",
@@ -23,7 +30,7 @@
       "snippet": "Google is expanding Gemini\u2019s personalized AI image generation to eligible free users in the U.S., allowing the chatbot to create images based on your interests and data from connected Google apps."
     },
     {
-      "title": "Tidal won\u2019t pay royalties on AI-generated music but isn\u2019t banning it outright",
+      "title": "Tidal won\u2019t pay royalties on AI-generated music, but isn\u2019t banning it outright",
       "url": "https://www.theverge.com/tech/959211/tidal-ai-music-policy-demonetizingdetect-label",
       "source": "The Verge",
       "publishedAt": "2026-06-29T19:47:35Z",
@@ -149,13 +156,6 @@
       "snippet": "Paul Meade, the Apple vice president in charge of the Vision Pro headset, is reportedly leaving the company to join OpenAI\u2019s hardware team."
     },
     {
-      "title": "The fittest founder in the room got cancer. Here\u2019s how he used AI to fight back.",
-      "url": "https://techcrunch.com/2026/06/27/the-fittest-founder-in-the-room-got-cancer-heres-how-he-used-ai-to-fight-back/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-27T14:00:00Z",
-      "snippet": "When confronted with cancer, Conno Christou fed everything tied to his regime \u2014 blood results, scan data, wearable output, journal entries \u2014 into Claude."
-    },
-    {
       "title": "Why is Apple asking me to pay more for Big Tech\u2019s AI obsession?",
       "url": "https://www.theverge.com/report/958678/apple-consumer-price-increase-ai-big-tech",
       "source": "The Verge",
@@ -181,52 +181,52 @@
     {
       "id": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
       "displayName": "Qwythos 9B Claude Mythos 5 1M",
-      "downloads": 907682
+      "downloads": 970663
     },
     {
       "id": "deepreinforce-ai/Ornith-1.0-35B-GGUF",
       "displayName": "Ornith 1.0 35B",
-      "downloads": 123598
+      "downloads": 157418
     },
     {
       "id": "yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF",
       "displayName": "gemma 4 12B agentic fable5 composer2.5 v2 3.5x tau2",
-      "downloads": 241409
+      "downloads": 257216
     },
     {
       "id": "deepreinforce-ai/Ornith-1.0-9B-GGUF",
       "displayName": "Ornith 1.0 9B",
-      "downloads": 68667
+      "downloads": 98750
     },
     {
       "id": "yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
       "displayName": "gemma 4 12B coder fable5 composer2.5 v1",
-      "downloads": 561577
+      "downloads": 575255
     },
     {
       "id": "unsloth/GLM-5.2-GGUF",
       "displayName": "GLM 5.2",
-      "downloads": 164180
+      "downloads": 180394
     },
     {
       "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
       "displayName": "Qwen3.6 35B A3B Uncensored HauhauCS Aggressive",
-      "downloads": 3089944
+      "downloads": 3017678
     },
     {
       "id": "unsloth/Qwen-AgentWorld-35B-A3B-GGUF",
       "displayName": "Qwen AgentWorld 35B A3B",
-      "downloads": 116693
+      "downloads": 155333
     },
     {
       "id": "BugTraceAI/BugTraceAI-CORE-Ultra-27B-Q6",
       "displayName": "BugTraceAI CORE Ultra 27B Q6",
-      "downloads": 207
+      "downloads": 253
     },
     {
-      "id": "HauhauCS/Gemma4-12B-QAT-Uncensored-HauhauCS-Balanced",
-      "displayName": "Gemma4 12B QAT Uncensored HauhauCS Balanced",
-      "downloads": 46053
+      "id": "unsloth/Qwen3.6-27B-MTP-GGUF",
+      "displayName": "Qwen3.6 27B MTP",
+      "downloads": 882121
     }
   ]
 }
