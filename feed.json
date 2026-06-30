@@ -1,6 +1,13 @@
 {
-  "updated": "2026-06-30T02:54:46Z",
+  "updated": "2026-06-30T07:50:17Z",
   "news": [
+    {
+      "title": "The AI jobs debate just got messier",
+      "url": "https://techcrunch.com/2026/06/29/the-ai-jobs-debate-just-got-messier/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-30T04:01:00Z",
+      "snippet": "A new report finds \"high-intensity AI adopters\u201d saw headcount increase 10.2%. Among those companies, entry-level headcount rose by 12%, countering the rhetoric that AI kills junior jobs."
+    },
     {
       "title": "Vibe coding platform Base44 launches own model as AI startups seek defensibility",
       "url": "https://techcrunch.com/2026/06/29/vibe-coding-platform-base44-launches-own-model-as-ai-startups-seek-defensibility/",
@@ -156,13 +163,6 @@
       "snippet": "Tim Cook recently said price increases were \"unavoidable\" and described the company's pricing as \"unsustainable.\" The 16-inch MacBook Pro saw its price go up by $300. The 11-inch iPad Air went from $5"
     },
     {
-      "title": "Asian AI startups launch Mythos-like  models as Anthropic\u2019s export ban drags on",
-      "url": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-27T12:00:00Z",
-      "snippet": "New models are launching in Asia that promise Mythos-like capabilities without fear of an export ban. U.S. AI labs may never recover this enormous market."
-    },
-    {
       "title": "Anthropic&#8217;s Mythos 5 is back",
       "url": "https://www.theverge.com/ai-artificial-intelligence/958458/anthropic-mythos-5-is-back-trump-negotiations",
       "source": "The Verge",
@@ -219,14 +219,14 @@
       "downloads": 116693
     },
     {
-      "id": "HauhauCS/Gemma4-12B-QAT-Uncensored-HauhauCS-Balanced",
-      "displayName": "Gemma4 12B QAT Uncensored HauhauCS Balanced",
-      "downloads": 46053
-    },
-    {
       "id": "BugTraceAI/BugTraceAI-CORE-Ultra-27B-Q6",
       "displayName": "BugTraceAI CORE Ultra 27B Q6",
       "downloads": 207
+    },
+    {
+      "id": "HauhauCS/Gemma4-12B-QAT-Uncensored-HauhauCS-Balanced",
+      "displayName": "Gemma4 12B QAT Uncensored HauhauCS Balanced",
+      "downloads": 46053
     }
   ]
 }
