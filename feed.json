@@ -1,12 +1,26 @@
 {
-  "updated": "2026-06-30T21:24:45Z",
+  "updated": "2026-06-30T23:06:59Z",
   "news": [
+    {
+      "title": "OpenClaw is finally available on Android and iOS",
+      "url": "https://techcrunch.com/2026/06/30/openclaw-is-finally-available-on-android-and-ios/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-06-30T21:53:28Z",
+      "snippet": "The free open source agentic program is finally invading your phone."
+    },
     {
       "title": "The DeepMind trio who built a poker AI are now making money for quant hedge funds",
       "url": "https://techcrunch.com/2026/06/30/the-deepmind-trio-who-built-a-poker-ai-are-now-making-money-for-quant-hedge-funds/",
       "source": "TechCrunch",
       "publishedAt": "2026-06-30T20:33:48Z",
       "snippet": "EquiLibre Technologies, a Prague-based AI lab founded by three ex-DeepMind researchers, is now valued at more than $500 million."
+    },
+    {
+      "title": "Google\u2019s NotebookLM can sum up your research in a TikTok-style clip",
+      "url": "https://www.theverge.com/tech/959778/google-notebooklm-ai-clips",
+      "source": "The Verge",
+      "publishedAt": "2026-06-30T19:24:51Z",
+      "snippet": "Google's NotebookLM is adding a new way to catch up on your notes: TikTok-style AI videos. The new feature is rolling out to Google AI Ultra and Pro subscribers, allowing NotebookLM to generate 60-sec"
     },
     {
       "title": "Google introduces a faster, cheaper image generator with Nano Banana 2 Lite",
@@ -37,11 +51,25 @@
       "snippet": "Acti is betting the smartphone keyboard is the next home for AI assistants. The startup's new keyboard for iOS and Android works across apps and lets users create custom AI-powered shortcuts using nat"
     },
     {
+      "title": "Netflix is using an AI-generated Gene Wilder voice in its Willy Wonka reality show",
+      "url": "https://www.theverge.com/streaming/959684/netflix-wonka-golden-ticket-gene-wilder",
+      "source": "The Verge",
+      "publishedAt": "2026-06-30T17:19:15Z",
+      "snippet": "A new teaser trailer confirmed that Wonka's The Golden Ticket will premiere on Netflix on September 23rd, following its Squid Game reality show in the trend of creating real competitions based on fict"
+    },
+    {
       "title": "Anthropic\u2019s Claude Science bets on workflow, not a new model, to win over scientists",
       "url": "https://techcrunch.com/2026/06/30/anthropics-claude-science-bets-on-workflow-not-a-new-model-to-win-over-scientists/",
       "source": "TechCrunch",
       "publishedAt": "2026-06-30T17:00:00Z",
       "snippet": "Anthropic's Claude Science is a workbench that gives scientists one environment to do computational research, saving them from the need to bounce between databases, pipelines, and tools."
+    },
+    {
+      "title": "Libby will filter out AI content, kind of",
+      "url": "https://www.theverge.com/column/959433/libby-ai-filter",
+      "source": "The Verge",
+      "publishedAt": "2026-06-30T15:30:00Z",
+      "snippet": "This is Lowpass by Janko Roettgers, a newsletter on the ever-evolving intersection of tech and entertainment, syndicated just for The Verge subscribers once a week. \"AI is the new frontier for us,\" sa"
     },
     {
       "title": "X now offers an MCP server to make its platform easier for AI tools to use",
@@ -121,13 +149,6 @@
       "snippet": "OpenAI is releasing some sort of device related to its AI-powered coding tool, Codex, on July 15th. In a video posted to X on Monday, OpenAI shows a square-shaped device with several buttons, alongsid"
     },
     {
-      "title": "Anthropic and Gov. Newsom forge deal allowing California government to use Claude at half price",
-      "url": "https://techcrunch.com/2026/06/29/anthropic-and-gov-newsom-forge-deal-allowing-california-government-to-use-claude-at-half-price/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-29T18:10:26Z",
-      "snippet": "As Anthropic forges a closer relationship with the state of California, the federal government has made an enemy out of the OpenAI rival."
-    },
-    {
       "title": "Lawmakers want to ban AI companies from selling your health data",
       "url": "https://www.theverge.com/ai-artificial-intelligence/959033/health-location-data-protection-act-ai-warren-scanlon",
       "source": "The Verge",
@@ -154,27 +175,6 @@
       "source": "The Verge",
       "publishedAt": "2026-06-28T14:12:06Z",
       "snippet": "Jonathan Rinderknecht was facing arson charges for setting a fire on New Year's Day in 2025, which became one of the deadliest wildfires in LA history. To make their case, prosecutors turned to locati"
-    },
-    {
-      "title": "Margaret Atwood says the problem with AI is &#8216;garbage in, garbage out&#8217;",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/958715/margaret-atwood-ai-problem-garbage-in-garbage-out",
-      "source": "The Verge",
-      "publishedAt": "2026-06-27T18:39:32Z",
-      "snippet": "Margaret Atwood, the storied author of The Handmaid's Tale and The Blind Assassin, was interviewed as part of the Babell Literary and Cultural Festival in Porto, Portugal. As it usually does at these "
-    },
-    {
-      "title": "Why is Apple asking me to pay more for Big Tech\u2019s AI obsession?",
-      "url": "https://www.theverge.com/report/958678/apple-consumer-price-increase-ai-big-tech",
-      "source": "The Verge",
-      "publishedAt": "2026-06-27T13:30:00Z",
-      "snippet": "Tim Cook recently said price increases were \"unavoidable\" and described the company's pricing as \"unsustainable.\" The 16-inch MacBook Pro saw its price go up by $300. The 11-inch iPad Air went from $5"
-    },
-    {
-      "title": "Anthropic&#8217;s Mythos 5 is back",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/958458/anthropic-mythos-5-is-back-trump-negotiations",
-      "source": "The Verge",
-      "publishedAt": "2026-06-27T00:33:44Z",
-      "snippet": "After a rollercoaster negotiation process with the Trump administration that dragged on for two weeks, Anthropic's Mythos 5 is finally back in action - at least, somewhat, for a select group of organi"
     }
   ],
   "trending": [
