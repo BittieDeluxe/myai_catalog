@@ -1,6 +1,27 @@
 {
-  "updated": "2026-07-01T16:22:35Z",
+  "updated": "2026-07-01T19:47:35Z",
   "news": [
+    {
+      "title": "SpaceX has an AI device prototype, and it sure sounds phone-ish",
+      "url": "https://techcrunch.com/2026/07/01/spacex-has-an-ai-device-prototype-and-it-sure-sounds-phone-ish/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-07-01T18:54:18Z",
+      "snippet": "SpaceX reportedly showed investors a \"handset-like\" AI device before going public. It could be another signal SpaceX wants to expand into wireless."
+    },
+    {
+      "title": "Ashton Kutcher leaving Sound Ventures to launch new VC firm with Morgan Beller",
+      "url": "https://techcrunch.com/2026/07/01/ashton-kutcher-leaving-sound-ventures-to-launch-new-vc-firm-with-morgan-beller/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-07-01T18:47:22Z",
+      "snippet": "Sound built its reputation on concentrated, high-conviction bets in category-leading AI labs, while Kutcher's new fund appears to be chasing the layer underneath those companies \u2014 the infrastructure a"
+    },
+    {
+      "title": "Cloudflare\u2019s new policy pushes AI companies to pay for publishers\u2019 content",
+      "url": "https://techcrunch.com/2026/07/01/cloudflares-new-policy-pushes-ai-companies-to-pay-for-publishers-content/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-07-01T17:48:37Z",
+      "snippet": "Cloudflare is giving AI companies until September 15 to separate web crawlers used for search from those used for AI training and agents, or risk being blocked by default on many publisher sites."
+    },
     {
       "title": "Venice AI becomes a unicorn with $65M Series A as its privacy-first AI platform takes off",
       "url": "https://techcrunch.com/2026/07/01/venice-ai-becomes-a-unicorn-with-65m-series-a-as-its-privacy-first-ai-platform-takes-off/",
@@ -107,13 +128,6 @@
       "snippet": "Anthropic\u2019s Claude Sonnet 5 brings stronger agentic capabilities, lower pricing, and improved safety, positioning the model as a cheaper alternative to Opus, GPT-5.5, and Gemini Pro."
     },
     {
-      "title": "Acti puts AI agents directly into your smartphone keyboard",
-      "url": "https://techcrunch.com/2026/06/30/acti-puts-ai-agents-directly-into-your-smartphone-keyboard/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-30T17:52:46Z",
-      "snippet": "Acti is betting the smartphone keyboard is the next home for AI assistants. The startup's new keyboard for iOS and Android works across apps and lets users create custom AI-powered shortcuts using nat"
-    },
-    {
       "title": "Netflix is using an AI-generated Gene Wilder voice in its Willy Wonka reality show",
       "url": "https://www.theverge.com/streaming/959684/netflix-wonka-golden-ticket-gene-wilder",
       "source": "The Verge",
@@ -121,25 +135,11 @@
       "snippet": "A new teaser trailer confirmed that Wonka's The Golden Ticket will premiere on Netflix on September 23rd, following its Squid Game reality show in the trend of creating real competitions based on fict"
     },
     {
-      "title": "Anthropic\u2019s Claude Science bets on workflow, not a new model, to win over scientists",
-      "url": "https://techcrunch.com/2026/06/30/anthropics-claude-science-bets-on-workflow-not-a-new-model-to-win-over-scientists/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-30T17:00:00Z",
-      "snippet": "Anthropic's Claude Science is a workbench that gives scientists one environment to do computational research, saving them from the need to bounce between databases, pipelines, and tools."
-    },
-    {
       "title": "Libby will filter out AI content, kind of",
       "url": "https://www.theverge.com/column/959433/libby-ai-filter",
       "source": "The Verge",
       "publishedAt": "2026-06-30T15:30:00Z",
       "snippet": "This is Lowpass by Janko Roettgers, a newsletter on the ever-evolving intersection of tech and entertainment, syndicated just for The Verge subscribers once a week. \"AI is the new frontier for us,\" sa"
-    },
-    {
-      "title": "X now offers an MCP server to make its platform easier for AI tools to use",
-      "url": "https://techcrunch.com/2026/06/30/x-now-offers-an-mcp-server-to-make-its-platform-easier-for-ai-tools-to-use/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-30T15:08:42Z",
-      "snippet": "X has launched a hosted MCP server, making it easier for developers to connect AI applications with the company\u2019s API."
     },
     {
       "title": "Meet the lawyer who beat Elon Musk \u2014\u00a0twice",
@@ -204,14 +204,14 @@
       "downloads": 597090
     },
     {
-      "id": "unsloth/GLM-5.2-GGUF",
-      "displayName": "GLM 5.2",
-      "downloads": 212201
-    },
-    {
       "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
       "displayName": "Qwen3.6 35B A3B Uncensored HauhauCS Aggressive",
       "downloads": 3055962
+    },
+    {
+      "id": "unsloth/GLM-5.2-GGUF",
+      "displayName": "GLM 5.2",
+      "downloads": 212201
     },
     {
       "id": "unsloth/Qwen-AgentWorld-35B-A3B-GGUF",
