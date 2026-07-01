@@ -1,8 +1,8 @@
 {
-  "updated": "2026-07-01T03:24:58Z",
+  "updated": "2026-07-01T08:07:10Z",
   "news": [
     {
-      "title": "The \u201cFather of the Internet\u201d is finally retiring",
+      "title": "The \u2018Father of the Internet\u2019 is finally retiring",
       "url": "https://techcrunch.com/2026/06/30/the-father-of-the-internet-is-finally-retiring/",
       "source": "TechCrunch",
       "publishedAt": "2026-07-01T03:15:37Z",
@@ -13,7 +13,7 @@
       "url": "https://techcrunch.com/2026/06/30/trump-drops-restrictions-on-anthropics-mythos-and-fable-models/",
       "source": "TechCrunch",
       "publishedAt": "2026-07-01T02:16:06Z",
-      "snippet": "Anthropic said it would begin restoring access to the Fable on July 1."
+      "snippet": "The Trump administration's erratic approach to AI policymaking has left companies across the industry with little clarity about what will govern future model releases."
     },
     {
       "title": "Wayve launches $85M employee tender offer at $8.5B valuation",
@@ -27,7 +27,7 @@
       "url": "https://www.theverge.com/ai-artificial-intelligence/958964/anthropic-claude-fable-5-is-back",
       "source": "The Verge",
       "publishedAt": "2026-07-01T00:03:55Z",
-      "snippet": "After weeks of negotiating with the Trump administration, Anthropic is finally going to be able to bring Claude Fable 5 back online. In a post on X, Anthropic said it plans to begin restoring access t"
+      "snippet": "After weeks of negotiating with the Trump administration, Anthropic is finally going to be able to bring Claude Fable 5 back online. In a post on X, Anthropic said it plans to begin restoring access W"
     },
     {
       "title": "OpenClaw is finally available on Android and iOS",
@@ -224,9 +224,9 @@
       "downloads": 65
     },
     {
-      "id": "BugTraceAI/BugTraceAI-CORE-Ultra-27B-Q6",
-      "displayName": "BugTraceAI CORE Ultra 27B Q6",
-      "downloads": 253
+      "id": "Jackrong/Qwopus3.6-35B-A3B-Coder-MTP-GGUF",
+      "displayName": "Qwopus3.6 35B A3B Coder MTP",
+      "downloads": 0
     }
   ]
 }
