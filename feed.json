@@ -1,6 +1,34 @@
 {
-  "updated": "2026-06-30T23:06:59Z",
+  "updated": "2026-07-01T03:24:58Z",
   "news": [
+    {
+      "title": "The \u201cFather of the Internet\u201d is finally retiring",
+      "url": "https://techcrunch.com/2026/06/30/the-father-of-the-internet-is-finally-retiring/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-07-01T03:15:37Z",
+      "snippet": "Vinton Cerf, one of the creators of the protocols underlying the internet, will step down as Google's chief internet evangelist next week."
+    },
+    {
+      "title": "Trump drops restrictions on Anthropic\u2019s Mythos and Fable models",
+      "url": "https://techcrunch.com/2026/06/30/trump-drops-restrictions-on-anthropics-mythos-and-fable-models/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-07-01T02:16:06Z",
+      "snippet": "Anthropic said it would begin restoring access to the Fable on July 1."
+    },
+    {
+      "title": "Wayve launches $85M employee tender offer at $8.5B valuation",
+      "url": "https://techcrunch.com/2026/06/30/wayve-launches-85m-employee-tender-offer-at-8-5b-valuation/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-07-01T02:04:40Z",
+      "snippet": "Wayve\u2019s offering is part of a growing trend of AI startups using employee tenders as a strategic tool to attract and retain talent."
+    },
+    {
+      "title": "Anthropic&#8217;s long-sidelined Fable 5 is greenlit to return",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/958964/anthropic-claude-fable-5-is-back",
+      "source": "The Verge",
+      "publishedAt": "2026-07-01T00:03:55Z",
+      "snippet": "After weeks of negotiating with the Trump administration, Anthropic is finally going to be able to bring Claude Fable 5 back online. In a post on X, Anthropic said it plans to begin restoring access t"
+    },
     {
       "title": "OpenClaw is finally available on Android and iOS",
       "url": "https://techcrunch.com/2026/06/30/openclaw-is-finally-available-on-android-and-ios/",
@@ -114,27 +142,6 @@
       "snippet": "OKX is bringing together payments, identity, and reputation into a marketplace for AI agents."
     },
     {
-      "title": "The AI jobs debate just got messier",
-      "url": "https://techcrunch.com/2026/06/29/the-ai-jobs-debate-just-got-messier/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-30T04:01:00Z",
-      "snippet": "A new report finds \"high-intensity AI adopters\u201d saw headcount increase 10.2%. Among those companies, entry-level headcount rose by 12%, countering the rhetoric that AI kills junior jobs."
-    },
-    {
-      "title": "Vibe-coding platform Base44 launches own model as AI startups seek defensibility",
-      "url": "https://techcrunch.com/2026/06/29/vibe-coding-platform-base44-launches-own-model-as-ai-startups-seek-defensibility/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-30T02:28:41Z",
-      "snippet": "Wix-owned vibe-coding platform Base44 has started rolling out its own AI model \u2014 with hopes that it will eventually outperform frontier models."
-    },
-    {
-      "title": "Gemini\u2019s personalized AI image generation is now free for US users",
-      "url": "https://techcrunch.com/2026/06/29/geminis-personalized-ai-image-generation-is-now-free-for-u-s-users/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-29T20:12:59Z",
-      "snippet": "Google is expanding Gemini\u2019s personalized AI image generation to eligible free users in the U.S., allowing the chatbot to create images based on your interests and data from connected Google apps."
-    },
-    {
       "title": "Tidal won\u2019t pay royalties on AI-generated music, but isn\u2019t banning it outright",
       "url": "https://www.theverge.com/tech/959211/tidal-ai-music-policy-demonetizingdetect-label",
       "source": "The Verge",
@@ -168,13 +175,6 @@
       "source": "The Verge",
       "publishedAt": "2026-06-28T20:27:36Z",
       "snippet": "Suno has ambitions to be more than just a toy to churn out AI slop, it also wants to be a streaming destination and to break new artists. Spark is their new incubator program for independent artists t"
-    },
-    {
-      "title": "Prosecutors used ChatGPT logs as evidence in the Palisades fire trial",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/958751/prosecutors-chatgpt-palisades-wildfire-arson-mistrial",
-      "source": "The Verge",
-      "publishedAt": "2026-06-28T14:12:06Z",
-      "snippet": "Jonathan Rinderknecht was facing arson charges for setting a fire on New Year's Day in 2025, which became one of the deadliest wildfires in LA history. To make their case, prosecutors turned to locati"
     }
   ],
   "trending": [
