@@ -1,6 +1,41 @@
 {
-  "updated": "2026-07-01T12:30:48Z",
+  "updated": "2026-07-01T16:22:35Z",
   "news": [
+    {
+      "title": "Venice AI becomes a unicorn with $65M Series A as its privacy-first AI platform takes off",
+      "url": "https://techcrunch.com/2026/07/01/venice-ai-becomes-a-unicorn-with-65m-series-a-as-its-privacy-first-ai-platform-takes-off/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-07-01T14:25:23Z",
+      "snippet": "Venice AI is already profitable, with annualized run-rate revenues of over $70 million, CEO Erik Voorhees said."
+    },
+    {
+      "title": "Gemini Spark, Google\u2019s agentic assistant, is now available on Mac",
+      "url": "https://techcrunch.com/2026/07/01/gemini-spark-googles-agentic-assistant-is-now-available-on-mac/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-07-01T14:20:19Z",
+      "snippet": "Google's 24/7 agentic assistant, Gemini Spark, comes to Mac alongside other improvements, like real-time tracking and support for more apps."
+    },
+    {
+      "title": "Builders Stage agenda revealed: Practical strategies for scaling startups at TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/07/01/builders-stage-agenda-revealed-practical-strategies-for-scaling-startups-at-techcrunch-disrupt-2026/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-07-01T14:00:00Z",
+      "snippet": "The Builders Stage is returning to TechCrunch Disrupt 2026, bringing together 10,000+ founders, startup operators, and investors for practical conversations. and Q&#038;A on what it takes to build and"
+    },
+    {
+      "title": "Meta, like SpaceX, looks to turn excess AI compute into cash",
+      "url": "https://techcrunch.com/2026/07/01/meta-like-spacex-looks-to-turn-excess-ai-compute-into-cash/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-07-01T13:43:07Z",
+      "snippet": "Meta is developing plans for a cloud infrastructure business, selling access to AI compute power and models. The move would pit it against the big cloud providers like Amazon Web Services, Google Clou"
+    },
+    {
+      "title": "Google built a great smart speaker, but Gemini isn\u2019t ready for it",
+      "url": "https://www.theverge.com/tech/959503/google-home-speaker-review-gemini-for-home",
+      "source": "The Verge",
+      "publishedAt": "2026-07-01T12:00:00Z",
+      "snippet": "Smart speakers have spent the past few years searching for a compelling second act. Beyond music, timers, and controlling your lights, they've struggled to justify taking up space on the kitchen count"
+    },
     {
       "title": "The \u2018Father of the Internet\u2019 is finally retiring",
       "url": "https://techcrunch.com/2026/06/30/the-father-of-the-internet-is-finally-retiring/",
@@ -107,39 +142,11 @@
       "snippet": "X has launched a hosted MCP server, making it easier for developers to connect AI applications with the company\u2019s API."
     },
     {
-      "title": "Podcasting platform Riverside enters the newsletter publishing game",
-      "url": "https://techcrunch.com/2026/06/30/podcasting-platform-riverside-enters-the-newsletter-publishing-game/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-30T15:00:00Z",
-      "snippet": "Users will be able use AI to create newsletters based on their recordings."
-    },
-    {
-      "title": "Amazon launches new $1 billion FDE org, following OpenAI and Anthropic",
-      "url": "https://techcrunch.com/2026/06/30/amazon-launches-new-1-billion-fde-org-following-openai-and-anthropic/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-30T15:00:00Z",
-      "snippet": "Engineers on the new team will embed within companies to deploy purpose-built agents, focusing on fast deployments and customer self-sufficiency."
-    },
-    {
-      "title": "Lumo, Proton\u2019s privacy-focused AI chatbot, gets an upgrade",
-      "url": "https://techcrunch.com/2026/06/30/lumo-protons-privacy-focused-ai-chatbot-gets-an-upgrade/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-30T14:00:00Z",
-      "snippet": "Proton's Lumo 2.0 is dropping this week, giving users a broader variety of capabilities."
-    },
-    {
       "title": "Meet the lawyer who beat Elon Musk \u2014\u00a0twice",
       "url": "https://www.theverge.com/column/959270/elon-musk-open-ai-bill-savitt-twitter",
       "source": "The Verge",
       "publishedAt": "2026-06-30T12:00:00Z",
       "snippet": "Watching Elon Musk fulminate at Bill Savitt during Musk v. Altman - the case in which Musk sued Sam Altman and OpenAI instead of seeing a therapist about his AI failures - was a bit like watching a to"
-    },
-    {
-      "title": "Crypto exchange OKX wants AI agents to hire and pay each other",
-      "url": "https://techcrunch.com/2026/06/30/crypto-exchange-okx-wants-ai-agents-to-hire-and-pay-each-other/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-30T09:00:00Z",
-      "snippet": "OKX is bringing together payments, identity, and reputation into a marketplace for AI agents."
     },
     {
       "title": "Tidal won\u2019t pay royalties on AI-generated music, but isn\u2019t banning it outright",
@@ -168,13 +175,6 @@
       "source": "The Verge",
       "publishedAt": "2026-06-28T21:42:51Z",
       "snippet": "China's Zhipu AI (Z.ai) released its open-weight GLM-5.2, and some researchers have claimed that it matches Mythos in certain bug-finding and cybersecurity scenarios. While GLM lags behind models from"
-    },
-    {
-      "title": "Suno launches Spark incubator program to feed independent artists to its AI machine",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/958801/suno-launches-spark-incubator-program-to-feed-independent-artists-to-its-ai-machine",
-      "source": "The Verge",
-      "publishedAt": "2026-06-28T20:27:36Z",
-      "snippet": "Suno has ambitions to be more than just a toy to churn out AI slop, it also wants to be a streaming destination and to break new artists. Spark is their new incubator program for independent artists t"
     }
   ],
   "trending": [
