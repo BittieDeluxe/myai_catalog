@@ -1,6 +1,20 @@
 {
-  "updated": "2026-07-02T13:49:30Z",
+  "updated": "2026-07-02T16:02:34Z",
   "news": [
+    {
+      "title": "OpenAI proposed donating 5% of its equity to a US sovereign wealth fund",
+      "url": "https://techcrunch.com/2026/07/02/openai-proposed-donating-5-of-its-equity-to-a-us-sovereign-wealth-fund/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-07-02T15:20:51Z",
+      "snippet": "OpenAI CEO Sam Altman has reportedly proposed giving 5% of the company\u2019s equity to a U.S. sovereign wealth fund, reviving discussions about letting the public share in the financial gains from the AI "
+    },
+    {
+      "title": "Microsoft launches its own AI deployment company with $2.5 billion commitment",
+      "url": "https://techcrunch.com/2026/07/02/microsoft-launches-its-own-ai-deployment-company-with-2-5-billion-commitment/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-07-02T13:53:00Z",
+      "snippet": "Microsoft follows Amazon, OpenAI, and Anthropic with its new AI deployment group."
+    },
     {
       "title": "Yep, we\u2019re using OpenClaw to date now",
       "url": "https://techcrunch.com/2026/07/02/yep-were-using-openclaw-to-date-now/",
@@ -114,25 +128,11 @@
       "snippet": "The free open source agentic program is finally invading your phone."
     },
     {
-      "title": "The DeepMind trio who built a poker AI are now making money for quant hedge funds",
-      "url": "https://techcrunch.com/2026/06/30/the-deepmind-trio-who-built-a-poker-ai-are-now-making-money-for-quant-hedge-funds/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-30T20:33:48Z",
-      "snippet": "EquiLibre Technologies, a Prague-based AI lab founded by three ex-DeepMind researchers, is now valued at more than $500 million."
-    },
-    {
       "title": "Google\u2019s NotebookLM can sum up your research in a TikTok-style clip",
       "url": "https://www.theverge.com/tech/959778/google-notebooklm-ai-clips",
       "source": "The Verge",
       "publishedAt": "2026-06-30T19:24:51Z",
       "snippet": "Google's NotebookLM is adding a new way to catch up on your notes: TikTok-style AI videos. The new feature is rolling out to Google AI Ultra and Pro subscribers, allowing NotebookLM to generate 60-sec"
-    },
-    {
-      "title": "Google introduces a faster, cheaper image generator with Nano Banana 2 Lite",
-      "url": "https://techcrunch.com/2026/06/30/google-introduces-a-faster-cheaper-image-generator-with-nano-banana-2-lite/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-06-30T19:02:38Z",
-      "snippet": "Google is updating its image generator to make it faster and cheaper, making it a more useful tool for creators looking to make AI content."
     },
     {
       "title": "Netflix is using an AI-generated Gene Wilder voice in its Willy Wonka reality show",
@@ -214,19 +214,19 @@
       "downloads": 2592
     },
     {
-      "id": "BugTraceAI/BugTraceAI-CORE-Ultra-27B-Q6",
-      "displayName": "BugTraceAI CORE Ultra 27B Q6",
-      "downloads": 8037
-    },
-    {
       "id": "Jackrong/Qwopus3.6-35B-A3B-Coder-MTP-GGUF",
       "displayName": "Qwopus3.6 35B A3B Coder MTP",
       "downloads": 29589
     },
     {
-      "id": "unsloth/Qwen-AgentWorld-35B-A3B-GGUF",
-      "displayName": "Qwen AgentWorld 35B A3B",
-      "downloads": 227332
+      "id": "BugTraceAI/BugTraceAI-CORE-Ultra-27B-Q6",
+      "displayName": "BugTraceAI CORE Ultra 27B Q6",
+      "downloads": 8037
+    },
+    {
+      "id": "unsloth/GLM-5.2-GGUF",
+      "displayName": "GLM 5.2",
+      "downloads": 239283
     }
   ]
 }
