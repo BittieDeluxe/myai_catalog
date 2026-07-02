@@ -1,6 +1,13 @@
 {
-  "updated": "2026-07-02T07:26:43Z",
+  "updated": "2026-07-02T10:33:19Z",
   "news": [
+    {
+      "title": "OpenAI floats giving Trump administration 5 percent cut of AI boom",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/960588/openai-government-5-percent-stake-trump",
+      "source": "The Verge",
+      "publishedAt": "2026-07-02T10:23:27Z",
+      "snippet": "OpenAI has floated giving the US government a 5 percent ownership stake as a way of easing tensions with the Trump administration and blunting mounting public backlash against AI, according to the Fin"
+    },
     {
       "title": "Indian tech tycoon bets $30M of his own money to build AI alternative to Microsoft Office",
       "url": "https://techcrunch.com/2026/07/01/indian-tech-tycoon-bets-30m-to-build-an-ai-alternative-to-microsoft-office/",
@@ -168,65 +175,58 @@
       "source": "The Verge",
       "publishedAt": "2026-06-29T16:00:00Z",
       "snippet": "A new proposal would ban the sale of Americans' health and location information to data brokers - including information people reveal to an AI chatbot like ChatGPT or Claude. In the coming weeks, Sena"
-    },
-    {
-      "title": "China\u2019s Z.ai claims it can match Mythos on cybersecurity",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/958804/chinas-z-ai-glm-52-mythos-cybersecurity",
-      "source": "The Verge",
-      "publishedAt": "2026-06-28T21:42:51Z",
-      "snippet": "China's Zhipu AI (Z.ai) released its open-weight GLM-5.2, and some researchers have claimed that it matches Mythos in certain bug-finding and cybersecurity scenarios. While GLM lags behind models from"
     }
   ],
   "trending": [
     {
       "id": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
       "displayName": "Qwythos 9B Claude Mythos 5 1M",
-      "downloads": 1113871
+      "downloads": 1250562
     },
     {
       "id": "deepreinforce-ai/Ornith-1.0-35B-GGUF",
       "displayName": "Ornith 1.0 35B",
-      "downloads": 233701
+      "downloads": 284585
     },
     {
       "id": "deepreinforce-ai/Ornith-1.0-9B-GGUF",
       "displayName": "Ornith 1.0 9B",
-      "downloads": 191409
+      "downloads": 255123
     },
     {
       "id": "yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF",
       "displayName": "gemma 4 12B agentic fable5 composer2.5 v2 3.5x tau2",
-      "downloads": 288741
+      "downloads": 314374
     },
     {
       "id": "yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
       "displayName": "gemma 4 12B coder fable5 composer2.5 v1",
-      "downloads": 597090
+      "downloads": 614069
     },
     {
       "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
       "displayName": "Qwen3.6 35B A3B Uncensored HauhauCS Aggressive",
-      "downloads": 3055962
+      "downloads": 3078904
     },
     {
       "id": "huihui-ai/Huihui-GLM-5.2-abliterated-GGUF",
       "displayName": "Huihui GLM 5.2 abliterated",
-      "downloads": 901
+      "downloads": 2592
     },
     {
       "id": "unsloth/GLM-5.2-GGUF",
       "displayName": "GLM 5.2",
-      "downloads": 212201
+      "downloads": 239283
     },
     {
       "id": "unsloth/Qwen-AgentWorld-35B-A3B-GGUF",
       "displayName": "Qwen AgentWorld 35B A3B",
-      "downloads": 196441
+      "downloads": 227332
     },
     {
       "id": "Jackrong/Qwopus3.6-35B-A3B-Coder-MTP-GGUF",
       "displayName": "Qwopus3.6 35B A3B Coder MTP",
-      "downloads": 12635
+      "downloads": 29589
     }
   ]
 }
