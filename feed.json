@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-03T06:57:53Z",
+  "updated": "2026-07-03T10:31:07Z",
   "news": [
     {
       "title": "Mark Zuckerberg tells staff that AI agents haven\u2019t progressed as quickly as he\u2019d hoped",
@@ -181,52 +181,52 @@
     {
       "id": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
       "displayName": "Qwythos 9B Claude Mythos 5 1M",
-      "downloads": 1250562
+      "downloads": 1366360
     },
     {
       "id": "deepreinforce-ai/Ornith-1.0-35B-GGUF",
       "displayName": "Ornith 1.0 35B",
-      "downloads": 284585
+      "downloads": 322780
     },
     {
       "id": "deepreinforce-ai/Ornith-1.0-9B-GGUF",
       "displayName": "Ornith 1.0 9B",
-      "downloads": 255123
+      "downloads": 287942
     },
     {
       "id": "yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF",
       "displayName": "gemma 4 12B agentic fable5 composer2.5 v2 3.5x tau2",
-      "downloads": 314374
+      "downloads": 329391
     },
     {
       "id": "yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
       "displayName": "gemma 4 12B coder fable5 composer2.5 v1",
-      "downloads": 614069
+      "downloads": 628225
     },
     {
       "id": "huihui-ai/Huihui-GLM-5.2-abliterated-GGUF",
       "displayName": "Huihui GLM 5.2 abliterated",
-      "downloads": 2592
+      "downloads": 3683
     },
     {
       "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
       "displayName": "Qwen3.6 35B A3B Uncensored HauhauCS Aggressive",
-      "downloads": 3078904
+      "downloads": 3029679
     },
     {
       "id": "Jackrong/Qwopus3.6-35B-A3B-Coder-MTP-GGUF",
       "displayName": "Qwopus3.6 35B A3B Coder MTP",
-      "downloads": 29589
+      "downloads": 44807
     },
     {
       "id": "BugTraceAI/BugTraceAI-CORE-Ultra-27B-Q6",
       "displayName": "BugTraceAI CORE Ultra 27B Q6",
-      "downloads": 8037
+      "downloads": 11444
     },
     {
       "id": "unsloth/GLM-5.2-GGUF",
       "displayName": "GLM 5.2",
-      "downloads": 239283
+      "downloads": 264552
     }
   ]
 }
