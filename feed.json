@@ -1,6 +1,13 @@
 {
-  "updated": "2026-07-03T13:53:27Z",
+  "updated": "2026-07-03T15:51:14Z",
   "news": [
+    {
+      "title": "Anthropic wants to develop its own drugs",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/961311/anthropic-claude-science-ai-drug-development",
+      "source": "The Verge",
+      "publishedAt": "2026-07-03T13:56:52Z",
+      "snippet": "At the event \"The Briefing: AI for Science\" earlier this week, Anthropic announced Claude Science, a new \"AI workbench for scientists\" that pulls fragmented tools and datasets into one environment, an"
+    },
     {
       "title": "A behind-the-scenes look at Midjourney\u2019s medical scanner leaves many questions unanswered",
       "url": "https://www.theverge.com/ai-artificial-intelligence/961265/midjourney-medical-ultrasound-scanner-behind-the-scenes-video",
@@ -168,13 +175,6 @@
       "source": "The Verge",
       "publishedAt": "2026-06-29T19:47:35Z",
       "snippet": "Tidal shared its new policies regarding AI-generated music today and how the platform plans to \"protect artists\" and \"inform listeners.\" Instead of banning it outright, starting on July 15th Tidal wil"
-    },
-    {
-      "title": "OpenAI is teasing new hardware\u2026 for Codex",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/959174/openai-codex-hardware-work-louder",
-      "source": "The Verge",
-      "publishedAt": "2026-06-29T18:52:03Z",
-      "snippet": "OpenAI is releasing some sort of device related to its AI-powered coding tool, Codex, on July 15th. In a video posted to X on Monday, OpenAI shows a square-shaped device with several buttons, alongsid"
     }
   ],
   "trending": [
@@ -189,14 +189,14 @@
       "downloads": 322780
     },
     {
-      "id": "deepreinforce-ai/Ornith-1.0-9B-GGUF",
-      "displayName": "Ornith 1.0 9B",
-      "downloads": 287942
-    },
-    {
       "id": "yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF",
       "displayName": "gemma 4 12B agentic fable5 composer2.5 v2 3.5x tau2",
       "downloads": 329391
+    },
+    {
+      "id": "deepreinforce-ai/Ornith-1.0-9B-GGUF",
+      "displayName": "Ornith 1.0 9B",
+      "downloads": 287942
     },
     {
       "id": "yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
