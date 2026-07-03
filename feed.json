@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-03T19:13:16Z",
+  "updated": "2026-07-03T20:59:46Z",
   "news": [
     {
       "title": "The browser wars aren\u2019t about search anymore \u2014 here are the best alternatives to Chrome and Safari",
@@ -224,9 +224,9 @@
       "downloads": 11444
     },
     {
-      "id": "unsloth/GLM-5.2-GGUF",
-      "displayName": "GLM 5.2",
-      "downloads": 264552
+      "id": "unsloth/Qwen3.6-27B-MTP-GGUF",
+      "displayName": "Qwen3.6 27B MTP",
+      "downloads": 1774298
     }
   ]
 }
