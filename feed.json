@@ -1,6 +1,13 @@
 {
-  "updated": "2026-07-03T10:31:07Z",
+  "updated": "2026-07-03T13:53:27Z",
   "news": [
+    {
+      "title": "A behind-the-scenes look at Midjourney\u2019s medical scanner leaves many questions unanswered",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/961265/midjourney-medical-ultrasound-scanner-behind-the-scenes-video",
+      "source": "The Verge",
+      "publishedAt": "2026-07-03T11:49:10Z",
+      "snippet": "Midjourney has shown more of its futuristic medical scanner. It still hasn't shown much proof it works. The AI startup, best known for generating images, released a behind-the-scenes video of its dunk"
+    },
     {
       "title": "Mark Zuckerberg tells staff that AI agents haven\u2019t progressed as quickly as he\u2019d hoped",
       "url": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/",
@@ -168,13 +175,6 @@
       "source": "The Verge",
       "publishedAt": "2026-06-29T18:52:03Z",
       "snippet": "OpenAI is releasing some sort of device related to its AI-powered coding tool, Codex, on July 15th. In a video posted to X on Monday, OpenAI shows a square-shaped device with several buttons, alongsid"
-    },
-    {
-      "title": "Lawmakers want to ban AI companies from selling your health data",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/959033/health-location-data-protection-act-ai-warren-scanlon",
-      "source": "The Verge",
-      "publishedAt": "2026-06-29T16:00:00Z",
-      "snippet": "A new proposal would ban the sale of Americans' health and location information to data brokers - including information people reveal to an AI chatbot like ChatGPT or Claude. In the coming weeks, Sena"
     }
   ],
   "trending": [
