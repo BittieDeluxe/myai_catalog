@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-04T06:43:52Z",
+  "updated": "2026-07-04T10:04:47Z",
   "news": [
     {
       "title": "The only AI glossary you\u2019ll need this year",
@@ -181,52 +181,52 @@
     {
       "id": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
       "displayName": "Qwythos 9B Claude Mythos 5 1M",
-      "downloads": 1366360
+      "downloads": 1464047
     },
     {
       "id": "deepreinforce-ai/Ornith-1.0-35B-GGUF",
       "displayName": "Ornith 1.0 35B",
-      "downloads": 322780
+      "downloads": 359659
     },
     {
       "id": "yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF",
       "displayName": "gemma 4 12B agentic fable5 composer2.5 v2 3.5x tau2",
-      "downloads": 329391
+      "downloads": 342752
     },
     {
       "id": "deepreinforce-ai/Ornith-1.0-9B-GGUF",
       "displayName": "Ornith 1.0 9B",
-      "downloads": 287942
+      "downloads": 320660
     },
     {
       "id": "yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
       "displayName": "gemma 4 12B coder fable5 composer2.5 v1",
-      "downloads": 628225
-    },
-    {
-      "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
-      "displayName": "Qwen3.6 35B A3B Uncensored HauhauCS Aggressive",
-      "downloads": 3029679
+      "downloads": 641260
     },
     {
       "id": "huihui-ai/Huihui-GLM-5.2-abliterated-GGUF",
       "displayName": "Huihui GLM 5.2 abliterated",
-      "downloads": 3683
+      "downloads": 4701
+    },
+    {
+      "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
+      "displayName": "Qwen3.6 35B A3B Uncensored HauhauCS Aggressive",
+      "downloads": 2993053
     },
     {
       "id": "Jackrong/Qwopus3.6-35B-A3B-Coder-MTP-GGUF",
       "displayName": "Qwopus3.6 35B A3B Coder MTP",
-      "downloads": 44807
+      "downloads": 59971
     },
     {
       "id": "BugTraceAI/BugTraceAI-CORE-Ultra-27B-Q6",
       "displayName": "BugTraceAI CORE Ultra 27B Q6",
-      "downloads": 11444
+      "downloads": 12001
     },
     {
       "id": "unsloth/Qwen3.6-27B-MTP-GGUF",
       "displayName": "Qwen3.6 27B MTP",
-      "downloads": 1774298
+      "downloads": 2752390
     }
   ]
 }
