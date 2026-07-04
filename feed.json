@@ -1,6 +1,13 @@
 {
-  "updated": "2026-07-04T10:04:47Z",
+  "updated": "2026-07-04T13:15:01Z",
   "news": [
+    {
+      "title": "The fanfiction community is at war with AI \u2014 and itself",
+      "url": "https://www.theverge.com/tech/960854/ai-fanfiction-ao3-claude-detector",
+      "source": "The Verge",
+      "publishedAt": "2026-07-04T12:00:00Z",
+      "snippet": "Over the past week, a new fanworks movement has kicked off, with the aim to root out authors using generative AI. But the detection methods being implemented are questionable, and any fanfic writer co"
+    },
     {
       "title": "The only AI glossary you\u2019ll need this year",
       "url": "https://techcrunch.com/2026/07/03/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
@@ -168,13 +175,6 @@
       "source": "The Verge",
       "publishedAt": "2026-06-30T12:00:00Z",
       "snippet": "Watching Elon Musk fulminate at Bill Savitt during Musk v. Altman - the case in which Musk sued Sam Altman and OpenAI instead of seeing a therapist about his AI failures - was a bit like watching a to"
-    },
-    {
-      "title": "Tidal won\u2019t pay royalties on AI-generated music, but isn\u2019t banning it outright",
-      "url": "https://www.theverge.com/tech/959211/tidal-ai-music-policy-demonetizingdetect-label",
-      "source": "The Verge",
-      "publishedAt": "2026-06-29T19:47:35Z",
-      "snippet": "Tidal shared its new policies regarding AI-generated music today and how the platform plans to \"protect artists\" and \"inform listeners.\" Instead of banning it outright, starting on July 15th Tidal wil"
     }
   ],
   "trending": [
