@@ -1,6 +1,13 @@
 {
-  "updated": "2026-07-04T16:59:43Z",
+  "updated": "2026-07-04T19:04:13Z",
   "news": [
+    {
+      "title": "Midjourney wants Hollywood studios to reveal the details of their AI usage",
+      "url": "https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-07-04T18:00:05Z",
+      "snippet": "As part of an ongoing legal dispute with three Hollywood studios, Midjourney is seeking to compel those studios to reveal how they use AI themselves."
+    },
     {
       "title": "Alibaba reportedly bans employees from using Claude Code",
       "url": "https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/",
@@ -126,13 +133,6 @@
       "source": "TechCrunch",
       "publishedAt": "2026-07-01T18:47:22Z",
       "snippet": "Sound built its reputation on concentrated, high-conviction bets in category-leading AI labs, while Kutcher's new fund appears to be chasing the layer underneath those companies \u2014 the infrastructure a"
-    },
-    {
-      "title": "Cloudflare\u2019s new policy pushes AI companies to pay for publishers\u2019 content",
-      "url": "https://techcrunch.com/2026/07/01/cloudflares-new-policy-pushes-ai-companies-to-pay-for-publishers-content/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-07-01T17:48:37Z",
-      "snippet": "Cloudflare is giving AI companies until September 15 to separate web crawlers used for search from those used for AI training and agents, or risk being blocked by default on many publisher sites."
     },
     {
       "title": "Google built a great smart speaker, but Gemini isn\u2019t ready for it",
