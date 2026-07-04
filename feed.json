@@ -1,6 +1,20 @@
 {
-  "updated": "2026-07-04T15:02:01Z",
+  "updated": "2026-07-04T16:59:43Z",
   "news": [
+    {
+      "title": "Alibaba reportedly bans employees from using Claude Code",
+      "url": "https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-07-04T16:32:08Z",
+      "snippet": "Alibaba has reportedly classified Claude Code as high-risk software."
+    },
+    {
+      "title": "What is Mistral AI? Everything to know about the OpenAI competitor",
+      "url": "https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-07-04T15:51:32Z",
+      "snippet": "Mistral AI, which offers some open source AI models, has raised significant funding since its creation in 2023, with the ambition to \u201cput frontier AI in the hands of everyone.\u201d"
+    },
     {
       "title": "The fanfiction community is at war with AI \u2014 and itself",
       "url": "https://www.theverge.com/tech/960854/ai-fanfiction-ao3-claude-detector",
@@ -121,20 +135,6 @@
       "snippet": "Cloudflare is giving AI companies until September 15 to separate web crawlers used for search from those used for AI training and agents, or risk being blocked by default on many publisher sites."
     },
     {
-      "title": "Venice AI becomes a unicorn with $65M Series A as its privacy-first AI platform takes off",
-      "url": "https://techcrunch.com/2026/07/01/venice-ai-becomes-a-unicorn-with-65m-series-a-as-its-privacy-first-ai-platform-takes-off/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-07-01T14:25:23Z",
-      "snippet": "Venice AI is already profitable, with annualized run-rate revenues of over $70 million, CEO Erik Voorhees said."
-    },
-    {
-      "title": "Gemini Spark, Google\u2019s agentic assistant, is now available on Mac",
-      "url": "https://techcrunch.com/2026/07/01/gemini-spark-googles-agentic-assistant-is-now-available-on-mac/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-07-01T14:20:19Z",
-      "snippet": "Google's 24/7 agentic assistant, Gemini Spark, comes to Mac alongside other improvements, like real-time tracking and support for more apps."
-    },
-    {
       "title": "Google built a great smart speaker, but Gemini isn\u2019t ready for it",
       "url": "https://www.theverge.com/tech/959503/google-home-speaker-review-gemini-for-home",
       "source": "The Verge",
@@ -199,11 +199,6 @@
       "downloads": 320660
     },
     {
-      "id": "yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
-      "displayName": "gemma 4 12B coder fable5 composer2.5 v1",
-      "downloads": 641260
-    },
-    {
       "id": "huihui-ai/Huihui-GLM-5.2-abliterated-GGUF",
       "displayName": "Huihui GLM 5.2 abliterated",
       "downloads": 4701
@@ -212,6 +207,11 @@
       "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
       "displayName": "Qwen3.6 35B A3B Uncensored HauhauCS Aggressive",
       "downloads": 2993053
+    },
+    {
+      "id": "yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
+      "displayName": "gemma 4 12B coder fable5 composer2.5 v1",
+      "downloads": 641260
     },
     {
       "id": "Jackrong/Qwopus3.6-35B-A3B-Coder-MTP-GGUF",
