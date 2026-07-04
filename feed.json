@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-03T22:57:57Z",
+  "updated": "2026-07-04T02:31:12Z",
   "news": [
     {
       "title": "The only AI glossary you\u2019ll need this year",
@@ -204,14 +204,14 @@
       "downloads": 628225
     },
     {
-      "id": "huihui-ai/Huihui-GLM-5.2-abliterated-GGUF",
-      "displayName": "Huihui GLM 5.2 abliterated",
-      "downloads": 3683
-    },
-    {
       "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
       "displayName": "Qwen3.6 35B A3B Uncensored HauhauCS Aggressive",
       "downloads": 3029679
+    },
+    {
+      "id": "huihui-ai/Huihui-GLM-5.2-abliterated-GGUF",
+      "displayName": "Huihui GLM 5.2 abliterated",
+      "downloads": 3683
     },
     {
       "id": "Jackrong/Qwopus3.6-35B-A3B-Coder-MTP-GGUF",
