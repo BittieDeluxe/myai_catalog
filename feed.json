@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-05T10:07:34Z",
+  "updated": "2026-07-05T13:21:56Z",
   "news": [
     {
       "title": "New Google commercial imagines a Declaration of Independence written with help from AI",
@@ -209,11 +209,6 @@
       "downloads": 3018257
     },
     {
-      "id": "yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
-      "displayName": "gemma 4 12B coder fable5 composer2.5 v1",
-      "downloads": 651758
-    },
-    {
       "id": "Jackrong/Qwopus3.6-35B-A3B-Coder-MTP-GGUF",
       "displayName": "Qwopus3.6 35B A3B Coder MTP",
       "downloads": 84951
@@ -222,6 +217,11 @@
       "id": "BugTraceAI/BugTraceAI-CORE-Ultra-27B-Q6",
       "displayName": "BugTraceAI CORE Ultra 27B Q6",
       "downloads": 12196
+    },
+    {
+      "id": "yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
+      "displayName": "gemma 4 12B coder fable5 composer2.5 v1",
+      "downloads": 651758
     },
     {
       "id": "unsloth/Qwen3.6-27B-MTP-GGUF",
