@@ -1,6 +1,13 @@
 {
-  "updated": "2026-07-05T17:04:25Z",
+  "updated": "2026-07-05T19:10:31Z",
   "news": [
+    {
+      "title": "Amazon will stop accepting new customers for Mechanical Turk",
+      "url": "https://techcrunch.com/2026/07/05/amazon-will-stop-accepting-new-customers-for-mechanical-turk/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-07-05T17:43:36Z",
+      "snippet": "These may be the last days of Amazon\u2019s Mechanical Turk."
+    },
     {
       "title": "Infuriating Google commercial imagines the founding fathers embracing AI",
       "url": "https://www.theverge.com/ai-artificial-intelligence/961468/google-ai-commercial-founding-fathers-declaration-of-independence",
@@ -133,13 +140,6 @@
       "source": "TechCrunch",
       "publishedAt": "2026-07-02T05:30:00Z",
       "snippet": "Neo is Bhavin Turakhia\u2019s fifth venture and his latest involving enterprise software. This time he's taking on Microsoft Office and Google Apps with AI."
-    },
-    {
-      "title": "SpaceX has an AI device prototype, and it sure sounds phone-ish",
-      "url": "https://techcrunch.com/2026/07/01/spacex-has-an-ai-device-prototype-and-it-sure-sounds-phone-ish/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-07-01T18:54:18Z",
-      "snippet": "SpaceX reportedly showed investors a \"handset-like\" AI device before going public. It could be another signal SpaceX wants to expand into wireless."
     },
     {
       "title": "Google built a great smart speaker, but Gemini isn\u2019t ready for it",
