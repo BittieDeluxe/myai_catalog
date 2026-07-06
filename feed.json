@@ -1,6 +1,20 @@
 {
-  "updated": "2026-07-06T13:41:06Z",
+  "updated": "2026-07-06T16:49:27Z",
   "news": [
+    {
+      "title": "I spy",
+      "url": "https://www.theverge.com/column/961707/smart-glasses-ai-wearables-meta-surveillance-privacy",
+      "source": "The Verge",
+      "publishedAt": "2026-07-06T16:00:00Z",
+      "snippet": "I've long argued that Hollywood has simultaneously set and ruined our expectations for smart glasses. But after binge-watching two seasons of Netflix's A Man on the Inside, this is perhaps the first t"
+    },
+    {
+      "title": "Microsoft lays off nearly 5,000 employees across Xbox, commercial sales",
+      "url": "https://techcrunch.com/2026/07/06/microsoft-lays-off-nearly-5000-employees-across-xbox-commercial-sales/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-07-06T15:32:43Z",
+      "snippet": "Microsoft cut around 4,800 roles, or 2.1% of its global workforce, on Monday \u2014 the latest in a series of layoffs that\u2019s stoking fears of AI replacing jobs.\u00a0The layoffs will hit Xbox and commercial sal"
+    },
     {
       "title": "Microsoft is laying off 4,800 employees",
       "url": "https://www.theverge.com/news/961528/microsoft-layoffs-july-2026-sales-xbox",
@@ -142,13 +156,6 @@
       "snippet": "Microsoft follows Amazon, OpenAI, and Anthropic with its new AI deployment group."
     },
     {
-      "title": "Yep, we\u2019re using OpenClaw to date now",
-      "url": "https://techcrunch.com/2026/07/02/yep-were-using-openclaw-to-date-now/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-07-02T12:00:00Z",
-      "snippet": "Ben Guez has \"a bunch of potential international wives in [his] DMs,\" thanks to an automated script he set up using OpenClaw, Claude code, and Instagram trials."
-    },
-    {
       "title": "OpenAI floats giving Trump administration 5 percent cut of AI boom",
       "url": "https://www.theverge.com/ai-artificial-intelligence/960588/openai-government-5-percent-stake-trump",
       "source": "The Verge",
@@ -168,13 +175,6 @@
       "source": "The Verge",
       "publishedAt": "2026-07-01T00:03:55Z",
       "snippet": "After weeks of negotiating with the Trump administration, Anthropic is finally going to be able to bring Claude Fable 5 back online. In a post on X, Anthropic said it plans to begin restoring access W"
-    },
-    {
-      "title": "Google\u2019s NotebookLM can sum up your research in a TikTok-style clip",
-      "url": "https://www.theverge.com/tech/959778/google-notebooklm-ai-clips",
-      "source": "The Verge",
-      "publishedAt": "2026-06-30T19:24:51Z",
-      "snippet": "Google's NotebookLM is adding a new way to catch up on your notes: TikTok-style AI videos. The new feature is rolling out to Google AI Ultra and Pro subscribers, allowing NotebookLM to generate 60-sec"
     }
   ],
   "trending": [
@@ -219,14 +219,14 @@
       "downloads": 664319
     },
     {
-      "id": "BugTraceAI/BugTraceAI-CORE-Ultra-27B-Q6",
-      "displayName": "BugTraceAI CORE Ultra 27B Q6",
-      "downloads": 12438
-    },
-    {
       "id": "unsloth/Qwen3.6-27B-MTP-GGUF",
       "displayName": "Qwen3.6 27B MTP",
       "downloads": 2818499
+    },
+    {
+      "id": "BugTraceAI/BugTraceAI-CORE-Ultra-27B-Q6",
+      "displayName": "BugTraceAI CORE Ultra 27B Q6",
+      "downloads": 12438
     }
   ]
 }
