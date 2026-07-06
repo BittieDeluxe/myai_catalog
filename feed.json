@@ -1,12 +1,33 @@
 {
-  "updated": "2026-07-06T16:49:27Z",
+  "updated": "2026-07-06T19:50:05Z",
   "news": [
     {
-      "title": "I spy",
-      "url": "https://www.theverge.com/column/961707/smart-glasses-ai-wearables-meta-surveillance-privacy",
-      "source": "The Verge",
-      "publishedAt": "2026-07-06T16:00:00Z",
-      "snippet": "I've long argued that Hollywood has simultaneously set and ruined our expectations for smart glasses. But after binge-watching two seasons of Netflix's A Man on the Inside, this is perhaps the first t"
+      "title": "Vercel CEO Guillermo Rauch on the fight to split off models from agents",
+      "url": "https://techcrunch.com/2026/07/06/vercel-ceo-guillermo-rauch-on-the-fight-to-split-off-models-from-agents/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-07-06T19:49:10Z",
+      "snippet": "\"The reality is, when you're optimizing for production, you start looking at a price/performance,\" Guillermo Rauch tells TechCrunch."
+    },
+    {
+      "title": "You can now customize Siri\u2019s pace and expressivity in the latest iOS 27 beta",
+      "url": "https://techcrunch.com/2026/07/06/you-can-now-customize-siris-pace-and-expressivity-in-the-latest-ios-27-beta/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-07-06T19:01:59Z",
+      "snippet": "The new controls let you control how quickly Siri speaks and expressive its voice is."
+    },
+    {
+      "title": "Every major tech layoff in 2026 that has name-checked AI",
+      "url": "https://techcrunch.com/2026/07/06/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-07-06T18:35:00Z",
+      "snippet": "A running look \u2014 in reverse chronological order \u2014 at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor."
+    },
+    {
+      "title": "If you use Google, you\u2019re training its AI. Here\u2019s how to opt out.",
+      "url": "https://techcrunch.com/2026/07/06/if-you-use-google-youre-training-its-ai-heres-how-to-opt-out/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-07-06T17:04:58Z",
+      "snippet": "PSA: A change to Google's privacy settings let it train its AI on more of your data. Here's how to opt out."
     },
     {
       "title": "Microsoft lays off nearly 5,000 employees across Xbox, commercial sales",
@@ -16,11 +37,11 @@
       "snippet": "Microsoft cut around 4,800 roles, or 2.1% of its global workforce, on Monday \u2014 the latest in a series of layoffs that\u2019s stoking fears of AI replacing jobs.\u00a0The layoffs will hit Xbox and commercial sal"
     },
     {
-      "title": "Microsoft is laying off 4,800 employees",
-      "url": "https://www.theverge.com/news/961528/microsoft-layoffs-july-2026-sales-xbox",
-      "source": "The Verge",
-      "publishedAt": "2026-07-06T13:30:00Z",
-      "snippet": "A year after cutting around 9,100 employees, Microsoft is making further layoffs today as it begins its new financial year. The software maker is laying off around 4,800 employees today, approximately"
+      "title": "Reddit is using LLMs to solve a problem LLMs largely created",
+      "url": "https://techcrunch.com/2026/07/06/reddit-is-using-llms-to-solve-a-problem-llms-largely-created/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-07-06T15:22:08Z",
+      "snippet": "In the AI era, platforms have no choice but to fight fire with fire to cull spam."
     },
     {
       "title": "Station F ramps up as a launchpad for Europe\u2019s hottest AI startups",
@@ -121,41 +142,6 @@
       "snippet": "At an internal meeting, the Meta CEO reportedly said that AI development efforts were not moving as quickly as anticipated."
     },
     {
-      "title": "Jersey Mike\u2019s IPO illustrates how bad the AI hype has become",
-      "url": "https://techcrunch.com/2026/07/02/jersey-mikes-ipo-illustrates-how-bad-the-ai-hype-has-become/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-07-02T20:11:59Z",
-      "snippet": "Just for kicks, I took a look at Jersey Mike's IPO documents. Surely a sandwich shop would have no need to mention AI. But lo and behold."
-    },
-    {
-      "title": "Meta quietly launches vibe-coded gaming app Pocket",
-      "url": "https://techcrunch.com/2026/07/02/meta-quietly-launches-vibe-coded-gaming-app-pocket/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-07-02T18:44:02Z",
-      "snippet": "Meta has quietly launched Pocket, an experimental AI app that lets users generate and share interactive mini games using text prompts."
-    },
-    {
-      "title": "Anthropic is discussing a new custom chip with Samsung",
-      "url": "https://techcrunch.com/2026/07/02/anthropic-is-discussing-a-new-custom-chip-with-samsung/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-07-02T18:31:09Z",
-      "snippet": "The news comes about a week after OpenAI announced its own custom AI chip in a partnership with Broadcom."
-    },
-    {
-      "title": "OpenAI proposed donating 5% of its equity to a US sovereign wealth fund",
-      "url": "https://techcrunch.com/2026/07/02/openai-proposed-donating-5-of-its-equity-to-a-us-sovereign-wealth-fund/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-07-02T15:20:51Z",
-      "snippet": "OpenAI CEO Sam Altman has reportedly proposed giving 5% of the company\u2019s equity to a U.S. sovereign wealth fund, reviving discussions about letting the public share in the financial gains from the AI "
-    },
-    {
-      "title": "Microsoft launches its own AI deployment company with $2.5 billion commitment",
-      "url": "https://techcrunch.com/2026/07/02/microsoft-launches-its-own-ai-deployment-company-with-2-5-billion-commitment/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-07-02T13:53:00Z",
-      "snippet": "Microsoft follows Amazon, OpenAI, and Anthropic with its new AI deployment group."
-    },
-    {
       "title": "OpenAI floats giving Trump administration 5 percent cut of AI boom",
       "url": "https://www.theverge.com/ai-artificial-intelligence/960588/openai-government-5-percent-stake-trump",
       "source": "The Verge",
@@ -175,6 +161,20 @@
       "source": "The Verge",
       "publishedAt": "2026-07-01T00:03:55Z",
       "snippet": "After weeks of negotiating with the Trump administration, Anthropic is finally going to be able to bring Claude Fable 5 back online. In a post on X, Anthropic said it plans to begin restoring access W"
+    },
+    {
+      "title": "Google\u2019s NotebookLM can sum up your research in a TikTok-style clip",
+      "url": "https://www.theverge.com/tech/959778/google-notebooklm-ai-clips",
+      "source": "The Verge",
+      "publishedAt": "2026-06-30T19:24:51Z",
+      "snippet": "Google's NotebookLM is adding a new way to catch up on your notes: TikTok-style AI videos. The new feature is rolling out to Google AI Ultra and Pro subscribers, allowing NotebookLM to generate 60-sec"
+    },
+    {
+      "title": "Netflix is using an AI-generated Gene Wilder voice in its Willy Wonka reality show",
+      "url": "https://www.theverge.com/streaming/959684/netflix-wonka-golden-ticket-gene-wilder",
+      "source": "The Verge",
+      "publishedAt": "2026-06-30T17:19:15Z",
+      "snippet": "A new teaser trailer confirmed that Wonka's The Golden Ticket will premiere on Netflix on September 23rd, following its Squid Game reality show in the trend of creating real competitions based on fict"
     }
   ],
   "trending": [
@@ -204,14 +204,14 @@
       "downloads": 6660
     },
     {
-      "id": "Jackrong/Qwopus3.6-35B-A3B-Coder-MTP-GGUF",
-      "displayName": "Qwopus3.6 35B A3B Coder MTP",
-      "downloads": 126831
-    },
-    {
       "id": "deepreinforce-ai/Ornith-1.0-9B-GGUF",
       "displayName": "Ornith 1.0 9B",
       "downloads": 393142
+    },
+    {
+      "id": "Jackrong/Qwopus3.6-35B-A3B-Coder-MTP-GGUF",
+      "displayName": "Qwopus3.6 35B A3B Coder MTP",
+      "downloads": 126831
     },
     {
       "id": "yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
