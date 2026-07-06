@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-06T19:50:05Z",
+  "updated": "2026-07-06T21:25:07Z",
   "news": [
     {
       "title": "Vercel CEO Guillermo Rauch on the fight to split off models from agents",
@@ -13,7 +13,7 @@
       "url": "https://techcrunch.com/2026/07/06/you-can-now-customize-siris-pace-and-expressivity-in-the-latest-ios-27-beta/",
       "source": "TechCrunch",
       "publishedAt": "2026-07-06T19:01:59Z",
-      "snippet": "The new controls let you control how quickly Siri speaks and expressive its voice is."
+      "snippet": "The update is part of Apple's broader effort to make Siri feel more natural and personal, as it rebuilds the assistant around generative AI."
     },
     {
       "title": "Every major tech layoff in 2026 that has name-checked AI",
@@ -27,7 +27,14 @@
       "url": "https://techcrunch.com/2026/07/06/if-you-use-google-youre-training-its-ai-heres-how-to-opt-out/",
       "source": "TechCrunch",
       "publishedAt": "2026-07-06T17:04:58Z",
-      "snippet": "PSA: A change to Google's privacy settings let it train its AI on more of your data. Here's how to opt out."
+      "snippet": "Consider this a belated PSA: A recent change to Google\u2019s privacy settings is allowing the company to store more of your data, including media such as \u201cimages, files, and audio and video recordings,\u201d t"
+    },
+    {
+      "title": "I spy",
+      "url": "https://www.theverge.com/column/961707/smart-glasses-ai-wearables-meta-surveillance-privacy",
+      "source": "The Verge",
+      "publishedAt": "2026-07-06T16:00:00Z",
+      "snippet": "I've long argued that Hollywood has simultaneously set and ruined our expectations for smart glasses. But after binge-watching two seasons of Netflix's A Man on the Inside, this is perhaps the first t"
     },
     {
       "title": "Microsoft lays off nearly 5,000 employees across Xbox, commercial sales",
@@ -42,6 +49,13 @@
       "source": "TechCrunch",
       "publishedAt": "2026-07-06T15:22:08Z",
       "snippet": "In the AI era, platforms have no choice but to fight fire with fire to cull spam."
+    },
+    {
+      "title": "Microsoft is laying off 4,800 employees",
+      "url": "https://www.theverge.com/news/961528/microsoft-layoffs-july-2026-sales-xbox",
+      "source": "The Verge",
+      "publishedAt": "2026-07-06T13:30:00Z",
+      "snippet": "A year after cutting around 9,100 employees, Microsoft is making further layoffs today as it begins its new financial year. The software maker is laying off around 4,800 employees today, approximately"
     },
     {
       "title": "Station F ramps up as a launchpad for Europe\u2019s hottest AI startups",
@@ -161,20 +175,6 @@
       "source": "The Verge",
       "publishedAt": "2026-07-01T00:03:55Z",
       "snippet": "After weeks of negotiating with the Trump administration, Anthropic is finally going to be able to bring Claude Fable 5 back online. In a post on X, Anthropic said it plans to begin restoring access W"
-    },
-    {
-      "title": "Google\u2019s NotebookLM can sum up your research in a TikTok-style clip",
-      "url": "https://www.theverge.com/tech/959778/google-notebooklm-ai-clips",
-      "source": "The Verge",
-      "publishedAt": "2026-06-30T19:24:51Z",
-      "snippet": "Google's NotebookLM is adding a new way to catch up on your notes: TikTok-style AI videos. The new feature is rolling out to Google AI Ultra and Pro subscribers, allowing NotebookLM to generate 60-sec"
-    },
-    {
-      "title": "Netflix is using an AI-generated Gene Wilder voice in its Willy Wonka reality show",
-      "url": "https://www.theverge.com/streaming/959684/netflix-wonka-golden-ticket-gene-wilder",
-      "source": "The Verge",
-      "publishedAt": "2026-06-30T17:19:15Z",
-      "snippet": "A new teaser trailer confirmed that Wonka's The Golden Ticket will premiere on Netflix on September 23rd, following its Squid Game reality show in the trend of creating real competitions based on fict"
     }
   ],
   "trending": [
