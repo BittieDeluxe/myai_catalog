@@ -1,6 +1,20 @@
 {
-  "updated": "2026-07-06T08:15:49Z",
+  "updated": "2026-07-06T13:41:06Z",
   "news": [
+    {
+      "title": "Microsoft is laying off 4,800 employees",
+      "url": "https://www.theverge.com/news/961528/microsoft-layoffs-july-2026-sales-xbox",
+      "source": "The Verge",
+      "publishedAt": "2026-07-06T13:30:00Z",
+      "snippet": "A year after cutting around 9,100 employees, Microsoft is making further layoffs today as it begins its new financial year. The software maker is laying off around 4,800 employees today, approximately"
+    },
+    {
+      "title": "Station F ramps up as a launchpad for Europe\u2019s hottest AI startups",
+      "url": "https://techcrunch.com/2026/07/06/station-f-ramps-up-as-a-launchpad-for-europes-hottest-ai-startups/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-07-06T13:00:00Z",
+      "snippet": "Station F, a Paris-based startup hub founded by French billionaire Xavier Niel, is gearing up for a new edition of its F/ai accelerator program in a bid to strengthen its positioning as a stepping sto"
+    },
     {
       "title": "Some of the nation\u2019s rich are letting AI teach their kids",
       "url": "https://www.theverge.com/ai-artificial-intelligence/961505/wealthy-ai-schools-alpha-forge-prep",
@@ -142,13 +156,6 @@
       "snippet": "OpenAI has floated giving the US government a 5 percent ownership stake as a way of easing tensions with the Trump administration and blunting mounting public backlash against AI, according to the Fin"
     },
     {
-      "title": "Indian tech tycoon bets $30M of his own money to build AI alternative to Microsoft Office",
-      "url": "https://techcrunch.com/2026/07/01/indian-tech-tycoon-bets-30m-to-build-an-ai-alternative-to-microsoft-office/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-07-02T05:30:00Z",
-      "snippet": "Neo is Bhavin Turakhia\u2019s fifth venture and his latest involving enterprise software. This time he's taking on Microsoft Office and Google Apps with AI."
-    },
-    {
       "title": "Google built a great smart speaker, but Gemini isn\u2019t ready for it",
       "url": "https://www.theverge.com/tech/959503/google-home-speaker-review-gemini-for-home",
       "source": "The Verge",
@@ -168,65 +175,58 @@
       "source": "The Verge",
       "publishedAt": "2026-06-30T19:24:51Z",
       "snippet": "Google's NotebookLM is adding a new way to catch up on your notes: TikTok-style AI videos. The new feature is rolling out to Google AI Ultra and Pro subscribers, allowing NotebookLM to generate 60-sec"
-    },
-    {
-      "title": "Netflix is using an AI-generated Gene Wilder voice in its Willy Wonka reality show",
-      "url": "https://www.theverge.com/streaming/959684/netflix-wonka-golden-ticket-gene-wilder",
-      "source": "The Verge",
-      "publishedAt": "2026-06-30T17:19:15Z",
-      "snippet": "A new teaser trailer confirmed that Wonka's The Golden Ticket will premiere on Netflix on September 23rd, following its Squid Game reality show in the trend of creating real competitions based on fict"
     }
   ],
   "trending": [
     {
       "id": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
       "displayName": "Qwythos 9B Claude Mythos 5 1M",
-      "downloads": 1533844
+      "downloads": 1617508
     },
     {
       "id": "deepreinforce-ai/Ornith-1.0-35B-GGUF",
       "displayName": "Ornith 1.0 35B",
-      "downloads": 394164
+      "downloads": 436780
     },
     {
       "id": "yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF",
       "displayName": "gemma 4 12B agentic fable5 composer2.5 v2 3.5x tau2",
-      "downloads": 355871
+      "downloads": 370884
     },
     {
       "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
       "displayName": "Qwen3.6 35B A3B Uncensored HauhauCS Aggressive",
-      "downloads": 3018257
+      "downloads": 2910241
     },
     {
       "id": "huihui-ai/Huihui-GLM-5.2-abliterated-GGUF",
       "displayName": "Huihui GLM 5.2 abliterated",
-      "downloads": 5609
-    },
-    {
-      "id": "deepreinforce-ai/Ornith-1.0-9B-GGUF",
-      "displayName": "Ornith 1.0 9B",
-      "downloads": 352002
+      "downloads": 6660
     },
     {
       "id": "Jackrong/Qwopus3.6-35B-A3B-Coder-MTP-GGUF",
       "displayName": "Qwopus3.6 35B A3B Coder MTP",
-      "downloads": 84951
+      "downloads": 126831
     },
     {
-      "id": "BugTraceAI/BugTraceAI-CORE-Ultra-27B-Q6",
-      "displayName": "BugTraceAI CORE Ultra 27B Q6",
-      "downloads": 12196
+      "id": "deepreinforce-ai/Ornith-1.0-9B-GGUF",
+      "displayName": "Ornith 1.0 9B",
+      "downloads": 393142
     },
     {
       "id": "yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
       "displayName": "gemma 4 12B coder fable5 composer2.5 v1",
-      "downloads": 651758
+      "downloads": 664319
+    },
+    {
+      "id": "BugTraceAI/BugTraceAI-CORE-Ultra-27B-Q6",
+      "displayName": "BugTraceAI CORE Ultra 27B Q6",
+      "downloads": 12438
     },
     {
       "id": "unsloth/Qwen3.6-27B-MTP-GGUF",
       "displayName": "Qwen3.6 27B MTP",
-      "downloads": 2776389
+      "downloads": 2818499
     }
   ]
 }
