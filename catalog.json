@@ -9,7 +9,7 @@
       "downloadURL": "https://huggingface.co/bartowski/Llama-3.2-1B-Instruct-GGUF/resolve/main/Llama-3.2-1B-Instruct-Q4_K_S.gguf",
       "filename": "Llama-3.2-1B-Instruct-Q4_K_S.gguf",
       "badge": null,
-      "hfDownloads": 416350,
+      "hfDownloads": 432284,
       "quantization": "Q4_K_S"
     },
     {
@@ -21,7 +21,7 @@
       "downloadURL": "https://huggingface.co/bartowski/Llama-3.2-1B-Instruct-GGUF/resolve/main/Llama-3.2-1B-Instruct-Q4_K_M.gguf",
       "filename": "Llama-3.2-1B-Instruct-Q4_K_M.gguf",
       "badge": null,
-      "hfDownloads": 416350,
+      "hfDownloads": 432284,
       "quantization": "Q4_K_M"
     },
     {
@@ -33,7 +33,7 @@
       "downloadURL": "https://huggingface.co/bartowski/Llama-3.2-1B-Instruct-GGUF/resolve/main/Llama-3.2-1B-Instruct-Q4_0.gguf",
       "filename": "Llama-3.2-1B-Instruct-Q4_0.gguf",
       "badge": null,
-      "hfDownloads": 416350,
+      "hfDownloads": 432284,
       "quantization": "Q4_0"
     },
     {
@@ -45,7 +45,7 @@
       "downloadURL": "https://huggingface.co/bartowski/Llama-3.2-1B-Instruct-GGUF/resolve/main/Llama-3.2-1B-Instruct-Q5_K_M.gguf",
       "filename": "Llama-3.2-1B-Instruct-Q5_K_M.gguf",
       "badge": null,
-      "hfDownloads": 416350,
+      "hfDownloads": 432284,
       "quantization": "Q5_K_M"
     },
     {
@@ -57,7 +57,7 @@
       "downloadURL": "https://huggingface.co/bartowski/Llama-3.2-1B-Instruct-GGUF/resolve/main/Llama-3.2-1B-Instruct-Q6_K.gguf",
       "filename": "Llama-3.2-1B-Instruct-Q6_K.gguf",
       "badge": null,
-      "hfDownloads": 416350,
+      "hfDownloads": 432284,
       "quantization": "Q6_K"
     },
     {
@@ -69,7 +69,7 @@
       "downloadURL": "https://huggingface.co/bartowski/Llama-3.2-1B-Instruct-GGUF/resolve/main/Llama-3.2-1B-Instruct-Q8_0.gguf",
       "filename": "Llama-3.2-1B-Instruct-Q8_0.gguf",
       "badge": "High Quality",
-      "hfDownloads": 416350,
+      "hfDownloads": 432284,
       "quantization": "Q8_0"
     },
     {
@@ -81,7 +81,7 @@
       "downloadURL": "https://huggingface.co/bartowski/gemma-2-2b-it-GGUF/resolve/main/gemma-2-2b-it-Q4_K_S.gguf",
       "filename": "gemma-2-2b-it-Q4_K_S.gguf",
       "badge": null,
-      "hfDownloads": 258944,
+      "hfDownloads": 257123,
       "quantization": "Q4_K_S"
     },
     {
@@ -93,7 +93,7 @@
       "downloadURL": "https://huggingface.co/bartowski/gemma-2-2b-it-GGUF/resolve/main/gemma-2-2b-it-Q4_K_M.gguf",
       "filename": "gemma-2-2b-it-Q4_K_M.gguf",
       "badge": null,
-      "hfDownloads": 258944,
+      "hfDownloads": 257123,
       "quantization": "Q4_K_M"
     },
     {
@@ -105,7 +105,7 @@
       "downloadURL": "https://huggingface.co/bartowski/gemma-2-2b-it-GGUF/resolve/main/gemma-2-2b-it-Q5_K_M.gguf",
       "filename": "gemma-2-2b-it-Q5_K_M.gguf",
       "badge": null,
-      "hfDownloads": 258944,
+      "hfDownloads": 257123,
       "quantization": "Q5_K_M"
     },
     {
@@ -117,7 +117,7 @@
       "downloadURL": "https://huggingface.co/bartowski/gemma-2-2b-it-GGUF/resolve/main/gemma-2-2b-it-Q6_K.gguf",
       "filename": "gemma-2-2b-it-Q6_K.gguf",
       "badge": null,
-      "hfDownloads": 258944,
+      "hfDownloads": 257123,
       "quantization": "Q6_K"
     },
     {
@@ -129,7 +129,7 @@
       "downloadURL": "https://huggingface.co/bartowski/gemma-2-2b-it-GGUF/resolve/main/gemma-2-2b-it-Q8_0.gguf",
       "filename": "gemma-2-2b-it-Q8_0.gguf",
       "badge": "High Quality",
-      "hfDownloads": 258944,
+      "hfDownloads": 257123,
       "quantization": "Q8_0"
     },
     {
@@ -141,7 +141,7 @@
       "downloadURL": "https://huggingface.co/bartowski/Llama-3.2-3B-Instruct-GGUF/resolve/main/Llama-3.2-3B-Instruct-Q4_K_S.gguf",
       "filename": "Llama-3.2-3B-Instruct-Q4_K_S.gguf",
       "badge": null,
-      "hfDownloads": 213102,
+      "hfDownloads": 212729,
       "quantization": "Q4_K_S"
     },
     {
@@ -153,7 +153,7 @@
       "downloadURL": "https://huggingface.co/bartowski/Llama-3.2-3B-Instruct-GGUF/resolve/main/Llama-3.2-3B-Instruct-Q4_K_M.gguf",
       "filename": "Llama-3.2-3B-Instruct-Q4_K_M.gguf",
       "badge": null,
-      "hfDownloads": 213102,
+      "hfDownloads": 212729,
       "quantization": "Q4_K_M"
     },
     {
@@ -165,7 +165,7 @@
       "downloadURL": "https://huggingface.co/bartowski/Llama-3.2-3B-Instruct-GGUF/resolve/main/Llama-3.2-3B-Instruct-Q4_0.gguf",
       "filename": "Llama-3.2-3B-Instruct-Q4_0.gguf",
       "badge": null,
-      "hfDownloads": 213102,
+      "hfDownloads": 212729,
       "quantization": "Q4_0"
     },
     {
@@ -177,7 +177,7 @@
       "downloadURL": "https://huggingface.co/bartowski/Llama-3.2-3B-Instruct-GGUF/resolve/main/Llama-3.2-3B-Instruct-Q5_K_M.gguf",
       "filename": "Llama-3.2-3B-Instruct-Q5_K_M.gguf",
       "badge": null,
-      "hfDownloads": 213102,
+      "hfDownloads": 212729,
       "quantization": "Q5_K_M"
     },
     {
@@ -189,7 +189,7 @@
       "downloadURL": "https://huggingface.co/bartowski/Llama-3.2-3B-Instruct-GGUF/resolve/main/Llama-3.2-3B-Instruct-Q6_K.gguf",
       "filename": "Llama-3.2-3B-Instruct-Q6_K.gguf",
       "badge": null,
-      "hfDownloads": 213102,
+      "hfDownloads": 212729,
       "quantization": "Q6_K"
     },
     {
@@ -201,7 +201,7 @@
       "downloadURL": "https://huggingface.co/bartowski/Llama-3.2-3B-Instruct-GGUF/resolve/main/Llama-3.2-3B-Instruct-Q8_0.gguf",
       "filename": "Llama-3.2-3B-Instruct-Q8_0.gguf",
       "badge": "High Quality",
-      "hfDownloads": 213102,
+      "hfDownloads": 212729,
       "quantization": "Q8_0"
     },
     {
@@ -213,7 +213,7 @@
       "downloadURL": "https://huggingface.co/bartowski/google_gemma-4-E2B-it-GGUF/resolve/main/google_gemma-4-E2B-it-Q2_K.gguf",
       "filename": "google_gemma-4-E2B-it-Q2_K.gguf",
       "badge": null,
-      "hfDownloads": 133967,
+      "hfDownloads": 135631,
       "quantization": "Q2_K"
     },
     {
@@ -225,7 +225,7 @@
       "downloadURL": "https://huggingface.co/bartowski/google_gemma-4-E2B-it-GGUF/resolve/main/google_gemma-4-E2B-it-Q3_K_M.gguf",
       "filename": "google_gemma-4-E2B-it-Q3_K_M.gguf",
       "badge": "Most Compatible",
-      "hfDownloads": 133967,
+      "hfDownloads": 135631,
       "quantization": "Q3_K_M"
     },
     {
@@ -237,7 +237,7 @@
       "downloadURL": "https://huggingface.co/bartowski/google_gemma-4-E2B-it-GGUF/resolve/main/google_gemma-4-E2B-it-Q4_K_S.gguf",
       "filename": "google_gemma-4-E2B-it-Q4_K_S.gguf",
       "badge": null,
-      "hfDownloads": 133967,
+      "hfDownloads": 135631,
       "quantization": "Q4_K_S"
     },
     {
@@ -249,7 +249,7 @@
       "downloadURL": "https://huggingface.co/bartowski/google_gemma-4-E2B-it-GGUF/resolve/main/google_gemma-4-E2B-it-Q4_K_M.gguf",
       "filename": "google_gemma-4-E2B-it-Q4_K_M.gguf",
       "badge": null,
-      "hfDownloads": 133967,
+      "hfDownloads": 135631,
       "quantization": "Q4_K_M"
     },
     {
@@ -261,7 +261,7 @@
       "downloadURL": "https://huggingface.co/bartowski/google_gemma-4-E2B-it-GGUF/resolve/main/google_gemma-4-E2B-it-Q4_0.gguf",
       "filename": "google_gemma-4-E2B-it-Q4_0.gguf",
       "badge": null,
-      "hfDownloads": 133967,
+      "hfDownloads": 135631,
       "quantization": "Q4_0"
     },
     {
@@ -273,7 +273,7 @@
       "downloadURL": "https://huggingface.co/bartowski/google_gemma-4-E2B-it-GGUF/resolve/main/google_gemma-4-E2B-it-Q5_K_M.gguf",
       "filename": "google_gemma-4-E2B-it-Q5_K_M.gguf",
       "badge": null,
-      "hfDownloads": 133967,
+      "hfDownloads": 135631,
       "quantization": "Q5_K_M"
     },
     {
@@ -285,7 +285,7 @@
       "downloadURL": "https://huggingface.co/bartowski/google_gemma-4-E2B-it-GGUF/resolve/main/google_gemma-4-E2B-it-Q6_K.gguf",
       "filename": "google_gemma-4-E2B-it-Q6_K.gguf",
       "badge": null,
-      "hfDownloads": 133967,
+      "hfDownloads": 135631,
       "quantization": "Q6_K"
     },
     {
@@ -297,7 +297,7 @@
       "downloadURL": "https://huggingface.co/bartowski/google_gemma-4-E2B-it-GGUF/resolve/main/google_gemma-4-E2B-it-Q8_0.gguf",
       "filename": "google_gemma-4-E2B-it-Q8_0.gguf",
       "badge": "High Quality",
-      "hfDownloads": 133967,
+      "hfDownloads": 135631,
       "quantization": "Q8_0"
     },
     {
@@ -309,7 +309,7 @@
       "downloadURL": "https://huggingface.co/bartowski/Qwen_Qwen3.5-4B-GGUF/resolve/main/Qwen_Qwen3.5-4B-Q2_K.gguf",
       "filename": "Qwen_Qwen3.5-4B-Q2_K.gguf",
       "badge": null,
-      "hfDownloads": 59461,
+      "hfDownloads": 59501,
       "quantization": "Q2_K"
     },
     {
@@ -321,7 +321,7 @@
       "downloadURL": "https://huggingface.co/bartowski/Qwen_Qwen3.5-4B-GGUF/resolve/main/Qwen_Qwen3.5-4B-Q3_K_M.gguf",
       "filename": "Qwen_Qwen3.5-4B-Q3_K_M.gguf",
       "badge": "Most Compatible",
-      "hfDownloads": 59461,
+      "hfDownloads": 59501,
       "quantization": "Q3_K_M"
     },
     {
@@ -333,7 +333,7 @@
       "downloadURL": "https://huggingface.co/bartowski/Qwen_Qwen3.5-4B-GGUF/resolve/main/Qwen_Qwen3.5-4B-Q4_K_S.gguf",
       "filename": "Qwen_Qwen3.5-4B-Q4_K_S.gguf",
       "badge": null,
-      "hfDownloads": 59461,
+      "hfDownloads": 59501,
       "quantization": "Q4_K_S"
     },
     {
@@ -345,7 +345,7 @@
       "downloadURL": "https://huggingface.co/bartowski/Qwen_Qwen3.5-4B-GGUF/resolve/main/Qwen_Qwen3.5-4B-Q4_K_M.gguf",
       "filename": "Qwen_Qwen3.5-4B-Q4_K_M.gguf",
       "badge": null,
-      "hfDownloads": 59461,
+      "hfDownloads": 59501,
       "quantization": "Q4_K_M"
     },
     {
@@ -357,7 +357,7 @@
       "downloadURL": "https://huggingface.co/bartowski/Qwen_Qwen3.5-4B-GGUF/resolve/main/Qwen_Qwen3.5-4B-Q4_0.gguf",
       "filename": "Qwen_Qwen3.5-4B-Q4_0.gguf",
       "badge": null,
-      "hfDownloads": 59461,
+      "hfDownloads": 59501,
       "quantization": "Q4_0"
     },
     {
@@ -369,7 +369,7 @@
       "downloadURL": "https://huggingface.co/bartowski/Qwen_Qwen3.5-4B-GGUF/resolve/main/Qwen_Qwen3.5-4B-Q5_K_M.gguf",
       "filename": "Qwen_Qwen3.5-4B-Q5_K_M.gguf",
       "badge": null,
-      "hfDownloads": 59461,
+      "hfDownloads": 59501,
       "quantization": "Q5_K_M"
     },
     {
@@ -381,7 +381,7 @@
       "downloadURL": "https://huggingface.co/bartowski/Qwen_Qwen3.5-4B-GGUF/resolve/main/Qwen_Qwen3.5-4B-Q6_K.gguf",
       "filename": "Qwen_Qwen3.5-4B-Q6_K.gguf",
       "badge": null,
-      "hfDownloads": 59461,
+      "hfDownloads": 59501,
       "quantization": "Q6_K"
     },
     {
@@ -393,103 +393,7 @@
       "downloadURL": "https://huggingface.co/bartowski/Qwen_Qwen3.5-4B-GGUF/resolve/main/Qwen_Qwen3.5-4B-Q8_0.gguf",
       "filename": "Qwen_Qwen3.5-4B-Q8_0.gguf",
       "badge": "High Quality",
-      "hfDownloads": 59461,
-      "quantization": "Q8_0"
-    },
-    {
-      "id": "qwen2.5-3b-q2",
-      "name": "Qwen2.5 3B",
-      "description": "3B parameter model, quantized to Q2_K.",
-      "sizeGB": 0.9,
-      "ramRequiredGB": 1.5,
-      "downloadURL": "https://huggingface.co/bartowski/Qwen2.5-3B-Instruct-GGUF/resolve/main/Qwen2.5-3B-Instruct-Q2_K.gguf",
-      "filename": "Qwen2.5-3B-Instruct-Q2_K.gguf",
-      "badge": null,
-      "hfDownloads": 54120,
-      "quantization": "Q2_K"
-    },
-    {
-      "id": "qwen2.5-3b-q3",
-      "name": "Qwen2.5 3B",
-      "description": "3B parameter model, quantized to Q3_K_M.",
-      "sizeGB": 1.3,
-      "ramRequiredGB": 2.0,
-      "downloadURL": "https://huggingface.co/bartowski/Qwen2.5-3B-Instruct-GGUF/resolve/main/Qwen2.5-3B-Instruct-Q3_K_M.gguf",
-      "filename": "Qwen2.5-3B-Instruct-Q3_K_M.gguf",
-      "badge": "Most Compatible",
-      "hfDownloads": 54120,
-      "quantization": "Q3_K_M"
-    },
-    {
-      "id": "qwen2.5-3b-q4ks",
-      "name": "Qwen2.5 3B",
-      "description": "3B parameter model, quantized to Q4_K_S.",
-      "sizeGB": 1.6,
-      "ramRequiredGB": 2.4,
-      "downloadURL": "https://huggingface.co/bartowski/Qwen2.5-3B-Instruct-GGUF/resolve/main/Qwen2.5-3B-Instruct-Q4_K_S.gguf",
-      "filename": "Qwen2.5-3B-Instruct-Q4_K_S.gguf",
-      "badge": null,
-      "hfDownloads": 54120,
-      "quantization": "Q4_K_S"
-    },
-    {
-      "id": "qwen2.5-3b-q4",
-      "name": "Qwen2.5 3B",
-      "description": "3B parameter model, quantized to Q4_K_M.",
-      "sizeGB": 1.7,
-      "ramRequiredGB": 2.5,
-      "downloadURL": "https://huggingface.co/bartowski/Qwen2.5-3B-Instruct-GGUF/resolve/main/Qwen2.5-3B-Instruct-Q4_K_M.gguf",
-      "filename": "Qwen2.5-3B-Instruct-Q4_K_M.gguf",
-      "badge": null,
-      "hfDownloads": 54120,
-      "quantization": "Q4_K_M"
-    },
-    {
-      "id": "qwen2.5-3b-q40",
-      "name": "Qwen2.5 3B",
-      "description": "3B parameter model, quantized to Q4_0.",
-      "sizeGB": 1.5,
-      "ramRequiredGB": 2.2,
-      "downloadURL": "https://huggingface.co/bartowski/Qwen2.5-3B-Instruct-GGUF/resolve/main/Qwen2.5-3B-Instruct-Q4_0.gguf",
-      "filename": "Qwen2.5-3B-Instruct-Q4_0.gguf",
-      "badge": null,
-      "hfDownloads": 54120,
-      "quantization": "Q4_0"
-    },
-    {
-      "id": "qwen2.5-3b-q5",
-      "name": "Qwen2.5 3B",
-      "description": "3B parameter model, quantized to Q5_K_M.",
-      "sizeGB": 2.0,
-      "ramRequiredGB": 2.9,
-      "downloadURL": "https://huggingface.co/bartowski/Qwen2.5-3B-Instruct-GGUF/resolve/main/Qwen2.5-3B-Instruct-Q5_K_M.gguf",
-      "filename": "Qwen2.5-3B-Instruct-Q5_K_M.gguf",
-      "badge": null,
-      "hfDownloads": 54120,
-      "quantization": "Q5_K_M"
-    },
-    {
-      "id": "qwen2.5-3b-q6",
-      "name": "Qwen2.5 3B",
-      "description": "3B parameter model, quantized to Q6_K.",
-      "sizeGB": 2.2,
-      "ramRequiredGB": 3.2,
-      "downloadURL": "https://huggingface.co/bartowski/Qwen2.5-3B-Instruct-GGUF/resolve/main/Qwen2.5-3B-Instruct-Q6_K.gguf",
-      "filename": "Qwen2.5-3B-Instruct-Q6_K.gguf",
-      "badge": null,
-      "hfDownloads": 54120,
-      "quantization": "Q6_K"
-    },
-    {
-      "id": "qwen2.5-3b-q8",
-      "name": "Qwen2.5 3B",
-      "description": "3B parameter model, quantized to Q8_0.",
-      "sizeGB": 2.6,
-      "ramRequiredGB": 3.7,
-      "downloadURL": "https://huggingface.co/bartowski/Qwen2.5-3B-Instruct-GGUF/resolve/main/Qwen2.5-3B-Instruct-Q8_0.gguf",
-      "filename": "Qwen2.5-3B-Instruct-Q8_0.gguf",
-      "badge": "High Quality",
-      "hfDownloads": 54120,
+      "hfDownloads": 59501,
       "quantization": "Q8_0"
     },
     {
@@ -501,7 +405,7 @@
       "downloadURL": "https://huggingface.co/bartowski/Qwen_Qwen3.5-0.8B-GGUF/resolve/main/Qwen_Qwen3.5-0.8B-Q2_K.gguf",
       "filename": "Qwen_Qwen3.5-0.8B-Q2_K.gguf",
       "badge": null,
-      "hfDownloads": 50359,
+      "hfDownloads": 50138,
       "quantization": "Q2_K"
     },
     {
@@ -513,7 +417,7 @@
       "downloadURL": "https://huggingface.co/bartowski/Qwen_Qwen3.5-0.8B-GGUF/resolve/main/Qwen_Qwen3.5-0.8B-Q3_K_M.gguf",
       "filename": "Qwen_Qwen3.5-0.8B-Q3_K_M.gguf",
       "badge": "Most Compatible",
-      "hfDownloads": 50359,
+      "hfDownloads": 50138,
       "quantization": "Q3_K_M"
     },
     {
@@ -525,7 +429,7 @@
       "downloadURL": "https://huggingface.co/bartowski/Qwen_Qwen3.5-0.8B-GGUF/resolve/main/Qwen_Qwen3.5-0.8B-Q4_K_S.gguf",
       "filename": "Qwen_Qwen3.5-0.8B-Q4_K_S.gguf",
       "badge": null,
-      "hfDownloads": 50359,
+      "hfDownloads": 50138,
       "quantization": "Q4_K_S"
     },
     {
@@ -537,7 +441,7 @@
       "downloadURL": "https://huggingface.co/bartowski/Qwen_Qwen3.5-0.8B-GGUF/resolve/main/Qwen_Qwen3.5-0.8B-Q4_K_M.gguf",
       "filename": "Qwen_Qwen3.5-0.8B-Q4_K_M.gguf",
       "badge": null,
-      "hfDownloads": 50359,
+      "hfDownloads": 50138,
       "quantization": "Q4_K_M"
     },
     {
@@ -549,7 +453,7 @@
       "downloadURL": "https://huggingface.co/bartowski/Qwen_Qwen3.5-0.8B-GGUF/resolve/main/Qwen_Qwen3.5-0.8B-Q4_0.gguf",
       "filename": "Qwen_Qwen3.5-0.8B-Q4_0.gguf",
       "badge": null,
-      "hfDownloads": 50359,
+      "hfDownloads": 50138,
       "quantization": "Q4_0"
     },
     {
@@ -561,7 +465,7 @@
       "downloadURL": "https://huggingface.co/bartowski/Qwen_Qwen3.5-0.8B-GGUF/resolve/main/Qwen_Qwen3.5-0.8B-Q5_K_M.gguf",
       "filename": "Qwen_Qwen3.5-0.8B-Q5_K_M.gguf",
       "badge": null,
-      "hfDownloads": 50359,
+      "hfDownloads": 50138,
       "quantization": "Q5_K_M"
     },
     {
@@ -573,7 +477,7 @@
       "downloadURL": "https://huggingface.co/bartowski/Qwen_Qwen3.5-0.8B-GGUF/resolve/main/Qwen_Qwen3.5-0.8B-Q6_K.gguf",
       "filename": "Qwen_Qwen3.5-0.8B-Q6_K.gguf",
       "badge": null,
-      "hfDownloads": 50359,
+      "hfDownloads": 50138,
       "quantization": "Q6_K"
     },
     {
@@ -585,7 +489,103 @@
       "downloadURL": "https://huggingface.co/bartowski/Qwen_Qwen3.5-0.8B-GGUF/resolve/main/Qwen_Qwen3.5-0.8B-Q8_0.gguf",
       "filename": "Qwen_Qwen3.5-0.8B-Q8_0.gguf",
       "badge": "High Quality",
-      "hfDownloads": 50359,
+      "hfDownloads": 50138,
+      "quantization": "Q8_0"
+    },
+    {
+      "id": "qwen2.5-3b-q2",
+      "name": "Qwen2.5 3B",
+      "description": "3B parameter model, quantized to Q2_K.",
+      "sizeGB": 0.9,
+      "ramRequiredGB": 1.5,
+      "downloadURL": "https://huggingface.co/bartowski/Qwen2.5-3B-Instruct-GGUF/resolve/main/Qwen2.5-3B-Instruct-Q2_K.gguf",
+      "filename": "Qwen2.5-3B-Instruct-Q2_K.gguf",
+      "badge": null,
+      "hfDownloads": 49612,
+      "quantization": "Q2_K"
+    },
+    {
+      "id": "qwen2.5-3b-q3",
+      "name": "Qwen2.5 3B",
+      "description": "3B parameter model, quantized to Q3_K_M.",
+      "sizeGB": 1.3,
+      "ramRequiredGB": 2.0,
+      "downloadURL": "https://huggingface.co/bartowski/Qwen2.5-3B-Instruct-GGUF/resolve/main/Qwen2.5-3B-Instruct-Q3_K_M.gguf",
+      "filename": "Qwen2.5-3B-Instruct-Q3_K_M.gguf",
+      "badge": "Most Compatible",
+      "hfDownloads": 49612,
+      "quantization": "Q3_K_M"
+    },
+    {
+      "id": "qwen2.5-3b-q4ks",
+      "name": "Qwen2.5 3B",
+      "description": "3B parameter model, quantized to Q4_K_S.",
+      "sizeGB": 1.6,
+      "ramRequiredGB": 2.4,
+      "downloadURL": "https://huggingface.co/bartowski/Qwen2.5-3B-Instruct-GGUF/resolve/main/Qwen2.5-3B-Instruct-Q4_K_S.gguf",
+      "filename": "Qwen2.5-3B-Instruct-Q4_K_S.gguf",
+      "badge": null,
+      "hfDownloads": 49612,
+      "quantization": "Q4_K_S"
+    },
+    {
+      "id": "qwen2.5-3b-q4",
+      "name": "Qwen2.5 3B",
+      "description": "3B parameter model, quantized to Q4_K_M.",
+      "sizeGB": 1.7,
+      "ramRequiredGB": 2.5,
+      "downloadURL": "https://huggingface.co/bartowski/Qwen2.5-3B-Instruct-GGUF/resolve/main/Qwen2.5-3B-Instruct-Q4_K_M.gguf",
+      "filename": "Qwen2.5-3B-Instruct-Q4_K_M.gguf",
+      "badge": null,
+      "hfDownloads": 49612,
+      "quantization": "Q4_K_M"
+    },
+    {
+      "id": "qwen2.5-3b-q40",
+      "name": "Qwen2.5 3B",
+      "description": "3B parameter model, quantized to Q4_0.",
+      "sizeGB": 1.5,
+      "ramRequiredGB": 2.2,
+      "downloadURL": "https://huggingface.co/bartowski/Qwen2.5-3B-Instruct-GGUF/resolve/main/Qwen2.5-3B-Instruct-Q4_0.gguf",
+      "filename": "Qwen2.5-3B-Instruct-Q4_0.gguf",
+      "badge": null,
+      "hfDownloads": 49612,
+      "quantization": "Q4_0"
+    },
+    {
+      "id": "qwen2.5-3b-q5",
+      "name": "Qwen2.5 3B",
+      "description": "3B parameter model, quantized to Q5_K_M.",
+      "sizeGB": 2.0,
+      "ramRequiredGB": 2.9,
+      "downloadURL": "https://huggingface.co/bartowski/Qwen2.5-3B-Instruct-GGUF/resolve/main/Qwen2.5-3B-Instruct-Q5_K_M.gguf",
+      "filename": "Qwen2.5-3B-Instruct-Q5_K_M.gguf",
+      "badge": null,
+      "hfDownloads": 49612,
+      "quantization": "Q5_K_M"
+    },
+    {
+      "id": "qwen2.5-3b-q6",
+      "name": "Qwen2.5 3B",
+      "description": "3B parameter model, quantized to Q6_K.",
+      "sizeGB": 2.2,
+      "ramRequiredGB": 3.2,
+      "downloadURL": "https://huggingface.co/bartowski/Qwen2.5-3B-Instruct-GGUF/resolve/main/Qwen2.5-3B-Instruct-Q6_K.gguf",
+      "filename": "Qwen2.5-3B-Instruct-Q6_K.gguf",
+      "badge": null,
+      "hfDownloads": 49612,
+      "quantization": "Q6_K"
+    },
+    {
+      "id": "qwen2.5-3b-q8",
+      "name": "Qwen2.5 3B",
+      "description": "3B parameter model, quantized to Q8_0.",
+      "sizeGB": 2.6,
+      "ramRequiredGB": 3.7,
+      "downloadURL": "https://huggingface.co/bartowski/Qwen2.5-3B-Instruct-GGUF/resolve/main/Qwen2.5-3B-Instruct-Q8_0.gguf",
+      "filename": "Qwen2.5-3B-Instruct-Q8_0.gguf",
+      "badge": "High Quality",
+      "hfDownloads": 49612,
       "quantization": "Q8_0"
     },
     {
@@ -597,7 +597,7 @@
       "downloadURL": "https://huggingface.co/bartowski/Qwen_Qwen3.5-2B-GGUF/resolve/main/Qwen_Qwen3.5-2B-Q2_K.gguf",
       "filename": "Qwen_Qwen3.5-2B-Q2_K.gguf",
       "badge": null,
-      "hfDownloads": 48568,
+      "hfDownloads": 48291,
       "quantization": "Q2_K"
     },
     {
@@ -609,7 +609,7 @@
       "downloadURL": "https://huggingface.co/bartowski/Qwen_Qwen3.5-2B-GGUF/resolve/main/Qwen_Qwen3.5-2B-Q3_K_M.gguf",
       "filename": "Qwen_Qwen3.5-2B-Q3_K_M.gguf",
       "badge": "Most Compatible",
-      "hfDownloads": 48568,
+      "hfDownloads": 48291,
       "quantization": "Q3_K_M"
     },
     {
@@ -621,7 +621,7 @@
       "downloadURL": "https://huggingface.co/bartowski/Qwen_Qwen3.5-2B-GGUF/resolve/main/Qwen_Qwen3.5-2B-Q4_K_S.gguf",
       "filename": "Qwen_Qwen3.5-2B-Q4_K_S.gguf",
       "badge": null,
-      "hfDownloads": 48568,
+      "hfDownloads": 48291,
       "quantization": "Q4_K_S"
     },
     {
@@ -633,7 +633,7 @@
       "downloadURL": "https://huggingface.co/bartowski/Qwen_Qwen3.5-2B-GGUF/resolve/main/Qwen_Qwen3.5-2B-Q4_K_M.gguf",
       "filename": "Qwen_Qwen3.5-2B-Q4_K_M.gguf",
       "badge": null,
-      "hfDownloads": 48568,
+      "hfDownloads": 48291,
       "quantization": "Q4_K_M"
     },
     {
@@ -645,7 +645,7 @@
       "downloadURL": "https://huggingface.co/bartowski/Qwen_Qwen3.5-2B-GGUF/resolve/main/Qwen_Qwen3.5-2B-Q4_0.gguf",
       "filename": "Qwen_Qwen3.5-2B-Q4_0.gguf",
       "badge": null,
-      "hfDownloads": 48568,
+      "hfDownloads": 48291,
       "quantization": "Q4_0"
     },
     {
@@ -657,7 +657,7 @@
       "downloadURL": "https://huggingface.co/bartowski/Qwen_Qwen3.5-2B-GGUF/resolve/main/Qwen_Qwen3.5-2B-Q5_K_M.gguf",
       "filename": "Qwen_Qwen3.5-2B-Q5_K_M.gguf",
       "badge": null,
-      "hfDownloads": 48568,
+      "hfDownloads": 48291,
       "quantization": "Q5_K_M"
     },
     {
@@ -669,7 +669,7 @@
       "downloadURL": "https://huggingface.co/bartowski/Qwen_Qwen3.5-2B-GGUF/resolve/main/Qwen_Qwen3.5-2B-Q6_K.gguf",
       "filename": "Qwen_Qwen3.5-2B-Q6_K.gguf",
       "badge": null,
-      "hfDownloads": 48568,
+      "hfDownloads": 48291,
       "quantization": "Q6_K"
     },
     {
@@ -681,7 +681,7 @@
       "downloadURL": "https://huggingface.co/bartowski/Qwen_Qwen3.5-2B-GGUF/resolve/main/Qwen_Qwen3.5-2B-Q8_0.gguf",
       "filename": "Qwen_Qwen3.5-2B-Q8_0.gguf",
       "badge": "High Quality",
-      "hfDownloads": 48568,
+      "hfDownloads": 48291,
       "quantization": "Q8_0"
     },
     {
@@ -693,7 +693,7 @@
       "downloadURL": "https://huggingface.co/bartowski/SmolLM2-1.7B-Instruct-GGUF/resolve/main/SmolLM2-1.7B-Instruct-Q2_K.gguf",
       "filename": "SmolLM2-1.7B-Instruct-Q2_K.gguf",
       "badge": null,
-      "hfDownloads": 42168,
+      "hfDownloads": 41789,
       "quantization": "Q2_K"
     },
     {
@@ -705,7 +705,7 @@
       "downloadURL": "https://huggingface.co/bartowski/SmolLM2-1.7B-Instruct-GGUF/resolve/main/SmolLM2-1.7B-Instruct-Q3_K_M.gguf",
       "filename": "SmolLM2-1.7B-Instruct-Q3_K_M.gguf",
       "badge": "Most Compatible",
-      "hfDownloads": 42168,
+      "hfDownloads": 41789,
       "quantization": "Q3_K_M"
     },
     {
@@ -717,7 +717,7 @@
       "downloadURL": "https://huggingface.co/bartowski/SmolLM2-1.7B-Instruct-GGUF/resolve/main/SmolLM2-1.7B-Instruct-Q4_K_S.gguf",
       "filename": "SmolLM2-1.7B-Instruct-Q4_K_S.gguf",
       "badge": null,
-      "hfDownloads": 42168,
+      "hfDownloads": 41789,
       "quantization": "Q4_K_S"
     },
     {
@@ -729,7 +729,7 @@
       "downloadURL": "https://huggingface.co/bartowski/SmolLM2-1.7B-Instruct-GGUF/resolve/main/SmolLM2-1.7B-Instruct-Q4_K_M.gguf",
       "filename": "SmolLM2-1.7B-Instruct-Q4_K_M.gguf",
       "badge": null,
-      "hfDownloads": 42168,
+      "hfDownloads": 41789,
       "quantization": "Q4_K_M"
     },
     {
@@ -741,7 +741,7 @@
       "downloadURL": "https://huggingface.co/bartowski/SmolLM2-1.7B-Instruct-GGUF/resolve/main/SmolLM2-1.7B-Instruct-Q4_0.gguf",
       "filename": "SmolLM2-1.7B-Instruct-Q4_0.gguf",
       "badge": null,
-      "hfDownloads": 42168,
+      "hfDownloads": 41789,
       "quantization": "Q4_0"
     },
     {
@@ -753,7 +753,7 @@
       "downloadURL": "https://huggingface.co/bartowski/SmolLM2-1.7B-Instruct-GGUF/resolve/main/SmolLM2-1.7B-Instruct-Q5_K_M.gguf",
       "filename": "SmolLM2-1.7B-Instruct-Q5_K_M.gguf",
       "badge": null,
-      "hfDownloads": 42168,
+      "hfDownloads": 41789,
       "quantization": "Q5_K_M"
     },
     {
@@ -765,7 +765,7 @@
       "downloadURL": "https://huggingface.co/bartowski/SmolLM2-1.7B-Instruct-GGUF/resolve/main/SmolLM2-1.7B-Instruct-Q6_K.gguf",
       "filename": "SmolLM2-1.7B-Instruct-Q6_K.gguf",
       "badge": null,
-      "hfDownloads": 42168,
+      "hfDownloads": 41789,
       "quantization": "Q6_K"
     },
     {
@@ -777,103 +777,7 @@
       "downloadURL": "https://huggingface.co/bartowski/SmolLM2-1.7B-Instruct-GGUF/resolve/main/SmolLM2-1.7B-Instruct-Q8_0.gguf",
       "filename": "SmolLM2-1.7B-Instruct-Q8_0.gguf",
       "badge": "High Quality",
-      "hfDownloads": 42168,
-      "quantization": "Q8_0"
-    },
-    {
-      "id": "qwen2.5-1.5b-q2",
-      "name": "Qwen2.5 1.5B",
-      "description": "1.5B parameter model, quantized to Q2_K.",
-      "sizeGB": 0.5,
-      "ramRequiredGB": 0.9,
-      "downloadURL": "https://huggingface.co/bartowski/Qwen2.5-1.5B-Instruct-GGUF/resolve/main/Qwen2.5-1.5B-Instruct-Q2_K.gguf",
-      "filename": "Qwen2.5-1.5B-Instruct-Q2_K.gguf",
-      "badge": null,
-      "hfDownloads": 37192,
-      "quantization": "Q2_K"
-    },
-    {
-      "id": "qwen2.5-1.5b-q3",
-      "name": "Qwen2.5 1.5B",
-      "description": "1.5B parameter model, quantized to Q3_K_M.",
-      "sizeGB": 0.6,
-      "ramRequiredGB": 1.1,
-      "downloadURL": "https://huggingface.co/bartowski/Qwen2.5-1.5B-Instruct-GGUF/resolve/main/Qwen2.5-1.5B-Instruct-Q3_K_M.gguf",
-      "filename": "Qwen2.5-1.5B-Instruct-Q3_K_M.gguf",
-      "badge": "Most Compatible",
-      "hfDownloads": 37192,
-      "quantization": "Q3_K_M"
-    },
-    {
-      "id": "qwen2.5-1.5b-q4ks",
-      "name": "Qwen2.5 1.5B",
-      "description": "1.5B parameter model, quantized to Q4_K_S.",
-      "sizeGB": 0.8,
-      "ramRequiredGB": 1.3,
-      "downloadURL": "https://huggingface.co/bartowski/Qwen2.5-1.5B-Instruct-GGUF/resolve/main/Qwen2.5-1.5B-Instruct-Q4_K_S.gguf",
-      "filename": "Qwen2.5-1.5B-Instruct-Q4_K_S.gguf",
-      "badge": null,
-      "hfDownloads": 37192,
-      "quantization": "Q4_K_S"
-    },
-    {
-      "id": "qwen2.5-1.5b-q4",
-      "name": "Qwen2.5 1.5B",
-      "description": "1.5B parameter model, quantized to Q4_K_M.",
-      "sizeGB": 0.8,
-      "ramRequiredGB": 1.3,
-      "downloadURL": "https://huggingface.co/bartowski/Qwen2.5-1.5B-Instruct-GGUF/resolve/main/Qwen2.5-1.5B-Instruct-Q4_K_M.gguf",
-      "filename": "Qwen2.5-1.5B-Instruct-Q4_K_M.gguf",
-      "badge": null,
-      "hfDownloads": 37192,
-      "quantization": "Q4_K_M"
-    },
-    {
-      "id": "qwen2.5-1.5b-q40",
-      "name": "Qwen2.5 1.5B",
-      "description": "1.5B parameter model, quantized to Q4_0.",
-      "sizeGB": 0.8,
-      "ramRequiredGB": 1.3,
-      "downloadURL": "https://huggingface.co/bartowski/Qwen2.5-1.5B-Instruct-GGUF/resolve/main/Qwen2.5-1.5B-Instruct-Q4_0.gguf",
-      "filename": "Qwen2.5-1.5B-Instruct-Q4_0.gguf",
-      "badge": null,
-      "hfDownloads": 37192,
-      "quantization": "Q4_0"
-    },
-    {
-      "id": "qwen2.5-1.5b-q5",
-      "name": "Qwen2.5 1.5B",
-      "description": "1.5B parameter model, quantized to Q5_K_M.",
-      "sizeGB": 1.0,
-      "ramRequiredGB": 1.6,
-      "downloadURL": "https://huggingface.co/bartowski/Qwen2.5-1.5B-Instruct-GGUF/resolve/main/Qwen2.5-1.5B-Instruct-Q5_K_M.gguf",
-      "filename": "Qwen2.5-1.5B-Instruct-Q5_K_M.gguf",
-      "badge": null,
-      "hfDownloads": 37192,
-      "quantization": "Q5_K_M"
-    },
-    {
-      "id": "qwen2.5-1.5b-q6",
-      "name": "Qwen2.5 1.5B",
-      "description": "1.5B parameter model, quantized to Q6_K.",
-      "sizeGB": 1.1,
-      "ramRequiredGB": 1.7,
-      "downloadURL": "https://huggingface.co/bartowski/Qwen2.5-1.5B-Instruct-GGUF/resolve/main/Qwen2.5-1.5B-Instruct-Q6_K.gguf",
-      "filename": "Qwen2.5-1.5B-Instruct-Q6_K.gguf",
-      "badge": null,
-      "hfDownloads": 37192,
-      "quantization": "Q6_K"
-    },
-    {
-      "id": "qwen2.5-1.5b-q8",
-      "name": "Qwen2.5 1.5B",
-      "description": "1.5B parameter model, quantized to Q8_0.",
-      "sizeGB": 1.3,
-      "ramRequiredGB": 2.0,
-      "downloadURL": "https://huggingface.co/bartowski/Qwen2.5-1.5B-Instruct-GGUF/resolve/main/Qwen2.5-1.5B-Instruct-Q8_0.gguf",
-      "filename": "Qwen2.5-1.5B-Instruct-Q8_0.gguf",
-      "badge": "High Quality",
-      "hfDownloads": 37192,
+      "hfDownloads": 41789,
       "quantization": "Q8_0"
     },
     {
@@ -885,7 +789,7 @@
       "downloadURL": "https://huggingface.co/bartowski/google_gemma-4-E4B-it-GGUF/resolve/main/google_gemma-4-E4B-it-Q2_K.gguf",
       "filename": "google_gemma-4-E4B-it-Q2_K.gguf",
       "badge": null,
-      "hfDownloads": 35055,
+      "hfDownloads": 34723,
       "quantization": "Q2_K"
     },
     {
@@ -897,7 +801,7 @@
       "downloadURL": "https://huggingface.co/bartowski/google_gemma-4-E4B-it-GGUF/resolve/main/google_gemma-4-E4B-it-Q3_K_M.gguf",
       "filename": "google_gemma-4-E4B-it-Q3_K_M.gguf",
       "badge": "Most Compatible",
-      "hfDownloads": 35055,
+      "hfDownloads": 34723,
       "quantization": "Q3_K_M"
     },
     {
@@ -909,7 +813,7 @@
       "downloadURL": "https://huggingface.co/bartowski/google_gemma-4-E4B-it-GGUF/resolve/main/google_gemma-4-E4B-it-Q4_K_S.gguf",
       "filename": "google_gemma-4-E4B-it-Q4_K_S.gguf",
       "badge": null,
-      "hfDownloads": 35055,
+      "hfDownloads": 34723,
       "quantization": "Q4_K_S"
     },
     {
@@ -921,7 +825,7 @@
       "downloadURL": "https://huggingface.co/bartowski/google_gemma-4-E4B-it-GGUF/resolve/main/google_gemma-4-E4B-it-Q4_K_M.gguf",
       "filename": "google_gemma-4-E4B-it-Q4_K_M.gguf",
       "badge": null,
-      "hfDownloads": 35055,
+      "hfDownloads": 34723,
       "quantization": "Q4_K_M"
     },
     {
@@ -933,7 +837,7 @@
       "downloadURL": "https://huggingface.co/bartowski/google_gemma-4-E4B-it-GGUF/resolve/main/google_gemma-4-E4B-it-Q4_0.gguf",
       "filename": "google_gemma-4-E4B-it-Q4_0.gguf",
       "badge": null,
-      "hfDownloads": 35055,
+      "hfDownloads": 34723,
       "quantization": "Q4_0"
     },
     {
@@ -945,7 +849,7 @@
       "downloadURL": "https://huggingface.co/bartowski/google_gemma-4-E4B-it-GGUF/resolve/main/google_gemma-4-E4B-it-Q5_K_M.gguf",
       "filename": "google_gemma-4-E4B-it-Q5_K_M.gguf",
       "badge": null,
-      "hfDownloads": 35055,
+      "hfDownloads": 34723,
       "quantization": "Q5_K_M"
     },
     {
@@ -957,7 +861,7 @@
       "downloadURL": "https://huggingface.co/bartowski/google_gemma-4-E4B-it-GGUF/resolve/main/google_gemma-4-E4B-it-Q6_K.gguf",
       "filename": "google_gemma-4-E4B-it-Q6_K.gguf",
       "badge": null,
-      "hfDownloads": 35055,
+      "hfDownloads": 34723,
       "quantization": "Q6_K"
     },
     {
@@ -969,103 +873,199 @@
       "downloadURL": "https://huggingface.co/bartowski/google_gemma-4-E4B-it-GGUF/resolve/main/google_gemma-4-E4B-it-Q8_0.gguf",
       "filename": "google_gemma-4-E4B-it-Q8_0.gguf",
       "badge": "High Quality",
-      "hfDownloads": 35055,
+      "hfDownloads": 34723,
       "quantization": "Q8_0"
     },
     {
-      "id": "google_gemma-3-4b-q2",
-      "name": "Google Gemma 3 4B",
-      "description": "4B parameter model, quantized to Q2_K.",
-      "sizeGB": 1.2,
-      "ramRequiredGB": 1.9,
-      "downloadURL": "https://huggingface.co/bartowski/google_gemma-3-4b-it-GGUF/resolve/main/google_gemma-3-4b-it-Q2_K.gguf",
-      "filename": "google_gemma-3-4b-it-Q2_K.gguf",
+      "id": "qwen2.5-1.5b-q2",
+      "name": "Qwen2.5 1.5B",
+      "description": "1.5B parameter model, quantized to Q2_K.",
+      "sizeGB": 0.5,
+      "ramRequiredGB": 0.9,
+      "downloadURL": "https://huggingface.co/bartowski/Qwen2.5-1.5B-Instruct-GGUF/resolve/main/Qwen2.5-1.5B-Instruct-Q2_K.gguf",
+      "filename": "Qwen2.5-1.5B-Instruct-Q2_K.gguf",
       "badge": null,
-      "hfDownloads": 26640,
+      "hfDownloads": 33478,
       "quantization": "Q2_K"
     },
     {
-      "id": "google_gemma-3-4b-q3",
-      "name": "Google Gemma 3 4B",
-      "description": "4B parameter model, quantized to Q3_K_M.",
-      "sizeGB": 1.7,
-      "ramRequiredGB": 2.5,
-      "downloadURL": "https://huggingface.co/bartowski/google_gemma-3-4b-it-GGUF/resolve/main/google_gemma-3-4b-it-Q3_K_M.gguf",
-      "filename": "google_gemma-3-4b-it-Q3_K_M.gguf",
+      "id": "qwen2.5-1.5b-q3",
+      "name": "Qwen2.5 1.5B",
+      "description": "1.5B parameter model, quantized to Q3_K_M.",
+      "sizeGB": 0.6,
+      "ramRequiredGB": 1.1,
+      "downloadURL": "https://huggingface.co/bartowski/Qwen2.5-1.5B-Instruct-GGUF/resolve/main/Qwen2.5-1.5B-Instruct-Q3_K_M.gguf",
+      "filename": "Qwen2.5-1.5B-Instruct-Q3_K_M.gguf",
       "badge": "Most Compatible",
-      "hfDownloads": 26640,
+      "hfDownloads": 33478,
       "quantization": "Q3_K_M"
     },
     {
-      "id": "google_gemma-3-4b-q4ks",
-      "name": "Google Gemma 3 4B",
-      "description": "4B parameter model, quantized to Q4_K_S.",
-      "sizeGB": 2.1,
-      "ramRequiredGB": 3.0,
-      "downloadURL": "https://huggingface.co/bartowski/google_gemma-3-4b-it-GGUF/resolve/main/google_gemma-3-4b-it-Q4_K_S.gguf",
-      "filename": "google_gemma-3-4b-it-Q4_K_S.gguf",
+      "id": "qwen2.5-1.5b-q4ks",
+      "name": "Qwen2.5 1.5B",
+      "description": "1.5B parameter model, quantized to Q4_K_S.",
+      "sizeGB": 0.8,
+      "ramRequiredGB": 1.3,
+      "downloadURL": "https://huggingface.co/bartowski/Qwen2.5-1.5B-Instruct-GGUF/resolve/main/Qwen2.5-1.5B-Instruct-Q4_K_S.gguf",
+      "filename": "Qwen2.5-1.5B-Instruct-Q4_K_S.gguf",
       "badge": null,
-      "hfDownloads": 26640,
+      "hfDownloads": 33478,
       "quantization": "Q4_K_S"
     },
     {
-      "id": "google_gemma-3-4b-q4",
-      "name": "Google Gemma 3 4B",
-      "description": "4B parameter model, quantized to Q4_K_M.",
-      "sizeGB": 2.2,
-      "ramRequiredGB": 3.2,
-      "downloadURL": "https://huggingface.co/bartowski/google_gemma-3-4b-it-GGUF/resolve/main/google_gemma-3-4b-it-Q4_K_M.gguf",
-      "filename": "google_gemma-3-4b-it-Q4_K_M.gguf",
+      "id": "qwen2.5-1.5b-q4",
+      "name": "Qwen2.5 1.5B",
+      "description": "1.5B parameter model, quantized to Q4_K_M.",
+      "sizeGB": 0.8,
+      "ramRequiredGB": 1.3,
+      "downloadURL": "https://huggingface.co/bartowski/Qwen2.5-1.5B-Instruct-GGUF/resolve/main/Qwen2.5-1.5B-Instruct-Q4_K_M.gguf",
+      "filename": "Qwen2.5-1.5B-Instruct-Q4_K_M.gguf",
       "badge": null,
-      "hfDownloads": 26640,
+      "hfDownloads": 33478,
       "quantization": "Q4_K_M"
     },
     {
-      "id": "google_gemma-3-4b-q40",
-      "name": "Google Gemma 3 4B",
-      "description": "4B parameter model, quantized to Q4_0.",
-      "sizeGB": 2.0,
-      "ramRequiredGB": 2.9,
-      "downloadURL": "https://huggingface.co/bartowski/google_gemma-3-4b-it-GGUF/resolve/main/google_gemma-3-4b-it-Q4_0.gguf",
-      "filename": "google_gemma-3-4b-it-Q4_0.gguf",
+      "id": "qwen2.5-1.5b-q40",
+      "name": "Qwen2.5 1.5B",
+      "description": "1.5B parameter model, quantized to Q4_0.",
+      "sizeGB": 0.8,
+      "ramRequiredGB": 1.3,
+      "downloadURL": "https://huggingface.co/bartowski/Qwen2.5-1.5B-Instruct-GGUF/resolve/main/Qwen2.5-1.5B-Instruct-Q4_0.gguf",
+      "filename": "Qwen2.5-1.5B-Instruct-Q4_0.gguf",
       "badge": null,
-      "hfDownloads": 26640,
+      "hfDownloads": 33478,
       "quantization": "Q4_0"
     },
     {
-      "id": "google_gemma-3-4b-q5",
-      "name": "Google Gemma 3 4B",
-      "description": "4B parameter model, quantized to Q5_K_M.",
-      "sizeGB": 2.6,
-      "ramRequiredGB": 3.7,
-      "downloadURL": "https://huggingface.co/bartowski/google_gemma-3-4b-it-GGUF/resolve/main/google_gemma-3-4b-it-Q5_K_M.gguf",
-      "filename": "google_gemma-3-4b-it-Q5_K_M.gguf",
+      "id": "qwen2.5-1.5b-q5",
+      "name": "Qwen2.5 1.5B",
+      "description": "1.5B parameter model, quantized to Q5_K_M.",
+      "sizeGB": 1.0,
+      "ramRequiredGB": 1.6,
+      "downloadURL": "https://huggingface.co/bartowski/Qwen2.5-1.5B-Instruct-GGUF/resolve/main/Qwen2.5-1.5B-Instruct-Q5_K_M.gguf",
+      "filename": "Qwen2.5-1.5B-Instruct-Q5_K_M.gguf",
       "badge": null,
-      "hfDownloads": 26640,
+      "hfDownloads": 33478,
       "quantization": "Q5_K_M"
     },
     {
-      "id": "google_gemma-3-4b-q6",
-      "name": "Google Gemma 3 4B",
-      "description": "4B parameter model, quantized to Q6_K.",
-      "sizeGB": 3.0,
-      "ramRequiredGB": 4.2,
-      "downloadURL": "https://huggingface.co/bartowski/google_gemma-3-4b-it-GGUF/resolve/main/google_gemma-3-4b-it-Q6_K.gguf",
-      "filename": "google_gemma-3-4b-it-Q6_K.gguf",
+      "id": "qwen2.5-1.5b-q6",
+      "name": "Qwen2.5 1.5B",
+      "description": "1.5B parameter model, quantized to Q6_K.",
+      "sizeGB": 1.1,
+      "ramRequiredGB": 1.7,
+      "downloadURL": "https://huggingface.co/bartowski/Qwen2.5-1.5B-Instruct-GGUF/resolve/main/Qwen2.5-1.5B-Instruct-Q6_K.gguf",
+      "filename": "Qwen2.5-1.5B-Instruct-Q6_K.gguf",
       "badge": null,
-      "hfDownloads": 26640,
+      "hfDownloads": 33478,
       "quantization": "Q6_K"
     },
     {
-      "id": "google_gemma-3-4b-q8",
-      "name": "Google Gemma 3 4B",
-      "description": "4B parameter model, quantized to Q8_0.",
-      "sizeGB": 3.5,
-      "ramRequiredGB": 4.8,
-      "downloadURL": "https://huggingface.co/bartowski/google_gemma-3-4b-it-GGUF/resolve/main/google_gemma-3-4b-it-Q8_0.gguf",
-      "filename": "google_gemma-3-4b-it-Q8_0.gguf",
+      "id": "qwen2.5-1.5b-q8",
+      "name": "Qwen2.5 1.5B",
+      "description": "1.5B parameter model, quantized to Q8_0.",
+      "sizeGB": 1.3,
+      "ramRequiredGB": 2.0,
+      "downloadURL": "https://huggingface.co/bartowski/Qwen2.5-1.5B-Instruct-GGUF/resolve/main/Qwen2.5-1.5B-Instruct-Q8_0.gguf",
+      "filename": "Qwen2.5-1.5B-Instruct-Q8_0.gguf",
       "badge": "High Quality",
-      "hfDownloads": 26640,
+      "hfDownloads": 33478,
+      "quantization": "Q8_0"
+    },
+    {
+      "id": "qwen2.5-0.5b-q2",
+      "name": "Qwen2.5 0.5B",
+      "description": "0.5B parameter model, quantized to Q2_K.",
+      "sizeGB": 0.2,
+      "ramRequiredGB": 0.6,
+      "downloadURL": "https://huggingface.co/bartowski/Qwen2.5-0.5B-Instruct-GGUF/resolve/main/Qwen2.5-0.5B-Instruct-Q2_K.gguf",
+      "filename": "Qwen2.5-0.5B-Instruct-Q2_K.gguf",
+      "badge": null,
+      "hfDownloads": 29615,
+      "quantization": "Q2_K"
+    },
+    {
+      "id": "qwen2.5-0.5b-q3",
+      "name": "Qwen2.5 0.5B",
+      "description": "0.5B parameter model, quantized to Q3_K_M.",
+      "sizeGB": 0.2,
+      "ramRequiredGB": 0.6,
+      "downloadURL": "https://huggingface.co/bartowski/Qwen2.5-0.5B-Instruct-GGUF/resolve/main/Qwen2.5-0.5B-Instruct-Q3_K_M.gguf",
+      "filename": "Qwen2.5-0.5B-Instruct-Q3_K_M.gguf",
+      "badge": "Most Compatible",
+      "hfDownloads": 29615,
+      "quantization": "Q3_K_M"
+    },
+    {
+      "id": "qwen2.5-0.5b-q4ks",
+      "name": "Qwen2.5 0.5B",
+      "description": "0.5B parameter model, quantized to Q4_K_S.",
+      "sizeGB": 0.3,
+      "ramRequiredGB": 0.7,
+      "downloadURL": "https://huggingface.co/bartowski/Qwen2.5-0.5B-Instruct-GGUF/resolve/main/Qwen2.5-0.5B-Instruct-Q4_K_S.gguf",
+      "filename": "Qwen2.5-0.5B-Instruct-Q4_K_S.gguf",
+      "badge": null,
+      "hfDownloads": 29615,
+      "quantization": "Q4_K_S"
+    },
+    {
+      "id": "qwen2.5-0.5b-q4",
+      "name": "Qwen2.5 0.5B",
+      "description": "0.5B parameter model, quantized to Q4_K_M.",
+      "sizeGB": 0.3,
+      "ramRequiredGB": 0.7,
+      "downloadURL": "https://huggingface.co/bartowski/Qwen2.5-0.5B-Instruct-GGUF/resolve/main/Qwen2.5-0.5B-Instruct-Q4_K_M.gguf",
+      "filename": "Qwen2.5-0.5B-Instruct-Q4_K_M.gguf",
+      "badge": null,
+      "hfDownloads": 29615,
+      "quantization": "Q4_K_M"
+    },
+    {
+      "id": "qwen2.5-0.5b-q40",
+      "name": "Qwen2.5 0.5B",
+      "description": "0.5B parameter model, quantized to Q4_0.",
+      "sizeGB": 0.3,
+      "ramRequiredGB": 0.7,
+      "downloadURL": "https://huggingface.co/bartowski/Qwen2.5-0.5B-Instruct-GGUF/resolve/main/Qwen2.5-0.5B-Instruct-Q4_0.gguf",
+      "filename": "Qwen2.5-0.5B-Instruct-Q4_0.gguf",
+      "badge": null,
+      "hfDownloads": 29615,
+      "quantization": "Q4_0"
+    },
+    {
+      "id": "qwen2.5-0.5b-q5",
+      "name": "Qwen2.5 0.5B",
+      "description": "0.5B parameter model, quantized to Q5_K_M.",
+      "sizeGB": 0.3,
+      "ramRequiredGB": 0.7,
+      "downloadURL": "https://huggingface.co/bartowski/Qwen2.5-0.5B-Instruct-GGUF/resolve/main/Qwen2.5-0.5B-Instruct-Q5_K_M.gguf",
+      "filename": "Qwen2.5-0.5B-Instruct-Q5_K_M.gguf",
+      "badge": null,
+      "hfDownloads": 29615,
+      "quantization": "Q5_K_M"
+    },
+    {
+      "id": "qwen2.5-0.5b-q6",
+      "name": "Qwen2.5 0.5B",
+      "description": "0.5B parameter model, quantized to Q6_K.",
+      "sizeGB": 0.4,
+      "ramRequiredGB": 0.8,
+      "downloadURL": "https://huggingface.co/bartowski/Qwen2.5-0.5B-Instruct-GGUF/resolve/main/Qwen2.5-0.5B-Instruct-Q6_K.gguf",
+      "filename": "Qwen2.5-0.5B-Instruct-Q6_K.gguf",
+      "badge": null,
+      "hfDownloads": 29615,
+      "quantization": "Q6_K"
+    },
+    {
+      "id": "qwen2.5-0.5b-q8",
+      "name": "Qwen2.5 0.5B",
+      "description": "0.5B parameter model, quantized to Q8_0.",
+      "sizeGB": 0.4,
+      "ramRequiredGB": 0.8,
+      "downloadURL": "https://huggingface.co/bartowski/Qwen2.5-0.5B-Instruct-GGUF/resolve/main/Qwen2.5-0.5B-Instruct-Q8_0.gguf",
+      "filename": "Qwen2.5-0.5B-Instruct-Q8_0.gguf",
+      "badge": "High Quality",
+      "hfDownloads": 29615,
       "quantization": "Q8_0"
     }
   ],
@@ -1083,7 +1083,7 @@
           "downloadURL": "https://huggingface.co/bartowski/DeepSeek-R1-Distill-Qwen-7B-GGUF/resolve/main/DeepSeek-R1-Distill-Qwen-7B-Q2_K.gguf",
           "filename": "DeepSeek-R1-Distill-Qwen-7B-Q2_K.gguf",
           "badge": null,
-          "hfDownloads": 53813,
+          "hfDownloads": 52025,
           "quantization": "Q2_K"
         },
         {
@@ -1095,7 +1095,7 @@
           "downloadURL": "https://huggingface.co/bartowski/DeepSeek-R1-Distill-Qwen-7B-GGUF/resolve/main/DeepSeek-R1-Distill-Qwen-7B-Q3_K_M.gguf",
           "filename": "DeepSeek-R1-Distill-Qwen-7B-Q3_K_M.gguf",
           "badge": "Most Compatible",
-          "hfDownloads": 53813,
+          "hfDownloads": 52025,
           "quantization": "Q3_K_M"
         },
         {
@@ -1107,7 +1107,7 @@
           "downloadURL": "https://huggingface.co/bartowski/DeepSeek-R1-Distill-Qwen-7B-GGUF/resolve/main/DeepSeek-R1-Distill-Qwen-7B-Q4_K_S.gguf",
           "filename": "DeepSeek-R1-Distill-Qwen-7B-Q4_K_S.gguf",
           "badge": null,
-          "hfDownloads": 53813,
+          "hfDownloads": 52025,
           "quantization": "Q4_K_S"
         },
         {
@@ -1119,7 +1119,7 @@
           "downloadURL": "https://huggingface.co/bartowski/DeepSeek-R1-Distill-Qwen-7B-GGUF/resolve/main/DeepSeek-R1-Distill-Qwen-7B-Q4_K_M.gguf",
           "filename": "DeepSeek-R1-Distill-Qwen-7B-Q4_K_M.gguf",
           "badge": null,
-          "hfDownloads": 53813,
+          "hfDownloads": 52025,
           "quantization": "Q4_K_M"
         },
         {
@@ -1131,7 +1131,7 @@
           "downloadURL": "https://huggingface.co/bartowski/DeepSeek-R1-Distill-Qwen-7B-GGUF/resolve/main/DeepSeek-R1-Distill-Qwen-7B-Q4_0.gguf",
           "filename": "DeepSeek-R1-Distill-Qwen-7B-Q4_0.gguf",
           "badge": null,
-          "hfDownloads": 53813,
+          "hfDownloads": 52025,
           "quantization": "Q4_0"
         },
         {
@@ -1143,7 +1143,7 @@
           "downloadURL": "https://huggingface.co/bartowski/DeepSeek-R1-Distill-Qwen-7B-GGUF/resolve/main/DeepSeek-R1-Distill-Qwen-7B-Q5_K_M.gguf",
           "filename": "DeepSeek-R1-Distill-Qwen-7B-Q5_K_M.gguf",
           "badge": null,
-          "hfDownloads": 53813,
+          "hfDownloads": 52025,
           "quantization": "Q5_K_M"
         },
         {
@@ -1155,7 +1155,7 @@
           "downloadURL": "https://huggingface.co/bartowski/DeepSeek-R1-Distill-Qwen-7B-GGUF/resolve/main/DeepSeek-R1-Distill-Qwen-7B-Q6_K.gguf",
           "filename": "DeepSeek-R1-Distill-Qwen-7B-Q6_K.gguf",
           "badge": null,
-          "hfDownloads": 53813,
+          "hfDownloads": 52025,
           "quantization": "Q6_K"
         },
         {
@@ -1167,103 +1167,7 @@
           "downloadURL": "https://huggingface.co/bartowski/DeepSeek-R1-Distill-Qwen-7B-GGUF/resolve/main/DeepSeek-R1-Distill-Qwen-7B-Q8_0.gguf",
           "filename": "DeepSeek-R1-Distill-Qwen-7B-Q8_0.gguf",
           "badge": "High Quality",
-          "hfDownloads": 53813,
-          "quantization": "Q8_0"
-        },
-        {
-          "id": "deepseek-r1-distill-llama-70b-q2",
-          "name": "DeepSeek R1 Distill Llama 70B",
-          "description": "70B parameter model, quantized to Q2_K.",
-          "sizeGB": 21.7,
-          "ramRequiredGB": 28.5,
-          "downloadURL": "https://huggingface.co/bartowski/DeepSeek-R1-Distill-Llama-70B-GGUF/resolve/main/DeepSeek-R1-Distill-Llama-70B-Q2_K.gguf",
-          "filename": "DeepSeek-R1-Distill-Llama-70B-Q2_K.gguf",
-          "badge": null,
-          "hfDownloads": 36048,
-          "quantization": "Q2_K"
-        },
-        {
-          "id": "deepseek-r1-distill-llama-70b-q3",
-          "name": "DeepSeek R1 Distill Llama 70B",
-          "description": "70B parameter model, quantized to Q3_K_M.",
-          "sizeGB": 29.4,
-          "ramRequiredGB": 38.5,
-          "downloadURL": "https://huggingface.co/bartowski/DeepSeek-R1-Distill-Llama-70B-GGUF/resolve/main/DeepSeek-R1-Distill-Llama-70B-Q3_K_M.gguf",
-          "filename": "DeepSeek-R1-Distill-Llama-70B-Q3_K_M.gguf",
-          "badge": "Most Compatible",
-          "hfDownloads": 36048,
-          "quantization": "Q3_K_M"
-        },
-        {
-          "id": "deepseek-r1-distill-llama-70b-q4ks",
-          "name": "DeepSeek R1 Distill Llama 70B",
-          "description": "70B parameter model, quantized to Q4_K_S.",
-          "sizeGB": 36.4,
-          "ramRequiredGB": 47.6,
-          "downloadURL": "https://huggingface.co/bartowski/DeepSeek-R1-Distill-Llama-70B-GGUF/resolve/main/DeepSeek-R1-Distill-Llama-70B-Q4_K_S.gguf",
-          "filename": "DeepSeek-R1-Distill-Llama-70B-Q4_K_S.gguf",
-          "badge": null,
-          "hfDownloads": 36048,
-          "quantization": "Q4_K_S"
-        },
-        {
-          "id": "deepseek-r1-distill-llama-70b-q4",
-          "name": "DeepSeek R1 Distill Llama 70B",
-          "description": "70B parameter model, quantized to Q4_K_M.",
-          "sizeGB": 38.5,
-          "ramRequiredGB": 50.4,
-          "downloadURL": "https://huggingface.co/bartowski/DeepSeek-R1-Distill-Llama-70B-GGUF/resolve/main/DeepSeek-R1-Distill-Llama-70B-Q4_K_M.gguf",
-          "filename": "DeepSeek-R1-Distill-Llama-70B-Q4_K_M.gguf",
-          "badge": null,
-          "hfDownloads": 36048,
-          "quantization": "Q4_K_M"
-        },
-        {
-          "id": "deepseek-r1-distill-llama-70b-q40",
-          "name": "DeepSeek R1 Distill Llama 70B",
-          "description": "70B parameter model, quantized to Q4_0.",
-          "sizeGB": 35.7,
-          "ramRequiredGB": 46.7,
-          "downloadURL": "https://huggingface.co/bartowski/DeepSeek-R1-Distill-Llama-70B-GGUF/resolve/main/DeepSeek-R1-Distill-Llama-70B-Q4_0.gguf",
-          "filename": "DeepSeek-R1-Distill-Llama-70B-Q4_0.gguf",
-          "badge": null,
-          "hfDownloads": 36048,
-          "quantization": "Q4_0"
-        },
-        {
-          "id": "deepseek-r1-distill-llama-70b-q5",
-          "name": "DeepSeek R1 Distill Llama 70B",
-          "description": "70B parameter model, quantized to Q5_K_M.",
-          "sizeGB": 45.5,
-          "ramRequiredGB": 59.4,
-          "downloadURL": "https://huggingface.co/bartowski/DeepSeek-R1-Distill-Llama-70B-GGUF/resolve/main/DeepSeek-R1-Distill-Llama-70B-Q5_K_M/DeepSeek-R1-Distill-Llama-70B-Q5_K_M-00001-of-00002.gguf",
-          "filename": "DeepSeek-R1-Distill-Llama-70B-Q5_K_M/DeepSeek-R1-Distill-Llama-70B-Q5_K_M-00001-of-00002.gguf",
-          "badge": null,
-          "hfDownloads": 36048,
-          "quantization": "Q5_K_M"
-        },
-        {
-          "id": "deepseek-r1-distill-llama-70b-q6",
-          "name": "DeepSeek R1 Distill Llama 70B",
-          "description": "70B parameter model, quantized to Q6_K.",
-          "sizeGB": 52.5,
-          "ramRequiredGB": 68.5,
-          "downloadURL": "https://huggingface.co/bartowski/DeepSeek-R1-Distill-Llama-70B-GGUF/resolve/main/DeepSeek-R1-Distill-Llama-70B-Q6_K/DeepSeek-R1-Distill-Llama-70B-Q6_K-00001-of-00002.gguf",
-          "filename": "DeepSeek-R1-Distill-Llama-70B-Q6_K/DeepSeek-R1-Distill-Llama-70B-Q6_K-00001-of-00002.gguf",
-          "badge": null,
-          "hfDownloads": 36048,
-          "quantization": "Q6_K"
-        },
-        {
-          "id": "deepseek-r1-distill-llama-70b-q8",
-          "name": "DeepSeek R1 Distill Llama 70B",
-          "description": "70B parameter model, quantized to Q8_0.",
-          "sizeGB": 60.9,
-          "ramRequiredGB": 79.5,
-          "downloadURL": "https://huggingface.co/bartowski/DeepSeek-R1-Distill-Llama-70B-GGUF/resolve/main/DeepSeek-R1-Distill-Llama-70B-Q8_0/DeepSeek-R1-Distill-Llama-70B-Q8_0-00001-of-00002.gguf",
-          "filename": "DeepSeek-R1-Distill-Llama-70B-Q8_0/DeepSeek-R1-Distill-Llama-70B-Q8_0-00001-of-00002.gguf",
-          "badge": "High Quality",
-          "hfDownloads": 36048,
+          "hfDownloads": 52025,
           "quantization": "Q8_0"
         },
         {
@@ -1275,7 +1179,7 @@
           "downloadURL": "https://huggingface.co/bartowski/DeepSeek-R1-Distill-Qwen-14B-GGUF/resolve/main/DeepSeek-R1-Distill-Qwen-14B-Q2_K.gguf",
           "filename": "DeepSeek-R1-Distill-Qwen-14B-Q2_K.gguf",
           "badge": null,
-          "hfDownloads": 33641,
+          "hfDownloads": 33190,
           "quantization": "Q2_K"
         },
         {
@@ -1287,7 +1191,7 @@
           "downloadURL": "https://huggingface.co/bartowski/DeepSeek-R1-Distill-Qwen-14B-GGUF/resolve/main/DeepSeek-R1-Distill-Qwen-14B-Q3_K_M.gguf",
           "filename": "DeepSeek-R1-Distill-Qwen-14B-Q3_K_M.gguf",
           "badge": "Most Compatible",
-          "hfDownloads": 33641,
+          "hfDownloads": 33190,
           "quantization": "Q3_K_M"
         },
         {
@@ -1299,7 +1203,7 @@
           "downloadURL": "https://huggingface.co/bartowski/DeepSeek-R1-Distill-Qwen-14B-GGUF/resolve/main/DeepSeek-R1-Distill-Qwen-14B-Q4_K_S.gguf",
           "filename": "DeepSeek-R1-Distill-Qwen-14B-Q4_K_S.gguf",
           "badge": null,
-          "hfDownloads": 33641,
+          "hfDownloads": 33190,
           "quantization": "Q4_K_S"
         },
         {
@@ -1311,7 +1215,7 @@
           "downloadURL": "https://huggingface.co/bartowski/DeepSeek-R1-Distill-Qwen-14B-GGUF/resolve/main/DeepSeek-R1-Distill-Qwen-14B-Q4_K_M.gguf",
           "filename": "DeepSeek-R1-Distill-Qwen-14B-Q4_K_M.gguf",
           "badge": null,
-          "hfDownloads": 33641,
+          "hfDownloads": 33190,
           "quantization": "Q4_K_M"
         },
         {
@@ -1323,7 +1227,7 @@
           "downloadURL": "https://huggingface.co/bartowski/DeepSeek-R1-Distill-Qwen-14B-GGUF/resolve/main/DeepSeek-R1-Distill-Qwen-14B-Q4_0.gguf",
           "filename": "DeepSeek-R1-Distill-Qwen-14B-Q4_0.gguf",
           "badge": null,
-          "hfDownloads": 33641,
+          "hfDownloads": 33190,
           "quantization": "Q4_0"
         },
         {
@@ -1335,7 +1239,7 @@
           "downloadURL": "https://huggingface.co/bartowski/DeepSeek-R1-Distill-Qwen-14B-GGUF/resolve/main/DeepSeek-R1-Distill-Qwen-14B-Q5_K_M.gguf",
           "filename": "DeepSeek-R1-Distill-Qwen-14B-Q5_K_M.gguf",
           "badge": null,
-          "hfDownloads": 33641,
+          "hfDownloads": 33190,
           "quantization": "Q5_K_M"
         },
         {
@@ -1347,7 +1251,7 @@
           "downloadURL": "https://huggingface.co/bartowski/DeepSeek-R1-Distill-Qwen-14B-GGUF/resolve/main/DeepSeek-R1-Distill-Qwen-14B-Q6_K.gguf",
           "filename": "DeepSeek-R1-Distill-Qwen-14B-Q6_K.gguf",
           "badge": null,
-          "hfDownloads": 33641,
+          "hfDownloads": 33190,
           "quantization": "Q6_K"
         },
         {
@@ -1359,7 +1263,103 @@
           "downloadURL": "https://huggingface.co/bartowski/DeepSeek-R1-Distill-Qwen-14B-GGUF/resolve/main/DeepSeek-R1-Distill-Qwen-14B-Q8_0.gguf",
           "filename": "DeepSeek-R1-Distill-Qwen-14B-Q8_0.gguf",
           "badge": "High Quality",
-          "hfDownloads": 33641,
+          "hfDownloads": 33190,
+          "quantization": "Q8_0"
+        },
+        {
+          "id": "deepseek-r1-distill-llama-70b-q2",
+          "name": "DeepSeek R1 Distill Llama 70B",
+          "description": "70B parameter model, quantized to Q2_K.",
+          "sizeGB": 21.7,
+          "ramRequiredGB": 28.5,
+          "downloadURL": "https://huggingface.co/bartowski/DeepSeek-R1-Distill-Llama-70B-GGUF/resolve/main/DeepSeek-R1-Distill-Llama-70B-Q2_K.gguf",
+          "filename": "DeepSeek-R1-Distill-Llama-70B-Q2_K.gguf",
+          "badge": null,
+          "hfDownloads": 30412,
+          "quantization": "Q2_K"
+        },
+        {
+          "id": "deepseek-r1-distill-llama-70b-q3",
+          "name": "DeepSeek R1 Distill Llama 70B",
+          "description": "70B parameter model, quantized to Q3_K_M.",
+          "sizeGB": 29.4,
+          "ramRequiredGB": 38.5,
+          "downloadURL": "https://huggingface.co/bartowski/DeepSeek-R1-Distill-Llama-70B-GGUF/resolve/main/DeepSeek-R1-Distill-Llama-70B-Q3_K_M.gguf",
+          "filename": "DeepSeek-R1-Distill-Llama-70B-Q3_K_M.gguf",
+          "badge": "Most Compatible",
+          "hfDownloads": 30412,
+          "quantization": "Q3_K_M"
+        },
+        {
+          "id": "deepseek-r1-distill-llama-70b-q4ks",
+          "name": "DeepSeek R1 Distill Llama 70B",
+          "description": "70B parameter model, quantized to Q4_K_S.",
+          "sizeGB": 36.4,
+          "ramRequiredGB": 47.6,
+          "downloadURL": "https://huggingface.co/bartowski/DeepSeek-R1-Distill-Llama-70B-GGUF/resolve/main/DeepSeek-R1-Distill-Llama-70B-Q4_K_S.gguf",
+          "filename": "DeepSeek-R1-Distill-Llama-70B-Q4_K_S.gguf",
+          "badge": null,
+          "hfDownloads": 30412,
+          "quantization": "Q4_K_S"
+        },
+        {
+          "id": "deepseek-r1-distill-llama-70b-q4",
+          "name": "DeepSeek R1 Distill Llama 70B",
+          "description": "70B parameter model, quantized to Q4_K_M.",
+          "sizeGB": 38.5,
+          "ramRequiredGB": 50.4,
+          "downloadURL": "https://huggingface.co/bartowski/DeepSeek-R1-Distill-Llama-70B-GGUF/resolve/main/DeepSeek-R1-Distill-Llama-70B-Q4_K_M.gguf",
+          "filename": "DeepSeek-R1-Distill-Llama-70B-Q4_K_M.gguf",
+          "badge": null,
+          "hfDownloads": 30412,
+          "quantization": "Q4_K_M"
+        },
+        {
+          "id": "deepseek-r1-distill-llama-70b-q40",
+          "name": "DeepSeek R1 Distill Llama 70B",
+          "description": "70B parameter model, quantized to Q4_0.",
+          "sizeGB": 35.7,
+          "ramRequiredGB": 46.7,
+          "downloadURL": "https://huggingface.co/bartowski/DeepSeek-R1-Distill-Llama-70B-GGUF/resolve/main/DeepSeek-R1-Distill-Llama-70B-Q4_0.gguf",
+          "filename": "DeepSeek-R1-Distill-Llama-70B-Q4_0.gguf",
+          "badge": null,
+          "hfDownloads": 30412,
+          "quantization": "Q4_0"
+        },
+        {
+          "id": "deepseek-r1-distill-llama-70b-q5",
+          "name": "DeepSeek R1 Distill Llama 70B",
+          "description": "70B parameter model, quantized to Q5_K_M.",
+          "sizeGB": 45.5,
+          "ramRequiredGB": 59.4,
+          "downloadURL": "https://huggingface.co/bartowski/DeepSeek-R1-Distill-Llama-70B-GGUF/resolve/main/DeepSeek-R1-Distill-Llama-70B-Q5_K_M/DeepSeek-R1-Distill-Llama-70B-Q5_K_M-00001-of-00002.gguf",
+          "filename": "DeepSeek-R1-Distill-Llama-70B-Q5_K_M/DeepSeek-R1-Distill-Llama-70B-Q5_K_M-00001-of-00002.gguf",
+          "badge": null,
+          "hfDownloads": 30412,
+          "quantization": "Q5_K_M"
+        },
+        {
+          "id": "deepseek-r1-distill-llama-70b-q6",
+          "name": "DeepSeek R1 Distill Llama 70B",
+          "description": "70B parameter model, quantized to Q6_K.",
+          "sizeGB": 52.5,
+          "ramRequiredGB": 68.5,
+          "downloadURL": "https://huggingface.co/bartowski/DeepSeek-R1-Distill-Llama-70B-GGUF/resolve/main/DeepSeek-R1-Distill-Llama-70B-Q6_K/DeepSeek-R1-Distill-Llama-70B-Q6_K-00001-of-00002.gguf",
+          "filename": "DeepSeek-R1-Distill-Llama-70B-Q6_K/DeepSeek-R1-Distill-Llama-70B-Q6_K-00001-of-00002.gguf",
+          "badge": null,
+          "hfDownloads": 30412,
+          "quantization": "Q6_K"
+        },
+        {
+          "id": "deepseek-r1-distill-llama-70b-q8",
+          "name": "DeepSeek R1 Distill Llama 70B",
+          "description": "70B parameter model, quantized to Q8_0.",
+          "sizeGB": 60.9,
+          "ramRequiredGB": 79.5,
+          "downloadURL": "https://huggingface.co/bartowski/DeepSeek-R1-Distill-Llama-70B-GGUF/resolve/main/DeepSeek-R1-Distill-Llama-70B-Q8_0/DeepSeek-R1-Distill-Llama-70B-Q8_0-00001-of-00002.gguf",
+          "filename": "DeepSeek-R1-Distill-Llama-70B-Q8_0/DeepSeek-R1-Distill-Llama-70B-Q8_0-00001-of-00002.gguf",
+          "badge": "High Quality",
+          "hfDownloads": 30412,
           "quantization": "Q8_0"
         },
         {
@@ -1371,7 +1371,7 @@
           "downloadURL": "https://huggingface.co/bartowski/DeepSeek-R1-Distill-Qwen-32B-GGUF/resolve/main/DeepSeek-R1-Distill-Qwen-32B-Q2_K.gguf",
           "filename": "DeepSeek-R1-Distill-Qwen-32B-Q2_K.gguf",
           "badge": null,
-          "hfDownloads": 25965,
+          "hfDownloads": 26119,
           "quantization": "Q2_K"
         },
         {
@@ -1383,7 +1383,7 @@
           "downloadURL": "https://huggingface.co/bartowski/DeepSeek-R1-Distill-Qwen-32B-GGUF/resolve/main/DeepSeek-R1-Distill-Qwen-32B-Q3_K_M.gguf",
           "filename": "DeepSeek-R1-Distill-Qwen-32B-Q3_K_M.gguf",
           "badge": "Most Compatible",
-          "hfDownloads": 25965,
+          "hfDownloads": 26119,
           "quantization": "Q3_K_M"
         },
         {
@@ -1395,7 +1395,7 @@
           "downloadURL": "https://huggingface.co/bartowski/DeepSeek-R1-Distill-Qwen-32B-GGUF/resolve/main/DeepSeek-R1-Distill-Qwen-32B-Q4_K_S.gguf",
           "filename": "DeepSeek-R1-Distill-Qwen-32B-Q4_K_S.gguf",
           "badge": null,
-          "hfDownloads": 25965,
+          "hfDownloads": 26119,
           "quantization": "Q4_K_S"
         },
         {
@@ -1407,7 +1407,7 @@
           "downloadURL": "https://huggingface.co/bartowski/DeepSeek-R1-Distill-Qwen-32B-GGUF/resolve/main/DeepSeek-R1-Distill-Qwen-32B-Q4_K_M.gguf",
           "filename": "DeepSeek-R1-Distill-Qwen-32B-Q4_K_M.gguf",
           "badge": null,
-          "hfDownloads": 25965,
+          "hfDownloads": 26119,
           "quantization": "Q4_K_M"
         },
         {
@@ -1419,7 +1419,7 @@
           "downloadURL": "https://huggingface.co/bartowski/DeepSeek-R1-Distill-Qwen-32B-GGUF/resolve/main/DeepSeek-R1-Distill-Qwen-32B-Q4_0.gguf",
           "filename": "DeepSeek-R1-Distill-Qwen-32B-Q4_0.gguf",
           "badge": null,
-          "hfDownloads": 25965,
+          "hfDownloads": 26119,
           "quantization": "Q4_0"
         },
         {
@@ -1431,7 +1431,7 @@
           "downloadURL": "https://huggingface.co/bartowski/DeepSeek-R1-Distill-Qwen-32B-GGUF/resolve/main/DeepSeek-R1-Distill-Qwen-32B-Q5_K_M.gguf",
           "filename": "DeepSeek-R1-Distill-Qwen-32B-Q5_K_M.gguf",
           "badge": null,
-          "hfDownloads": 25965,
+          "hfDownloads": 26119,
           "quantization": "Q5_K_M"
         },
         {
@@ -1443,7 +1443,7 @@
           "downloadURL": "https://huggingface.co/bartowski/DeepSeek-R1-Distill-Qwen-32B-GGUF/resolve/main/DeepSeek-R1-Distill-Qwen-32B-Q6_K.gguf",
           "filename": "DeepSeek-R1-Distill-Qwen-32B-Q6_K.gguf",
           "badge": null,
-          "hfDownloads": 25965,
+          "hfDownloads": 26119,
           "quantization": "Q6_K"
         },
         {
@@ -1455,7 +1455,7 @@
           "downloadURL": "https://huggingface.co/bartowski/DeepSeek-R1-Distill-Qwen-32B-GGUF/resolve/main/DeepSeek-R1-Distill-Qwen-32B-Q8_0.gguf",
           "filename": "DeepSeek-R1-Distill-Qwen-32B-Q8_0.gguf",
           "badge": "High Quality",
-          "hfDownloads": 25965,
+          "hfDownloads": 26119,
           "quantization": "Q8_0"
         },
         {
@@ -1467,7 +1467,7 @@
           "downloadURL": "https://huggingface.co/bartowski/DeepSeek-R1-Distill-Qwen-1.5B-GGUF/resolve/main/DeepSeek-R1-Distill-Qwen-1.5B-Q2_K.gguf",
           "filename": "DeepSeek-R1-Distill-Qwen-1.5B-Q2_K.gguf",
           "badge": null,
-          "hfDownloads": 18791,
+          "hfDownloads": 19034,
           "quantization": "Q2_K"
         },
         {
@@ -1479,7 +1479,7 @@
           "downloadURL": "https://huggingface.co/bartowski/DeepSeek-R1-Distill-Qwen-1.5B-GGUF/resolve/main/DeepSeek-R1-Distill-Qwen-1.5B-Q3_K_M.gguf",
           "filename": "DeepSeek-R1-Distill-Qwen-1.5B-Q3_K_M.gguf",
           "badge": "Most Compatible",
-          "hfDownloads": 18791,
+          "hfDownloads": 19034,
           "quantization": "Q3_K_M"
         },
         {
@@ -1491,7 +1491,7 @@
           "downloadURL": "https://huggingface.co/bartowski/DeepSeek-R1-Distill-Qwen-1.5B-GGUF/resolve/main/DeepSeek-R1-Distill-Qwen-1.5B-Q4_K_S.gguf",
           "filename": "DeepSeek-R1-Distill-Qwen-1.5B-Q4_K_S.gguf",
           "badge": null,
-          "hfDownloads": 18791,
+          "hfDownloads": 19034,
           "quantization": "Q4_K_S"
         },
         {
@@ -1503,7 +1503,7 @@
           "downloadURL": "https://huggingface.co/bartowski/DeepSeek-R1-Distill-Qwen-1.5B-GGUF/resolve/main/DeepSeek-R1-Distill-Qwen-1.5B-Q4_K_M.gguf",
           "filename": "DeepSeek-R1-Distill-Qwen-1.5B-Q4_K_M.gguf",
           "badge": null,
-          "hfDownloads": 18791,
+          "hfDownloads": 19034,
           "quantization": "Q4_K_M"
         },
         {
@@ -1515,7 +1515,7 @@
           "downloadURL": "https://huggingface.co/bartowski/DeepSeek-R1-Distill-Qwen-1.5B-GGUF/resolve/main/DeepSeek-R1-Distill-Qwen-1.5B-Q4_0.gguf",
           "filename": "DeepSeek-R1-Distill-Qwen-1.5B-Q4_0.gguf",
           "badge": null,
-          "hfDownloads": 18791,
+          "hfDownloads": 19034,
           "quantization": "Q4_0"
         },
         {
@@ -1527,7 +1527,7 @@
           "downloadURL": "https://huggingface.co/bartowski/DeepSeek-R1-Distill-Qwen-1.5B-GGUF/resolve/main/DeepSeek-R1-Distill-Qwen-1.5B-Q5_K_M.gguf",
           "filename": "DeepSeek-R1-Distill-Qwen-1.5B-Q5_K_M.gguf",
           "badge": null,
-          "hfDownloads": 18791,
+          "hfDownloads": 19034,
           "quantization": "Q5_K_M"
         },
         {
@@ -1539,7 +1539,7 @@
           "downloadURL": "https://huggingface.co/bartowski/DeepSeek-R1-Distill-Qwen-1.5B-GGUF/resolve/main/DeepSeek-R1-Distill-Qwen-1.5B-Q6_K.gguf",
           "filename": "DeepSeek-R1-Distill-Qwen-1.5B-Q6_K.gguf",
           "badge": null,
-          "hfDownloads": 18791,
+          "hfDownloads": 19034,
           "quantization": "Q6_K"
         },
         {
@@ -1551,7 +1551,7 @@
           "downloadURL": "https://huggingface.co/bartowski/DeepSeek-R1-Distill-Qwen-1.5B-GGUF/resolve/main/DeepSeek-R1-Distill-Qwen-1.5B-Q8_0.gguf",
           "filename": "DeepSeek-R1-Distill-Qwen-1.5B-Q8_0.gguf",
           "badge": "High Quality",
-          "hfDownloads": 18791,
+          "hfDownloads": 19034,
           "quantization": "Q8_0"
         }
       ]
@@ -1569,7 +1569,7 @@
           "downloadURL": "https://huggingface.co/bartowski/Qwen2.5-Coder-7B-Instruct-GGUF/resolve/main/Qwen2.5-Coder-7B-Instruct-Q2_K.gguf",
           "filename": "Qwen2.5-Coder-7B-Instruct-Q2_K.gguf",
           "badge": null,
-          "hfDownloads": 42209,
+          "hfDownloads": 45025,
           "quantization": "Q2_K"
         },
         {
@@ -1581,7 +1581,7 @@
           "downloadURL": "https://huggingface.co/bartowski/Qwen2.5-Coder-7B-Instruct-GGUF/resolve/main/Qwen2.5-Coder-7B-Instruct-Q3_K_M.gguf",
           "filename": "Qwen2.5-Coder-7B-Instruct-Q3_K_M.gguf",
           "badge": "Most Compatible",
-          "hfDownloads": 42209,
+          "hfDownloads": 45025,
           "quantization": "Q3_K_M"
         },
         {
@@ -1593,7 +1593,7 @@
           "downloadURL": "https://huggingface.co/bartowski/Qwen2.5-Coder-7B-Instruct-GGUF/resolve/main/Qwen2.5-Coder-7B-Instruct-Q4_K_S.gguf",
           "filename": "Qwen2.5-Coder-7B-Instruct-Q4_K_S.gguf",
           "badge": null,
-          "hfDownloads": 42209,
+          "hfDownloads": 45025,
           "quantization": "Q4_K_S"
         },
         {
@@ -1605,7 +1605,7 @@
           "downloadURL": "https://huggingface.co/bartowski/Qwen2.5-Coder-7B-Instruct-GGUF/resolve/main/Qwen2.5-Coder-7B-Instruct-Q4_K_M.gguf",
           "filename": "Qwen2.5-Coder-7B-Instruct-Q4_K_M.gguf",
           "badge": null,
-          "hfDownloads": 42209,
+          "hfDownloads": 45025,
           "quantization": "Q4_K_M"
         },
         {
@@ -1617,7 +1617,7 @@
           "downloadURL": "https://huggingface.co/bartowski/Qwen2.5-Coder-7B-Instruct-GGUF/resolve/main/Qwen2.5-Coder-7B-Instruct-Q4_0.gguf",
           "filename": "Qwen2.5-Coder-7B-Instruct-Q4_0.gguf",
           "badge": null,
-          "hfDownloads": 42209,
+          "hfDownloads": 45025,
           "quantization": "Q4_0"
         },
         {
@@ -1629,7 +1629,7 @@
           "downloadURL": "https://huggingface.co/bartowski/Qwen2.5-Coder-7B-Instruct-GGUF/resolve/main/Qwen2.5-Coder-7B-Instruct-Q5_K_M.gguf",
           "filename": "Qwen2.5-Coder-7B-Instruct-Q5_K_M.gguf",
           "badge": null,
-          "hfDownloads": 42209,
+          "hfDownloads": 45025,
           "quantization": "Q5_K_M"
         },
         {
@@ -1641,7 +1641,7 @@
           "downloadURL": "https://huggingface.co/bartowski/Qwen2.5-Coder-7B-Instruct-GGUF/resolve/main/Qwen2.5-Coder-7B-Instruct-Q6_K.gguf",
           "filename": "Qwen2.5-Coder-7B-Instruct-Q6_K.gguf",
           "badge": null,
-          "hfDownloads": 42209,
+          "hfDownloads": 45025,
           "quantization": "Q6_K"
         },
         {
@@ -1653,7 +1653,7 @@
           "downloadURL": "https://huggingface.co/bartowski/Qwen2.5-Coder-7B-Instruct-GGUF/resolve/main/Qwen2.5-Coder-7B-Instruct-Q8_0.gguf",
           "filename": "Qwen2.5-Coder-7B-Instruct-Q8_0.gguf",
           "badge": "High Quality",
-          "hfDownloads": 42209,
+          "hfDownloads": 45025,
           "quantization": "Q8_0"
         },
         {
@@ -1665,7 +1665,7 @@
           "downloadURL": "https://huggingface.co/bartowski/Qwen2.5-Coder-32B-Instruct-GGUF/resolve/main/Qwen2.5-Coder-32B-Instruct-Q2_K.gguf",
           "filename": "Qwen2.5-Coder-32B-Instruct-Q2_K.gguf",
           "badge": null,
-          "hfDownloads": 27317,
+          "hfDownloads": 33502,
           "quantization": "Q2_K"
         },
         {
@@ -1677,7 +1677,7 @@
           "downloadURL": "https://huggingface.co/bartowski/Qwen2.5-Coder-32B-Instruct-GGUF/resolve/main/Qwen2.5-Coder-32B-Instruct-Q3_K_M.gguf",
           "filename": "Qwen2.5-Coder-32B-Instruct-Q3_K_M.gguf",
           "badge": "Most Compatible",
-          "hfDownloads": 27317,
+          "hfDownloads": 33502,
           "quantization": "Q3_K_M"
         },
         {
@@ -1689,7 +1689,7 @@
           "downloadURL": "https://huggingface.co/bartowski/Qwen2.5-Coder-32B-Instruct-GGUF/resolve/main/Qwen2.5-Coder-32B-Instruct-Q4_K_S.gguf",
           "filename": "Qwen2.5-Coder-32B-Instruct-Q4_K_S.gguf",
           "badge": null,
-          "hfDownloads": 27317,
+          "hfDownloads": 33502,
           "quantization": "Q4_K_S"
         },
         {
@@ -1701,7 +1701,7 @@
           "downloadURL": "https://huggingface.co/bartowski/Qwen2.5-Coder-32B-Instruct-GGUF/resolve/main/Qwen2.5-Coder-32B-Instruct-Q4_K_M.gguf",
           "filename": "Qwen2.5-Coder-32B-Instruct-Q4_K_M.gguf",
           "badge": null,
-          "hfDownloads": 27317,
+          "hfDownloads": 33502,
           "quantization": "Q4_K_M"
         },
         {
@@ -1713,7 +1713,7 @@
           "downloadURL": "https://huggingface.co/bartowski/Qwen2.5-Coder-32B-Instruct-GGUF/resolve/main/Qwen2.5-Coder-32B-Instruct-Q4_0.gguf",
           "filename": "Qwen2.5-Coder-32B-Instruct-Q4_0.gguf",
           "badge": null,
-          "hfDownloads": 27317,
+          "hfDownloads": 33502,
           "quantization": "Q4_0"
         },
         {
@@ -1725,7 +1725,7 @@
           "downloadURL": "https://huggingface.co/bartowski/Qwen2.5-Coder-32B-Instruct-GGUF/resolve/main/Qwen2.5-Coder-32B-Instruct-Q5_K_M.gguf",
           "filename": "Qwen2.5-Coder-32B-Instruct-Q5_K_M.gguf",
           "badge": null,
-          "hfDownloads": 27317,
+          "hfDownloads": 33502,
           "quantization": "Q5_K_M"
         },
         {
@@ -1737,7 +1737,7 @@
           "downloadURL": "https://huggingface.co/bartowski/Qwen2.5-Coder-32B-Instruct-GGUF/resolve/main/Qwen2.5-Coder-32B-Instruct-Q6_K.gguf",
           "filename": "Qwen2.5-Coder-32B-Instruct-Q6_K.gguf",
           "badge": null,
-          "hfDownloads": 27317,
+          "hfDownloads": 33502,
           "quantization": "Q6_K"
         },
         {
@@ -1749,7 +1749,7 @@
           "downloadURL": "https://huggingface.co/bartowski/Qwen2.5-Coder-32B-Instruct-GGUF/resolve/main/Qwen2.5-Coder-32B-Instruct-Q8_0.gguf",
           "filename": "Qwen2.5-Coder-32B-Instruct-Q8_0.gguf",
           "badge": "High Quality",
-          "hfDownloads": 27317,
+          "hfDownloads": 33502,
           "quantization": "Q8_0"
         },
         {
@@ -1761,7 +1761,7 @@
           "downloadURL": "https://huggingface.co/bartowski/Qwen2.5-Coder-14B-Instruct-GGUF/resolve/main/Qwen2.5-Coder-14B-Instruct-Q2_K.gguf",
           "filename": "Qwen2.5-Coder-14B-Instruct-Q2_K.gguf",
           "badge": null,
-          "hfDownloads": 23705,
+          "hfDownloads": 27243,
           "quantization": "Q2_K"
         },
         {
@@ -1773,7 +1773,7 @@
           "downloadURL": "https://huggingface.co/bartowski/Qwen2.5-Coder-14B-Instruct-GGUF/resolve/main/Qwen2.5-Coder-14B-Instruct-Q3_K_M.gguf",
           "filename": "Qwen2.5-Coder-14B-Instruct-Q3_K_M.gguf",
           "badge": "Most Compatible",
-          "hfDownloads": 23705,
+          "hfDownloads": 27243,
           "quantization": "Q3_K_M"
         },
         {
@@ -1785,7 +1785,7 @@
           "downloadURL": "https://huggingface.co/bartowski/Qwen2.5-Coder-14B-Instruct-GGUF/resolve/main/Qwen2.5-Coder-14B-Instruct-Q4_K_S.gguf",
           "filename": "Qwen2.5-Coder-14B-Instruct-Q4_K_S.gguf",
           "badge": null,
-          "hfDownloads": 23705,
+          "hfDownloads": 27243,
           "quantization": "Q4_K_S"
         },
         {
@@ -1797,7 +1797,7 @@
           "downloadURL": "https://huggingface.co/bartowski/Qwen2.5-Coder-14B-Instruct-GGUF/resolve/main/Qwen2.5-Coder-14B-Instruct-Q4_K_M.gguf",
           "filename": "Qwen2.5-Coder-14B-Instruct-Q4_K_M.gguf",
           "badge": null,
-          "hfDownloads": 23705,
+          "hfDownloads": 27243,
           "quantization": "Q4_K_M"
         },
         {
@@ -1809,7 +1809,7 @@
           "downloadURL": "https://huggingface.co/bartowski/Qwen2.5-Coder-14B-Instruct-GGUF/resolve/main/Qwen2.5-Coder-14B-Instruct-Q4_0.gguf",
           "filename": "Qwen2.5-Coder-14B-Instruct-Q4_0.gguf",
           "badge": null,
-          "hfDownloads": 23705,
+          "hfDownloads": 27243,
           "quantization": "Q4_0"
         },
         {
@@ -1821,7 +1821,7 @@
           "downloadURL": "https://huggingface.co/bartowski/Qwen2.5-Coder-14B-Instruct-GGUF/resolve/main/Qwen2.5-Coder-14B-Instruct-Q5_K_M.gguf",
           "filename": "Qwen2.5-Coder-14B-Instruct-Q5_K_M.gguf",
           "badge": null,
-          "hfDownloads": 23705,
+          "hfDownloads": 27243,
           "quantization": "Q5_K_M"
         },
         {
@@ -1833,7 +1833,7 @@
           "downloadURL": "https://huggingface.co/bartowski/Qwen2.5-Coder-14B-Instruct-GGUF/resolve/main/Qwen2.5-Coder-14B-Instruct-Q6_K.gguf",
           "filename": "Qwen2.5-Coder-14B-Instruct-Q6_K.gguf",
           "badge": null,
-          "hfDownloads": 23705,
+          "hfDownloads": 27243,
           "quantization": "Q6_K"
         },
         {
@@ -1845,7 +1845,103 @@
           "downloadURL": "https://huggingface.co/bartowski/Qwen2.5-Coder-14B-Instruct-GGUF/resolve/main/Qwen2.5-Coder-14B-Instruct-Q8_0.gguf",
           "filename": "Qwen2.5-Coder-14B-Instruct-Q8_0.gguf",
           "badge": "High Quality",
-          "hfDownloads": 23705,
+          "hfDownloads": 27243,
+          "quantization": "Q8_0"
+        },
+        {
+          "id": "qwen2.5-coder-32b-abliterated-q2",
+          "name": "Qwen2.5 Coder 32B Abliterated",
+          "description": "32B parameter model, quantized to Q2_K.",
+          "sizeGB": 9.9,
+          "ramRequiredGB": 13.2,
+          "downloadURL": "https://huggingface.co/bartowski/Qwen2.5-Coder-32B-Instruct-abliterated-GGUF/resolve/main/Qwen2.5-Coder-32B-Instruct-abliterated-Q2_K.gguf",
+          "filename": "Qwen2.5-Coder-32B-Instruct-abliterated-Q2_K.gguf",
+          "badge": null,
+          "hfDownloads": 13405,
+          "quantization": "Q2_K"
+        },
+        {
+          "id": "qwen2.5-coder-32b-abliterated-q3",
+          "name": "Qwen2.5 Coder 32B Abliterated",
+          "description": "32B parameter model, quantized to Q3_K_M.",
+          "sizeGB": 13.4,
+          "ramRequiredGB": 17.7,
+          "downloadURL": "https://huggingface.co/bartowski/Qwen2.5-Coder-32B-Instruct-abliterated-GGUF/resolve/main/Qwen2.5-Coder-32B-Instruct-abliterated-Q3_K_M.gguf",
+          "filename": "Qwen2.5-Coder-32B-Instruct-abliterated-Q3_K_M.gguf",
+          "badge": "Most Compatible",
+          "hfDownloads": 13405,
+          "quantization": "Q3_K_M"
+        },
+        {
+          "id": "qwen2.5-coder-32b-abliterated-q4ks",
+          "name": "Qwen2.5 Coder 32B Abliterated",
+          "description": "32B parameter model, quantized to Q4_K_S.",
+          "sizeGB": 16.6,
+          "ramRequiredGB": 21.9,
+          "downloadURL": "https://huggingface.co/bartowski/Qwen2.5-Coder-32B-Instruct-abliterated-GGUF/resolve/main/Qwen2.5-Coder-32B-Instruct-abliterated-Q4_K_S.gguf",
+          "filename": "Qwen2.5-Coder-32B-Instruct-abliterated-Q4_K_S.gguf",
+          "badge": null,
+          "hfDownloads": 13405,
+          "quantization": "Q4_K_S"
+        },
+        {
+          "id": "qwen2.5-coder-32b-abliterated-q4",
+          "name": "Qwen2.5 Coder 32B Abliterated",
+          "description": "32B parameter model, quantized to Q4_K_M.",
+          "sizeGB": 17.6,
+          "ramRequiredGB": 23.2,
+          "downloadURL": "https://huggingface.co/bartowski/Qwen2.5-Coder-32B-Instruct-abliterated-GGUF/resolve/main/Qwen2.5-Coder-32B-Instruct-abliterated-Q4_K_M.gguf",
+          "filename": "Qwen2.5-Coder-32B-Instruct-abliterated-Q4_K_M.gguf",
+          "badge": null,
+          "hfDownloads": 13405,
+          "quantization": "Q4_K_M"
+        },
+        {
+          "id": "qwen2.5-coder-32b-abliterated-q40",
+          "name": "Qwen2.5 Coder 32B Abliterated",
+          "description": "32B parameter model, quantized to Q4_0.",
+          "sizeGB": 16.3,
+          "ramRequiredGB": 21.5,
+          "downloadURL": "https://huggingface.co/bartowski/Qwen2.5-Coder-32B-Instruct-abliterated-GGUF/resolve/main/Qwen2.5-Coder-32B-Instruct-abliterated-Q4_0.gguf",
+          "filename": "Qwen2.5-Coder-32B-Instruct-abliterated-Q4_0.gguf",
+          "badge": null,
+          "hfDownloads": 13405,
+          "quantization": "Q4_0"
+        },
+        {
+          "id": "qwen2.5-coder-32b-abliterated-q5",
+          "name": "Qwen2.5 Coder 32B Abliterated",
+          "description": "32B parameter model, quantized to Q5_K_M.",
+          "sizeGB": 20.8,
+          "ramRequiredGB": 27.3,
+          "downloadURL": "https://huggingface.co/bartowski/Qwen2.5-Coder-32B-Instruct-abliterated-GGUF/resolve/main/Qwen2.5-Coder-32B-Instruct-abliterated-Q5_K_M.gguf",
+          "filename": "Qwen2.5-Coder-32B-Instruct-abliterated-Q5_K_M.gguf",
+          "badge": null,
+          "hfDownloads": 13405,
+          "quantization": "Q5_K_M"
+        },
+        {
+          "id": "qwen2.5-coder-32b-abliterated-q6",
+          "name": "Qwen2.5 Coder 32B Abliterated",
+          "description": "32B parameter model, quantized to Q6_K.",
+          "sizeGB": 24.0,
+          "ramRequiredGB": 31.5,
+          "downloadURL": "https://huggingface.co/bartowski/Qwen2.5-Coder-32B-Instruct-abliterated-GGUF/resolve/main/Qwen2.5-Coder-32B-Instruct-abliterated-Q6_K.gguf",
+          "filename": "Qwen2.5-Coder-32B-Instruct-abliterated-Q6_K.gguf",
+          "badge": null,
+          "hfDownloads": 13405,
+          "quantization": "Q6_K"
+        },
+        {
+          "id": "qwen2.5-coder-32b-abliterated-q8",
+          "name": "Qwen2.5 Coder 32B Abliterated",
+          "description": "32B parameter model, quantized to Q8_0.",
+          "sizeGB": 27.8,
+          "ramRequiredGB": 36.4,
+          "downloadURL": "https://huggingface.co/bartowski/Qwen2.5-Coder-32B-Instruct-abliterated-GGUF/resolve/main/Qwen2.5-Coder-32B-Instruct-abliterated-Q8_0.gguf",
+          "filename": "Qwen2.5-Coder-32B-Instruct-abliterated-Q8_0.gguf",
+          "badge": "High Quality",
+          "hfDownloads": 13405,
           "quantization": "Q8_0"
         },
         {
@@ -1857,7 +1953,7 @@
           "downloadURL": "https://huggingface.co/bartowski/Qwen2.5-Coder-3B-Instruct-GGUF/resolve/main/Qwen2.5-Coder-3B-Instruct-Q2_K.gguf",
           "filename": "Qwen2.5-Coder-3B-Instruct-Q2_K.gguf",
           "badge": null,
-          "hfDownloads": 13235,
+          "hfDownloads": 13228,
           "quantization": "Q2_K"
         },
         {
@@ -1869,7 +1965,7 @@
           "downloadURL": "https://huggingface.co/bartowski/Qwen2.5-Coder-3B-Instruct-GGUF/resolve/main/Qwen2.5-Coder-3B-Instruct-Q3_K_M.gguf",
           "filename": "Qwen2.5-Coder-3B-Instruct-Q3_K_M.gguf",
           "badge": "Most Compatible",
-          "hfDownloads": 13235,
+          "hfDownloads": 13228,
           "quantization": "Q3_K_M"
         },
         {
@@ -1881,7 +1977,7 @@
           "downloadURL": "https://huggingface.co/bartowski/Qwen2.5-Coder-3B-Instruct-GGUF/resolve/main/Qwen2.5-Coder-3B-Instruct-Q4_K_S.gguf",
           "filename": "Qwen2.5-Coder-3B-Instruct-Q4_K_S.gguf",
           "badge": null,
-          "hfDownloads": 13235,
+          "hfDownloads": 13228,
           "quantization": "Q4_K_S"
         },
         {
@@ -1893,7 +1989,7 @@
           "downloadURL": "https://huggingface.co/bartowski/Qwen2.5-Coder-3B-Instruct-GGUF/resolve/main/Qwen2.5-Coder-3B-Instruct-Q4_K_M.gguf",
           "filename": "Qwen2.5-Coder-3B-Instruct-Q4_K_M.gguf",
           "badge": null,
-          "hfDownloads": 13235,
+          "hfDownloads": 13228,
           "quantization": "Q4_K_M"
         },
         {
@@ -1905,7 +2001,7 @@
           "downloadURL": "https://huggingface.co/bartowski/Qwen2.5-Coder-3B-Instruct-GGUF/resolve/main/Qwen2.5-Coder-3B-Instruct-Q4_0.gguf",
           "filename": "Qwen2.5-Coder-3B-Instruct-Q4_0.gguf",
           "badge": null,
-          "hfDownloads": 13235,
+          "hfDownloads": 13228,
           "quantization": "Q4_0"
         },
         {
@@ -1917,7 +2013,7 @@
           "downloadURL": "https://huggingface.co/bartowski/Qwen2.5-Coder-3B-Instruct-GGUF/resolve/main/Qwen2.5-Coder-3B-Instruct-Q5_K_M.gguf",
           "filename": "Qwen2.5-Coder-3B-Instruct-Q5_K_M.gguf",
           "badge": null,
-          "hfDownloads": 13235,
+          "hfDownloads": 13228,
           "quantization": "Q5_K_M"
         },
         {
@@ -1929,7 +2025,7 @@
           "downloadURL": "https://huggingface.co/bartowski/Qwen2.5-Coder-3B-Instruct-GGUF/resolve/main/Qwen2.5-Coder-3B-Instruct-Q6_K.gguf",
           "filename": "Qwen2.5-Coder-3B-Instruct-Q6_K.gguf",
           "badge": null,
-          "hfDownloads": 13235,
+          "hfDownloads": 13228,
           "quantization": "Q6_K"
         },
         {
@@ -1941,103 +2037,7 @@
           "downloadURL": "https://huggingface.co/bartowski/Qwen2.5-Coder-3B-Instruct-GGUF/resolve/main/Qwen2.5-Coder-3B-Instruct-Q8_0.gguf",
           "filename": "Qwen2.5-Coder-3B-Instruct-Q8_0.gguf",
           "badge": "High Quality",
-          "hfDownloads": 13235,
-          "quantization": "Q8_0"
-        },
-        {
-          "id": "qwen2.5-coder-14b-abliterated-q2",
-          "name": "Qwen2.5 Coder 14B Abliterated",
-          "description": "14B parameter model, quantized to Q2_K.",
-          "sizeGB": 4.3,
-          "ramRequiredGB": 5.9,
-          "downloadURL": "https://huggingface.co/bartowski/Qwen2.5-Coder-14B-Instruct-abliterated-GGUF/resolve/main/Qwen2.5-Coder-14B-Instruct-abliterated-Q2_K.gguf",
-          "filename": "Qwen2.5-Coder-14B-Instruct-abliterated-Q2_K.gguf",
-          "badge": null,
-          "hfDownloads": 12994,
-          "quantization": "Q2_K"
-        },
-        {
-          "id": "qwen2.5-coder-14b-abliterated-q3",
-          "name": "Qwen2.5 Coder 14B Abliterated",
-          "description": "14B parameter model, quantized to Q3_K_M.",
-          "sizeGB": 5.9,
-          "ramRequiredGB": 8.0,
-          "downloadURL": "https://huggingface.co/bartowski/Qwen2.5-Coder-14B-Instruct-abliterated-GGUF/resolve/main/Qwen2.5-Coder-14B-Instruct-abliterated-Q3_K_M.gguf",
-          "filename": "Qwen2.5-Coder-14B-Instruct-abliterated-Q3_K_M.gguf",
-          "badge": "Most Compatible",
-          "hfDownloads": 12994,
-          "quantization": "Q3_K_M"
-        },
-        {
-          "id": "qwen2.5-coder-14b-abliterated-q4ks",
-          "name": "Qwen2.5 Coder 14B Abliterated",
-          "description": "14B parameter model, quantized to Q4_K_S.",
-          "sizeGB": 7.3,
-          "ramRequiredGB": 9.8,
-          "downloadURL": "https://huggingface.co/bartowski/Qwen2.5-Coder-14B-Instruct-abliterated-GGUF/resolve/main/Qwen2.5-Coder-14B-Instruct-abliterated-Q4_K_S.gguf",
-          "filename": "Qwen2.5-Coder-14B-Instruct-abliterated-Q4_K_S.gguf",
-          "badge": null,
-          "hfDownloads": 12994,
-          "quantization": "Q4_K_S"
-        },
-        {
-          "id": "qwen2.5-coder-14b-abliterated-q4",
-          "name": "Qwen2.5 Coder 14B Abliterated",
-          "description": "14B parameter model, quantized to Q4_K_M.",
-          "sizeGB": 7.7,
-          "ramRequiredGB": 10.3,
-          "downloadURL": "https://huggingface.co/bartowski/Qwen2.5-Coder-14B-Instruct-abliterated-GGUF/resolve/main/Qwen2.5-Coder-14B-Instruct-abliterated-Q4_K_M.gguf",
-          "filename": "Qwen2.5-Coder-14B-Instruct-abliterated-Q4_K_M.gguf",
-          "badge": null,
-          "hfDownloads": 12994,
-          "quantization": "Q4_K_M"
-        },
-        {
-          "id": "qwen2.5-coder-14b-abliterated-q40",
-          "name": "Qwen2.5 Coder 14B Abliterated",
-          "description": "14B parameter model, quantized to Q4_0.",
-          "sizeGB": 7.1,
-          "ramRequiredGB": 9.5,
-          "downloadURL": "https://huggingface.co/bartowski/Qwen2.5-Coder-14B-Instruct-abliterated-GGUF/resolve/main/Qwen2.5-Coder-14B-Instruct-abliterated-Q4_0.gguf",
-          "filename": "Qwen2.5-Coder-14B-Instruct-abliterated-Q4_0.gguf",
-          "badge": null,
-          "hfDownloads": 12994,
-          "quantization": "Q4_0"
-        },
-        {
-          "id": "qwen2.5-coder-14b-abliterated-q5",
-          "name": "Qwen2.5 Coder 14B Abliterated",
-          "description": "14B parameter model, quantized to Q5_K_M.",
-          "sizeGB": 9.1,
-          "ramRequiredGB": 12.1,
-          "downloadURL": "https://huggingface.co/bartowski/Qwen2.5-Coder-14B-Instruct-abliterated-GGUF/resolve/main/Qwen2.5-Coder-14B-Instruct-abliterated-Q5_K_M.gguf",
-          "filename": "Qwen2.5-Coder-14B-Instruct-abliterated-Q5_K_M.gguf",
-          "badge": null,
-          "hfDownloads": 12994,
-          "quantization": "Q5_K_M"
-        },
-        {
-          "id": "qwen2.5-coder-14b-abliterated-q6",
-          "name": "Qwen2.5 Coder 14B Abliterated",
-          "description": "14B parameter model, quantized to Q6_K.",
-          "sizeGB": 10.5,
-          "ramRequiredGB": 14.0,
-          "downloadURL": "https://huggingface.co/bartowski/Qwen2.5-Coder-14B-Instruct-abliterated-GGUF/resolve/main/Qwen2.5-Coder-14B-Instruct-abliterated-Q6_K.gguf",
-          "filename": "Qwen2.5-Coder-14B-Instruct-abliterated-Q6_K.gguf",
-          "badge": null,
-          "hfDownloads": 12994,
-          "quantization": "Q6_K"
-        },
-        {
-          "id": "qwen2.5-coder-14b-abliterated-q8",
-          "name": "Qwen2.5 Coder 14B Abliterated",
-          "description": "14B parameter model, quantized to Q8_0.",
-          "sizeGB": 12.2,
-          "ramRequiredGB": 16.2,
-          "downloadURL": "https://huggingface.co/bartowski/Qwen2.5-Coder-14B-Instruct-abliterated-GGUF/resolve/main/Qwen2.5-Coder-14B-Instruct-abliterated-Q8_0.gguf",
-          "filename": "Qwen2.5-Coder-14B-Instruct-abliterated-Q8_0.gguf",
-          "badge": "High Quality",
-          "hfDownloads": 12994,
+          "hfDownloads": 13228,
           "quantization": "Q8_0"
         }
       ]
@@ -2055,7 +2055,7 @@
           "downloadURL": "https://huggingface.co/bartowski/Llama-3.2-1B-Instruct-GGUF/resolve/main/Llama-3.2-1B-Instruct-Q4_K_S.gguf",
           "filename": "Llama-3.2-1B-Instruct-Q4_K_S.gguf",
           "badge": null,
-          "hfDownloads": 416350,
+          "hfDownloads": 432284,
           "quantization": "Q4_K_S"
         },
         {
@@ -2067,7 +2067,7 @@
           "downloadURL": "https://huggingface.co/bartowski/Llama-3.2-1B-Instruct-GGUF/resolve/main/Llama-3.2-1B-Instruct-Q4_K_M.gguf",
           "filename": "Llama-3.2-1B-Instruct-Q4_K_M.gguf",
           "badge": null,
-          "hfDownloads": 416350,
+          "hfDownloads": 432284,
           "quantization": "Q4_K_M"
         },
         {
@@ -2079,7 +2079,7 @@
           "downloadURL": "https://huggingface.co/bartowski/Llama-3.2-1B-Instruct-GGUF/resolve/main/Llama-3.2-1B-Instruct-Q4_0.gguf",
           "filename": "Llama-3.2-1B-Instruct-Q4_0.gguf",
           "badge": null,
-          "hfDownloads": 416350,
+          "hfDownloads": 432284,
           "quantization": "Q4_0"
         },
         {
@@ -2091,7 +2091,7 @@
           "downloadURL": "https://huggingface.co/bartowski/Llama-3.2-1B-Instruct-GGUF/resolve/main/Llama-3.2-1B-Instruct-Q5_K_M.gguf",
           "filename": "Llama-3.2-1B-Instruct-Q5_K_M.gguf",
           "badge": null,
-          "hfDownloads": 416350,
+          "hfDownloads": 432284,
           "quantization": "Q5_K_M"
         },
         {
@@ -2103,7 +2103,7 @@
           "downloadURL": "https://huggingface.co/bartowski/Llama-3.2-1B-Instruct-GGUF/resolve/main/Llama-3.2-1B-Instruct-Q6_K.gguf",
           "filename": "Llama-3.2-1B-Instruct-Q6_K.gguf",
           "badge": null,
-          "hfDownloads": 416350,
+          "hfDownloads": 432284,
           "quantization": "Q6_K"
         },
         {
@@ -2115,7 +2115,7 @@
           "downloadURL": "https://huggingface.co/bartowski/Llama-3.2-1B-Instruct-GGUF/resolve/main/Llama-3.2-1B-Instruct-Q8_0.gguf",
           "filename": "Llama-3.2-1B-Instruct-Q8_0.gguf",
           "badge": "High Quality",
-          "hfDownloads": 416350,
+          "hfDownloads": 432284,
           "quantization": "Q8_0"
         },
         {
@@ -2127,7 +2127,7 @@
           "downloadURL": "https://huggingface.co/bartowski/Meta-Llama-3.1-8B-Instruct-GGUF/resolve/main/Meta-Llama-3.1-8B-Instruct-Q2_K.gguf",
           "filename": "Meta-Llama-3.1-8B-Instruct-Q2_K.gguf",
           "badge": null,
-          "hfDownloads": 261959,
+          "hfDownloads": 265630,
           "quantization": "Q2_K"
         },
         {
@@ -2139,7 +2139,7 @@
           "downloadURL": "https://huggingface.co/bartowski/Meta-Llama-3.1-8B-Instruct-GGUF/resolve/main/Meta-Llama-3.1-8B-Instruct-Q3_K_M.gguf",
           "filename": "Meta-Llama-3.1-8B-Instruct-Q3_K_M.gguf",
           "badge": "Most Compatible",
-          "hfDownloads": 261959,
+          "hfDownloads": 265630,
           "quantization": "Q3_K_M"
         },
         {
@@ -2151,7 +2151,7 @@
           "downloadURL": "https://huggingface.co/bartowski/Meta-Llama-3.1-8B-Instruct-GGUF/resolve/main/Meta-Llama-3.1-8B-Instruct-Q4_K_S.gguf",
           "filename": "Meta-Llama-3.1-8B-Instruct-Q4_K_S.gguf",
           "badge": null,
-          "hfDownloads": 261959,
+          "hfDownloads": 265630,
           "quantization": "Q4_K_S"
         },
         {
@@ -2163,7 +2163,7 @@
           "downloadURL": "https://huggingface.co/bartowski/Meta-Llama-3.1-8B-Instruct-GGUF/resolve/main/Meta-Llama-3.1-8B-Instruct-Q4_K_M.gguf",
           "filename": "Meta-Llama-3.1-8B-Instruct-Q4_K_M.gguf",
           "badge": null,
-          "hfDownloads": 261959,
+          "hfDownloads": 265630,
           "quantization": "Q4_K_M"
         },
         {
@@ -2175,7 +2175,7 @@
           "downloadURL": "https://huggingface.co/bartowski/Meta-Llama-3.1-8B-Instruct-GGUF/resolve/main/Meta-Llama-3.1-8B-Instruct-Q4_0_4_4.gguf",
           "filename": "Meta-Llama-3.1-8B-Instruct-Q4_0_4_4.gguf",
           "badge": null,
-          "hfDownloads": 261959,
+          "hfDownloads": 265630,
           "quantization": "Q4_0"
         },
         {
@@ -2187,7 +2187,7 @@
           "downloadURL": "https://huggingface.co/bartowski/Meta-Llama-3.1-8B-Instruct-GGUF/resolve/main/Meta-Llama-3.1-8B-Instruct-Q5_K_M.gguf",
           "filename": "Meta-Llama-3.1-8B-Instruct-Q5_K_M.gguf",
           "badge": null,
-          "hfDownloads": 261959,
+          "hfDownloads": 265630,
           "quantization": "Q5_K_M"
         },
         {
@@ -2199,7 +2199,7 @@
           "downloadURL": "https://huggingface.co/bartowski/Meta-Llama-3.1-8B-Instruct-GGUF/resolve/main/Meta-Llama-3.1-8B-Instruct-Q6_K.gguf",
           "filename": "Meta-Llama-3.1-8B-Instruct-Q6_K.gguf",
           "badge": null,
-          "hfDownloads": 261959,
+          "hfDownloads": 265630,
           "quantization": "Q6_K"
         },
         {
@@ -2211,7 +2211,7 @@
           "downloadURL": "https://huggingface.co/bartowski/Meta-Llama-3.1-8B-Instruct-GGUF/resolve/main/Meta-Llama-3.1-8B-Instruct-Q8_0.gguf",
           "filename": "Meta-Llama-3.1-8B-Instruct-Q8_0.gguf",
           "badge": "High Quality",
-          "hfDownloads": 261959,
+          "hfDownloads": 265630,
           "quantization": "Q8_0"
         },
         {
@@ -2223,7 +2223,7 @@
           "downloadURL": "https://huggingface.co/bartowski/Llama-3.2-3B-Instruct-GGUF/resolve/main/Llama-3.2-3B-Instruct-Q4_K_S.gguf",
           "filename": "Llama-3.2-3B-Instruct-Q4_K_S.gguf",
           "badge": null,
-          "hfDownloads": 213102,
+          "hfDownloads": 212729,
           "quantization": "Q4_K_S"
         },
         {
@@ -2235,7 +2235,7 @@
           "downloadURL": "https://huggingface.co/bartowski/Llama-3.2-3B-Instruct-GGUF/resolve/main/Llama-3.2-3B-Instruct-Q4_K_M.gguf",
           "filename": "Llama-3.2-3B-Instruct-Q4_K_M.gguf",
           "badge": null,
-          "hfDownloads": 213102,
+          "hfDownloads": 212729,
           "quantization": "Q4_K_M"
         },
         {
@@ -2247,7 +2247,7 @@
           "downloadURL": "https://huggingface.co/bartowski/Llama-3.2-3B-Instruct-GGUF/resolve/main/Llama-3.2-3B-Instruct-Q4_0.gguf",
           "filename": "Llama-3.2-3B-Instruct-Q4_0.gguf",
           "badge": null,
-          "hfDownloads": 213102,
+          "hfDownloads": 212729,
           "quantization": "Q4_0"
         },
         {
@@ -2259,7 +2259,7 @@
           "downloadURL": "https://huggingface.co/bartowski/Llama-3.2-3B-Instruct-GGUF/resolve/main/Llama-3.2-3B-Instruct-Q5_K_M.gguf",
           "filename": "Llama-3.2-3B-Instruct-Q5_K_M.gguf",
           "badge": null,
-          "hfDownloads": 213102,
+          "hfDownloads": 212729,
           "quantization": "Q5_K_M"
         },
         {
@@ -2271,7 +2271,7 @@
           "downloadURL": "https://huggingface.co/bartowski/Llama-3.2-3B-Instruct-GGUF/resolve/main/Llama-3.2-3B-Instruct-Q6_K.gguf",
           "filename": "Llama-3.2-3B-Instruct-Q6_K.gguf",
           "badge": null,
-          "hfDownloads": 213102,
+          "hfDownloads": 212729,
           "quantization": "Q6_K"
         },
         {
@@ -2283,7 +2283,7 @@
           "downloadURL": "https://huggingface.co/bartowski/Llama-3.2-3B-Instruct-GGUF/resolve/main/Llama-3.2-3B-Instruct-Q8_0.gguf",
           "filename": "Llama-3.2-3B-Instruct-Q8_0.gguf",
           "badge": "High Quality",
-          "hfDownloads": 213102,
+          "hfDownloads": 212729,
           "quantization": "Q8_0"
         },
         {
@@ -2295,7 +2295,7 @@
           "downloadURL": "https://huggingface.co/bartowski/Llama-3.3-70B-Instruct-abliterated-GGUF/resolve/main/Llama-3.3-70B-Instruct-abliterated-Q2_K.gguf",
           "filename": "Llama-3.3-70B-Instruct-abliterated-Q2_K.gguf",
           "badge": null,
-          "hfDownloads": 38457,
+          "hfDownloads": 40264,
           "quantization": "Q2_K"
         },
         {
@@ -2307,7 +2307,7 @@
           "downloadURL": "https://huggingface.co/bartowski/Llama-3.3-70B-Instruct-abliterated-GGUF/resolve/main/Llama-3.3-70B-Instruct-abliterated-Q3_K_M.gguf",
           "filename": "Llama-3.3-70B-Instruct-abliterated-Q3_K_M.gguf",
           "badge": "Most Compatible",
-          "hfDownloads": 38457,
+          "hfDownloads": 40264,
           "quantization": "Q3_K_M"
         },
         {
@@ -2319,7 +2319,7 @@
           "downloadURL": "https://huggingface.co/bartowski/Llama-3.3-70B-Instruct-abliterated-GGUF/resolve/main/Llama-3.3-70B-Instruct-abliterated-Q4_K_S.gguf",
           "filename": "Llama-3.3-70B-Instruct-abliterated-Q4_K_S.gguf",
           "badge": null,
-          "hfDownloads": 38457,
+          "hfDownloads": 40264,
           "quantization": "Q4_K_S"
         },
         {
@@ -2331,7 +2331,7 @@
           "downloadURL": "https://huggingface.co/bartowski/Llama-3.3-70B-Instruct-abliterated-GGUF/resolve/main/Llama-3.3-70B-Instruct-abliterated-Q4_K_M.gguf",
           "filename": "Llama-3.3-70B-Instruct-abliterated-Q4_K_M.gguf",
           "badge": null,
-          "hfDownloads": 38457,
+          "hfDownloads": 40264,
           "quantization": "Q4_K_M"
         },
         {
@@ -2343,7 +2343,7 @@
           "downloadURL": "https://huggingface.co/bartowski/Llama-3.3-70B-Instruct-abliterated-GGUF/resolve/main/Llama-3.3-70B-Instruct-abliterated-Q4_0.gguf",
           "filename": "Llama-3.3-70B-Instruct-abliterated-Q4_0.gguf",
           "badge": null,
-          "hfDownloads": 38457,
+          "hfDownloads": 40264,
           "quantization": "Q4_0"
         },
         {
@@ -2355,7 +2355,7 @@
           "downloadURL": "https://huggingface.co/bartowski/Llama-3.3-70B-Instruct-abliterated-GGUF/resolve/main/Llama-3.3-70B-Instruct-abliterated-Q5_K_M/Llama-3.3-70B-Instruct-abliterated-Q5_K_M-00001-of-00002.gguf",
           "filename": "Llama-3.3-70B-Instruct-abliterated-Q5_K_M/Llama-3.3-70B-Instruct-abliterated-Q5_K_M-00001-of-00002.gguf",
           "badge": null,
-          "hfDownloads": 38457,
+          "hfDownloads": 40264,
           "quantization": "Q5_K_M"
         },
         {
@@ -2367,7 +2367,7 @@
           "downloadURL": "https://huggingface.co/bartowski/Llama-3.3-70B-Instruct-abliterated-GGUF/resolve/main/Llama-3.3-70B-Instruct-abliterated-Q6_K/Llama-3.3-70B-Instruct-abliterated-Q6_K-00001-of-00002.gguf",
           "filename": "Llama-3.3-70B-Instruct-abliterated-Q6_K/Llama-3.3-70B-Instruct-abliterated-Q6_K-00001-of-00002.gguf",
           "badge": null,
-          "hfDownloads": 38457,
+          "hfDownloads": 40264,
           "quantization": "Q6_K"
         },
         {
@@ -2379,7 +2379,7 @@
           "downloadURL": "https://huggingface.co/bartowski/Llama-3.3-70B-Instruct-abliterated-GGUF/resolve/main/Llama-3.3-70B-Instruct-abliterated-Q8_0/Llama-3.3-70B-Instruct-abliterated-Q8_0-00001-of-00002.gguf",
           "filename": "Llama-3.3-70B-Instruct-abliterated-Q8_0/Llama-3.3-70B-Instruct-abliterated-Q8_0-00001-of-00002.gguf",
           "badge": "High Quality",
-          "hfDownloads": 38457,
+          "hfDownloads": 40264,
           "quantization": "Q8_0"
         },
         {
@@ -2391,7 +2391,7 @@
           "downloadURL": "https://huggingface.co/bartowski/DeepSeek-R1-Distill-Llama-70B-GGUF/resolve/main/DeepSeek-R1-Distill-Llama-70B-Q2_K.gguf",
           "filename": "DeepSeek-R1-Distill-Llama-70B-Q2_K.gguf",
           "badge": null,
-          "hfDownloads": 36048,
+          "hfDownloads": 30412,
           "quantization": "Q2_K"
         },
         {
@@ -2403,7 +2403,7 @@
           "downloadURL": "https://huggingface.co/bartowski/DeepSeek-R1-Distill-Llama-70B-GGUF/resolve/main/DeepSeek-R1-Distill-Llama-70B-Q3_K_M.gguf",
           "filename": "DeepSeek-R1-Distill-Llama-70B-Q3_K_M.gguf",
           "badge": "Most Compatible",
-          "hfDownloads": 36048,
+          "hfDownloads": 30412,
           "quantization": "Q3_K_M"
         },
         {
@@ -2415,7 +2415,7 @@
           "downloadURL": "https://huggingface.co/bartowski/DeepSeek-R1-Distill-Llama-70B-GGUF/resolve/main/DeepSeek-R1-Distill-Llama-70B-Q4_K_S.gguf",
           "filename": "DeepSeek-R1-Distill-Llama-70B-Q4_K_S.gguf",
           "badge": null,
-          "hfDownloads": 36048,
+          "hfDownloads": 30412,
           "quantization": "Q4_K_S"
         },
         {
@@ -2427,7 +2427,7 @@
           "downloadURL": "https://huggingface.co/bartowski/DeepSeek-R1-Distill-Llama-70B-GGUF/resolve/main/DeepSeek-R1-Distill-Llama-70B-Q4_K_M.gguf",
           "filename": "DeepSeek-R1-Distill-Llama-70B-Q4_K_M.gguf",
           "badge": null,
-          "hfDownloads": 36048,
+          "hfDownloads": 30412,
           "quantization": "Q4_K_M"
         },
         {
@@ -2439,7 +2439,7 @@
           "downloadURL": "https://huggingface.co/bartowski/DeepSeek-R1-Distill-Llama-70B-GGUF/resolve/main/DeepSeek-R1-Distill-Llama-70B-Q4_0.gguf",
           "filename": "DeepSeek-R1-Distill-Llama-70B-Q4_0.gguf",
           "badge": null,
-          "hfDownloads": 36048,
+          "hfDownloads": 30412,
           "quantization": "Q4_0"
         },
         {
@@ -2451,7 +2451,7 @@
           "downloadURL": "https://huggingface.co/bartowski/DeepSeek-R1-Distill-Llama-70B-GGUF/resolve/main/DeepSeek-R1-Distill-Llama-70B-Q5_K_M/DeepSeek-R1-Distill-Llama-70B-Q5_K_M-00001-of-00002.gguf",
           "filename": "DeepSeek-R1-Distill-Llama-70B-Q5_K_M/DeepSeek-R1-Distill-Llama-70B-Q5_K_M-00001-of-00002.gguf",
           "badge": null,
-          "hfDownloads": 36048,
+          "hfDownloads": 30412,
           "quantization": "Q5_K_M"
         },
         {
@@ -2463,7 +2463,7 @@
           "downloadURL": "https://huggingface.co/bartowski/DeepSeek-R1-Distill-Llama-70B-GGUF/resolve/main/DeepSeek-R1-Distill-Llama-70B-Q6_K/DeepSeek-R1-Distill-Llama-70B-Q6_K-00001-of-00002.gguf",
           "filename": "DeepSeek-R1-Distill-Llama-70B-Q6_K/DeepSeek-R1-Distill-Llama-70B-Q6_K-00001-of-00002.gguf",
           "badge": null,
-          "hfDownloads": 36048,
+          "hfDownloads": 30412,
           "quantization": "Q6_K"
         },
         {
@@ -2475,7 +2475,7 @@
           "downloadURL": "https://huggingface.co/bartowski/DeepSeek-R1-Distill-Llama-70B-GGUF/resolve/main/DeepSeek-R1-Distill-Llama-70B-Q8_0/DeepSeek-R1-Distill-Llama-70B-Q8_0-00001-of-00002.gguf",
           "filename": "DeepSeek-R1-Distill-Llama-70B-Q8_0/DeepSeek-R1-Distill-Llama-70B-Q8_0-00001-of-00002.gguf",
           "badge": "High Quality",
-          "hfDownloads": 36048,
+          "hfDownloads": 30412,
           "quantization": "Q8_0"
         }
       ]
@@ -2493,7 +2493,7 @@
           "downloadURL": "https://huggingface.co/bartowski/Hermes-3-Llama-3.1-8B-GGUF/resolve/main/Hermes-3-Llama-3.1-8B-Q2_K.gguf",
           "filename": "Hermes-3-Llama-3.1-8B-Q2_K.gguf",
           "badge": null,
-          "hfDownloads": 12140,
+          "hfDownloads": 12169,
           "quantization": "Q2_K"
         },
         {
@@ -2505,7 +2505,7 @@
           "downloadURL": "https://huggingface.co/bartowski/Hermes-3-Llama-3.1-8B-GGUF/resolve/main/Hermes-3-Llama-3.1-8B-Q3_K_M.gguf",
           "filename": "Hermes-3-Llama-3.1-8B-Q3_K_M.gguf",
           "badge": "Most Compatible",
-          "hfDownloads": 12140,
+          "hfDownloads": 12169,
           "quantization": "Q3_K_M"
         },
         {
@@ -2517,7 +2517,7 @@
           "downloadURL": "https://huggingface.co/bartowski/Hermes-3-Llama-3.1-8B-GGUF/resolve/main/Hermes-3-Llama-3.1-8B-Q4_K_S.gguf",
           "filename": "Hermes-3-Llama-3.1-8B-Q4_K_S.gguf",
           "badge": null,
-          "hfDownloads": 12140,
+          "hfDownloads": 12169,
           "quantization": "Q4_K_S"
         },
         {
@@ -2529,7 +2529,7 @@
           "downloadURL": "https://huggingface.co/bartowski/Hermes-3-Llama-3.1-8B-GGUF/resolve/main/Hermes-3-Llama-3.1-8B-Q4_K_M.gguf",
           "filename": "Hermes-3-Llama-3.1-8B-Q4_K_M.gguf",
           "badge": null,
-          "hfDownloads": 12140,
+          "hfDownloads": 12169,
           "quantization": "Q4_K_M"
         },
         {
@@ -2541,7 +2541,7 @@
           "downloadURL": "https://huggingface.co/bartowski/Hermes-3-Llama-3.1-8B-GGUF/resolve/main/Hermes-3-Llama-3.1-8B-Q5_K_M.gguf",
           "filename": "Hermes-3-Llama-3.1-8B-Q5_K_M.gguf",
           "badge": null,
-          "hfDownloads": 12140,
+          "hfDownloads": 12169,
           "quantization": "Q5_K_M"
         },
         {
@@ -2553,7 +2553,7 @@
           "downloadURL": "https://huggingface.co/bartowski/Hermes-3-Llama-3.1-8B-GGUF/resolve/main/Hermes-3-Llama-3.1-8B-Q6_K.gguf",
           "filename": "Hermes-3-Llama-3.1-8B-Q6_K.gguf",
           "badge": null,
-          "hfDownloads": 12140,
+          "hfDownloads": 12169,
           "quantization": "Q6_K"
         },
         {
@@ -2565,7 +2565,7 @@
           "downloadURL": "https://huggingface.co/bartowski/Hermes-3-Llama-3.1-8B-GGUF/resolve/main/Hermes-3-Llama-3.1-8B-Q8_0.gguf",
           "filename": "Hermes-3-Llama-3.1-8B-Q8_0.gguf",
           "badge": "High Quality",
-          "hfDownloads": 12140,
+          "hfDownloads": 12169,
           "quantization": "Q8_0"
         },
         {
@@ -2577,7 +2577,7 @@
           "downloadURL": "https://huggingface.co/bartowski/Hermes-3-Llama-3.2-3B-GGUF/resolve/main/Hermes-3-Llama-3.2-3B-Q2_K.gguf",
           "filename": "Hermes-3-Llama-3.2-3B-Q2_K.gguf",
           "badge": null,
-          "hfDownloads": 10309,
+          "hfDownloads": 10647,
           "quantization": "Q2_K"
         },
         {
@@ -2589,7 +2589,7 @@
           "downloadURL": "https://huggingface.co/bartowski/Hermes-3-Llama-3.2-3B-GGUF/resolve/main/Hermes-3-Llama-3.2-3B-Q3_K_M.gguf",
           "filename": "Hermes-3-Llama-3.2-3B-Q3_K_M.gguf",
           "badge": "Most Compatible",
-          "hfDownloads": 10309,
+          "hfDownloads": 10647,
           "quantization": "Q3_K_M"
         },
         {
@@ -2601,7 +2601,7 @@
           "downloadURL": "https://huggingface.co/bartowski/Hermes-3-Llama-3.2-3B-GGUF/resolve/main/Hermes-3-Llama-3.2-3B-Q4_K_S.gguf",
           "filename": "Hermes-3-Llama-3.2-3B-Q4_K_S.gguf",
           "badge": null,
-          "hfDownloads": 10309,
+          "hfDownloads": 10647,
           "quantization": "Q4_K_S"
         },
         {
@@ -2613,7 +2613,7 @@
           "downloadURL": "https://huggingface.co/bartowski/Hermes-3-Llama-3.2-3B-GGUF/resolve/main/Hermes-3-Llama-3.2-3B-Q4_K_M.gguf",
           "filename": "Hermes-3-Llama-3.2-3B-Q4_K_M.gguf",
           "badge": null,
-          "hfDownloads": 10309,
+          "hfDownloads": 10647,
           "quantization": "Q4_K_M"
         },
         {
@@ -2625,7 +2625,7 @@
           "downloadURL": "https://huggingface.co/bartowski/Hermes-3-Llama-3.2-3B-GGUF/resolve/main/Hermes-3-Llama-3.2-3B-Q4_0.gguf",
           "filename": "Hermes-3-Llama-3.2-3B-Q4_0.gguf",
           "badge": null,
-          "hfDownloads": 10309,
+          "hfDownloads": 10647,
           "quantization": "Q4_0"
         },
         {
@@ -2637,7 +2637,7 @@
           "downloadURL": "https://huggingface.co/bartowski/Hermes-3-Llama-3.2-3B-GGUF/resolve/main/Hermes-3-Llama-3.2-3B-Q5_K_M.gguf",
           "filename": "Hermes-3-Llama-3.2-3B-Q5_K_M.gguf",
           "badge": null,
-          "hfDownloads": 10309,
+          "hfDownloads": 10647,
           "quantization": "Q5_K_M"
         },
         {
@@ -2649,7 +2649,7 @@
           "downloadURL": "https://huggingface.co/bartowski/Hermes-3-Llama-3.2-3B-GGUF/resolve/main/Hermes-3-Llama-3.2-3B-Q6_K.gguf",
           "filename": "Hermes-3-Llama-3.2-3B-Q6_K.gguf",
           "badge": null,
-          "hfDownloads": 10309,
+          "hfDownloads": 10647,
           "quantization": "Q6_K"
         },
         {
@@ -2661,7 +2661,7 @@
           "downloadURL": "https://huggingface.co/bartowski/Hermes-3-Llama-3.2-3B-GGUF/resolve/main/Hermes-3-Llama-3.2-3B-Q8_0.gguf",
           "filename": "Hermes-3-Llama-3.2-3B-Q8_0.gguf",
           "badge": "High Quality",
-          "hfDownloads": 10309,
+          "hfDownloads": 10647,
           "quantization": "Q8_0"
         },
         {
@@ -2673,7 +2673,7 @@
           "downloadURL": "https://huggingface.co/bartowski/NousResearch_Hermes-4-14B-GGUF/resolve/main/NousResearch_Hermes-4-14B-Q2_K.gguf",
           "filename": "NousResearch_Hermes-4-14B-Q2_K.gguf",
           "badge": null,
-          "hfDownloads": 9154,
+          "hfDownloads": 9253,
           "quantization": "Q2_K"
         },
         {
@@ -2685,7 +2685,7 @@
           "downloadURL": "https://huggingface.co/bartowski/NousResearch_Hermes-4-14B-GGUF/resolve/main/NousResearch_Hermes-4-14B-Q3_K_M.gguf",
           "filename": "NousResearch_Hermes-4-14B-Q3_K_M.gguf",
           "badge": "Most Compatible",
-          "hfDownloads": 9154,
+          "hfDownloads": 9253,
           "quantization": "Q3_K_M"
         },
         {
@@ -2697,7 +2697,7 @@
           "downloadURL": "https://huggingface.co/bartowski/NousResearch_Hermes-4-14B-GGUF/resolve/main/NousResearch_Hermes-4-14B-Q4_K_S.gguf",
           "filename": "NousResearch_Hermes-4-14B-Q4_K_S.gguf",
           "badge": null,
-          "hfDownloads": 9154,
+          "hfDownloads": 9253,
           "quantization": "Q4_K_S"
         },
         {
@@ -2709,7 +2709,7 @@
           "downloadURL": "https://huggingface.co/bartowski/NousResearch_Hermes-4-14B-GGUF/resolve/main/NousResearch_Hermes-4-14B-Q4_K_M.gguf",
           "filename": "NousResearch_Hermes-4-14B-Q4_K_M.gguf",
           "badge": null,
-          "hfDownloads": 9154,
+          "hfDownloads": 9253,
           "quantization": "Q4_K_M"
         },
         {
@@ -2721,7 +2721,7 @@
           "downloadURL": "https://huggingface.co/bartowski/NousResearch_Hermes-4-14B-GGUF/resolve/main/NousResearch_Hermes-4-14B-Q4_0.gguf",
           "filename": "NousResearch_Hermes-4-14B-Q4_0.gguf",
           "badge": null,
-          "hfDownloads": 9154,
+          "hfDownloads": 9253,
           "quantization": "Q4_0"
         },
         {
@@ -2733,7 +2733,7 @@
           "downloadURL": "https://huggingface.co/bartowski/NousResearch_Hermes-4-14B-GGUF/resolve/main/NousResearch_Hermes-4-14B-Q5_K_M.gguf",
           "filename": "NousResearch_Hermes-4-14B-Q5_K_M.gguf",
           "badge": null,
-          "hfDownloads": 9154,
+          "hfDownloads": 9253,
           "quantization": "Q5_K_M"
         },
         {
@@ -2745,7 +2745,7 @@
           "downloadURL": "https://huggingface.co/bartowski/NousResearch_Hermes-4-14B-GGUF/resolve/main/NousResearch_Hermes-4-14B-Q6_K.gguf",
           "filename": "NousResearch_Hermes-4-14B-Q6_K.gguf",
           "badge": null,
-          "hfDownloads": 9154,
+          "hfDownloads": 9253,
           "quantization": "Q6_K"
         },
         {
@@ -2757,7 +2757,7 @@
           "downloadURL": "https://huggingface.co/bartowski/NousResearch_Hermes-4-14B-GGUF/resolve/main/NousResearch_Hermes-4-14B-Q8_0.gguf",
           "filename": "NousResearch_Hermes-4-14B-Q8_0.gguf",
           "badge": "High Quality",
-          "hfDownloads": 9154,
+          "hfDownloads": 9253,
           "quantization": "Q8_0"
         },
         {
@@ -2865,7 +2865,7 @@
           "downloadURL": "https://huggingface.co/bartowski/Hermes-3-Llama-3.1-70B-GGUF/resolve/main/Hermes-3-Llama-3.1-70B-Q2_K.gguf",
           "filename": "Hermes-3-Llama-3.1-70B-Q2_K.gguf",
           "badge": null,
-          "hfDownloads": 2200,
+          "hfDownloads": 2197,
           "quantization": "Q2_K"
         },
         {
@@ -2877,7 +2877,7 @@
           "downloadURL": "https://huggingface.co/bartowski/Hermes-3-Llama-3.1-70B-GGUF/resolve/main/Hermes-3-Llama-3.1-70B-Q3_K_M.gguf",
           "filename": "Hermes-3-Llama-3.1-70B-Q3_K_M.gguf",
           "badge": "Most Compatible",
-          "hfDownloads": 2200,
+          "hfDownloads": 2197,
           "quantization": "Q3_K_M"
         },
         {
@@ -2889,7 +2889,7 @@
           "downloadURL": "https://huggingface.co/bartowski/Hermes-3-Llama-3.1-70B-GGUF/resolve/main/Hermes-3-Llama-3.1-70B-Q4_K_S.gguf",
           "filename": "Hermes-3-Llama-3.1-70B-Q4_K_S.gguf",
           "badge": null,
-          "hfDownloads": 2200,
+          "hfDownloads": 2197,
           "quantization": "Q4_K_S"
         },
         {
@@ -2901,7 +2901,7 @@
           "downloadURL": "https://huggingface.co/bartowski/Hermes-3-Llama-3.1-70B-GGUF/resolve/main/Hermes-3-Llama-3.1-70B-Q4_K_M.gguf",
           "filename": "Hermes-3-Llama-3.1-70B-Q4_K_M.gguf",
           "badge": null,
-          "hfDownloads": 2200,
+          "hfDownloads": 2197,
           "quantization": "Q4_K_M"
         },
         {
@@ -2913,7 +2913,7 @@
           "downloadURL": "https://huggingface.co/bartowski/Hermes-3-Llama-3.1-70B-GGUF/resolve/main/Hermes-3-Llama-3.1-70B-Q5_K_M/Hermes-3-Llama-3.1-70B-Q5_K_M-00001-of-00002.gguf",
           "filename": "Hermes-3-Llama-3.1-70B-Q5_K_M/Hermes-3-Llama-3.1-70B-Q5_K_M-00001-of-00002.gguf",
           "badge": null,
-          "hfDownloads": 2200,
+          "hfDownloads": 2197,
           "quantization": "Q5_K_M"
         },
         {
@@ -2925,7 +2925,7 @@
           "downloadURL": "https://huggingface.co/bartowski/Hermes-3-Llama-3.1-70B-GGUF/resolve/main/Hermes-3-Llama-3.1-70B-Q6_K/Hermes-3-Llama-3.1-70B-Q6_K-00001-of-00002.gguf",
           "filename": "Hermes-3-Llama-3.1-70B-Q6_K/Hermes-3-Llama-3.1-70B-Q6_K-00001-of-00002.gguf",
           "badge": null,
-          "hfDownloads": 2200,
+          "hfDownloads": 2197,
           "quantization": "Q6_K"
         },
         {
@@ -2937,7 +2937,7 @@
           "downloadURL": "https://huggingface.co/bartowski/Hermes-3-Llama-3.1-70B-GGUF/resolve/main/Hermes-3-Llama-3.1-70B-Q8_0/Hermes-3-Llama-3.1-70B-Q8_0-00001-of-00002.gguf",
           "filename": "Hermes-3-Llama-3.1-70B-Q8_0/Hermes-3-Llama-3.1-70B-Q8_0-00001-of-00002.gguf",
           "badge": "High Quality",
-          "hfDownloads": 2200,
+          "hfDownloads": 2197,
           "quantization": "Q8_0"
         }
       ]
