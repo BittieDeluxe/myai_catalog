@@ -1,6 +1,20 @@
 {
-  "updated": "2026-07-06T23:02:55Z",
+  "updated": "2026-07-07T02:42:00Z",
   "news": [
+    {
+      "title": "The \u2018first\u2019 AI-run ransomware attack still needed a human",
+      "url": "https://techcrunch.com/2026/07/06/the-first-ai-run-ransomware-attack-still-needed-a-human/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-07-06T23:56:14Z",
+      "snippet": "An AI agent carried out the technical execution of a real-world ransomware attack for the first known time, but new details show a human still chose the victim, set up the infrastructure, and supplied"
+    },
+    {
+      "title": "US investors will soon get access to SK Hynix, another memory maker riding the AI boom",
+      "url": "https://techcrunch.com/2026/07/06/us-investors-will-soon-get-access-to-sk-hynix-another-memory-maker-riding-the-ai-boom/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-07-06T23:21:03Z",
+      "snippet": "SK Hynix is experiencing a boom credited to AI. It will ride that to a multibillion-dollar U.S. IPO, expected to take place on Friday."
+    },
     {
       "title": "Vercel CEO Guillermo Rauch on the fight to split off models from agents",
       "url": "https://techcrunch.com/2026/07/06/vercel-ceo-guillermo-rauch-on-the-fight-to-split-off-models-from-agents/",
@@ -128,13 +142,6 @@
       "snippet": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter."
     },
     {
-      "title": "The browser wars aren\u2019t about search anymore \u2014 here are the best alternatives to Chrome and Safari",
-      "url": "https://techcrunch.com/2026/07/03/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-07-03T18:43:00Z",
-      "snippet": "We\u2019ve compiled an overview of some of the top alternative browsers available today aiming to challenge Chrome and Safari."
-    },
-    {
       "title": "Anthropic wants to develop its own drugs",
       "url": "https://www.theverge.com/ai-artificial-intelligence/961311/anthropic-claude-science-ai-drug-development",
       "source": "The Verge",
@@ -147,13 +154,6 @@
       "source": "The Verge",
       "publishedAt": "2026-07-03T11:49:10Z",
       "snippet": "Midjourney has shown more of its futuristic medical scanner. It still hasn't shown much proof it works. The AI startup, best known for generating images, released a behind-the-scenes video of its dunk"
-    },
-    {
-      "title": "Mark Zuckerberg tells staff that AI agents haven\u2019t progressed as quickly as he\u2019d hoped",
-      "url": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-07-02T23:38:10Z",
-      "snippet": "At an internal meeting, the Meta CEO reportedly said that AI development efforts were not moving as quickly as anticipated."
     },
     {
       "title": "OpenAI floats giving Trump administration 5 percent cut of AI boom",
@@ -199,14 +199,14 @@
       "downloads": 2910241
     },
     {
-      "id": "huihui-ai/Huihui-GLM-5.2-abliterated-GGUF",
-      "displayName": "Huihui GLM 5.2 abliterated",
-      "downloads": 6660
-    },
-    {
       "id": "deepreinforce-ai/Ornith-1.0-9B-GGUF",
       "displayName": "Ornith 1.0 9B",
       "downloads": 393142
+    },
+    {
+      "id": "huihui-ai/Huihui-GLM-5.2-abliterated-GGUF",
+      "displayName": "Huihui GLM 5.2 abliterated",
+      "downloads": 6660
     },
     {
       "id": "Jackrong/Qwopus3.6-35B-A3B-Coder-MTP-GGUF",
@@ -224,9 +224,9 @@
       "downloads": 2818499
     },
     {
-      "id": "BugTraceAI/BugTraceAI-CORE-Ultra-27B-Q6",
-      "displayName": "BugTraceAI CORE Ultra 27B Q6",
-      "downloads": 12438
+      "id": "InternScience/Agents-A1-Q4_K_M-GGUF",
+      "displayName": "Agents A1 Q4_K_M",
+      "downloads": 7240
     }
   ]
 }
