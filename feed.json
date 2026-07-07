@@ -1,12 +1,19 @@
 {
-  "updated": "2026-07-07T10:51:16Z",
+  "updated": "2026-07-07T14:22:21Z",
   "news": [
+    {
+      "title": "Savi\u2019s app aims to protect consumers from realistic AI scams like kidnappers demanding ransom",
+      "url": "https://techcrunch.com/2026/07/07/savis-app-aims-to-protect-consumers-from-realistic-ai-scams-like-kidnappers-demanding-ransom/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-07-07T12:00:00Z",
+      "snippet": "The company just raised $7 million in seed funding, and is launching its app for iPhone and Android on Tuesday."
+    },
     {
       "title": "The first American autonomous ground vehicles are fighting in Ukraine",
       "url": "https://techcrunch.com/2026/07/07/the-first-american-autonomous-ground-vehicles-are-fighting-in-ukraine/",
       "source": "TechCrunch",
       "publishedAt": "2026-07-07T09:00:00Z",
-      "snippet": "Forterra has deployed more than 100"
+      "snippet": "Forterra has deployed more than 100 of its self-driving ATVs in conflict zones in Ukraine."
     },
     {
       "title": "The \u2018first\u2019 AI-run ransomware attack still needed a human",
@@ -126,13 +133,6 @@
       "source": "TechCrunch",
       "publishedAt": "2026-07-04T16:32:08Z",
       "snippet": "Alibaba has reportedly classified Claude Code as high-risk software."
-    },
-    {
-      "title": "What is Mistral AI? Everything to know about the OpenAI competitor",
-      "url": "https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-07-04T15:51:32Z",
-      "snippet": "Mistral AI, which offers some open source AI models, has raised significant funding since its creation in 2023, with the ambition to \u201cput frontier AI in the hands of everyone.\u201d"
     },
     {
       "title": "The fanfiction community is at war with AI \u2014 and itself",
