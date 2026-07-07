@@ -1,6 +1,27 @@
 {
-  "updated": "2026-07-07T19:49:32Z",
+  "updated": "2026-07-07T21:19:37Z",
   "news": [
+    {
+      "title": "Meta\u2019s new Muse Image model can pull other Instagram users into AI photos",
+      "url": "https://www.theverge.com/tech/962485/meta-muse-image-ai-model-instagram",
+      "source": "The Verge",
+      "publishedAt": "2026-07-07T20:31:58Z",
+      "snippet": "Meta is launching the first AI image generation model made by its Superintelligence Labs division. The Muse Image model now powers the image-making tools across the Meta AI app, Instagram, and WhatsAp"
+    },
+    {
+      "title": "Why the rise of open source AI isn\u2019t hurting Anthropic \u2026 yet",
+      "url": "https://techcrunch.com/2026/07/07/why-the-rise-of-open-source-ai-isnt-hurting-anthropic-yet/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-07-07T20:04:32Z",
+      "snippet": "Open source models\u2019 success isn\u2019t coming at the expense of frontier labs. Instead, they each seem to capture two phases of the same life cycle."
+    },
+    {
+      "title": "Microsoft joins AI cost-cutting trend by relying more on its own models",
+      "url": "https://techcrunch.com/2026/07/07/microsoft-joins-ai-cost-cutting-trend-by-relying-more-on-its-own-models/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-07-07T19:58:20Z",
+      "snippet": "Microsoft is the latest Silicon Valley giant to cut back on its AI spending."
+    },
     {
       "title": "Discord admits AI moderation bug wrongfully banned users over harmless images",
       "url": "https://techcrunch.com/2026/07/07/discord-admits-ai-moderation-bug-wrongfully-banned-users-over-harmless-images/",
@@ -128,25 +149,11 @@
       "snippet": "Most Americans don't trust AI. It's proven that it doesn't know what safe toppings for pizza are. People don't even want to listen to AI music. But none of that matters for some of America's wealthy, "
     },
     {
-      "title": "Amazon will stop accepting new customers for Mechanical Turk",
-      "url": "https://techcrunch.com/2026/07/05/amazon-will-stop-accepting-new-customers-for-mechanical-turk/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-07-05T17:43:36Z",
-      "snippet": "These may be the last days of Amazon\u2019s Mechanical Turk."
-    },
-    {
       "title": "Infuriating Google commercial imagines the founding fathers embracing AI",
       "url": "https://www.theverge.com/ai-artificial-intelligence/961468/google-ai-commercial-founding-fathers-declaration-of-independence",
       "source": "The Verge",
       "publishedAt": "2026-07-05T14:23:11Z",
       "snippet": "\"Group project, but make it 1776.\" That's how a new commercial for Google Workspace opens. And things only get cringier from there. The clip imagines what it would be like if the founding fathers turn"
-    },
-    {
-      "title": "New Google commercial imagines a Declaration of Independence written with help from AI",
-      "url": "https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-07-04T20:55:25Z",
-      "snippet": "Two hundred and fifty years after the signing of the Declaration of Independence, a new commercial asks: What if the Founding Fathers had access to Google Workspace?"
     },
     {
       "title": "The fanfiction community is at war with AI \u2014 and itself",
@@ -168,13 +175,6 @@
       "source": "The Verge",
       "publishedAt": "2026-07-03T11:49:10Z",
       "snippet": "Midjourney has shown more of its futuristic medical scanner. It still hasn't shown much proof it works. The AI startup, best known for generating images, released a behind-the-scenes video of its dunk"
-    },
-    {
-      "title": "OpenAI floats giving Trump administration 5 percent cut of AI boom",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/960588/openai-government-5-percent-stake-trump",
-      "source": "The Verge",
-      "publishedAt": "2026-07-02T10:23:27Z",
-      "snippet": "OpenAI has floated giving the US government a 5 percent ownership stake as a way of easing tensions with the Trump administration and blunting mounting public backlash against AI, according to the Fin"
     }
   ],
   "trending": [
@@ -214,14 +214,14 @@
       "downloads": 7349
     },
     {
-      "id": "Jackrong/Qwopus3.6-35B-A3B-Coder-MTP-GGUF",
-      "displayName": "Qwopus3.6 35B A3B Coder MTP",
-      "downloads": 159871
-    },
-    {
       "id": "InternScience/Agents-A1-Q4_K_M-GGUF",
       "displayName": "Agents A1 Q4_K_M",
       "downloads": 11226
+    },
+    {
+      "id": "Jackrong/Qwopus3.6-35B-A3B-Coder-MTP-GGUF",
+      "displayName": "Qwopus3.6 35B A3B Coder MTP",
+      "downloads": 159871
     },
     {
       "id": "unsloth/Qwen3.6-27B-MTP-GGUF",
