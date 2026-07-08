@@ -1,6 +1,13 @@
 {
-  "updated": "2026-07-08T10:12:03Z",
+  "updated": "2026-07-08T13:52:42Z",
   "news": [
+    {
+      "title": "Former OpenAI exec Kevin Weil is now on the board of Stoke Space",
+      "url": "https://techcrunch.com/2026/07/08/former-openai-exec-kevin-weil-is-now-on-the-board-of-stoke-space/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-07-08T12:00:00Z",
+      "snippet": "Kevin Weil's new role at Stoke Space suggests reusable rockets are the next hot thing in Silicon Valley."
+    },
     {
       "title": "Hot French startup ZML releases free product to speed inference across lots of AI chips",
       "url": "https://techcrunch.com/2026/07/08/hot-french-startup-zml-releases-free-product-to-speed-inference-across-lots-of-ai-chips/",
@@ -121,13 +128,6 @@
       "snippet": "A running look \u2014 in reverse chronological order \u2014 at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor."
     },
     {
-      "title": "If you use Google, you\u2019re training its AI. Here\u2019s how to opt out.",
-      "url": "https://techcrunch.com/2026/07/06/if-you-use-google-youre-training-its-ai-heres-how-to-opt-out/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-07-06T17:04:58Z",
-      "snippet": "Consider this a belated PSA: A recent change to Google\u2019s privacy settings is allowing the company to store more of your data, including media such as \u201cimages, files, and audio and video recordings,\u201d t"
-    },
-    {
       "title": "I spy",
       "url": "https://www.theverge.com/column/961707/smart-glasses-ai-wearables-meta-surveillance-privacy",
       "source": "The Verge",
@@ -189,14 +189,14 @@
       "downloads": 502663
     },
     {
-      "id": "yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF",
-      "displayName": "gemma 4 12B agentic fable5 composer2.5 v2 3.5x tau2",
-      "downloads": 384383
-    },
-    {
       "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
       "displayName": "Qwen3.6 35B A3B Uncensored HauhauCS Aggressive",
       "downloads": 2823988
+    },
+    {
+      "id": "yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF",
+      "displayName": "gemma 4 12B agentic fable5 composer2.5 v2 3.5x tau2",
+      "downloads": 384383
     },
     {
       "id": "deepreinforce-ai/Ornith-1.0-9B-GGUF",
@@ -219,14 +219,14 @@
       "downloads": 11226
     },
     {
+      "id": "unsloth/DeepSeek-V4-Flash-GGUF",
+      "displayName": "DeepSeek V4 Flash",
+      "downloads": 47
+    },
+    {
       "id": "huihui-ai/Huihui-GLM-5.2-abliterated-GGUF",
       "displayName": "Huihui GLM 5.2 abliterated",
       "downloads": 7349
-    },
-    {
-      "id": "Jackrong/Qwopus3.6-35B-A3B-Coder-MTP-GGUF",
-      "displayName": "Qwopus3.6 35B A3B Coder MTP",
-      "downloads": 159871
     }
   ]
 }
