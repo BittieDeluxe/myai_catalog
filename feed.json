@@ -1,6 +1,13 @@
 {
-  "updated": "2026-07-08T13:52:42Z",
+  "updated": "2026-07-08T15:59:33Z",
   "news": [
+    {
+      "title": "These AI startups are growing  revenue at faster and faster rates",
+      "url": "https://techcrunch.com/2026/07/08/these-ai-startups-are-growing-revenue-at-faster-and-faster-rates/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-07-08T15:41:06Z",
+      "snippet": "There are a lot of fast-growing AI startups, but some are growing even faster, they say."
+    },
     {
       "title": "Former OpenAI exec Kevin Weil is now on the board of Stoke Space",
       "url": "https://techcrunch.com/2026/07/08/former-openai-exec-kevin-weil-is-now-on-the-board-of-stoke-space/",
@@ -20,7 +27,7 @@
       "url": "https://techcrunch.com/2026/07/08/sambanova-draws-1b-at-11b-valuation-in-series-f-first-close/",
       "source": "TechCrunch",
       "publishedAt": "2026-07-08T07:16:00Z",
-      "snippet": "AI chip maker SambaNova has raised at an $11B valuation months after Intel was rumored to be trying to buy it for about $1.6 billion."
+      "snippet": "AI chip maker SambaNova has raised at an $11 billion valuation months after Intel was rumored to be trying to buy it for about $1.6 billion."
     },
     {
       "title": "Meta just launched a new AI generator, Muse Image, and users are already pushing back over use of their photos",
@@ -121,13 +128,6 @@
       "snippet": "The update is part of Apple's broader effort to make Siri feel more natural and personal, as it rebuilds the assistant around generative AI."
     },
     {
-      "title": "Every major tech layoff in 2026 that has name-checked AI",
-      "url": "https://techcrunch.com/2026/07/06/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-07-06T18:35:00Z",
-      "snippet": "A running look \u2014 in reverse chronological order \u2014 at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor."
-    },
-    {
       "title": "I spy",
       "url": "https://www.theverge.com/column/961707/smart-glasses-ai-wearables-meta-surveillance-privacy",
       "source": "The Verge",
@@ -209,6 +209,11 @@
       "downloads": 674977
     },
     {
+      "id": "unsloth/DeepSeek-V4-Flash-GGUF",
+      "displayName": "DeepSeek V4 Flash",
+      "downloads": 47
+    },
+    {
       "id": "unsloth/Qwen3.6-27B-MTP-GGUF",
       "displayName": "Qwen3.6 27B MTP",
       "downloads": 2842118
@@ -217,11 +222,6 @@
       "id": "InternScience/Agents-A1-Q4_K_M-GGUF",
       "displayName": "Agents A1 Q4_K_M",
       "downloads": 11226
-    },
-    {
-      "id": "unsloth/DeepSeek-V4-Flash-GGUF",
-      "displayName": "DeepSeek V4 Flash",
-      "downloads": 47
     },
     {
       "id": "huihui-ai/Huihui-GLM-5.2-abliterated-GGUF",
