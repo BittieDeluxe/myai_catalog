@@ -1,6 +1,20 @@
 {
-  "updated": "2026-07-08T06:24:12Z",
+  "updated": "2026-07-08T10:12:03Z",
   "news": [
+    {
+      "title": "Hot French startup ZML releases free product to speed inference across lots of AI chips",
+      "url": "https://techcrunch.com/2026/07/08/hot-french-startup-zml-releases-free-product-to-speed-inference-across-lots-of-ai-chips/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-07-08T08:00:00Z",
+      "snippet": "ZML, a hot French AI startup endorsed by Turing Award winner Yann LeCun, has now released ZML/LLMD, software that could make running AI less costly."
+    },
+    {
+      "title": "AI chip maker SambaNova raises $1B at $11B valuation, 5 months after last mega round",
+      "url": "https://techcrunch.com/2026/07/08/sambanova-draws-1b-at-11b-valuation-in-series-f-first-close/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-07-08T07:16:00Z",
+      "snippet": "AI chip maker SambaNova has raised at an $11B valuation months after Intel was rumored to be trying to buy it for about $1.6 billion."
+    },
     {
       "title": "Meta just launched a new AI generator, Muse Image, and users are already pushing back over use of their photos",
       "url": "https://techcrunch.com/2026/07/07/meta-rolls-out-muse-a-new-ai-image-generator/",
@@ -121,20 +135,6 @@
       "snippet": "I've long argued that Hollywood has simultaneously set and ruined our expectations for smart glasses. But after binge-watching two seasons of Netflix's A Man on the Inside, this is perhaps the first t"
     },
     {
-      "title": "Microsoft lays off nearly 5,000 employees across Xbox, commercial sales",
-      "url": "https://techcrunch.com/2026/07/06/microsoft-lays-off-nearly-5000-employees-across-xbox-commercial-sales/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-07-06T15:32:43Z",
-      "snippet": "Microsoft cut around 4,800 roles, or 2.1% of its global workforce, on Monday \u2014 the latest in a series of layoffs that\u2019s stoking fears of AI replacing jobs.\u00a0The layoffs will hit Xbox and commercial sal"
-    },
-    {
-      "title": "Reddit is using LLMs to solve a problem LLMs largely created",
-      "url": "https://techcrunch.com/2026/07/06/reddit-is-using-llms-to-solve-a-problem-llms-largely-created/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-07-06T15:22:08Z",
-      "snippet": "In the AI era, platforms have no choice but to fight fire with fire to cull spam."
-    },
-    {
       "title": "Microsoft is laying off 4,800 employees",
       "url": "https://www.theverge.com/news/961528/microsoft-layoffs-july-2026-sales-xbox",
       "source": "The Verge",
@@ -209,9 +209,9 @@
       "downloads": 674977
     },
     {
-      "id": "huihui-ai/Huihui-GLM-5.2-abliterated-GGUF",
-      "displayName": "Huihui GLM 5.2 abliterated",
-      "downloads": 7349
+      "id": "unsloth/Qwen3.6-27B-MTP-GGUF",
+      "displayName": "Qwen3.6 27B MTP",
+      "downloads": 2842118
     },
     {
       "id": "InternScience/Agents-A1-Q4_K_M-GGUF",
@@ -219,9 +219,9 @@
       "downloads": 11226
     },
     {
-      "id": "unsloth/Qwen3.6-27B-MTP-GGUF",
-      "displayName": "Qwen3.6 27B MTP",
-      "downloads": 2842118
+      "id": "huihui-ai/Huihui-GLM-5.2-abliterated-GGUF",
+      "displayName": "Huihui GLM 5.2 abliterated",
+      "downloads": 7349
     },
     {
       "id": "Jackrong/Qwopus3.6-35B-A3B-Coder-MTP-GGUF",
