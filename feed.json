@@ -1,12 +1,19 @@
 {
-  "updated": "2026-07-08T21:02:30Z",
+  "updated": "2026-07-08T23:01:12Z",
   "news": [
+    {
+      "title": "Lovable reportedly in talks to double its valuation to $13.2B",
+      "url": "https://techcrunch.com/2026/07/08/lovable-reportedly-in-talks-to-double-its-valuation-to-13-2b/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-07-08T22:41:33Z",
+      "snippet": "The $300 million round is expected to be led by Menlo Ventures, Sifted reported."
+    },
     {
       "title": "Google\u2019s deepfake detector system used to debunk McConnell hoax pic",
       "url": "https://techcrunch.com/2026/07/08/googles-deepfake-detector-system-used-to-debunk-mcconnell-hoax-pic/",
       "source": "TechCrunch",
       "publishedAt": "2026-07-08T20:37:03Z",
-      "snippet": "Earlier this week, a picture that seemed to show Kentucky Senator Mitch McConnell covered in tubes in a hospital bed in a state of extreme distress. It turned out to be an AI-generated fake."
+      "snippet": "Earlier this week, a picture seemed to show Kentucky Senator Mitch McConnell covered in tubes in a hospital bed in a state of extreme distress. It turned out to be an AI-generated fake."
     },
     {
       "title": "SpaceXAI releases Grok 4.5, which Elon describes as an \u2018Opus-class model\u2019",
@@ -114,13 +121,6 @@
       "snippet": "Meta is launching the first AI image generation model made by its Superintelligence Labs division. The Muse Image model now powers the image-making tools across the Meta AI app, Instagram, and WhatsAp"
     },
     {
-      "title": "Why the rise of open source AI isn\u2019t hurting Anthropic \u2026 yet",
-      "url": "https://techcrunch.com/2026/07/07/why-the-rise-of-open-source-ai-isnt-hurting-anthropic-yet/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-07-07T20:04:32Z",
-      "snippet": "Open source models\u2019 success isn\u2019t coming at the expense of frontier labs. Instead, they each seem to capture two phases of the same life cycle."
-    },
-    {
       "title": "Anthropic is launching Claude Cowork on mobile and web",
       "url": "https://www.theverge.com/ai-artificial-intelligence/961978/anthropic-claude-cowork-mobile-web",
       "source": "The Verge",
@@ -209,14 +209,14 @@
       "downloads": 454944
     },
     {
-      "id": "yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
-      "displayName": "gemma 4 12B coder fable5 composer2.5 v1",
-      "downloads": 674977
-    },
-    {
       "id": "unsloth/Qwen3.6-27B-MTP-GGUF",
       "displayName": "Qwen3.6 27B MTP",
       "downloads": 2842118
+    },
+    {
+      "id": "yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
+      "displayName": "gemma 4 12B coder fable5 composer2.5 v1",
+      "downloads": 674977
     },
     {
       "id": "InternScience/Agents-A1-Q4_K_M-GGUF",
