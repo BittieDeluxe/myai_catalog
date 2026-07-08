@@ -1,6 +1,27 @@
 {
-  "updated": "2026-07-08T19:18:19Z",
+  "updated": "2026-07-08T21:02:30Z",
   "news": [
+    {
+      "title": "Google\u2019s deepfake detector system used to debunk McConnell hoax pic",
+      "url": "https://techcrunch.com/2026/07/08/googles-deepfake-detector-system-used-to-debunk-mcconnell-hoax-pic/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-07-08T20:37:03Z",
+      "snippet": "Earlier this week, a picture that seemed to show Kentucky Senator Mitch McConnell covered in tubes in a hospital bed in a state of extreme distress. It turned out to be an AI-generated fake."
+    },
+    {
+      "title": "SpaceXAI releases Grok 4.5, which Elon describes as an \u2018Opus-class model\u2019",
+      "url": "https://techcrunch.com/2026/07/08/spacexai-releases-grok-4-5-which-elon-describes-as-an-opus-class-model/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-07-08T19:30:16Z",
+      "snippet": "Elon Musk's tech company released the newest version of Grok on Wednesday, promising a cheaper, more efficient alternative to other powerful AI models."
+    },
+    {
+      "title": "This startup thinks robotics is about to have its ChatGPT moment",
+      "url": "https://techcrunch.com/2026/07/08/this-startup-thinks-robotics-is-about-to-have-its-chatgpt-moment/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-07-08T19:19:15Z",
+      "snippet": "General Intuition is betting millions of hours of video game data can train the foundation models for physical AI, making it easier to build smarter robots with minimal real-world data."
+    },
     {
       "title": "Google Photos adds a new AI \u2018Video Remix\u2019 tool",
       "url": "https://techcrunch.com/2026/07/08/google-photos-adds-a-new-ai-video-remix-tool/",
@@ -21,6 +42,13 @@
       "source": "TechCrunch",
       "publishedAt": "2026-07-08T17:11:18Z",
       "snippet": "Meta is adding a new safeguard to stop people from secretly recording others with its AI glasses. But the update comes as the company continues to expand how much personal data its AI products collect"
+    },
+    {
+      "title": "ChatGPT\u2019s upgraded voice mode is better at shutting up",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/962856/chatgpt-upgraded-voice-mode-gpt-live",
+      "source": "The Verge",
+      "publishedAt": "2026-07-08T17:00:00Z",
+      "snippet": "OpenAI is overhauling ChatGPT's voice mode with a new model that it says is more like \"talking to another person.\" The new GPT-Live-1 is designed to interrupt you less and will also wait for you to co"
     },
     {
       "title": "OpenAI releases new voice models for more natural live conversations",
@@ -93,32 +121,11 @@
       "snippet": "Open source models\u2019 success isn\u2019t coming at the expense of frontier labs. Instead, they each seem to capture two phases of the same life cycle."
     },
     {
-      "title": "Microsoft joins AI cost-cutting trend by relying more on its own models",
-      "url": "https://techcrunch.com/2026/07/07/microsoft-joins-ai-cost-cutting-trend-by-relying-more-on-its-own-models/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-07-07T19:58:20Z",
-      "snippet": "Microsoft is the latest Silicon Valley giant to cut back on its AI spending."
-    },
-    {
-      "title": "Discord admits AI moderation bug wrongfully banned users over harmless images",
-      "url": "https://techcrunch.com/2026/07/07/discord-admits-ai-moderation-bug-wrongfully-banned-users-over-harmless-images/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-07-07T19:28:38Z",
-      "snippet": "The company confirmed that the issue had been affecting accounts since May, with an additional 200 users banned over the weekend before its team identified and fixed the problem."
-    },
-    {
       "title": "Anthropic is launching Claude Cowork on mobile and web",
       "url": "https://www.theverge.com/ai-artificial-intelligence/961978/anthropic-claude-cowork-mobile-web",
       "source": "The Verge",
       "publishedAt": "2026-07-07T17:46:59Z",
       "snippet": "Starting Tuesday, Anthropic's Claude Cowork AI platform will be available on mobile and web for the first time. The expanded access is rolling out first to Max subscribers and coming to Claude users o"
-    },
-    {
-      "title": "Claude Cowork expands to mobile and web",
-      "url": "https://techcrunch.com/2026/07/07/the-coding-agent-wars-are-spilling-into-the-rest-of-the-office-claude-cowork/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-07-07T16:27:18Z",
-      "snippet": "With this update, users can start a task from their desk, get status updates on their phone, and pick up the finished output later \u2014 even if their laptop is closed."
     },
     {
       "title": "Solos debuts an even lighter version of its camera-less smart glasses",
@@ -168,13 +175,6 @@
       "source": "The Verge",
       "publishedAt": "2026-07-03T13:56:52Z",
       "snippet": "At the event \"The Briefing: AI for Science\" earlier this week, Anthropic announced Claude Science, a new \"AI workbench for scientists\" that pulls fragmented tools and datasets into one environment, an"
-    },
-    {
-      "title": "A behind-the-scenes look at Midjourney\u2019s medical scanner leaves many questions unanswered",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/961265/midjourney-medical-ultrasound-scanner-behind-the-scenes-video",
-      "source": "The Verge",
-      "publishedAt": "2026-07-03T11:49:10Z",
-      "snippet": "Midjourney has shown more of its futuristic medical scanner. It still hasn't shown much proof it works. The AI startup, best known for generating images, released a behind-the-scenes video of its dunk"
     }
   ],
   "trending": [
@@ -199,14 +199,14 @@
       "downloads": 384383
     },
     {
-      "id": "deepreinforce-ai/Ornith-1.0-9B-GGUF",
-      "displayName": "Ornith 1.0 9B",
-      "downloads": 454944
-    },
-    {
       "id": "unsloth/DeepSeek-V4-Flash-GGUF",
       "displayName": "DeepSeek V4 Flash",
       "downloads": 47
+    },
+    {
+      "id": "deepreinforce-ai/Ornith-1.0-9B-GGUF",
+      "displayName": "Ornith 1.0 9B",
+      "downloads": 454944
     },
     {
       "id": "yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
