@@ -1,19 +1,26 @@
 {
-  "updated": "2026-07-08T17:46:26Z",
+  "updated": "2026-07-08T19:18:19Z",
   "news": [
+    {
+      "title": "Google Photos adds a new AI \u2018Video Remix\u2019 tool",
+      "url": "https://techcrunch.com/2026/07/08/google-photos-adds-a-new-ai-video-remix-tool/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-07-08T18:30:08Z",
+      "snippet": "The feature can do things like apply cinematic relighting to brighten up a dark clip, swap out a plain background for something fun, or add artistic styles to videos."
+    },
+    {
+      "title": "Why this CEO thinks video games make better training data than the internet",
+      "url": "https://techcrunch.com/video/why-this-ceo-thinks-video-games-make-better-training-data-than-the-internet/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-07-08T17:47:55Z",
+      "snippet": "When it comes to achieving artificial general intelligence (AGI), large language models just&#160;don\u2019t&#160;have what it takes. Models like ChatGPT and Claude&#160;are great at text, but&#160;they&#8"
+    },
     {
       "title": "Meta wants its AI glasses to seem less creepy. Its AI strategy says otherwise.",
       "url": "https://techcrunch.com/2026/07/08/meta-wants-its-ai-glasses-to-seem-less-creepy-its-ai-strategy-says-otherwise/",
       "source": "TechCrunch",
       "publishedAt": "2026-07-08T17:11:18Z",
       "snippet": "Meta is adding a new safeguard to stop people from secretly recording others with its AI glasses. But the update comes as the company continues to expand how much personal data its AI products collect"
-    },
-    {
-      "title": "ChatGPT\u2019s upgraded voice mode is better at shutting up",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/962856/chatgpt-upgraded-voice-mode-gpt-live",
-      "source": "The Verge",
-      "publishedAt": "2026-07-08T17:00:00Z",
-      "snippet": "OpenAI is overhauling ChatGPT's voice mode with a new model that it says is more like \"talking to another person.\" The new GPT-Live-1 is designed to interrupt you less and will also wait for you to co"
     },
     {
       "title": "OpenAI releases new voice models for more natural live conversations",
@@ -35,6 +42,13 @@
       "source": "TechCrunch",
       "publishedAt": "2026-07-08T15:41:06Z",
       "snippet": "There are a lot of fast-growing AI startups, but some are growing even faster, they say."
+    },
+    {
+      "title": "Your gaming data could\u00a0be the secret to AGI, according to this Bezos-backed startup",
+      "url": "https://techcrunch.com/podcast/your-gaming-data-could-be-the-secret-to-agi-according-to-this-bezos-backed-startup/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-07-08T13:00:00Z",
+      "snippet": "When it comes to achieving artificial general intelligence (AGI), large language models just&#160;don\u2019t&#160;have what it takes. Models like ChatGPT and Claude&#160;are great at text, but&#160;they&#8"
     },
     {
       "title": "Former OpenAI exec Kevin Weil is now on the board of Stoke Space",
@@ -114,27 +128,6 @@
       "snippet": "Solos announced a new version of its AirGo smart glasses, one that forgoes cameras for a sleeker design and an AI assistant that relies on voice interactions. Last year's AirGo A5 weighed 36 to 40 gra"
     },
     {
-      "title": "Savi\u2019s app aims to protect consumers from realistic AI scams like kidnappers demanding ransom",
-      "url": "https://techcrunch.com/2026/07/07/savis-app-aims-to-protect-consumers-from-realistic-ai-scams-like-kidnappers-demanding-ransom/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-07-07T12:00:00Z",
-      "snippet": "The company just raised $7 million in seed funding, and is launching its app for iPhone and Android on Tuesday."
-    },
-    {
-      "title": "The first American autonomous ground vehicles are fighting in Ukraine",
-      "url": "https://techcrunch.com/2026/07/07/the-first-american-autonomous-ground-vehicles-are-fighting-in-ukraine/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-07-07T09:00:00Z",
-      "snippet": "Forterra has deployed more than 100 of its self-driving ATVs in conflict zones in Ukraine."
-    },
-    {
-      "title": "The \u2018first\u2019 AI-run ransomware attack still needed a human",
-      "url": "https://techcrunch.com/2026/07/06/the-first-ai-run-ransomware-attack-still-needed-a-human/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-07-06T23:56:14Z",
-      "snippet": "An AI agent carried out the technical execution of a real-world ransomware attack for the first known time, but new details show a human still chose the victim, set up the infrastructure, and supplied"
-    },
-    {
       "title": "I spy",
       "url": "https://www.theverge.com/column/961707/smart-glasses-ai-wearables-meta-surveillance-privacy",
       "source": "The Verge",
@@ -175,6 +168,13 @@
       "source": "The Verge",
       "publishedAt": "2026-07-03T13:56:52Z",
       "snippet": "At the event \"The Briefing: AI for Science\" earlier this week, Anthropic announced Claude Science, a new \"AI workbench for scientists\" that pulls fragmented tools and datasets into one environment, an"
+    },
+    {
+      "title": "A behind-the-scenes look at Midjourney\u2019s medical scanner leaves many questions unanswered",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/961265/midjourney-medical-ultrasound-scanner-behind-the-scenes-video",
+      "source": "The Verge",
+      "publishedAt": "2026-07-03T11:49:10Z",
+      "snippet": "Midjourney has shown more of its futuristic medical scanner. It still hasn't shown much proof it works. The AI startup, best known for generating images, released a behind-the-scenes video of its dunk"
     }
   ],
   "trending": [
@@ -204,14 +204,14 @@
       "downloads": 454944
     },
     {
-      "id": "yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
-      "displayName": "gemma 4 12B coder fable5 composer2.5 v1",
-      "downloads": 674977
-    },
-    {
       "id": "unsloth/DeepSeek-V4-Flash-GGUF",
       "displayName": "DeepSeek V4 Flash",
       "downloads": 47
+    },
+    {
+      "id": "yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
+      "displayName": "gemma 4 12B coder fable5 composer2.5 v1",
+      "downloads": 674977
     },
     {
       "id": "unsloth/Qwen3.6-27B-MTP-GGUF",
