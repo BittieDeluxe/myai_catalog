@@ -1,12 +1,12 @@
 {
-  "updated": "2026-07-08T02:20:52Z",
+  "updated": "2026-07-08T06:24:12Z",
   "news": [
     {
       "title": "Meta just launched a new AI generator, Muse Image, and users are already pushing back over use of their photos",
       "url": "https://techcrunch.com/2026/07/07/meta-rolls-out-muse-a-new-ai-image-generator/",
       "source": "TechCrunch",
       "publishedAt": "2026-07-07T22:18:10Z",
-      "snippet": "The new image-generating model has numerous use cases, including advertising, decorating and creator-based opportunities."
+      "snippet": "The new image-generating model has numerous use cases, including advertising and decorating, and creator-based opportunities."
     },
     {
       "title": "Meta\u2019s new Muse Image model can pull other Instagram users into AI photos",
@@ -219,14 +219,14 @@
       "downloads": 11226
     },
     {
-      "id": "Jackrong/Qwopus3.6-35B-A3B-Coder-MTP-GGUF",
-      "displayName": "Qwopus3.6 35B A3B Coder MTP",
-      "downloads": 159871
-    },
-    {
       "id": "unsloth/Qwen3.6-27B-MTP-GGUF",
       "displayName": "Qwen3.6 27B MTP",
       "downloads": 2842118
+    },
+    {
+      "id": "Jackrong/Qwopus3.6-35B-A3B-Coder-MTP-GGUF",
+      "displayName": "Qwopus3.6 35B A3B Coder MTP",
+      "downloads": 159871
     }
   ]
 }
