@@ -1,6 +1,55 @@
 {
-  "updated": "2026-07-09T10:50:10Z",
+  "updated": "2026-07-09T14:48:10Z",
   "news": [
+    {
+      "title": "Meta says its new AI model is ready to compete on coding",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/963193/meta-muse-spark-model-api",
+      "source": "The Verge",
+      "publishedAt": "2026-07-09T14:00:00Z",
+      "snippet": "After reentering the AI race with its first in-house Muse Spark model in April, Meta is now opening up the doors to developers with a new model that can plug into AI coding software with the new Meta "
+    },
+    {
+      "title": "Say hello to Claude Wrapped",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/963105/anthropic-claude-wrapped-reflection-ai-usage",
+      "source": "The Verge",
+      "publishedAt": "2026-07-09T13:30:00Z",
+      "snippet": "The popularity of Spotify Wrapped has kicked off a wide range of year-in-review features, on apps from YouTube to Uber - and now, the lookback trend has come to AI. Anthropic on Thursday announced a \""
+    },
+    {
+      "title": "Character.AI wants a piece of the microdrama pie",
+      "url": "https://www.theverge.com/entertainment/962897/character-ai-series-microdrama-vertical-video",
+      "source": "The Verge",
+      "publishedAt": "2026-07-09T13:11:53Z",
+      "snippet": "Character.AI's plan to become more than just an LLM-powered chatbot platform is going beyond interactive books, comics, and audio dramas. Today, the company announced the debut of c.ai Series - short-"
+    },
+    {
+      "title": "FL Studio 2026 turns its AI chatbot into your assistant engineer",
+      "url": "https://www.theverge.com/tech/963052/fl-studio-2026-music-daw-ai-chatbot",
+      "source": "The Verge",
+      "publishedAt": "2026-07-09T13:00:00Z",
+      "snippet": "Last year, Image Line introduced Gopher for FL Studio, an AI chatbot that was basically a glorified instruction manual. You asked it how to do something, and it would serve up the relevant instruction"
+    },
+    {
+      "title": "Popular open source AI developer tool Ollama raises $65M, grows to nearly 9M users",
+      "url": "https://techcrunch.com/2026/07/09/popular-open-source-ai-developer-tool-ollama-raises-65m-grows-to-nearly-9m-users/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-07-09T13:00:00Z",
+      "snippet": "Benchmark-backed Ollama has amassed 176,000 stars, and nearly 17,000 forks on GitHub by helping developers easily run AI on their PCs."
+    },
+    {
+      "title": "Character.AI enters the microdrama arena with its own productions, but there\u2019s a twist",
+      "url": "https://techcrunch.com/2026/07/09/character-ai-enters-the-microdrama-arena-with-its-own-productions-but-with-a-twist/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-07-09T13:00:00Z",
+      "snippet": "In an interesting twist that takes advantage of the company's core product, users can chat with these shows' characters, ask them questions, and even roleplay different storylines."
+    },
+    {
+      "title": "Nandan Nilekani leaves GP role at Fundamentum as it launches $200M third fund",
+      "url": "https://techcrunch.com/2026/07/09/nandan-nilekani-leaves-gp-role-at-his-vc-firm-as-it-launches-third-200m-fund/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-07-09T12:00:00Z",
+      "snippet": "Nilekani remains Fundamentum's anchor investor as the firm expands its leadership team and targets AI and fintech startups in India."
+    },
     {
       "title": "Lovable reportedly in talks to double its valuation to $13.2B",
       "url": "https://techcrunch.com/2026/07/08/lovable-reportedly-in-talks-to-double-its-valuation-to-13-2b/",
@@ -93,27 +142,6 @@
       "snippet": "Kevin Weil's new role at Stoke Space suggests reusable rockets are the next hot thing in Silicon Valley."
     },
     {
-      "title": "Hot French startup ZML releases free product to speed inference across lots of AI chips",
-      "url": "https://techcrunch.com/2026/07/08/hot-french-startup-zml-releases-free-product-to-speed-inference-across-lots-of-ai-chips/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-07-08T08:00:00Z",
-      "snippet": "ZML, a hot French AI startup endorsed by Turing Award winner Yann LeCun, has now released ZML/LLMD, software that could make running AI less costly."
-    },
-    {
-      "title": "AI chip maker SambaNova raises $1B at $11B valuation, 5 months after last mega round",
-      "url": "https://techcrunch.com/2026/07/08/sambanova-draws-1b-at-11b-valuation-in-series-f-first-close/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-07-08T07:16:00Z",
-      "snippet": "AI chip maker SambaNova has raised at an $11 billion valuation months after Intel was rumored to be trying to buy it for about $1.6 billion."
-    },
-    {
-      "title": "Meta just launched a new AI generator, Muse Image, and users are already pushing back over use of their photos",
-      "url": "https://techcrunch.com/2026/07/07/meta-rolls-out-muse-a-new-ai-image-generator/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-07-07T22:18:10Z",
-      "snippet": "The new image-generating model has numerous use cases, including advertising and decorating, and creator-based opportunities."
-    },
-    {
       "title": "Meta\u2019s new Muse Image model can pull other Instagram users into AI photos",
       "url": "https://www.theverge.com/tech/962485/meta-muse-image-ai-model-instagram",
       "source": "The Verge",
@@ -147,34 +175,6 @@
       "source": "The Verge",
       "publishedAt": "2026-07-06T13:30:00Z",
       "snippet": "A year after cutting around 9,100 employees, Microsoft is making further layoffs today as it begins its new financial year. The software maker is laying off around 4,800 employees today, approximately"
-    },
-    {
-      "title": "Some of the nation\u2019s rich are letting AI teach their kids",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/961505/wealthy-ai-schools-alpha-forge-prep",
-      "source": "The Verge",
-      "publishedAt": "2026-07-05T22:30:54Z",
-      "snippet": "Most Americans don't trust AI. It's proven that it doesn't know what safe toppings for pizza are. People don't even want to listen to AI music. But none of that matters for some of America's wealthy, "
-    },
-    {
-      "title": "Infuriating Google commercial imagines the founding fathers embracing AI",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/961468/google-ai-commercial-founding-fathers-declaration-of-independence",
-      "source": "The Verge",
-      "publishedAt": "2026-07-05T14:23:11Z",
-      "snippet": "\"Group project, but make it 1776.\" That's how a new commercial for Google Workspace opens. And things only get cringier from there. The clip imagines what it would be like if the founding fathers turn"
-    },
-    {
-      "title": "The fanfiction community is at war with AI \u2014 and itself",
-      "url": "https://www.theverge.com/tech/960854/ai-fanfiction-ao3-claude-detector",
-      "source": "The Verge",
-      "publishedAt": "2026-07-04T12:00:00Z",
-      "snippet": "Over the past week, a new fanworks movement has kicked off, with the aim to root out authors using generative AI. But the detection methods being implemented are questionable, and any fanfic writer co"
-    },
-    {
-      "title": "Anthropic wants to develop its own drugs",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/961311/anthropic-claude-science-ai-drug-development",
-      "source": "The Verge",
-      "publishedAt": "2026-07-03T13:56:52Z",
-      "snippet": "At the event \"The Briefing: AI for Science\" earlier this week, Anthropic announced Claude Science, a new \"AI workbench for scientists\" that pulls fragmented tools and datasets into one environment, an"
     }
   ],
   "trending": [
@@ -197,6 +197,11 @@
       "id": "yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF",
       "displayName": "gemma 4 12B agentic fable5 composer2.5 v2 3.5x tau2",
       "downloads": 418171
+    },
+    {
+      "id": "GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking-GGUF",
+      "displayName": "MiniCPM5 1B Claude Opus Fable5 Thinking",
+      "downloads": 2239
     },
     {
       "id": "unsloth/DeepSeek-V4-Flash-GGUF",
@@ -222,11 +227,6 @@
       "id": "InternScience/Agents-A1-Q4_K_M-GGUF",
       "displayName": "Agents A1 Q4_K_M",
       "downloads": 37714
-    },
-    {
-      "id": "GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking-GGUF",
-      "displayName": "MiniCPM5 1B Claude Opus Fable5 Thinking",
-      "downloads": 2239
     }
   ]
 }
