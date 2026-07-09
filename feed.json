@@ -1,6 +1,41 @@
 {
-  "updated": "2026-07-09T17:51:25Z",
+  "updated": "2026-07-09T19:38:14Z",
   "news": [
+    {
+      "title": "New York Times says OpenAI hid evidence in ChatGPT copyright trial",
+      "url": "https://techcrunch.com/2026/07/09/new-york-times-says-openai-hid-evidence-in-chatgpt-copyright-trial/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-07-09T19:05:58Z",
+      "snippet": "News publishers say OpenAI hid tools and datasets that could identify copyrighted journalism in ChatGPT outputs, escalating their lawsuit with a new motion for sanctions."
+    },
+    {
+      "title": "Google will now disclose which ads are made with AI",
+      "url": "https://techcrunch.com/2026/07/09/google-will-now-disclose-which-ads-are-made-with-ai/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-07-09T18:40:51Z",
+      "snippet": "While Google prohibits misleading and deceptive ads, an ad can still leverage AI to create some type of synthetic or digitally altered content. Until now, that's something Google only required electio"
+    },
+    {
+      "title": "Paris-based AI voice startup Gradium raises $100M seed, backed by Nvidia",
+      "url": "https://techcrunch.com/2026/07/09/paris-based-ai-voice-startup-gradium-raises-100m-seed-backed-by-nvidia/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-07-09T18:34:35Z",
+      "snippet": "The company is using the cash to open an office in the Bay Area and compete for talent there, \"strengthening its position at the heart of the world's leading AI ecosystem.\""
+    },
+    {
+      "title": "How did the government decide OpenAI\u2019s frontier model was safe to release?",
+      "url": "https://techcrunch.com/2026/07/09/how-did-the-government-decide-openais-frontier-model-was-safe-to-release/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-07-09T18:22:39Z",
+      "snippet": "\"Exactly what that dialog looked like between the government and Anthropic and OpenAI is unclear.\""
+    },
+    {
+      "title": "Instagram users: Here\u2019s how to stop Meta\u2019s AI from using your photos",
+      "url": "https://techcrunch.com/2026/07/09/how-to-stop-metas-ai-image-generator-from-using-your-instagram-photos/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-07-09T17:56:47Z",
+      "snippet": "Muse Image allows users to generate AI images using photos from public Instagram accounts. As long as a person's profile is public, another user can tag that account and use their images as part of an"
+    },
     {
       "title": "Meta\u2019s new AI chips will begin production in September",
       "url": "https://techcrunch.com/2026/07/09/metas-new-ai-chips-will-begin-production-in-september/",
@@ -114,46 +149,11 @@
       "snippet": "Elon Musk's tech company released the newest version of Grok on Wednesday, promising a cheaper, more efficient alternative to other powerful AI models."
     },
     {
-      "title": "This startup thinks robotics is about to have its ChatGPT moment",
-      "url": "https://techcrunch.com/2026/07/08/this-startup-thinks-robotics-is-about-to-have-its-chatgpt-moment/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-07-08T19:19:15Z",
-      "snippet": "General Intuition is betting millions of hours of video game data can train the foundation models for physical AI, making it easier to build smarter robots with minimal real-world data."
-    },
-    {
-      "title": "Google Photos adds a new AI \u2018Video Remix\u2019 tool",
-      "url": "https://techcrunch.com/2026/07/08/google-photos-adds-a-new-ai-video-remix-tool/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-07-08T18:30:08Z",
-      "snippet": "The feature can do things like apply cinematic relighting to brighten up a dark clip, swap out a plain background for something fun, or add artistic styles to videos."
-    },
-    {
-      "title": "Why this CEO thinks video games make better training data than the internet",
-      "url": "https://techcrunch.com/video/why-this-ceo-thinks-video-games-make-better-training-data-than-the-internet/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-07-08T17:47:55Z",
-      "snippet": "When it comes to achieving artificial general intelligence (AGI), large language models just&#160;don\u2019t&#160;have what it takes. Models like ChatGPT and Claude&#160;are great at text, but&#160;they&#8"
-    },
-    {
-      "title": "Meta wants its AI glasses to seem less creepy. Its AI strategy says otherwise.",
-      "url": "https://techcrunch.com/2026/07/08/meta-wants-its-ai-glasses-to-seem-less-creepy-its-ai-strategy-says-otherwise/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-07-08T17:11:18Z",
-      "snippet": "Meta is adding a new safeguard to stop people from secretly recording others with its AI glasses. But the update comes as the company continues to expand how much personal data its AI products collect"
-    },
-    {
       "title": "ChatGPT\u2019s upgraded voice mode is better at shutting up",
       "url": "https://www.theverge.com/ai-artificial-intelligence/962856/chatgpt-upgraded-voice-mode-gpt-live",
       "source": "The Verge",
       "publishedAt": "2026-07-08T17:00:00Z",
       "snippet": "OpenAI is overhauling ChatGPT's voice mode with a new model that it says is more like \"talking to another person.\" The new GPT-Live-1 is designed to interrupt you less and will also wait for you to co"
-    },
-    {
-      "title": "OpenAI releases new voice models for more natural live conversations",
-      "url": "https://techcrunch.com/2026/07/08/openai-releases-new-voice-models-for-more-natural-live-conversations/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-07-08T17:00:00Z",
-      "snippet": "OpenAI says its new voice mode can speak and listen at the same time, a key ability for live translation."
     },
     {
       "title": "Meta\u2019s new Muse Image model can pull other Instagram users into AI photos",
