@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-09T07:33:09Z",
+  "updated": "2026-07-09T10:50:10Z",
   "news": [
     {
       "title": "Lovable reportedly in talks to double its valuation to $13.2B",
@@ -181,52 +181,52 @@
     {
       "id": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
       "displayName": "Qwythos 9B Claude Mythos 5 1M",
-      "downloads": 1683711
+      "downloads": 1875602
     },
     {
       "id": "deepreinforce-ai/Ornith-1.0-35B-GGUF",
       "displayName": "Ornith 1.0 35B",
-      "downloads": 502663
+      "downloads": 957721
     },
     {
       "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
       "displayName": "Qwen3.6 35B A3B Uncensored HauhauCS Aggressive",
-      "downloads": 2823988
+      "downloads": 2716428
     },
     {
       "id": "yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF",
       "displayName": "gemma 4 12B agentic fable5 composer2.5 v2 3.5x tau2",
-      "downloads": 384383
+      "downloads": 418171
     },
     {
       "id": "unsloth/DeepSeek-V4-Flash-GGUF",
       "displayName": "DeepSeek V4 Flash",
-      "downloads": 47
+      "downloads": 22953
     },
     {
       "id": "unsloth/Qwen3.6-27B-MTP-GGUF",
       "displayName": "Qwen3.6 27B MTP",
-      "downloads": 2842118
+      "downloads": 2894918
     },
     {
       "id": "yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
       "displayName": "gemma 4 12B coder fable5 composer2.5 v1",
-      "downloads": 674977
+      "downloads": 703735
     },
     {
       "id": "deepreinforce-ai/Ornith-1.0-9B-GGUF",
       "displayName": "Ornith 1.0 9B",
-      "downloads": 454944
+      "downloads": 894619
     },
     {
       "id": "InternScience/Agents-A1-Q4_K_M-GGUF",
       "displayName": "Agents A1 Q4_K_M",
-      "downloads": 11226
+      "downloads": 37714
     },
     {
-      "id": "huihui-ai/Huihui-GLM-5.2-abliterated-GGUF",
-      "displayName": "Huihui GLM 5.2 abliterated",
-      "downloads": 7349
+      "id": "GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking-GGUF",
+      "displayName": "MiniCPM5 1B Claude Opus Fable5 Thinking",
+      "downloads": 2239
     }
   ]
 }
