@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-10T07:31:28Z",
+  "updated": "2026-07-10T10:48:40Z",
   "news": [
     {
       "title": "OpenAI says GPT 5.6 is the \u2018preferred model\u2019 for Microsoft Copilot 365 amid breakup chatter",
@@ -181,52 +181,52 @@
     {
       "id": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
       "displayName": "Qwythos 9B Claude Mythos 5 1M",
-      "downloads": 1875602
+      "downloads": 1909705
     },
     {
       "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
       "displayName": "Qwen3.6 35B A3B Uncensored HauhauCS Aggressive",
-      "downloads": 2716428
+      "downloads": 2660170
     },
     {
       "id": "deepreinforce-ai/Ornith-1.0-35B-GGUF",
       "displayName": "Ornith 1.0 35B",
-      "downloads": 957721
+      "downloads": 1085554
     },
     {
       "id": "yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF",
       "displayName": "gemma 4 12B agentic fable5 composer2.5 v2 3.5x tau2",
-      "downloads": 418171
+      "downloads": 427668
     },
     {
       "id": "GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking-GGUF",
       "displayName": "MiniCPM5 1B Claude Opus Fable5 Thinking",
-      "downloads": 2239
+      "downloads": 9029
     },
     {
       "id": "unsloth/DeepSeek-V4-Flash-GGUF",
       "displayName": "DeepSeek V4 Flash",
-      "downloads": 22953
+      "downloads": 31895
     },
     {
       "id": "unsloth/Qwen3.6-27B-MTP-GGUF",
       "displayName": "Qwen3.6 27B MTP",
-      "downloads": 2894918
+      "downloads": 2895457
     },
     {
       "id": "yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
       "displayName": "gemma 4 12B coder fable5 composer2.5 v1",
-      "downloads": 703735
+      "downloads": 714071
     },
     {
       "id": "InternScience/Agents-A1-Q4_K_M-GGUF",
       "displayName": "Agents A1 Q4_K_M",
-      "downloads": 37714
+      "downloads": 39920
     },
     {
       "id": "deepreinforce-ai/Ornith-1.0-9B-GGUF",
       "displayName": "Ornith 1.0 9B",
-      "downloads": 894619
+      "downloads": 1045698
     }
   ]
 }
