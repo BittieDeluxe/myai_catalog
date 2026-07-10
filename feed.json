@@ -1,6 +1,20 @@
 {
-  "updated": "2026-07-10T10:48:40Z",
+  "updated": "2026-07-10T14:12:37Z",
   "news": [
+    {
+      "title": "Instagram\u2019s Adam Mosseri: If you don&#8217;t like AI, &#8216;then you shouldn&#8217;t have it in your feed&#8217;",
+      "url": "https://www.theverge.com/tech/963961/instagram-adam-mosseri-ai-feed-filters",
+      "source": "The Verge",
+      "publishedAt": "2026-07-10T13:45:02Z",
+      "snippet": "Though Instagram head Adam Mosseri doesn't want to filter out AI content on the platform, he argues that you \"shouldn't have it in your feed\" if you don't like it. \"I don't think we should filter out "
+    },
+    {
+      "title": "Would you host part of an AI data center in your home?",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/963930/sunrun-distributed-ai-data-center",
+      "source": "The Verge",
+      "publishedAt": "2026-07-10T13:20:25Z",
+      "snippet": "A solar and home energy storage company is expanding into AI data centers, but not by building one - instead, it's offering to pay its customers to put its compute units in their homes. Sunrun is laun"
+    },
     {
       "title": "OpenAI says GPT 5.6 is the \u2018preferred model\u2019 for Microsoft Copilot 365 amid breakup chatter",
       "url": "https://techcrunch.com/2026/07/09/openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-copilot-amid-breakup-chatter/",
@@ -16,7 +30,7 @@
       "snippet": "Microsoft may once again be struggling to keep up with its own climate goals, according to its 2026 sustainability report. As reported by GeekWire, the report states that Microsoft's carbon emissions "
     },
     {
-      "title": "Fidji Simo steps down from OpenAI\u2019s no. 2 role",
+      "title": "Fidji Simo steps down from OpenAI\u2019s No. 2 role",
       "url": "https://techcrunch.com/2026/07/09/fidji-simo-steps-down-from-openais-no-2-role/",
       "source": "TechCrunch",
       "publishedAt": "2026-07-09T23:38:00Z",
@@ -161,20 +175,6 @@
       "source": "The Verge",
       "publishedAt": "2026-07-09T13:30:00Z",
       "snippet": "The popularity of Spotify Wrapped has kicked off a wide range of year-in-review features, on apps from YouTube to Uber - and now, the lookback trend has come to AI. Anthropic on Thursday announced a \""
-    },
-    {
-      "title": "Character.AI wants a piece of the microdrama pie",
-      "url": "https://www.theverge.com/entertainment/962897/character-ai-series-microdrama-vertical-video",
-      "source": "The Verge",
-      "publishedAt": "2026-07-09T13:11:53Z",
-      "snippet": "Character.AI's plan to become more than just an LLM-powered chatbot platform is going beyond interactive books, comics, and audio dramas. Today, the company announced the debut of c.ai Series - short-"
-    },
-    {
-      "title": "FL Studio 2026 turns its AI chatbot into your assistant engineer",
-      "url": "https://www.theverge.com/tech/963052/fl-studio-2026-music-daw-ai-chatbot",
-      "source": "The Verge",
-      "publishedAt": "2026-07-09T13:00:00Z",
-      "snippet": "Last year, Image Line introduced Gopher for FL Studio, an AI chatbot that was basically a glorified instruction manual. You asked it how to do something, and it would serve up the relevant instruction"
     }
   ],
   "trending": [
@@ -224,9 +224,9 @@
       "downloads": 39920
     },
     {
-      "id": "deepreinforce-ai/Ornith-1.0-9B-GGUF",
-      "displayName": "Ornith 1.0 9B",
-      "downloads": 1045698
+      "id": "bottlecapai/ThinkingCap-Qwen3.6-27B-GGUF",
+      "displayName": "ThinkingCap Qwen3.6 27B",
+      "downloads": 302587
     }
   ]
 }
