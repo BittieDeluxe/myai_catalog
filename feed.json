@@ -1,6 +1,13 @@
 {
-  "updated": "2026-07-10T21:02:37Z",
+  "updated": "2026-07-10T22:56:25Z",
   "news": [
+    {
+      "title": "Apple sues OpenAI for allegedly stealing hardware secrets",
+      "url": "https://www.theverge.com/tech/964350/apple-openai-lawsuit-trade-secrets",
+      "source": "The Verge",
+      "publishedAt": "2026-07-10T21:36:51Z",
+      "snippet": "Apple has sued OpenAI, alleging that engineers stole Apple secrets to advance the AI startup's hardware plans. In its complaint, Apple says it uncovered \"a pattern of theft of Apple's trade secrets by"
+    },
     {
       "title": "Apple sues OpenAI over alleged trade secret theft",
       "url": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/",
@@ -168,13 +175,6 @@
       "source": "The Verge",
       "publishedAt": "2026-07-09T14:00:00Z",
       "snippet": "After reentering the AI race with its first in-house Muse Spark model in April, Meta is now opening up the doors to developers with a new model that can plug into AI coding software with the new Meta "
-    },
-    {
-      "title": "Say hello to Claude Wrapped",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/963105/anthropic-claude-wrapped-reflection-ai-usage",
-      "source": "The Verge",
-      "publishedAt": "2026-07-09T13:30:00Z",
-      "snippet": "The popularity of Spotify Wrapped has kicked off a wide range of year-in-review features, on apps from YouTube to Uber - and now, the lookback trend has come to AI. Anthropic on Thursday announced a \""
     }
   ],
   "trending": [
@@ -219,14 +219,14 @@
       "downloads": 714071
     },
     {
-      "id": "InternScience/Agents-A1-Q4_K_M-GGUF",
-      "displayName": "Agents A1 Q4_K_M",
-      "downloads": 39920
-    },
-    {
       "id": "bottlecapai/ThinkingCap-Qwen3.6-27B-GGUF",
       "displayName": "ThinkingCap Qwen3.6 27B",
       "downloads": 302587
+    },
+    {
+      "id": "InternScience/Agents-A1-Q4_K_M-GGUF",
+      "displayName": "Agents A1 Q4_K_M",
+      "downloads": 39920
     }
   ]
 }
