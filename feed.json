@@ -1,6 +1,13 @@
 {
-  "updated": "2026-07-10T14:12:37Z",
+  "updated": "2026-07-10T17:43:57Z",
   "news": [
+    {
+      "title": "SK Hynix raises $26.5B in the biggest foreign IPO in US history, is urged to build new US fabs",
+      "url": "https://techcrunch.com/2026/07/10/sk-hynix-raises-26-5b-in-the-biggest-foreign-ipo-in-us-history-is-urged-to-build-new-us-fabs/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-07-10T17:17:12Z",
+      "snippet": "The AI chip boom just produced its biggest Wall Street moment yet. Now SK Hynix and Samsung are being asked to build US factories."
+    },
     {
       "title": "Instagram\u2019s Adam Mosseri: If you don&#8217;t like AI, &#8216;then you shouldn&#8217;t have it in your feed&#8217;",
       "url": "https://www.theverge.com/tech/963961/instagram-adam-mosseri-ai-feed-filters",
@@ -142,13 +149,6 @@
       "snippet": "The company is taking a modular approach to designing these chips, anticipating that their needs will change as AI evolves rapidly by the time the chips are in production."
     },
     {
-      "title": "Nvidia is a victim of the compute marketplace it created",
-      "url": "https://techcrunch.com/2026/07/09/nvidia-is-a-victim-of-the-compute-marketplace-it-created/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-07-09T17:06:11Z",
-      "snippet": "Having proven how valuable compute can be, the company finds itself at the center of a market everyone wants to be in \u2014 while simpler technologies and less interesting companies get rich on the sideli"
-    },
-    {
       "title": "Microsoft\u2019s patch Tuesdays are about to get bigger",
       "url": "https://www.theverge.com/tech/963307/microsoft-patch-tuesday-ai-security-updates",
       "source": "The Verge",
@@ -194,14 +194,14 @@
       "downloads": 1085554
     },
     {
-      "id": "yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF",
-      "displayName": "gemma 4 12B agentic fable5 composer2.5 v2 3.5x tau2",
-      "downloads": 427668
-    },
-    {
       "id": "GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking-GGUF",
       "displayName": "MiniCPM5 1B Claude Opus Fable5 Thinking",
       "downloads": 9029
+    },
+    {
+      "id": "yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF",
+      "displayName": "gemma 4 12B agentic fable5 composer2.5 v2 3.5x tau2",
+      "downloads": 427668
     },
     {
       "id": "unsloth/DeepSeek-V4-Flash-GGUF",
