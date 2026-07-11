@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-11T18:55:25Z",
+  "updated": "2026-07-11T20:41:54Z",
   "news": [
     {
       "title": "OpenAI bets on families as ChatGPT goes deeper into households",
@@ -194,14 +194,14 @@
       "downloads": 29887
     },
     {
-      "id": "deepreinforce-ai/Ornith-1.0-35B-GGUF",
-      "displayName": "Ornith 1.0 35B",
-      "downloads": 1216495
-    },
-    {
       "id": "unsloth/DeepSeek-V4-Flash-GGUF",
       "displayName": "DeepSeek V4 Flash",
       "downloads": 38922
+    },
+    {
+      "id": "deepreinforce-ai/Ornith-1.0-35B-GGUF",
+      "displayName": "Ornith 1.0 35B",
+      "downloads": 1216495
     },
     {
       "id": "yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF",
