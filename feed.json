@@ -1,6 +1,13 @@
 {
-  "updated": "2026-07-11T13:08:35Z",
+  "updated": "2026-07-11T14:48:30Z",
   "news": [
+    {
+      "title": "OpenAI bets on families as ChatGPT goes deeper into households",
+      "url": "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-07-11T14:13:00Z",
+      "snippet": "ChatGPT is hiring a dedicated product manager to build experiences for families, caregivers, and older adults, according to a job posting."
+    },
     {
       "title": "Meta removes controversial AI feature on Instagram after backlash",
       "url": "https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/",
@@ -154,13 +161,6 @@
       "source": "TechCrunch",
       "publishedAt": "2026-07-09T19:05:58Z",
       "snippet": "News publishers say OpenAI hid tools and datasets that could identify copyrighted journalism in ChatGPT outputs, escalating their lawsuit with a new motion for sanctions."
-    },
-    {
-      "title": "Google will now disclose which ads are made with AI",
-      "url": "https://techcrunch.com/2026/07/09/google-will-now-disclose-which-ads-are-made-with-ai/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-07-09T18:40:51Z",
-      "snippet": "While Google prohibits misleading and deceptive ads, an ad can still leverage AI to create some type of synthetic or digitally altered content. Until now, that's something Google only required electio"
     },
     {
       "title": "Microsoft\u2019s patch Tuesdays are about to get bigger",
