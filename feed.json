@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-11T09:23:32Z",
+  "updated": "2026-07-11T10:59:53Z",
   "news": [
     {
       "title": "Meta removes controversial AI feature on Instagram after backlash",
@@ -214,14 +214,14 @@
       "downloads": 2904169
     },
     {
-      "id": "yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
-      "displayName": "gemma 4 12B coder fable5 composer2.5 v1",
-      "downloads": 720270
-    },
-    {
       "id": "bottlecapai/ThinkingCap-Qwen3.6-27B-GGUF",
       "displayName": "ThinkingCap Qwen3.6 27B",
       "downloads": 305676
+    },
+    {
+      "id": "yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
+      "displayName": "gemma 4 12B coder fable5 composer2.5 v1",
+      "downloads": 720270
     },
     {
       "id": "InternScience/Agents-A1-Q4_K_M-GGUF",
