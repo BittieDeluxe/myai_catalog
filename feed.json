@@ -1,6 +1,13 @@
 {
-  "updated": "2026-07-12T18:59:11Z",
+  "updated": "2026-07-12T20:39:48Z",
   "news": [
+    {
+      "title": "Lorde says Ray-Ban Meta AI glasses are \u2018not sexy\u2019",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/964539/lorde-says-ray-ban-meta-ai-glasses-are-not-sexy",
+      "source": "The Verge",
+      "publishedAt": "2026-07-12T20:10:19Z",
+      "snippet": "Lorde was performing at the Real Cool Festival in Madrid on Thursday and took some time during her set to speak out against AI glasses. While she didn't specify any brands in particular, it's likely s"
+    },
     {
       "title": "Apple\u2019s failed self-driving car program left a legacy of powerful AI chips",
       "url": "https://www.theverge.com/tech/964519/apple-silicon-self-driving-car-ai-m7-ultra",
@@ -156,13 +163,6 @@
       "snippet": "OpenAI is already shutting down ChatGPT Atlas, its browser that could do tasks for you on your behalf, less than a year after launching it. Atlas was announced in October, but as part of its wave of n"
     },
     {
-      "title": "Google will now tell you if an ad was made with AI",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/963628/google-ai-generated-ads-label",
-      "source": "The Verge",
-      "publishedAt": "2026-07-09T20:11:38Z",
-      "snippet": "You can see if ads on Google Search, Google Discover, and YouTube were made or edited using AI from a new section in Google's \"My Ad Center,\" as reported earlier by TechCrunch. The update, announced o"
-    },
-    {
       "title": "Meta enters the crowded AI coding battle with Muse Spark 1.1",
       "url": "https://techcrunch.com/2026/07/09/meta-enters-the-crowded-ai-coding-battle-with-muse-spark-1-1/",
       "source": "TechCrunch",
@@ -199,14 +199,14 @@
       "downloads": 44614
     },
     {
-      "id": "deepreinforce-ai/Ornith-1.0-35B-GGUF",
-      "displayName": "Ornith 1.0 35B",
-      "downloads": 1347036
-    },
-    {
       "id": "yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF",
       "displayName": "gemma 4 12B agentic fable5 composer2.5 v2 3.5x tau2",
       "downloads": 445368
+    },
+    {
+      "id": "deepreinforce-ai/Ornith-1.0-35B-GGUF",
+      "displayName": "Ornith 1.0 35B",
+      "downloads": 1347036
     },
     {
       "id": "unsloth/Qwen3.6-27B-MTP-GGUF",
