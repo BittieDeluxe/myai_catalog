@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-12T20:39:48Z",
+  "updated": "2026-07-12T22:42:10Z",
   "news": [
     {
       "title": "Lorde says Ray-Ban Meta AI glasses are \u2018not sexy\u2019",
@@ -219,14 +219,14 @@
       "downloads": 312299
     },
     {
-      "id": "yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
-      "displayName": "gemma 4 12B coder fable5 composer2.5 v1",
-      "downloads": 726600
-    },
-    {
       "id": "empero-ai/Qwythos-9B-v2-GGUF",
       "displayName": "Qwythos 9B v2",
       "downloads": 15523
+    },
+    {
+      "id": "yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
+      "displayName": "gemma 4 12B coder fable5 composer2.5 v1",
+      "downloads": 726600
     }
   ]
 }
