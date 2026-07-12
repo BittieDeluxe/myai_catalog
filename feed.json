@@ -1,6 +1,13 @@
 {
-  "updated": "2026-07-12T14:51:59Z",
+  "updated": "2026-07-12T16:54:50Z",
   "news": [
+    {
+      "title": "Apple\u2019s failed self-driving car program left a legacy of powerful AI chips",
+      "url": "https://www.theverge.com/tech/964519/apple-silicon-self-driving-car-ai-m7-ultra",
+      "source": "The Verge",
+      "publishedAt": "2026-07-12T16:27:06Z",
+      "snippet": "Apple's self-driving car program never really got off the ground, but it may have been what made the company's chips the powerful AI performers they are. Early in the development of the self-driving p"
+    },
     {
       "title": "The fight against AI data centers is just beginning",
       "url": "https://www.theverge.com/column/963346/ai-data-centers-fight",
@@ -168,13 +175,6 @@
       "source": "TechCrunch",
       "publishedAt": "2026-07-09T19:05:58Z",
       "snippet": "News publishers say OpenAI hid tools and datasets that could identify copyrighted journalism in ChatGPT outputs, escalating their lawsuit with a new motion for sanctions."
-    },
-    {
-      "title": "Microsoft\u2019s patch Tuesdays are about to get bigger",
-      "url": "https://www.theverge.com/tech/963307/microsoft-patch-tuesday-ai-security-updates",
-      "source": "The Verge",
-      "publishedAt": "2026-07-09T17:00:00Z",
-      "snippet": "Windows 11 updates could soon include fixes for more security issues at once. Microsoft said in a blog post on Thursday that it's now using AI to \"identify potential issues earlier,\" which means \"cust"
     }
   ],
   "trending": [
@@ -199,14 +199,14 @@
       "downloads": 44614
     },
     {
-      "id": "yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF",
-      "displayName": "gemma 4 12B agentic fable5 composer2.5 v2 3.5x tau2",
-      "downloads": 445368
-    },
-    {
       "id": "deepreinforce-ai/Ornith-1.0-35B-GGUF",
       "displayName": "Ornith 1.0 35B",
       "downloads": 1347036
+    },
+    {
+      "id": "yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF",
+      "displayName": "gemma 4 12B agentic fable5 composer2.5 v2 3.5x tau2",
+      "downloads": 445368
     },
     {
       "id": "unsloth/Qwen3.6-27B-MTP-GGUF",
@@ -224,9 +224,9 @@
       "downloads": 726600
     },
     {
-      "id": "InternScience/Agents-A1-Q4_K_M-GGUF",
-      "displayName": "Agents A1 Q4_K_M",
-      "downloads": 42985
+      "id": "empero-ai/Qwythos-9B-v2-GGUF",
+      "displayName": "Qwythos 9B v2",
+      "downloads": 15523
     }
   ]
 }
