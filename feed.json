@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-12T13:10:08Z",
+  "updated": "2026-07-12T14:51:59Z",
   "news": [
     {
       "title": "The fight against AI data centers is just beginning",
@@ -199,14 +199,14 @@
       "downloads": 44614
     },
     {
-      "id": "deepreinforce-ai/Ornith-1.0-35B-GGUF",
-      "displayName": "Ornith 1.0 35B",
-      "downloads": 1347036
-    },
-    {
       "id": "yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF",
       "displayName": "gemma 4 12B agentic fable5 composer2.5 v2 3.5x tau2",
       "downloads": 445368
+    },
+    {
+      "id": "deepreinforce-ai/Ornith-1.0-35B-GGUF",
+      "displayName": "Ornith 1.0 35B",
+      "downloads": 1347036
     },
     {
       "id": "unsloth/Qwen3.6-27B-MTP-GGUF",
