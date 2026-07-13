@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-13T06:49:11Z",
+  "updated": "2026-07-13T10:55:42Z",
   "news": [
     {
       "title": "Lorde says Ray-Ban Meta AI glasses are \u2018not sexy\u2019",
@@ -181,52 +181,52 @@
     {
       "id": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
       "displayName": "Qwythos 9B Claude Mythos 5 1M",
-      "downloads": 1967677
+      "downloads": 1985221
     },
     {
       "id": "GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking-GGUF",
       "displayName": "MiniCPM5 1B Claude Opus Fable5 Thinking",
-      "downloads": 49268
+      "downloads": 68714
     },
     {
       "id": "unsloth/DeepSeek-V4-Flash-GGUF",
       "displayName": "DeepSeek V4 Flash",
-      "downloads": 44614
+      "downloads": 49423
     },
     {
       "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
       "displayName": "Qwen3.6 35B A3B Uncensored HauhauCS Aggressive",
-      "downloads": 2596384
+      "downloads": 2512124
     },
     {
       "id": "yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF",
       "displayName": "gemma 4 12B agentic fable5 composer2.5 v2 3.5x tau2",
-      "downloads": 445368
+      "downloads": 452627
     },
     {
       "id": "deepreinforce-ai/Ornith-1.0-35B-GGUF",
       "displayName": "Ornith 1.0 35B",
-      "downloads": 1347036
+      "downloads": 1392300
     },
     {
       "id": "unsloth/Qwen3.6-27B-MTP-GGUF",
       "displayName": "Qwen3.6 27B MTP",
-      "downloads": 2905019
+      "downloads": 2901906
     },
     {
       "id": "bottlecapai/ThinkingCap-Qwen3.6-27B-GGUF",
       "displayName": "ThinkingCap Qwen3.6 27B",
-      "downloads": 312299
+      "downloads": 315434
     },
     {
       "id": "empero-ai/Qwythos-9B-v2-GGUF",
       "displayName": "Qwythos 9B v2",
-      "downloads": 15523
+      "downloads": 45189
     },
     {
       "id": "yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
       "displayName": "gemma 4 12B coder fable5 composer2.5 v1",
-      "downloads": 726600
+      "downloads": 729354
     }
   ]
 }
