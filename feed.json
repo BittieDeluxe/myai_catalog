@@ -1,12 +1,19 @@
 {
-  "updated": "2026-07-13T17:51:20Z",
+  "updated": "2026-07-13T19:18:13Z",
   "news": [
+    {
+      "title": "The wildest allegations in Apple\u2019s trade secrets lawsuit against OpenAI",
+      "url": "https://techcrunch.com/2026/07/13/the-wildest-allegations-in-apples-trade-secrets-lawsuit-against-openai/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-07-13T18:22:10Z",
+      "snippet": "Apple\u2019s trade secrets lawsuit against OpenAI contains allegations that range from employees joking about unauthorized access to Apple\u2019s systems to claims that job candidates were asked to bring Apple "
+    },
     {
       "title": "Sam Altman\u2019s space data center trash talk is what most experts already believe",
       "url": "https://techcrunch.com/2026/07/13/sam-altmans-space-data-center-trash-talk-is-what-most-experts-already-believe/",
       "source": "TechCrunch",
       "publishedAt": "2026-07-13T17:28:37Z",
-      "snippet": "\"homeboy you're the one sellling [sic] public market investors on short-term space datacenters.\""
+      "snippet": "Responding to Musk accusing him of being a scammer, Altman said, \"homeboy you're the one sellling [sic] public market investors on short-term space datacenters.\""
     },
     {
       "title": "The 6 wildest claims in Apple&#8217;s lawsuit against OpenAI",
@@ -168,13 +175,6 @@
       "source": "TechCrunch",
       "publishedAt": "2026-07-09T22:08:58Z",
       "snippet": "Lyzr, a startup that builds AI agents for enterprises, used its own AI agent to raise a $100 million round \u2014 proof, evidently, that the product actually works."
-    },
-    {
-      "title": "OpenAI is shutting down Atlas, but its AI browser ambitions are still growing",
-      "url": "https://techcrunch.com/2026/07/09/openai-is-shutting-down-atlas-but-its-ai-browser-ambitions-are-still-growing/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-07-09T22:03:54Z",
-      "snippet": "OpenAI is sunsetting its AI-powered browser after less than a year. But it's moving some agentic browsing features to its desktop app and a Chrome extension."
     }
   ],
   "trending": [
