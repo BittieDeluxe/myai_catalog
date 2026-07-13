@@ -1,6 +1,13 @@
 {
-  "updated": "2026-07-13T20:53:48Z",
+  "updated": "2026-07-13T22:52:22Z",
   "news": [
+    {
+      "title": "Satya Nadella has issued a shocking warning to companies using AI",
+      "url": "https://techcrunch.com/2026/07/13/satya-nadella-has-issued-a-shocking-warning-to-companies-using-ai/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-07-13T20:59:00Z",
+      "snippet": "Of all the debates raging about the potential downsides of AI, there is one worry causing the most hand-wringing among AI enthusiasts in Silicon Valley \u2014 that the giant AI labs that sell proprietary m"
+    },
     {
       "title": "Siri AI is already changing how I use my iPhone",
       "url": "https://www.theverge.com/tech/964714/siri-ai-public-beta-preview-ios-27-hands-on",
@@ -168,13 +175,6 @@
       "source": "TechCrunch",
       "publishedAt": "2026-07-09T22:24:24Z",
       "snippet": "OpenAI's latest family of models promises improvements across a range of areas, including cybersecurity."
-    },
-    {
-      "title": "An AI agent startup just let its agent run its $100M fundraise",
-      "url": "https://techcrunch.com/2026/07/09/an-ai-agent-startup-just-let-its-agent-run-its-100-million-fundraise/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-07-09T22:08:58Z",
-      "snippet": "Lyzr, a startup that builds AI agents for enterprises, used its own AI agent to raise a $100 million round \u2014 proof, evidently, that the product actually works."
     }
   ],
   "trending": [
@@ -204,14 +204,14 @@
       "downloads": 452627
     },
     {
-      "id": "deepreinforce-ai/Ornith-1.0-35B-GGUF",
-      "displayName": "Ornith 1.0 35B",
-      "downloads": 1392300
-    },
-    {
       "id": "empero-ai/Qwythos-9B-v2-GGUF",
       "displayName": "Qwythos 9B v2",
       "downloads": 45189
+    },
+    {
+      "id": "deepreinforce-ai/Ornith-1.0-35B-GGUF",
+      "displayName": "Ornith 1.0 35B",
+      "downloads": 1392300
     },
     {
       "id": "unsloth/Qwen3.6-27B-MTP-GGUF",
