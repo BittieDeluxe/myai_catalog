@@ -1,6 +1,13 @@
 {
-  "updated": "2026-07-13T19:18:13Z",
+  "updated": "2026-07-13T20:53:48Z",
   "news": [
+    {
+      "title": "Siri AI is already changing how I use my iPhone",
+      "url": "https://www.theverge.com/tech/964714/siri-ai-public-beta-preview-ios-27-hands-on",
+      "source": "The Verge",
+      "publishedAt": "2026-07-13T20:43:20Z",
+      "snippet": "iOS 27 escaped the developer world today with the launch of the first public beta. I've been testing the new operating system since early June, looking for quirks and seeing if it can live up to the h"
+    },
     {
       "title": "The wildest allegations in Apple\u2019s trade secrets lawsuit against OpenAI",
       "url": "https://techcrunch.com/2026/07/13/the-wildest-allegations-in-apples-trade-secrets-lawsuit-against-openai/",
@@ -147,13 +154,6 @@
       "source": "TechCrunch",
       "publishedAt": "2026-07-10T00:16:54Z",
       "snippet": "OpenAI's new family of models will continue to power Microsoft's suite of workplace and productivity apps."
-    },
-    {
-      "title": "Microsoft\u2019s carbon emissions went up 25 percent last year",
-      "url": "https://www.theverge.com/tech/963728/microsoft-sustainability-report-2026",
-      "source": "The Verge",
-      "publishedAt": "2026-07-10T00:04:13Z",
-      "snippet": "Microsoft may once again be struggling to keep up with its own climate goals, according to its 2026 sustainability report. As reported by GeekWire, the report states that Microsoft's carbon emissions "
     },
     {
       "title": "Fidji Simo steps down from OpenAI\u2019s No. 2 role",
