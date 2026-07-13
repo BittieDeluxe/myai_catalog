@@ -1,6 +1,20 @@
 {
-  "updated": "2026-07-13T10:55:42Z",
+  "updated": "2026-07-13T14:24:16Z",
   "news": [
+    {
+      "title": "Waze adds new AI-powered features and customization updates",
+      "url": "https://techcrunch.com/2026/07/13/waze-adds-new-ai-powered-features-and-customization-updates/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-07-13T14:18:16Z",
+      "snippet": "Some of the new features are powered by Google's Gemini AI assistant, which reflects the the tech giant's broader push to integrate Gemini across its products while also better positioning Waze to com"
+    },
+    {
+      "title": "Waze is getting a bunch of new AI-powered features",
+      "url": "https://www.theverge.com/transportation/964132/waze-gemini-ai-voice-commands-less-chatty",
+      "source": "The Verge",
+      "publishedAt": "2026-07-13T09:00:00Z",
+      "snippet": "Waze is getting an AI makeover. Google is integrating its flagship AI assistant, Gemini, into the driving app with the goal of letting users personalize their trips a little more. Of the four new upda"
+    },
     {
       "title": "Lorde says Ray-Ban Meta AI glasses are \u2018not sexy\u2019",
       "url": "https://www.theverge.com/ai-artificial-intelligence/964539/lorde-says-ray-ban-meta-ai-glasses-are-not-sexy",
@@ -156,25 +170,11 @@
       "snippet": "The AI ROI debate has returned and the numbers are even bigger, as are, perhaps, the consequences."
     },
     {
-      "title": "The ChatGPT browser is already dead",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/963654/openai-chatgpt-atlas-ai-browser-shut-down-sunset",
-      "source": "The Verge",
-      "publishedAt": "2026-07-09T20:34:05Z",
-      "snippet": "OpenAI is already shutting down ChatGPT Atlas, its browser that could do tasks for you on your behalf, less than a year after launching it. Atlas was announced in October, but as part of its wave of n"
-    },
-    {
       "title": "Meta enters the crowded AI coding battle with Muse Spark 1.1",
       "url": "https://techcrunch.com/2026/07/09/meta-enters-the-crowded-ai-coding-battle-with-muse-spark-1-1/",
       "source": "TechCrunch",
       "publishedAt": "2026-07-09T19:40:45Z",
       "snippet": "Meta's pitch to users is Spark's ability to handle large agentic workloads, fix bugs, and help with large code migrations \u2014 the kind of automation that enterprises are increasingly turning to AI compa"
-    },
-    {
-      "title": "New York Times says OpenAI hid evidence in ChatGPT copyright trial",
-      "url": "https://techcrunch.com/2026/07/09/new-york-times-says-openai-hid-evidence-in-chatgpt-copyright-trial/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-07-09T19:05:58Z",
-      "snippet": "News publishers say OpenAI hid tools and datasets that could identify copyrighted journalism in ChatGPT outputs, escalating their lawsuit with a new motion for sanctions."
     }
   ],
   "trending": [
