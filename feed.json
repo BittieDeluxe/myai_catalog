@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-12T22:42:10Z",
+  "updated": "2026-07-13T02:24:03Z",
   "news": [
     {
       "title": "Lorde says Ray-Ban Meta AI glasses are \u2018not sexy\u2019",
@@ -184,11 +184,6 @@
       "downloads": 1967677
     },
     {
-      "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
-      "displayName": "Qwen3.6 35B A3B Uncensored HauhauCS Aggressive",
-      "downloads": 2596384
-    },
-    {
       "id": "GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking-GGUF",
       "displayName": "MiniCPM5 1B Claude Opus Fable5 Thinking",
       "downloads": 49268
@@ -197,6 +192,11 @@
       "id": "unsloth/DeepSeek-V4-Flash-GGUF",
       "displayName": "DeepSeek V4 Flash",
       "downloads": 44614
+    },
+    {
+      "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
+      "displayName": "Qwen3.6 35B A3B Uncensored HauhauCS Aggressive",
+      "downloads": 2596384
     },
     {
       "id": "yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF",
