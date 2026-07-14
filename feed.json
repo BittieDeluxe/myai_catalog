@@ -1,6 +1,34 @@
 {
-  "updated": "2026-07-14T15:20:47Z",
+  "updated": "2026-07-14T17:09:59Z",
   "news": [
+    {
+      "title": "Meta\u2019s Adam Mosseri says AI token budgets could soon be capped per engineer",
+      "url": "https://techcrunch.com/2026/07/14/metas-adam-mosseri-says-ai-token-budgets-could-soon-be-capped-per-engineer/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-07-14T16:22:15Z",
+      "snippet": "Instagram head Adam Mosseri believes companies will eventually need to manage AI token spending the same way they manage payroll or other operating expenses, predicting that engineers could soon face "
+    },
+    {
+      "title": "The Google Images homepage will recommend photos even before you search",
+      "url": "https://www.theverge.com/tech/965138/google-images-homepage-ai-overviews-search-nano-banana",
+      "source": "The Verge",
+      "publishedAt": "2026-07-14T16:00:00Z",
+      "snippet": "Google is announcing a big change to the Google Images homepage in honor of the platform's 25th anniversary this week. Instead of a mostly blank page with a search bar, the homepage will soon show you"
+    },
+    {
+      "title": "Google Images gets a Pinterest-like redesign focused on discovery",
+      "url": "https://techcrunch.com/2026/07/14/google-images-gets-a-pinterest-like-redesign-focused-on-discovery/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-07-14T16:00:00Z",
+      "snippet": "Now, when users navigate to Google Images, they'll see a \"For You\" gallery of images tailored to their interests and browsing history."
+    },
+    {
+      "title": "Spotify is now an AI chatbot, too",
+      "url": "https://www.theverge.com/entertainment/965358/spotify-ai-chatbot-interface-music-audiobooks-podcasts",
+      "source": "The Verge",
+      "publishedAt": "2026-07-14T15:47:36Z",
+      "snippet": "Spotify is experimenting with a new AI feature that allows Premium subscribers to play and explore music, audiobooks, and podcasts by having conversations with a chatbot. The \"Talk to Spotify\" feature"
+    },
     {
       "title": "New York State halts construction of all new data centers",
       "url": "https://techcrunch.com/2026/07/14/new-york-state-halts-construction-of-all-new-data-centers/",
@@ -128,20 +156,6 @@
       "snippet": "What does a world of total user-aligned AI actually look like?"
     },
     {
-      "title": "Anthropic starts localizing Claude pricing for India, its biggest market after the US",
-      "url": "https://techcrunch.com/2026/07/13/anthropic-starts-localizing-claude-pricing-for-india-its-biggest-market-after-the-us/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-07-13T15:34:59Z",
-      "snippet": "Claude users in India are starting to see Indian rupee-denominated subscription plans."
-    },
-    {
-      "title": "Waze adds new AI-powered features and customization updates",
-      "url": "https://techcrunch.com/2026/07/13/waze-adds-new-ai-powered-features-and-customization-updates/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-07-13T14:18:16Z",
-      "snippet": "Some of the new features are powered by Google's Gemini AI assistant, which reflects the tech giant's broader push to integrate Gemini across its products while also better positioning Waze to compete"
-    },
-    {
       "title": "Waze is getting a bunch of new AI-powered features",
       "url": "https://www.theverge.com/transportation/964132/waze-gemini-ai-voice-commands-less-chatty",
       "source": "The Verge",
@@ -161,20 +175,6 @@
       "source": "The Verge",
       "publishedAt": "2026-07-12T16:27:06Z",
       "snippet": "Apple's self-driving car program never really got off the ground, but it may have been what made the company's chips the powerful AI performers they are. Early in the development of the self-driving p"
-    },
-    {
-      "title": "The fight against AI data centers is just beginning",
-      "url": "https://www.theverge.com/column/963346/ai-data-centers-fight",
-      "source": "The Verge",
-      "publishedAt": "2026-07-12T12:00:00Z",
-      "snippet": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the data center buildout, follow Emma Roth. The Stepback arrives in our subscribers' inboxe"
-    },
-    {
-      "title": "Meta turns off the Instagram feature that let users make AI deepfakes of public accounts",
-      "url": "https://www.theverge.com/tech/964416/meta-instagram-ai-muse-image-deepfakes",
-      "source": "The Verge",
-      "publishedAt": "2026-07-10T23:49:50Z",
-      "snippet": "Following significant backlash, Meta is turning off the feature it announced this week that let users generate AI images based on content from public Instagram accounts just by tagging them. The featu"
     }
   ],
   "trending": [
