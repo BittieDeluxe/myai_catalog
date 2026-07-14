@@ -1,6 +1,13 @@
 {
-  "updated": "2026-07-14T06:07:08Z",
+  "updated": "2026-07-14T09:53:51Z",
   "news": [
+    {
+      "title": "New York becomes the first state to enact a data center moratorium",
+      "url": "https://www.theverge.com/policy/965110/new-york-ai-data-center-moratorium",
+      "source": "The Verge",
+      "publishedAt": "2026-07-14T09:00:00Z",
+      "snippet": "New hyperscale data centers can't set up shop in New York for up to a year now that Governor Kathy Hochul (D) has signed the nation's first statewide moratorium. But a bill passed by the state legisla"
+    },
     {
       "title": "Already rich, already successful, why the last wave of tech winners is grinding again",
       "url": "https://techcrunch.com/2026/07/13/already-rich-already-successful-why-the-last-wave-of-tech-winners-is-grinding-again/",
@@ -168,65 +175,58 @@
       "source": "The Verge",
       "publishedAt": "2026-07-10T13:45:02Z",
       "snippet": "Though Instagram head Adam Mosseri doesn't want to filter out AI content on the platform, he argues that you \"shouldn't have it in your feed\" if you don't like it. \"I don't think we should filter out "
-    },
-    {
-      "title": "Would you host part of an AI data center in your home?",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/963930/sunrun-distributed-ai-data-center",
-      "source": "The Verge",
-      "publishedAt": "2026-07-10T13:20:25Z",
-      "snippet": "A solar and home energy storage company is expanding into AI data centers, but not by building one - instead, it's offering to pay its customers to put its compute units in their homes. Sunrun is laun"
     }
   ],
   "trending": [
     {
       "id": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
       "displayName": "Qwythos 9B Claude Mythos 5 1M",
-      "downloads": 1985221
+      "downloads": 2006265
     },
     {
       "id": "GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking-GGUF",
       "displayName": "MiniCPM5 1B Claude Opus Fable5 Thinking",
-      "downloads": 68714
+      "downloads": 89892
     },
     {
       "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
       "displayName": "Qwen3.6 35B A3B Uncensored HauhauCS Aggressive",
-      "downloads": 2512124
+      "downloads": 2443871
     },
     {
       "id": "unsloth/DeepSeek-V4-Flash-GGUF",
       "displayName": "DeepSeek V4 Flash",
-      "downloads": 49423
-    },
-    {
-      "id": "yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF",
-      "displayName": "gemma 4 12B agentic fable5 composer2.5 v2 3.5x tau2",
-      "downloads": 452627
+      "downloads": 55222
     },
     {
       "id": "empero-ai/Qwythos-9B-v2-GGUF",
       "displayName": "Qwythos 9B v2",
-      "downloads": 45189
+      "downloads": 70260
+    },
+    {
+      "id": "yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF",
+      "displayName": "gemma 4 12B agentic fable5 composer2.5 v2 3.5x tau2",
+      "downloads": 468629
     },
     {
       "id": "deepreinforce-ai/Ornith-1.0-35B-GGUF",
       "displayName": "Ornith 1.0 35B",
-      "downloads": 1392300
+      "downloads": 1533354
     },
     {
       "id": "unsloth/Qwen3.6-27B-MTP-GGUF",
       "displayName": "Qwen3.6 27B MTP",
-      "downloads": 2901906
+      "downloads": 2904515
     },
     {
       "id": "bottlecapai/ThinkingCap-Qwen3.6-27B-GGUF",
       "displayName": "ThinkingCap Qwen3.6 27B",
-      "downloads": 315434
+      "downloads": 319886
     },
     {
       "id": "yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
       "displayName": "gemma 4 12B coder fable5 composer2.5 v1",
-      "downloads": 729354
+      "downloads": 726265
     }
   ]
 }
