@@ -1,6 +1,27 @@
 {
-  "updated": "2026-07-13T22:52:22Z",
+  "updated": "2026-07-14T02:03:32Z",
   "news": [
+    {
+      "title": "Uber\u2019s product chief on hotels, robotaxis, and why the company doesn\u2019t want to be \u201ceverything for everyone\u201d",
+      "url": "https://techcrunch.com/2026/07/13/ubers-product-chief-on-hotels-robotaxis-and-why-the-company-doesnt-want-to-be-everything-for-everyone/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-07-14T00:45:00Z",
+      "snippet": "Uber Chief Product Officer Sachin Kansal walks TechCrunch through the company's financial-services ambitions, its increasingly complicated relationship with Waymo, its new AV Labs data operation, and "
+    },
+    {
+      "title": "Video-generation startup PixVerse raises $439M, valuation soars past $2B",
+      "url": "https://techcrunch.com/2026/07/13/video-generation-startup-pixverse-raises-439m-valuation-soars-past-2b/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-07-14T00:00:00Z",
+      "snippet": "With the cash, the company aims to expand its world model offering and reach customers across geographies."
+    },
+    {
+      "title": "Hermes agent maker Nous Research in talks for new funding at $1.5B valuation",
+      "url": "https://techcrunch.com/2026/07/13/hermes-agent-maker-nous-research-in-talks-for-new-funding-at-1-5b-valuation/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-07-13T23:31:18Z",
+      "snippet": "The company is raising at least $75 million, led by Robot Ventures, with significant participation from USV and other prominent investors."
+    },
     {
       "title": "Satya Nadella has issued a shocking warning to companies using AI",
       "url": "https://techcrunch.com/2026/07/13/satya-nadella-has-issued-a-shocking-warning-to-companies-using-ai/",
@@ -154,27 +175,6 @@
       "source": "The Verge",
       "publishedAt": "2026-07-10T13:20:25Z",
       "snippet": "A solar and home energy storage company is expanding into AI data centers, but not by building one - instead, it's offering to pay its customers to put its compute units in their homes. Sunrun is laun"
-    },
-    {
-      "title": "OpenAI says GPT 5.6 is the \u2018preferred model\u2019 for Microsoft Copilot 365 amid breakup chatter",
-      "url": "https://techcrunch.com/2026/07/09/openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-copilot-amid-breakup-chatter/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-07-10T00:16:54Z",
-      "snippet": "OpenAI's new family of models will continue to power Microsoft's suite of workplace and productivity apps."
-    },
-    {
-      "title": "Fidji Simo steps down from OpenAI\u2019s No. 2 role",
-      "url": "https://techcrunch.com/2026/07/09/fidji-simo-steps-down-from-openais-no-2-role/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-07-09T23:38:00Z",
-      "snippet": "OpenAI's No. 2 executive, Fidji Simo, is stepping down from her full-time role after her medical leave proved longer than expected \u2014 a leadership vacuum that comes at a tricky time as the company eyes"
-    },
-    {
-      "title": "OpenAI launches its new family of models with GPT-5.6",
-      "url": "https://techcrunch.com/2026/07/09/openai-launches-its-new-family-of-models-with-gpt-5-6/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-07-09T22:24:24Z",
-      "snippet": "OpenAI's latest family of models promises improvements across a range of areas, including cybersecurity."
     }
   ],
   "trending": [
@@ -189,14 +189,14 @@
       "downloads": 68714
     },
     {
-      "id": "unsloth/DeepSeek-V4-Flash-GGUF",
-      "displayName": "DeepSeek V4 Flash",
-      "downloads": 49423
-    },
-    {
       "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
       "displayName": "Qwen3.6 35B A3B Uncensored HauhauCS Aggressive",
       "downloads": 2512124
+    },
+    {
+      "id": "unsloth/DeepSeek-V4-Flash-GGUF",
+      "displayName": "DeepSeek V4 Flash",
+      "downloads": 49423
     },
     {
       "id": "yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF",
