@@ -1,6 +1,13 @@
 {
-  "updated": "2026-07-14T11:23:01Z",
+  "updated": "2026-07-14T13:29:09Z",
   "news": [
+    {
+      "title": "Google\u2019s Demis Hassabis says it\u2019s time for a global AI watchdog \u2014 led by the US",
+      "url": "https://www.theverge.com/tech/965270/google-deepmind-demis-hassabis-global-ai-watchdog",
+      "source": "The Verge",
+      "publishedAt": "2026-07-14T11:43:29Z",
+      "snippet": "Demis Hassabis thinks the world needs an AI watchdog with the power to hit the brakes if frontier models become too dangerous. Writing in a blog post, the Google DeepMind CEO and cofounder said the US"
+    },
     {
       "title": "New York becomes the first state to enact a data center moratorium",
       "url": "https://www.theverge.com/policy/965110/new-york-ai-data-center-moratorium",
@@ -16,11 +23,11 @@
       "snippet": "They're rolling up their sleeves again, seemingly out of fear of missing AI's defining moment and, presumably, the irresistible allure of making even more money -- potentially a lot more."
     },
     {
-      "title": "Uber\u2019s product chief on hotels, robotaxis, and why the company doesn\u2019t want to be \u201ceverything for everyone\u201d",
+      "title": "Uber\u2019s product chief on hotels, robotaxis, and why the company doesn\u2019t want to be \u2018everything for everyone\u2019",
       "url": "https://techcrunch.com/2026/07/13/ubers-product-chief-on-hotels-robotaxis-and-why-the-company-doesnt-want-to-be-everything-for-everyone/",
       "source": "TechCrunch",
       "publishedAt": "2026-07-14T00:45:00Z",
-      "snippet": "Uber Chief Product Officer Sachin Kansal walks TechCrunch through the company's financial-services ambitions, its increasingly complicated relationship with Waymo, its new AV Labs data operation, and "
+      "snippet": "Uber Chief Product Officer Sachin Kansal walks TechCrunch through the company's financial services ambitions, its increasingly complicated relationship with Waymo, its new AV Labs data operation, and "
     },
     {
       "title": "Video-generation startup PixVerse raises $439M, valuation soars past $2B",
@@ -168,13 +175,6 @@
       "source": "TechCrunch",
       "publishedAt": "2026-07-10T17:17:12Z",
       "snippet": "The AI chip boom just produced its biggest Wall Street moment yet. Now SK Hynix and Samsung are being asked to build U.S. factories."
-    },
-    {
-      "title": "Instagram\u2019s Adam Mosseri: If you don&#8217;t like AI, &#8216;then you shouldn&#8217;t have it in your feed&#8217;",
-      "url": "https://www.theverge.com/tech/963961/instagram-adam-mosseri-ai-feed-filters",
-      "source": "The Verge",
-      "publishedAt": "2026-07-10T13:45:02Z",
-      "snippet": "Though Instagram head Adam Mosseri doesn't want to filter out AI content on the platform, he argues that you \"shouldn't have it in your feed\" if you don't like it. \"I don't think we should filter out "
     }
   ],
   "trending": [
@@ -189,14 +189,14 @@
       "downloads": 89892
     },
     {
-      "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
-      "displayName": "Qwen3.6 35B A3B Uncensored HauhauCS Aggressive",
-      "downloads": 2443871
-    },
-    {
       "id": "unsloth/DeepSeek-V4-Flash-GGUF",
       "displayName": "DeepSeek V4 Flash",
       "downloads": 55222
+    },
+    {
+      "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
+      "displayName": "Qwen3.6 35B A3B Uncensored HauhauCS Aggressive",
+      "downloads": 2443871
     },
     {
       "id": "empero-ai/Qwythos-9B-v2-GGUF",
