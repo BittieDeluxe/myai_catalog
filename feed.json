@@ -1,6 +1,34 @@
 {
-  "updated": "2026-07-14T20:55:56Z",
+  "updated": "2026-07-14T22:54:06Z",
   "news": [
+    {
+      "title": "OpenAI\u2019s first hardware device is reportedly a screenless speaker that can move",
+      "url": "https://techcrunch.com/2026/07/14/openais-first-hardware-device-is-reportedly-a-screenless-speaker-that-can-move/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-07-14T22:22:24Z",
+      "snippet": "OpenAI's first hardware device is reported to be a screenless, AI-guided smart speaker that can move. Weird enough for you?"
+    },
+    {
+      "title": "OpenAI pushes back on Apple trade secret lawsuit",
+      "url": "https://techcrunch.com/2026/07/14/openai-pushes-back-on-apple-trade-secret-lawsuit/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-07-14T22:07:42Z",
+      "snippet": "OpenAI has issued another statement on the lawsuit, this time suggesting it lacks merit."
+    },
+    {
+      "title": "OpenAI\u2019s new flagship model deletes files on its own, people keep warning",
+      "url": "https://techcrunch.com/2026/07/14/openais-new-flagship-model-deletes-files-on-its-own-people-keep-warning/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-07-14T21:50:11Z",
+      "snippet": "A number of social media posts claim that GPT-5.6 Sol deleted files and data without warning. OpenAI had basically disclosed the problem in June."
+    },
+    {
+      "title": "OpenAI may announce a ChatGPT smart speaker this year",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/965670/openai-chatgpt-ai-smart-speaker-hardware-device",
+      "source": "The Verge",
+      "publishedAt": "2026-07-14T21:26:32Z",
+      "snippet": "OpenAI's first device is set to be a smart speaker that lets you talk with ChatGPT, according to a report from Bloomberg. The device apparently won't have a screen, but will use a camera and additiona"
+    },
     {
       "title": "Apple opens its new Siri AI to everyone with the iOS 27 public beta",
       "url": "https://techcrunch.com/2026/07/14/apple-opens-its-new-siri-ai-to-everyone-with-the-ios-27-public-beta/",
@@ -135,27 +163,6 @@
       "snippet": "New hyperscale data centers can't set up shop in New York for up to a year now that Governor Kathy Hochul (D) has signed the nation's first statewide moratorium. But a bill passed by the state legisla"
     },
     {
-      "title": "Already rich, already successful, why the last wave of tech winners is grinding again",
-      "url": "https://techcrunch.com/2026/07/13/already-rich-already-successful-why-the-last-wave-of-tech-winners-is-grinding-again/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-07-14T02:46:42Z",
-      "snippet": "They're rolling up their sleeves again, seemingly out of fear of missing AI's defining moment and, presumably, the irresistible allure of making even more money -- potentially a lot more."
-    },
-    {
-      "title": "Uber\u2019s product chief on hotels, robotaxis, and why the company doesn\u2019t want to be \u2018everything for everyone\u2019",
-      "url": "https://techcrunch.com/2026/07/13/ubers-product-chief-on-hotels-robotaxis-and-why-the-company-doesnt-want-to-be-everything-for-everyone/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-07-14T00:45:00Z",
-      "snippet": "Uber Chief Product Officer Sachin Kansal walks TechCrunch through the company's financial services ambitions, its increasingly complicated relationship with Waymo, its new AV Labs data operation, and "
-    },
-    {
-      "title": "Video-generation startup PixVerse raises $439M, valuation soars past $2B",
-      "url": "https://techcrunch.com/2026/07/13/video-generation-startup-pixverse-raises-439m-valuation-soars-past-2b/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-07-14T00:00:00Z",
-      "snippet": "With the cash, the company aims to expand its world model offering and reach customers across geographies."
-    },
-    {
       "title": "Siri AI is already changing how I use my iPhone",
       "url": "https://www.theverge.com/tech/964714/siri-ai-public-beta-preview-ios-27-hands-on",
       "source": "The Verge",
@@ -168,13 +175,6 @@
       "source": "The Verge",
       "publishedAt": "2026-07-13T17:00:00Z",
       "snippet": "When Apple employees interviewed for jobs at OpenAI, the AI startup's hardware head allegedly asked them to show up with something unusual: components they were working on and unreleased product sampl"
-    },
-    {
-      "title": "Waze is getting a bunch of new AI-powered features",
-      "url": "https://www.theverge.com/transportation/964132/waze-gemini-ai-voice-commands-less-chatty",
-      "source": "The Verge",
-      "publishedAt": "2026-07-13T09:00:00Z",
-      "snippet": "Waze is getting an AI makeover. Google is integrating its flagship AI assistant, Gemini, into the driving app with the goal of letting users personalize their trips a little more. Of the four new upda"
     }
   ],
   "trending": [
@@ -204,6 +204,11 @@
       "downloads": 70260
     },
     {
+      "id": "prism-ml/Ternary-Bonsai-27B-gguf",
+      "displayName": "Ternary Bonsai 27B",
+      "downloads": 23
+    },
+    {
       "id": "yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF",
       "displayName": "gemma 4 12B agentic fable5 composer2.5 v2 3.5x tau2",
       "downloads": 468629
@@ -222,11 +227,6 @@
       "id": "bottlecapai/ThinkingCap-Qwen3.6-27B-GGUF",
       "displayName": "ThinkingCap Qwen3.6 27B",
       "downloads": 319886
-    },
-    {
-      "id": "prism-ml/Ternary-Bonsai-27B-gguf",
-      "displayName": "Ternary Bonsai 27B",
-      "downloads": 23
     }
   ]
 }
