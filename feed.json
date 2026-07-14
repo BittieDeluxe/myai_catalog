@@ -1,6 +1,48 @@
 {
-  "updated": "2026-07-14T13:29:09Z",
+  "updated": "2026-07-14T15:20:47Z",
   "news": [
+    {
+      "title": "New York State halts construction of all new data centers",
+      "url": "https://techcrunch.com/2026/07/14/new-york-state-halts-construction-of-all-new-data-centers/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-07-14T15:17:59Z",
+      "snippet": "New York has become the first state to temporarily halt approval of large data centers, as Gov. Kathy Hochul argues the AI-driven building boom shouldn\u2019t come at the expense of higher electricity cost"
+    },
+    {
+      "title": "Reflection inks $1B compute deal with Nebius",
+      "url": "https://techcrunch.com/2026/07/14/reflection-inks-1b-compute-deal-with-nebius/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-07-14T14:37:48Z",
+      "snippet": "Reflection AI has signed a $1 billion deal to access Nebius' compute. Reflection was founded in 2024 and is developing open source AI technology."
+    },
+    {
+      "title": "The real AI race may no longer be at the frontier",
+      "url": "https://techcrunch.com/2026/07/14/the-real-ai-race-may-no-longer-be-at-the-frontier-open-models-hugging-face/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-07-14T14:24:53Z",
+      "snippet": "Hugging Face CEO Clem Delangue says enterprises increasingly want open models, due to cost, accessibility, and ownership. Do frontier models still matter if most production AI ends up running on open "
+    },
+    {
+      "title": "Spotify expands its AI push with a ChatGPT-like music assistant",
+      "url": "https://techcrunch.com/2026/07/14/spotify-expands-its-ai-push-with-a-chatgpt-like-music-assistant/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-07-14T14:06:47Z",
+      "snippet": "Spotify is rolling out a new AI-powered conversational feature that lets Premium subscribers chat with the app to discover music, podcasts, audiobooks, and more."
+    },
+    {
+      "title": "Sam Altman didn\u2019t need another lawsuit",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/965294/openai-apple-trade-secrets-lawsuit-sam-altman-ipo",
+      "source": "The Verge",
+      "publishedAt": "2026-07-14T14:01:07Z",
+      "snippet": "OpenAI has spent the better part of the year involved in lawsuit after lawsuit, including one from the world's richest man. But last Friday, the company was hit with one of the highest-profile legal a"
+    },
+    {
+      "title": "Superhuman\u2019s new auto-draft feature almost makes me like AI replies",
+      "url": "https://techcrunch.com/2026/07/14/superhumans-new-auto-draft-feature-almost-makes-me-like-ai-replies/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-07-14T14:00:00Z",
+      "snippet": "Superhuman\u2019s latest AI email drafting feature is its most convincing yet, generating replies that often required little to no editing in our testing."
+    },
     {
       "title": "Google\u2019s Demis Hassabis says it\u2019s time for a global AI watchdog \u2014 led by the US",
       "url": "https://www.theverge.com/tech/965270/google-deepmind-demis-hassabis-global-ai-watchdog",
@@ -128,53 +170,11 @@
       "snippet": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the data center buildout, follow Emma Roth. The Stepback arrives in our subscribers' inboxe"
     },
     {
-      "title": "OpenAI bets on families as ChatGPT goes deeper into households",
-      "url": "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-07-11T14:13:00Z",
-      "snippet": "ChatGPT is hiring a dedicated product manager to build experiences for families, caregivers, and older adults, according to a job posting."
-    },
-    {
-      "title": "Meta removes controversial AI feature on Instagram after backlash",
-      "url": "https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-07-10T23:55:07Z",
-      "snippet": "\"Our intent was to provide a useful creative tool and to give people control over whether their public content could be referenced in this way,\" the company said in a blog post. \"We've heard the feedb"
-    },
-    {
       "title": "Meta turns off the Instagram feature that let users make AI deepfakes of public accounts",
       "url": "https://www.theverge.com/tech/964416/meta-instagram-ai-muse-image-deepfakes",
       "source": "The Verge",
       "publishedAt": "2026-07-10T23:49:50Z",
       "snippet": "Following significant backlash, Meta is turning off the feature it announced this week that let users generate AI images based on content from public Instagram accounts just by tagging them. The featu"
-    },
-    {
-      "title": "Apple sues OpenAI for allegedly stealing hardware secrets",
-      "url": "https://www.theverge.com/tech/964350/apple-openai-lawsuit-trade-secrets",
-      "source": "The Verge",
-      "publishedAt": "2026-07-10T21:36:51Z",
-      "snippet": "Apple has sued OpenAI, alleging that engineers stole Apple secrets to advance the AI startup's hardware plans. In its complaint, Apple says it uncovered \"a pattern of theft of Apple's trade secrets by"
-    },
-    {
-      "title": "Apple sues OpenAI over alleged trade secret theft",
-      "url": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-07-10T21:00:29Z",
-      "snippet": "Apple alleges the misconduct was directed by OpenAI's senior leadership, including a longtime former employee."
-    },
-    {
-      "title": "Open source AI matters more than ever, according to Hugging Face\u2019s Clem Delangue",
-      "url": "https://techcrunch.com/podcast/open-source-ai-matters-more-than-ever-according-to-hugging-faces-clem-delangue/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-07-10T19:00:00Z",
-      "snippet": "Open source AI is booming, according to&#160;Hugging Face&#160;CEO&#160;Clem Delangue. The company has grown into something like a GitHub for AI in recent years, where AI builders can share and downlo"
-    },
-    {
-      "title": "SK Hynix raises $26.5B in the biggest foreign IPO in US history, is urged to build new US fabs",
-      "url": "https://techcrunch.com/2026/07/10/sk-hynix-raises-26-5b-in-the-biggest-foreign-ipo-in-us-history-is-urged-to-build-new-us-fabs/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-07-10T17:17:12Z",
-      "snippet": "The AI chip boom just produced its biggest Wall Street moment yet. Now SK Hynix and Samsung are being asked to build U.S. factories."
     }
   ],
   "trending": [
@@ -189,14 +189,14 @@
       "downloads": 89892
     },
     {
-      "id": "unsloth/DeepSeek-V4-Flash-GGUF",
-      "displayName": "DeepSeek V4 Flash",
-      "downloads": 55222
-    },
-    {
       "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
       "displayName": "Qwen3.6 35B A3B Uncensored HauhauCS Aggressive",
       "downloads": 2443871
+    },
+    {
+      "id": "unsloth/DeepSeek-V4-Flash-GGUF",
+      "displayName": "DeepSeek V4 Flash",
+      "downloads": 55222
     },
     {
       "id": "empero-ai/Qwythos-9B-v2-GGUF",
