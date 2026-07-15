@@ -1,8 +1,8 @@
 {
-  "updated": "2026-07-15T13:27:00Z",
+  "updated": "2026-07-15T15:23:31Z",
   "news": [
     {
-      "title": "Anthropic, Blackstone bet the next trillion-dollar AI business is implementation, not models",
+      "title": "Anthropic, Blackstone bet the next trillion-dollar AI business is implementation, not just models",
       "url": "https://techcrunch.com/2026/07/15/anthropic-blackstone-bet-the-next-trillion-dollar-ai-business-is-implementation-not-models/",
       "source": "TechCrunch",
       "publishedAt": "2026-07-15T13:10:47Z",
@@ -20,7 +20,7 @@
       "url": "https://techcrunch.com/2026/07/15/rime-picks-up-24m-series-a-to-help-enterprises-field-customer-calls/",
       "source": "TechCrunch",
       "publishedAt": "2026-07-15T13:00:00Z",
-      "snippet": "Rime is handling over 100 million calls each month across multiple companies"
+      "snippet": "Rime is handling over 100 million calls each month across multiple companies."
     },
     {
       "title": "Indian AI coding startup Emergent becomes a unicorn with $130M Series C",
@@ -179,14 +179,14 @@
   ],
   "trending": [
     {
-      "id": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
-      "displayName": "Qwythos 9B Claude Mythos 5 1M",
-      "downloads": 2006265
-    },
-    {
       "id": "prism-ml/Ternary-Bonsai-27B-gguf",
       "displayName": "Ternary Bonsai 27B",
       "downloads": 23
+    },
+    {
+      "id": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+      "displayName": "Qwythos 9B Claude Mythos 5 1M",
+      "downloads": 2006265
     },
     {
       "id": "prism-ml/Bonsai-27B-gguf",
@@ -209,14 +209,14 @@
       "downloads": 70260
     },
     {
-      "id": "unsloth/DeepSeek-V4-Flash-GGUF",
-      "displayName": "DeepSeek V4 Flash",
-      "downloads": 55222
-    },
-    {
       "id": "AngelSlim/Hy3-GGUF",
       "displayName": "Hy3",
       "downloads": 0
+    },
+    {
+      "id": "unsloth/DeepSeek-V4-Flash-GGUF",
+      "displayName": "DeepSeek V4 Flash",
+      "downloads": 55222
     },
     {
       "id": "yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF",
