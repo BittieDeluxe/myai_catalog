@@ -1,6 +1,41 @@
 {
-  "updated": "2026-07-15T11:36:57Z",
+  "updated": "2026-07-15T13:27:00Z",
   "news": [
+    {
+      "title": "Anthropic, Blackstone bet the next trillion-dollar AI business is implementation, not models",
+      "url": "https://techcrunch.com/2026/07/15/anthropic-blackstone-bet-the-next-trillion-dollar-ai-business-is-implementation-not-models/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-07-15T13:10:47Z",
+      "snippet": "Anthropic-backed Ode launches as AI labs bet that embedding forward-deployed engineers inside enterprises is the key to accelerating enterprise AI adoption."
+    },
+    {
+      "title": "Reelful\u2019s AI turns your camera roll into short-form videos for social media",
+      "url": "https://techcrunch.com/2026/07/15/reelfuls-ai-turns-your-camera-roll-into-short-form-videos-for-social-media/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-07-15T13:00:00Z",
+      "snippet": "The app is designed for people who want to create social content, but find traditional video editing tools too complex or time-consuming."
+    },
+    {
+      "title": "Rime picks up $24M Series A to help enterprises field customer calls",
+      "url": "https://techcrunch.com/2026/07/15/rime-picks-up-24m-series-a-to-help-enterprises-field-customer-calls/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-07-15T13:00:00Z",
+      "snippet": "Rime is handling over 100 million calls each month across multiple companies"
+    },
+    {
+      "title": "Indian AI coding startup Emergent becomes a unicorn with $130M Series C",
+      "url": "https://techcrunch.com/2026/07/15/indian-ai-coding-startup-emergent-becomes-a-unicorn-just-over-a-year-after-launch/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-07-15T12:00:00Z",
+      "snippet": "The startup has reached a $120 million annualized revenue run rate and more than 200,000 paying customers."
+    },
+    {
+      "title": "Vint Cerf is working on a plan to unleash AI agents on the open internet",
+      "url": "https://techcrunch.com/2026/07/15/vint-cerf-is-working-on-a-plan-to-unleash-ai-agents-on-the-open-internet/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-07-15T12:00:00Z",
+      "snippet": "The guy behind TCP/IP is working on a standard for identifying AI agents in the wild."
+    },
     {
       "title": "OpenAI researcher Miles Wang in talks to launch AI drug discovery startup valued at $2B",
       "url": "https://techcrunch.com/2026/07/14/openai-researcher-miles-wang-in-talks-to-launch-ai-drug-discovery-startup-valued-at-2b/",
@@ -93,13 +128,6 @@
       "snippet": "A group of 26 former Meta employees is suing the company over claims that it used AI tools to unfairly target workers on leave with layoffs, as reported earlier by Reuters. In the lawsuit, the employe"
     },
     {
-      "title": "Meta\u2019s Adam Mosseri says AI token budgets could soon be capped per engineer",
-      "url": "https://techcrunch.com/2026/07/14/metas-adam-mosseri-says-ai-token-budgets-could-soon-be-capped-per-engineer/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-07-14T16:22:15Z",
-      "snippet": "Instagram head Adam Mosseri believes companies will eventually need to manage AI token spending the same way they manage payroll or other operating expenses, predicting that engineers could soon face "
-    },
-    {
       "title": "The Google Images homepage will recommend photos even before you search",
       "url": "https://www.theverge.com/tech/965138/google-images-homepage-ai-overviews-search-nano-banana",
       "source": "The Verge",
@@ -107,39 +135,11 @@
       "snippet": "Google is announcing a big change to the Google Images homepage in honor of the platform's 25th anniversary this week. Instead of a mostly blank page with a search bar, the homepage will soon show you"
     },
     {
-      "title": "Google Images gets a Pinterest-like redesign focused on discovery",
-      "url": "https://techcrunch.com/2026/07/14/google-images-gets-a-pinterest-like-redesign-focused-on-discovery/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-07-14T16:00:00Z",
-      "snippet": "Now, when users navigate to Google Images, they'll see a \"For You\" gallery of images tailored to their interests and browsing history."
-    },
-    {
       "title": "Spotify is now an AI chatbot, too",
       "url": "https://www.theverge.com/entertainment/965358/spotify-ai-chatbot-interface-music-audiobooks-podcasts",
       "source": "The Verge",
       "publishedAt": "2026-07-14T15:47:36Z",
       "snippet": "Spotify is experimenting with a new AI feature that allows Premium subscribers to play and explore music, audiobooks, and podcasts by having conversations with a chatbot. The \"Talk to Spotify\" feature"
-    },
-    {
-      "title": "New York State halts construction of all new data centers",
-      "url": "https://techcrunch.com/2026/07/14/new-york-state-halts-construction-of-all-new-data-centers/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-07-14T15:17:59Z",
-      "snippet": "New York has become the first state to temporarily halt approval of large data centers, as Gov. Kathy Hochul argues the AI-driven building boom shouldn\u2019t come at the expense of higher electricity cost"
-    },
-    {
-      "title": "Reflection inks $1B compute deal with Nebius",
-      "url": "https://techcrunch.com/2026/07/14/reflection-inks-1b-compute-deal-with-nebius/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-07-14T14:37:48Z",
-      "snippet": "Reflection AI has signed a $1 billion deal to access Nebius' compute. Reflection was founded in 2024 and is developing open source AI technology."
-    },
-    {
-      "title": "The real AI race may no longer be at the frontier",
-      "url": "https://techcrunch.com/2026/07/14/the-real-ai-race-may-no-longer-be-at-the-frontier-open-models-hugging-face/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-07-14T14:24:53Z",
-      "snippet": "Hugging Face CEO Clem Delangue says enterprises increasingly want open models, due to cost, accessibility, and ownership. Do frontier models still matter if most production AI ends up running on open "
     },
     {
       "title": "Sam Altman didn\u2019t need another lawsuit",
@@ -214,11 +214,6 @@
       "downloads": 55222
     },
     {
-      "id": "deepreinforce-ai/Ornith-1.0-35B-GGUF",
-      "displayName": "Ornith 1.0 35B",
-      "downloads": 1533354
-    },
-    {
       "id": "AngelSlim/Hy3-GGUF",
       "displayName": "Hy3",
       "downloads": 0
@@ -227,6 +222,11 @@
       "id": "yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF",
       "displayName": "gemma 4 12B agentic fable5 composer2.5 v2 3.5x tau2",
       "downloads": 468629
+    },
+    {
+      "id": "deepreinforce-ai/Ornith-1.0-35B-GGUF",
+      "displayName": "Ornith 1.0 35B",
+      "downloads": 1533354
     }
   ]
 }
