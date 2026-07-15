@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-15T06:10:27Z",
+  "updated": "2026-07-15T09:57:54Z",
   "news": [
     {
       "title": "OpenAI researcher Miles Wang in talks to launch AI drug discovery startup valued at $2B",
@@ -214,19 +214,19 @@
       "downloads": 55222
     },
     {
-      "id": "yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF",
-      "displayName": "gemma 4 12B agentic fable5 composer2.5 v2 3.5x tau2",
-      "downloads": 468629
-    },
-    {
       "id": "deepreinforce-ai/Ornith-1.0-35B-GGUF",
       "displayName": "Ornith 1.0 35B",
       "downloads": 1533354
     },
     {
-      "id": "unsloth/Qwen3.6-27B-MTP-GGUF",
-      "displayName": "Qwen3.6 27B MTP",
-      "downloads": 2904515
+      "id": "yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF",
+      "displayName": "gemma 4 12B agentic fable5 composer2.5 v2 3.5x tau2",
+      "downloads": 468629
+    },
+    {
+      "id": "AngelSlim/Hy3-GGUF",
+      "displayName": "Hy3",
+      "downloads": 0
     }
   ]
 }
