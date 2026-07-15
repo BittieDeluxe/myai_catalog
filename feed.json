@@ -1,12 +1,26 @@
 {
-  "updated": "2026-07-14T22:54:06Z",
+  "updated": "2026-07-15T02:01:02Z",
   "news": [
+    {
+      "title": "OpenAI researcher Miles Wang in talks to launch AI drug discovery startup valued at $2B",
+      "url": "https://techcrunch.com/2026/07/14/openai-researcher-miles-wang-in-talks-to-launch-ai-drug-discovery-startup-valued-at-2b/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-07-15T00:27:04Z",
+      "snippet": "The funding discussions point to investor interest in applying AI to make breakthroughs in life sciences."
+    },
+    {
+      "title": "Lorde says AI glasses are \u2018not sexy\u2019",
+      "url": "https://techcrunch.com/2026/07/14/lorde-says-ai-glasses-are-not-sexy/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-07-14T23:10:02Z",
+      "snippet": "\"Increasingly in our world, it gets harder and harder to know what is real,\" Lorde said onstage."
+    },
     {
       "title": "OpenAI\u2019s first hardware device is reportedly a screenless speaker that can move",
       "url": "https://techcrunch.com/2026/07/14/openais-first-hardware-device-is-reportedly-a-screenless-speaker-that-can-move/",
       "source": "TechCrunch",
       "publishedAt": "2026-07-14T22:22:24Z",
-      "snippet": "OpenAI's first hardware device is reported to be a screenless, AI-guided smart speaker that can move. Weird enough for you?"
+      "snippet": "The device is weirdly described as involving \"mechanical elements that can move on their own\" and the Bloomberg report includes the detail that the device is designed to \"feel like a companion and bec"
     },
     {
       "title": "OpenAI pushes back on Apple trade secret lawsuit",
@@ -128,25 +142,11 @@
       "snippet": "Hugging Face CEO Clem Delangue says enterprises increasingly want open models, due to cost, accessibility, and ownership. Do frontier models still matter if most production AI ends up running on open "
     },
     {
-      "title": "Spotify expands its AI push with a ChatGPT-like music assistant",
-      "url": "https://techcrunch.com/2026/07/14/spotify-expands-its-ai-push-with-a-chatgpt-like-music-assistant/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-07-14T14:06:47Z",
-      "snippet": "Spotify is rolling out a new AI-powered conversational feature that lets Premium subscribers chat with the app to discover music, podcasts, audiobooks, and more."
-    },
-    {
       "title": "Sam Altman didn\u2019t need another lawsuit",
       "url": "https://www.theverge.com/ai-artificial-intelligence/965294/openai-apple-trade-secrets-lawsuit-sam-altman-ipo",
       "source": "The Verge",
       "publishedAt": "2026-07-14T14:01:07Z",
       "snippet": "OpenAI has spent the better part of the year involved in lawsuit after lawsuit, including one from the world's richest man. But last Friday, the company was hit with one of the highest-profile legal a"
-    },
-    {
-      "title": "Superhuman\u2019s new auto-draft feature almost makes me like AI replies",
-      "url": "https://techcrunch.com/2026/07/14/superhumans-new-auto-draft-feature-almost-makes-me-like-ai-replies/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-07-14T14:00:00Z",
-      "snippet": "Superhuman\u2019s latest AI email drafting feature is its most convincing yet, generating replies that often required little to no editing in our testing."
     },
     {
       "title": "Google\u2019s Demis Hassabis says it\u2019s time for a global AI watchdog \u2014 led by the US",
@@ -189,6 +189,11 @@
       "downloads": 89892
     },
     {
+      "id": "prism-ml/Ternary-Bonsai-27B-gguf",
+      "displayName": "Ternary Bonsai 27B",
+      "downloads": 23
+    },
+    {
       "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
       "displayName": "Qwen3.6 35B A3B Uncensored HauhauCS Aggressive",
       "downloads": 2443871
@@ -204,9 +209,9 @@
       "downloads": 70260
     },
     {
-      "id": "prism-ml/Ternary-Bonsai-27B-gguf",
-      "displayName": "Ternary Bonsai 27B",
-      "downloads": 23
+      "id": "prism-ml/Bonsai-27B-gguf",
+      "displayName": "Bonsai 27B",
+      "downloads": 513
     },
     {
       "id": "yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF",
@@ -222,11 +227,6 @@
       "id": "unsloth/Qwen3.6-27B-MTP-GGUF",
       "displayName": "Qwen3.6 27B MTP",
       "downloads": 2904515
-    },
-    {
-      "id": "bottlecapai/ThinkingCap-Qwen3.6-27B-GGUF",
-      "displayName": "ThinkingCap Qwen3.6 27B",
-      "downloads": 319886
     }
   ]
 }
