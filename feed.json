@@ -1,9 +1,23 @@
 {
-  "updated": "2026-07-15T19:04:15Z",
+  "updated": "2026-07-15T20:55:50Z",
   "news": [
     {
-      "title": "SpaceX slips below its $135 IPO price ahead of Starship launch",
-      "url": "https://techcrunch.com/2026/07/15/spacex-slips-below-its-135-ipo-price-ahead-of-starship-launch/",
+      "title": "AI slop movies are the new direct-to-video cash grabs",
+      "url": "https://www.theverge.com/entertainment/965616/ash-koosha-odysseus-the-fall-foundtain-zero-tilly-norwood",
+      "source": "The Verge",
+      "publishedAt": "2026-07-15T20:00:00Z",
+      "snippet": "This weekend, cinephiles across the world will march to their local theaters to feast their eyes on Christopher Nolan's new adaptation of The Odyssey. It's on track to rake in anywhere between $80-$10"
+    },
+    {
+      "title": "Amid hardware legal battle, OpenAI releases a $230 keyboard for Codex",
+      "url": "https://techcrunch.com/2026/07/15/amid-hardware-legal-battle-openai-releases-a-230-keyboard-for-codex/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-07-15T19:41:38Z",
+      "snippet": "OpenAI, which is in the middle of a legal battle with Apple over hardware trade theft allegations, just released a light-up keyboard designed to be paired with its agentic coding app."
+    },
+    {
+      "title": "SpaceX falls to $135 IPO price ahead of Starship launch",
+      "url": "https://techcrunch.com/2026/07/15/spacex-falls-to-135-ipo-price-ahead-of-starship-launch/",
       "source": "TechCrunch",
       "publishedAt": "2026-07-15T18:06:05Z",
       "snippet": "The stock has steadily fallen from the euphoric post-IPO high, showing that markets may be sobering up to the promises CEO Elon Musk made before and after SpaceX went public."
@@ -114,13 +128,6 @@
       "snippet": "\"Increasingly in our world, it gets harder and harder to know what is real,\" Lorde said onstage."
     },
     {
-      "title": "OpenAI\u2019s first hardware device is reportedly a screenless speaker that can move",
-      "url": "https://techcrunch.com/2026/07/14/openais-first-hardware-device-is-reportedly-a-screenless-speaker-that-can-move/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-07-14T22:22:24Z",
-      "snippet": "The device is weirdly described as involving \"mechanical elements that can move on their own\" and the Bloomberg report includes the detail that the device is designed to \"feel like a companion and bec"
-    },
-    {
       "title": "OpenAI may announce a ChatGPT smart speaker this year",
       "url": "https://www.theverge.com/ai-artificial-intelligence/965670/openai-chatgpt-ai-smart-speaker-hardware-device",
       "source": "The Verge",
@@ -168,13 +175,6 @@
       "source": "The Verge",
       "publishedAt": "2026-07-14T11:43:29Z",
       "snippet": "Demis Hassabis thinks the world needs an AI watchdog with the power to hit the brakes if frontier models become too dangerous. Writing in a blog post, the Google DeepMind CEO and cofounder said the US"
-    },
-    {
-      "title": "New York becomes the first state to enact a data center moratorium",
-      "url": "https://www.theverge.com/policy/965110/new-york-ai-data-center-moratorium",
-      "source": "The Verge",
-      "publishedAt": "2026-07-14T09:00:00Z",
-      "snippet": "New hyperscale data centers can't set up shop in New York for up to a year now that Governor Kathy Hochul (D) has signed the nation's first statewide moratorium. But a bill passed by the state legisla"
     }
   ],
   "trending": [
