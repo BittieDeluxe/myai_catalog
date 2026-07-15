@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-15T09:57:54Z",
+  "updated": "2026-07-15T11:36:57Z",
   "news": [
     {
       "title": "OpenAI researcher Miles Wang in talks to launch AI drug discovery startup valued at $2B",
@@ -189,14 +189,14 @@
       "downloads": 23
     },
     {
-      "id": "GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking-GGUF",
-      "displayName": "MiniCPM5 1B Claude Opus Fable5 Thinking",
-      "downloads": 89892
-    },
-    {
       "id": "prism-ml/Bonsai-27B-gguf",
       "displayName": "Bonsai 27B",
       "downloads": 513
+    },
+    {
+      "id": "GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking-GGUF",
+      "displayName": "MiniCPM5 1B Claude Opus Fable5 Thinking",
+      "downloads": 89892
     },
     {
       "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
@@ -219,14 +219,14 @@
       "downloads": 1533354
     },
     {
-      "id": "yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF",
-      "displayName": "gemma 4 12B agentic fable5 composer2.5 v2 3.5x tau2",
-      "downloads": 468629
-    },
-    {
       "id": "AngelSlim/Hy3-GGUF",
       "displayName": "Hy3",
       "downloads": 0
+    },
+    {
+      "id": "yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF",
+      "displayName": "gemma 4 12B agentic fable5 composer2.5 v2 3.5x tau2",
+      "downloads": 468629
     }
   ]
 }
