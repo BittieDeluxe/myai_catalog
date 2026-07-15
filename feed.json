@@ -1,6 +1,41 @@
 {
-  "updated": "2026-07-15T15:23:31Z",
+  "updated": "2026-07-15T17:12:52Z",
   "news": [
+    {
+      "title": "Hack suggests AI music generator Suno scraped YouTube for training data",
+      "url": "https://techcrunch.com/2026/07/15/hack-suggests-ai-music-generator-suno-scraped-youtube-for-training-data/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-07-15T17:00:34Z",
+      "snippet": "The hacker used an employee's credentials to access source code, which revealed how Suno scraped decades of audio."
+    },
+    {
+      "title": "Whatnot acquires Shaped to power real-time live shopping recommendations",
+      "url": "https://techcrunch.com/2026/07/15/whatnot-acquires-shaped-to-power-real-time-live-shopping-recommendations/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-07-15T17:00:00Z",
+      "snippet": "Livestream shopping platform Whatnot has acquired AI startup Shaped, a machine learning company focused on real-time recommendations and search. The deal will bolster Whatnot\u2019s personalization and dis"
+    },
+    {
+      "title": "Microsoft patches record number of security vulnerabilities, citing its use of AI",
+      "url": "https://techcrunch.com/2026/07/15/microsoft-patches-record-number-of-security-vulnerabilities-citing-its-use-of-ai/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-07-15T16:20:18Z",
+      "snippet": "Microsoft's monthly release of security fixes, dubbed Patch Tuesday, resolved a record 570 security vulnerabilities across the company's product line, thanks to discoveries with AI."
+    },
+    {
+      "title": "OpenAI finally launches hardware\u2026 for Codex",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/965901/openai-hardware-codex-micro-launch",
+      "source": "The Verge",
+      "publishedAt": "2026-07-15T16:00:00Z",
+      "snippet": "OpenAI is finally releasing some hardware. No, it isn't the mysterious AI-powered device the company is developing with former Apple designer Jony Ive, a project already tangled up in a messy lawsuit."
+    },
+    {
+      "title": "Apple Intelligence approved for launch in China with Alibaba\u2019s Qwen AI",
+      "url": "https://techcrunch.com/2026/07/15/apple-intelligence-approved-for-launch-in-china-with-alibabas-qwen-ai/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-07-15T15:29:33Z",
+      "snippet": "Apple Intelligence is headed to China after regulators approved Apple\u2019s AI services through a partnership with Alibaba. The long-rumored deal will bring Alibaba\u2019s Qwen AI models to Apple\u2019s operating s"
+    },
     {
       "title": "Anthropic, Blackstone bet the next trillion-dollar AI business is implementation, not just models",
       "url": "https://techcrunch.com/2026/07/15/anthropic-blackstone-bet-the-next-trillion-dollar-ai-business-is-implementation-not-models/",
@@ -86,39 +121,11 @@
       "snippet": "If you\u2019ve been waiting to try Apple\u2019s revamped Siri without installing a developer beta, you now can. The company on Tuesday released the iOS 27 public beta, giving iPhone owners early access to its A"
     },
     {
-      "title": "Anthropic\u2019s newest ad is creeping people out",
-      "url": "https://techcrunch.com/2026/07/14/anthropics-newest-ad-is-creeping-people-out/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-07-14T19:41:27Z",
-      "snippet": "Anthropic has consistently attempted to depict itself as the ethical foil to other AI companies. This latest marketing stunt \u2014 which leans into criticism of AI as a way to make Anthropic seem aware of"
-    },
-    {
-      "title": "The founder of Hinge raised $18M to build a new AI dating service, Overtone",
-      "url": "https://techcrunch.com/2026/07/14/the-founder-of-hinge-raised-18m-to-build-a-new-ai-dating-service-overtone/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-07-14T19:39:39Z",
-      "snippet": "Overtone describes itself as \"a voice- and audio-forward service, enabled by AI, that provides highly curated introductions.\""
-    },
-    {
       "title": "SpaceXAI&#8217;s Grok programming tool was uploading its users&#8217; entire codebase to cloud storage",
       "url": "https://www.theverge.com/ai-artificial-intelligence/965600/spacexai-grok-build-repository-upload",
       "source": "The Verge",
       "publishedAt": "2026-07-14T19:25:00Z",
       "snippet": "SpaceXAI's Grok Build AI coding tool was spotted uploading users' entire codebases to Google Cloud before it was reported, and the company turned it off. The Register reports that Cereblab published f"
-    },
-    {
-      "title": "Google faces another AI training lawsuit from major publishers",
-      "url": "https://techcrunch.com/2026/07/14/google-faces-another-ai-training-lawsuit-from-major-publishers/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-07-14T18:33:31Z",
-      "snippet": "Hachette, Cengage, Elsevier, and other publishers allege that Google trained its AI on copyrighted works without the necessary permissions."
-    },
-    {
-      "title": "DeepMind CEO calls for an independent standards body to regulate frontier AI",
-      "url": "https://techcrunch.com/2026/07/14/deepmind-ceo-calls-for-an-independent-standards-body-to-regulate-frontier-ai/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-07-14T17:45:55Z",
-      "snippet": "DeepMind CEO Demis Hassabis is proposing an AI \"standards body\" modeled after FINRA, to test frontier models and develop best practices for their release."
     },
     {
       "title": "Meta accused of using biased AI targeting for mass layoffs",
@@ -168,13 +175,6 @@
       "source": "The Verge",
       "publishedAt": "2026-07-13T20:43:20Z",
       "snippet": "iOS 27 escaped the developer world today with the launch of the first public beta. I've been testing the new operating system since early June, looking for quirks and seeing if it can live up to the h"
-    },
-    {
-      "title": "The 6 wildest claims in Apple&#8217;s lawsuit against OpenAI",
-      "url": "https://www.theverge.com/tech/964843/apple-openai-lawsuit-wildest-claims",
-      "source": "The Verge",
-      "publishedAt": "2026-07-13T17:00:00Z",
-      "snippet": "When Apple employees interviewed for jobs at OpenAI, the AI startup's hardware head allegedly asked them to show up with something unusual: components they were working on and unreleased product sampl"
     }
   ],
   "trending": [
