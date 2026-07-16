@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-16T20:52:25Z",
+  "updated": "2026-07-16T22:53:27Z",
   "news": [
     {
       "title": "Google Vids now lets you star in your own AI videos",
@@ -219,14 +219,14 @@
       "downloads": 121296
     },
     {
-      "id": "deepreinforce-ai/Ornith-1.0-35B-GGUF",
-      "displayName": "Ornith 1.0 35B",
-      "downloads": 1785575
-    },
-    {
       "id": "yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF",
       "displayName": "gemma 4 12B agentic fable5 composer2.5 v2 3.5x tau2",
       "downloads": 506068
+    },
+    {
+      "id": "deepreinforce-ai/Ornith-1.0-35B-GGUF",
+      "displayName": "Ornith 1.0 35B",
+      "downloads": 1785575
     }
   ]
 }
