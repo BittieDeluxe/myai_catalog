@@ -1,6 +1,27 @@
 {
-  "updated": "2026-07-16T13:40:43Z",
+  "updated": "2026-07-16T15:29:11Z",
   "news": [
+    {
+      "title": "How a former DeepMind researcher raised at a $300M pre-seed valuation before launching a product",
+      "url": "https://techcrunch.com/2026/07/16/how-a-former-deepmind-researcher-raised-at-a-300m-pre-seed-valuation-before-launching-a-product/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-07-16T15:02:00Z",
+      "snippet": "Drawing on more than a decade spent helping build some of the world's most influential AI systems, including research that later informed the development of ChatGPT, Andrew Dai explains why he believe"
+    },
+    {
+      "title": "Why AMI Labs\u2019 Alexandre LeBrun won\u2019t call his AI \u2018AGI\u2019 or \u2018superintelligence\u2019",
+      "url": "https://techcrunch.com/2026/07/16/why-ami-labs-alexandre-lebrun-wont-call-his-ai-agi-or-superintelligence/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-07-16T14:40:00Z",
+      "snippet": "While everyone in AI is chasing \"superintelligence,\" Alexandre LeBrun, CEO of Yann LeCun\u2019s world model startup, AMI Labs, dismisses the word."
+    },
+    {
+      "title": "Moonshot\u2019s upcoming Kimi 3 is expected to close the gap with Anthropic\u2019s Opus 4.8",
+      "url": "https://techcrunch.com/2026/07/16/moonshots-upcoming-kimi-3-is-expected-to-close-the-gap-with-anthropics-opus-4-8/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-07-16T14:26:29Z",
+      "snippet": "The FT reports Kimi K3 will be the largest open AI model from China, with a parameter count between 2 trillion and 3 trillion."
+    },
     {
       "title": "Apple Intelligence approved for launch in China with Alibaba and Baidu",
       "url": "https://techcrunch.com/2026/07/16/apple-intelligence-approved-for-launch-in-china-with-alibabas-qwen-ai/",
@@ -135,27 +156,6 @@
       "snippet": "The app is designed for people who want to create social content, but find traditional video editing tools too complex or time-consuming."
     },
     {
-      "title": "Rime picks up $24M Series A to help enterprises field customer calls",
-      "url": "https://techcrunch.com/2026/07/15/rime-picks-up-24m-series-a-to-help-enterprises-field-customer-calls/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-07-15T13:00:00Z",
-      "snippet": "Rime is handling over 100 million calls each month across multiple companies."
-    },
-    {
-      "title": "Indian AI coding startup Emergent becomes a unicorn with $130M Series C",
-      "url": "https://techcrunch.com/2026/07/15/indian-ai-coding-startup-emergent-becomes-a-unicorn-just-over-a-year-after-launch/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-07-15T12:00:00Z",
-      "snippet": "The startup has reached a $120 million annualized revenue run rate and more than 200,000 paying customers."
-    },
-    {
-      "title": "Vint Cerf is working on a plan to unleash AI agents on the open internet",
-      "url": "https://techcrunch.com/2026/07/15/vint-cerf-is-working-on-a-plan-to-unleash-ai-agents-on-the-open-internet/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-07-15T12:00:00Z",
-      "snippet": "The guy behind TCP/IP is working on a standard for identifying AI agents in the wild."
-    },
-    {
       "title": "OpenAI may announce a ChatGPT smart speaker this year",
       "url": "https://www.theverge.com/ai-artificial-intelligence/965670/openai-chatgpt-ai-smart-speaker-hardware-device",
       "source": "The Verge",
@@ -209,14 +209,14 @@
       "downloads": 80796
     },
     {
-      "id": "GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking-GGUF",
-      "displayName": "MiniCPM5 1B Claude Opus Fable5 Thinking",
-      "downloads": 121296
-    },
-    {
       "id": "GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-V2-Thinking-GGUF",
       "displayName": "MiniCPM5 1B Claude Opus Fable5 V2 Thinking",
       "downloads": 3691
+    },
+    {
+      "id": "GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking-GGUF",
+      "displayName": "MiniCPM5 1B Claude Opus Fable5 Thinking",
+      "downloads": 121296
     },
     {
       "id": "deepreinforce-ai/Ornith-1.0-35B-GGUF",
