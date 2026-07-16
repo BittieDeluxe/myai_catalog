@@ -1,6 +1,27 @@
 {
-  "updated": "2026-07-16T17:10:41Z",
+  "updated": "2026-07-16T19:03:02Z",
   "news": [
+    {
+      "title": "Google Vids now lets you star in your own AI videos",
+      "url": "https://techcrunch.com/2026/07/16/google-vids-now-lets-you-star-in-your-own-ai-videos/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-07-16T18:32:54Z",
+      "snippet": "Google is adding personalized AI avatars to Vids that let users create videos starring a digital version of themselves, alongside Gemini Omni-powered tools for generating and editing videos from promp"
+    },
+    {
+      "title": "Roblox launches an AI-powered game creation feature in its mobile app",
+      "url": "https://techcrunch.com/2026/07/16/roblox-launches-an-ai-powered-game-creation-feature-in-its-mobile-app/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-07-16T18:22:06Z",
+      "snippet": "Roblox's new \"Build\" feature lets users generate basic games using a single text prompt."
+    },
+    {
+      "title": "New York governor says she&#8217;s using AI to analyze &#8216;every single rule&#8217; in the state",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/966647/new-york-governor-kathy-hochul-ai-policies",
+      "source": "The Verge",
+      "publishedAt": "2026-07-16T17:58:37Z",
+      "snippet": "New York Governor Kathy Hochul might have just signed a moratorium on new AI data centers in the state, but she's not against using the technology herself. During an interview with Bloomberg's Odd Lot"
+    },
     {
       "title": "Google is renaming NotebookLM to Gemini Notebook",
       "url": "https://www.theverge.com/tech/966112/google-gemini-notebook-notebooklm",
@@ -142,20 +163,6 @@
       "snippet": "The hacker used an employee's credentials to access source code, which revealed how Suno scraped decades of audio."
     },
     {
-      "title": "Whatnot acquires Shaped to power real-time live shopping recommendations",
-      "url": "https://techcrunch.com/2026/07/15/whatnot-acquires-shaped-to-power-real-time-live-shopping-recommendations/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-07-15T17:00:00Z",
-      "snippet": "Livestream shopping platform Whatnot has acquired AI startup Shaped, a machine learning company focused on real-time recommendations and search. The deal will bolster Whatnot\u2019s personalization and dis"
-    },
-    {
-      "title": "Microsoft patches record number of security vulnerabilities, citing its use of AI",
-      "url": "https://techcrunch.com/2026/07/15/microsoft-patches-record-number-of-security-vulnerabilities-citing-its-use-of-ai/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-07-15T16:20:18Z",
-      "snippet": "Microsoft's monthly release of security fixes, dubbed Patch Tuesday, resolved a record 570 security vulnerabilities across the company's product line, thanks to discoveries with AI."
-    },
-    {
       "title": "OpenAI finally launches hardware\u2026 for Codex",
       "url": "https://www.theverge.com/ai-artificial-intelligence/965901/openai-hardware-codex-micro-launch",
       "source": "The Verge",
@@ -168,13 +175,6 @@
       "source": "The Verge",
       "publishedAt": "2026-07-14T21:26:32Z",
       "snippet": "OpenAI's first device is set to be a smart speaker that lets you talk with ChatGPT, according to a report from Bloomberg. The device apparently won't have a screen, but will use a camera and additiona"
-    },
-    {
-      "title": "SpaceXAI&#8217;s Grok programming tool was uploading its users&#8217; entire codebase to cloud storage",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/965600/spacexai-grok-build-repository-upload",
-      "source": "The Verge",
-      "publishedAt": "2026-07-14T19:25:00Z",
-      "snippet": "SpaceXAI's Grok Build AI coding tool was spotted uploading users' entire codebases to Google Cloud before it was reported, and the company turned it off. The Register reports that Cereblab published f"
     }
   ],
   "trending": [
