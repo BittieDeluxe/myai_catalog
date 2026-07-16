@@ -1,6 +1,13 @@
 {
-  "updated": "2026-07-15T22:55:20Z",
+  "updated": "2026-07-16T02:10:36Z",
   "news": [
+    {
+      "title": "Microsoft is reportedly training salespeople to talk down OpenAI and Anthropic",
+      "url": "https://techcrunch.com/2026/07/15/microsoft-is-reportedly-training-salespeople-to-talk-down-openai-and-anthropic/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-07-15T23:59:44Z",
+      "snippet": "Microsoft is looking to sell its in-house AI models as more efficient and cost-effective than its competitors' models."
+    },
     {
       "title": "xAI sues a man for using Grok to generate CSAM &#8216;deepfakes&#8217;",
       "url": "https://www.theverge.com/ai-artificial-intelligence/966293/xai-grok-user-lawsuit-csam",
@@ -128,13 +135,6 @@
       "snippet": "The funding discussions point to investor interest in applying AI to make breakthroughs in life sciences."
     },
     {
-      "title": "Lorde says AI glasses are \u2018not sexy\u2019",
-      "url": "https://techcrunch.com/2026/07/14/lorde-says-ai-glasses-are-not-sexy/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-07-14T23:10:02Z",
-      "snippet": "\"Increasingly in our world, it gets harder and harder to know what is real,\" Lorde said onstage."
-    },
-    {
       "title": "OpenAI may announce a ChatGPT smart speaker this year",
       "url": "https://www.theverge.com/ai-artificial-intelligence/965670/openai-chatgpt-ai-smart-speaker-hardware-device",
       "source": "The Verge",
@@ -214,14 +214,14 @@
       "downloads": 0
     },
     {
-      "id": "yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF",
-      "displayName": "gemma 4 12B agentic fable5 composer2.5 v2 3.5x tau2",
-      "downloads": 468629
-    },
-    {
       "id": "deepreinforce-ai/Ornith-1.0-35B-GGUF",
       "displayName": "Ornith 1.0 35B",
       "downloads": 1533354
+    },
+    {
+      "id": "yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF",
+      "displayName": "gemma 4 12B agentic fable5 composer2.5 v2 3.5x tau2",
+      "downloads": 468629
     },
     {
       "id": "unsloth/DeepSeek-V4-Flash-GGUF",
