@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-16T06:13:02Z",
+  "updated": "2026-07-16T10:03:56Z",
   "news": [
     {
       "title": "Applied Computing wants to give oil and gas operators an AI model for the entire plant",
@@ -181,52 +181,52 @@
     {
       "id": "prism-ml/Ternary-Bonsai-27B-gguf",
       "displayName": "Ternary Bonsai 27B",
-      "downloads": 23
-    },
-    {
-      "id": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
-      "displayName": "Qwythos 9B Claude Mythos 5 1M",
-      "downloads": 2006265
+      "downloads": 74007
     },
     {
       "id": "prism-ml/Bonsai-27B-gguf",
       "displayName": "Bonsai 27B",
-      "downloads": 513
+      "downloads": 559267
     },
     {
-      "id": "GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking-GGUF",
-      "displayName": "MiniCPM5 1B Claude Opus Fable5 Thinking",
-      "downloads": 89892
+      "id": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+      "displayName": "Qwythos 9B Claude Mythos 5 1M",
+      "downloads": 2042670
     },
     {
       "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
       "displayName": "Qwen3.6 35B A3B Uncensored HauhauCS Aggressive",
-      "downloads": 2443871
+      "downloads": 2328315
+    },
+    {
+      "id": "GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking-GGUF",
+      "displayName": "MiniCPM5 1B Claude Opus Fable5 Thinking",
+      "downloads": 121296
     },
     {
       "id": "empero-ai/Qwythos-9B-v2-GGUF",
       "displayName": "Qwythos 9B v2",
-      "downloads": 70260
+      "downloads": 89107
     },
     {
       "id": "AngelSlim/Hy3-GGUF",
       "displayName": "Hy3",
-      "downloads": 0
+      "downloads": 80796
     },
     {
       "id": "GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-V2-Thinking-GGUF",
       "displayName": "MiniCPM5 1B Claude Opus Fable5 V2 Thinking",
-      "downloads": 595
-    },
-    {
-      "id": "yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF",
-      "displayName": "gemma 4 12B agentic fable5 composer2.5 v2 3.5x tau2",
-      "downloads": 468629
+      "downloads": 3691
     },
     {
       "id": "deepreinforce-ai/Ornith-1.0-35B-GGUF",
       "displayName": "Ornith 1.0 35B",
-      "downloads": 1533354
+      "downloads": 1785575
+    },
+    {
+      "id": "yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF",
+      "displayName": "gemma 4 12B agentic fable5 composer2.5 v2 3.5x tau2",
+      "downloads": 506068
     }
   ]
 }
