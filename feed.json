@@ -1,6 +1,34 @@
 {
-  "updated": "2026-07-16T10:03:56Z",
+  "updated": "2026-07-16T13:40:43Z",
   "news": [
+    {
+      "title": "Apple Intelligence approved for launch in China with Alibaba and Baidu",
+      "url": "https://techcrunch.com/2026/07/16/apple-intelligence-approved-for-launch-in-china-with-alibabas-qwen-ai/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-07-16T13:17:59Z",
+      "snippet": "The deal, which was rumored to be in the works last year, marks an important step for Apple's AI ambitions in a key market."
+    },
+    {
+      "title": "Claude can now use your 1Password credentials for you",
+      "url": "https://www.theverge.com/tech/966442/1password-anthropic-claude-browser-integration",
+      "source": "The Verge",
+      "publishedAt": "2026-07-16T13:00:00Z",
+      "snippet": "1Password has launched a new browser integration for Claude that allows the Anthropic chatbot to access stored security credentials like usernames and passwords. The 1Password for Claude feature means"
+    },
+    {
+      "title": "Google ordered to open Android and Search to rivals in Europe",
+      "url": "https://www.theverge.com/policy/966438/eu-google-android-ai-interoperability-search-data-dma",
+      "source": "The Verge",
+      "publishedAt": "2026-07-16T12:06:51Z",
+      "snippet": "Google must give rival AI assistants and search engines greater access to key parts of Android and Google Search after the European Union ordered the company to comply with the bloc's digital antitrus"
+    },
+    {
+      "title": "Computer cops",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/965066/ai-police-cops",
+      "source": "The Verge",
+      "publishedAt": "2026-07-16T11:00:00Z",
+      "snippet": "I stood before a hulking glass and brick structure in the heart of Fort Worth, Texas. Thousands gathered inside to see what had been billed as \"the future of policing in the digital age.\" As press, I "
+    },
     {
       "title": "Applied Computing wants to give oil and gas operators an AI model for the entire plant",
       "url": "https://techcrunch.com/2026/07/15/applied-computing-wants-to-give-oil-and-gas-operators-an-ai-model-for-the-entire-plant/",
@@ -86,13 +114,6 @@
       "snippet": "OpenAI is finally releasing some hardware. No, it isn't the mysterious AI-powered device the company is developing with former Apple designer Jony Ive, a project already tangled up in a messy lawsuit."
     },
     {
-      "title": "Apple Intelligence approved for launch in China with Alibaba\u2019s Qwen AI",
-      "url": "https://techcrunch.com/2026/07/15/apple-intelligence-approved-for-launch-in-china-with-alibabas-qwen-ai/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-07-15T15:29:33Z",
-      "snippet": "The deal, which was rumored to be in the works last year, marks an important step for Apple's AI ambitions in a key market."
-    },
-    {
       "title": "Inside Ode with Anthropic, the startup betting AI services are the future of enterprise",
       "url": "https://techcrunch.com/video/inside-ode-with-anthropic-the-startup-betting-ai-services-are-the-future-of-enterprise/",
       "source": "TechCrunch",
@@ -154,27 +175,6 @@
       "source": "The Verge",
       "publishedAt": "2026-07-14T17:18:11Z",
       "snippet": "A group of 26 former Meta employees is suing the company over claims that it used AI tools to unfairly target workers on leave with layoffs, as reported earlier by Reuters. In the lawsuit, the employe"
-    },
-    {
-      "title": "The Google Images homepage will recommend photos even before you search",
-      "url": "https://www.theverge.com/tech/965138/google-images-homepage-ai-overviews-search-nano-banana",
-      "source": "The Verge",
-      "publishedAt": "2026-07-14T16:00:00Z",
-      "snippet": "Google is announcing a big change to the Google Images homepage in honor of the platform's 25th anniversary this week. Instead of a mostly blank page with a search bar, the homepage will soon show you"
-    },
-    {
-      "title": "Spotify is now an AI chatbot, too",
-      "url": "https://www.theverge.com/entertainment/965358/spotify-ai-chatbot-interface-music-audiobooks-podcasts",
-      "source": "The Verge",
-      "publishedAt": "2026-07-14T15:47:36Z",
-      "snippet": "Spotify is experimenting with a new AI feature that allows Premium subscribers to play and explore music, audiobooks, and podcasts by having conversations with a chatbot. The \"Talk to Spotify\" feature"
-    },
-    {
-      "title": "Sam Altman didn\u2019t need another lawsuit",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/965294/openai-apple-trade-secrets-lawsuit-sam-altman-ipo",
-      "source": "The Verge",
-      "publishedAt": "2026-07-14T14:01:07Z",
-      "snippet": "OpenAI has spent the better part of the year involved in lawsuit after lawsuit, including one from the world's richest man. But last Friday, the company was hit with one of the highest-profile legal a"
     }
   ],
   "trending": [
@@ -199,11 +199,6 @@
       "downloads": 2328315
     },
     {
-      "id": "GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking-GGUF",
-      "displayName": "MiniCPM5 1B Claude Opus Fable5 Thinking",
-      "downloads": 121296
-    },
-    {
       "id": "empero-ai/Qwythos-9B-v2-GGUF",
       "displayName": "Qwythos 9B v2",
       "downloads": 89107
@@ -212,6 +207,11 @@
       "id": "AngelSlim/Hy3-GGUF",
       "displayName": "Hy3",
       "downloads": 80796
+    },
+    {
+      "id": "GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking-GGUF",
+      "displayName": "MiniCPM5 1B Claude Opus Fable5 Thinking",
+      "downloads": 121296
     },
     {
       "id": "GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-V2-Thinking-GGUF",
