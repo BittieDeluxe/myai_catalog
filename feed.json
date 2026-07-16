@@ -1,6 +1,34 @@
 {
-  "updated": "2026-07-16T15:29:11Z",
+  "updated": "2026-07-16T17:10:41Z",
   "news": [
+    {
+      "title": "Google is renaming NotebookLM to Gemini Notebook",
+      "url": "https://www.theverge.com/tech/966112/google-gemini-notebook-notebooklm",
+      "source": "The Verge",
+      "publishedAt": "2026-07-16T16:00:00Z",
+      "snippet": "Google is giving its AI note-taking app a new name. The company announced on Thursday that NotebookLM is becoming Gemini Notebook, but will remain a standalone app even as it integrates more deeply ac"
+    },
+    {
+      "title": "Google\u2019s AI Mode now lets you link and interact with select apps",
+      "url": "https://techcrunch.com/2026/07/16/googles-ai-mode-now-lets-you-link-and-interact-with-select-apps/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-07-16T16:00:00Z",
+      "snippet": "With this new update, Google is expanding AI Mode beyond answering questions and into completing tasks across the apps they use regularly."
+    },
+    {
+      "title": "Yes, you can now order DoorDash from the command line",
+      "url": "https://techcrunch.com/2026/07/16/yes-you-can-now-order-doordash-from-the-command-line/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-07-16T15:38:55Z",
+      "snippet": "DoorDash is opening a limited beta of dd-cli, a command-line tool that lets developers and AI agents search stores, build carts, and place orders from the terminal, marking another step toward softwar"
+    },
+    {
+      "title": "Why is OpenAI selling a ChatGPT basketball?",
+      "url": "https://techcrunch.com/2026/07/16/why-is-openai-selling-a-chatgpt-basketball/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-07-16T15:31:09Z",
+      "snippet": "You may have heard that OpenAI released its first piece of hardware this week. You may not have heard about the ChatGPT basketball."
+    },
     {
       "title": "How a former DeepMind researcher raised at a $300M pre-seed valuation before launching a product",
       "url": "https://techcrunch.com/2026/07/16/how-a-former-deepmind-researcher-raised-at-a-300m-pre-seed-valuation-before-launching-a-product/",
@@ -135,27 +163,6 @@
       "snippet": "OpenAI is finally releasing some hardware. No, it isn't the mysterious AI-powered device the company is developing with former Apple designer Jony Ive, a project already tangled up in a messy lawsuit."
     },
     {
-      "title": "Inside Ode with Anthropic, the startup betting AI services are the future of enterprise",
-      "url": "https://techcrunch.com/video/inside-ode-with-anthropic-the-startup-betting-ai-services-are-the-future-of-enterprise/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-07-15T15:00:00Z",
-      "snippet": "Can a handful of engineers really do the work of an army of consultants?&#160;That\u2019s&#160;the bet behind Ode with Anthropic \u2014&#160;the joint venture dedicated to embedding forward-deployed engineers i"
-    },
-    {
-      "title": "Anthropic, Blackstone bet the next trillion-dollar AI business is implementation, not just models",
-      "url": "https://techcrunch.com/2026/07/15/anthropic-blackstone-bet-the-next-trillion-dollar-ai-business-is-implementation-not-models/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-07-15T13:10:47Z",
-      "snippet": "Anthropic-backed Ode launches as AI labs bet that embedding forward-deployed engineers inside enterprises is the key to accelerating enterprise AI adoption."
-    },
-    {
-      "title": "Reelful\u2019s AI turns your camera roll into short-form videos for social media",
-      "url": "https://techcrunch.com/2026/07/15/reelfuls-ai-turns-your-camera-roll-into-short-form-videos-for-social-media/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-07-15T13:00:00Z",
-      "snippet": "The app is designed for people who want to create social content, but find traditional video editing tools too complex or time-consuming."
-    },
-    {
       "title": "OpenAI may announce a ChatGPT smart speaker this year",
       "url": "https://www.theverge.com/ai-artificial-intelligence/965670/openai-chatgpt-ai-smart-speaker-hardware-device",
       "source": "The Verge",
@@ -168,13 +175,6 @@
       "source": "The Verge",
       "publishedAt": "2026-07-14T19:25:00Z",
       "snippet": "SpaceXAI's Grok Build AI coding tool was spotted uploading users' entire codebases to Google Cloud before it was reported, and the company turned it off. The Register reports that Cereblab published f"
-    },
-    {
-      "title": "Meta accused of using biased AI targeting for mass layoffs",
-      "url": "https://www.theverge.com/tech/965486/meta-lawsuit-former-employees-ai-layoffs",
-      "source": "The Verge",
-      "publishedAt": "2026-07-14T17:18:11Z",
-      "snippet": "A group of 26 former Meta employees is suing the company over claims that it used AI tools to unfairly target workers on leave with layoffs, as reported earlier by Reuters. In the lawsuit, the employe"
     }
   ],
   "trending": [
