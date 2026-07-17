@@ -1,12 +1,33 @@
 {
-  "updated": "2026-07-17T17:06:58Z",
+  "updated": "2026-07-17T19:00:43Z",
   "news": [
+    {
+      "title": "How Apple\u2019s big lawsuit could disrupt OpenAI\u2019s IPO plans",
+      "url": "https://techcrunch.com/video/how-apples-big-lawsuit-could-disrupt-openais-ipo-plans/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-07-17T17:45:46Z",
+      "snippet": "Apple&#160;filed a trade secrets&#160;lawsuit against OpenAI&#160;last Friday, and&#160;it&#8217;s&#160;not messing around. The complaint alleges a pattern of misconduct reaching all the way up to Ope"
+    },
+    {
+      "title": "Apple\u2019s plot to crush OpenAI",
+      "url": "https://www.theverge.com/podcast/967244/apple-openai-lawsuit-vergecast",
+      "source": "The Verge",
+      "publishedAt": "2026-07-17T17:41:32Z",
+      "snippet": "Apple is suing OpenAI. The complaint is readable and intense, as these things often are, though many experts seem to think many of the allegations are just the ways things are done. So what does Apple"
+    },
     {
       "title": "Patreon stops asking AI bots not to scrape \u2014 and starts blocking them",
       "url": "https://techcrunch.com/2026/07/17/patreon-stops-asking-ai-bots-not-to-scrape-and-starts-blocking-them/",
       "source": "TechCrunch",
       "publishedAt": "2026-07-17T15:21:17Z",
       "snippet": "Patreon is strengthening its defenses against AI scraping by working with Cloudflare to block bots that train AI models on creators\u2019 content without permission. The move marks a shift away from relyin"
+    },
+    {
+      "title": "Apple\u2019s lawsuit couldn\u2019t come at a worse time for OpenAI",
+      "url": "https://techcrunch.com/podcast/apples-lawsuit-couldnt-come-at-a-worse-time-for-openai/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-07-17T14:00:00Z",
+      "snippet": "Apple&#160;filed a trade secrets&#160;lawsuit against OpenAI&#160;last Friday, and&#160;it&#8217;s&#160;not messing around. The complaint alleges a pattern of misconduct reaching all the way up to Ope"
     },
     {
       "title": "Why the first GPU financiers are turning to inference chips in a $400 million deal",
@@ -142,20 +163,6 @@
       "snippet": "This weekend, cinephiles across the world will march to their local theaters to feast their eyes on Christopher Nolan's new adaptation of The Odyssey. It's on track to rake in anywhere between $80-$10"
     },
     {
-      "title": "Amid hardware legal battle, OpenAI releases a $230 keyboard for Codex",
-      "url": "https://techcrunch.com/2026/07/15/amid-hardware-legal-battle-openai-releases-a-230-keyboard-for-codex/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-07-15T19:41:38Z",
-      "snippet": "OpenAI, which is in the middle of a legal battle with Apple over hardware trade theft allegations, just released a light-up keyboard designed to be paired with its agentic coding app."
-    },
-    {
-      "title": "SpaceX falls to $135 IPO price ahead of Starship launch",
-      "url": "https://techcrunch.com/2026/07/15/spacex-falls-to-135-ipo-price-ahead-of-starship-launch/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-07-15T18:06:05Z",
-      "snippet": "The stock has steadily fallen from the euphoric post-IPO high, showing that markets may be sobering up to the promises CEO Elon Musk made before and after SpaceX went public."
-    },
-    {
       "title": "Suno snatched millions of songs from YouTube, Genius, and Deezer",
       "url": "https://www.theverge.com/ai-artificial-intelligence/966072/suno-ai-music-training-scraping-youtube-hack",
       "source": "The Verge",
@@ -168,13 +175,6 @@
       "source": "The Verge",
       "publishedAt": "2026-07-15T16:00:00Z",
       "snippet": "OpenAI is finally releasing some hardware. No, it isn't the mysterious AI-powered device the company is developing with former Apple designer Jony Ive, a project already tangled up in a messy lawsuit."
-    },
-    {
-      "title": "OpenAI may announce a ChatGPT smart speaker this year",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/965670/openai-chatgpt-ai-smart-speaker-hardware-device",
-      "source": "The Verge",
-      "publishedAt": "2026-07-14T21:26:32Z",
-      "snippet": "OpenAI's first device is set to be a smart speaker that lets you talk with ChatGPT, according to a report from Bloomberg. The device apparently won't have a screen, but will use a camera and additiona"
     }
   ],
   "trending": [
