@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-17T06:11:20Z",
+  "updated": "2026-07-17T09:52:31Z",
   "news": [
     {
       "title": "Google Vids now lets you star in your own AI videos",
@@ -181,52 +181,52 @@
     {
       "id": "prism-ml/Ternary-Bonsai-27B-gguf",
       "displayName": "Ternary Bonsai 27B",
-      "downloads": 74007
+      "downloads": 200774
     },
     {
       "id": "prism-ml/Bonsai-27B-gguf",
       "displayName": "Bonsai 27B",
-      "downloads": 559267
+      "downloads": 1045182
     },
     {
       "id": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
       "displayName": "Qwythos 9B Claude Mythos 5 1M",
-      "downloads": 2042670
-    },
-    {
-      "id": "empero-ai/Qwythos-9B-v2-GGUF",
-      "displayName": "Qwythos 9B v2",
-      "downloads": 89107
+      "downloads": 2096147
     },
     {
       "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
       "displayName": "Qwen3.6 35B A3B Uncensored HauhauCS Aggressive",
-      "downloads": 2328315
+      "downloads": 2295313
+    },
+    {
+      "id": "empero-ai/Qwythos-9B-v2-GGUF",
+      "displayName": "Qwythos 9B v2",
+      "downloads": 98370
     },
     {
       "id": "AngelSlim/Hy3-GGUF",
       "displayName": "Hy3",
-      "downloads": 80796
+      "downloads": 84834
     },
     {
       "id": "GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-V2-Thinking-GGUF",
       "displayName": "MiniCPM5 1B Claude Opus Fable5 V2 Thinking",
-      "downloads": 3691
+      "downloads": 6367
     },
     {
       "id": "GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking-GGUF",
       "displayName": "MiniCPM5 1B Claude Opus Fable5 Thinking",
-      "downloads": 121296
+      "downloads": 154762
     },
     {
       "id": "unsloth/inkling-GGUF",
       "displayName": "inkling",
-      "downloads": 111
+      "downloads": 5194
     },
     {
       "id": "yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF",
       "displayName": "gemma 4 12B agentic fable5 composer2.5 v2 3.5x tau2",
-      "downloads": 506068
+      "downloads": 530381
     }
   ]
 }
