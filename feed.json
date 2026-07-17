@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-17T02:13:18Z",
+  "updated": "2026-07-17T06:11:20Z",
   "news": [
     {
       "title": "Google Vids now lets you star in your own AI videos",
@@ -194,14 +194,14 @@
       "downloads": 2042670
     },
     {
-      "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
-      "displayName": "Qwen3.6 35B A3B Uncensored HauhauCS Aggressive",
-      "downloads": 2328315
-    },
-    {
       "id": "empero-ai/Qwythos-9B-v2-GGUF",
       "displayName": "Qwythos 9B v2",
       "downloads": 89107
+    },
+    {
+      "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
+      "displayName": "Qwen3.6 35B A3B Uncensored HauhauCS Aggressive",
+      "downloads": 2328315
     },
     {
       "id": "AngelSlim/Hy3-GGUF",
@@ -219,14 +219,14 @@
       "downloads": 121296
     },
     {
+      "id": "unsloth/inkling-GGUF",
+      "displayName": "inkling",
+      "downloads": 111
+    },
+    {
       "id": "yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF",
       "displayName": "gemma 4 12B agentic fable5 composer2.5 v2 3.5x tau2",
       "downloads": 506068
-    },
-    {
-      "id": "deepreinforce-ai/Ornith-1.0-35B-GGUF",
-      "displayName": "Ornith 1.0 35B",
-      "downloads": 1785575
     }
   ]
 }
