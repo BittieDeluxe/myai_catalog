@@ -1,6 +1,20 @@
 {
-  "updated": "2026-07-17T20:49:44Z",
+  "updated": "2026-07-17T22:43:54Z",
   "news": [
+    {
+      "title": "Databricks hits $188B valuation, extending its run as AI\u2019s favorite second act",
+      "url": "https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-07-17T22:12:56Z",
+      "snippet": "Databricks has remade its image into an AI company and has published research on the cost savings of open weight AI models for coding."
+    },
+    {
+      "title": "The Zoom hack that says, \u2018Don\u2019t record me\u2019",
+      "url": "https://techcrunch.com/2026/07/17/the-zoom-hack-that-says-dont-record-me/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-07-17T21:20:47Z",
+      "snippet": "If every meeting, watercooler conversation, and date gets transcribed and summarized, who's actually reading any of it?"
+    },
     {
       "title": "Agility Robotics plants its flag in Tesla\u2019s backyard",
       "url": "https://techcrunch.com/2026/07/17/agility-robotics-plants-its-flag-in-teslas-backyard/",
@@ -119,20 +133,6 @@
       "source": "TechCrunch",
       "publishedAt": "2026-07-16T14:40:00Z",
       "snippet": "While everyone in AI is chasing \"superintelligence,\" Alexandre LeBrun, CEO of Yann LeCun\u2019s world model startup, AMI Labs, dismisses the word."
-    },
-    {
-      "title": "Moonshot\u2019s upcoming Kimi 3 is expected to close the gap with Anthropic\u2019s Opus 4.8",
-      "url": "https://techcrunch.com/2026/07/16/moonshots-upcoming-kimi-3-is-expected-to-close-the-gap-with-anthropics-opus-4-8/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-07-16T14:26:29Z",
-      "snippet": "The FT reports Kimi K3 will be the largest open AI model from China, with a parameter count between 2 trillion and 3 trillion."
-    },
-    {
-      "title": "Apple Intelligence approved for launch in China with Alibaba and Baidu",
-      "url": "https://techcrunch.com/2026/07/16/apple-intelligence-approved-for-launch-in-china-with-alibabas-qwen-ai/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-07-16T13:17:59Z",
-      "snippet": "The deal, which was rumored to be in the works last year, marks an important step for Apple's AI ambitions in a key market."
     },
     {
       "title": "Claude can now use your 1Password credentials for you",
