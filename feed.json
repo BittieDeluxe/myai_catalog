@@ -1,6 +1,27 @@
 {
-  "updated": "2026-07-17T19:00:43Z",
+  "updated": "2026-07-17T20:49:44Z",
   "news": [
+    {
+      "title": "Agility Robotics plants its flag in Tesla\u2019s backyard",
+      "url": "https://techcrunch.com/2026/07/17/agility-robotics-plants-its-flag-in-teslas-backyard/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-07-17T20:19:49Z",
+      "snippet": "Agility is opening a new training center for its Digit robots in Fremont, California."
+    },
+    {
+      "title": "AI-driven memory crunch jolts India\u2019s smartphone market",
+      "url": "https://techcrunch.com/2026/07/17/ai-driven-memory-crunch-jolts-indias-smartphone-market/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-07-17T20:09:27Z",
+      "snippet": "India's smartphone slowdown highlights how the AI boom is reshaping consumer electronics, from pricing and demand to corporate strategy."
+    },
+    {
+      "title": "TikTok is testing an AI likeness detection tool",
+      "url": "https://www.theverge.com/tech/967486/tiktok-ai-likeness-detection-tool",
+      "source": "The Verge",
+      "publishedAt": "2026-07-17T19:34:30Z",
+      "snippet": "TikTok is starting to test an opt-in tool that scans for AI likenesses and lets creators report them to the company, as spotted by social media consultant Matt Navarra. The tool is initially being tes"
+    },
     {
       "title": "How Apple\u2019s big lawsuit could disrupt OpenAI\u2019s IPO plans",
       "url": "https://techcrunch.com/video/how-apples-big-lawsuit-could-disrupt-openais-ipo-plans/",
@@ -135,20 +156,6 @@
       "snippet": "I stood before a hulking glass and brick structure in the heart of Fort Worth, Texas. Thousands gathered inside to see what had been billed as \"the future of policing in the digital age.\" As press, I "
     },
     {
-      "title": "Applied Computing wants to give oil and gas operators an AI model for the entire plant",
-      "url": "https://techcrunch.com/2026/07/15/applied-computing-wants-to-give-oil-and-gas-operators-an-ai-model-for-the-entire-plant/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-07-16T04:00:00Z",
-      "snippet": "Applied Computing has raised a $20M Series A to build a foundation AI model for the oil, gas and petrochemical industry."
-    },
-    {
-      "title": "Microsoft is reportedly training salespeople to talk down OpenAI and Anthropic",
-      "url": "https://techcrunch.com/2026/07/15/microsoft-is-reportedly-training-salespeople-to-talk-down-openai-and-anthropic/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-07-15T23:59:44Z",
-      "snippet": "Microsoft is looking to sell its in-house AI models as more efficient and cost-effective than its competitors' models."
-    },
-    {
       "title": "xAI sues a man for using Grok to generate CSAM &#8216;deepfakes&#8217;",
       "url": "https://www.theverge.com/ai-artificial-intelligence/966293/xai-grok-user-lawsuit-csam",
       "source": "The Verge",
@@ -168,13 +175,6 @@
       "source": "The Verge",
       "publishedAt": "2026-07-15T17:48:01Z",
       "snippet": "Suno data obtained in a hacking incident has exposed that the AI music generator was trained by scraping millions of songs and lyrics from online audio platforms, including YouTube Music, Deezer, and "
-    },
-    {
-      "title": "OpenAI finally launches hardware\u2026 for Codex",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/965901/openai-hardware-codex-micro-launch",
-      "source": "The Verge",
-      "publishedAt": "2026-07-15T16:00:00Z",
-      "snippet": "OpenAI is finally releasing some hardware. No, it isn't the mysterious AI-powered device the company is developing with former Apple designer Jony Ive, a project already tangled up in a messy lawsuit."
     }
   ],
   "trending": [
