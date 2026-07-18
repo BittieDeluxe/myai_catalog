@@ -1,6 +1,13 @@
 {
-  "updated": "2026-07-18T10:58:33Z",
+  "updated": "2026-07-18T13:05:08Z",
   "news": [
+    {
+      "title": "The apps, gadgets, and tools every reader needs",
+      "url": "https://www.theverge.com/tech/967544/best-apps-gadgets-reading-installer",
+      "source": "The Verge",
+      "publishedAt": "2026-07-18T12:00:00Z",
+      "snippet": "Hi, friends! Welcome to Installer No. 136, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, hope your neighborhood isn't as smoky as mine, and also you can read "
+    },
     {
       "title": "Neil Rimer thinks the AI money is coming back out",
       "url": "https://techcrunch.com/2026/07/17/neil-rimer-thinks-the-ai-money-is-coming-back-out/",
@@ -168,13 +175,6 @@
       "source": "The Verge",
       "publishedAt": "2026-07-15T20:00:00Z",
       "snippet": "This weekend, cinephiles across the world will march to their local theaters to feast their eyes on Christopher Nolan's new adaptation of The Odyssey. It's on track to rake in anywhere between $80-$10"
-    },
-    {
-      "title": "Suno snatched millions of songs from YouTube, Genius, and Deezer",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/966072/suno-ai-music-training-scraping-youtube-hack",
-      "source": "The Verge",
-      "publishedAt": "2026-07-15T17:48:01Z",
-      "snippet": "Suno data obtained in a hacking incident has exposed that the AI music generator was trained by scraping millions of songs and lyrics from online audio platforms, including YouTube Music, Deezer, and "
     }
   ],
   "trending": [
@@ -224,9 +224,9 @@
       "downloads": 172409
     },
     {
-      "id": "unsloth/Qwen3.6-27B-MTP-GGUF",
-      "displayName": "Qwen3.6 27B MTP",
-      "downloads": 2900201
+      "id": "RavichandranJ/Dolphin3-Cyber-8B-GGUF",
+      "displayName": "Dolphin3 Cyber 8B",
+      "downloads": 56548
     }
   ]
 }
