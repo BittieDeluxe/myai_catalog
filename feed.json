@@ -1,6 +1,13 @@
 {
-  "updated": "2026-07-17T22:43:54Z",
+  "updated": "2026-07-18T02:02:52Z",
   "news": [
+    {
+      "title": "Vertu wants executives to pay $6,880 for an AI agent \u2014 here\u2019s how it actually performs",
+      "url": "https://techcrunch.com/2026/07/17/vertu-wants-executives-to-pay-6880-for-an-ai-agent-heres-how-it-actually-performs/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-07-17T22:55:09Z",
+      "snippet": "From AI workflows to battery life and security, here's what it's really like to live with Vertu's luxury foldable every day."
+    },
     {
       "title": "Databricks hits $188B valuation, extending its run as AI\u2019s favorite second act",
       "url": "https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/",
@@ -126,13 +133,6 @@
       "source": "TechCrunch",
       "publishedAt": "2026-07-16T15:02:00Z",
       "snippet": "Drawing on more than a decade spent helping build some of the world's most influential AI systems, including research that later informed the development of ChatGPT, Andrew Dai explains why he believe"
-    },
-    {
-      "title": "Why AMI Labs\u2019 Alexandre LeBrun won\u2019t call his AI \u2018AGI\u2019 or \u2018superintelligence\u2019",
-      "url": "https://techcrunch.com/2026/07/16/why-ami-labs-alexandre-lebrun-wont-call-his-ai-agi-or-superintelligence/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-07-16T14:40:00Z",
-      "snippet": "While everyone in AI is chasing \"superintelligence,\" Alexandre LeBrun, CEO of Yann LeCun\u2019s world model startup, AMI Labs, dismisses the word."
     },
     {
       "title": "Claude can now use your 1Password credentials for you",
