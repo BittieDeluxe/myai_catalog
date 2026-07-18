@@ -1,6 +1,13 @@
 {
-  "updated": "2026-07-18T20:41:07Z",
+  "updated": "2026-07-18T22:43:24Z",
   "news": [
+    {
+      "title": "Dave Eggers told OpenAI staff  that ChatGPT was \u2018silencing an entire generation\u2019",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/967630/dave-eggers-openai-chatgpt-silencing-an-entire-generation",
+      "source": "The Verge",
+      "publishedAt": "2026-07-18T20:54:42Z",
+      "snippet": "Last year, Sam Altman invited author Dave Eggers to give a talk to around 200 OpenAI staffers. The man has written countless novels, screenplays, pieces of journalism, started McSweeney's, and founded"
+    },
     {
       "title": "Kimi: Threat or menace?",
       "url": "https://techcrunch.com/2026/07/18/kimi-threat-or-menace/",
@@ -168,13 +175,6 @@
       "source": "The Verge",
       "publishedAt": "2026-07-15T21:33:20Z",
       "snippet": "The Elon Musk-owned xAI is suing a South Carolina man who allegedly used the company's Grok AI chatbot to generate child sexual abuse material (CSAM). In a lawsuit reported earlier by Reuters, xAI cla"
-    },
-    {
-      "title": "AI slop movies are the new direct-to-video cash grabs",
-      "url": "https://www.theverge.com/entertainment/965616/ash-koosha-odysseus-the-fall-foundtain-zero-tilly-norwood",
-      "source": "The Verge",
-      "publishedAt": "2026-07-15T20:00:00Z",
-      "snippet": "This weekend, cinephiles across the world will march to their local theaters to feast their eyes on Christopher Nolan's new adaptation of The Odyssey. It's on track to rake in anywhere between $80-$10"
     }
   ],
   "trending": [
