@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-18T06:00:46Z",
+  "updated": "2026-07-18T09:19:46Z",
   "news": [
     {
       "title": "Neil Rimer thinks the AI money is coming back out",
@@ -181,52 +181,52 @@
     {
       "id": "prism-ml/Ternary-Bonsai-27B-gguf",
       "displayName": "Ternary Bonsai 27B",
-      "downloads": 200774
+      "downloads": 301893
     },
     {
       "id": "prism-ml/Bonsai-27B-gguf",
       "displayName": "Bonsai 27B",
-      "downloads": 1045182
+      "downloads": 1218815
     },
     {
       "id": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
       "displayName": "Qwythos 9B Claude Mythos 5 1M",
-      "downloads": 2096147
+      "downloads": 2112869
     },
     {
       "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
       "displayName": "Qwen3.6 35B A3B Uncensored HauhauCS Aggressive",
-      "downloads": 2295313
+      "downloads": 2190398
     },
     {
       "id": "empero-ai/Qwythos-9B-v2-GGUF",
       "displayName": "Qwythos 9B v2",
-      "downloads": 98370
+      "downloads": 103504
     },
     {
       "id": "AngelSlim/Hy3-GGUF",
       "displayName": "Hy3",
-      "downloads": 84834
+      "downloads": 100768
     },
     {
       "id": "GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-V2-Thinking-GGUF",
       "displayName": "MiniCPM5 1B Claude Opus Fable5 V2 Thinking",
-      "downloads": 6367
+      "downloads": 19279
     },
     {
       "id": "unsloth/inkling-GGUF",
       "displayName": "inkling",
-      "downloads": 5194
+      "downloads": 6461
     },
     {
       "id": "GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking-GGUF",
       "displayName": "MiniCPM5 1B Claude Opus Fable5 Thinking",
-      "downloads": 154762
+      "downloads": 172409
     },
     {
       "id": "unsloth/Qwen3.6-27B-MTP-GGUF",
       "displayName": "Qwen3.6 27B MTP",
-      "downloads": 2899367
+      "downloads": 2900201
     }
   ]
 }
