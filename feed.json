@@ -1,6 +1,13 @@
 {
-  "updated": "2026-07-19T13:07:30Z",
+  "updated": "2026-07-19T14:50:49Z",
   "news": [
+    {
+      "title": "Nonprofit Current AI is racing to build the World Wide Web of AI, free for all",
+      "url": "https://techcrunch.com/2026/07/19/nonprofit-current-ai-is-racing-to-build-the-world-wide-web-of-ai-free-for-all/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-07-19T14:00:00Z",
+      "snippet": "Current AI, a non-profit building AI that leaves no one culture behind, has made remarkable progress across devices, AI chat and more."
+    },
     {
       "title": "Dave Eggers told OpenAI staff  that ChatGPT was \u2018silencing an entire generation\u2019",
       "url": "https://www.theverge.com/ai-artificial-intelligence/967630/dave-eggers-openai-chatgpt-silencing-an-entire-generation",
@@ -142,13 +149,6 @@
       "snippet": "With this new update, Google is expanding AI Mode beyond answering questions and into completing tasks across the apps they use regularly."
     },
     {
-      "title": "Yes, you can now order DoorDash from the command line",
-      "url": "https://techcrunch.com/2026/07/16/yes-you-can-now-order-doordash-from-the-command-line/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-07-16T15:38:55Z",
-      "snippet": "DoorDash is opening a limited beta of dd-cli, a command-line tool that lets developers and AI agents search stores, build carts, and place orders from the terminal, marking another step toward softwar"
-    },
-    {
       "title": "Claude can now use your 1Password credentials for you",
       "url": "https://www.theverge.com/tech/966442/1password-anthropic-claude-browser-integration",
       "source": "The Verge",
@@ -204,14 +204,14 @@
       "downloads": 109749
     },
     {
-      "id": "empero-ai/Qwythos-9B-v2-GGUF",
-      "displayName": "Qwythos 9B v2",
-      "downloads": 105749
-    },
-    {
       "id": "GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-V2-Thinking-GGUF",
       "displayName": "MiniCPM5 1B Claude Opus Fable5 V2 Thinking",
       "downloads": 28012
+    },
+    {
+      "id": "empero-ai/Qwythos-9B-v2-GGUF",
+      "displayName": "Qwythos 9B v2",
+      "downloads": 105749
     },
     {
       "id": "unsloth/inkling-GGUF",
