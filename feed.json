@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-18T22:43:24Z",
+  "updated": "2026-07-19T02:14:33Z",
   "news": [
     {
       "title": "Dave Eggers told OpenAI staff  that ChatGPT was \u2018silencing an entire generation\u2019",
@@ -224,9 +224,9 @@
       "downloads": 172409
     },
     {
-      "id": "RavichandranJ/Dolphin3-Cyber-8B-GGUF",
-      "displayName": "Dolphin3 Cyber 8B",
-      "downloads": 56548
+      "id": "DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
+      "displayName": "Qwen3.6 27B Fable Fusion 711 Uncensored Heretic NM DAU NEO MAX MTP",
+      "downloads": 9575
     }
   ]
 }
