@@ -1,6 +1,13 @@
 {
-  "updated": "2026-07-19T18:59:46Z",
+  "updated": "2026-07-19T20:40:43Z",
   "news": [
+    {
+      "title": "Can an Apple lawsuit derail OpenAI\u2019s hardware plans?",
+      "url": "https://techcrunch.com/2026/07/19/can-an-apple-lawsuit-derail-openais-hardware-plans/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-07-19T19:24:45Z",
+      "snippet": "On the latest episode of Equity, we debate whether Apple's lawsuit will cast over OpenAi's much-discussed plans to get into hardware and go public."
+    },
     {
       "title": "I hate that I don\u2019t hate this song made with Suno",
       "url": "https://www.theverge.com/entertainment/967678/1010benja-semiramis-dream-suno-ai-music",
@@ -133,13 +140,6 @@
       "source": "TechCrunch",
       "publishedAt": "2026-07-16T18:32:54Z",
       "snippet": "Google is adding personalized AI avatars to Vids that let users create videos starring a digital version of themselves, alongside Gemini Omni-powered tools for generating and editing videos from promp"
-    },
-    {
-      "title": "Roblox launches an AI-powered game-creation feature in its mobile app",
-      "url": "https://techcrunch.com/2026/07/16/roblox-launches-an-ai-powered-game-creation-feature-in-its-mobile-app/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-07-16T18:22:06Z",
-      "snippet": "Roblox's new \"Build\" feature lets users generate basic games using a single text prompt."
     },
     {
       "title": "New York governor says she&#8217;s using AI to analyze &#8216;every single rule&#8217; in the state",
