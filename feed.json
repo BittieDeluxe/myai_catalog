@@ -1,6 +1,13 @@
 {
-  "updated": "2026-07-19T16:53:15Z",
+  "updated": "2026-07-19T18:59:46Z",
   "news": [
+    {
+      "title": "I hate that I don\u2019t hate this song made with Suno",
+      "url": "https://www.theverge.com/entertainment/967678/1010benja-semiramis-dream-suno-ai-music",
+      "source": "The Verge",
+      "publishedAt": "2026-07-19T17:35:54Z",
+      "snippet": "I would never go so far as to say there's no place for AI in music (I'm a fan of Holly Herndon, after all). But I generally find music made with generative AI to be offensively boring, especially the "
+    },
     {
       "title": "\u2018Odyssey\u2019 director Christopher Nolan calls AI an obvious \u2018Trojan horse\u2019",
       "url": "https://techcrunch.com/2026/07/19/odyssey-director-christopher-nolan-calls-ai-an-obvious-trojan-horse/",
@@ -168,13 +175,6 @@
       "source": "The Verge",
       "publishedAt": "2026-07-16T11:00:00Z",
       "snippet": "I stood before a hulking glass and brick structure in the heart of Fort Worth, Texas. Thousands gathered inside to see what had been billed as \"the future of policing in the digital age.\" As press, I "
-    },
-    {
-      "title": "xAI sues a man for using Grok to generate CSAM &#8216;deepfakes&#8217;",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/966293/xai-grok-user-lawsuit-csam",
-      "source": "The Verge",
-      "publishedAt": "2026-07-15T21:33:20Z",
-      "snippet": "The Elon Musk-owned xAI is suing a South Carolina man who allegedly used the company's Grok AI chatbot to generate child sexual abuse material (CSAM). In a lawsuit reported earlier by Reuters, xAI cla"
     }
   ],
   "trending": [
