@@ -1,6 +1,13 @@
 {
-  "updated": "2026-07-19T14:50:49Z",
+  "updated": "2026-07-19T16:53:15Z",
   "news": [
+    {
+      "title": "\u2018Odyssey\u2019 director Christopher Nolan calls AI an obvious \u2018Trojan horse\u2019",
+      "url": "https://techcrunch.com/2026/07/19/odyssey-director-christopher-nolan-calls-ai-an-obvious-trojan-horse/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-07-19T14:52:08Z",
+      "snippet": "\"Everybody knows the Greeks are inside.\""
+    },
     {
       "title": "Nonprofit Current AI is racing to build the World Wide Web of AI, free for all",
       "url": "https://techcrunch.com/2026/07/19/nonprofit-current-ai-is-racing-to-build-the-world-wide-web-of-ai-free-for-all/",
@@ -140,13 +147,6 @@
       "source": "The Verge",
       "publishedAt": "2026-07-16T16:00:00Z",
       "snippet": "Google is giving its AI note-taking app a new name. The company announced on Thursday that NotebookLM is becoming Gemini Notebook, but will remain a standalone app even as it integrates more deeply ac"
-    },
-    {
-      "title": "Google\u2019s AI Mode now lets you link and interact with select apps",
-      "url": "https://techcrunch.com/2026/07/16/googles-ai-mode-now-lets-you-link-and-interact-with-select-apps/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-07-16T16:00:00Z",
-      "snippet": "With this new update, Google is expanding AI Mode beyond answering questions and into completing tasks across the apps they use regularly."
     },
     {
       "title": "Claude can now use your 1Password credentials for you",
