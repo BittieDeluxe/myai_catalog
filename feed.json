@@ -1,6 +1,27 @@
 {
-  "updated": "2026-07-20T21:07:11Z",
+  "updated": "2026-07-20T22:55:11Z",
   "news": [
+    {
+      "title": "Trump\u2019s latest AI czar has already resigned",
+      "url": "https://techcrunch.com/2026/07/20/trumps-latest-ai-czar-has-already-resigned/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-07-20T22:21:04Z",
+      "snippet": "The director role for the Center for AI Standards and Innovation (CAISI) has become a revolving door since David Sacks left his position as czar."
+    },
+    {
+      "title": "Here are the 30,000 songs Sony is suing Udio&#8217;s AI music generator over",
+      "url": "https://www.theverge.com/tech/968375/sony-udio-lawsuit-songs-ai-copyright",
+      "source": "The Verge",
+      "publishedAt": "2026-07-20T22:19:12Z",
+      "snippet": "Sony Music Entertainment has filed another lawsuit against Udio, accusing the AI music generator of infringing the copyright of more than 30,000 of its songs, ranging from Elvis Presley's Hound Dog to"
+    },
+    {
+      "title": "Google is working on a new AI chip designed to make Gemini more efficient",
+      "url": "https://techcrunch.com/2026/07/20/google-is-working-on-a-new-ai-chip-designed-to-make-gemini-more-efficient/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-07-20T21:21:15Z",
+      "snippet": "Alphabet, Google's parent company, is reportedly working on a new chip designed to make its Gemini models run much more efficiently."
+    },
     {
       "title": "SpaceX in your index fund, explained",
       "url": "https://www.theverge.com/business/968257/spacex-in-your-index-fund-explained",
@@ -13,7 +34,7 @@
       "url": "https://techcrunch.com/2026/07/20/ais-most-important-protocol-is-getting-a-little-bit-easier-to-use/",
       "source": "TechCrunch",
       "publishedAt": "2026-07-20T20:50:40Z",
-      "snippet": "The Model Context Protocol (MCP) is one of the basic building blocks of AI interoperability, giving AI models a secure way to access external data sources and services. It&#8217;s the plumbing that le"
+      "snippet": "Under the new system, the protocol will take a looser, \"stateless\" approach to session IDs on the server side, similar to how most ordinary websites already work."
     },
     {
       "title": "X relaunches a rebuilt Android app after year-long effort",
@@ -135,20 +156,6 @@
       "snippet": "Databricks has remade its image into an AI company and has published research on the cost savings of open-weight AI models for coding."
     },
     {
-      "title": "The Zoom hack that says, \u2018Don\u2019t record me\u2019",
-      "url": "https://techcrunch.com/2026/07/17/the-zoom-hack-that-says-dont-record-me/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-07-17T21:20:47Z",
-      "snippet": "If every meeting, watercooler conversation, and date gets transcribed and summarized, who's actually reading any of it?"
-    },
-    {
-      "title": "Agility Robotics plants its flag in Tesla\u2019s backyard",
-      "url": "https://techcrunch.com/2026/07/17/agility-robotics-plants-its-flag-in-teslas-backyard/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-07-17T20:19:49Z",
-      "snippet": "Agility is opening a new training center for its Digit robots in Fremont, California."
-    },
-    {
       "title": "TikTok is testing an AI likeness detection tool",
       "url": "https://www.theverge.com/tech/967486/tiktok-ai-likeness-detection-tool",
       "source": "The Verge",
@@ -168,13 +175,6 @@
       "source": "The Verge",
       "publishedAt": "2026-07-16T17:58:37Z",
       "snippet": "New York Governor Kathy Hochul might have just signed a moratorium on new AI data centers in the state, but she's not against using the technology herself. During an interview with Bloomberg's Odd Lot"
-    },
-    {
-      "title": "Google is renaming NotebookLM to Gemini Notebook",
-      "url": "https://www.theverge.com/tech/966112/google-gemini-notebook-notebooklm",
-      "source": "The Verge",
-      "publishedAt": "2026-07-16T16:00:00Z",
-      "snippet": "Google is giving its AI note-taking app a new name. The company announced on Thursday that NotebookLM is becoming Gemini Notebook, but will remain a standalone app even as it integrates more deeply ac"
     }
   ],
   "trending": [
