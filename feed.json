@@ -1,6 +1,13 @@
 {
-  "updated": "2026-07-20T06:41:38Z",
+  "updated": "2026-07-20T10:46:58Z",
   "news": [
+    {
+      "title": "China delivers a one-two punch to America\u2019s AI dominance",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/967781/chinese-ai-models-open-source-moonshot-kimi-k3-alibaba-qwen",
+      "source": "The Verge",
+      "publishedAt": "2026-07-20T10:16:33Z",
+      "snippet": "China's leading AI companies are ramping up the pressure on Silicon Valley, as Moonshot and Alibaba unveiled models they claim can go toe-to-toe with the best from OpenAI and Anthropic at a fraction o"
+    },
     {
       "title": "What to watch for after Jensen Huang\u2019s Japan visit",
       "url": "https://techcrunch.com/2026/07/19/what-to-watch-for-after-jensen-huangs-japan-visit/",
@@ -168,13 +175,6 @@
       "source": "The Verge",
       "publishedAt": "2026-07-16T12:06:51Z",
       "snippet": "Google must give rival AI assistants and search engines greater access to key parts of Android and Google Search after the European Union ordered the company to comply with the bloc's digital antitrus"
-    },
-    {
-      "title": "Computer cops",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/965066/ai-police-cops",
-      "source": "The Verge",
-      "publishedAt": "2026-07-16T11:00:00Z",
-      "snippet": "I stood before a hulking glass and brick structure in the heart of Fort Worth, Texas. Thousands gathered inside to see what had been billed as \"the future of policing in the digital age.\" As press, I "
     }
   ],
   "trending": [
@@ -191,12 +191,12 @@
     {
       "id": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
       "displayName": "Qwythos 9B Claude Mythos 5 1M",
-      "downloads": 2118995
+      "downloads": 2117323
     },
     {
       "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
       "displayName": "Qwen3.6 35B A3B Uncensored HauhauCS Aggressive",
-      "downloads": 2084530
+      "downloads": 2007025
     },
     {
       "id": "AngelSlim/Hy3-GGUF",
@@ -204,14 +204,14 @@
       "downloads": 109749
     },
     {
-      "id": "GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-V2-Thinking-GGUF",
-      "displayName": "MiniCPM5 1B Claude Opus Fable5 V2 Thinking",
-      "downloads": 28012
-    },
-    {
       "id": "DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
       "displayName": "Qwen3.6 27B Fable Fusion 711 Uncensored Heretic NM DAU NEO MAX MTP",
       "downloads": 16719
+    },
+    {
+      "id": "GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-V2-Thinking-GGUF",
+      "displayName": "MiniCPM5 1B Claude Opus Fable5 V2 Thinking",
+      "downloads": 28012
     },
     {
       "id": "unsloth/inkling-GGUF",
