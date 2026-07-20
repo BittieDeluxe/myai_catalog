@@ -1,6 +1,20 @@
 {
-  "updated": "2026-07-20T19:42:29Z",
+  "updated": "2026-07-20T21:07:11Z",
   "news": [
+    {
+      "title": "SpaceX in your index fund, explained",
+      "url": "https://www.theverge.com/business/968257/spacex-in-your-index-fund-explained",
+      "source": "The Verge",
+      "publishedAt": "2026-07-20T21:00:00Z",
+      "snippet": "Index funds are touted as one of the safest ways to invest. Rather than picking and choosing individual stocks, index funds let you bet on the market as a whole. So what happens when a company like Sp"
+    },
+    {
+      "title": "AI\u2019s most important protocol is getting a little bit easier to use",
+      "url": "https://techcrunch.com/2026/07/20/ais-most-important-protocol-is-getting-a-little-bit-easier-to-use/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-07-20T20:50:40Z",
+      "snippet": "The Model Context Protocol (MCP) is one of the basic building blocks of AI interoperability, giving AI models a secure way to access external data sources and services. It&#8217;s the plumbing that le"
+    },
     {
       "title": "X relaunches a rebuilt Android app after year-long effort",
       "url": "https://techcrunch.com/2026/07/20/x-relaunches-a-rebuilt-android-app-after-year-long-effort/",
@@ -135,13 +149,6 @@
       "snippet": "Agility is opening a new training center for its Digit robots in Fremont, California."
     },
     {
-      "title": "AI-driven memory crunch jolts India\u2019s smartphone market",
-      "url": "https://techcrunch.com/2026/07/17/ai-driven-memory-crunch-jolts-indias-smartphone-market/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-07-17T20:09:27Z",
-      "snippet": "India's smartphone slowdown highlights how the AI boom is reshaping consumer electronics, from pricing and demand to corporate strategy."
-    },
-    {
       "title": "TikTok is testing an AI likeness detection tool",
       "url": "https://www.theverge.com/tech/967486/tiktok-ai-likeness-detection-tool",
       "source": "The Verge",
@@ -168,13 +175,6 @@
       "source": "The Verge",
       "publishedAt": "2026-07-16T16:00:00Z",
       "snippet": "Google is giving its AI note-taking app a new name. The company announced on Thursday that NotebookLM is becoming Gemini Notebook, but will remain a standalone app even as it integrates more deeply ac"
-    },
-    {
-      "title": "Claude can now use your 1Password credentials for you",
-      "url": "https://www.theverge.com/tech/966442/1password-anthropic-claude-browser-integration",
-      "source": "The Verge",
-      "publishedAt": "2026-07-16T13:00:00Z",
-      "snippet": "1Password has launched a new browser integration for Claude that allows the Anthropic chatbot to access stored security credentials like usernames and passwords. The 1Password for Claude feature means"
     }
   ],
   "trending": [
