@@ -1,12 +1,33 @@
 {
-  "updated": "2026-07-20T17:56:31Z",
+  "updated": "2026-07-20T19:42:29Z",
   "news": [
+    {
+      "title": "X relaunches a rebuilt Android app after year-long effort",
+      "url": "https://techcrunch.com/2026/07/20/x-relaunches-a-rebuilt-android-app-after-year-long-effort/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-07-20T19:37:39Z",
+      "snippet": "X says the rebuilt version of its Android app is now available globally."
+    },
+    {
+      "title": "OpenAI is scared of open-weight models. Should the US be?",
+      "url": "https://techcrunch.com/2026/07/20/openai-is-scared-of-open-weight-models-should-the-us-be/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-07-20T19:33:25Z",
+      "snippet": "Talk of banning Chinese-made open-weight LLMs reveals the challenge of  turning AI into a business."
+    },
     {
       "title": "Adobe\u2019s \u2018natural look\u2019 camera app embraces generative AI",
       "url": "https://www.theverge.com/tech/967791/adobe-indigo-camera-app-ai-playground-update",
       "source": "The Verge",
       "publishedAt": "2026-07-20T16:00:00Z",
       "snippet": "Adobe's experimental camera app has taken an unexpected turn. After Project Indigo was launched last year to provide a \"more natural (SLR-like) look\" for iPhone photography, the Indigo camera app is n"
+    },
+    {
+      "title": "Adobe camera app\u2019s new feature will critique your photos using AI",
+      "url": "https://techcrunch.com/2026/07/20/adobe-camera-apps-new-feature-will-critique-your-photos-using-ai/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-07-20T15:45:00Z",
+      "snippet": "Adobe's Project Indigo can now remove all kinds of backgrounds from photos you snap using the app."
     },
     {
       "title": "YouTube clarifies policies around AI slop and upsetting videos",
@@ -128,32 +149,11 @@
       "snippet": "TikTok is starting to test an opt-in tool that scans for AI likenesses and lets creators report them to the company, as spotted by social media consultant Matt Navarra. The tool is initially being tes"
     },
     {
-      "title": "How Apple\u2019s big lawsuit could disrupt OpenAI\u2019s IPO plans",
-      "url": "https://techcrunch.com/video/how-apples-big-lawsuit-could-disrupt-openais-ipo-plans/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-07-17T17:45:46Z",
-      "snippet": "Apple&#160;filed a trade secrets&#160;lawsuit against OpenAI&#160;last Friday, and&#160;it&#8217;s&#160;not messing around. The complaint alleges a pattern of misconduct reaching all the way up to Ope"
-    },
-    {
       "title": "Apple\u2019s plot to crush OpenAI",
       "url": "https://www.theverge.com/podcast/967244/apple-openai-lawsuit-vergecast",
       "source": "The Verge",
       "publishedAt": "2026-07-17T17:41:32Z",
       "snippet": "Apple is suing OpenAI. The complaint is readable and intense, as these things often are, though many experts seem to think many of the allegations are just the ways things are done. So what does Apple"
-    },
-    {
-      "title": "Patreon stops asking AI bots not to scrape \u2014 and starts blocking them",
-      "url": "https://techcrunch.com/2026/07/17/patreon-stops-asking-ai-bots-not-to-scrape-and-starts-blocking-them/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-07-17T15:21:17Z",
-      "snippet": "Patreon is strengthening its defenses against AI scraping by working with Cloudflare to block bots that train AI models on creators\u2019 content without permission. The move marks a shift away from relyin"
-    },
-    {
-      "title": "Apple\u2019s lawsuit couldn\u2019t come at a worse time for OpenAI",
-      "url": "https://techcrunch.com/podcast/apples-lawsuit-couldnt-come-at-a-worse-time-for-openai/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-07-17T14:00:00Z",
-      "snippet": "Apple&#160;filed a trade secrets&#160;lawsuit against OpenAI&#160;last Friday, and&#160;it&#8217;s&#160;not messing around. The complaint alleges a pattern of misconduct reaching all the way up to Ope"
     },
     {
       "title": "New York governor says she&#8217;s using AI to analyze &#8216;every single rule&#8217; in the state",
