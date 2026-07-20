@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-20T02:34:48Z",
+  "updated": "2026-07-20T06:41:38Z",
   "news": [
     {
       "title": "What to watch for after Jensen Huang\u2019s Japan visit",
@@ -214,19 +214,19 @@
       "downloads": 16719
     },
     {
-      "id": "empero-ai/Qwythos-9B-v2-GGUF",
-      "displayName": "Qwythos 9B v2",
-      "downloads": 105749
-    },
-    {
       "id": "unsloth/inkling-GGUF",
       "displayName": "inkling",
       "downloads": 6771
     },
     {
-      "id": "GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking-GGUF",
-      "displayName": "MiniCPM5 1B Claude Opus Fable5 Thinking",
-      "downloads": 178511
+      "id": "empero-ai/Qwythos-9B-v2-GGUF",
+      "displayName": "Qwythos 9B v2",
+      "downloads": 105749
+    },
+    {
+      "id": "LuffyTheFox/Qwen3.6-35B-A3B-Uncensored-Genesis-Hermes-V3-GGUF",
+      "displayName": "Qwen3.6 35B A3B Uncensored Genesis Hermes V3",
+      "downloads": 15148
     }
   ]
 }
