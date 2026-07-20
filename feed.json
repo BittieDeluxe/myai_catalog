@@ -1,6 +1,13 @@
 {
-  "updated": "2026-07-20T15:48:19Z",
+  "updated": "2026-07-20T17:56:31Z",
   "news": [
+    {
+      "title": "Adobe\u2019s \u2018natural look\u2019 camera app embraces generative AI",
+      "url": "https://www.theverge.com/tech/967791/adobe-indigo-camera-app-ai-playground-update",
+      "source": "The Verge",
+      "publishedAt": "2026-07-20T16:00:00Z",
+      "snippet": "Adobe's experimental camera app has taken an unexpected turn. After Project Indigo was launched last year to provide a \"more natural (SLR-like) look\" for iPhone photography, the Indigo camera app is n"
+    },
     {
       "title": "YouTube clarifies policies around AI slop and upsetting videos",
       "url": "https://techcrunch.com/2026/07/20/youtube-clarifies-policies-around-ai-slop-and-upsetting-videos/",
@@ -90,7 +97,7 @@
       "url": "https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/",
       "source": "TechCrunch",
       "publishedAt": "2026-07-17T22:12:56Z",
-      "snippet": "Databricks has remade its image into an AI company and has published research on the cost savings of open weight AI models for coding."
+      "snippet": "Databricks has remade its image into an AI company and has published research on the cost savings of open-weight AI models for coding."
     },
     {
       "title": "The Zoom hack that says, \u2018Don\u2019t record me\u2019",
@@ -168,13 +175,6 @@
       "source": "The Verge",
       "publishedAt": "2026-07-16T13:00:00Z",
       "snippet": "1Password has launched a new browser integration for Claude that allows the Anthropic chatbot to access stored security credentials like usernames and passwords. The 1Password for Claude feature means"
-    },
-    {
-      "title": "Google ordered to open Android and Search to rivals in Europe",
-      "url": "https://www.theverge.com/policy/966438/eu-google-android-ai-interoperability-search-data-dma",
-      "source": "The Verge",
-      "publishedAt": "2026-07-16T12:06:51Z",
-      "snippet": "Google must give rival AI assistants and search engines greater access to key parts of Android and Google Search after the European Union ordered the company to comply with the bloc's digital antitrus"
     }
   ],
   "trending": [
