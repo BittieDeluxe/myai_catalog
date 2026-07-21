@@ -1,6 +1,20 @@
 {
-  "updated": "2026-07-21T21:02:52Z",
+  "updated": "2026-07-21T22:51:20Z",
   "news": [
+    {
+      "title": "Neill Blomkamp\u2019s new zombie AI \u2018film\u2019 is just slop warmed over",
+      "url": "https://www.theverge.com/entertainment/968703/neill-blomkamps-nightborne-barley-studios-seedance",
+      "source": "The Verge",
+      "publishedAt": "2026-07-21T22:06:43Z",
+      "snippet": "On Monday, District 9 and Gran Turismo director Neill Blomkamp unveiled his latest project: a 13-minute sci-fi short titled Nightborne that's loosely based on Peter Watts' 2014 novel Echopraxia. The s"
+    },
+    {
+      "title": "OpenAI says it accidentally hacked Hugging Face with a new AI system",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/968988/openai-hugging-face-hack-ai",
+      "source": "The Verge",
+      "publishedAt": "2026-07-21T21:48:54Z",
+      "snippet": "OpenAI says its AI models mistakenly breached open-source AI platform Hugging Face during internal testing. In a blog post on Tuesday, OpenAI writes that GPT-5.6 Sol and \"an even more capable pre-rele"
+    },
     {
       "title": "OpenAI says Hugging Face was breached by its own pre-release models",
       "url": "https://techcrunch.com/2026/07/21/openai-says-hugging-face-was-breached-by-its-own-pre-release-models/",
@@ -161,20 +175,6 @@
       "source": "TechCrunch",
       "publishedAt": "2026-07-20T15:45:00Z",
       "snippet": "Adobe's Project Indigo can now remove all kinds of backgrounds from photos you snap using the app."
-    },
-    {
-      "title": "China delivers a one-two punch to America\u2019s AI dominance",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/967781/chinese-ai-models-open-source-moonshot-kimi-k3-alibaba-qwen",
-      "source": "The Verge",
-      "publishedAt": "2026-07-20T10:16:33Z",
-      "snippet": "China's leading AI companies are ramping up the pressure on Silicon Valley, as Moonshot and Alibaba unveiled models they claim can go toe-to-toe with the best from OpenAI and Anthropic at a fraction o"
-    },
-    {
-      "title": "I hate that I don\u2019t hate this song made with Suno",
-      "url": "https://www.theverge.com/entertainment/967678/1010benja-semiramis-dream-suno-ai-music",
-      "source": "The Verge",
-      "publishedAt": "2026-07-19T17:35:54Z",
-      "snippet": "I would never go so far as to say there's no place for AI in music (I'm a fan of Holly Herndon, after all). But I generally find music made with generative AI to be offensively boring, especially the "
     }
   ],
   "trending": [
@@ -194,14 +194,14 @@
       "downloads": 62842
     },
     {
-      "id": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
-      "displayName": "Qwythos 9B Claude Mythos 5 1M",
-      "downloads": 2133420
-    },
-    {
       "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
       "displayName": "Qwen3.6 35B A3B Uncensored HauhauCS Aggressive",
       "downloads": 1997690
+    },
+    {
+      "id": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+      "displayName": "Qwythos 9B Claude Mythos 5 1M",
+      "downloads": 2133420
     },
     {
       "id": "GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-V2-Thinking-GGUF",
