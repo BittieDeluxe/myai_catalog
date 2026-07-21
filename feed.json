@@ -1,12 +1,26 @@
 {
-  "updated": "2026-07-21T13:28:52Z",
+  "updated": "2026-07-21T15:39:36Z",
   "news": [
+    {
+      "title": "US threatens sanctions against Chinese AI models over IP theft",
+      "url": "https://techcrunch.com/2026/07/21/us-threatens-sanctions-against-chinese-ai-models-over-ip-theft/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-07-21T15:37:05Z",
+      "snippet": "Treasury Secretary Scott Bessent said the U.S. could sanction Chinese open AI models over alleged IP theft, expanding the Trump administration's campaign to slow China's AI advances."
+    },
+    {
+      "title": "Google launches a cheaper alternative to large AI security models like Mythos",
+      "url": "https://www.theverge.com/tech/968572/google-gemini-flash-cyber-ai-security-model",
+      "source": "The Verge",
+      "publishedAt": "2026-07-21T15:00:00Z",
+      "snippet": "Google is launching Gemini 3.6 Flash alongside a new security model dedicated to quickly finding and patching security vulnerabilities. In a blog post on Tuesday, Google describes Gemini 3.5 Flash Cyb"
+    },
     {
       "title": "Music streamer Deezer says more than 50% of daily uploads are AI-generated",
       "url": "https://techcrunch.com/2026/07/21/music-streamer-deezer-says-more-than-50-of-daily-uploads-are-ai-generated/",
       "source": "TechCrunch",
       "publishedAt": "2026-07-21T13:27:42Z",
-      "snippet": "Deezer said more than 90,000 AI-generated tracks were uploaded daily on the platform in June"
+      "snippet": "Deezer said more than 90,000 AI-generated tracks were uploaded daily on the platform in June."
     },
     {
       "title": "Halliday\u2019s latest smart glasses feature a much-improved display",
@@ -23,7 +37,7 @@
       "snippet": "Last week, two Chinese AI companies unveiled models they say can credibly compete with the best systems from OpenAI and Anthropic. The response was swift and predictable. Markets wobbled, commentators"
     },
     {
-      "title": "Gritt exits stealth with $34 million for robots to build solar plants \u2014 then, everything else",
+      "title": "Gritt exits stealth with $32 million for robots to build solar plants \u2014 then, everything else",
       "url": "https://techcrunch.com/2026/07/21/gritt-exits-stealth-with-34-million-for-robots-to-build-solar-plants-then-everything-else/",
       "source": "TechCrunch",
       "publishedAt": "2026-07-21T10:00:00Z",
@@ -156,25 +170,11 @@
       "snippet": "Last year, Sam Altman invited author Dave Eggers to give a talk to around 200 OpenAI staffers. The man has written countless novels, screenplays, pieces of journalism, started McSweeney's, and founded"
     },
     {
-      "title": "Kimi: Threat or menace?",
-      "url": "https://techcrunch.com/2026/07/18/kimi-threat-or-menace/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-07-18T18:51:07Z",
-      "snippet": "Chinese company Moonshot AI released a new version of its Kimi model this week, prompting concern about \"full AI communism.\""
-    },
-    {
       "title": "The apps, gadgets, and tools every reader needs",
       "url": "https://www.theverge.com/tech/967544/best-apps-gadgets-reading-installer",
       "source": "The Verge",
       "publishedAt": "2026-07-18T12:00:00Z",
       "snippet": "Hi, friends! Welcome to Installer No. 136, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, hope your neighborhood isn't as smoky as mine, and also you can read "
-    },
-    {
-      "title": "TikTok is testing an AI likeness detection tool",
-      "url": "https://www.theverge.com/tech/967486/tiktok-ai-likeness-detection-tool",
-      "source": "The Verge",
-      "publishedAt": "2026-07-17T19:34:30Z",
-      "snippet": "TikTok is starting to test an opt-in tool that scans for AI likenesses and lets creators report them to the company, as spotted by social media consultant Matt Navarra. The tool is initially being tes"
     }
   ],
   "trending": [
@@ -219,14 +219,14 @@
       "downloads": 7377
     },
     {
-      "id": "empero-ai/Qwythos-9B-v2-GGUF",
-      "displayName": "Qwythos 9B v2",
-      "downloads": 125726
-    },
-    {
       "id": "LuffyTheFox/Qwen3.6-35B-A3B-Uncensored-Genesis-Hermes-V3-GGUF",
       "displayName": "Qwen3.6 35B A3B Uncensored Genesis Hermes V3",
       "downloads": 19140
+    },
+    {
+      "id": "empero-ai/Qwythos-9B-v2-GGUF",
+      "displayName": "Qwythos 9B v2",
+      "downloads": 125726
     }
   ]
 }
