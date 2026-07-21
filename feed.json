@@ -1,6 +1,13 @@
 {
-  "updated": "2026-07-21T17:12:34Z",
+  "updated": "2026-07-21T19:13:54Z",
   "news": [
+    {
+      "title": "Data centers expected to use 4x more electricity by 2035",
+      "url": "https://techcrunch.com/2026/07/21/data-centers-expected-to-use-4x-more-electricity-by-2035/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-07-21T18:06:38Z",
+      "snippet": "New data centers built through 2033 could consume as much electricity as India uses today."
+    },
     {
       "title": "Google releases three new Gemini models \u2014 but no 3.5 Pro",
       "url": "https://techcrunch.com/2026/07/21/google-releases-three-new-gemini-models-but-no-3-5-pro/",
@@ -163,13 +170,6 @@
       "snippet": "I would never go so far as to say there's no place for AI in music (I'm a fan of Holly Herndon, after all). But I generally find music made with generative AI to be offensively boring, especially the "
     },
     {
-      "title": "\u2018Odyssey\u2019 director Christopher Nolan calls AI an obvious \u2018Trojan horse\u2019",
-      "url": "https://techcrunch.com/2026/07/19/odyssey-director-christopher-nolan-calls-ai-an-obvious-trojan-horse/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-07-19T14:52:08Z",
-      "snippet": "\"Everybody knows the Greeks are inside.\""
-    },
-    {
       "title": "Dave Eggers told OpenAI staff  that ChatGPT was \u2018silencing an entire generation\u2019",
       "url": "https://www.theverge.com/ai-artificial-intelligence/967630/dave-eggers-openai-chatgpt-silencing-an-entire-generation",
       "source": "The Verge",
@@ -209,14 +209,14 @@
       "downloads": 51746
     },
     {
-      "id": "AngelSlim/Hy3-GGUF",
-      "displayName": "Hy3",
-      "downloads": 145102
-    },
-    {
       "id": "unsloth/inkling-GGUF",
       "displayName": "inkling",
       "downloads": 7377
+    },
+    {
+      "id": "AngelSlim/Hy3-GGUF",
+      "displayName": "Hy3",
+      "downloads": 145102
     },
     {
       "id": "LuffyTheFox/Qwen3.6-35B-A3B-Uncensored-Genesis-Hermes-V3-GGUF",
