@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-21T06:24:13Z",
+  "updated": "2026-07-21T10:21:21Z",
   "news": [
     {
       "title": "Anthropic\u2019s landmark $1.5B copyright settlement is approved",
@@ -181,52 +181,52 @@
     {
       "id": "prism-ml/Ternary-Bonsai-27B-gguf",
       "displayName": "Ternary Bonsai 27B",
-      "downloads": 338945
+      "downloads": 432196
     },
     {
       "id": "prism-ml/Bonsai-27B-gguf",
       "displayName": "Bonsai 27B",
-      "downloads": 1262894
+      "downloads": 1404962
     },
     {
       "id": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
       "displayName": "Qwythos 9B Claude Mythos 5 1M",
-      "downloads": 2117323
-    },
-    {
-      "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
-      "displayName": "Qwen3.6 35B A3B Uncensored HauhauCS Aggressive",
-      "downloads": 2007025
+      "downloads": 2133420
     },
     {
       "id": "DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
       "displayName": "Qwen3.6 27B Fable Fusion 711 Uncensored Heretic NM DAU NEO MAX MTP",
-      "downloads": 16719
+      "downloads": 62842
+    },
+    {
+      "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
+      "displayName": "Qwen3.6 35B A3B Uncensored HauhauCS Aggressive",
+      "downloads": 1997690
     },
     {
       "id": "AngelSlim/Hy3-GGUF",
       "displayName": "Hy3",
-      "downloads": 109749
+      "downloads": 145102
     },
     {
       "id": "GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-V2-Thinking-GGUF",
       "displayName": "MiniCPM5 1B Claude Opus Fable5 V2 Thinking",
-      "downloads": 28012
+      "downloads": 51746
     },
     {
       "id": "unsloth/inkling-GGUF",
       "displayName": "inkling",
-      "downloads": 6771
+      "downloads": 7377
     },
     {
       "id": "empero-ai/Qwythos-9B-v2-GGUF",
       "displayName": "Qwythos 9B v2",
-      "downloads": 105749
+      "downloads": 125726
     },
     {
       "id": "LuffyTheFox/Qwen3.6-35B-A3B-Uncensored-Genesis-Hermes-V3-GGUF",
       "displayName": "Qwen3.6 35B A3B Uncensored Genesis Hermes V3",
-      "downloads": 15148
+      "downloads": 19140
     }
   ]
 }
