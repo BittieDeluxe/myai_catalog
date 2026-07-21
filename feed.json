@@ -1,6 +1,20 @@
 {
-  "updated": "2026-07-21T15:39:36Z",
+  "updated": "2026-07-21T17:12:34Z",
   "news": [
+    {
+      "title": "Google releases three new Gemini models \u2014 but no 3.5 Pro",
+      "url": "https://techcrunch.com/2026/07/21/google-releases-three-new-gemini-models-but-no-3-5-pro/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-07-21T17:11:50Z",
+      "snippet": "Google released Gemini 3.6 Flash, 3.5 Flash-Lite, and Flash Cyber, but the continued absence of Gemini 3.5 Pro raises fresh questions about its AI strategy."
+    },
+    {
+      "title": "Anthropic\u2019s $1.5 billion book piracy settlement approved by judge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/968724/anthropic-authors-settlement-ai-copyright-approved",
+      "source": "The Verge",
+      "publishedAt": "2026-07-21T16:53:37Z",
+      "snippet": "A federal judge has signed off on Anthropic's $1.5 billion class action settlement with authors who accused the company of training its AI models on copyrighted books, as reported earlier by Reuters. "
+    },
     {
       "title": "US threatens sanctions against Chinese AI models over IP theft",
       "url": "https://techcrunch.com/2026/07/21/us-threatens-sanctions-against-chinese-ai-models-over-ip-theft/",
@@ -156,25 +170,11 @@
       "snippet": "\"Everybody knows the Greeks are inside.\""
     },
     {
-      "title": "Nonprofit Current AI is racing to build the World Wide Web of AI, free for all",
-      "url": "https://techcrunch.com/2026/07/19/nonprofit-current-ai-is-racing-to-build-the-world-wide-web-of-ai-free-for-all/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-07-19T14:00:00Z",
-      "snippet": "Current AI, a nonprofit building AI that leaves no one culture behind, has made remarkable progress across devices, AI chat, and more."
-    },
-    {
       "title": "Dave Eggers told OpenAI staff  that ChatGPT was \u2018silencing an entire generation\u2019",
       "url": "https://www.theverge.com/ai-artificial-intelligence/967630/dave-eggers-openai-chatgpt-silencing-an-entire-generation",
       "source": "The Verge",
       "publishedAt": "2026-07-18T20:54:42Z",
       "snippet": "Last year, Sam Altman invited author Dave Eggers to give a talk to around 200 OpenAI staffers. The man has written countless novels, screenplays, pieces of journalism, started McSweeney's, and founded"
-    },
-    {
-      "title": "The apps, gadgets, and tools every reader needs",
-      "url": "https://www.theverge.com/tech/967544/best-apps-gadgets-reading-installer",
-      "source": "The Verge",
-      "publishedAt": "2026-07-18T12:00:00Z",
-      "snippet": "Hi, friends! Welcome to Installer No. 136, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, hope your neighborhood isn't as smoky as mine, and also you can read "
     }
   ],
   "trending": [
@@ -189,14 +189,14 @@
       "downloads": 1404962
     },
     {
-      "id": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
-      "displayName": "Qwythos 9B Claude Mythos 5 1M",
-      "downloads": 2133420
-    },
-    {
       "id": "DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
       "displayName": "Qwen3.6 27B Fable Fusion 711 Uncensored Heretic NM DAU NEO MAX MTP",
       "downloads": 62842
+    },
+    {
+      "id": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+      "displayName": "Qwythos 9B Claude Mythos 5 1M",
+      "downloads": 2133420
     },
     {
       "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
