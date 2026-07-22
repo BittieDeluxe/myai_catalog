@@ -1,6 +1,34 @@
 {
-  "updated": "2026-07-22T15:30:03Z",
+  "updated": "2026-07-22T17:12:17Z",
   "news": [
+    {
+      "title": "Here&#8217;s what Samsung&#8217;s smart glasses actually look like",
+      "url": "https://www.theverge.com/tech/969382/samsung-google-smart-glasses-gentle-monster-warby-parker",
+      "source": "The Verge",
+      "publishedAt": "2026-07-22T16:35:34Z",
+      "snippet": "Samsung has given us our first chance to check out its upcoming smart glasses in person, revealing two new designs and the first specs in the process, including an impressive 9-hour battery life. The "
+    },
+    {
+      "title": "Arcee, a US open source AI lab, says Chinese models are not inherently dangerous",
+      "url": "https://techcrunch.com/2026/07/22/arcee-a-us-open-source-ai-lab-says-chinese-models-are-not-inherently-dangerous/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-07-22T16:24:08Z",
+      "snippet": "As Chinese AI models grow in capability and popularity among U.S. companies, the arguing over what should be done about them has reached a fever pitch."
+    },
+    {
+      "title": "Substack\u2019s new tool tells you who\u2019s been writing their newsletters with AI",
+      "url": "https://techcrunch.com/2026/07/22/substacks-new-tool-tells-you-whos-been-writing-their-newsletters-with-ai/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-07-22T16:23:09Z",
+      "snippet": "Substack is giving readers a way to estimate how much of a newsletter was written by AI, signaling a broader shift toward transparency around AI-assisted content."
+    },
+    {
+      "title": "OpenAI\u2019s AI spending spree has ballooned to $750B",
+      "url": "https://techcrunch.com/2026/07/22/openais-ai-spending-spree-has-ballooned-to-750b/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-07-22T16:13:30Z",
+      "snippet": "OpenAI will spend the equivalent of Sweden's GDP on infrastructure through 2030."
+    },
     {
       "title": "AMD commits up to $5 billion to  Anthropic",
       "url": "https://www.theverge.com/ai-artificial-intelligence/969285/amd-anthropic-ai-infrastructure-deal",
@@ -142,39 +170,11 @@
       "snippet": "Google is launching Gemini 3.6 Flash alongside a new security model dedicated to quickly finding and patching security vulnerabilities. In a blog post on Tuesday, Google describes Gemini 3.5 Flash Cyb"
     },
     {
-      "title": "Music streamer Deezer says more than 50% of daily uploads are AI-generated",
-      "url": "https://techcrunch.com/2026/07/21/music-streamer-deezer-says-more-than-50-of-daily-uploads-are-ai-generated/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-07-21T13:27:42Z",
-      "snippet": "Deezer said more than 90,000 AI-generated tracks were uploaded daily on the platform in June."
-    },
-    {
       "title": "Halliday\u2019s latest smart glasses feature a much-improved display",
       "url": "https://www.theverge.com/tech/968255/halliday-gen-2-smart-glasses-hands-on-ai-wearables",
       "source": "The Verge",
       "publishedAt": "2026-07-21T13:00:00Z",
       "snippet": "I first slipped on Halliday's original smart glasses at CES 2025. I was not a fan. The glasses had a tiny, movable display window embedded into the frame that was incredibly finicky to see, and my 30-"
-    },
-    {
-      "title": "America needs to stop getting shocked by Chinese AI",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/968136/chinese-ai-models-another-sputnik-moment",
-      "source": "The Verge",
-      "publishedAt": "2026-07-21T11:08:56Z",
-      "snippet": "Last week, two Chinese AI companies unveiled models they say can credibly compete with the best systems from OpenAI and Anthropic. The response was swift and predictable. Markets wobbled, commentators"
-    },
-    {
-      "title": "Gritt exits stealth with $32 million for robots to build solar plants \u2014 then, everything else",
-      "url": "https://techcrunch.com/2026/07/21/gritt-exits-stealth-with-34-million-for-robots-to-build-solar-plants-then-everything-else/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-07-21T10:00:00Z",
-      "snippet": "Gritt is coming out of stealth with $34 million and plans to automate the hardest tasks on construction sites."
-    },
-    {
-      "title": "Anthropic\u2019s landmark $1.5B copyright settlement is approved",
-      "url": "https://techcrunch.com/2026/07/20/anthropics-landmark-1-5b-copyright-settlement-is-approved/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-07-21T00:12:24Z",
-      "snippet": "The final approval settles one case, but it doesn't resolve the broader issue of using copyrighted works to train AI models."
     }
   ],
   "trending": [
