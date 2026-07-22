@@ -1,6 +1,20 @@
 {
-  "updated": "2026-07-22T19:07:55Z",
+  "updated": "2026-07-22T21:01:04Z",
   "news": [
+    {
+      "title": "Treasury threatens sanctions after White House claims Moonshot distilled Anthropic\u2019s Fable",
+      "url": "https://techcrunch.com/2026/07/22/treasury-threatens-sanctions-after-white-house-claims-moonshot-distilled-anthropics-fable/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-07-22T20:49:03Z",
+      "snippet": "Treasury Secretary Scott Bessent warned the U.S. government could sanction Chinese AI companies after White House officials accused Moonshot of distilling Anthropic's Fable model to develop Kimi K3."
+    },
+    {
+      "title": "How OpenAI\u2019s human mistake led to the AI-powered hack on Hugging Face",
+      "url": "https://techcrunch.com/2026/07/22/how-an-openais-human-mistake-led-to-the-ai-powered-hack-on-hugging-face/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-07-22T19:11:46Z",
+      "snippet": "OpenAI made a mistake setting up what it called a \u201chighly isolated\u201d testing environment and sandbox. According to cybersecurity experts, that human mistake is what made the AI-powered attack on Huggin"
+    },
     {
       "title": "Travis Kalanick\u2019s robotics company raises $1.7B, led by a16z",
       "url": "https://techcrunch.com/2026/07/22/travis-kalanicks-robotics-company-raises-1-7b-led-by-a16z/",
@@ -23,13 +37,6 @@
       "snippet": "The company said it is reducing its headcount by 20%, or about 630 staff, to \"support a leaner, more focused operating model\" as it focuses on its AI Work Platform."
     },
     {
-      "title": "Here&#8217;s what Samsung&#8217;s smart glasses actually look like",
-      "url": "https://www.theverge.com/tech/969382/samsung-google-smart-glasses-gentle-monster-warby-parker",
-      "source": "The Verge",
-      "publishedAt": "2026-07-22T16:35:34Z",
-      "snippet": "Samsung has given us our first chance to check out its upcoming smart glasses in person, revealing two new designs and the first specs in the process, including an impressive 9-hour battery life. The "
-    },
-    {
       "title": "Arcee, a US open source AI lab, says Chinese models are not inherently dangerous",
       "url": "https://techcrunch.com/2026/07/22/arcee-a-us-open-source-ai-lab-says-chinese-models-are-not-inherently-dangerous/",
       "source": "TechCrunch",
@@ -49,13 +56,6 @@
       "source": "TechCrunch",
       "publishedAt": "2026-07-22T16:13:30Z",
       "snippet": "OpenAI will spend the equivalent of Sweden's GDP on infrastructure through 2030."
-    },
-    {
-      "title": "AMD commits up to $5 billion to  Anthropic",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/969285/amd-anthropic-ai-infrastructure-deal",
-      "source": "The Verge",
-      "publishedAt": "2026-07-22T14:44:27Z",
-      "snippet": "AMD says it's going to invest up to $5 billion in Anthropic, while helping to expand the AI company's computing power, according to an announcement on Wednesday. As part of the new partnership, Anthro"
     },
     {
       "title": "Menlo Ventures\u2019 Matt Murphy explains what AI startups founders must do differently",
@@ -135,20 +135,6 @@
       "snippet": "OpenAI says its AI models mistakenly breached open-source AI platform Hugging Face during internal testing. In a blog post on Tuesday, OpenAI writes that GPT-5.6 Sol and \"an even more capable pre-rele"
     },
     {
-      "title": "OpenAI says Hugging Face was breached by its pre-release models",
-      "url": "https://techcrunch.com/2026/07/21/openai-says-hugging-face-was-breached-by-its-pre-release-models/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-07-21T20:56:55Z",
-      "snippet": "OpenAI has come forward to claim responsibility for the Hugging Face breach, saying it was the result of internal testing gone awry."
-    },
-    {
-      "title": "Jack Dorsey is taking on Slack with Buzz, a group chat platform for teams and their AI agents",
-      "url": "https://techcrunch.com/2026/07/21/jack-dorsey-is-taking-on-slack-with-buzz-a-group-chat-platform-for-teams-and-their-ai-agents/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-07-21T19:43:41Z",
-      "snippet": "Buzz is a group chat platform for the workplace that puts humans and their AI agents in the same conversation."
-    },
-    {
       "title": "Substack adds an AI detector to help spot blogs written by no one",
       "url": "https://www.theverge.com/ai-artificial-intelligence/968855/substack-pangram-ai-detecting-tool",
       "source": "The Verge",
@@ -175,6 +161,20 @@
       "source": "The Verge",
       "publishedAt": "2026-07-21T13:00:00Z",
       "snippet": "I first slipped on Halliday's original smart glasses at CES 2025. I was not a fan. The glasses had a tiny, movable display window embedded into the frame that was incredibly finicky to see, and my 30-"
+    },
+    {
+      "title": "America needs to stop getting shocked by Chinese AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/968136/chinese-ai-models-another-sputnik-moment",
+      "source": "The Verge",
+      "publishedAt": "2026-07-21T11:08:56Z",
+      "snippet": "Last week, two Chinese AI companies unveiled models they say can credibly compete with the best systems from OpenAI and Anthropic. The response was swift and predictable. Markets wobbled, commentators"
+    },
+    {
+      "title": "Here are the 30,000 songs Sony is suing Udio&#8217;s AI music generator over",
+      "url": "https://www.theverge.com/tech/968375/sony-udio-lawsuit-songs-ai-copyright",
+      "source": "The Verge",
+      "publishedAt": "2026-07-20T22:19:12Z",
+      "snippet": "Sony Music Entertainment has filed another lawsuit against Udio, accusing the AI music generator of infringing the copyright of more than 30,000 of its songs, ranging from Elvis Presley's Hound Dog to"
     }
   ],
   "trending": [
@@ -204,6 +204,11 @@
       "downloads": 2133420
     },
     {
+      "id": "unsloth/Laguna-S-2.1-GGUF",
+      "displayName": "Laguna S 2.1",
+      "downloads": 0
+    },
+    {
       "id": "GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-V2-Thinking-GGUF",
       "displayName": "MiniCPM5 1B Claude Opus Fable5 V2 Thinking",
       "downloads": 51746
@@ -212,11 +217,6 @@
       "id": "unsloth/inkling-GGUF",
       "displayName": "inkling",
       "downloads": 7377
-    },
-    {
-      "id": "unsloth/Laguna-S-2.1-GGUF",
-      "displayName": "Laguna S 2.1",
-      "downloads": 0
     },
     {
       "id": "poolside/Laguna-S-2.1-GGUF",
