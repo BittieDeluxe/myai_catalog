@@ -1,12 +1,40 @@
 {
-  "updated": "2026-07-22T10:21:09Z",
+  "updated": "2026-07-22T13:41:14Z",
   "news": [
     {
-      "title": "Utility companies are promising to spare us from AI\u2019s energy bill",
+      "title": "The browser wars aren\u2019t about search anymore \u2014 here are the best alternatives to Chrome and Safari",
+      "url": "https://techcrunch.com/2026/07/22/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-07-22T13:20:35Z",
+      "snippet": "We\u2019ve compiled an overview of some of the top alternative browsers available today aiming to challenge Chrome and Safari."
+    },
+    {
+      "title": "Passionfroot raises $15M to expand its B2B creator marketplace to the US",
+      "url": "https://techcrunch.com/2026/07/22/passionfroot-raises-15m-to-expand-its-b2b-creator-marketplace-to-the-us/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-07-22T13:00:00Z",
+      "snippet": "Passionfroot, a German startup building a marketplace connecting B2B creators with brands, has raised $15M in a Series A round led by Insight Partners."
+    },
+    {
+      "title": "Meta made its own AI detection system. It should have just used Google\u2019s",
+      "url": "https://www.theverge.com/tech/968680/meta-ai-detection-labeling-content-seal-watermarks-synthid",
+      "source": "The Verge",
+      "publishedAt": "2026-07-22T11:00:00Z",
+      "snippet": "IIn March, Meta's Oversight Board called on the company to \"meet its public commitments and employ its own tools\" to help quell the spread of deceptive generative AI content across platforms. Meta res"
+    },
+    {
+      "title": "Utility companies promise to spare us from AI\u2019s energy bill",
       "url": "https://www.theverge.com/ai-artificial-intelligence/969137/us-utility-ai-electricty-data-center-rate-pledge-trump",
       "source": "The Verge",
       "publishedAt": "2026-07-22T10:12:13Z",
       "snippet": "In the face of backlash to concerns the AI boom will increase consumer electricity bills, the largest utility companies and data center developers in the US are now promising to do something about it."
+    },
+    {
+      "title": "Glow emerges from stealth at $1.2B valuation to challenge endpoint security in the AI era",
+      "url": "https://techcrunch.com/2026/07/22/glow-emerges-from-stealth-at-1-2b-valuation-to-challenge-endpoint-security-in-the-ai-era/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-07-22T10:00:00Z",
+      "snippet": "Glow is targeting a new class of endpoint risks created by the rapid adoption of AI agents and developer tools inside enterprises."
     },
     {
       "title": "Synthesia\u2019s AI training platform is moving beyond videos into live coaching",
@@ -142,39 +170,11 @@
       "snippet": "The final approval settles one case, but it doesn't resolve the broader issue of using copyrighted works to train AI models."
     },
     {
-      "title": "Trump\u2019s latest AI czar has already resigned",
-      "url": "https://techcrunch.com/2026/07/20/trumps-latest-ai-czar-has-already-resigned/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-07-20T22:21:04Z",
-      "snippet": "The director role for the Center for AI Standards and Innovation (CAISI) has become a revolving door since David Sacks left his position as czar."
-    },
-    {
       "title": "Here are the 30,000 songs Sony is suing Udio&#8217;s AI music generator over",
       "url": "https://www.theverge.com/tech/968375/sony-udio-lawsuit-songs-ai-copyright",
       "source": "The Verge",
       "publishedAt": "2026-07-20T22:19:12Z",
       "snippet": "Sony Music Entertainment has filed another lawsuit against Udio, accusing the AI music generator of infringing the copyright of more than 30,000 of its songs, ranging from Elvis Presley's Hound Dog to"
-    },
-    {
-      "title": "Google is working on a new AI chip designed to make Gemini more efficient",
-      "url": "https://techcrunch.com/2026/07/20/google-is-working-on-a-new-ai-chip-designed-to-make-gemini-more-efficient/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-07-20T21:21:15Z",
-      "snippet": "Alphabet, Google's parent company, is reportedly working on a new chip designed to make its Gemini models run much more efficiently."
-    },
-    {
-      "title": "SpaceX in your index fund, explained",
-      "url": "https://www.theverge.com/business/968257/spacex-in-your-index-fund-explained",
-      "source": "The Verge",
-      "publishedAt": "2026-07-20T21:00:00Z",
-      "snippet": "Index funds are touted as one of the safest ways to invest. Rather than picking and choosing individual stocks, index funds let you bet on the market as a whole. So what happens when a company like Sp"
-    },
-    {
-      "title": "AI\u2019s most important protocol is getting a little bit easier to use",
-      "url": "https://techcrunch.com/2026/07/20/ais-most-important-protocol-is-getting-a-little-bit-easier-to-use/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-07-20T20:50:40Z",
-      "snippet": "Under the new system, the protocol will take a looser, \"stateless\" approach to session IDs on the server side, similar to how most ordinary websites already work."
     }
   ],
   "trending": [
@@ -214,19 +214,19 @@
       "downloads": 7377
     },
     {
-      "id": "LuffyTheFox/Qwen3.6-35B-A3B-Uncensored-Genesis-Hermes-V3-GGUF",
-      "displayName": "Qwen3.6 35B A3B Uncensored Genesis Hermes V3",
-      "downloads": 19140
-    },
-    {
       "id": "poolside/Laguna-S-2.1-GGUF",
       "displayName": "Laguna S 2.1",
       "downloads": 289
     },
     {
-      "id": "AngelSlim/Hy3-GGUF",
-      "displayName": "Hy3",
-      "downloads": 145102
+      "id": "unsloth/Laguna-S-2.1-GGUF",
+      "displayName": "Laguna S 2.1",
+      "downloads": 0
+    },
+    {
+      "id": "LuffyTheFox/Qwen3.6-35B-A3B-Uncensored-Genesis-Hermes-V3-GGUF",
+      "displayName": "Qwen3.6 35B A3B Uncensored Genesis Hermes V3",
+      "downloads": 19140
     }
   ]
 }
