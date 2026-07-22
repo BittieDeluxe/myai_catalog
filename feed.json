@@ -1,6 +1,20 @@
 {
-  "updated": "2026-07-22T06:24:00Z",
+  "updated": "2026-07-22T10:21:09Z",
   "news": [
+    {
+      "title": "Utility companies are promising to spare us from AI\u2019s energy bill",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/969137/us-utility-ai-electricty-data-center-rate-pledge-trump",
+      "source": "The Verge",
+      "publishedAt": "2026-07-22T10:12:13Z",
+      "snippet": "In the face of backlash to concerns the AI boom will increase consumer electricity bills, the largest utility companies and data center developers in the US are now promising to do something about it."
+    },
+    {
+      "title": "Synthesia\u2019s AI training platform is moving beyond videos into live coaching",
+      "url": "https://techcrunch.com/2026/07/22/synthesias-ai-training-platform-is-moving-beyond-videos-into-live-coaching/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-07-22T08:00:00Z",
+      "snippet": "Synthesia launched AI Roleplay Sessions, an interactive enterprise training platform where employees practice workplace conversations with AI avatars that provide feedback, scoring, and analytics to h"
+    },
     {
       "title": "The Anthropic-Physical Intelligence rumor roiling AI Twitter",
       "url": "https://techcrunch.com/2026/07/21/the-anthropic-physical-intelligence-rumor-roiling-ai-twitter/",
@@ -161,20 +175,6 @@
       "source": "TechCrunch",
       "publishedAt": "2026-07-20T20:50:40Z",
       "snippet": "Under the new system, the protocol will take a looser, \"stateless\" approach to session IDs on the server side, similar to how most ordinary websites already work."
-    },
-    {
-      "title": "X relaunches a rebuilt Android app after year-long effort",
-      "url": "https://techcrunch.com/2026/07/20/x-relaunches-a-rebuilt-android-app-after-year-long-effort/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-07-20T19:37:39Z",
-      "snippet": "X says the rebuilt version of its Android app is now available globally."
-    },
-    {
-      "title": "Adobe\u2019s \u2018natural look\u2019 camera app embraces generative AI",
-      "url": "https://www.theverge.com/tech/967791/adobe-indigo-camera-app-ai-playground-update",
-      "source": "The Verge",
-      "publishedAt": "2026-07-20T16:00:00Z",
-      "snippet": "Adobe's experimental camera app has taken an unexpected turn. After Project Indigo was launched last year to provide a \"more natural (SLR-like) look\" for iPhone photography, the Indigo camera app is n"
     }
   ],
   "trending": [
@@ -214,19 +214,19 @@
       "downloads": 7377
     },
     {
-      "id": "AngelSlim/Hy3-GGUF",
-      "displayName": "Hy3",
-      "downloads": 145102
-    },
-    {
       "id": "LuffyTheFox/Qwen3.6-35B-A3B-Uncensored-Genesis-Hermes-V3-GGUF",
       "displayName": "Qwen3.6 35B A3B Uncensored Genesis Hermes V3",
       "downloads": 19140
     },
     {
-      "id": "empero-ai/Qwythos-9B-v2-GGUF",
-      "displayName": "Qwythos 9B v2",
-      "downloads": 125726
+      "id": "poolside/Laguna-S-2.1-GGUF",
+      "displayName": "Laguna S 2.1",
+      "downloads": 289
+    },
+    {
+      "id": "AngelSlim/Hy3-GGUF",
+      "displayName": "Hy3",
+      "downloads": 145102
     }
   ]
 }
