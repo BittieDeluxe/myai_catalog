@@ -1,6 +1,13 @@
 {
-  "updated": "2026-07-22T02:11:22Z",
+  "updated": "2026-07-22T06:24:00Z",
   "news": [
+    {
+      "title": "The Anthropic-Physical Intelligence rumor roiling AI Twitter",
+      "url": "https://techcrunch.com/2026/07/21/the-anthropic-physical-intelligence-rumor-roiling-ai-twitter/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-07-22T03:20:57Z",
+      "snippet": "Anthropic and OpenAI's aggressive 2026 acquisition sprees set the stage for a weekend rumor."
+    },
     {
       "title": "Meta is testing an AI bedtime story app for people with no imagination",
       "url": "https://techcrunch.com/2026/07/21/meta-is-testing-an-ai-bedtime-story-app-for-people-with-no-imagination/",
@@ -161,13 +168,6 @@
       "source": "TechCrunch",
       "publishedAt": "2026-07-20T19:37:39Z",
       "snippet": "X says the rebuilt version of its Android app is now available globally."
-    },
-    {
-      "title": "OpenAI is scared of open-weight models. Should the US be?",
-      "url": "https://techcrunch.com/2026/07/20/openai-is-scared-of-open-weight-models-should-the-us-be/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-07-20T19:33:25Z",
-      "snippet": "Talk of banning Chinese-made open-weight LLMs reveals the challenge of  turning AI into a business."
     },
     {
       "title": "Adobe\u2019s \u2018natural look\u2019 camera app embraces generative AI",
