@@ -1,6 +1,13 @@
 {
-  "updated": "2026-07-21T22:51:20Z",
+  "updated": "2026-07-22T02:11:22Z",
   "news": [
+    {
+      "title": "Meta is testing an AI bedtime story app for people with no imagination",
+      "url": "https://techcrunch.com/2026/07/21/meta-is-testing-an-ai-bedtime-story-app-for-people-with-no-imagination/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-07-21T23:55:10Z",
+      "snippet": "At last, a tech company has found a way to outsource humanity's oldest pastime: using our imaginations."
+    },
     {
       "title": "Neill Blomkamp\u2019s new zombie AI \u2018film\u2019 is just slop warmed over",
       "url": "https://www.theverge.com/entertainment/968703/neill-blomkamps-nightborne-barley-studios-seedance",
@@ -16,8 +23,8 @@
       "snippet": "OpenAI says its AI models mistakenly breached open-source AI platform Hugging Face during internal testing. In a blog post on Tuesday, OpenAI writes that GPT-5.6 Sol and \"an even more capable pre-rele"
     },
     {
-      "title": "OpenAI says Hugging Face was breached by its own pre-release models",
-      "url": "https://techcrunch.com/2026/07/21/openai-says-hugging-face-was-breached-by-its-own-pre-release-models/",
+      "title": "OpenAI says Hugging Face was breached by its pre-release models",
+      "url": "https://techcrunch.com/2026/07/21/openai-says-hugging-face-was-breached-by-its-pre-release-models/",
       "source": "TechCrunch",
       "publishedAt": "2026-07-21T20:56:55Z",
       "snippet": "OpenAI has come forward to claim responsibility for the Hugging Face breach, saying it was the result of internal testing gone awry."
@@ -168,13 +175,6 @@
       "source": "The Verge",
       "publishedAt": "2026-07-20T16:00:00Z",
       "snippet": "Adobe's experimental camera app has taken an unexpected turn. After Project Indigo was launched last year to provide a \"more natural (SLR-like) look\" for iPhone photography, the Indigo camera app is n"
-    },
-    {
-      "title": "Adobe camera app\u2019s new feature will critique your photos using AI",
-      "url": "https://techcrunch.com/2026/07/20/adobe-camera-apps-new-feature-will-critique-your-photos-using-ai/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-07-20T15:45:00Z",
-      "snippet": "Adobe's Project Indigo can now remove all kinds of backgrounds from photos you snap using the app."
     }
   ],
   "trending": [
