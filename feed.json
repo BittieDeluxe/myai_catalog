@@ -1,6 +1,27 @@
 {
-  "updated": "2026-07-22T17:12:17Z",
+  "updated": "2026-07-22T19:07:55Z",
   "news": [
+    {
+      "title": "Travis Kalanick\u2019s robotics company raises $1.7B, led by a16z",
+      "url": "https://techcrunch.com/2026/07/22/travis-kalanicks-robotics-company-raises-1-7b-led-by-a16z/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-07-22T18:50:44Z",
+      "snippet": "Uber is also investing in Travis Kalanick's company Atoms, which has made gauzy claims about using industrial AI to modernize the world."
+    },
+    {
+      "title": "Yope raises $12.3M to build a private social network without algorithms or ads",
+      "url": "https://techcrunch.com/2026/07/22/yope-raises-12-3m-to-build-a-private-social-network-without-algorithms-or-ads/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-07-22T18:13:58Z",
+      "snippet": "Yope, a fast-growing social app focused on private groups of friends and family, has raised $12.3 million in seed funding. Instead of chasing creators and algorithmic feeds, the startup is betting tha"
+    },
+    {
+      "title": "Monday.com lays off hundreds to focus on AI",
+      "url": "https://techcrunch.com/2026/07/22/monday-com-lays-off-hundreds-to-focuses-on-ai/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-07-22T17:54:14Z",
+      "snippet": "The company said it is reducing its headcount by 20%, or about 630 staff, to \"support a leaner, more focused operating model\" as it focuses on its AI Work Platform."
+    },
     {
       "title": "Here&#8217;s what Samsung&#8217;s smart glasses actually look like",
       "url": "https://www.theverge.com/tech/969382/samsung-google-smart-glasses-gentle-monster-warby-parker",
@@ -35,6 +56,13 @@
       "source": "The Verge",
       "publishedAt": "2026-07-22T14:44:27Z",
       "snippet": "AMD says it's going to invest up to $5 billion in Anthropic, while helping to expand the AI company's computing power, according to an announcement on Wednesday. As part of the new partnership, Anthro"
+    },
+    {
+      "title": "Menlo Ventures\u2019 Matt Murphy explains what AI startups founders must do differently",
+      "url": "https://techcrunch.com/podcast/menlo-ventures-matt-murphy-explains-what-ai-startups-founders-must-do-differently/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-07-22T14:00:00Z",
+      "snippet": "Anthropic&#160;leaped to&#160;a&#160;$47 billion&#160;revenue run rate&#160;by May,&#160;compared to&#160;$9 billion&#160;in 2025.&#160;It\u2019s&#160;the kind of growth that&#160;Menlo Ventures&#8217;&#16"
     },
     {
       "title": "The browser wars aren\u2019t about search anymore \u2014 here are the best alternatives to Chrome and Safari",
@@ -121,13 +149,6 @@
       "snippet": "Buzz is a group chat platform for the workplace that puts humans and their AI agents in the same conversation."
     },
     {
-      "title": "AI and the rise of the universal entertainment app",
-      "url": "https://techcrunch.com/2026/07/21/ai-and-the-rise-of-the-universal-entertainment-app/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-07-21T19:39:30Z",
-      "snippet": "Over the past decade, streaming platforms competed by dominating individual formats like music, video, podcasts, or audiobooks. Now, as AI makes it easier to create, organize, and recommend content, t"
-    },
-    {
       "title": "Substack adds an AI detector to help spot blogs written by no one",
       "url": "https://www.theverge.com/ai-artificial-intelligence/968855/substack-pangram-ai-detecting-tool",
       "source": "The Verge",
@@ -135,32 +156,11 @@
       "snippet": "Substack will now help users determine whether what they're reading may have been written by AI. A new tool coming to the platform can scan posts, notes, replies, and comments to provide an estimate o"
     },
     {
-      "title": "Data centers expected to use 4x more electricity by 2035",
-      "url": "https://techcrunch.com/2026/07/21/data-centers-expected-to-use-4x-more-electricity-by-2035/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-07-21T18:06:38Z",
-      "snippet": "New data centers built through 2033 could consume as much electricity as India uses today."
-    },
-    {
-      "title": "Google releases three new Gemini models \u2014 but no 3.5 Pro",
-      "url": "https://techcrunch.com/2026/07/21/google-releases-three-new-gemini-models-but-no-3-5-pro/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-07-21T17:11:50Z",
-      "snippet": "Google released Gemini 3.6 Flash, 3.5 Flash-Lite, and Flash Cyber, but the continued absence of Gemini 3.5 Pro raises fresh questions about its AI strategy."
-    },
-    {
       "title": "Anthropic\u2019s $1.5 billion book piracy settlement approved by judge",
       "url": "https://www.theverge.com/ai-artificial-intelligence/968724/anthropic-authors-settlement-ai-copyright-approved",
       "source": "The Verge",
       "publishedAt": "2026-07-21T16:53:37Z",
       "snippet": "A federal judge has signed off on Anthropic's $1.5 billion class action settlement with authors who accused the company of training its AI models on copyrighted books, as reported earlier by Reuters. "
-    },
-    {
-      "title": "US threatens sanctions against Chinese AI models over IP theft",
-      "url": "https://techcrunch.com/2026/07/21/us-threatens-sanctions-against-chinese-ai-models-over-ip-theft/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-07-21T15:37:05Z",
-      "snippet": "Treasury Secretary Scott Bessent said the U.S. could sanction Chinese open AI models over alleged IP theft, expanding the Trump administration's campaign to slow China's AI advances."
     },
     {
       "title": "Google launches a cheaper alternative to large AI security models like Mythos",
@@ -224,8 +224,8 @@
       "downloads": 289
     },
     {
-      "id": "LuffyTheFox/Qwen3.6-35B-A3B-Uncensored-Genesis-Hermes-V3-GGUF",
-      "displayName": "Qwen3.6 35B A3B Uncensored Genesis Hermes V3",
+      "id": "LuffyTheFox/Qwen3.6-35B-A3B-Uncensored-Genesis-Hermes-V5-GGUF",
+      "displayName": "Qwen3.6 35B A3B Uncensored Genesis Hermes V5",
       "downloads": 19140
     }
   ]
