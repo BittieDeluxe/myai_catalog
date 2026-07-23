@@ -1,6 +1,13 @@
 {
-  "updated": "2026-07-22T22:57:04Z",
+  "updated": "2026-07-23T02:22:43Z",
   "news": [
+    {
+      "title": "After shocking quarter, IBM insists that AI isn\u2019t killing the mainframe",
+      "url": "https://techcrunch.com/2026/07/22/after-shocking-quarter-ibm-insists-that-ai-isnt-killing-the-mainframe/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-07-22T23:47:54Z",
+      "snippet": "After IBM's stock crashed last week on warnings of poor mainframe sales, the CEO explained that AI wrecked corporate hardware budget, temporarily."
+    },
     {
       "title": "Google justifies its massive AI spending with a booming cloud business",
       "url": "https://techcrunch.com/2026/07/22/google-justifies-its-massive-ai-spending-with-a-booming-cloud-business/",
@@ -128,13 +135,6 @@
       "snippet": "Synthesia launched AI Roleplay Sessions, an interactive enterprise training platform where employees practice workplace conversations with AI avatars that provide feedback, scoring, and analytics to h"
     },
     {
-      "title": "The Anthropic-Physical Intelligence rumor roiling AI Twitter",
-      "url": "https://techcrunch.com/2026/07/21/the-anthropic-physical-intelligence-rumor-roiling-ai-twitter/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-07-22T03:20:57Z",
-      "snippet": "Anthropic and OpenAI's aggressive 2026 acquisition sprees set the stage for a weekend rumor."
-    },
-    {
       "title": "Neill Blomkamp\u2019s new zombie AI \u2018film\u2019 is just slop warmed over",
       "url": "https://www.theverge.com/entertainment/968703/neill-blomkamps-nightborne-barley-studios-seedance",
       "source": "The Verge",
@@ -184,14 +184,14 @@
       "downloads": 432196
     },
     {
-      "id": "prism-ml/Bonsai-27B-gguf",
-      "displayName": "Bonsai 27B",
-      "downloads": 1404962
-    },
-    {
       "id": "DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
       "displayName": "Qwen3.6 27B Fable Fusion 711 Uncensored Heretic NM DAU NEO MAX MTP",
       "downloads": 62842
+    },
+    {
+      "id": "prism-ml/Bonsai-27B-gguf",
+      "displayName": "Bonsai 27B",
+      "downloads": 1404962
     },
     {
       "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
@@ -209,14 +209,14 @@
       "downloads": 0
     },
     {
-      "id": "GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-V2-Thinking-GGUF",
-      "displayName": "MiniCPM5 1B Claude Opus Fable5 V2 Thinking",
-      "downloads": 51746
-    },
-    {
       "id": "poolside/Laguna-S-2.1-GGUF",
       "displayName": "Laguna S 2.1",
       "downloads": 289
+    },
+    {
+      "id": "GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-V2-Thinking-GGUF",
+      "displayName": "MiniCPM5 1B Claude Opus Fable5 V2 Thinking",
+      "downloads": 51746
     },
     {
       "id": "unsloth/inkling-GGUF",
