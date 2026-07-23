@@ -1,6 +1,41 @@
 {
-  "updated": "2026-07-23T13:46:58Z",
+  "updated": "2026-07-23T15:52:09Z",
   "news": [
+    {
+      "title": "AI chip startup Etched defies skeptics, hits $10.3B valuation from big-name investors",
+      "url": "https://techcrunch.com/2026/07/23/ai-chip-startup-etched-defies-skeptics-hits-10-3b-valuation-from-big-name-investors/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-07-23T15:00:00Z",
+      "snippet": "Etched, founded by three Harvard dropouts, has created new chips and memory components that speed up inference on any AI model -- no GPUs required, it says."
+    },
+    {
+      "title": "Nvidia is sending GPUs to the moon",
+      "url": "https://techcrunch.com/2026/07/23/nvidia-is-sending-gpus-to-the-moon/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-07-23T15:00:00Z",
+      "snippet": "If there's a place in the universe without GPUs, Nvidia is sending them there."
+    },
+    {
+      "title": "Google\u2019s Gemini nears billion-user milestone",
+      "url": "https://techcrunch.com/2026/07/23/google-closes-in-on-another-billion-user-product-with-gemini/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-07-23T14:52:44Z",
+      "snippet": "Gemini had over 750 million monthly users in February."
+    },
+    {
+      "title": "Lawmakers prepare bill requiring AI \u2018kill switch\u2019",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/969939/lawmakers-ai-kill-switch-proposal",
+      "source": "The Verge",
+      "publishedAt": "2026-07-23T14:13:35Z",
+      "snippet": "Lawmakers are preparing to introduce an \"AI Kill Switch Act\" that would require AI companies to shut down or throttle their systems on orders from the Department of Homeland Security, according to a r"
+    },
+    {
+      "title": "Apple\u2019s OpenAI lawsuit is about who gets to define the post-smartphone era",
+      "url": "https://www.theverge.com/podcast/968787/apple-openai-trade-secrets-lawsuit-ai-hardware-smartphone-jony-ive",
+      "source": "The Verge",
+      "publishedAt": "2026-07-23T14:00:00Z",
+      "snippet": "Today on Decoder, I\u2019m talking with Hayden Field, The Verge\u2019s senior AI reporter, about the major trade secrets lawsuit between Apple and OpenAI and what this tells us about OpenAI\u2019s future. By now I\u2019m"
+    },
     {
       "title": "The right-wing boomers protesting data centers have a lot in common with the left",
       "url": "https://www.theverge.com/policy/969667/humans-first-data-center-protest-hernando-county-florida-republicans",
@@ -107,27 +142,6 @@
       "snippet": "AMD says it's going to invest up to $5 billion in Anthropic, while helping to expand the AI company's computing power, according to an announcement on Wednesday. As part of the new partnership, Anthro"
     },
     {
-      "title": "Menlo Ventures\u2019 Matt Murphy explains what AI startups founders must do differently",
-      "url": "https://techcrunch.com/podcast/menlo-ventures-matt-murphy-explains-what-ai-startups-founders-must-do-differently/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-07-22T14:00:00Z",
-      "snippet": "Anthropic&#160;leaped to&#160;a&#160;$47 billion&#160;revenue run rate&#160;by May,&#160;compared to&#160;$9 billion&#160;in 2025.&#160;It\u2019s&#160;the kind of growth that&#160;Menlo Ventures&#8217;&#16"
-    },
-    {
-      "title": "The browser wars aren\u2019t about search anymore \u2014 here are the best alternatives to Chrome and Safari",
-      "url": "https://techcrunch.com/2026/07/22/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-07-22T13:20:35Z",
-      "snippet": "We\u2019ve compiled an overview of some of the top alternative browsers available today aiming to challenge Chrome and Safari."
-    },
-    {
-      "title": "Passionfroot raises $15M to expand its B2B creator marketplace to the US",
-      "url": "https://techcrunch.com/2026/07/22/passionfroot-raises-15m-to-expand-its-b2b-creator-marketplace-to-the-us/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-07-22T13:00:00Z",
-      "snippet": "Passionfroot, a German startup building a marketplace connecting B2B creators with brands, has raised $15M in a Series A round led by Insight Partners."
-    },
-    {
       "title": "Meta made its own AI detection system. It should have just used Google\u2019s",
       "url": "https://www.theverge.com/tech/968680/meta-ai-detection-labeling-content-seal-watermarks-synthid",
       "source": "The Verge",
@@ -161,20 +175,6 @@
       "source": "The Verge",
       "publishedAt": "2026-07-21T19:22:28Z",
       "snippet": "Substack will now help users determine whether what they're reading may have been written by AI. A new tool coming to the platform can scan posts, notes, replies, and comments to provide an estimate o"
-    },
-    {
-      "title": "Anthropic\u2019s $1.5 billion book piracy settlement approved by judge",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/968724/anthropic-authors-settlement-ai-copyright-approved",
-      "source": "The Verge",
-      "publishedAt": "2026-07-21T16:53:37Z",
-      "snippet": "A federal judge has signed off on Anthropic's $1.5 billion class action settlement with authors who accused the company of training its AI models on copyrighted books, as reported earlier by Reuters. "
-    },
-    {
-      "title": "Google launches a cheaper alternative to large AI security models like Mythos",
-      "url": "https://www.theverge.com/tech/968572/google-gemini-flash-cyber-ai-security-model",
-      "source": "The Verge",
-      "publishedAt": "2026-07-21T15:00:00Z",
-      "snippet": "Google is launching Gemini 3.6 Flash alongside a new security model dedicated to quickly finding and patching security vulnerabilities. In a blog post on Tuesday, Google describes Gemini 3.5 Flash Cyb"
     }
   ],
   "trending": [
