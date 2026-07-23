@@ -1,8 +1,15 @@
 {
-  "updated": "2026-07-23T20:58:01Z",
+  "updated": "2026-07-23T22:51:50Z",
   "news": [
     {
-      "title": "AMD takes on Nvidia with its Helios AI rack scale system",
+      "title": "Alexa Plus is getting an AI update to handle more complicated instructions",
+      "url": "https://www.theverge.com/tech/970399/amazon-alexa-plus-ai-update-smart-home-devices",
+      "source": "The Verge",
+      "publishedAt": "2026-07-23T21:15:06Z",
+      "snippet": "Amazon is launching an update to its Alexa Plus assistant that will allow it to connect to smart home devices in new ways. With the update, which is currently in preview, Alexa Plus can link up with t"
+    },
+    {
+      "title": "AMD takes on Nvidia with its Helios AI rack-scale system",
       "url": "https://techcrunch.com/2026/07/23/amd-takes-on-nvidia-with-its-helios-ai-rack-scale-system/",
       "source": "TechCrunch",
       "publishedAt": "2026-07-23T20:33:02Z",
@@ -168,13 +175,6 @@
       "source": "The Verge",
       "publishedAt": "2026-07-22T11:00:00Z",
       "snippet": "IIn March, Meta's Oversight Board called on the company to \"meet its public commitments and employ its own tools\" to help quell the spread of deceptive generative AI content across platforms. Meta res"
-    },
-    {
-      "title": "Utility companies promise to spare us from AI\u2019s energy bill",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/969137/us-utility-ai-electricty-data-center-rate-pledge-trump",
-      "source": "The Verge",
-      "publishedAt": "2026-07-22T10:12:13Z",
-      "snippet": "In the face of backlash to concerns the AI boom will increase consumer electricity bills, the largest utility companies and data center developers in the US are now promising to do something about it."
     }
   ],
   "trending": [
