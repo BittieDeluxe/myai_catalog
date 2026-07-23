@@ -1,6 +1,20 @@
 {
-  "updated": "2026-07-23T10:16:18Z",
+  "updated": "2026-07-23T13:46:58Z",
   "news": [
+    {
+      "title": "The right-wing boomers protesting data centers have a lot in common with the left",
+      "url": "https://www.theverge.com/policy/969667/humans-first-data-center-protest-hernando-county-florida-republicans",
+      "source": "The Verge",
+      "publishedAt": "2026-07-23T12:00:00Z",
+      "snippet": "On a gray, humid Saturday morning in central Florida, a little under a dozen people gathered outside the Spring Hill Branch Library to protest the construction of a hyperscale data center in their com"
+    },
+    {
+      "title": "Experts say exploiting Anthropic\u2019s Fable isn\u2019t how Kimi K3 got so good",
+      "url": "https://techcrunch.com/2026/07/23/experts-say-exploiting-anthropics-fable-isnt-how-kimi-k3-got-so-good/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-07-23T11:00:00Z",
+      "snippet": "\"I don't think you get a model this strong and this quickly on the heels of Fable doing strictly distillation,\" one expert told TechCrunch."
+    },
     {
       "title": "ServiceNow bets $40 million on Indian banking software specialist to expand its financial services push",
       "url": "https://techcrunch.com/2026/07/22/servicenow-bets-40m-on-indian-firm-businessnext-at-700m-valuation-to-deepen-banking-ai-push/",
@@ -128,13 +142,6 @@
       "snippet": "In the face of backlash to concerns the AI boom will increase consumer electricity bills, the largest utility companies and data center developers in the US are now promising to do something about it."
     },
     {
-      "title": "Glow emerges from stealth at $1.2B valuation to challenge endpoint security in the AI era",
-      "url": "https://techcrunch.com/2026/07/22/glow-emerges-from-stealth-at-1-2b-valuation-to-challenge-endpoint-security-in-the-ai-era/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-07-22T10:00:00Z",
-      "snippet": "Glow is targeting a new class of endpoint risks created by the rapid adoption of AI agents and developer tools inside enterprises."
-    },
-    {
       "title": "Neill Blomkamp\u2019s new zombie AI \u2018film\u2019 is just slop warmed over",
       "url": "https://www.theverge.com/entertainment/968703/neill-blomkamps-nightborne-barley-studios-seedance",
       "source": "The Verge",
@@ -168,13 +175,6 @@
       "source": "The Verge",
       "publishedAt": "2026-07-21T15:00:00Z",
       "snippet": "Google is launching Gemini 3.6 Flash alongside a new security model dedicated to quickly finding and patching security vulnerabilities. In a blog post on Tuesday, Google describes Gemini 3.5 Flash Cyb"
-    },
-    {
-      "title": "Halliday\u2019s latest smart glasses feature a much-improved display",
-      "url": "https://www.theverge.com/tech/968255/halliday-gen-2-smart-glasses-hands-on-ai-wearables",
-      "source": "The Verge",
-      "publishedAt": "2026-07-21T13:00:00Z",
-      "snippet": "I first slipped on Halliday's original smart glasses at CES 2025. I was not a fan. The glasses had a tiny, movable display window embedded into the frame that was incredibly finicky to see, and my 30-"
     }
   ],
   "trending": [
@@ -219,14 +219,14 @@
       "downloads": 24982
     },
     {
-      "id": "GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-V2-Thinking-GGUF",
-      "displayName": "MiniCPM5 1B Claude Opus Fable5 V2 Thinking",
-      "downloads": 120534
-    },
-    {
       "id": "unsloth/Ornith-1.0-35B-GGUF",
       "displayName": "Ornith 1.0 35B",
       "downloads": 77242
+    },
+    {
+      "id": "GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-V2-Thinking-GGUF",
+      "displayName": "MiniCPM5 1B Claude Opus Fable5 V2 Thinking",
+      "downloads": 120534
     }
   ]
 }
