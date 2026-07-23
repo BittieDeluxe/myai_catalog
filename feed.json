@@ -1,19 +1,40 @@
 {
-  "updated": "2026-07-23T19:08:08Z",
+  "updated": "2026-07-23T20:58:01Z",
   "news": [
+    {
+      "title": "AMD takes on Nvidia with its Helios AI rack scale system",
+      "url": "https://techcrunch.com/2026/07/23/amd-takes-on-nvidia-with-its-helios-ai-rack-scale-system/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-07-23T20:33:02Z",
+      "snippet": "AMD is challenging its chipmaker rival with a new rack-scale system that will start shipping to customers later this year."
+    },
+    {
+      "title": "Claude\u2019s voice mode is now available for Opus and Sonnet",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/970065/anthropic-voice-mode-claude-opus-sonnet-haiku-ai",
+      "source": "The Verge",
+      "publishedAt": "2026-07-23T19:00:00Z",
+      "snippet": "Until now, voice mode has only been available on Claude Haiku, Anthropic's faster but less powerful model. Now the company is making its Opus and Sonnet models available in voice mode, and extending i"
+    },
     {
       "title": "Anthropic updates Claude voice mode with more capable models",
       "url": "https://techcrunch.com/2026/07/23/anthropic-updates-claude-voice-mode-with-more-capable-models/",
       "source": "TechCrunch",
       "publishedAt": "2026-07-23T19:00:00Z",
-      "snippet": "Claude's new voice model will let you reschedule your meeting or draft an email"
+      "snippet": "Claude's new voice model will let you reschedule your meeting or draft an email."
     },
     {
       "title": "AegisAI, founded by former Google security execs, lands $36M to stop AI-driven spear phishing",
       "url": "https://techcrunch.com/2026/07/23/aegisai-founded-by-former-google-security-execs-lands-36m-to-stop-ai-driven-spear-phishing/",
       "source": "TechCrunch",
       "publishedAt": "2026-07-23T18:38:34Z",
-      "snippet": "The Series A was led by Battery Ventures, bringing AegisAI total funding to $49 million."
+      "snippet": "AegisAI co-founders developed AI agents that quickly analyze each message as a human would, paying attention to small anomalies that even the most elaborate checklist wouldn\u2019t catch."
+    },
+    {
+      "title": "Patreon is laying off 20 percent of workers",
+      "url": "https://www.theverge.com/tech/970211/patreon-layoffs-ai",
+      "source": "The Verge",
+      "publishedAt": "2026-07-23T18:20:30Z",
+      "snippet": "Patreon is laying off 20 percent of its workers, or around 93 employees, as reported earlier by 404 Media. In a memo to employees, Patreon CEO Jack Conte writes that the company isn't making these cha"
     },
     {
       "title": "Runway launches AI model router as generative media gets crowded",
@@ -128,13 +149,6 @@
       "snippet": "OpenAI made a mistake setting up what it called a \u201chighly isolated\u201d testing environment and sandbox. According to cybersecurity experts, that human mistake is what made the AI-powered attack on Huggin"
     },
     {
-      "title": "Travis Kalanick\u2019s robotics company raises $1.7B, led by a16z",
-      "url": "https://techcrunch.com/2026/07/22/travis-kalanicks-robotics-company-raises-1-7b-led-by-a16z/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-07-22T18:50:44Z",
-      "snippet": "Uber is also investing in Travis Kalanick's company Atoms, which has made gauzy claims about using industrial AI to modernize the world."
-    },
-    {
       "title": "Here&#8217;s what Samsung&#8217;s smart glasses actually look like",
       "url": "https://www.theverge.com/tech/969382/samsung-google-smart-glasses-gentle-monster-warby-parker",
       "source": "The Verge",
@@ -161,32 +175,18 @@
       "source": "The Verge",
       "publishedAt": "2026-07-22T10:12:13Z",
       "snippet": "In the face of backlash to concerns the AI boom will increase consumer electricity bills, the largest utility companies and data center developers in the US are now promising to do something about it."
-    },
-    {
-      "title": "Neill Blomkamp\u2019s new zombie AI \u2018film\u2019 is just slop warmed over",
-      "url": "https://www.theverge.com/entertainment/968703/neill-blomkamps-nightborne-barley-studios-seedance",
-      "source": "The Verge",
-      "publishedAt": "2026-07-21T22:06:43Z",
-      "snippet": "On Monday, District 9 and Gran Turismo director Neill Blomkamp unveiled his latest project: a 13-minute sci-fi short titled Nightborne that's loosely based on Peter Watts' 2014 novel Echopraxia. The s"
-    },
-    {
-      "title": "OpenAI says it accidentally hacked Hugging Face with a new AI system",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/968988/openai-hugging-face-hack-ai",
-      "source": "The Verge",
-      "publishedAt": "2026-07-21T21:48:54Z",
-      "snippet": "OpenAI says its AI models mistakenly breached open-source AI platform Hugging Face during internal testing. In a blog post on Tuesday, OpenAI writes that GPT-5.6 Sol and \"an even more capable pre-rele"
     }
   ],
   "trending": [
     {
-      "id": "prism-ml/Ternary-Bonsai-27B-gguf",
-      "displayName": "Ternary Bonsai 27B",
-      "downloads": 576083
-    },
-    {
       "id": "DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
       "displayName": "Qwen3.6 27B Fable Fusion 711 Uncensored Heretic NM DAU NEO MAX MTP",
       "downloads": 334847
+    },
+    {
+      "id": "prism-ml/Ternary-Bonsai-27B-gguf",
+      "displayName": "Ternary Bonsai 27B",
+      "downloads": 576083
     },
     {
       "id": "prism-ml/Bonsai-27B-gguf",
