@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-23T06:26:44Z",
+  "updated": "2026-07-23T10:16:18Z",
   "news": [
     {
       "title": "ServiceNow bets $40 million on Indian banking software specialist to expand its financial services push",
@@ -181,52 +181,52 @@
     {
       "id": "prism-ml/Ternary-Bonsai-27B-gguf",
       "displayName": "Ternary Bonsai 27B",
-      "downloads": 432196
+      "downloads": 576083
     },
     {
       "id": "DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
       "displayName": "Qwen3.6 27B Fable Fusion 711 Uncensored Heretic NM DAU NEO MAX MTP",
-      "downloads": 62842
+      "downloads": 334847
     },
     {
       "id": "prism-ml/Bonsai-27B-gguf",
       "displayName": "Bonsai 27B",
-      "downloads": 1404962
+      "downloads": 1910116
     },
     {
       "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
       "displayName": "Qwen3.6 35B A3B Uncensored HauhauCS Aggressive",
-      "downloads": 1997690
+      "downloads": 2027080
     },
     {
       "id": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
       "displayName": "Qwythos 9B Claude Mythos 5 1M",
-      "downloads": 2133420
+      "downloads": 2126755
     },
     {
       "id": "unsloth/Laguna-S-2.1-GGUF",
       "displayName": "Laguna S 2.1",
-      "downloads": 0
+      "downloads": 28542
     },
     {
       "id": "poolside/Laguna-S-2.1-GGUF",
       "displayName": "Laguna S 2.1",
-      "downloads": 289
+      "downloads": 25360
     },
     {
       "id": "LuffyTheFox/Qwen3.6-35B-A3B-Uncensored-Genesis-Hermes-V5-GGUF",
       "displayName": "Qwen3.6 35B A3B Uncensored Genesis Hermes V5",
-      "downloads": 19140
-    },
-    {
-      "id": "unsloth/inkling-GGUF",
-      "displayName": "inkling",
-      "downloads": 7377
+      "downloads": 24982
     },
     {
       "id": "GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-V2-Thinking-GGUF",
       "displayName": "MiniCPM5 1B Claude Opus Fable5 V2 Thinking",
-      "downloads": 51746
+      "downloads": 120534
+    },
+    {
+      "id": "unsloth/Ornith-1.0-35B-GGUF",
+      "displayName": "Ornith 1.0 35B",
+      "downloads": 77242
     }
   ]
 }
