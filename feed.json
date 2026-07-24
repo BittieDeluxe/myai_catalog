@@ -1,6 +1,13 @@
 {
-  "updated": "2026-07-23T22:51:50Z",
+  "updated": "2026-07-24T02:14:29Z",
   "news": [
+    {
+      "title": "How AI guardrails are impeding the work of offensive cybersecurity researchers",
+      "url": "https://techcrunch.com/2026/07/23/how-ai-guardrails-are-impeding-the-work-of-offensive-cybersecurity-researchers/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-07-24T01:00:00Z",
+      "snippet": "We spoke with several cybersecurity researchers, who look for unknown vulnerabilities and develop tools to exploit them, about how OpenAI\u2019s and Anthropic\u2019s guardrails affect their work."
+    },
     {
       "title": "Alexa Plus is getting an AI update to handle more complicated instructions",
       "url": "https://www.theverge.com/tech/970399/amazon-alexa-plus-ai-update-smart-home-devices",
@@ -147,13 +154,6 @@
       "source": "TechCrunch",
       "publishedAt": "2026-07-22T20:49:03Z",
       "snippet": "The episode has also intensified a broader debate in Washington over the influx of Chinese open models."
-    },
-    {
-      "title": "How OpenAI\u2019s human mistake led to the AI-powered hack on Hugging Face",
-      "url": "https://techcrunch.com/2026/07/22/how-an-openais-human-mistake-led-to-the-ai-powered-hack-on-hugging-face/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-07-22T19:11:46Z",
-      "snippet": "OpenAI made a mistake setting up what it called a \u201chighly isolated\u201d testing environment and sandbox. According to cybersecurity experts, that human mistake is what made the AI-powered attack on Huggin"
     },
     {
       "title": "Here&#8217;s what Samsung&#8217;s smart glasses actually look like",
