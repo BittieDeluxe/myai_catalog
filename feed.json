@@ -1,6 +1,13 @@
 {
-  "updated": "2026-07-24T20:57:48Z",
+  "updated": "2026-07-24T22:57:13Z",
   "news": [
+    {
+      "title": "Prentis, new AI lab co-founded by Reid Hoffman, Marc Pincus in talks to raise $100M",
+      "url": "https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-marc-pincus-in-talks-to-raise-100m/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-07-24T22:25:58Z",
+      "snippet": "The neolab is betting that automating routine computer tasks will soon outpace coding as AI's biggest use case."
+    },
     {
       "title": "Midjourney bought the astrology app Co-Star",
       "url": "https://www.theverge.com/ai-artificial-intelligence/970894/midjourney-co-star-acquisition",
@@ -13,7 +20,7 @@
       "url": "https://techcrunch.com/2026/07/24/why-cognition-bought-poke-ai-personality-is-becoming-a-competitive-advantage/",
       "source": "TechCrunch",
       "publishedAt": "2026-07-24T18:07:32Z",
-      "snippet": "AI coding startup Cognition has acquired Poke, the AI assistant you text like a friend, in a deal valuing the startup in the low nine figures. The acquisition brings Poke\u2019s conversational style and in"
+      "snippet": "The acquisition brings Poke\u2019s conversational style and interaction model to Cognition\u2019s coding agent Devin, reflecting a growing belief that how AI assistants interact with users is as important as th"
     },
     {
       "title": "You can\u2019t ignore Google Zero anymore",
@@ -161,13 +168,6 @@
       "source": "TechCrunch",
       "publishedAt": "2026-07-23T16:28:50Z",
       "snippet": "David Bowie's song \"Five Years,\" which Meta used in a supposedly inspiring advertisement, is about humans learning that they have five years left to live before the apocalypse."
-    },
-    {
-      "title": "Nvidia is sending GPUs to the moon",
-      "url": "https://techcrunch.com/2026/07/23/nvidia-is-sending-gpus-to-the-moon/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-07-23T15:00:00Z",
-      "snippet": "If there's a place in the universe without GPUs, Nvidia is sending them there."
     },
     {
       "title": "Lawmakers prepare bill requiring AI \u2018kill switch\u2019",
