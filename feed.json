@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-24T10:12:08Z",
+  "updated": "2026-07-24T13:26:54Z",
   "news": [
     {
       "title": "How AI guardrails are impeding the work of offensive cybersecurity researchers",
@@ -199,14 +199,14 @@
       "downloads": 2057103
     },
     {
-      "id": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
-      "displayName": "Qwythos 9B Claude Mythos 5 1M",
-      "downloads": 1906539
-    },
-    {
       "id": "unsloth/Laguna-S-2.1-GGUF",
       "displayName": "Laguna S 2.1",
       "downloads": 57536
+    },
+    {
+      "id": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+      "displayName": "Qwythos 9B Claude Mythos 5 1M",
+      "downloads": 1906539
     },
     {
       "id": "poolside/Laguna-S-2.1-GGUF",
