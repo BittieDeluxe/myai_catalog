@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-24T02:14:29Z",
+  "updated": "2026-07-24T06:21:38Z",
   "news": [
     {
       "title": "How AI guardrails are impeding the work of offensive cybersecurity researchers",
@@ -224,9 +224,9 @@
       "downloads": 77242
     },
     {
-      "id": "GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-V2-Thinking-GGUF",
-      "displayName": "MiniCPM5 1B Claude Opus Fable5 V2 Thinking",
-      "downloads": 120534
+      "id": "bottlecapai/ThinkingCap-Qwen3.6-27B-GGUF",
+      "displayName": "ThinkingCap Qwen3.6 27B",
+      "downloads": 358856
     }
   ]
 }
