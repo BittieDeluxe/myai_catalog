@@ -1,6 +1,34 @@
 {
-  "updated": "2026-07-24T15:21:56Z",
+  "updated": "2026-07-24T17:25:20Z",
   "news": [
+    {
+      "title": "Anthropic releases Opus 5 with \u2018close\u2019 to Fable 5\u2019s capabilities",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/970105/claude-opus-5-announced-anthropic-ai-model-release",
+      "source": "The Verge",
+      "publishedAt": "2026-07-24T17:00:00Z",
+      "snippet": "Weeks after Anthropic's latest toe-to-toe with the US government, and days after an OpenAI security incident that dominated tech industry discussions, Anthropic on Thursday released its newest model, "
+    },
+    {
+      "title": "Meta is making its AI chatbot more like an assistant",
+      "url": "https://www.theverge.com/tech/970570/meta-ai-chatbot-productivity-update",
+      "source": "The Verge",
+      "publishedAt": "2026-07-24T17:00:00Z",
+      "snippet": "Meta is upgrading its AI chatbot with new productivity features in a bid to compete with rivals like Gemini, ChatGPT, and Claude. The update will allow Meta AI to tap into your calendar to help you pl"
+    },
+    {
+      "title": "Anthropic launches Opus 5",
+      "url": "https://techcrunch.com/2026/07/24/anthropic-launches-opus-5/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-07-24T17:00:00Z",
+      "snippet": "Opus 5 will be both cheaper and less restrictive than Fable, likely making it preferable in most use cases"
+    },
+    {
+      "title": "As US weighs response to Chinese AI, industry urges against broad open-weight restrictions",
+      "url": "https://techcrunch.com/2026/07/24/as-us-weighs-response-to-chinese-ai-industry-urges-against-broad-open-weight-restrictions/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-07-24T15:51:49Z",
+      "snippet": "AI companies, including Nvidia and Mistral, urge policymakers to avoid broad restrictions on open-weight AI models as Washington debates responses to Chinese AI and alleged model distillation."
+    },
     {
       "title": "Bluesky\u2019s AI assistant Attie expands into an open social research tool",
       "url": "https://techcrunch.com/2026/07/24/blueskys-ai-assistant-attie-expands-into-an-open-social-research-tool/",
@@ -21,6 +49,13 @@
       "source": "The Verge",
       "publishedAt": "2026-07-24T14:43:55Z",
       "snippet": "The Trump administration unveiled the first \"Genesis Mission\" grants on Thursday, directing $5 billion toward hundreds of AI-driven science projects in an effort the White House has described as \"comp"
+    },
+    {
+      "title": "\u2018AI communism\u2019,\u00a0rogue models, and the why Kimi K3 spooked Wall Street",
+      "url": "https://techcrunch.com/podcast/ai-communism-rogue-models-and-the-why-kimi-k3-spooked-wall-street/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-07-24T14:00:00Z",
+      "snippet": "Chinese AI lab Moonshot&#8217;s&#160;open model Kimi went viral this week&#160;for reasons that had less to do with the model itself and more to do with&#160;how the U.S. AI industry reacted to it. Me"
     },
     {
       "title": "OpenAI\u2019s new voice mode makes it to the ChatGPT desktop app",
@@ -121,13 +156,6 @@
       "snippet": "Etched, founded by three Harvard dropouts, has created new chips and memory components that speed up inference on any AI model -- no GPUs required, it says."
     },
     {
-      "title": "Google\u2019s Gemini nears billion-user milestone",
-      "url": "https://techcrunch.com/2026/07/23/google-closes-in-on-another-billion-user-product-with-gemini/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-07-23T14:52:44Z",
-      "snippet": "Gemini had over 750 million monthly users in February."
-    },
-    {
       "title": "Lawmakers prepare bill requiring AI \u2018kill switch\u2019",
       "url": "https://www.theverge.com/ai-artificial-intelligence/969939/lawmakers-ai-kill-switch-proposal",
       "source": "The Verge",
@@ -147,34 +175,6 @@
       "source": "The Verge",
       "publishedAt": "2026-07-23T12:00:00Z",
       "snippet": "On a gray, humid Saturday morning in central Florida, a little under a dozen people gathered outside the Spring Hill Branch Library to protest the construction of a hyperscale data center in their com"
-    },
-    {
-      "title": "Experts say exploiting Anthropic\u2019s Fable isn\u2019t how Kimi K3 got so good",
-      "url": "https://techcrunch.com/2026/07/23/experts-say-exploiting-anthropics-fable-isnt-how-kimi-k3-got-so-good/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-07-23T11:00:00Z",
-      "snippet": "\"I don't think you get a model this strong and this quickly on the heels of Fable doing strictly distillation,\" one expert told TechCrunch."
-    },
-    {
-      "title": "ServiceNow bets $40 million on Indian banking software specialist to expand its financial services push",
-      "url": "https://techcrunch.com/2026/07/22/servicenow-bets-40m-on-indian-firm-businessnext-at-700m-valuation-to-deepen-banking-ai-push/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-07-23T06:09:13Z",
-      "snippet": "ServiceNow's investment gives BusinessNext a strategic partner to expand its AI-powered banking software globally."
-    },
-    {
-      "title": "Here&#8217;s what Samsung&#8217;s smart glasses actually look like",
-      "url": "https://www.theverge.com/tech/969382/samsung-google-smart-glasses-gentle-monster-warby-parker",
-      "source": "The Verge",
-      "publishedAt": "2026-07-22T16:35:34Z",
-      "snippet": "Samsung has given us our first chance to check out its upcoming smart glasses in person, revealing two new designs and the first specs in the process, including an impressive 9-hour battery life. The "
-    },
-    {
-      "title": "AMD commits up to $5 billion to  Anthropic",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/969285/amd-anthropic-ai-infrastructure-deal",
-      "source": "The Verge",
-      "publishedAt": "2026-07-22T14:44:27Z",
-      "snippet": "AMD says it's going to invest up to $5 billion in Anthropic, while helping to expand the AI company's computing power, according to an announcement on Wednesday. As part of the new partnership, Anthro"
     }
   ],
   "trending": [
