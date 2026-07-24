@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-24T06:21:38Z",
+  "updated": "2026-07-24T10:12:08Z",
   "news": [
     {
       "title": "How AI guardrails are impeding the work of offensive cybersecurity researchers",
@@ -181,52 +181,52 @@
     {
       "id": "DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
       "displayName": "Qwen3.6 27B Fable Fusion 711 Uncensored Heretic NM DAU NEO MAX MTP",
-      "downloads": 334847
+      "downloads": 407421
     },
     {
       "id": "prism-ml/Ternary-Bonsai-27B-gguf",
       "displayName": "Ternary Bonsai 27B",
-      "downloads": 576083
+      "downloads": 595415
     },
     {
       "id": "prism-ml/Bonsai-27B-gguf",
       "displayName": "Bonsai 27B",
-      "downloads": 1910116
+      "downloads": 2028115
     },
     {
       "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
       "displayName": "Qwen3.6 35B A3B Uncensored HauhauCS Aggressive",
-      "downloads": 2027080
+      "downloads": 2057103
     },
     {
       "id": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
       "displayName": "Qwythos 9B Claude Mythos 5 1M",
-      "downloads": 2126755
+      "downloads": 1906539
     },
     {
       "id": "unsloth/Laguna-S-2.1-GGUF",
       "displayName": "Laguna S 2.1",
-      "downloads": 28542
+      "downloads": 57536
     },
     {
       "id": "poolside/Laguna-S-2.1-GGUF",
       "displayName": "Laguna S 2.1",
-      "downloads": 25360
+      "downloads": 62092
     },
     {
       "id": "LuffyTheFox/Qwen3.6-35B-A3B-Uncensored-Genesis-Hermes-V5-GGUF",
       "displayName": "Qwen3.6 35B A3B Uncensored Genesis Hermes V5",
-      "downloads": 24982
+      "downloads": 36703
     },
     {
       "id": "unsloth/Ornith-1.0-35B-GGUF",
       "displayName": "Ornith 1.0 35B",
-      "downloads": 77242
+      "downloads": 84223
     },
     {
       "id": "bottlecapai/ThinkingCap-Qwen3.6-27B-GGUF",
       "displayName": "ThinkingCap Qwen3.6 27B",
-      "downloads": 358856
+      "downloads": 362867
     }
   ]
 }
