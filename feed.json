@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-25T20:43:54Z",
+  "updated": "2026-07-25T22:50:43Z",
   "news": [
     {
       "title": "Librarians are hosting viral \u2018Avoiding AI\u2019 workshops for people who are fed up with Big Tech",
@@ -189,6 +189,11 @@
       "downloads": 611685
     },
     {
+      "id": "unsloth/Laguna-S-2.1-GGUF",
+      "displayName": "Laguna S 2.1",
+      "downloads": 71893
+    },
+    {
       "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
       "displayName": "Qwen3.6 35B A3B Uncensored HauhauCS Aggressive",
       "downloads": 1988680
@@ -197,11 +202,6 @@
       "id": "prism-ml/Bonsai-27B-gguf",
       "displayName": "Bonsai 27B",
       "downloads": 2114963
-    },
-    {
-      "id": "unsloth/Laguna-S-2.1-GGUF",
-      "displayName": "Laguna S 2.1",
-      "downloads": 71893
     },
     {
       "id": "poolside/Laguna-S-2.1-GGUF",
