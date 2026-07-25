@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-25T06:12:33Z",
+  "updated": "2026-07-25T09:41:24Z",
   "news": [
     {
       "title": "I tried out OpenAI\u2019s new AI keypad \u2014 which will be fun for some coders and slightly mystifying to everyone else",
@@ -181,52 +181,52 @@
     {
       "id": "DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
       "displayName": "Qwen3.6 27B Fable Fusion 711 Uncensored Heretic NM DAU NEO MAX MTP",
-      "downloads": 407421
+      "downloads": 483845
     },
     {
       "id": "prism-ml/Ternary-Bonsai-27B-gguf",
       "displayName": "Ternary Bonsai 27B",
-      "downloads": 595415
+      "downloads": 611685
     },
     {
       "id": "prism-ml/Bonsai-27B-gguf",
       "displayName": "Bonsai 27B",
-      "downloads": 2028115
+      "downloads": 2114963
     },
     {
       "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
       "displayName": "Qwen3.6 35B A3B Uncensored HauhauCS Aggressive",
-      "downloads": 2057103
+      "downloads": 1988680
     },
     {
       "id": "unsloth/Laguna-S-2.1-GGUF",
       "displayName": "Laguna S 2.1",
-      "downloads": 57536
+      "downloads": 71893
     },
     {
       "id": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
       "displayName": "Qwythos 9B Claude Mythos 5 1M",
-      "downloads": 1906539
+      "downloads": 1570995
     },
     {
       "id": "poolside/Laguna-S-2.1-GGUF",
       "displayName": "Laguna S 2.1",
-      "downloads": 62092
+      "downloads": 76957
     },
     {
       "id": "LuffyTheFox/Qwen3.6-35B-A3B-Uncensored-Genesis-Hermes-V5-GGUF",
       "displayName": "Qwen3.6 35B A3B Uncensored Genesis Hermes V5",
-      "downloads": 36703
+      "downloads": 60643
     },
     {
       "id": "unsloth/Ornith-1.0-35B-GGUF",
       "displayName": "Ornith 1.0 35B",
-      "downloads": 84223
+      "downloads": 90764
     },
     {
       "id": "yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF",
       "displayName": "gemma 4 12B agentic fable5 composer2.5 v2 3.5x tau2",
-      "downloads": 473143
+      "downloads": 469436
     }
   ]
 }
