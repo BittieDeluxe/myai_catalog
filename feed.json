@@ -1,6 +1,13 @@
 {
-  "updated": "2026-07-25T14:58:32Z",
+  "updated": "2026-07-25T16:52:15Z",
   "news": [
+    {
+      "title": "Librarians are hosting viral \u2018Avoiding AI\u2019 workshops for people who are fed up with Big Tech",
+      "url": "https://techcrunch.com/2026/07/25/librarians-are-hosting-viral-avoiding-ai-workshops-for-people-who-are-fed-up-with-big-tech/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-07-25T16:00:00Z",
+      "snippet": "At libraries around the country, \"Avoiding AI\" workshops have elicited unprecedented demand."
+    },
     {
       "title": "One fallen power line exposed a growing AI data center problem. Here\u2019s how to fix it.",
       "url": "https://techcrunch.com/2026/07/25/one-fallen-power-line-exposed-a-growing-ai-data-center-problem-heres-how-to-fix-it/",
@@ -154,13 +161,6 @@
       "source": "The Verge",
       "publishedAt": "2026-07-23T18:20:30Z",
       "snippet": "Patreon is laying off 20 percent of its workers, or around 93 employees, as reported earlier by 404 Media. In a memo to employees, Patreon CEO Jack Conte writes that the company isn't making these cha"
-    },
-    {
-      "title": "Runway launches AI model router as generative media gets crowded",
-      "url": "https://techcrunch.com/2026/07/23/runway-bets-on-ai-model-routing-as-generative-media-gets-crowded/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-07-23T17:07:35Z",
-      "snippet": "The Media Router is a tool that automatically selects the best image, video, or audio generation model for a request based on whether a developer prioritizes quality, speed or cost."
     },
     {
       "title": "OpenAI is making big claims as it rolls out ChatGPT Health to everyone",
