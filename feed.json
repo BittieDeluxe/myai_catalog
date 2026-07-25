@@ -1,6 +1,13 @@
 {
-  "updated": "2026-07-25T13:15:14Z",
+  "updated": "2026-07-25T14:58:32Z",
   "news": [
+    {
+      "title": "One fallen power line exposed a growing AI data center problem. Here\u2019s how to fix it.",
+      "url": "https://techcrunch.com/2026/07/25/one-fallen-power-line-exposed-a-growing-ai-data-center-problem-heres-how-to-fix-it/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-07-25T13:05:00Z",
+      "snippet": "A close call in Northern Virginia revealed just how poorly data centers respond to grid disruptions. Here's how to fix the problem."
+    },
     {
       "title": "I tried out OpenAI\u2019s new AI keypad \u2014 which will be fun for some coders and slightly mystifying to everyone else",
       "url": "https://techcrunch.com/2026/07/24/i-tried-out-openais-new-ai-keypad-which-will-be-fun-for-coders-and-slightly-mystifying-to-everyone-else/",
@@ -161,13 +168,6 @@
       "source": "The Verge",
       "publishedAt": "2026-07-23T17:00:00Z",
       "snippet": "OpenAI is rolling out ChatGPT Health to everyone in the US on Thursday, allowing more people to connect their medical records and health-tracking information to the chatbot. During a briefing, Ashley "
-    },
-    {
-      "title": "OpenAI makes ChatGPT Health available to all US users",
-      "url": "https://techcrunch.com/2026/07/23/openai-makes-chatgpt-health-available-to-all-u-s-users/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-07-23T17:00:00Z",
-      "snippet": "Users can also integrate their personal data from services like Apple Health, Function, and MyFitnessPal."
     },
     {
       "title": "Lawmakers prepare bill requiring AI \u2018kill switch\u2019",
