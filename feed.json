@@ -1,6 +1,13 @@
 {
-  "updated": "2026-07-25T22:50:43Z",
+  "updated": "2026-07-26T02:24:14Z",
   "news": [
+    {
+      "title": "Monday.com is the latest tech company to blame AI for layoffs \u2014 here are 20 others",
+      "url": "https://techcrunch.com/2026/07/25/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-07-26T01:30:00Z",
+      "snippet": "A running look \u2014 in reverse chronological order \u2014 at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor."
+    },
     {
       "title": "Librarians are hosting viral \u2018Avoiding AI\u2019 workshops for people who are fed up with Big Tech",
       "url": "https://techcrunch.com/2026/07/25/librarians-are-hosting-viral-avoiding-ai-workshops-for-people-who-are-fed-up-with-big-tech/",
@@ -147,13 +154,6 @@
       "source": "TechCrunch",
       "publishedAt": "2026-07-23T19:00:00Z",
       "snippet": "Claude's new voice model will let you reschedule your meeting or draft an email."
-    },
-    {
-      "title": "AegisAI, founded by former Google security execs, lands $36M to stop AI-driven spear phishing",
-      "url": "https://techcrunch.com/2026/07/23/aegisai-founded-by-former-google-security-execs-lands-36m-to-stop-ai-driven-spear-phishing/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-07-23T18:38:34Z",
-      "snippet": "AegisAI co-founders developed AI agents that quickly analyze each message as a human would, paying attention to small anomalies that even the most elaborate checklist wouldn\u2019t catch."
     },
     {
       "title": "Patreon is laying off 20 percent of workers",
