@@ -1,6 +1,13 @@
 {
-  "updated": "2026-07-26T19:04:02Z",
+  "updated": "2026-07-26T20:52:52Z",
   "news": [
+    {
+      "title": "Making sense of the panic over Chinese AI",
+      "url": "https://techcrunch.com/2026/07/26/making-sense-of-the-panic-over-chinese-ai/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-07-26T19:40:57Z",
+      "snippet": "On the latest episode of Equity, we discussed why Moonshot AI's Kimi seemed to panic Silicon Valley and Wall Street."
+    },
     {
       "title": "Hugging Face CEO calls for \u2018radical transparency\u2019 after \u2018unprecedented\u2019 OpenAI hack",
       "url": "https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack/",
@@ -142,13 +149,6 @@
       "snippet": "Amazon is launching an update to its Alexa Plus assistant that will allow it to connect to smart home devices in new ways. With the update, which is currently in preview, Alexa Plus can link up with t"
     },
     {
-      "title": "AMD takes on Nvidia with its Helios AI rack-scale system",
-      "url": "https://techcrunch.com/2026/07/23/amd-takes-on-nvidia-with-its-helios-ai-rack-scale-system/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-07-23T20:33:02Z",
-      "snippet": "AMD is challenging its chipmaker rival with a new rack-scale system that will start shipping to customers later this year."
-    },
-    {
       "title": "Claude\u2019s voice mode is now available for Opus and Sonnet",
       "url": "https://www.theverge.com/ai-artificial-intelligence/970065/anthropic-voice-mode-claude-opus-sonnet-haiku-ai",
       "source": "The Verge",
@@ -219,14 +219,14 @@
       "downloads": 73642
     },
     {
-      "id": "unsloth/Ornith-1.0-35B-GGUF",
-      "displayName": "Ornith 1.0 35B",
-      "downloads": 99353
-    },
-    {
       "id": "DavidAU/Qwen3.5-9B-The-Defiant-Fable-Uncensored-Heretic-NEO-IMATRIX-MAX-MTP-GGUF",
       "displayName": "Qwen3.5 9B The Defiant Fable Uncensored Heretic NEO IMATRIX MAX MTP",
       "downloads": 55444
+    },
+    {
+      "id": "unsloth/Ornith-1.0-35B-GGUF",
+      "displayName": "Ornith 1.0 35B",
+      "downloads": 99353
     }
   ]
 }
