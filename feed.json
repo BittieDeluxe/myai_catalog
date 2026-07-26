@@ -1,6 +1,13 @@
 {
-  "updated": "2026-07-26T15:01:22Z",
+  "updated": "2026-07-26T16:53:50Z",
   "news": [
+    {
+      "title": "Hugging Face CEO calls for \u2018radical transparency\u2019 after \u2018unprecedented\u2019 OpenAI hack",
+      "url": "https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-07-26T16:33:13Z",
+      "snippet": "\"The first autonomous agent cyberattack is an unprecedented event. It deserves an unprecedented response!\""
+    },
     {
       "title": "Monday.com is the latest tech company to blame AI for layoffs \u2014 here are 20 others",
       "url": "https://techcrunch.com/2026/07/25/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
@@ -147,13 +154,6 @@
       "source": "The Verge",
       "publishedAt": "2026-07-23T19:00:00Z",
       "snippet": "Until now, voice mode has only been available on Claude Haiku, Anthropic's faster but less powerful model. Now the company is making its Opus and Sonnet models available in voice mode, and extending i"
-    },
-    {
-      "title": "Anthropic updates Claude voice mode with more capable models",
-      "url": "https://techcrunch.com/2026/07/23/anthropic-updates-claude-voice-mode-with-more-capable-models/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-07-23T19:00:00Z",
-      "snippet": "Claude's new voice model will let you reschedule your meeting or draft an email."
     },
     {
       "title": "Patreon is laying off 20 percent of workers",
