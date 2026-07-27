@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-27T02:31:42Z",
+  "updated": "2026-07-27T06:58:19Z",
   "news": [
     {
       "title": "Are brain waves the next unlock for physical AI?",
@@ -209,14 +209,14 @@
       "downloads": 2187304
     },
     {
-      "id": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
-      "displayName": "Qwythos 9B Claude Mythos 5 1M",
-      "downloads": 1410054
-    },
-    {
       "id": "LuffyTheFox/Qwen3.6-35B-A3B-Uncensored-Genesis-Hermes-V5-GGUF",
       "displayName": "Qwen3.6 35B A3B Uncensored Genesis Hermes V5",
       "downloads": 73642
+    },
+    {
+      "id": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+      "displayName": "Qwythos 9B Claude Mythos 5 1M",
+      "downloads": 1410054
     },
     {
       "id": "DavidAU/Qwen3.5-9B-The-Defiant-Fable-Uncensored-Heretic-NEO-IMATRIX-MAX-MTP-GGUF",
