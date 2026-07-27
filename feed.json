@@ -1,6 +1,13 @@
 {
-  "updated": "2026-07-26T22:55:49Z",
+  "updated": "2026-07-27T02:31:42Z",
   "news": [
+    {
+      "title": "Are brain waves the next unlock for physical AI?",
+      "url": "https://techcrunch.com/2026/07/26/are-brain-waves-the-next-unlock-for-physical-ai/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-07-27T00:19:14Z",
+      "snippet": "Forget YouTube videos\u2014frontier physical AI models need multiple camera angles, dense annotation, and soon, brain wave readings."
+    },
     {
       "title": "Making sense of the panic over Chinese AI",
       "url": "https://techcrunch.com/2026/07/26/making-sense-of-the-panic-over-chinese-ai/",
@@ -135,13 +142,6 @@
       "snippet": "ChatGPT Voice on desktop can work with both ChatGPT Work and Codex to complete tasks and control agents."
     },
     {
-      "title": "How AI guardrails are impeding the work of offensive cybersecurity researchers",
-      "url": "https://techcrunch.com/2026/07/23/how-ai-guardrails-are-impeding-the-work-of-offensive-cybersecurity-researchers/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-07-24T01:00:00Z",
-      "snippet": "We spoke with several cybersecurity researchers, who look for unknown vulnerabilities and develop tools to exploit them, about how OpenAI\u2019s and Anthropic\u2019s guardrails affect their work."
-    },
-    {
       "title": "Alexa Plus is getting an AI update to handle more complicated instructions",
       "url": "https://www.theverge.com/tech/970399/amazon-alexa-plus-ai-update-smart-home-devices",
       "source": "The Verge",
@@ -199,14 +199,14 @@
       "downloads": 1927138
     },
     {
-      "id": "prism-ml/Bonsai-27B-gguf",
-      "displayName": "Bonsai 27B",
-      "downloads": 2187304
-    },
-    {
       "id": "poolside/Laguna-S-2.1-GGUF",
       "displayName": "Laguna S 2.1",
       "downloads": 82187
+    },
+    {
+      "id": "prism-ml/Bonsai-27B-gguf",
+      "displayName": "Bonsai 27B",
+      "downloads": 2187304
     },
     {
       "id": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
