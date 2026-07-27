@@ -1,8 +1,57 @@
 {
-  "updated": "2026-07-27T14:22:37Z",
+  "updated": "2026-07-27T17:38:38Z",
   "news": [
     {
-      "title": "Enigma raises $70M to make controlling a robot as easy as adjusting the volume",
+      "title": "OpenAI\u2019s Hugging Face breach has reignited the debate over alignment and control",
+      "url": "https://techcrunch.com/2026/07/27/openais-hugging-face-breach-has-reignited-the-debate-over-alignment-and-control/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-07-27T17:28:42Z",
+      "snippet": "OpenAI's Hugging Face breach has reignited debate over AI alignment and control, exposing competing views on whether increasingly capable AI should be better aligned, better contained, or both."
+    },
+    {
+      "title": "Why China is giving away its best AI models",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/971444/how-chinese-open-weight-ai-models-impact-us-companies",
+      "source": "The Verge",
+      "publishedAt": "2026-07-27T16:51:50Z",
+      "snippet": "Silicon Valley has spent much of the past week on red alert, digesting the arrival of Moonshot AI's Kimi K3, a Chinese AI model that can allegedly beat some of the best systems built by US companies a"
+    },
+    {
+      "title": "Threads users can now chat with Meta AI in their DMs",
+      "url": "https://techcrunch.com/2026/07/27/threads-users-can-now-chat-with-meta-ai-in-their-dms/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-07-27T16:45:24Z",
+      "snippet": "Meta on Monday said it is rolling out its Meta AI chatbot within Threads' DMs, giving users a way to chat with the AI assistant."
+    },
+    {
+      "title": "Google\u2019s AI search is rapidly becoming the default, new data shows",
+      "url": "https://techcrunch.com/2026/07/27/googles-ai-search-is-rapidly-becoming-the-default-new-data-shows/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-07-27T15:57:12Z",
+      "snippet": "Google\u2019s AI Overviews now appear in 43% of searches, underscoring how quickly AI-generated answers are becoming the default way people discover information online."
+    },
+    {
+      "title": "Power up\u00a0your AI infrastructure!\u00a0A first look at\u00a0the Smart Systems Stage agenda at TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/07/27/power-up-your-ai-infrastructure-a-first-look-at-the-smart-systems-stage-agenda-at-techcrunch-disrupt-2026/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-07-27T15:30:00Z",
+      "snippet": "At TechCrunch Disrupt 2026, the Smart Systems Stage will be where energy, infrastructure, and technology collide, covering everything from fusion breakthroughs to the grid strain AI is putting on the "
+    },
+    {
+      "title": "This $9 key physically locks your most addictive apps",
+      "url": "https://techcrunch.com/2026/07/27/this-9-key-physically-locks-your-most-addictive-apps/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-07-27T15:25:37Z",
+      "snippet": "This $9 NFC key requires you to physically scan it to unlock distracting apps on your phone."
+    },
+    {
+      "title": "Ilya Sutskever\u2019s Safe Superintelligence partners with Nvidia to scale its AI research",
+      "url": "https://techcrunch.com/2026/07/27/ilya-sutskevers-safe-superintelligence-partners-with-nvidia-to-scale-its-ai-research/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-07-27T15:01:50Z",
+      "snippet": "After two years in stealth, Safe Superintelligence has announced a long-term partnership with Nvidia as it prepares to scale to its next phase."
+    },
+    {
+      "title": "Enigma raises $71M to make controlling a robot as easy as adjusting the volume",
       "url": "https://techcrunch.com/2026/07/27/enigma-raises-70m-to-make-controlling-a-robot-as-easy-as-adjusting-the-volume/",
       "source": "TechCrunch",
       "publishedAt": "2026-07-27T13:00:00Z",
@@ -20,7 +69,7 @@
       "url": "https://techcrunch.com/2026/07/26/are-brain-waves-the-next-unlock-for-physical-ai/",
       "source": "TechCrunch",
       "publishedAt": "2026-07-27T00:19:14Z",
-      "snippet": "Forget YouTube videos\u2014frontier physical AI models need multiple camera angles, dense annotation, and soon, brain wave readings."
+      "snippet": "Forget YouTube videos \u2014 frontier physical AI models need multiple camera angles, dense annotation, and, soon, brain wave readings."
     },
     {
       "title": "Making sense of the panic over Chinese AI",
@@ -51,7 +100,7 @@
       "snippet": "At libraries around the country, \"Avoiding AI\" workshops have elicited unprecedented demand."
     },
     {
-      "title": "One fallen power line exposed a growing AI data center problem. Here\u2019s how to fix it.",
+      "title": "One fallen power line exposed a growing AI data center problem \u2014 here\u2019s how to fix it",
       "url": "https://techcrunch.com/2026/07/25/one-fallen-power-line-exposed-a-growing-ai-data-center-problem-heres-how-to-fix-it/",
       "source": "TechCrunch",
       "publishedAt": "2026-07-25T13:05:00Z",
@@ -79,13 +128,6 @@
       "snippet": "Midjourney, which has gone from generating AI cat images to full-body ultrasound scans, is getting into a new field: astrology. The AI startup announced on Thursday that it has acquired the personaliz"
     },
     {
-      "title": "Why Cognition bought Poke: AI personality is becoming a competitive advantage",
-      "url": "https://techcrunch.com/2026/07/24/why-cognition-bought-poke-ai-personality-is-becoming-a-competitive-advantage/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-07-24T18:07:32Z",
-      "snippet": "The acquisition brings Poke\u2019s conversational style and interaction model to Cognition\u2019s coding agent Devin, reflecting a growing belief that how AI assistants interact with users is as important as th"
-    },
-    {
       "title": "You can\u2019t ignore Google Zero anymore",
       "url": "https://www.theverge.com/podcast/970735/google-zero-reddit-ai-publishers-vergecast",
       "source": "The Verge",
@@ -107,46 +149,11 @@
       "snippet": "Meta is upgrading its AI chatbot with new productivity features in a bid to compete with rivals like Gemini, ChatGPT, and Claude. The update will allow Meta AI to tap into your calendar to help you pl"
     },
     {
-      "title": "Anthropic launches Opus 5",
-      "url": "https://techcrunch.com/2026/07/24/anthropic-launches-opus-5/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-07-24T17:00:00Z",
-      "snippet": "Opus 5 will be both cheaper and less restrictive than Fable, likely making it preferable in most use cases."
-    },
-    {
-      "title": "As US weighs response to Chinese AI, industry urges against broad open-weight restrictions",
-      "url": "https://techcrunch.com/2026/07/24/as-us-weighs-response-to-chinese-ai-industry-urges-against-broad-open-weight-restrictions/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-07-24T15:51:49Z",
-      "snippet": "AI companies, including Nvidia and Mistral, urge policymakers to avoid broad restrictions on open-weight AI models as Washington debates responses to Chinese AI and alleged model distillation."
-    },
-    {
-      "title": "Bluesky\u2019s AI assistant Attie expands into an open social research tool",
-      "url": "https://techcrunch.com/2026/07/24/blueskys-ai-assistant-attie-expands-into-an-open-social-research-tool/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-07-24T15:13:57Z",
-      "snippet": "Users can now ask Attie questions about news, trends, and conversations on Bluesky and other apps on the AT Protocol."
-    },
-    {
-      "title": "Midjourney acquired the astrology app Co-Star",
-      "url": "https://techcrunch.com/2026/07/24/midjourney-acquired-the-astrology-app-co-star/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-07-24T15:09:55Z",
-      "snippet": "The AI lab Midjourney continues to expand its purview beyond image and video generation."
-    },
-    {
       "title": "The tech-broification of American science has officially begun",
       "url": "https://www.theverge.com/science/970534/genesis-mission-ai-science-funding-trump-grants",
       "source": "The Verge",
       "publishedAt": "2026-07-24T14:43:55Z",
       "snippet": "The Trump administration unveiled the first \"Genesis Mission\" grants on Thursday, directing $5 billion toward hundreds of AI-driven science projects in an effort the White House has described as \"comp"
-    },
-    {
-      "title": "\u2018AI communism\u2019,\u00a0rogue models, and the why Kimi K3 spooked Wall Street",
-      "url": "https://techcrunch.com/podcast/ai-communism-rogue-models-and-the-why-kimi-k3-spooked-wall-street/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-07-24T14:00:00Z",
-      "snippet": "Chinese AI lab Moonshot&#8217;s&#160;open model Kimi went viral this week&#160;for reasons that had less to do with the model itself and more to do with&#160;how the U.S. AI industry reacted to it. Me"
     },
     {
       "title": "Alexa Plus is getting an AI update to handle more complicated instructions",
@@ -168,13 +175,6 @@
       "source": "The Verge",
       "publishedAt": "2026-07-23T18:20:30Z",
       "snippet": "Patreon is laying off 20 percent of its workers, or around 93 employees, as reported earlier by 404 Media. In a memo to employees, Patreon CEO Jack Conte writes that the company isn't making these cha"
-    },
-    {
-      "title": "OpenAI is making big claims as it rolls out ChatGPT Health to everyone",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/970115/openai-chatgpt-health-launch-claims",
-      "source": "The Verge",
-      "publishedAt": "2026-07-23T17:00:00Z",
-      "snippet": "OpenAI is rolling out ChatGPT Health to everyone in the US on Thursday, allowing more people to connect their medical records and health-tracking information to the chatbot. During a briefing, Ashley "
     }
   ],
   "trending": [
@@ -184,14 +184,14 @@
       "downloads": 634146
     },
     {
-      "id": "prism-ml/Ternary-Bonsai-27B-gguf",
-      "displayName": "Ternary Bonsai 27B",
-      "downloads": 648938
-    },
-    {
       "id": "unsloth/Laguna-S-2.1-GGUF",
       "displayName": "Laguna S 2.1",
       "downloads": 117456
+    },
+    {
+      "id": "prism-ml/Ternary-Bonsai-27B-gguf",
+      "displayName": "Ternary Bonsai 27B",
+      "downloads": 648938
     },
     {
       "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
