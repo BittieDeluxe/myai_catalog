@@ -1,6 +1,20 @@
 {
-  "updated": "2026-07-27T11:14:56Z",
+  "updated": "2026-07-27T14:22:37Z",
   "news": [
+    {
+      "title": "Enigma raises $70M to make controlling a robot as easy as adjusting the volume",
+      "url": "https://techcrunch.com/2026/07/27/enigma-raises-70m-to-make-controlling-a-robot-as-easy-as-adjusting-the-volume/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-07-27T13:00:00Z",
+      "snippet": "The massive seed round was led by  Index Ventures and Ribbit Capital, with participation from Sarah Guo's Conviction Partners."
+    },
+    {
+      "title": "Nvidia, Microsoft launch open AI security alliance \u2014 without OpenAI, Google, or Anthropic",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/971281/nvidia-open-secure-ai-alliance-cybersecurity",
+      "source": "The Verge",
+      "publishedAt": "2026-07-27T12:06:22Z",
+      "snippet": "Nvidia on Monday said it is joining forces with Microsoft, SpaceX, IBM, and other tech companies to build and share open-source AI security tools. The new Open Secure AI Alliance said open tools are r"
+    },
     {
       "title": "Are brain waves the next unlock for physical AI?",
       "url": "https://techcrunch.com/2026/07/26/are-brain-waves-the-next-unlock-for-physical-ai/",
@@ -135,13 +149,6 @@
       "snippet": "Chinese AI lab Moonshot&#8217;s&#160;open model Kimi went viral this week&#160;for reasons that had less to do with the model itself and more to do with&#160;how the U.S. AI industry reacted to it. Me"
     },
     {
-      "title": "OpenAI\u2019s new voice mode makes it to the ChatGPT desktop app",
-      "url": "https://techcrunch.com/2026/07/24/openais-new-voice-mode-makes-it-to-the-chatgpt-desktop-app/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-07-24T13:36:42Z",
-      "snippet": "ChatGPT Voice on desktop can work with both ChatGPT Work and Codex to complete tasks and control agents."
-    },
-    {
       "title": "Alexa Plus is getting an AI update to handle more complicated instructions",
       "url": "https://www.theverge.com/tech/970399/amazon-alexa-plus-ai-update-smart-home-devices",
       "source": "The Verge",
@@ -168,14 +175,58 @@
       "source": "The Verge",
       "publishedAt": "2026-07-23T17:00:00Z",
       "snippet": "OpenAI is rolling out ChatGPT Health to everyone in the US on Thursday, allowing more people to connect their medical records and health-tracking information to the chatbot. During a briefing, Ashley "
-    },
-    {
-      "title": "Lawmakers prepare bill requiring AI \u2018kill switch\u2019",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/969939/lawmakers-ai-kill-switch-proposal",
-      "source": "The Verge",
-      "publishedAt": "2026-07-23T14:13:35Z",
-      "snippet": "Lawmakers are preparing to introduce an \"AI Kill Switch Act\" that would require AI companies to shut down or throttle their systems on orders from the Department of Homeland Security, according to a r"
     }
   ],
-  "trending": []
+  "trending": [
+    {
+      "id": "DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
+      "displayName": "Qwen3.6 27B Fable Fusion 711 Uncensored Heretic NM DAU NEO MAX MTP",
+      "downloads": 634146
+    },
+    {
+      "id": "prism-ml/Ternary-Bonsai-27B-gguf",
+      "displayName": "Ternary Bonsai 27B",
+      "downloads": 648938
+    },
+    {
+      "id": "unsloth/Laguna-S-2.1-GGUF",
+      "displayName": "Laguna S 2.1",
+      "downloads": 117456
+    },
+    {
+      "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
+      "displayName": "Qwen3.6 35B A3B Uncensored HauhauCS Aggressive",
+      "downloads": 1894395
+    },
+    {
+      "id": "poolside/Laguna-S-2.1-GGUF",
+      "displayName": "Laguna S 2.1",
+      "downloads": 85554
+    },
+    {
+      "id": "prism-ml/Bonsai-27B-gguf",
+      "displayName": "Bonsai 27B",
+      "downloads": 2257928
+    },
+    {
+      "id": "LuffyTheFox/Qwen3.6-35B-A3B-Uncensored-Genesis-Hermes-V5-GGUF",
+      "displayName": "Qwen3.6 35B A3B Uncensored Genesis Hermes V5",
+      "downloads": 83658
+    },
+    {
+      "id": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+      "displayName": "Qwythos 9B Claude Mythos 5 1M",
+      "downloads": 1336263
+    },
+    {
+      "id": "DavidAU/Qwen3.5-9B-The-Defiant-Fable-Uncensored-Heretic-NEO-IMATRIX-MAX-MTP-GGUF",
+      "displayName": "Qwen3.5 9B The Defiant Fable Uncensored Heretic NEO IMATRIX MAX MTP",
+      "downloads": 63002
+    },
+    {
+      "id": "microsoft/VibeVoice-ASR-BitNet",
+      "displayName": "VibeVoice ASR BitNet",
+      "downloads": 1219
+    }
+  ]
 }
