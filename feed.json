@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-27T06:58:19Z",
+  "updated": "2026-07-27T11:14:56Z",
   "news": [
     {
       "title": "Are brain waves the next unlock for physical AI?",
@@ -177,56 +177,5 @@
       "snippet": "Lawmakers are preparing to introduce an \"AI Kill Switch Act\" that would require AI companies to shut down or throttle their systems on orders from the Department of Homeland Security, according to a r"
     }
   ],
-  "trending": [
-    {
-      "id": "DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
-      "displayName": "Qwen3.6 27B Fable Fusion 711 Uncensored Heretic NM DAU NEO MAX MTP",
-      "downloads": 552026
-    },
-    {
-      "id": "prism-ml/Ternary-Bonsai-27B-gguf",
-      "displayName": "Ternary Bonsai 27B",
-      "downloads": 631970
-    },
-    {
-      "id": "unsloth/Laguna-S-2.1-GGUF",
-      "displayName": "Laguna S 2.1",
-      "downloads": 102684
-    },
-    {
-      "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
-      "displayName": "Qwen3.6 35B A3B Uncensored HauhauCS Aggressive",
-      "downloads": 1927138
-    },
-    {
-      "id": "poolside/Laguna-S-2.1-GGUF",
-      "displayName": "Laguna S 2.1",
-      "downloads": 82187
-    },
-    {
-      "id": "prism-ml/Bonsai-27B-gguf",
-      "displayName": "Bonsai 27B",
-      "downloads": 2187304
-    },
-    {
-      "id": "LuffyTheFox/Qwen3.6-35B-A3B-Uncensored-Genesis-Hermes-V5-GGUF",
-      "displayName": "Qwen3.6 35B A3B Uncensored Genesis Hermes V5",
-      "downloads": 73642
-    },
-    {
-      "id": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
-      "displayName": "Qwythos 9B Claude Mythos 5 1M",
-      "downloads": 1410054
-    },
-    {
-      "id": "DavidAU/Qwen3.5-9B-The-Defiant-Fable-Uncensored-Heretic-NEO-IMATRIX-MAX-MTP-GGUF",
-      "displayName": "Qwen3.5 9B The Defiant Fable Uncensored Heretic NEO IMATRIX MAX MTP",
-      "downloads": 55444
-    },
-    {
-      "id": "unsloth/Ornith-1.0-35B-GGUF",
-      "displayName": "Ornith 1.0 35B",
-      "downloads": 99353
-    }
-  ]
+  "trending": []
 }
