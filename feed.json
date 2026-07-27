@@ -1,6 +1,13 @@
 {
-  "updated": "2026-07-27T21:05:46Z",
+  "updated": "2026-07-27T22:56:37Z",
   "news": [
+    {
+      "title": "Satya Nadella says companies that trust one AI for everything may not survive",
+      "url": "https://techcrunch.com/2026/07/27/satya-nadella-says-companies-that-trust-one-ai-for-everything-may-not-survive/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-07-27T21:17:11Z",
+      "snippet": "Companies without their own models \u2014 or without a layer of AI infrastructure known as AI gateways to separate their prompts from the model itself \u2014 will be in trouble, Nadella says."
+    },
     {
       "title": "PSA: Your Claude shared chats and Artifacts may have ended up on Google",
       "url": "https://techcrunch.com/2026/07/27/psa-your-claude-shared-chats-and-artifacts-may-have-ended-up-on-google/",
@@ -112,13 +119,6 @@
       "source": "TechCrunch",
       "publishedAt": "2026-07-25T16:00:00Z",
       "snippet": "At libraries around the country, \"Avoiding AI\" workshops have elicited unprecedented demand."
-    },
-    {
-      "title": "One fallen power line exposed a growing AI data center problem \u2014 here\u2019s how to fix it",
-      "url": "https://techcrunch.com/2026/07/25/one-fallen-power-line-exposed-a-growing-ai-data-center-problem-heres-how-to-fix-it/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-07-25T13:05:00Z",
-      "snippet": "A close call in Northern Virginia revealed just how poorly data centers respond to grid disruptions. Here's how to fix the problem."
     },
     {
       "title": "Midjourney bought the astrology app Co-Star",
