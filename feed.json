@@ -1,26 +1,26 @@
 {
-  "updated": "2026-07-28T16:03:06Z",
+  "updated": "2026-07-28T19:16:32Z",
   "news": [
     {
       "title": "Data centers may face temporary power cuts to prevent blackouts on largest US grid",
       "url": "https://techcrunch.com/2026/07/28/data-centers-may-face-temporary-power-cuts-to-prevent-blackouts-on-largest-us-grid/",
       "source": "TechCrunch",
       "publishedAt": "2026-07-28T15:42:26Z",
-      "snippet": "The largest grid operator in the U.S. says it will cut power to large data centers to prevent blackouts starting next year."
+      "snippet": "The decision arrives as the breakneck pace of data center construction has grid operators scrambling to generate power."
     },
     {
       "title": "Fish Audio raises $52M seed to build AI voice models for creators and enterprises",
       "url": "https://techcrunch.com/2026/07/28/fish-audio-raises-50m-seed-to-build-ai-voice-models-for-creators-and-enterprises/",
       "source": "TechCrunch",
       "publishedAt": "2026-07-28T14:00:00Z",
-      "snippet": "Since launching last year, the startup today has more than 8 million people using the open-source or hosted version of its models, and now generates annual recurring revenue of $21 million."
+      "snippet": "Since launching last year, the startup today has more than 8 million people using the open source or hosted version of its models, and now generates annual recurring revenue of $21 million."
     },
     {
-      "title": "Recursive Superintelligence signs $410 million compute deal with Amazon",
+      "title": "Recursive Superintelligence signs $410M compute deal with Amazon",
       "url": "https://techcrunch.com/2026/07/28/recursive-superintelligence-signs-400-compute-deal-with-amazon/",
       "source": "TechCrunch",
       "publishedAt": "2026-07-28T13:19:17Z",
-      "snippet": "Recursive\u2019s $400 million outlay represents the bulk of the company\u2019s fundraising to date."
+      "snippet": "Recursive\u2019s emphasis on self-improving AI systems means much of the budget that would traditionally go toward headcount and operations is put straight into compute, as the company seeks to automate it"
     },
     {
       "title": "Perplexity\u2019s Personal Computer turns Windows PCs into AI agents",
@@ -194,18 +194,18 @@
       "downloads": 665427
     },
     {
-      "id": "poolside/Laguna-S-2.1-GGUF",
-      "displayName": "Laguna S 2.1",
-      "downloads": 90106
-    },
-    {
       "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
       "displayName": "Qwen3.6 35B A3B Uncensored HauhauCS Aggressive",
       "downloads": 1855505
     },
     {
-      "id": "LuffyTheFox/Qwen3.6-35B-A3B-Uncensored-Genesis-Hermes-V5-GGUF",
-      "displayName": "Qwen3.6 35B A3B Uncensored Genesis Hermes V5",
+      "id": "poolside/Laguna-S-2.1-GGUF",
+      "displayName": "Laguna S 2.1",
+      "downloads": 90106
+    },
+    {
+      "id": "LuffyTheFox/Qwen3.6-35B-A3B-Uncensored-Genesis-Hermes-V6-GGUF",
+      "displayName": "Qwen3.6 35B A3B Uncensored Genesis Hermes V6",
       "downloads": 99660
     },
     {
