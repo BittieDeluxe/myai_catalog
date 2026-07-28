@@ -1,6 +1,13 @@
 {
-  "updated": "2026-07-28T21:02:54Z",
+  "updated": "2026-07-28T22:54:21Z",
   "news": [
+    {
+      "title": "Bot-detection startup Spur nabs $200M from Insight",
+      "url": "https://techcrunch.com/2026/07/28/bot-detection-startup-spur-nabs-200m-from-insight/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-07-28T21:29:34Z",
+      "snippet": "Spur Intelligence has raised a $200 million round from Insight Partners for its tech that can identify legit human traffic from bots."
+    },
     {
       "title": "MCP startup Runlayer accuses Rippling of stealing its product idea",
       "url": "https://techcrunch.com/2026/07/28/mcp-startup-runlayer-accuses-rippling-of-stealing-its-product-idea/",
@@ -142,13 +149,6 @@
       "snippet": "At TechCrunch Disrupt 2026, the Smart Systems Stage will be where energy, infrastructure, and technology collide, covering everything from fusion breakthroughs to the grid strain AI is putting on the "
     },
     {
-      "title": "This $9 key physically locks your most addictive apps",
-      "url": "https://techcrunch.com/2026/07/27/this-9-key-physically-locks-your-most-addictive-apps/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-07-27T15:25:37Z",
-      "snippet": "This $9 NFC key requires you to physically scan it to unlock distracting apps on your phone."
-    },
-    {
       "title": "Nvidia, Microsoft launch open AI security alliance \u2014 without OpenAI, Google, or Anthropic",
       "url": "https://www.theverge.com/ai-artificial-intelligence/971281/nvidia-open-secure-ai-alliance-cybersecurity",
       "source": "The Verge",
@@ -224,9 +224,9 @@
       "downloads": 1754
     },
     {
-      "id": "DavidAU/Qwen3.5-9B-The-Defiant-Fable-Uncensored-Heretic-NEO-IMATRIX-MAX-MTP-GGUF",
-      "displayName": "Qwen3.5 9B The Defiant Fable Uncensored Heretic NEO IMATRIX MAX MTP",
-      "downloads": 112086
+      "id": "unsloth/Kimi-K3-GGUF",
+      "displayName": "Kimi K3",
+      "downloads": 0
     }
   ]
 }
