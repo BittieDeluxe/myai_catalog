@@ -1,8 +1,22 @@
 {
-  "updated": "2026-07-28T13:54:38Z",
+  "updated": "2026-07-28T16:03:06Z",
   "news": [
     {
-      "title": "Recursive Superintelligence signs $410 compute deal with Amazon",
+      "title": "Data centers may face temporary power cuts to prevent blackouts on largest US grid",
+      "url": "https://techcrunch.com/2026/07/28/data-centers-may-face-temporary-power-cuts-to-prevent-blackouts-on-largest-us-grid/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-07-28T15:42:26Z",
+      "snippet": "The largest grid operator in the U.S. says it will cut power to large data centers to prevent blackouts starting next year."
+    },
+    {
+      "title": "Fish Audio raises $52M seed to build AI voice models for creators and enterprises",
+      "url": "https://techcrunch.com/2026/07/28/fish-audio-raises-50m-seed-to-build-ai-voice-models-for-creators-and-enterprises/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-07-28T14:00:00Z",
+      "snippet": "Since launching last year, the startup today has more than 8 million people using the open-source or hosted version of its models, and now generates annual recurring revenue of $21 million."
+    },
+    {
+      "title": "Recursive Superintelligence signs $410 million compute deal with Amazon",
       "url": "https://techcrunch.com/2026/07/28/recursive-superintelligence-signs-400-compute-deal-with-amazon/",
       "source": "TechCrunch",
       "publishedAt": "2026-07-28T13:19:17Z",
@@ -126,20 +140,6 @@
       "source": "The Verge",
       "publishedAt": "2026-07-27T12:06:22Z",
       "snippet": "Nvidia on Monday said it is joining forces with Microsoft, SpaceX, IBM, and other tech companies to build and share open-source AI security tools. The new Open Secure AI Alliance said open tools are r"
-    },
-    {
-      "title": "Are brain waves the next unlock for physical AI?",
-      "url": "https://techcrunch.com/2026/07/26/are-brain-waves-the-next-unlock-for-physical-ai/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-07-27T00:19:14Z",
-      "snippet": "Forget YouTube videos \u2014 frontier physical AI models need multiple camera angles, dense annotation, and, soon, brain wave readings."
-    },
-    {
-      "title": "Making sense of the panic over Chinese AI",
-      "url": "https://techcrunch.com/2026/07/26/making-sense-of-the-panic-over-chinese-ai/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-07-26T19:40:57Z",
-      "snippet": "On the latest episode of Equity, we discussed why Moonshot AI's Kimi seemed to panic Silicon Valley and Wall Street."
     },
     {
       "title": "Midjourney bought the astrology app Co-Star",
