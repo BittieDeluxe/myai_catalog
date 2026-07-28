@@ -1,6 +1,13 @@
 {
-  "updated": "2026-07-28T02:07:04Z",
+  "updated": "2026-07-28T06:22:09Z",
   "news": [
+    {
+      "title": "Cursor makes its biggest India push yet ahead of SpaceX acquisition with localized pricing",
+      "url": "https://techcrunch.com/2026/07/27/cursor-makes-its-biggest-india-push-yet-ahead-of-spacex-acquisition-with-localized-pricing/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-07-28T04:30:00Z",
+      "snippet": "Cursor says India is now its third-largest market globally and plans to expand local hiring and enterprise sales."
+    },
     {
       "title": "Anthropic\u2019s Dario Amodei responds: doesn\u2019t oppose open-weight models, but fears Chinese AI",
       "url": "https://techcrunch.com/2026/07/27/anthropics-dario-amodei-responds-doesnt-oppose-open-weight-models-but-fears-chinese-ai/",
@@ -114,13 +121,6 @@
       "snippet": "\"The first autonomous agent cyberattack is an unprecedented event. It deserves an unprecedented response!\""
     },
     {
-      "title": "Monday.com is the latest tech company to blame AI for layoffs \u2014 here are 20 others",
-      "url": "https://techcrunch.com/2026/07/25/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-07-26T01:30:00Z",
-      "snippet": "A running look \u2014 in reverse chronological order \u2014 at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor."
-    },
-    {
       "title": "Midjourney bought the astrology app Co-Star",
       "url": "https://www.theverge.com/ai-artificial-intelligence/970894/midjourney-co-star-acquisition",
       "source": "The Verge",
@@ -204,14 +204,14 @@
       "downloads": 1894395
     },
     {
-      "id": "prism-ml/Bonsai-27B-gguf",
-      "displayName": "Bonsai 27B",
-      "downloads": 2257928
-    },
-    {
       "id": "LuffyTheFox/Qwen3.6-35B-A3B-Uncensored-Genesis-Hermes-V5-GGUF",
       "displayName": "Qwen3.6 35B A3B Uncensored Genesis Hermes V5",
       "downloads": 83658
+    },
+    {
+      "id": "prism-ml/Bonsai-27B-gguf",
+      "displayName": "Bonsai 27B",
+      "downloads": 2257928
     },
     {
       "id": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
