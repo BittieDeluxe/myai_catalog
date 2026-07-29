@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-29T06:26:40Z",
+  "updated": "2026-07-29T10:34:15Z",
   "news": [
     {
       "title": "Cyera agrees to acquire Oasis Security for $1B to safeguard proliferating AI agents",
@@ -199,14 +199,14 @@
       "downloads": 1855505
     },
     {
-      "id": "LuffyTheFox/Qwen3.6-35B-A3B-Uncensored-Genesis-Hermes-V6-GGUF",
-      "displayName": "Qwen3.6 35B A3B Uncensored Genesis Hermes V6",
-      "downloads": 99660
-    },
-    {
       "id": "unsloth/Kimi-K3-GGUF",
       "displayName": "Kimi K3",
       "downloads": 0
+    },
+    {
+      "id": "LuffyTheFox/Qwen3.6-35B-A3B-Uncensored-Genesis-Hermes-V6-GGUF",
+      "displayName": "Qwen3.6 35B A3B Uncensored Genesis Hermes V6",
+      "downloads": 99660
     },
     {
       "id": "prism-ml/Bonsai-27B-gguf",
@@ -214,9 +214,9 @@
       "downloads": 2339098
     },
     {
-      "id": "poolside/Laguna-S-2.1-GGUF",
-      "displayName": "Laguna S 2.1",
-      "downloads": 90106
+      "id": "microsoft/VibeVoice-ASR-BitNet",
+      "displayName": "VibeVoice ASR BitNet",
+      "downloads": 1754
     },
     {
       "id": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
@@ -224,9 +224,9 @@
       "downloads": 1262662
     },
     {
-      "id": "microsoft/VibeVoice-ASR-BitNet",
-      "displayName": "VibeVoice ASR BitNet",
-      "downloads": 1754
+      "id": "poolside/Laguna-S-2.1-GGUF",
+      "displayName": "Laguna S 2.1",
+      "downloads": 90106
     }
   ]
 }
