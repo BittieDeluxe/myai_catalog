@@ -1,6 +1,13 @@
 {
-  "updated": "2026-07-28T22:54:21Z",
+  "updated": "2026-07-29T02:09:56Z",
   "news": [
+    {
+      "title": "Cyera agrees to acquire Oasis Security for $1B to safeguard proliferating AI agents",
+      "url": "https://techcrunch.com/2026/07/28/cyera-agrees-to-acquire-oasis-security-for-1b-to-safeguard-proliferating-ai-agents/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-07-29T00:09:05Z",
+      "snippet": "The deal is Cyera's third acquisition this year."
+    },
     {
       "title": "Bot-detection startup Spur nabs $200M from Insight",
       "url": "https://techcrunch.com/2026/07/28/bot-detection-startup-spur-nabs-200m-from-insight/",
@@ -23,7 +30,7 @@
       "snippet": "His change of position comes after \"the first security incident that I have felt very viscerally.\""
     },
     {
-      "title": "AI leaders sign statement asking the government to do something about automated AI",
+      "title": "AI leaders sign a statement asking the government to do something about automated AI",
       "url": "https://www.theverge.com/ai-artificial-intelligence/972161/ai-leaders-us-government-openai-anthropic-google-meta",
       "source": "The Verge",
       "publishedAt": "2026-07-28T19:46:43Z",
@@ -142,13 +149,6 @@
       "snippet": "Google\u2019s AI Overviews now appear in 43% of searches, underscoring how quickly AI-generated answers are becoming the default way people discover information online."
     },
     {
-      "title": "Power up\u00a0your AI infrastructure!\u00a0A first look at\u00a0the Smart Systems Stage agenda at TechCrunch Disrupt 2026",
-      "url": "https://techcrunch.com/2026/07/27/power-up-your-ai-infrastructure-a-first-look-at-the-smart-systems-stage-agenda-at-techcrunch-disrupt-2026/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-07-27T15:30:00Z",
-      "snippet": "At TechCrunch Disrupt 2026, the Smart Systems Stage will be where energy, infrastructure, and technology collide, covering everything from fusion breakthroughs to the grid strain AI is putting on the "
-    },
-    {
       "title": "Nvidia, Microsoft launch open AI security alliance \u2014 without OpenAI, Google, or Anthropic",
       "url": "https://www.theverge.com/ai-artificial-intelligence/971281/nvidia-open-secure-ai-alliance-cybersecurity",
       "source": "The Verge",
@@ -199,19 +199,14 @@
       "downloads": 1855505
     },
     {
-      "id": "poolside/Laguna-S-2.1-GGUF",
-      "displayName": "Laguna S 2.1",
-      "downloads": 90106
-    },
-    {
       "id": "LuffyTheFox/Qwen3.6-35B-A3B-Uncensored-Genesis-Hermes-V6-GGUF",
       "displayName": "Qwen3.6 35B A3B Uncensored Genesis Hermes V6",
       "downloads": 99660
     },
     {
-      "id": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
-      "displayName": "Qwythos 9B Claude Mythos 5 1M",
-      "downloads": 1262662
+      "id": "poolside/Laguna-S-2.1-GGUF",
+      "displayName": "Laguna S 2.1",
+      "downloads": 90106
     },
     {
       "id": "prism-ml/Bonsai-27B-gguf",
@@ -219,14 +214,19 @@
       "downloads": 2339098
     },
     {
-      "id": "microsoft/VibeVoice-ASR-BitNet",
-      "displayName": "VibeVoice ASR BitNet",
-      "downloads": 1754
+      "id": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+      "displayName": "Qwythos 9B Claude Mythos 5 1M",
+      "downloads": 1262662
     },
     {
       "id": "unsloth/Kimi-K3-GGUF",
       "displayName": "Kimi K3",
       "downloads": 0
+    },
+    {
+      "id": "microsoft/VibeVoice-ASR-BitNet",
+      "displayName": "VibeVoice ASR BitNet",
+      "downloads": 1754
     }
   ]
 }
