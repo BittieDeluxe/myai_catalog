@@ -1,12 +1,26 @@
 {
-  "updated": "2026-07-29T19:07:36Z",
+  "updated": "2026-07-29T20:51:00Z",
   "news": [
+    {
+      "title": "The Hugging Face AI break-in, as told through an increasingly committed bear metaphor",
+      "url": "https://techcrunch.com/2026/07/29/the-hugging-face-ai-break-in-as-told-through-an-increasingly-committed-bear-metaphor/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-07-29T19:44:49Z",
+      "snippet": "Another way to think about the whole thing is to picture a bear at a campsite. (Really, we are going there.)"
+    },
     {
       "title": "Claude Opus 5 became downright ruthless when tasked with running a vending machine",
       "url": "https://techcrunch.com/2026/07/29/claude-opus-5-became-downright-ruthless-when-tasked-with-running-a-vending-machine/",
       "source": "TechCrunch",
       "publishedAt": "2026-07-29T18:45:27Z",
       "snippet": "Andon Labs' latest vending machine simulation shows Opus 5 lied and colluded its way to become the best AI capitalist ever."
+    },
+    {
+      "title": "OpenAI president says it&#8217;s &#8216;building a family of devices&#8217; for its AI chatbots",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/972709/openai-hardware-greg-brockman-interview",
+      "source": "The Verge",
+      "publishedAt": "2026-07-29T18:15:02Z",
+      "snippet": "In an interview with our friend Joanna Stern on her YouTube channel, OpenAI president Greg Brockman said the company is working on a \"family of devices\" for interacting with its AI models. However, Br"
     },
     {
       "title": "Hint, a new AI startup co-founded by Martha Stewart, offers an AI assistant for homeowners",
@@ -156,25 +170,11 @@
       "snippet": "Companies without their own models \u2014 or without a layer of AI infrastructure known as AI gateways to separate their prompts from the model itself \u2014 will be in trouble, Nadella says."
     },
     {
-      "title": "PSA: Your Claude shared chats and Artifacts may have ended up on Google",
-      "url": "https://techcrunch.com/2026/07/27/psa-your-claude-shared-chats-and-artifacts-may-have-ended-up-on-google/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-07-27T20:19:42Z",
-      "snippet": "The issue appears to have originated from Claude\u2019s \u201cshare chat\u201d feature, which allows users to create links that enable anyone with the assigned URL view a conversation or project."
-    },
-    {
       "title": "Why China is giving away its best AI models",
       "url": "https://www.theverge.com/ai-artificial-intelligence/971444/how-chinese-open-weight-ai-models-impact-us-companies",
       "source": "The Verge",
       "publishedAt": "2026-07-27T16:51:50Z",
       "snippet": "Silicon Valley has spent much of the past week on red alert, digesting the arrival of Moonshot AI's Kimi K3, a Chinese AI model that can allegedly beat some of the best systems built by US companies a"
-    },
-    {
-      "title": "Nvidia, Microsoft launch open AI security alliance \u2014 without OpenAI, Google, or Anthropic",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/971281/nvidia-open-secure-ai-alliance-cybersecurity",
-      "source": "The Verge",
-      "publishedAt": "2026-07-27T12:06:22Z",
-      "snippet": "Nvidia on Monday said it is joining forces with Microsoft, SpaceX, IBM, and other tech companies to build and share open-source AI security tools. The new Open Secure AI Alliance said open tools are r"
     }
   ],
   "trending": [
@@ -184,14 +184,14 @@
       "downloads": 736692
     },
     {
-      "id": "prism-ml/Ternary-Bonsai-27B-gguf",
-      "displayName": "Ternary Bonsai 27B",
-      "downloads": 665427
-    },
-    {
       "id": "unsloth/Kimi-K3-GGUF",
       "displayName": "Kimi K3",
       "downloads": 0
+    },
+    {
+      "id": "prism-ml/Ternary-Bonsai-27B-gguf",
+      "displayName": "Ternary Bonsai 27B",
+      "downloads": 665427
     },
     {
       "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
