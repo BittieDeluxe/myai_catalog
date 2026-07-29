@@ -1,6 +1,13 @@
 {
-  "updated": "2026-07-29T17:10:51Z",
+  "updated": "2026-07-29T19:07:36Z",
   "news": [
+    {
+      "title": "Claude Opus 5 became downright ruthless when tasked with running a vending machine",
+      "url": "https://techcrunch.com/2026/07/29/claude-opus-5-became-downright-ruthless-when-tasked-with-running-a-vending-machine/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-07-29T18:45:27Z",
+      "snippet": "Andon Labs' latest vending machine simulation shows Opus 5 lied and colluded its way to become the best AI capitalist ever."
+    },
     {
       "title": "Hint, a new AI startup co-founded by Martha Stewart, offers an AI assistant for homeowners",
       "url": "https://techcrunch.com/2026/07/29/hint-a-new-ai-startup-co-founded-by-martha-stewart-offers-an-ai-assistant-for-homeowners/",
@@ -156,13 +163,6 @@
       "snippet": "The issue appears to have originated from Claude\u2019s \u201cshare chat\u201d feature, which allows users to create links that enable anyone with the assigned URL view a conversation or project."
     },
     {
-      "title": "Microsoft launches its first cybersecurity model, plus a new agentic cybersecurity system",
-      "url": "https://techcrunch.com/2026/07/27/microsoft-launches-its-first-cyber-model-and-a-new-agentic-cybersecurity-system/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-07-27T18:32:11Z",
-      "snippet": "Microsoft bolstered its AI cybersecurity offerings this week with the launch of its first AI security model and a new security platform."
-    },
-    {
       "title": "Why China is giving away its best AI models",
       "url": "https://www.theverge.com/ai-artificial-intelligence/971444/how-chinese-open-weight-ai-models-impact-us-companies",
       "source": "The Verge",
@@ -189,9 +189,9 @@
       "downloads": 665427
     },
     {
-      "id": "unsloth/Laguna-S-2.1-GGUF",
-      "displayName": "Laguna S 2.1",
-      "downloads": 129601
+      "id": "unsloth/Kimi-K3-GGUF",
+      "displayName": "Kimi K3",
+      "downloads": 0
     },
     {
       "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
@@ -199,9 +199,9 @@
       "downloads": 1855505
     },
     {
-      "id": "unsloth/Kimi-K3-GGUF",
-      "displayName": "Kimi K3",
-      "downloads": 0
+      "id": "unsloth/Laguna-S-2.1-GGUF",
+      "displayName": "Laguna S 2.1",
+      "downloads": 129601
     },
     {
       "id": "LuffyTheFox/Qwen3.6-35B-A3B-Uncensored-Genesis-Hermes-V6-GGUF",
@@ -219,14 +219,14 @@
       "downloads": 2339098
     },
     {
-      "id": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
-      "displayName": "Qwythos 9B Claude Mythos 5 1M",
-      "downloads": 1262662
-    },
-    {
       "id": "DavidAU/Qwen3.5-9B-The-Defiant-Fable-Uncensored-Heretic-NEO-IMATRIX-MAX-MTP-GGUF",
       "displayName": "Qwen3.5 9B The Defiant Fable Uncensored Heretic NEO IMATRIX MAX MTP",
       "downloads": 112086
+    },
+    {
+      "id": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+      "displayName": "Qwythos 9B Claude Mythos 5 1M",
+      "downloads": 1262662
     }
   ]
 }
