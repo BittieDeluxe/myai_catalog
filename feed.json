@@ -1,6 +1,34 @@
 {
-  "updated": "2026-07-29T10:34:15Z",
+  "updated": "2026-07-29T13:59:36Z",
   "news": [
+    {
+      "title": "Artists are lawyering up against AI slop, and some are even winning",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/971059/ai-artists-lawsuit-google-meta-anthropic",
+      "source": "The Verge",
+      "publishedAt": "2026-07-29T12:00:00Z",
+      "snippet": "When The Atlantic published a searchable dataset of works used to train AI, Kirk Wallace Johnson, like a lot of artists, looked for his name out of curiosity. And, like a lot of artists, he found it. "
+    },
+    {
+      "title": "OpenAI\u2019s rogue AI agent didn\u2019t stop at hacking Hugging Face",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/972441/openai-rogue-ai-agent-hacked-more-than-hugging-face",
+      "source": "The Verge",
+      "publishedAt": "2026-07-29T11:54:29Z",
+      "snippet": "The AI agent that escaped from OpenAI and hacked developer platform Hugging Face attacked other companies as well, OpenAI revealed on Tuesday. The update substantially widens the scope of an already c"
+    },
+    {
+      "title": "We\u2019re running out of reasons to ignore AI safety",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/972380/open-ai-hugging-face-hack-ai-safety-warning",
+      "source": "The Verge",
+      "publishedAt": "2026-07-29T11:00:00Z",
+      "snippet": "Earlier this month, OpenAI gave several of its AI models a task: complete a test designed to measure their cybersecurity capabilities. It put the systems in a sandboxed environment without an internet"
+    },
+    {
+      "title": "As AI content floods the internet, Pangram raises $9M to detect it",
+      "url": "https://techcrunch.com/2026/07/29/as-ai-content-floods-the-internet-pangram-raises-9m-to-detect-it/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-07-29T11:00:00Z",
+      "snippet": "Pangram has raised $9 million to scale its AI detection software. The startup has also released a new AI text detection model, Pangram 4, and an AI image detection model in research preview."
+    },
     {
       "title": "Cyera agrees to acquire Oasis Security for $1B to safeguard proliferating AI agents",
       "url": "https://techcrunch.com/2026/07/28/cyera-agrees-to-acquire-oasis-security-for-1b-to-safeguard-proliferating-ai-agents/",
@@ -142,39 +170,11 @@
       "snippet": "Meta on Monday said it is rolling out its Meta AI chatbot within Threads' DMs, giving users a way to chat with the AI assistant."
     },
     {
-      "title": "Google\u2019s AI search is rapidly becoming the default, new data shows",
-      "url": "https://techcrunch.com/2026/07/27/googles-ai-search-is-rapidly-becoming-the-default-new-data-shows/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-07-27T15:57:12Z",
-      "snippet": "Google\u2019s AI Overviews now appear in 43% of searches, underscoring how quickly AI-generated answers are becoming the default way people discover information online."
-    },
-    {
       "title": "Nvidia, Microsoft launch open AI security alliance \u2014 without OpenAI, Google, or Anthropic",
       "url": "https://www.theverge.com/ai-artificial-intelligence/971281/nvidia-open-secure-ai-alliance-cybersecurity",
       "source": "The Verge",
       "publishedAt": "2026-07-27T12:06:22Z",
       "snippet": "Nvidia on Monday said it is joining forces with Microsoft, SpaceX, IBM, and other tech companies to build and share open-source AI security tools. The new Open Secure AI Alliance said open tools are r"
-    },
-    {
-      "title": "Midjourney bought the astrology app Co-Star",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/970894/midjourney-co-star-acquisition",
-      "source": "The Verge",
-      "publishedAt": "2026-07-24T19:06:58Z",
-      "snippet": "Midjourney, which has gone from generating AI cat images to full-body ultrasound scans, is getting into a new field: astrology. The AI startup announced on Thursday that it has acquired the personaliz"
-    },
-    {
-      "title": "You can\u2019t ignore Google Zero anymore",
-      "url": "https://www.theverge.com/podcast/970735/google-zero-reddit-ai-publishers-vergecast",
-      "source": "The Verge",
-      "publishedAt": "2026-07-24T17:29:48Z",
-      "snippet": "The web and Google once had a deal: Google collects data and indexes webpages and in exchange sends oceans of traffic to websites. The deal wasn't perfect and certainly made Google more money than it "
-    },
-    {
-      "title": "Anthropic releases Opus 5 with \u2018close\u2019 to Fable 5\u2019s capabilities",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/970105/claude-opus-5-announced-anthropic-ai-model-release",
-      "source": "The Verge",
-      "publishedAt": "2026-07-24T17:00:00Z",
-      "snippet": "Weeks after Anthropic's latest toe-to-toe with the US government, and days after an OpenAI security incident that dominated tech industry discussions, Anthropic on Thursday released its newest model, "
     }
   ],
   "trending": [
@@ -209,11 +209,6 @@
       "downloads": 99660
     },
     {
-      "id": "prism-ml/Bonsai-27B-gguf",
-      "displayName": "Bonsai 27B",
-      "downloads": 2339098
-    },
-    {
       "id": "microsoft/VibeVoice-ASR-BitNet",
       "displayName": "VibeVoice ASR BitNet",
       "downloads": 1754
@@ -224,9 +219,14 @@
       "downloads": 1262662
     },
     {
-      "id": "poolside/Laguna-S-2.1-GGUF",
-      "displayName": "Laguna S 2.1",
-      "downloads": 90106
+      "id": "prism-ml/Bonsai-27B-gguf",
+      "displayName": "Bonsai 27B",
+      "downloads": 2339098
+    },
+    {
+      "id": "DavidAU/Qwen3.5-9B-The-Defiant-Fable-Uncensored-Heretic-NEO-IMATRIX-MAX-MTP-GGUF",
+      "displayName": "Qwen3.5 9B The Defiant Fable Uncensored Heretic NEO IMATRIX MAX MTP",
+      "downloads": 112086
     }
   ]
 }
