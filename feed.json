@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-29T02:09:56Z",
+  "updated": "2026-07-29T06:26:40Z",
   "news": [
     {
       "title": "Cyera agrees to acquire Oasis Security for $1B to safeguard proliferating AI agents",
@@ -204,9 +204,9 @@
       "downloads": 99660
     },
     {
-      "id": "poolside/Laguna-S-2.1-GGUF",
-      "displayName": "Laguna S 2.1",
-      "downloads": 90106
+      "id": "unsloth/Kimi-K3-GGUF",
+      "displayName": "Kimi K3",
+      "downloads": 0
     },
     {
       "id": "prism-ml/Bonsai-27B-gguf",
@@ -214,14 +214,14 @@
       "downloads": 2339098
     },
     {
+      "id": "poolside/Laguna-S-2.1-GGUF",
+      "displayName": "Laguna S 2.1",
+      "downloads": 90106
+    },
+    {
       "id": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
       "displayName": "Qwythos 9B Claude Mythos 5 1M",
       "downloads": 1262662
-    },
-    {
-      "id": "unsloth/Kimi-K3-GGUF",
-      "displayName": "Kimi K3",
-      "downloads": 0
     },
     {
       "id": "microsoft/VibeVoice-ASR-BitNet",
