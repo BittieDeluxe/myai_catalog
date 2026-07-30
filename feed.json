@@ -1,6 +1,41 @@
 {
-  "updated": "2026-07-30T13:48:46Z",
+  "updated": "2026-07-30T15:48:46Z",
   "news": [
+    {
+      "title": "Meta says AI is making it easier to build new apps \u2014 and more are coming",
+      "url": "https://techcrunch.com/2026/07/30/meta-says-ai-is-making-it-easier-to-build-new-apps-and-more-are-coming/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-07-30T15:41:16Z",
+      "snippet": "Meta says AI is making it dramatically easier to build and launch new consumer apps, with CEO Mark Zuckerberg telling investors the company has more new consumer products on the way following a recent"
+    },
+    {
+      "title": "Nscale buys Anyscale as it seeks to own more of the AI compute stack",
+      "url": "https://techcrunch.com/2026/07/30/nscale-buys-anyscale-as-it-seeks-to-own-more-of-the-ai-compute-stack/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-07-30T15:19:15Z",
+      "snippet": "British AI neocloud Nscale is buying software startup Anyscale, which helps companies scale their AI workloads across data centers and servers."
+    },
+    {
+      "title": "Forward-deployed engineers are the AI industry\u2019s latest talent obsession",
+      "url": "https://techcrunch.com/2026/07/30/forward-deployed-engineers-are-the-ai-industrys-latest-talent-obsession/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-07-30T15:00:00Z",
+      "snippet": "A new study estimates only 2,000 U.S. engineers have the expertise to deliver meaningful AI ROI, as enterprises race to hire forward-deployed engineers to implement AI at scale."
+    },
+    {
+      "title": "In the Hugging Face breach, OpenAI\u2019s hacker was noisy and fast \u2014 but not unstoppable",
+      "url": "https://techcrunch.com/2026/07/30/in-the-hugging-face-breach-openais-hacker-was-noisy-and-fast-but-not-unstoppable/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-07-30T14:48:32Z",
+      "snippet": "Cybersecurity experts told TechCrunch that one of the biggest lessons to be taken from the OpenAI hack against Hugging Face has nothing to do with AI, but traditional cybersecurity defense."
+    },
+    {
+      "title": "TechCrunch Disrupt 2026\u2019s biggest stage features leaders from Amazon,\u00a0Replit, Tether, with much\u00a0more to come",
+      "url": "https://techcrunch.com/2026/07/30/techcrunch-disrupt-2026s-biggest-stage-features-leaders-from-amazon-replit-tether-with-much-more-to-come/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-07-30T14:00:00Z",
+      "snippet": "The Disrupt Stage is where many of the biggest conversations in technology happen, with a legacy that stretches back for more than a decade."
+    },
     {
       "title": "Dili raises $21.7M to bring AI compliance to the infrastructure boom",
       "url": "https://techcrunch.com/2026/07/30/dili-raises-15-million-to-bring-ai-compliance-to-the-infrastructure-boom/",
@@ -100,13 +135,6 @@
       "snippet": "AI home management startup Hint, co-founded by Martha Stewart, wants to become an \u201cAI for your home,\u201d combining property records, maintenance schedules, home documents, and an AI assistant into a sing"
     },
     {
-      "title": "Encore AI raises $30M to build AI agents that learn from customer calls",
-      "url": "https://techcrunch.com/2026/07/29/encore-ai-raises-30m-to-build-ai-agents-that-learn-from-customer-calls/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-07-29T14:41:06Z",
-      "snippet": "The startup analyzes calls, messages, and CRM data to identify effective sales techniques and turn them into playbooks for AI agents."
-    },
-    {
       "title": "Artists are lawyering up against AI slop, and some are even winning",
       "url": "https://www.theverge.com/ai-artificial-intelligence/971059/ai-artists-lawsuit-google-meta-anthropic",
       "source": "The Verge",
@@ -126,34 +154,6 @@
       "source": "The Verge",
       "publishedAt": "2026-07-29T11:00:00Z",
       "snippet": "Earlier this month, OpenAI gave several of its AI models a task: complete a test designed to measure their cybersecurity capabilities. It put the systems in a sandboxed environment without an internet"
-    },
-    {
-      "title": "As AI content floods the internet, Pangram raises $9M to detect it",
-      "url": "https://techcrunch.com/2026/07/29/as-ai-content-floods-the-internet-pangram-raises-9m-to-detect-it/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-07-29T11:00:00Z",
-      "snippet": "Pangram has raised $9 million to scale its AI detection software. The startup has also released a new AI text detection model, Pangram 4, and an AI image detection model in research preview."
-    },
-    {
-      "title": "Cyera agrees to acquire Oasis Security for $1B to safeguard proliferating AI agents",
-      "url": "https://techcrunch.com/2026/07/28/cyera-agrees-to-acquire-oasis-security-for-1b-to-safeguard-proliferating-ai-agents/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-07-29T00:09:05Z",
-      "snippet": "The deal is Cyera's third acquisition this year."
-    },
-    {
-      "title": "Bot-detection startup Spur nabs $200M from Insight",
-      "url": "https://techcrunch.com/2026/07/28/bot-detection-startup-spur-nabs-200m-from-insight/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-07-28T21:29:34Z",
-      "snippet": "Spur Intelligence has raised a $200 million round from Insight Partners for its tech that can identify legit human traffic from bots."
-    },
-    {
-      "title": "MCP startup Runlayer accuses Rippling of stealing its product idea",
-      "url": "https://techcrunch.com/2026/07/28/mcp-startup-runlayer-accuses-rippling-of-stealing-its-product-idea/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-07-28T20:45:12Z",
-      "snippet": "Runlayer is suing Rippling after Rippling evaluated the startup's MCP  gateway product and then opted to build one itself."
     },
     {
       "title": "AI leaders sign a statement asking the government to do something about automated AI",
@@ -194,14 +194,14 @@
       "downloads": 1803090
     },
     {
-      "id": "prism-ml/Ternary-Bonsai-27B-gguf",
-      "displayName": "Ternary Bonsai 27B",
-      "downloads": 697666
-    },
-    {
       "id": "LuffyTheFox/Qwen3.6-35B-A3B-Uncensored-Genesis-Hermes-V6-GGUF",
       "displayName": "Qwen3.6 35B A3B Uncensored Genesis Hermes V6",
       "downloads": 162394
+    },
+    {
+      "id": "prism-ml/Ternary-Bonsai-27B-gguf",
+      "displayName": "Ternary Bonsai 27B",
+      "downloads": 697666
     },
     {
       "id": "microsoft/VibeVoice-ASR-BitNet",
