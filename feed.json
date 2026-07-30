@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-30T01:59:21Z",
+  "updated": "2026-07-30T05:14:49Z",
   "news": [
     {
       "title": "Microsoft is openly competing with OpenAI, Anthropic more than ever",
@@ -65,7 +65,7 @@
       "snippet": "xAI is suing Minnesota Attorney General Keith Ellison over a law passed back in May that broadly targets \"nudification\" apps, claiming that the statute's punitive provisions leave the company with \"no"
     },
     {
-      "title": "The Hugging Face AI break-in, as told through an increasingly committed bear metaphor",
+      "title": "The Hugging Face AI break-in explained",
       "url": "https://techcrunch.com/2026/07/29/the-hugging-face-ai-break-in-as-told-through-an-increasingly-committed-bear-metaphor/",
       "source": "TechCrunch",
       "publishedAt": "2026-07-29T19:44:49Z",
@@ -189,14 +189,14 @@
       "downloads": 0
     },
     {
-      "id": "prism-ml/Ternary-Bonsai-27B-gguf",
-      "displayName": "Ternary Bonsai 27B",
-      "downloads": 665427
-    },
-    {
       "id": "unsloth/Laguna-S-2.1-GGUF",
       "displayName": "Laguna S 2.1",
       "downloads": 129601
+    },
+    {
+      "id": "prism-ml/Ternary-Bonsai-27B-gguf",
+      "displayName": "Ternary Bonsai 27B",
+      "downloads": 665427
     },
     {
       "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
@@ -219,14 +219,14 @@
       "downloads": 112086
     },
     {
-      "id": "prism-ml/Bonsai-27B-gguf",
-      "displayName": "Bonsai 27B",
-      "downloads": 2339098
-    },
-    {
       "id": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
       "displayName": "Qwythos 9B Claude Mythos 5 1M",
       "downloads": 1262662
+    },
+    {
+      "id": "prism-ml/Bonsai-27B-gguf",
+      "displayName": "Bonsai 27B",
+      "downloads": 2339098
     }
   ]
 }
