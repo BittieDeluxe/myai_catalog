@@ -1,6 +1,41 @@
 {
-  "updated": "2026-07-30T17:23:46Z",
+  "updated": "2026-07-30T19:18:30Z",
   "news": [
+    {
+      "title": "Google says it fixed more Chrome bugs in June than over the past two years, thanks to AI",
+      "url": "https://techcrunch.com/2026/07/30/google-says-it-fixed-more-chrome-bugs-in-june-than-over-the-past-two-years-thanks-to-ai/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-07-30T18:57:58Z",
+      "snippet": "As experts have warned for the last two years, some companies \u2014 like Microsoft and now Google \u2014 are finding and patching an exponential number of bugs in their products, thanks to the use of LLMs and "
+    },
+    {
+      "title": "LinkedIn actually adds a \u2018seems like AI slop\u2019 button",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/973384/linkedin-seems-like-ai-slop-button",
+      "source": "The Verge",
+      "publishedAt": "2026-07-30T18:43:26Z",
+      "snippet": "A lot of content on LinkedIn might seem like AI slop, and now, you'll be able to report those posts. As part of a series of updates to reduce the volume of AI slop on the platform, LinkedIn is introdu"
+    },
+    {
+      "title": "LinkedIn adds a button to report AI-generated \u2018slop\u2019",
+      "url": "https://techcrunch.com/2026/07/30/linkedin-adds-a-button-to-report-ai-generated-slop/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-07-30T18:05:21Z",
+      "snippet": "LinkedIn is introducing new ways to reduce low-quality AI-generated posts, including a \u201cseems like AI slop\u201d reporting option. It's also replacing its own AI writing feature with a proofreading tool."
+    },
+    {
+      "title": "Google DeepMind\u2019s new AI model can control a robot\u2019s entire body",
+      "url": "https://www.theverge.com/tech/973276/google-deepmind-gemini-robotics-2-whole-body",
+      "source": "The Verge",
+      "publishedAt": "2026-07-30T17:18:45Z",
+      "snippet": "Google DeepMind says the latest version of its Gemini Robotics AI model can \"control entire humanoid robots.\" While the previous model focused on controlling a humanoid robot's upper body, Gemini Robo"
+    },
+    {
+      "title": "Friend re-launches its AI pendant with a speaker that talks to you, for twice the price",
+      "url": "https://www.theverge.com/gadgets/973163/friend-re-launches-its-ai-pendant-with-a-speaker-that-talks-to-you-for-twice-the-price",
+      "source": "The Verge",
+      "publishedAt": "2026-07-30T16:33:32Z",
+      "snippet": "Do you remember Friend? The Friend that launched an AI pendant, spent $1.8 million of its $2.5 million in funding to acquire friend.com, and plastered the NYC subway with ads promoting artificial comp"
+    },
     {
       "title": "Okta buys AI security startup Permiso; source says for about $200M",
       "url": "https://techcrunch.com/2026/07/30/okta-buys-ai-security-startup-permiso-source-says-for-about-200m/",
@@ -13,7 +48,7 @@
       "url": "https://techcrunch.com/2026/07/30/meta-says-ai-is-making-it-easier-to-build-new-apps-and-more-are-coming/",
       "source": "TechCrunch",
       "publishedAt": "2026-07-30T15:41:16Z",
-      "snippet": "Meta says AI is making it dramatically easier to build and launch new consumer apps, with CEO Mark Zuckerberg telling investors the company has more new consumer products on the way following a recent"
+      "snippet": "Meta says AI is making it dramatically easier to build and launch new consumer apps, with CEO Mark Zuckerberg telling investors the company has more new consumer products on the way."
     },
     {
       "title": "Nscale buys Anyscale as it seeks to own more of the AI compute stack",
@@ -114,20 +149,6 @@
       "snippet": "xAI is suing Minnesota Attorney General Keith Ellison over a law passed back in May that broadly targets \"nudification\" apps, claiming that the statute's punitive provisions leave the company with \"no"
     },
     {
-      "title": "The Hugging Face break-in explained",
-      "url": "https://techcrunch.com/2026/07/29/the-hugging-face-ai-break-in-as-told-through-an-increasingly-committed-bear-metaphor/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-07-29T19:44:49Z",
-      "snippet": "Another way to think about the whole thing is to picture a bear at a campsite. (Really, we are going there.)"
-    },
-    {
-      "title": "Claude Opus 5 became downright ruthless when tasked with running a vending machine",
-      "url": "https://techcrunch.com/2026/07/29/claude-opus-5-became-downright-ruthless-when-tasked-with-running-a-vending-machine/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-07-29T18:45:27Z",
-      "snippet": "Andon Labs' latest vending machine simulation shows Opus 5 lied and colluded its way to become the best AI capitalist ever."
-    },
-    {
       "title": "OpenAI president says it&#8217;s &#8216;building a family of devices&#8217; for its AI chatbots",
       "url": "https://www.theverge.com/ai-artificial-intelligence/972709/openai-hardware-greg-brockman-interview",
       "source": "The Verge",
@@ -154,27 +175,6 @@
       "source": "The Verge",
       "publishedAt": "2026-07-29T11:00:00Z",
       "snippet": "Earlier this month, OpenAI gave several of its AI models a task: complete a test designed to measure their cybersecurity capabilities. It put the systems in a sandboxed environment without an internet"
-    },
-    {
-      "title": "AI leaders sign a statement asking the government to do something about automated AI",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/972161/ai-leaders-us-government-openai-anthropic-google-meta",
-      "source": "The Verge",
-      "publishedAt": "2026-07-28T19:46:43Z",
-      "snippet": "Employees of OpenAI and Anthropic, as well as Google, Meta, Thinking Machines, Microsoft, Mistral, and other leading AI labs, have written a statement to the US government supporting a potential slowd"
-    },
-    {
-      "title": "AI\u2019s finally expensive enough to make Wall Street nervous",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/972119/ai-stock-fall-google-capex",
-      "source": "The Verge",
-      "publishedAt": "2026-07-28T19:33:03Z",
-      "snippet": "It's earnings season, and investors got an unpleasant surprise from Google: an increase on its spending estimate, to as much as $205 billion - from the last quarter's projection of up to $190 billion."
-    },
-    {
-      "title": "Perplexity\u2019s Personal Computer turns Windows PCs into AI agents",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/971750/perplexity-personal-computer-windows-ai-agents",
-      "source": "The Verge",
-      "publishedAt": "2026-07-28T12:30:00Z",
-      "snippet": "Perplexity has expanded its agentic Personal Computer tool to Windows, allowing computers running the world's most popular OS to be used as a locally run AI system. Like the Mac version that Perplexit"
     }
   ],
   "trending": [
