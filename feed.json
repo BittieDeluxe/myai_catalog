@@ -1,6 +1,20 @@
 {
-  "updated": "2026-07-30T19:18:30Z",
+  "updated": "2026-07-30T21:03:09Z",
   "news": [
+    {
+      "title": "Judge says Trump admin still lacks evidence for Anthropic \u2018supply chain risk\u2019 label",
+      "url": "https://techcrunch.com/2026/07/30/judge-says-trump-admin-still-lacks-evidence-for-anthropic-supply-chain-risk-label/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-07-30T20:26:38Z",
+      "snippet": "A federal judge said the Trump administration has not presented enough evidence to justify labeling Anthropic a supply chain risk, casting doubt on the government's ban on its AI technology."
+    },
+    {
+      "title": "Friend, the lonely AI wearable, returns with a new voice and a much bigger price tag",
+      "url": "https://techcrunch.com/2026/07/30/friend-the-lonely-ai-wearable-returns-with-a-new-voice-and-a-much-bigger-price-tag/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-07-30T19:44:16Z",
+      "snippet": "Friend, the AI wearable, can now talk to its users \u2014 for an enhanced price."
+    },
     {
       "title": "Google says it fixed more Chrome bugs in June than over the past two years, thanks to AI",
       "url": "https://techcrunch.com/2026/07/30/google-says-it-fixed-more-chrome-bugs-in-june-than-over-the-past-two-years-thanks-to-ai/",
@@ -37,7 +51,7 @@
       "snippet": "Do you remember Friend? The Friend that launched an AI pendant, spent $1.8 million of its $2.5 million in funding to acquire friend.com, and plastered the NYC subway with ads promoting artificial comp"
     },
     {
-      "title": "Okta buys AI security startup Permiso; source says for about $200M",
+      "title": "Okta buys AI security startup Permiso \u2014 source says for about $200M",
       "url": "https://techcrunch.com/2026/07/30/okta-buys-ai-security-startup-permiso-source-says-for-about-200m/",
       "source": "TechCrunch",
       "publishedAt": "2026-07-30T16:09:42Z",
@@ -128,20 +142,6 @@
       "snippet": "Meta is all-in on AI, and sometime soon, the company is going to make a big push into personal AI agents that can do things on your behalf. On Wednesday's Q2 2026 earnings call, CEO Mark Zuckerberg pr"
     },
     {
-      "title": "Discover\u00a0what\u2019s\u00a0next for AI, from the SaaS reckoning to the agent security gap, at TechCrunch Disrupt 2026",
-      "url": "https://techcrunch.com/2026/07/29/discover-whats-next-for-ai-from-the-saas-reckoning-to-the-agent-security-gap-at-techcrunch-disrupt-2026/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-07-29T21:16:39Z",
-      "snippet": "At TechCrunch Disrupt 2026, the AI Stage is back to dig into the single hottest topic in the community for the past few years, presented by Google for Startups."
-    },
-    {
-      "title": "Thinking Machines co-founder Lilian Weng left the company citing health reasons, then joined OpenAI",
-      "url": "https://techcrunch.com/2026/07/29/thinking-machines-co-founder-lilian-weng-left-the-company-citing-health-reasons-then-joined-openai/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-07-29T21:07:48Z",
-      "snippet": "Weng previously served as the VP of AI Safety Research at OpenAI."
-    },
-    {
       "title": "xAI\u2019s last-minute scramble to stop Minnesota\u2019s anti-nudification app law",
       "url": "https://www.theverge.com/policy/972850/xai-grok-minnesota-nudification-lawsuit",
       "source": "The Verge",
@@ -199,14 +199,14 @@
       "downloads": 162394
     },
     {
-      "id": "prism-ml/Ternary-Bonsai-27B-gguf",
-      "displayName": "Ternary Bonsai 27B",
-      "downloads": 697666
-    },
-    {
       "id": "microsoft/VibeVoice-ASR-BitNet",
       "displayName": "VibeVoice ASR BitNet",
       "downloads": 3864
+    },
+    {
+      "id": "prism-ml/Ternary-Bonsai-27B-gguf",
+      "displayName": "Ternary Bonsai 27B",
+      "downloads": 697666
     },
     {
       "id": "unsloth/Laguna-S-2.1-GGUF",
