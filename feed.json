@@ -1,12 +1,19 @@
 {
-  "updated": "2026-07-30T21:03:09Z",
+  "updated": "2026-07-30T23:00:55Z",
   "news": [
     {
-      "title": "Judge says Trump admin still lacks evidence for Anthropic \u2018supply chain risk\u2019 label",
+      "title": "Investors love AI, as long as you\u2019re a cloud host",
+      "url": "https://techcrunch.com/2026/07/30/investors-love-ai-as-long-as-youre-a-cloud-host/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-07-30T22:41:41Z",
+      "snippet": "Amazon isn't slowing down on data center spending \u2014 but investors don't seem to mind."
+    },
+    {
+      "title": "Judge says Trump admin still lacks evidence for Anthropic \u2018supply-chain risk\u2019 label",
       "url": "https://techcrunch.com/2026/07/30/judge-says-trump-admin-still-lacks-evidence-for-anthropic-supply-chain-risk-label/",
       "source": "TechCrunch",
       "publishedAt": "2026-07-30T20:26:38Z",
-      "snippet": "A federal judge said the Trump administration has not presented enough evidence to justify labeling Anthropic a supply chain risk, casting doubt on the government's ban on its AI technology."
+      "snippet": "A federal judge said the Trump administration has not presented enough evidence to justify labeling Anthropic a supply-chain risk, casting doubt on the government's ban on its AI technology."
     },
     {
       "title": "Friend, the lonely AI wearable, returns with a new voice and a much bigger price tag",
@@ -23,32 +30,11 @@
       "snippet": "As experts have warned for the last two years, some companies \u2014 like Microsoft and now Google \u2014 are finding and patching an exponential number of bugs in their products, thanks to the use of LLMs and "
     },
     {
-      "title": "LinkedIn actually adds a \u2018seems like AI slop\u2019 button",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/973384/linkedin-seems-like-ai-slop-button",
-      "source": "The Verge",
-      "publishedAt": "2026-07-30T18:43:26Z",
-      "snippet": "A lot of content on LinkedIn might seem like AI slop, and now, you'll be able to report those posts. As part of a series of updates to reduce the volume of AI slop on the platform, LinkedIn is introdu"
-    },
-    {
       "title": "LinkedIn adds a button to report AI-generated \u2018slop\u2019",
       "url": "https://techcrunch.com/2026/07/30/linkedin-adds-a-button-to-report-ai-generated-slop/",
       "source": "TechCrunch",
       "publishedAt": "2026-07-30T18:05:21Z",
       "snippet": "LinkedIn is introducing new ways to reduce low-quality AI-generated posts, including a \u201cseems like AI slop\u201d reporting option. It's also replacing its own AI writing feature with a proofreading tool."
-    },
-    {
-      "title": "Google DeepMind\u2019s new AI model can control a robot\u2019s entire body",
-      "url": "https://www.theverge.com/tech/973276/google-deepmind-gemini-robotics-2-whole-body",
-      "source": "The Verge",
-      "publishedAt": "2026-07-30T17:18:45Z",
-      "snippet": "Google DeepMind says the latest version of its Gemini Robotics AI model can \"control entire humanoid robots.\" While the previous model focused on controlling a humanoid robot's upper body, Gemini Robo"
-    },
-    {
-      "title": "Friend re-launches its AI pendant with a speaker that talks to you, for twice the price",
-      "url": "https://www.theverge.com/gadgets/973163/friend-re-launches-its-ai-pendant-with-a-speaker-that-talks-to-you-for-twice-the-price",
-      "source": "The Verge",
-      "publishedAt": "2026-07-30T16:33:32Z",
-      "snippet": "Do you remember Friend? The Friend that launched an AI pendant, spent $1.8 million of its $2.5 million in funding to acquire friend.com, and plastered the NYC subway with ads promoting artificial comp"
     },
     {
       "title": "Okta buys AI security startup Permiso \u2014 source says for about $200M",
@@ -121,13 +107,6 @@
       "snippet": "When Microsoft reported killer fourth-quarter earnings for its fiscal 2026 year (which ended June 30), it tucked in an interesting little tidbit about how its investments in the two biggest, and compe"
     },
     {
-      "title": "Zuckerberg says Meta\u2019s enterprise AI opportunity extends beyond agents",
-      "url": "https://techcrunch.com/2026/07/29/zuckerberg-says-metas-enterprise-ai-opportunity-extends-beyond-agents/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-07-29T22:23:12Z",
-      "snippet": "On the company\u2019s second-quarter earnings call Wednesday, CEO Mark Zuckerberg said Meta sees a \u201clarge enterprise opportunity\u201d spanning AI agents, APIs, compute, and internal software."
-    },
-    {
       "title": "Microsoft confirms Copilot \u2018super app\u2019 coming this year",
       "url": "https://www.theverge.com/tech/972927/microsoft-copilot-super-app-confirmed",
       "source": "The Verge",
@@ -175,6 +154,27 @@
       "source": "The Verge",
       "publishedAt": "2026-07-29T11:00:00Z",
       "snippet": "Earlier this month, OpenAI gave several of its AI models a task: complete a test designed to measure their cybersecurity capabilities. It put the systems in a sandboxed environment without an internet"
+    },
+    {
+      "title": "AI leaders sign a statement asking the government to do something about automated AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/972161/ai-leaders-us-government-openai-anthropic-google-meta",
+      "source": "The Verge",
+      "publishedAt": "2026-07-28T19:46:43Z",
+      "snippet": "Employees of OpenAI and Anthropic, as well as Google, Meta, Thinking Machines, Microsoft, Mistral, and other leading AI labs, have written a statement to the US government supporting a potential slowd"
+    },
+    {
+      "title": "AI\u2019s finally expensive enough to make Wall Street nervous",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/972119/ai-stock-fall-google-capex",
+      "source": "The Verge",
+      "publishedAt": "2026-07-28T19:33:03Z",
+      "snippet": "It's earnings season, and investors got an unpleasant surprise from Google: an increase on its spending estimate, to as much as $205 billion - from the last quarter's projection of up to $190 billion."
+    },
+    {
+      "title": "Perplexity\u2019s Personal Computer turns Windows PCs into AI agents",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/971750/perplexity-personal-computer-windows-ai-agents",
+      "source": "The Verge",
+      "publishedAt": "2026-07-28T12:30:00Z",
+      "snippet": "Perplexity has expanded its agentic Personal Computer tool to Windows, allowing computers running the world's most popular OS to be used as a locally run AI system. Like the Mac version that Perplexit"
     }
   ],
   "trending": [
@@ -189,14 +189,14 @@
       "downloads": 12178
     },
     {
-      "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
-      "displayName": "Qwen3.6 35B A3B Uncensored HauhauCS Aggressive",
-      "downloads": 1803090
-    },
-    {
       "id": "LuffyTheFox/Qwen3.6-35B-A3B-Uncensored-Genesis-Hermes-V6-GGUF",
       "displayName": "Qwen3.6 35B A3B Uncensored Genesis Hermes V6",
       "downloads": 162394
+    },
+    {
+      "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
+      "displayName": "Qwen3.6 35B A3B Uncensored HauhauCS Aggressive",
+      "downloads": 1803090
     },
     {
       "id": "microsoft/VibeVoice-ASR-BitNet",
@@ -219,14 +219,14 @@
       "downloads": 248173
     },
     {
-      "id": "prism-ml/Bonsai-27B-gguf",
-      "displayName": "Bonsai 27B",
-      "downloads": 2455730
-    },
-    {
       "id": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
       "displayName": "Qwythos 9B Claude Mythos 5 1M",
       "downloads": 1025618
+    },
+    {
+      "id": "prism-ml/Bonsai-27B-gguf",
+      "displayName": "Bonsai 27B",
+      "downloads": 2455730
     }
   ]
 }
