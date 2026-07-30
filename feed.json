@@ -1,6 +1,13 @@
 {
-  "updated": "2026-07-30T11:48:01Z",
+  "updated": "2026-07-30T13:48:46Z",
   "news": [
+    {
+      "title": "Dili raises $21.7M to bring AI compliance to the infrastructure boom",
+      "url": "https://techcrunch.com/2026/07/30/dili-raises-15-million-to-bring-ai-compliance-to-the-infrastructure-boom/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-07-30T13:00:00Z",
+      "snippet": "The Series A was led by Khosla Ventures, with participation from Allianz, Rebel Fund, Brick and Mortar Ventures\u2019 Darren Bechtel, and Y Combinator\u2019s Garry Tan."
+    },
     {
       "title": "Microsoft is openly competing with OpenAI, Anthropic more than ever",
       "url": "https://techcrunch.com/2026/07/29/microsoft-is-openly-competing-with-openai-anthropic-more-than-ever/",
@@ -149,13 +156,6 @@
       "snippet": "Runlayer is suing Rippling after Rippling evaluated the startup's MCP  gateway product and then opted to build one itself."
     },
     {
-      "title": "Sam Altman is ready to decelerate",
-      "url": "https://techcrunch.com/2026/07/28/sam-altman-is-ready-to-decelerate/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-07-28T20:17:08Z",
-      "snippet": "His change of position comes after \"the first security incident that I have felt very viscerally.\""
-    },
-    {
       "title": "AI leaders sign a statement asking the government to do something about automated AI",
       "url": "https://www.theverge.com/ai-artificial-intelligence/972161/ai-leaders-us-government-openai-anthropic-google-meta",
       "source": "The Verge",
@@ -204,14 +204,14 @@
       "downloads": 162394
     },
     {
-      "id": "unsloth/Laguna-S-2.1-GGUF",
-      "displayName": "Laguna S 2.1",
-      "downloads": 159331
-    },
-    {
       "id": "microsoft/VibeVoice-ASR-BitNet",
       "displayName": "VibeVoice ASR BitNet",
       "downloads": 3864
+    },
+    {
+      "id": "unsloth/Laguna-S-2.1-GGUF",
+      "displayName": "Laguna S 2.1",
+      "downloads": 159331
     },
     {
       "id": "DavidAU/Qwen3.5-9B-The-Defiant-Fable-Uncensored-Heretic-NEO-IMATRIX-MAX-MTP-GGUF",
