@@ -1,6 +1,27 @@
 {
-  "updated": "2026-07-31T13:53:53Z",
+  "updated": "2026-07-31T15:59:30Z",
   "news": [
+    {
+      "title": "SpaceX won\u2019t remove all of xAI\u2019s unpermitted turbines for another year",
+      "url": "https://techcrunch.com/2026/07/31/spacex-wont-remove-all-of-xais-unpermitted-turbines-for-another-year/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-07-31T15:16:17Z",
+      "snippet": "SpaceX is building a new power plant for xAI's Colossus data centers, but it won't remove existing, unpermitted turbines for many more months."
+    },
+    {
+      "title": "Smallest.ai raises $13M to build ultra-fast voice AI that sounds genuinely human",
+      "url": "https://techcrunch.com/2026/07/31/smallest-ai-raises-13m-to-build-ultra-fast-voice-ai-that-sounds-genuinely-human/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-07-31T14:47:11Z",
+      "snippet": "The startup is building voice models designed to make AI phone calls pass the Turing test."
+    },
+    {
+      "title": "It\u2019s time to panic about AI safety",
+      "url": "https://www.theverge.com/podcast/973668/ai-safety-openai-hugging-face-vergecast",
+      "source": "The Verge",
+      "publishedAt": "2026-07-31T14:03:04Z",
+      "snippet": "When the phrase \"OpenAI hacked Hugging Face\" has more or less entered mainstream culture, you know we have an AI problem. This week, we learned more about exactly how OpenAI's agent broke out of a san"
+    },
     {
       "title": "Anthropic says Claude accidentally hacked real companies too",
       "url": "https://www.theverge.com/ai-artificial-intelligence/973670/anthropic-claude-hacked-organizations-during-cyber-tests",
@@ -135,20 +156,6 @@
       "snippet": "Cybersecurity experts told TechCrunch that one of the biggest lessons to be taken from the OpenAI hack against Hugging Face has nothing to do with AI, but traditional cybersecurity defense."
     },
     {
-      "title": "TechCrunch Disrupt 2026\u2019s biggest stage features leaders from Amazon,\u00a0Replit, Tether, with much\u00a0more to come",
-      "url": "https://techcrunch.com/2026/07/30/techcrunch-disrupt-2026s-biggest-stage-features-leaders-from-amazon-replit-tether-with-much-more-to-come/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-07-30T14:00:00Z",
-      "snippet": "The Disrupt Stage is where many of the biggest conversations in technology happen, with a legacy that stretches back for more than a decade."
-    },
-    {
-      "title": "Dili raises $21.7M to bring AI compliance to the infrastructure boom",
-      "url": "https://techcrunch.com/2026/07/30/dili-raises-15-million-to-bring-ai-compliance-to-the-infrastructure-boom/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-07-30T13:00:00Z",
-      "snippet": "The Series A was led by Khosla Ventures, with participation from Allianz, Rebel Fund, Brick and Mortar Ventures\u2019 Darren Bechtel, and Y Combinator\u2019s Garry Tan."
-    },
-    {
       "title": "Microsoft confirms Copilot \u2018super app\u2019 coming this year",
       "url": "https://www.theverge.com/tech/972927/microsoft-copilot-super-app-confirmed",
       "source": "The Verge",
@@ -168,13 +175,6 @@
       "source": "The Verge",
       "publishedAt": "2026-07-29T21:06:52Z",
       "snippet": "xAI is suing Minnesota Attorney General Keith Ellison over a law passed back in May that broadly targets \"nudification\" apps, claiming that the statute's punitive provisions leave the company with \"no"
-    },
-    {
-      "title": "OpenAI president says it&#8217;s &#8216;building a family of devices&#8217; for its AI chatbots",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/972709/openai-hardware-greg-brockman-interview",
-      "source": "The Verge",
-      "publishedAt": "2026-07-29T18:15:02Z",
-      "snippet": "In an interview with our friend Joanna Stern on her YouTube channel, OpenAI president Greg Brockman said the company is working on a \"family of devices\" for interacting with its AI models. However, Br"
     }
   ],
   "trending": [
@@ -219,14 +219,14 @@
       "downloads": 164322
     },
     {
+      "id": "unsloth/DeepSeek-V4-Flash-0731-GGUF",
+      "displayName": "DeepSeek V4 Flash 0731",
+      "downloads": 0
+    },
+    {
       "id": "prism-ml/Bonsai-27B-gguf",
       "displayName": "Bonsai 27B",
       "downloads": 2500157
-    },
-    {
-      "id": "KyleHessling1/Qwopus3.6-27B-Fusion-GGUF",
-      "displayName": "Qwopus3.6 27B Fusion",
-      "downloads": 3684
     }
   ]
 }
