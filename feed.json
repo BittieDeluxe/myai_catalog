@@ -1,12 +1,47 @@
 {
-  "updated": "2026-07-30T23:00:55Z",
+  "updated": "2026-07-31T02:24:46Z",
   "news": [
+    {
+      "title": "Anthropic says its own AI models breached three companies during security tests",
+      "url": "https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-07-31T01:06:54Z",
+      "snippet": "After OpenAI's models broke into Hugging Face, Anthropic checked its own history and found three similar incidents"
+    },
+    {
+      "title": "AI hedge fund Situational Awareness may have sold its public portfolio, but it still has its Anthropic shares",
+      "url": "https://techcrunch.com/2026/07/30/ai-hedge-fund-situational-awareness-may-have-sold-its-public-portfolio-but-it-still-has-its-anthropic-shares/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-07-30T23:25:58Z",
+      "snippet": "The former OpenAI researcher\u2019s fund was forced to unwind public equities after leveraged public bets plummeted. But he still has cards to play."
+    },
+    {
+      "title": "Reddit reports a solid quarter but shows signs of AI\u2019s impact",
+      "url": "https://techcrunch.com/2026/07/30/reddit-reports-a-solid-quarter-but-shows-signs-of-ais-impact/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-07-30T23:08:58Z",
+      "snippet": "Reddit's financial situation is looking good but uncertainty about its relationship to Google and the new AI-ified web are stirring market concerns."
+    },
     {
       "title": "Investors love AI, as long as you\u2019re a cloud host",
       "url": "https://techcrunch.com/2026/07/30/investors-love-ai-as-long-as-youre-a-cloud-host/",
       "source": "TechCrunch",
       "publishedAt": "2026-07-30T22:41:41Z",
       "snippet": "Amazon isn't slowing down on data center spending \u2014 but investors don't seem to mind."
+    },
+    {
+      "title": "Tim Cook hints at iCloud Plus tier for AI power users",
+      "url": "https://www.theverge.com/tech/973552/apple-ceo-tim-cook-icloud-plus-ai",
+      "source": "The Verge",
+      "publishedAt": "2026-07-30T22:29:45Z",
+      "snippet": "Apple may allow users to pay to increase their AI usage limits. During an earnings call on Thursday, Apple CEO Tim Cook said that he believes people will want to use Apple Intelligence and the upcomin"
+    },
+    {
+      "title": "The loss of Situational Awareness",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/973467/ai-bet-situational-awareness-oops-stonks",
+      "source": "The Verge",
+      "publishedAt": "2026-07-30T20:46:25Z",
+      "snippet": "I am not by any means an expert at finance but I think I do now have some advice for people who are: Do not name your hedge fund anything that will be hilarious if it blows up. Don't use a name like \""
     },
     {
       "title": "Judge says Trump admin still lacks evidence for Anthropic \u2018supply-chain risk\u2019 label",
@@ -30,11 +65,32 @@
       "snippet": "As experts have warned for the last two years, some companies \u2014 like Microsoft and now Google \u2014 are finding and patching an exponential number of bugs in their products, thanks to the use of LLMs and "
     },
     {
+      "title": "LinkedIn actually adds a \u2018seems like AI slop\u2019 button",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/973384/linkedin-seems-like-ai-slop-button",
+      "source": "The Verge",
+      "publishedAt": "2026-07-30T18:43:26Z",
+      "snippet": "A lot of content on LinkedIn might seem like AI slop, and now, you'll be able to report those posts. As part of a series of updates to reduce the volume of AI slop on the platform, LinkedIn is introdu"
+    },
+    {
       "title": "LinkedIn adds a button to report AI-generated \u2018slop\u2019",
       "url": "https://techcrunch.com/2026/07/30/linkedin-adds-a-button-to-report-ai-generated-slop/",
       "source": "TechCrunch",
       "publishedAt": "2026-07-30T18:05:21Z",
       "snippet": "LinkedIn is introducing new ways to reduce low-quality AI-generated posts, including a \u201cseems like AI slop\u201d reporting option. It's also replacing its own AI writing feature with a proofreading tool."
+    },
+    {
+      "title": "Google DeepMind\u2019s new AI model can control a robot\u2019s entire body",
+      "url": "https://www.theverge.com/tech/973276/google-deepmind-gemini-robotics-2-whole-body",
+      "source": "The Verge",
+      "publishedAt": "2026-07-30T17:18:45Z",
+      "snippet": "Google DeepMind says the latest version of its Gemini Robotics AI model can \"control entire humanoid robots.\" While the previous model focused on controlling a humanoid robot's upper body, Gemini Robo"
+    },
+    {
+      "title": "Friend re-launches its AI pendant with a speaker that talks to you, for twice the price",
+      "url": "https://www.theverge.com/gadgets/973163/friend-re-launches-its-ai-pendant-with-a-speaker-that-talks-to-you-for-twice-the-price",
+      "source": "The Verge",
+      "publishedAt": "2026-07-30T16:33:32Z",
+      "snippet": "Do you remember Friend? The Friend that launched an AI pendant, spent $1.8 million of its $2.5 million in funding to acquire friend.com, and plastered the NYC subway with ads promoting artificial comp"
     },
     {
       "title": "Okta buys AI security startup Permiso \u2014 source says for about $200M",
@@ -86,27 +142,6 @@
       "snippet": "The Series A was led by Khosla Ventures, with participation from Allianz, Rebel Fund, Brick and Mortar Ventures\u2019 Darren Bechtel, and Y Combinator\u2019s Garry Tan."
     },
     {
-      "title": "Microsoft is openly competing with OpenAI, Anthropic more than ever",
-      "url": "https://techcrunch.com/2026/07/29/microsoft-is-openly-competing-with-openai-anthropic-more-than-ever/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-07-30T00:21:06Z",
-      "snippet": "Microsoft pitched its own homegrown AI models, harnesses, and even a Mythos competitor on Wednesday, telling Wall Street it plans for continued growth."
-    },
-    {
-      "title": "Mark Zuckerberg predicts that billions of people will have personal AI agents in five years",
-      "url": "https://techcrunch.com/2026/07/29/mark-zuckerberg-predicts-that-billions-of-people-will-have-personal-ai-agents-in-five-years/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-07-29T23:00:11Z",
-      "snippet": "As Meta pours billions into AI infrastructure and agents, Zuckerberg is working to convince investors that the payoff will be worth the price."
-    },
-    {
-      "title": "Microsoft logs $3.2B from Anthropic investment, but OpenAI was a mixed bag",
-      "url": "https://techcrunch.com/2026/07/29/microsoft-logs-3-2b-from-anthropic-investment-but-openai-was-a-mixed-bag/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-07-29T22:46:03Z",
-      "snippet": "When Microsoft reported killer fourth-quarter earnings for its fiscal 2026 year (which ended June 30), it tucked in an interesting little tidbit about how its investments in the two biggest, and compe"
-    },
-    {
       "title": "Microsoft confirms Copilot \u2018super app\u2019 coming this year",
       "url": "https://www.theverge.com/tech/972927/microsoft-copilot-super-app-confirmed",
       "source": "The Verge",
@@ -140,41 +175,6 @@
       "source": "The Verge",
       "publishedAt": "2026-07-29T12:00:00Z",
       "snippet": "When The Atlantic published a searchable dataset of works used to train AI, Kirk Wallace Johnson, like a lot of artists, looked for his name out of curiosity. And, like a lot of artists, he found it. "
-    },
-    {
-      "title": "OpenAI\u2019s rogue AI agent didn\u2019t stop at hacking Hugging Face",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/972441/openai-rogue-ai-agent-hacked-more-than-hugging-face",
-      "source": "The Verge",
-      "publishedAt": "2026-07-29T11:54:29Z",
-      "snippet": "The AI agent that escaped from OpenAI and hacked developer platform Hugging Face attacked other companies as well, OpenAI revealed on Tuesday. The update substantially widens the scope of an already c"
-    },
-    {
-      "title": "We\u2019re running out of reasons to ignore AI safety",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/972380/open-ai-hugging-face-hack-ai-safety-warning",
-      "source": "The Verge",
-      "publishedAt": "2026-07-29T11:00:00Z",
-      "snippet": "Earlier this month, OpenAI gave several of its AI models a task: complete a test designed to measure their cybersecurity capabilities. It put the systems in a sandboxed environment without an internet"
-    },
-    {
-      "title": "AI leaders sign a statement asking the government to do something about automated AI",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/972161/ai-leaders-us-government-openai-anthropic-google-meta",
-      "source": "The Verge",
-      "publishedAt": "2026-07-28T19:46:43Z",
-      "snippet": "Employees of OpenAI and Anthropic, as well as Google, Meta, Thinking Machines, Microsoft, Mistral, and other leading AI labs, have written a statement to the US government supporting a potential slowd"
-    },
-    {
-      "title": "AI\u2019s finally expensive enough to make Wall Street nervous",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/972119/ai-stock-fall-google-capex",
-      "source": "The Verge",
-      "publishedAt": "2026-07-28T19:33:03Z",
-      "snippet": "It's earnings season, and investors got an unpleasant surprise from Google: an increase on its spending estimate, to as much as $205 billion - from the last quarter's projection of up to $190 billion."
-    },
-    {
-      "title": "Perplexity\u2019s Personal Computer turns Windows PCs into AI agents",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/971750/perplexity-personal-computer-windows-ai-agents",
-      "source": "The Verge",
-      "publishedAt": "2026-07-28T12:30:00Z",
-      "snippet": "Perplexity has expanded its agentic Personal Computer tool to Windows, allowing computers running the world's most popular OS to be used as a locally run AI system. Like the Mac version that Perplexit"
     }
   ],
   "trending": [
@@ -219,14 +219,14 @@
       "downloads": 248173
     },
     {
-      "id": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
-      "displayName": "Qwythos 9B Claude Mythos 5 1M",
-      "downloads": 1025618
-    },
-    {
       "id": "prism-ml/Bonsai-27B-gguf",
       "displayName": "Bonsai 27B",
       "downloads": 2455730
+    },
+    {
+      "id": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+      "displayName": "Qwythos 9B Claude Mythos 5 1M",
+      "downloads": 1025618
     }
   ]
 }
