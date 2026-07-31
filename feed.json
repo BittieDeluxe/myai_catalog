@@ -1,6 +1,20 @@
 {
-  "updated": "2026-07-31T20:59:38Z",
+  "updated": "2026-07-31T22:55:57Z",
   "news": [
+    {
+      "title": "OpenAI reportedly finds evidence that more of its agents ran amok",
+      "url": "https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-07-31T22:47:26Z",
+      "snippet": "OpenAI has reportedly found evidence of additional agent misbehavior as it looks into the incident that occurred with Hugging Face."
+    },
+    {
+      "title": "India is starting to pay for apps, not just download them",
+      "url": "https://techcrunch.com/2026/07/31/india-is-starting-to-pay-for-apps-not-just-download-them/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-07-31T21:07:45Z",
+      "snippet": "India's app market generated a record $345 million in Q2."
+    },
     {
       "title": "Google nixes its Earth AI feature one day after launch, amid criticism it would spread misinformation",
       "url": "https://techcrunch.com/2026/07/31/google-nixes-its-earth-ai-feature-one-day-after-launch-amid-criticism-it-would-spread-misinformation/",
@@ -142,25 +156,11 @@
       "snippet": "Friend, the AI wearable, can now talk to its users \u2014 for an enhanced price."
     },
     {
-      "title": "Google says it fixed more Chrome bugs in June than over the past two years, thanks to AI",
-      "url": "https://techcrunch.com/2026/07/30/google-says-it-fixed-more-chrome-bugs-in-june-than-over-the-past-two-years-thanks-to-ai/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-07-30T18:57:58Z",
-      "snippet": "As experts have warned for the last two years, some companies \u2014 like Microsoft and now Google \u2014 are finding and patching an exponential number of bugs in their products, thanks to the use of LLMs and "
-    },
-    {
       "title": "LinkedIn actually adds a \u2018seems like AI slop\u2019 button",
       "url": "https://www.theverge.com/ai-artificial-intelligence/973384/linkedin-seems-like-ai-slop-button",
       "source": "The Verge",
       "publishedAt": "2026-07-30T18:43:26Z",
       "snippet": "A lot of content on LinkedIn might seem like AI slop, and now, you'll be able to report those posts. As part of a series of updates to reduce the volume of AI slop on the platform, LinkedIn is introdu"
-    },
-    {
-      "title": "LinkedIn adds a button to report AI-generated \u2018slop\u2019",
-      "url": "https://techcrunch.com/2026/07/30/linkedin-adds-a-button-to-report-ai-generated-slop/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-07-30T18:05:21Z",
-      "snippet": "LinkedIn is introducing new ways to reduce low-quality AI-generated posts, including a \u201cseems like AI slop\u201d reporting option. It's also replacing its own AI writing feature with a proofreading tool."
     },
     {
       "title": "Google DeepMind\u2019s new AI model can control a robot\u2019s entire body",
@@ -224,9 +224,9 @@
       "downloads": 164322
     },
     {
-      "id": "prism-ml/Bonsai-27B-gguf",
-      "displayName": "Bonsai 27B",
-      "downloads": 2500157
+      "id": "KyleHessling1/Qwopus3.6-27B-Fusion-GGUF",
+      "displayName": "Qwopus3.6 27B Fusion",
+      "downloads": 3684
     }
   ]
 }
