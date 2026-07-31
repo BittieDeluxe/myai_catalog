@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-31T02:24:46Z",
+  "updated": "2026-07-31T06:39:45Z",
   "news": [
     {
       "title": "Anthropic says its own AI models breached three companies during security tests",
@@ -194,14 +194,14 @@
       "downloads": 162394
     },
     {
-      "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
-      "displayName": "Qwen3.6 35B A3B Uncensored HauhauCS Aggressive",
-      "downloads": 1803090
-    },
-    {
       "id": "microsoft/VibeVoice-ASR-BitNet",
       "displayName": "VibeVoice ASR BitNet",
       "downloads": 3864
+    },
+    {
+      "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
+      "displayName": "Qwen3.6 35B A3B Uncensored HauhauCS Aggressive",
+      "downloads": 1803090
     },
     {
       "id": "prism-ml/Ternary-Bonsai-27B-gguf",
