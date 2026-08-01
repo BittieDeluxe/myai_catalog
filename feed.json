@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-01T13:08:50Z",
+  "updated": "2026-08-01T14:56:12Z",
   "news": [
     {
       "title": "OpenAI reportedly finds evidence that more of its agents ran amok",
@@ -204,14 +204,14 @@
       "downloads": 5835
     },
     {
-      "id": "DavidAU/Qwen3.5-9B-The-Defiant-Fable-Uncensored-Heretic-NEO-IMATRIX-MAX-MTP-GGUF",
-      "displayName": "Qwen3.5 9B The Defiant Fable Uncensored Heretic NEO IMATRIX MAX MTP",
-      "downloads": 267572
-    },
-    {
       "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
       "displayName": "Qwen3.6 35B A3B Uncensored HauhauCS Aggressive",
       "downloads": 1823436
+    },
+    {
+      "id": "DavidAU/Qwen3.5-9B-The-Defiant-Fable-Uncensored-Heretic-NEO-IMATRIX-MAX-MTP-GGUF",
+      "displayName": "Qwen3.5 9B The Defiant Fable Uncensored Heretic NEO IMATRIX MAX MTP",
+      "downloads": 267572
     },
     {
       "id": "prism-ml/Ternary-Bonsai-27B-gguf",
