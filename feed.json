@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-01T09:53:39Z",
+  "updated": "2026-08-01T11:12:44Z",
   "news": [
     {
       "title": "OpenAI reportedly finds evidence that more of its agents ran amok",
@@ -184,14 +184,14 @@
       "downloads": 1173001
     },
     {
-      "id": "unsloth/Kimi-K3-GGUF",
-      "displayName": "Kimi K3",
-      "downloads": 41337
-    },
-    {
       "id": "unsloth/DeepSeek-V4-Flash-0731-GGUF",
       "displayName": "DeepSeek V4 Flash 0731",
       "downloads": 4048
+    },
+    {
+      "id": "unsloth/Kimi-K3-GGUF",
+      "displayName": "Kimi K3",
+      "downloads": 41337
     },
     {
       "id": "LuffyTheFox/Qwen3.6-35B-A3B-Uncensored-Genesis-Hermes-V6-GGUF",
@@ -209,14 +209,14 @@
       "downloads": 267572
     },
     {
-      "id": "prism-ml/Ternary-Bonsai-27B-gguf",
-      "displayName": "Ternary Bonsai 27B",
-      "downloads": 716341
-    },
-    {
       "id": "microsoft/VibeVoice-ASR-BitNet",
       "displayName": "VibeVoice ASR BitNet",
       "downloads": 5835
+    },
+    {
+      "id": "prism-ml/Ternary-Bonsai-27B-gguf",
+      "displayName": "Ternary Bonsai 27B",
+      "downloads": 716341
     },
     {
       "id": "unsloth/Laguna-S-2.1-GGUF",
