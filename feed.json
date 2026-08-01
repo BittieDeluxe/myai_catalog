@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-01T06:24:16Z",
+  "updated": "2026-08-01T09:53:39Z",
   "news": [
     {
       "title": "OpenAI reportedly finds evidence that more of its agents ran amok",
@@ -181,52 +181,52 @@
     {
       "id": "DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
       "displayName": "Qwen3.6 27B Fable Fusion 711 Uncensored Heretic NM DAU NEO MAX MTP",
-      "downloads": 1119057
+      "downloads": 1173001
     },
     {
       "id": "unsloth/Kimi-K3-GGUF",
       "displayName": "Kimi K3",
-      "downloads": 36180
+      "downloads": 41337
     },
     {
       "id": "unsloth/DeepSeek-V4-Flash-0731-GGUF",
       "displayName": "DeepSeek V4 Flash 0731",
-      "downloads": 0
+      "downloads": 4048
     },
     {
       "id": "LuffyTheFox/Qwen3.6-35B-A3B-Uncensored-Genesis-Hermes-V6-GGUF",
       "displayName": "Qwen3.6 35B A3B Uncensored Genesis Hermes V6",
-      "downloads": 212426
-    },
-    {
-      "id": "DavidAU/Qwen3.5-9B-The-Defiant-Fable-Uncensored-Heretic-NEO-IMATRIX-MAX-MTP-GGUF",
-      "displayName": "Qwen3.5 9B The Defiant Fable Uncensored Heretic NEO IMATRIX MAX MTP",
-      "downloads": 261856
-    },
-    {
-      "id": "microsoft/VibeVoice-ASR-BitNet",
-      "displayName": "VibeVoice ASR BitNet",
-      "downloads": 5464
+      "downloads": 228610
     },
     {
       "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
       "displayName": "Qwen3.6 35B A3B Uncensored HauhauCS Aggressive",
-      "downloads": 1835931
+      "downloads": 1823436
+    },
+    {
+      "id": "DavidAU/Qwen3.5-9B-The-Defiant-Fable-Uncensored-Heretic-NEO-IMATRIX-MAX-MTP-GGUF",
+      "displayName": "Qwen3.5 9B The Defiant Fable Uncensored Heretic NEO IMATRIX MAX MTP",
+      "downloads": 267572
     },
     {
       "id": "prism-ml/Ternary-Bonsai-27B-gguf",
       "displayName": "Ternary Bonsai 27B",
-      "downloads": 712835
+      "downloads": 716341
+    },
+    {
+      "id": "microsoft/VibeVoice-ASR-BitNet",
+      "displayName": "VibeVoice ASR BitNet",
+      "downloads": 5835
     },
     {
       "id": "unsloth/Laguna-S-2.1-GGUF",
       "displayName": "Laguna S 2.1",
-      "downloads": 164322
+      "downloads": 170109
     },
     {
       "id": "KyleHessling1/Qwopus3.6-27B-Fusion-GGUF",
       "displayName": "Qwopus3.6 27B Fusion",
-      "downloads": 3684
+      "downloads": 4474
     }
   ]
 }
