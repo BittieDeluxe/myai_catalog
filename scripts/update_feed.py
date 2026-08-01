@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 """Fetch AI news from RSS/Atom feeds and HuggingFace trending."""
 
+import html as html_entities
 import json
 import re
 import sys
@@ -32,12 +33,18 @@ def strip_namespaces(xml_bytes: bytes) -> bytes:
     s = re.sub(r"\s([\w]+):([\w]+)=", r" \2=", s)
     return s.encode("utf-8")
 
-def strip_html(html: str) -> str:
-    text = re.sub(r"<[^>]+>", "", html)
-    return (text
-            .replace("&amp;", "&").replace("&lt;", "<").replace("&gt;", ">")
-            .replace("&quot;", '"').replace("&#39;", "'").replace("&nbsp;", " ")
-            .strip())
+def unescape(text: str) -> str:
+    """Decode HTML entities and normalise the whitespace they can introduce.
+
+    Was a hand-written replace chain covering six named entities, which left every numeric
+    entity untouched — RSS titles routinely carry &#8217; (curly apostrophe) and &#160;
+    (non-breaking space), and those reached the apps verbatim: "Google Earth&#8217;s AI
+    deepfake tool". html.unescape handles the full set, named and numeric alike.
+    """
+    return html_entities.unescape(text).replace("\xa0", " ").strip()
+
+def strip_html(markup: str) -> str:
+    return unescape(re.sub(r"<[^>]+>", "", markup))
 
 def to_iso8601(date_str: str) -> str | None:
     if not date_str:
@@ -73,7 +80,7 @@ def fetch_rss(url: str, source: str) -> list[dict]:
     entries = root.findall(".//item") or root.findall(".//entry")
     items = []
     for entry in entries:
-        title = (entry.findtext("title") or "").strip()
+        title = unescape(entry.findtext("title") or "")
         if not title:
             continue
         link = ""
