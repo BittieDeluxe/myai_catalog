@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-01T02:25:39Z",
+  "updated": "2026-08-01T06:24:16Z",
   "news": [
     {
       "title": "OpenAI reportedly finds evidence that more of its agents ran amok",
@@ -199,14 +199,14 @@
       "downloads": 212426
     },
     {
+      "id": "DavidAU/Qwen3.5-9B-The-Defiant-Fable-Uncensored-Heretic-NEO-IMATRIX-MAX-MTP-GGUF",
+      "displayName": "Qwen3.5 9B The Defiant Fable Uncensored Heretic NEO IMATRIX MAX MTP",
+      "downloads": 261856
+    },
+    {
       "id": "microsoft/VibeVoice-ASR-BitNet",
       "displayName": "VibeVoice ASR BitNet",
       "downloads": 5464
-    },
-    {
-      "id": "prism-ml/Ternary-Bonsai-27B-gguf",
-      "displayName": "Ternary Bonsai 27B",
-      "downloads": 712835
     },
     {
       "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
@@ -214,9 +214,9 @@
       "downloads": 1835931
     },
     {
-      "id": "DavidAU/Qwen3.5-9B-The-Defiant-Fable-Uncensored-Heretic-NEO-IMATRIX-MAX-MTP-GGUF",
-      "displayName": "Qwen3.5 9B The Defiant Fable Uncensored Heretic NEO IMATRIX MAX MTP",
-      "downloads": 261856
+      "id": "prism-ml/Ternary-Bonsai-27B-gguf",
+      "displayName": "Ternary Bonsai 27B",
+      "downloads": 712835
     },
     {
       "id": "unsloth/Laguna-S-2.1-GGUF",
