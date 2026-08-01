@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-01T20:44:44Z",
+  "updated": "2026-08-01T22:53:40Z",
   "news": [
     {
       "title": "Judge denies xAI\u2019s request to block Minnesota ban on \u2018nudify\u2019 apps",
@@ -14,6 +14,13 @@
       "source": "TechCrunch",
       "publishedAt": "2026-08-01T19:45:45Z",
       "snippet": "Green offered a remarkable apology, saying that \"the level of dopamine that I've been getting from interacting with LLMs ... is not healthy for me or good for the world.\""
+    },
+    {
+      "title": "Is this Billboard Hot 100 hit AI slop?",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/974209/fenix-flexin-billboard-hot-100-rubberz-ai-slop",
+      "source": "The Verge",
+      "publishedAt": "2026-08-01T18:20:00Z",
+      "snippet": "Fenix Flexin is best known as a member of Shoreline Mafia, a rap duo from Los Angeles. But he's recently found solo success with the track \"Rubberz,\" which has climbed to number 58 on the Billboard Ho"
     },
     {
       "title": "Sam Altman is still making the case for parenting via ChatGPT",
@@ -168,13 +175,6 @@
       "source": "The Verge",
       "publishedAt": "2026-07-30T17:18:45Z",
       "snippet": "Google DeepMind says the latest version of its Gemini Robotics AI model can \"control entire humanoid robots.\" While the previous model focused on controlling a humanoid robot's upper body, Gemini Robo"
-    },
-    {
-      "title": "Friend re-launches its AI pendant with a speaker that talks to you, for twice the price",
-      "url": "https://www.theverge.com/gadgets/973163/friend-re-launches-its-ai-pendant-with-a-speaker-that-talks-to-you-for-twice-the-price",
-      "source": "The Verge",
-      "publishedAt": "2026-07-30T16:33:32Z",
-      "snippet": "Do you remember Friend? The Friend that launched an AI pendant, spent $1.8 million of its $2.5 million in funding to acquire friend.com, and plastered the NYC subway with ads promoting artificial comp"
     }
   ],
   "trending": [
