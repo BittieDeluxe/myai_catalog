@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-01T11:12:44Z",
+  "updated": "2026-08-01T13:08:50Z",
   "news": [
     {
       "title": "OpenAI reportedly finds evidence that more of its agents ran amok",
@@ -199,9 +199,9 @@
       "downloads": 228610
     },
     {
-      "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
-      "displayName": "Qwen3.6 35B A3B Uncensored HauhauCS Aggressive",
-      "downloads": 1823436
+      "id": "microsoft/VibeVoice-ASR-BitNet",
+      "displayName": "VibeVoice ASR BitNet",
+      "downloads": 5835
     },
     {
       "id": "DavidAU/Qwen3.5-9B-The-Defiant-Fable-Uncensored-Heretic-NEO-IMATRIX-MAX-MTP-GGUF",
@@ -209,9 +209,9 @@
       "downloads": 267572
     },
     {
-      "id": "microsoft/VibeVoice-ASR-BitNet",
-      "displayName": "VibeVoice ASR BitNet",
-      "downloads": 5835
+      "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
+      "displayName": "Qwen3.6 35B A3B Uncensored HauhauCS Aggressive",
+      "downloads": 1823436
     },
     {
       "id": "prism-ml/Ternary-Bonsai-27B-gguf",
