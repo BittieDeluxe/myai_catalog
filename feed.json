@@ -1,6 +1,13 @@
 {
-  "updated": "2026-08-02T11:13:12Z",
+  "updated": "2026-08-02T13:10:54Z",
   "news": [
+    {
+      "title": "Is paying artists enough to convince them to embrace AI?",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/974018/pippa-seedance-artist-royalties",
+      "source": "The Verge",
+      "publishedAt": "2026-08-02T13:00:00Z",
+      "snippet": "Illustrators have spent years sounding the alarm about generative artificial intelligence startups training their models on artists' work without permission. They've pointed out how the practice is ta"
+    },
     {
       "title": "Judge denies xAI\u2019s request to block Minnesota ban on \u2018nudify\u2019 apps",
       "url": "https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/",
@@ -168,13 +175,6 @@
       "source": "The Verge",
       "publishedAt": "2026-07-30T18:43:26Z",
       "snippet": "A lot of content on LinkedIn might seem like AI slop, and now, you'll be able to report those posts. As part of a series of updates to reduce the volume of AI slop on the platform, LinkedIn is introdu"
-    },
-    {
-      "title": "Google DeepMind\u2019s new AI model can control a robot\u2019s entire body",
-      "url": "https://www.theverge.com/tech/973276/google-deepmind-gemini-robotics-2-whole-body",
-      "source": "The Verge",
-      "publishedAt": "2026-07-30T17:18:45Z",
-      "snippet": "Google DeepMind says the latest version of its Gemini Robotics AI model can \"control entire humanoid robots.\" While the previous model focused on controlling a humanoid robot's upper body, Gemini Robo"
     }
   ],
   "trending": [
