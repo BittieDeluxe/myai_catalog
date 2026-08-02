@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-02T06:28:45Z",
+  "updated": "2026-08-02T09:51:53Z",
   "news": [
     {
       "title": "Judge denies xAI\u2019s request to block Minnesota ban on \u2018nudify\u2019 apps",
@@ -181,52 +181,52 @@
     {
       "id": "DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
       "displayName": "Qwen3.6 27B Fable Fusion 711 Uncensored Heretic NM DAU NEO MAX MTP",
-      "downloads": 1173001
+      "downloads": 1372285
     },
     {
       "id": "unsloth/DeepSeek-V4-Flash-0731-GGUF",
       "displayName": "DeepSeek V4 Flash 0731",
-      "downloads": 4048
+      "downloads": 48707
     },
     {
       "id": "unsloth/Kimi-K3-GGUF",
       "displayName": "Kimi K3",
-      "downloads": 41337
+      "downloads": 88481
     },
     {
       "id": "LuffyTheFox/Qwen3.6-35B-A3B-Uncensored-Genesis-Hermes-V6-GGUF",
       "displayName": "Qwen3.6 35B A3B Uncensored Genesis Hermes V6",
-      "downloads": 228610
+      "downloads": 259237
     },
     {
       "id": "DavidAU/Qwen3.5-9B-The-Defiant-Fable-Uncensored-Heretic-NEO-IMATRIX-MAX-MTP-GGUF",
       "displayName": "Qwen3.5 9B The Defiant Fable Uncensored Heretic NEO IMATRIX MAX MTP",
-      "downloads": 267572
+      "downloads": 292511
     },
     {
       "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
       "displayName": "Qwen3.6 35B A3B Uncensored HauhauCS Aggressive",
-      "downloads": 1823436
-    },
-    {
-      "id": "microsoft/VibeVoice-ASR-BitNet",
-      "displayName": "VibeVoice ASR BitNet",
-      "downloads": 5835
+      "downloads": 1892654
     },
     {
       "id": "prism-ml/Ternary-Bonsai-27B-gguf",
       "displayName": "Ternary Bonsai 27B",
-      "downloads": 716341
+      "downloads": 734375
+    },
+    {
+      "id": "microsoft/VibeVoice-ASR-BitNet",
+      "displayName": "VibeVoice ASR BitNet",
+      "downloads": 8468
     },
     {
       "id": "unsloth/Laguna-S-2.1-GGUF",
       "displayName": "Laguna S 2.1",
-      "downloads": 170109
+      "downloads": 176276
     },
     {
-      "id": "prism-ml/Bonsai-27B-gguf",
-      "displayName": "Bonsai 27B",
-      "downloads": 2510237
+      "id": "KyleHessling1/Qwopus3.6-27B-Fusion-GGUF",
+      "displayName": "Qwopus3.6 27B Fusion",
+      "downloads": 10643
     }
   ]
 }
