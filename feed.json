@@ -1,6 +1,13 @@
 {
-  "updated": "2026-08-02T20:49:41Z",
+  "updated": "2026-08-02T22:51:54Z",
   "news": [
+    {
+      "title": "Sam Altman and AI\u2019s decel debate",
+      "url": "https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-08-02T20:54:22Z",
+      "snippet": "On the latest episode of Equity, we discuss why Sam Altman has calling on the industry to \"pace the rate of AI development.\""
+    },
     {
       "title": "Fender\u2019s CEO seems to think your bandmates are just analog AI",
       "url": "https://www.theverge.com/ai-artificial-intelligence/974265/fender-ceo-bud-cole-ai-music",
@@ -156,13 +163,6 @@
       "snippet": "After OpenAI's models broke into Hugging Face, Anthropic checked its own history and found three similar incidents."
     },
     {
-      "title": "AI hedge fund Situational Awareness may have sold its public portfolio, but it still has its Anthropic shares",
-      "url": "https://techcrunch.com/2026/07/30/ai-hedge-fund-situational-awareness-may-have-sold-its-public-portfolio-but-it-still-has-its-anthropic-shares/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-07-30T23:25:58Z",
-      "snippet": "The former OpenAI researcher\u2019s fund was forced to unwind public equities after leveraged public bets plummeted. But he still has cards to play."
-    },
-    {
       "title": "Tim Cook hints at iCloud Plus tier for AI power users",
       "url": "https://www.theverge.com/tech/973552/apple-ceo-tim-cook-icloud-plus-ai",
       "source": "The Verge",
@@ -219,14 +219,14 @@
       "downloads": 734375
     },
     {
-      "id": "unsloth/Laguna-S-2.1-GGUF",
-      "displayName": "Laguna S 2.1",
-      "downloads": 176276
-    },
-    {
       "id": "KyleHessling1/Qwopus3.6-27B-Fusion-GGUF",
       "displayName": "Qwopus3.6 27B Fusion",
       "downloads": 10643
+    },
+    {
+      "id": "unsloth/Laguna-S-2.1-GGUF",
+      "displayName": "Laguna S 2.1",
+      "downloads": 176276
     }
   ]
 }
