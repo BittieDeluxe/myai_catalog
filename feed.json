@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-01T22:53:40Z",
+  "updated": "2026-08-02T02:22:53Z",
   "news": [
     {
       "title": "Judge denies xAI\u2019s request to block Minnesota ban on \u2018nudify\u2019 apps",
@@ -58,18 +58,18 @@
       "snippet": "A tool that allowed anyone to generate fake AI-generated imagery and superimpose it over real Google Earth maps quickly spurred backlash."
     },
     {
-      "title": "Google Earth&#8217;s AI deepfake tool only lasted one day",
+      "title": "Google Earth\u2019s AI deepfake tool only lasted one day",
       "url": "https://www.theverge.com/tech/973943/google-earth-ai-image-generation-deepfake-tool",
       "source": "The Verge",
       "publishedAt": "2026-07-31T19:13:29Z",
       "snippet": "Google has shut down Google Earth feature it launched Thursday that allowed users to edit satellite images with text prompts using AI. The tool essentially let users create AI deepfakes of the real wo"
     },
     {
-      "title": "Sam Altman\u00a0isn\u2019t\u00a0the only one who wants to pump the brakes on AI",
+      "title": "Sam Altman isn\u2019t the only one who wants to pump the brakes on AI",
       "url": "https://techcrunch.com/video/sam-altman-isnt-the-only-one-who-wants-to-pump-the-brakes-on-ai/",
       "source": "TechCrunch",
       "publishedAt": "2026-07-31T17:26:32Z",
-      "snippet": "After years of pushing full speed ahead on AI,&#160;OpenAI CEO&#160;Sam Altman says&#160;maybe it\u2019s&#160;time for the AI industry to \u201cpace\u201d itself. The comments came&#160;just days after one of OpenAI"
+      "snippet": "After years of pushing full speed ahead on AI, OpenAI CEO Sam Altman says maybe it\u2019s time for the AI industry to \u201cpace\u201d itself. The comments came just days after one of OpenAI\u2019s own models broke out o"
     },
     {
       "title": "Here\u2019s the problem with putting an AI image generator in Google Earth",
@@ -125,7 +125,7 @@
       "url": "https://techcrunch.com/podcast/ai-labs-want-to-pump-the-brakes-but-amazon-and-spacex-are-still-blasting-off/",
       "source": "TechCrunch",
       "publishedAt": "2026-07-31T14:00:00Z",
-      "snippet": "After years of pushing full speed ahead on AI,&#160;OpenAI CEO&#160;Sam Altman says&#160;maybe it\u2019s&#160;time for the AI industry to \u201cpace\u201d itself. The comments came&#160;just days after one of OpenAI"
+      "snippet": "After years of pushing full speed ahead on AI, OpenAI CEO Sam Altman says maybe it\u2019s time for the AI industry to \u201cpace\u201d itself. The comments came just days after one of OpenAI\u2019s own models broke out o"
     },
     {
       "title": "Anthropic says Claude accidentally hacked real companies too",
@@ -224,9 +224,9 @@
       "downloads": 170109
     },
     {
-      "id": "KyleHessling1/Qwopus3.6-27B-Fusion-GGUF",
-      "displayName": "Qwopus3.6 27B Fusion",
-      "downloads": 4474
+      "id": "prism-ml/Bonsai-27B-gguf",
+      "displayName": "Bonsai 27B",
+      "downloads": 2510237
     }
   ]
 }
