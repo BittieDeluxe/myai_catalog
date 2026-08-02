@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-02T09:51:53Z",
+  "updated": "2026-08-02T11:13:12Z",
   "news": [
     {
       "title": "Judge denies xAI\u2019s request to block Minnesota ban on \u2018nudify\u2019 apps",
@@ -209,14 +209,14 @@
       "downloads": 1892654
     },
     {
-      "id": "prism-ml/Ternary-Bonsai-27B-gguf",
-      "displayName": "Ternary Bonsai 27B",
-      "downloads": 734375
-    },
-    {
       "id": "microsoft/VibeVoice-ASR-BitNet",
       "displayName": "VibeVoice ASR BitNet",
       "downloads": 8468
+    },
+    {
+      "id": "prism-ml/Ternary-Bonsai-27B-gguf",
+      "displayName": "Ternary Bonsai 27B",
+      "downloads": 734375
     },
     {
       "id": "unsloth/Laguna-S-2.1-GGUF",
