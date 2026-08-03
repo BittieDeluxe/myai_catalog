@@ -1,6 +1,20 @@
 {
-  "updated": "2026-08-03T06:55:10Z",
+  "updated": "2026-08-03T11:17:33Z",
   "news": [
+    {
+      "title": "China\u2019s Alibaba takes another swipe at America\u2019s AI supremacy",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/974342/alibaba-qwen-max-open-weight-ai",
+      "source": "The Verge",
+      "publishedAt": "2026-08-03T11:01:11Z",
+      "snippet": "Chinese tech giant Alibaba released what it says is its largest and \"most capable AI model to date,\" claiming performance rivalling the best systems from US frontier labs Anthropic and OpenAI, as well"
+    },
+    {
+      "title": "A Marc Benioff-backed startup thinks AI can solve the AI deployment problem",
+      "url": "https://techcrunch.com/2026/08/03/a-marc-benioff-backed-startup-thinks-ai-can-solve-the-ai-deployment-problem/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-08-03T10:00:00Z",
+      "snippet": "June emerged from stealth today with a $20 million pre-seed round to make AI adoption simpler."
+    },
     {
       "title": "Sam Altman and AI\u2019s decel debate",
       "url": "https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/",
@@ -156,77 +170,63 @@
       "snippet": "Anthropic just realized several of its Claude AI models hacked into the systems of three different organizations during testing, acting on their own and without the company noticing. The revelation co"
     },
     {
-      "title": "Anthropic says its own AI models breached three companies during security tests",
-      "url": "https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-07-31T01:06:54Z",
-      "snippet": "After OpenAI's models broke into Hugging Face, Anthropic checked its own history and found three similar incidents."
-    },
-    {
       "title": "Tim Cook hints at iCloud Plus tier for AI power users",
       "url": "https://www.theverge.com/tech/973552/apple-ceo-tim-cook-icloud-plus-ai",
       "source": "The Verge",
       "publishedAt": "2026-07-30T22:29:45Z",
       "snippet": "Apple may allow users to pay to increase their AI usage limits. During an earnings call on Thursday, Apple CEO Tim Cook said that he believes people will want to use Apple Intelligence and the upcomin"
-    },
-    {
-      "title": "The loss of Situational Awareness",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/973467/ai-bet-situational-awareness-oops-stonks",
-      "source": "The Verge",
-      "publishedAt": "2026-07-30T20:46:25Z",
-      "snippet": "I am not by any means an expert at finance but I think I do now have some advice for people who are: Do not name your hedge fund anything that will be hilarious if it blows up. Don't use a name like \""
     }
   ],
   "trending": [
     {
       "id": "DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
       "displayName": "Qwen3.6 27B Fable Fusion 711 Uncensored Heretic NM DAU NEO MAX MTP",
-      "downloads": 1372285
+      "downloads": 1550034
     },
     {
       "id": "unsloth/DeepSeek-V4-Flash-0731-GGUF",
       "displayName": "DeepSeek V4 Flash 0731",
-      "downloads": 48707
+      "downloads": 69656
     },
     {
       "id": "unsloth/Kimi-K3-GGUF",
       "displayName": "Kimi K3",
-      "downloads": 88481
+      "downloads": 128215
     },
     {
       "id": "LuffyTheFox/Qwen3.6-35B-A3B-Uncensored-Genesis-Hermes-V6-GGUF",
       "displayName": "Qwen3.6 35B A3B Uncensored Genesis Hermes V6",
-      "downloads": 259237
+      "downloads": 287745
     },
     {
       "id": "DavidAU/Qwen3.5-9B-The-Defiant-Fable-Uncensored-Heretic-NEO-IMATRIX-MAX-MTP-GGUF",
       "displayName": "Qwen3.5 9B The Defiant Fable Uncensored Heretic NEO IMATRIX MAX MTP",
-      "downloads": 292511
+      "downloads": 304420
     },
     {
       "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
       "displayName": "Qwen3.6 35B A3B Uncensored HauhauCS Aggressive",
-      "downloads": 1892654
+      "downloads": 1895741
     },
     {
       "id": "microsoft/VibeVoice-ASR-BitNet",
       "displayName": "VibeVoice ASR BitNet",
-      "downloads": 8468
-    },
-    {
-      "id": "prism-ml/Ternary-Bonsai-27B-gguf",
-      "displayName": "Ternary Bonsai 27B",
-      "downloads": 734375
+      "downloads": 9474
     },
     {
       "id": "KyleHessling1/Qwopus3.6-27B-Fusion-GGUF",
       "displayName": "Qwopus3.6 27B Fusion",
-      "downloads": 10643
+      "downloads": 12196
     },
     {
-      "id": "unsloth/Laguna-S-2.1-GGUF",
-      "displayName": "Laguna S 2.1",
-      "downloads": 176276
+      "id": "unsloth/Inkling-Small-GGUF",
+      "displayName": "Inkling Small",
+      "downloads": 30594
+    },
+    {
+      "id": "prism-ml/Ternary-Bonsai-27B-gguf",
+      "displayName": "Ternary Bonsai 27B",
+      "downloads": 744743
     }
   ]
 }
