@@ -1,12 +1,19 @@
 {
-  "updated": "2026-08-03T17:46:59Z",
+  "updated": "2026-08-03T19:24:32Z",
   "news": [
     {
-      "title": "Europe\u2019s AI labeling and transparency rules are now in effect",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/974571/eu-ai-act-transparency-labels-rules-deepfakes",
-      "source": "The Verge",
-      "publishedAt": "2026-08-03T17:38:45Z",
-      "snippet": "The European Union has ushered in some additional rules that aim to make it easier for people to identify chatbots and AI deepfakes online. The new transparency obligations under the bloc's landmark A"
+      "title": "Influencers draw backlash for attending OpenAI\u2019s first luxury trip",
+      "url": "https://techcrunch.com/2026/08/03/influencers-draw-backlash-for-attending-openais-first-luxury-trip/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-08-03T19:09:56Z",
+      "snippet": "OpenAI\u2019s first-ever influencer brand trip is sparking online backlash as tensions over the use of AI continue."
+    },
+    {
+      "title": "Apple finally fixed Siri. So why does it feel anticlimactic?",
+      "url": "https://techcrunch.com/2026/08/03/apple-finally-fixed-siri-so-why-does-it-feel-anticlimactic/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-08-03T18:43:43Z",
+      "snippet": "Apple\u2019s long-awaited AI overhaul finally makes Siri the assistant it was always supposed to be. But after years of delays, the launch lands in an AI landscape where chatbots have evolved into agents t"
     },
     {
       "title": "Congress\u2019s favorite AI tool? ChatGPT",
@@ -76,7 +83,7 @@
       "url": "https://techcrunch.com/2026/08/01/sam-altman-is-still-making-the-case-for-parenting-via-chatgpt/",
       "source": "TechCrunch",
       "publishedAt": "2026-08-01T17:07:34Z",
-      "snippet": "OpenAI's CEO seemed excited to share a \"cool use case\" for parents."
+      "snippet": "This isn\u2019t the first time a tech CEO has promised that AI can shield users \u2014 and specifically users\u2019 morning commutes \u2014 from the messiness and inefficiency of human experience."
     },
     {
       "title": "This $9 key physically locks your most addictive apps",
@@ -149,20 +156,6 @@
       "snippet": "Apple CEO Tim Cook envisions users being able to buy more compute for Siri AI via Apple's existing iCloud+ subscriptions."
     },
     {
-      "title": "SpaceX won\u2019t remove all of xAI\u2019s unpermitted turbines for another year",
-      "url": "https://techcrunch.com/2026/07/31/spacex-wont-remove-all-of-xais-unpermitted-turbines-for-another-year/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-07-31T15:16:17Z",
-      "snippet": "SpaceX is building a new power plant for xAI's Colossus data centers, but it won't remove existing, unpermitted turbines for many more months."
-    },
-    {
-      "title": "Smallest.ai raises $13M to build ultra-fast voice AI that sounds genuinely human",
-      "url": "https://techcrunch.com/2026/07/31/smallest-ai-raises-13m-to-build-ultra-fast-voice-ai-that-sounds-genuinely-human/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-07-31T14:47:11Z",
-      "snippet": "The startup is building voice models designed to make AI phone calls pass the Turing test."
-    },
-    {
       "title": "It\u2019s time to panic about AI safety",
       "url": "https://www.theverge.com/podcast/973668/ai-safety-openai-hugging-face-vergecast",
       "source": "The Verge",
@@ -175,6 +168,13 @@
       "source": "The Verge",
       "publishedAt": "2026-07-31T13:41:17Z",
       "snippet": "Anthropic just realized several of its Claude AI models hacked into the systems of three different organizations during testing, acting on their own and without the company noticing. The revelation co"
+    },
+    {
+      "title": "Tim Cook hints at iCloud Plus tier for AI power users",
+      "url": "https://www.theverge.com/tech/973552/apple-ceo-tim-cook-icloud-plus-ai",
+      "source": "The Verge",
+      "publishedAt": "2026-07-30T22:29:45Z",
+      "snippet": "Apple may allow users to pay to increase their AI usage limits. During an earnings call on Thursday, Apple CEO Tim Cook said that he believes people will want to use Apple Intelligence and the upcomin"
     }
   ],
   "trending": [
