@@ -1,6 +1,27 @@
 {
-  "updated": "2026-08-04T10:32:53Z",
+  "updated": "2026-08-04T14:00:01Z",
   "news": [
+    {
+      "title": "Is the future of data centers portable? Runware builds a pod to find out",
+      "url": "https://techcrunch.com/2026/08/04/is-the-future-of-data-centers-portable-runware-builds-a-pod-to-find-out/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-08-04T13:00:00Z",
+      "snippet": "On Tuesday, AI infrastructure company Runware announced the launch of its own modular data center called Sonic Inference Pod."
+    },
+    {
+      "title": "EON wants to move the data superhighway from ocean fiber to space lasers",
+      "url": "https://techcrunch.com/2026/08/04/eon-wants-to-move-the-data-superhighway-from-ocean-fiber-to-space-lasers/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-08-04T12:00:00Z",
+      "snippet": "Endeavour Optical Networks is planning to launch the fastest space laser communications system yet built."
+    },
+    {
+      "title": "OpenAI drags Apple\u2019s lawsuit into the court of public opinion",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/974914/openai-blog-response-apple-lawsuit-messages",
+      "source": "The Verge",
+      "publishedAt": "2026-08-04T11:27:55Z",
+      "snippet": "Apple's legal battle against OpenAI just got messier now that the ChatGPT-maker has publicly aired receipts to counter Apple's version of events. In a blog post published overnight titled \"Apple is ge"
+    },
     {
       "title": "Can Reddit fend off a new wave of AI SEO spam?",
       "url": "https://www.theverge.com/ai-artificial-intelligence/973098/reddit-ai-search-seo-marketing-brands-spam",
@@ -135,20 +156,6 @@
       "snippet": "OpenAI has reportedly found evidence of additional agent misbehavior as it looks into the incident that occurred with Hugging Face."
     },
     {
-      "title": "India is starting to pay for apps, not just download them",
-      "url": "https://techcrunch.com/2026/07/31/india-is-starting-to-pay-for-apps-not-just-download-them/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-07-31T21:07:45Z",
-      "snippet": "India's app market generated a record $345 million in Q2."
-    },
-    {
-      "title": "Google nixes its Earth AI feature one day after launch, amid criticism it would spread misinformation",
-      "url": "https://techcrunch.com/2026/07/31/google-nixes-its-earth-ai-feature-one-day-after-launch-amid-criticism-it-would-spread-misinformation/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-07-31T19:47:28Z",
-      "snippet": "A tool that allowed anyone to generate fake AI-generated imagery and superimpose it over real Google Earth maps quickly spurred backlash."
-    },
-    {
       "title": "Google Earth\u2019s AI deepfake tool only lasted one day",
       "url": "https://www.theverge.com/tech/973943/google-earth-ai-image-generation-deepfake-tool",
       "source": "The Verge",
@@ -168,13 +175,6 @@
       "source": "The Verge",
       "publishedAt": "2026-07-31T16:36:48Z",
       "snippet": "Several record labels, including the big three - Universal Music Group, Sony Music, and Warner Music Group - have proposed rules regarding chart eligibility for AI songs. In short, they wouldn't be. T"
-    },
-    {
-      "title": "It\u2019s time to panic about AI safety",
-      "url": "https://www.theverge.com/podcast/973668/ai-safety-openai-hugging-face-vergecast",
-      "source": "The Verge",
-      "publishedAt": "2026-07-31T14:03:04Z",
-      "snippet": "When the phrase \"OpenAI hacked Hugging Face\" has more or less entered mainstream culture, you know we have an AI problem. This week, we learned more about exactly how OpenAI's agent broke out of a san"
     }
   ],
   "trending": [
@@ -219,14 +219,14 @@
       "downloads": 15227
     },
     {
-      "id": "microsoft/VibeVoice-ASR-BitNet",
-      "displayName": "VibeVoice ASR BitNet",
-      "downloads": 10133
-    },
-    {
       "id": "prism-ml/Ternary-Bonsai-27B-gguf",
       "displayName": "Ternary Bonsai 27B",
       "downloads": 761269
+    },
+    {
+      "id": "microsoft/VibeVoice-ASR-BitNet",
+      "displayName": "VibeVoice ASR BitNet",
+      "downloads": 10133
     }
   ]
 }
