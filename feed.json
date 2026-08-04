@@ -1,6 +1,13 @@
 {
-  "updated": "2026-08-04T06:23:16Z",
+  "updated": "2026-08-04T10:32:53Z",
   "news": [
+    {
+      "title": "Can Reddit fend off a new wave of AI SEO spam?",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/973098/reddit-ai-search-seo-marketing-brands-spam",
+      "source": "The Verge",
+      "publishedAt": "2026-08-04T10:00:00Z",
+      "snippet": "Earlier this year, a Reddit user had asked members of a skincare-focused subreddit if anyone had tried a specific hypochlorous acid spray, a product often used for acne. There were dozens of responses"
+    },
     {
       "title": "After killer quarter, Palantir CEO Alex Karp calls AI industry \u2018Marxist\u2019",
       "url": "https://techcrunch.com/2026/08/03/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist/",
@@ -168,65 +175,58 @@
       "source": "The Verge",
       "publishedAt": "2026-07-31T14:03:04Z",
       "snippet": "When the phrase \"OpenAI hacked Hugging Face\" has more or less entered mainstream culture, you know we have an AI problem. This week, we learned more about exactly how OpenAI's agent broke out of a san"
-    },
-    {
-      "title": "Anthropic says Claude accidentally hacked real companies too",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/973670/anthropic-claude-hacked-organizations-during-cyber-tests",
-      "source": "The Verge",
-      "publishedAt": "2026-07-31T13:41:17Z",
-      "snippet": "Anthropic just realized several of its Claude AI models hacked into the systems of three different organizations during testing, acting on their own and without the company noticing. The revelation co"
     }
   ],
   "trending": [
     {
       "id": "DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
       "displayName": "Qwen3.6 27B Fable Fusion 711 Uncensored Heretic NM DAU NEO MAX MTP",
-      "downloads": 1550034
+      "downloads": 1633405
     },
     {
       "id": "unsloth/DeepSeek-V4-Flash-0731-GGUF",
       "displayName": "DeepSeek V4 Flash 0731",
-      "downloads": 69656
+      "downloads": 111678
     },
     {
       "id": "unsloth/Kimi-K3-GGUF",
       "displayName": "Kimi K3",
-      "downloads": 128215
+      "downloads": 170055
     },
     {
       "id": "LuffyTheFox/Qwen3.6-35B-A3B-Uncensored-Genesis-Hermes-V6-GGUF",
       "displayName": "Qwen3.6 35B A3B Uncensored Genesis Hermes V6",
-      "downloads": 287745
+      "downloads": 308857
     },
     {
       "id": "DavidAU/Qwen3.5-9B-The-Defiant-Fable-Uncensored-Heretic-NEO-IMATRIX-MAX-MTP-GGUF",
       "displayName": "Qwen3.5 9B The Defiant Fable Uncensored Heretic NEO IMATRIX MAX MTP",
-      "downloads": 304420
+      "downloads": 323116
     },
     {
       "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
       "displayName": "Qwen3.6 35B A3B Uncensored HauhauCS Aggressive",
-      "downloads": 1895741
-    },
-    {
-      "id": "microsoft/VibeVoice-ASR-BitNet",
-      "displayName": "VibeVoice ASR BitNet",
-      "downloads": 9474
-    },
-    {
-      "id": "KyleHessling1/Qwopus3.6-27B-Fusion-GGUF",
-      "displayName": "Qwopus3.6 27B Fusion",
-      "downloads": 12196
+      "downloads": 1930898
     },
     {
       "id": "realrebelai/MiniMax-H3_GGUFs",
       "displayName": "MiniMax H3_GGUFs",
-      "downloads": 0
+      "downloads": 40010
     },
     {
-      "id": "unsloth/Inkling-Small-GGUF",
-      "displayName": "Inkling Small",
-      "downloads": 30594
+      "id": "KyleHessling1/Qwopus3.6-27B-Fusion-GGUF",
+      "displayName": "Qwopus3.6 27B Fusion",
+      "downloads": 15227
+    },
+    {
+      "id": "microsoft/VibeVoice-ASR-BitNet",
+      "displayName": "VibeVoice ASR BitNet",
+      "downloads": 10133
+    },
+    {
+      "id": "prism-ml/Ternary-Bonsai-27B-gguf",
+      "displayName": "Ternary Bonsai 27B",
+      "downloads": 761269
     }
   ]
 }
