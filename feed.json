@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-04T02:05:18Z",
+  "updated": "2026-08-04T06:23:16Z",
   "news": [
     {
       "title": "After killer quarter, Palantir CEO Alex Karp calls AI industry \u2018Marxist\u2019",
@@ -219,14 +219,14 @@
       "downloads": 12196
     },
     {
+      "id": "realrebelai/MiniMax-H3_GGUFs",
+      "displayName": "MiniMax H3_GGUFs",
+      "downloads": 0
+    },
+    {
       "id": "unsloth/Inkling-Small-GGUF",
       "displayName": "Inkling Small",
       "downloads": 30594
-    },
-    {
-      "id": "prism-ml/Ternary-Bonsai-27B-gguf",
-      "displayName": "Ternary Bonsai 27B",
-      "downloads": 744743
     }
   ]
 }
