@@ -1,6 +1,41 @@
 {
-  "updated": "2026-08-04T14:00:01Z",
+  "updated": "2026-08-04T16:17:21Z",
   "news": [
+    {
+      "title": "Spotify expands AI remix and covers project with Merlin partnership",
+      "url": "https://techcrunch.com/2026/08/04/spotify-adds-merlin-to-its-ai-music-remix-and-covers-effort/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-08-04T15:50:06Z",
+      "snippet": "Spotify says Merlin, which represents more than 30,000 independent labels and distributors, has joined Universal Music Group in backing its upcoming AI-powered remix and covers product. The paid tool "
+    },
+    {
+      "title": "Texas halts new data centers as governor calls for audits",
+      "url": "https://techcrunch.com/2026/08/04/texas-halts-new-data-centers-as-governor-calls-for-audits/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-08-04T15:42:35Z",
+      "snippet": "Texas Governor Greg Abbott has paused new data center development until an audit has been completed."
+    },
+    {
+      "title": "Texas says data centers must pass an audit before connecting to the grid",
+      "url": "https://www.theverge.com/policy/975071/texas-data-center-audit",
+      "source": "The Verge",
+      "publishedAt": "2026-08-04T15:33:21Z",
+      "snippet": "Texas announced new a audit on data centers that could slow approval for new facilities seeking to connect to the state energy grid. Governor Greg Abbott (R) on Monday directed the Public Utility Comm"
+    },
+    {
+      "title": "Elon Musk spends half his time talking robots and AI on Tesla earnings calls",
+      "url": "https://techcrunch.com/2026/08/04/elon-musk-spends-half-his-time-talking-robots-and-ai-on-tesla-earnings-calls/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-08-04T15:20:06Z",
+      "snippet": "An analysis of the last seven years of Tesla earnings calls shows just little attention Musk pays to Tesla's car business."
+    },
+    {
+      "title": "Apple says more ex-employees may have taken confidential data to OpenAI",
+      "url": "https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-08-04T14:03:01Z",
+      "snippet": "Apple says its trade secrets investigation into OpenAI has widened. In a new court filing, Apple claims additional former staff may have retained or accessed confidential information."
+    },
     {
       "title": "Is the future of data centers portable? Runware builds a pod to find out",
       "url": "https://techcrunch.com/2026/08/04/is-the-future-of-data-centers-portable-runware-builds-a-pod-to-find-out/",
@@ -13,7 +48,7 @@
       "url": "https://techcrunch.com/2026/08/04/eon-wants-to-move-the-data-superhighway-from-ocean-fiber-to-space-lasers/",
       "source": "TechCrunch",
       "publishedAt": "2026-08-04T12:00:00Z",
-      "snippet": "Endeavour Optical Networks is planning to launch the fastest space laser communications system yet built."
+      "snippet": "Endeavor Optical Networks is planning to launch the fastest space laser communications system yet built."
     },
     {
       "title": "OpenAI drags Apple\u2019s lawsuit into the court of public opinion",
@@ -121,39 +156,11 @@
       "snippet": "Despite a lawsuit from xAI, a Minnesota ban on apps that allow users to \u201cnudify\u201d images can move forward."
     },
     {
-      "title": "YouTuber Hank Green says his AI usage is \u2018not healthy\u2019",
-      "url": "https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-08-01T19:45:45Z",
-      "snippet": "Green offered a remarkable apology, saying that \"the level of dopamine that I've been getting from interacting with LLMs ... is not healthy for me or good for the world.\""
-    },
-    {
       "title": "Is this Billboard Hot 100 hit AI slop?",
       "url": "https://www.theverge.com/ai-artificial-intelligence/974209/fenix-flexin-billboard-hot-100-rubberz-ai-slop",
       "source": "The Verge",
       "publishedAt": "2026-08-01T18:20:00Z",
       "snippet": "Fenix Flexin is best known as a member of Shoreline Mafia, a rap duo from Los Angeles. But he's recently found solo success with the track \"Rubberz,\" which has climbed to number 58 on the Billboard Ho"
-    },
-    {
-      "title": "Sam Altman is still making the case for parenting via ChatGPT",
-      "url": "https://techcrunch.com/2026/08/01/sam-altman-is-still-making-the-case-for-parenting-via-chatgpt/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-08-01T17:07:34Z",
-      "snippet": "This isn\u2019t the first time a tech CEO has promised that AI can shield users \u2014 and specifically users\u2019 morning commutes \u2014 from the messiness and inefficiency of human experience."
-    },
-    {
-      "title": "This $9 key physically locks your most addictive apps",
-      "url": "https://techcrunch.com/2026/08/01/this-9-key-physically-locks-your-most-addictive-apps/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-08-01T15:58:17Z",
-      "snippet": "This $9 NFC key requires you to physically scan it to unlock distracting apps on your phone."
-    },
-    {
-      "title": "OpenAI reportedly finds evidence that more of its agents ran amok",
-      "url": "https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-07-31T22:47:26Z",
-      "snippet": "OpenAI has reportedly found evidence of additional agent misbehavior as it looks into the incident that occurred with Hugging Face."
     },
     {
       "title": "Google Earth\u2019s AI deepfake tool only lasted one day",
@@ -168,13 +175,6 @@
       "source": "The Verge",
       "publishedAt": "2026-07-31T17:05:46Z",
       "snippet": "A text prompt was all it took to generate reality-warping images using Google Earth's satellite, aerial, and 3D imagery with a now-rolled back AI feature, like these images generated by Digital Diggin"
-    },
-    {
-      "title": "The major labels propose rules to keep AI slop off the charts",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/973741/ai-music-major-record-labels-charts",
-      "source": "The Verge",
-      "publishedAt": "2026-07-31T16:36:48Z",
-      "snippet": "Several record labels, including the big three - Universal Music Group, Sony Music, and Warner Music Group - have proposed rules regarding chart eligibility for AI songs. In short, they wouldn't be. T"
     }
   ],
   "trending": [
@@ -224,9 +224,9 @@
       "downloads": 761269
     },
     {
-      "id": "microsoft/VibeVoice-ASR-BitNet",
-      "displayName": "VibeVoice ASR BitNet",
-      "downloads": 10133
+      "id": "unsloth/Inkling-Small-GGUF",
+      "displayName": "Inkling Small",
+      "downloads": 39106
     }
   ]
 }
