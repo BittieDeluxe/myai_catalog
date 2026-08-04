@@ -1,6 +1,13 @@
 {
-  "updated": "2026-08-04T21:07:02Z",
+  "updated": "2026-08-04T22:58:19Z",
   "news": [
+    {
+      "title": "SpaceX has bought $329M worth of Tesla Megapacks so far this year",
+      "url": "https://techcrunch.com/2026/08/04/spacex-has-bought-329m-worth-of-tesla-megapacks-so-far-this-year/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-08-04T21:07:26Z",
+      "snippet": "The purchase illustrates just how interconnected Elon Musk's universe of companies are."
+    },
     {
       "title": "AMD\u2019s datacenter business is booming while gaming takes a backseat",
       "url": "https://www.theverge.com/tech/975381/amd-q2-2026-earnings-ai-gaming-ryzen",
@@ -9,7 +16,7 @@
       "snippet": "Driven by demand for AI capacity, AMD's data center revenue more than doubled year-over-year in its latest earnings report, reaching $6.7 billion. That's up from $5.8 billion in Q1, and jumping 107 pe"
     },
     {
-      "title": "SpaceX has more neocloud revenue",
+      "title": "SpaceX made more revenue as an AI company than a space company",
       "url": "https://www.theverge.com/science/975335/spacex-made-more-money-as-a-neocloud",
       "source": "The Verge",
       "publishedAt": "2026-08-04T20:47:55Z",
@@ -83,7 +90,7 @@
       "url": "https://techcrunch.com/2026/08/04/elon-musk-spends-half-his-time-talking-robots-and-ai-on-tesla-earnings-calls/",
       "source": "TechCrunch",
       "publishedAt": "2026-08-04T15:20:06Z",
-      "snippet": "An analysis of the last seven years of Tesla earnings calls shows just little attention Musk pays to Tesla's car business."
+      "snippet": "An analysis of the last seven years of Tesla earnings calls shows just how little attention Musk pays to Tesla's car business."
     },
     {
       "title": "Apple says more ex-employees may have taken confidential data to OpenAI",
@@ -149,13 +156,6 @@
       "snippet": "OpenAI\u2019s first-ever influencer brand trip is sparking online backlash as tensions over the use of AI continue."
     },
     {
-      "title": "Apple finally fixed Siri. So why does it feel anticlimactic?",
-      "url": "https://techcrunch.com/2026/08/03/apple-finally-fixed-siri-so-why-does-it-feel-anticlimactic/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-08-03T18:43:43Z",
-      "snippet": "Apple\u2019s long-awaited AI overhaul finally makes Siri the assistant it was always supposed to be. Yet it arrives at a moment when simply being a capable AI assistant no longer feels revolutionary."
-    },
-    {
       "title": "Europe\u2019s AI labeling and transparency rules are now in effect",
       "url": "https://www.theverge.com/ai-artificial-intelligence/974571/eu-ai-act-transparency-labels-rules-deepfakes",
       "source": "The Verge",
@@ -214,14 +214,14 @@
       "downloads": 40010
     },
     {
-      "id": "KyleHessling1/Qwopus3.6-27B-Fusion-GGUF",
-      "displayName": "Qwopus3.6 27B Fusion",
-      "downloads": 15227
-    },
-    {
       "id": "huihui-ai/Huihui-DeepSeek-V4-Flash-0731-abliterated-GGUF",
       "displayName": "Huihui DeepSeek V4 Flash 0731 abliterated",
       "downloads": 14046
+    },
+    {
+      "id": "KyleHessling1/Qwopus3.6-27B-Fusion-GGUF",
+      "displayName": "Qwopus3.6 27B Fusion",
+      "downloads": 15227
     },
     {
       "id": "unsloth/Inkling-Small-GGUF",
