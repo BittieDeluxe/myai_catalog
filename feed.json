@@ -1,6 +1,20 @@
 {
-  "updated": "2026-08-05T19:23:33Z",
+  "updated": "2026-08-05T21:02:50Z",
   "news": [
+    {
+      "title": "Klaviyo acquires Elias Torres\u2019 Agency in full-circle reunion for tech founders",
+      "url": "https://techcrunch.com/2026/08/05/klaviyo-acquires-elias-torres-agency-in-full-circle-reunion-for-tech-founders/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-08-05T20:05:00Z",
+      "snippet": "The serial entrepreneur joins the e-commerce company as CPO to lead its AI agents."
+    },
+    {
+      "title": "Jeff Dean and other top AI researchers are leaving Google to launch their own startup",
+      "url": "https://techcrunch.com/2026/08/05/jeff-dean-and-other-top-ai-researchers-are-leaving-google-to-launch-their-own-startup/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-08-05T19:30:19Z",
+      "snippet": "The legendary Google executive is joined by other outgoing Google execs in a joint mission to use AI to push forward the process of scientific discovery."
+    },
     {
       "title": "Sure seems like Fenix Flexin used AI music generator Treblo",
       "url": "https://www.theverge.com/ai-artificial-intelligence/975528/fenix-flexin-ai-music-generator-treblo",
@@ -161,20 +175,6 @@
       "source": "TechCrunch",
       "publishedAt": "2026-08-04T15:42:35Z",
       "snippet": "Tech companies and developers have been scouring the U.S. for places to build data centers, and they\u2019ve been drawn to Texas\u2019 loose regulations and seemingly abundant power supply. But even Texas can b"
-    },
-    {
-      "title": "Elon Musk spends half his time talking robots and AI on Tesla earnings calls",
-      "url": "https://techcrunch.com/2026/08/04/elon-musk-spends-half-his-time-talking-robots-and-ai-on-tesla-earnings-calls/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-08-04T15:20:06Z",
-      "snippet": "An analysis of the last seven years of Tesla earnings calls shows just how little attention Musk pays to Tesla's car business."
-    },
-    {
-      "title": "Apple says more ex-employees may have taken confidential data to OpenAI",
-      "url": "https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-08-04T14:03:01Z",
-      "snippet": "Apple says its trade secrets investigation into OpenAI has widened. In a new court filing, Apple claims additional former staff may have retained or accessed confidential information."
     }
   ],
   "trending": [
@@ -214,19 +214,19 @@
       "downloads": 1930898
     },
     {
-      "id": "huihui-ai/Huihui-DeepSeek-V4-Flash-0731-abliterated-GGUF",
-      "displayName": "Huihui DeepSeek V4 Flash 0731 abliterated",
-      "downloads": 14046
-    },
-    {
       "id": "LiquidAI/LFM2.5-2.6B-GGUF",
       "displayName": "LFM2.5 2.6B",
       "downloads": 185
     },
     {
-      "id": "unsloth/Inkling-Small-GGUF",
-      "displayName": "Inkling Small",
-      "downloads": 39106
+      "id": "huihui-ai/Huihui-DeepSeek-V4-Flash-0731-abliterated-GGUF",
+      "displayName": "Huihui DeepSeek V4 Flash 0731 abliterated",
+      "downloads": 14046
+    },
+    {
+      "id": "antirez/deepseek-v4-gguf",
+      "displayName": "deepseek v4",
+      "downloads": 875129
     }
   ]
 }
