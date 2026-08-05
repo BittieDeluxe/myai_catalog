@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-05T02:04:28Z",
+  "updated": "2026-08-05T06:23:26Z",
   "news": [
     {
       "title": "SpaceX has bought $329M worth of Tesla Megapacks so far this year",
@@ -194,8 +194,8 @@
       "downloads": 170055
     },
     {
-      "id": "LuffyTheFox/Qwen3.6-35B-A3B-Uncensored-Genesis-Hermes-V6-GGUF",
-      "displayName": "Qwen3.6 35B A3B Uncensored Genesis Hermes V6",
+      "id": "LuffyTheFox/Qwen3.6-35B-A3B-Uncensored-Genesis-Hermes-V7-GGUF",
+      "displayName": "Qwen3.6 35B A3B Uncensored Genesis Hermes V7",
       "downloads": 308857
     },
     {
@@ -219,14 +219,14 @@
       "downloads": 14046
     },
     {
-      "id": "KyleHessling1/Qwopus3.6-27B-Fusion-GGUF",
-      "displayName": "Qwopus3.6 27B Fusion",
-      "downloads": 15227
-    },
-    {
       "id": "unsloth/Inkling-Small-GGUF",
       "displayName": "Inkling Small",
       "downloads": 39106
+    },
+    {
+      "id": "antirez/deepseek-v4-gguf",
+      "displayName": "deepseek v4",
+      "downloads": 875129
     }
   ]
 }
