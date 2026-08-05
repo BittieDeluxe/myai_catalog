@@ -1,6 +1,41 @@
 {
-  "updated": "2026-08-05T13:58:00Z",
+  "updated": "2026-08-05T16:01:44Z",
   "news": [
+    {
+      "title": "Shopify says AI search is driving more traffic and sales, not replacing Google",
+      "url": "https://techcrunch.com/2026/08/05/shopify-says-ai-search-is-driving-more-traffic-and-sales-not-replacing-google/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-08-05T15:56:14Z",
+      "snippet": "Shopify says AI isn\u2019t cannibalizing search traffic the way it has for publishers. Instead, AI-driven traffic and orders to Shopify stores tripled year over year in Q2."
+    },
+    {
+      "title": "Hark previews its browser use agent for completing tasks",
+      "url": "https://techcrunch.com/2026/08/05/hark-previews-its-browser-use-agent-for-completing-tasks/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-08-05T15:46:27Z",
+      "snippet": "Hark claims that its browser use agent is faster and cheaper than competition."
+    },
+    {
+      "title": "Rogue AI agents created fake online identities in another hacking attempt",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/975577/aisi-openai-anthropic-agent-hacking",
+      "source": "The Verge",
+      "publishedAt": "2026-08-05T15:14:57Z",
+      "snippet": "Yet more rogue AI agents from OpenAI and Anthropic have been caught attempting to hack real targets online without permission. The discoveries add to a growing list of previously unknown incidents tha"
+    },
+    {
+      "title": "TechCrunch Disrupt 2026\u2019s Real World AI Stage features robots, automated factories, and extinct animals",
+      "url": "https://techcrunch.com/2026/08/05/techcrunch-disrupt-2026s-real-world-ai-stage-features-robots-automated-factories-and-extinct-animals/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-08-05T15:05:00Z",
+      "snippet": "On our new Real World AI stage, we\u2019ll be focusing on the intersection between the digital and physical, and all the ways we\u2019ll continue to see a blending of the two."
+    },
+    {
+      "title": "Anthropic is hiring an AI chip design team",
+      "url": "https://techcrunch.com/2026/08/05/anthropic-is-hiring-an-ai-chip-design-team/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-08-05T14:13:18Z",
+      "snippet": "Anthropic is building a team for designing its own custom AI chips. The Claude maker said it would co-design hardware and models to help its technology run faster and more efficiently."
+    },
     {
       "title": "MacPaw taps Liquid AI to offer on-device inference to devs building for its app store",
       "url": "https://techcrunch.com/2026/08/05/macpaw-taps-liquid-ai-to-offer-on-device-inference-to-devs-building-for-its-app-store/",
@@ -9,11 +44,25 @@
       "snippet": "MacPaw is building a local version of its AI assistant Eney using Liquid AI's models."
     },
     {
+      "title": "Google Assistant will disappear from your phone next month",
+      "url": "https://www.theverge.com/tech/975516/google-assistant-android-phones-tablets-shutdown",
+      "source": "The Verge",
+      "publishedAt": "2026-08-05T11:12:50Z",
+      "snippet": "Google Assistant's days have been numbered ever since Gemini arrived on the scene, and its time is now up. Google has announced that it will be removing access to Assistant on Android phones and table"
+    },
+    {
       "title": "AI makes weather prediction better. Can WindBorne make it lucrative?",
       "url": "https://techcrunch.com/2026/08/05/ai-makes-weather-prediction-better-can-windborne-make-it-lucrative/",
       "source": "TechCrunch",
       "publishedAt": "2026-08-05T11:00:00Z",
       "snippet": "WindBorne Systems has raised $37 million Series B round to scale its weather balloons and AI forecasts."
+    },
+    {
+      "title": "Trump\u2019s AI testing plan is limited and vague",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/975509/white-house-ai-framework-open-models-excluded",
+      "source": "The Verge",
+      "publishedAt": "2026-08-05T10:29:47Z",
+      "snippet": "The Trump administration's framework for assessing potential cybersecurity risks posed by advanced AI reportedly has no interest in testing open models. Axios reports that not only do the voluntary gu"
     },
     {
       "title": "SpaceX has bought $329M worth of Tesla Megapacks so far this year",
@@ -114,20 +163,6 @@
       "snippet": "Apple says its trade secrets investigation into OpenAI has widened. In a new court filing, Apple claims additional former staff may have retained or accessed confidential information."
     },
     {
-      "title": "Is the future of data centers portable? Runware builds a pod to find out",
-      "url": "https://techcrunch.com/2026/08/04/is-the-future-of-data-centers-portable-runware-builds-a-pod-to-find-out/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-08-04T13:00:00Z",
-      "snippet": "On Tuesday, AI infrastructure company Runware announced the launch of its own modular data center called Sonic Inference Pod."
-    },
-    {
-      "title": "EON wants to move the data superhighway from ocean fiber to space lasers",
-      "url": "https://techcrunch.com/2026/08/04/eon-wants-to-move-the-data-superhighway-from-ocean-fiber-to-space-lasers/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-08-04T12:00:00Z",
-      "snippet": "Endeavor Optical Networks is planning to launch the fastest space laser communications system yet built."
-    },
-    {
       "title": "OpenAI drags Apple\u2019s lawsuit into the court of public opinion",
       "url": "https://www.theverge.com/ai-artificial-intelligence/974914/openai-blog-response-apple-lawsuit-messages",
       "source": "The Verge",
@@ -140,41 +175,6 @@
       "source": "The Verge",
       "publishedAt": "2026-08-04T10:00:00Z",
       "snippet": "Earlier this year, a Reddit user had asked members of a skincare-focused subreddit if anyone had tried a specific hypochlorous acid spray, a product often used for acne. There were dozens of responses"
-    },
-    {
-      "title": "After killer quarter, Palantir CEO Alex Karp calls AI industry \u2018Marxist\u2019",
-      "url": "https://techcrunch.com/2026/08/03/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-08-03T23:19:50Z",
-      "snippet": "After a quarter that delivered $1 billion in profit, Palantir CEO Alex Karp on Monday once again warned that AI frontier labs are too untrustworthy for enterprises."
-    },
-    {
-      "title": "AWS is helping vibe-coding startup Superblocks, and the implications are big",
-      "url": "https://techcrunch.com/2026/08/03/aws-is-helping-vibe-coding-startup-superblocks-and-the-implications-are-big/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-08-03T20:00:00Z",
-      "snippet": "AWS now allows vibe-coding tool Superblocks to be embedded into the private clouds of AWS customers. It's another step toward decoupling apps from models."
-    },
-    {
-      "title": "Europe\u2019s AI labeling and transparency rules are now in effect",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/974571/eu-ai-act-transparency-labels-rules-deepfakes",
-      "source": "The Verge",
-      "publishedAt": "2026-08-03T17:38:45Z",
-      "snippet": "The European Union has ushered in some additional rules that aim to make it easier for people to identify chatbots and AI deepfakes online. The new transparency obligations under the bloc's landmark A"
-    },
-    {
-      "title": "China\u2019s Alibaba takes another swipe at America\u2019s AI supremacy",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/974342/alibaba-qwen-max-open-weight-ai",
-      "source": "The Verge",
-      "publishedAt": "2026-08-03T11:01:11Z",
-      "snippet": "Chinese tech giant Alibaba released what it says is its largest and \"most capable AI model to date,\" claiming performance rivaling the best systems from US frontier labs Anthropic and OpenAI, as well "
-    },
-    {
-      "title": "Fender\u2019s CEO seems to think your bandmates are just analog AI",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/974265/fender-ceo-bud-cole-ai-music",
-      "source": "The Verge",
-      "publishedAt": "2026-08-02T19:36:08Z",
-      "snippet": "Fender CEO Edward \"Bud\" Cole gave an interview to T3 in May celebrating the 75th anniversary of the Telecaster with comments on AI and music that initially flew under the radar. But it has started mak"
     }
   ],
   "trending": [
@@ -224,9 +224,9 @@
       "downloads": 185
     },
     {
-      "id": "antirez/deepseek-v4-gguf",
-      "displayName": "deepseek v4",
-      "downloads": 875129
+      "id": "unsloth/Inkling-Small-GGUF",
+      "displayName": "Inkling Small",
+      "downloads": 39106
     }
   ]
 }
