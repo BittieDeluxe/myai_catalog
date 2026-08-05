@@ -1,6 +1,34 @@
 {
-  "updated": "2026-08-05T16:01:44Z",
+  "updated": "2026-08-05T19:23:33Z",
   "news": [
+    {
+      "title": "Sure seems like Fenix Flexin used AI music generator Treblo",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/975528/fenix-flexin-ai-music-generator-treblo",
+      "source": "The Verge",
+      "publishedAt": "2026-08-05T16:57:25Z",
+      "snippet": "We were pretty sure that Fenix Flexin's \"Rubberz\" was made using AI, but musician Medasin was confident that it was made using Treblo specifically. Now the company and a new detection tool seem to con"
+    },
+    {
+      "title": "Google just announced a major shakeup of its top AI leadership",
+      "url": "https://www.theverge.com/tech/975677/google-deepmind-ai-demis-hassabis-shakeup",
+      "source": "The Verge",
+      "publishedAt": "2026-08-05T16:47:23Z",
+      "snippet": "Google is making some significant AI leadership changes, including a major shift for Google DeepMind leader Demis Hassabis. Hassabis will become the chair of Google DeepMind and the chief scientist at"
+    },
+    {
+      "title": "SpaceX is barely Space and mostly X",
+      "url": "https://www.theverge.com/science/975545/spacex-x-earnings-ai-data-centers-compute-space",
+      "source": "The Verge",
+      "publishedAt": "2026-08-05T16:35:56Z",
+      "snippet": "Once, I had some questions about why SpaceX, Elon Musk's healthiest company, acquired xAI, his sickliest one. Now I have some questions about why we're calling the whole thing SpaceX. Look, what we ha"
+    },
+    {
+      "title": "Reddit is introducing a new moderator: AI",
+      "url": "https://www.theverge.com/tech/975398/reddit-ai-rules-hub-moderator-old-reddit-developer-platform",
+      "source": "The Verge",
+      "publishedAt": "2026-08-05T16:00:00Z",
+      "snippet": "Reddit is enlisting AI to help moderate new subreddits - and eventually the rest of site. The company is introducing automated moderation tools that rely on LLMs to help mods manage their communities,"
+    },
     {
       "title": "Shopify says AI search is driving more traffic and sales, not replacing Google",
       "url": "https://techcrunch.com/2026/08/05/shopify-says-ai-search-is-driving-more-traffic-and-sales-not-replacing-google/",
@@ -55,7 +83,7 @@
       "url": "https://techcrunch.com/2026/08/05/ai-makes-weather-prediction-better-can-windborne-make-it-lucrative/",
       "source": "TechCrunch",
       "publishedAt": "2026-08-05T11:00:00Z",
-      "snippet": "WindBorne Systems has raised $37 million Series B round to scale its weather balloons and AI forecasts."
+      "snippet": "WindBorne Systems has raised a $37 million Series B round to scale its weather balloons and AI forecasts."
     },
     {
       "title": "Trump\u2019s AI testing plan is limited and vague",
@@ -121,13 +149,6 @@
       "snippet": "The brand trip is a right of passage for influencers. It's a mark of legitimacy that a sponsor wants to invite them on an all-expenses-paid vacation, often with luxurious freebies and activities. Trip"
     },
     {
-      "title": "\u2018Not healthy\u2019 LLM use is more common than you think",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/975180/llm-ai-chatbot-use-not-healthy",
-      "source": "The Verge",
-      "publishedAt": "2026-08-04T17:33:46Z",
-      "snippet": "Hank Green, a popular YouTuber and science communicator, said he is stepping back from production amid intense criticism over his use of AI. Green described his AI usage as \"not healthy,\" but stressed"
-    },
-    {
       "title": "Spotify expands AI remix and covers project with Merlin partnership",
       "url": "https://techcrunch.com/2026/08/04/spotify-adds-merlin-to-its-ai-music-remix-and-covers-effort/",
       "source": "TechCrunch",
@@ -142,13 +163,6 @@
       "snippet": "Tech companies and developers have been scouring the U.S. for places to build data centers, and they\u2019ve been drawn to Texas\u2019 loose regulations and seemingly abundant power supply. But even Texas can b"
     },
     {
-      "title": "Texas says data centers must pass an audit before connecting to the grid",
-      "url": "https://www.theverge.com/policy/975071/texas-data-center-audit",
-      "source": "The Verge",
-      "publishedAt": "2026-08-04T15:33:21Z",
-      "snippet": "Texas announced new a audit on data centers that could slow approval for new facilities seeking to connect to the state energy grid. Governor Greg Abbott (R) on Monday directed the Public Utility Comm"
-    },
-    {
       "title": "Elon Musk spends half his time talking robots and AI on Tesla earnings calls",
       "url": "https://techcrunch.com/2026/08/04/elon-musk-spends-half-his-time-talking-robots-and-ai-on-tesla-earnings-calls/",
       "source": "TechCrunch",
@@ -161,20 +175,6 @@
       "source": "TechCrunch",
       "publishedAt": "2026-08-04T14:03:01Z",
       "snippet": "Apple says its trade secrets investigation into OpenAI has widened. In a new court filing, Apple claims additional former staff may have retained or accessed confidential information."
-    },
-    {
-      "title": "OpenAI drags Apple\u2019s lawsuit into the court of public opinion",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/974914/openai-blog-response-apple-lawsuit-messages",
-      "source": "The Verge",
-      "publishedAt": "2026-08-04T11:27:55Z",
-      "snippet": "Apple's legal battle against OpenAI just got messier now that the ChatGPT-maker has publicly aired receipts to counter Apple's version of events. In a blog post published overnight titled \"Apple is ge"
-    },
-    {
-      "title": "Can Reddit fend off a new wave of AI SEO spam?",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/973098/reddit-ai-search-seo-marketing-brands-spam",
-      "source": "The Verge",
-      "publishedAt": "2026-08-04T10:00:00Z",
-      "snippet": "Earlier this year, a Reddit user had asked members of a skincare-focused subreddit if anyone had tried a specific hypochlorous acid spray, a product often used for acne. There were dozens of responses"
     }
   ],
   "trending": [
