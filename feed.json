@@ -1,6 +1,13 @@
 {
-  "updated": "2026-08-05T21:02:50Z",
+  "updated": "2026-08-05T22:54:28Z",
   "news": [
+    {
+      "title": "Meta launches Muse Code, an AI agent for large code bases",
+      "url": "https://techcrunch.com/2026/08/05/meta-launches-muse-code-an-ai-agent-for-large-code-bases/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-08-05T21:21:28Z",
+      "snippet": "Meta expanded its AI coding offerings with a new agent that, it promises, can handle complex tasks with complex software."
+    },
     {
       "title": "Klaviyo acquires Elias Torres\u2019 Agency in full-circle reunion for tech founders",
       "url": "https://techcrunch.com/2026/08/05/klaviyo-acquires-elias-torres-agency-in-full-circle-reunion-for-tech-founders/",
@@ -168,13 +175,6 @@
       "source": "TechCrunch",
       "publishedAt": "2026-08-04T15:50:06Z",
       "snippet": "Spotify says Merlin, which represents more than 30,000 independent labels and distributors, has joined Universal Music Group in backing its upcoming AI-powered remix and covers product. The paid tool "
-    },
-    {
-      "title": "Texas halts new data centers as governor calls for audits",
-      "url": "https://techcrunch.com/2026/08/04/texas-halts-new-data-centers-as-governor-calls-for-audits/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-08-04T15:42:35Z",
-      "snippet": "Tech companies and developers have been scouring the U.S. for places to build data centers, and they\u2019ve been drawn to Texas\u2019 loose regulations and seemingly abundant power supply. But even Texas can b"
     }
   ],
   "trending": [
