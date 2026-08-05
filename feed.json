@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-04T22:58:19Z",
+  "updated": "2026-08-05T02:04:28Z",
   "news": [
     {
       "title": "SpaceX has bought $329M worth of Tesla Megapacks so far this year",
@@ -9,7 +9,7 @@
       "snippet": "The purchase illustrates just how interconnected Elon Musk's universe of companies are."
     },
     {
-      "title": "AMD\u2019s datacenter business is booming while gaming takes a backseat",
+      "title": "AMD\u2019s data center business is booming while gaming takes a backseat",
       "url": "https://www.theverge.com/tech/975381/amd-q2-2026-earnings-ai-gaming-ryzen",
       "source": "The Verge",
       "publishedAt": "2026-08-04T20:57:49Z",
@@ -204,14 +204,14 @@
       "downloads": 323116
     },
     {
-      "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
-      "displayName": "Qwen3.6 35B A3B Uncensored HauhauCS Aggressive",
-      "downloads": 1930898
-    },
-    {
       "id": "realrebelai/MiniMax-H3_GGUFs",
       "displayName": "MiniMax H3_GGUFs",
       "downloads": 40010
+    },
+    {
+      "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
+      "displayName": "Qwen3.6 35B A3B Uncensored HauhauCS Aggressive",
+      "downloads": 1930898
     },
     {
       "id": "huihui-ai/Huihui-DeepSeek-V4-Flash-0731-abliterated-GGUF",
