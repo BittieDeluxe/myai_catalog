@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-05T06:23:26Z",
+  "updated": "2026-08-05T10:29:33Z",
   "news": [
     {
       "title": "SpaceX has bought $329M worth of Tesla Megapacks so far this year",
@@ -219,14 +219,14 @@
       "downloads": 14046
     },
     {
-      "id": "unsloth/Inkling-Small-GGUF",
-      "displayName": "Inkling Small",
-      "downloads": 39106
-    },
-    {
       "id": "antirez/deepseek-v4-gguf",
       "displayName": "deepseek v4",
       "downloads": 875129
+    },
+    {
+      "id": "unsloth/Inkling-Small-GGUF",
+      "displayName": "Inkling Small",
+      "downloads": 39106
     }
   ]
 }
