@@ -1,6 +1,13 @@
 {
-  "updated": "2026-08-05T22:54:28Z",
+  "updated": "2026-08-06T02:08:18Z",
   "news": [
+    {
+      "title": "Elon Musk\u2019s attempt at an AI Wikipedia hasn\u2019t been updated in months",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/976004/elon-musk-grokipedia-ai-wikipedia-not-updating-dead",
+      "source": "The Verge",
+      "publishedAt": "2026-08-06T00:25:10Z",
+      "snippet": "xAI's Grokipedia, an online encyclopedia with AI-generated articles that Elon Musk once promised would be a \"massive improvement\" over Wikipedia, apparently hasn't been updated since April 24th, accor"
+    },
     {
       "title": "Meta launches Muse Code, an AI agent for large code bases",
       "url": "https://techcrunch.com/2026/08/05/meta-launches-muse-code-an-ai-agent-for-large-code-bases/",
@@ -163,13 +170,6 @@
       "snippet": "The week-old Open Secure AI Alliance, spearheaded by Nvidia and grown to over 120 companies, already has proposals out for defending against AI agents."
     },
     {
-      "title": "How an OpenAI influencer trip backfired",
-      "url": "https://www.theverge.com/tech/975173/openai-influencers-brand-trip-ai-backlash-marketing",
-      "source": "The Verge",
-      "publishedAt": "2026-08-04T17:46:41Z",
-      "snippet": "The brand trip is a right of passage for influencers. It's a mark of legitimacy that a sponsor wants to invite them on an all-expenses-paid vacation, often with luxurious freebies and activities. Trip"
-    },
-    {
       "title": "Spotify expands AI remix and covers project with Merlin partnership",
       "url": "https://techcrunch.com/2026/08/04/spotify-adds-merlin-to-its-ai-music-remix-and-covers-effort/",
       "source": "TechCrunch",
@@ -189,14 +189,14 @@
       "downloads": 111678
     },
     {
-      "id": "unsloth/Kimi-K3-GGUF",
-      "displayName": "Kimi K3",
-      "downloads": 170055
-    },
-    {
       "id": "LuffyTheFox/Qwen3.6-35B-A3B-Uncensored-Genesis-Hermes-V7-GGUF",
       "displayName": "Qwen3.6 35B A3B Uncensored Genesis Hermes V7",
       "downloads": 308857
+    },
+    {
+      "id": "unsloth/Kimi-K3-GGUF",
+      "displayName": "Kimi K3",
+      "downloads": 170055
     },
     {
       "id": "realrebelai/MiniMax-H3_GGUFs",
