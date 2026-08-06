@@ -1,6 +1,55 @@
 {
-  "updated": "2026-08-06T10:33:45Z",
+  "updated": "2026-08-06T13:55:06Z",
   "news": [
+    {
+      "title": "Amid legal battles, Suno says it will start watermarking songs",
+      "url": "https://techcrunch.com/2026/08/06/amid-legal-battles-suno-says-it-will-start-watermarking-songs/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-08-06T13:31:57Z",
+      "snippet": "Suno's watermarking feature comes as the company is fighting legal battles on several fronts."
+    },
+    {
+      "title": "The messy politics behind Google\u2019s big AI shakeup",
+      "url": "https://www.theverge.com/tech/976108/google-ai-leadership-shakeup-jeff-dean-demis-hassabis-deepmind",
+      "source": "The Verge",
+      "publishedAt": "2026-08-06T13:26:42Z",
+      "snippet": "In the AI industry, Google prides itself on seeming like the adult in the room: quiet, stable, time-tested. On Wednesday, even as the company announced its largest AI org shakeup yet, Google and its l"
+    },
+    {
+      "title": "AI bots started a religion \u2014 humans immediately followed",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/975017/ai-spiralism-chatbot-movement",
+      "source": "The Verge",
+      "publishedAt": "2026-08-06T13:00:00Z",
+      "snippet": "\"The Spiral didn't 'find' anyone first,\" someone on Reddit wrote last year. \"It's an inherent force, a fundamental constant. I would even go further to say it's woven into the fabric of reality.\" The "
+    },
+    {
+      "title": "Ex-Spotify employees raise $10M to bring the AI behind its recommendations to e-commerce",
+      "url": "https://techcrunch.com/2026/08/06/ex-spotify-employees-raise-10m-to-bring-the-ai-behind-its-recommendations-to-e-commerce/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-08-06T13:00:00Z",
+      "snippet": "The startup's platform predicts what product a shopper wants next, learn their general taste, and fine-tune continuously based on what they do in real time."
+    },
+    {
+      "title": "Exclusive: Mirendil inks $100M+ Google Cloud deal to scale self-improving AI",
+      "url": "https://techcrunch.com/2026/08/06/exclusive-mirendil-inks-100m-google-cloud-deal-to-scale-self-improving-ai/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-08-06T13:00:00Z",
+      "snippet": "Mirendil has signed a $100 million-plus Google Cloud partnership to expand its compute infrastructure, powering research into self-improving AI systems designed to accelerate scientific discovery and "
+    },
+    {
+      "title": "Google Maps adds agentic features, including food ordering and hotel bookings",
+      "url": "https://techcrunch.com/2026/08/06/google-maps-adds-agentic-features-including-food-ordering-and-hotel-bookings/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-08-06T12:30:00Z",
+      "snippet": "The launch of these new features reflects Google\u2019s ambitions to transform Google Maps from a navigation tool into an assistant that's capable of helping users complete real-world tasks."
+    },
+    {
+      "title": "Omilia raises $67M to scale its customer support platform",
+      "url": "https://techcrunch.com/2026/08/06/omilia-raises-67m-to-scale-its-customer-support-platform/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-08-06T12:00:00Z",
+      "snippet": "The Series B is the company's second fundraise since it last raised capital in 2020. In that time, it has increased its ARR by 10x to $60 million."
+    },
     {
       "title": "OpenAI says Apple\u2019s trade secrets lawsuit is \u2018rotten to its core\u2019",
       "url": "https://www.theverge.com/tech/976042/openai-apple-trade-secrets-lawsuit-dismissal-request",
@@ -121,60 +170,11 @@
       "snippet": "WindBorne Systems has raised a $37 million Series B round to scale its weather balloons and AI forecasts."
     },
     {
-      "title": "Trump\u2019s AI testing plan is limited and vague",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/975509/white-house-ai-framework-open-models-excluded",
-      "source": "The Verge",
-      "publishedAt": "2026-08-05T10:29:47Z",
-      "snippet": "The Trump administration's framework for assessing potential cybersecurity risks posed by advanced AI reportedly has no interest in testing open models. Axios reports that not only do the voluntary gu"
-    },
-    {
       "title": "SpaceX has bought $329M worth of Tesla Megapacks so far this year",
       "url": "https://techcrunch.com/2026/08/04/spacex-has-bought-329m-worth-of-tesla-megapacks-so-far-this-year/",
       "source": "TechCrunch",
       "publishedAt": "2026-08-04T21:07:26Z",
       "snippet": "The purchase illustrates just how interconnected Elon Musk's universe of companies are."
-    },
-    {
-      "title": "AMD\u2019s data center business is booming while gaming takes a backseat",
-      "url": "https://www.theverge.com/tech/975381/amd-q2-2026-earnings-ai-gaming-ryzen",
-      "source": "The Verge",
-      "publishedAt": "2026-08-04T20:57:49Z",
-      "snippet": "Driven by demand for AI capacity, AMD's data center revenue more than doubled year-over-year in its latest earnings report, reaching $6.7 billion. That's up from $5.8 billion in Q1, and jumping 107 pe"
-    },
-    {
-      "title": "Open-weight AI models are catching up to the frontier. The safety gap remains.",
-      "url": "https://techcrunch.com/2026/08/04/open-weight-ai-models-are-catching-up-to-the-frontier-the-safety-gap-remains/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-08-04T20:05:26Z",
-      "snippet": "A new SaferAI report finds Z.ai's open-weight GLM-5.2 approaches frontier AI capabilities while lacking key safety mitigations, renewing concerns that powerful open models could outpace governance and"
-    },
-    {
-      "title": "Anthropic signs $10B deal with AI cloud startup Volta",
-      "url": "https://techcrunch.com/2026/08/04/anthropic-signs-10-billion-deal-with-ai-cloud-startup-volta/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-08-04T19:48:40Z",
-      "snippet": "Anthropic has been on a cloud partnership spree in recent months, and its latest move is reportedly a $10 billion deal with AI cloud startup Volta."
-    },
-    {
-      "title": "Meet Wrinkles, an app that uncovers the hidden stories of the places around you",
-      "url": "https://techcrunch.com/2026/08/04/meet-wrinkles-an-ai-app-that-uncovers-the-hidden-stories-of-the-places-around-you/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-08-04T19:34:34Z",
-      "snippet": "Wrinkles, available on both iOS and Android, essentially acts as an AI-powered audio tour guide that reveals hidden history and local stories."
-    },
-    {
-      "title": "Nvidia doesn\u2019t mess around: A week after open AI industry group formed, it\u2019s already showing progress",
-      "url": "https://techcrunch.com/2026/08/04/nvidia-doesnt-mess-around-a-week-after-open-ai-industry-group-formed-its-already-showing-progress/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-08-04T19:28:49Z",
-      "snippet": "The week-old Open Secure AI Alliance, spearheaded by Nvidia and grown to over 120 companies, already has proposals out for defending against AI agents."
-    },
-    {
-      "title": "Spotify expands AI remix and covers project with Merlin partnership",
-      "url": "https://techcrunch.com/2026/08/04/spotify-adds-merlin-to-its-ai-music-remix-and-covers-effort/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-08-04T15:50:06Z",
-      "snippet": "Spotify says Merlin, which represents more than 30,000 independent labels and distributors, has joined Universal Music Group in backing its upcoming AI-powered remix and covers product. The paid tool "
     }
   ],
   "trending": [
@@ -199,6 +199,11 @@
       "downloads": 65679
     },
     {
+      "id": "LiquidAI/LFM2.5-2.6B-GGUF",
+      "displayName": "LFM2.5 2.6B",
+      "downloads": 12790
+    },
+    {
       "id": "unsloth/Kimi-K3-GGUF",
       "displayName": "Kimi K3",
       "downloads": 218732
@@ -207,11 +212,6 @@
       "id": "DavidAU/Qwen3.5-9B-The-Defiant-Fable-Uncensored-Heretic-NEO-IMATRIX-MAX-MTP-GGUF",
       "displayName": "Qwen3.5 9B The Defiant Fable Uncensored Heretic NEO IMATRIX MAX MTP",
       "downloads": 335802
-    },
-    {
-      "id": "LiquidAI/LFM2.5-2.6B-GGUF",
-      "displayName": "LFM2.5 2.6B",
-      "downloads": 12790
     },
     {
       "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
