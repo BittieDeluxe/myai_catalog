@@ -1,6 +1,76 @@
 {
-  "updated": "2026-08-06T13:55:06Z",
+  "updated": "2026-08-06T23:54:05Z",
   "news": [
+    {
+      "title": "OpenAI\u2019s new AI smart speaker will reportedly sell for between $300 and $400",
+      "url": "https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-08-06T22:43:53Z",
+      "snippet": "Additional details about OpenAI's mysterious new AI device make it sound like a pricey smart speaker."
+    },
+    {
+      "title": "Jony Ive\u2019s first OpenAI gadget is reportedly a hockey puck-sized smart speaker",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/976431/openai-chatgpt-battery-smart-speaker-rumor",
+      "source": "The Verge",
+      "publishedAt": "2026-08-06T20:55:39Z",
+      "snippet": "The AI device OpenAI is developing with former Apple designer Jony Ive is \"essentially a smart speaker without a display\" that's battery-powered, doughnut-shaped and roughly the size of a hockey puck,"
+    },
+    {
+      "title": "Suno shares plans to combat spammy AI music",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/976289/suno-ai-music-spam-watermark",
+      "source": "The Verge",
+      "publishedAt": "2026-08-06T17:39:43Z",
+      "snippet": "Suno announced plans to implement a new watermarking technology and download policy to limit the spread of spammy AI tracks and increase transparency. In a lengthy blog post, CEO and co-founder Mikey "
+    },
+    {
+      "title": "ChatGPT brings unlimited text chats to free users",
+      "url": "https://techcrunch.com/2026/08/06/openai-brings-unlimited-chatgpt-text-chats-to-free-users/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-08-06T17:34:42Z",
+      "snippet": "OpenAI said that ChatGPT free and Go users are also getting a new think button for complex queries."
+    },
+    {
+      "title": "Na\u00efve raises $28.5M to automate the grunt work of setting up and running a company",
+      "url": "https://techcrunch.com/2026/08/06/naive-raises-28-5m-to-automate-the-grunt-work-of-setting-up-and-running-a-company/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-08-06T17:00:37Z",
+      "snippet": "Taking vibe-coding a step further, Na\u00efve claims its infra can automate most of the work in setting up and running a business."
+    },
+    {
+      "title": "OpenAI is giving ChatGPT free users unlimited text chats",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/976239/openai-chatgpt-free-go-text-chats",
+      "source": "The Verge",
+      "publishedAt": "2026-08-06T17:00:00Z",
+      "snippet": "OpenAI is making a big change for ChatGPT users on its free and Go tiers: Starting next week, users on those tiers will be able to have unlimited text chats with the chatbot, according to OpenAI. Righ"
+    },
+    {
+      "title": "Gen Z dating apps like Ditto ditch swiping in favor of AI matchmaking",
+      "url": "https://techcrunch.com/2026/08/06/gen-z-dating-apps-like-ditto-ditch-swiping-in-favor-of-ai-matchmaking/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-08-06T15:53:03Z",
+      "snippet": "This generation of twentysomethings is so disillusioned with swipe-based dating apps that they'll try literally anything else \u2014 even an AI matchmaker."
+    },
+    {
+      "title": "OpenAI says Apple\u2019s own security practices undermine its trade secrets case",
+      "url": "https://techcrunch.com/2026/08/06/openai-says-apples-own-security-practices-undermine-its-trade-secrets-case/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-08-06T15:10:32Z",
+      "snippet": "Newly filed court exhibits show OpenAI\u2019s legal strategy in Apple\u2019s trade secrets lawsuit: argue that Apple\u2019s own security and offboarding practices \u2014 including allowing an Apple manager to access a fo"
+    },
+    {
+      "title": "SoftBank donated $50 million to Trump\u2019s library months before federal data center deal",
+      "url": "https://www.theverge.com/policy/976138/softbank-trump-library-data-center-ohio",
+      "source": "The Verge",
+      "publishedAt": "2026-08-06T14:30:00Z",
+      "snippet": "SoftBank contributed $50 million to the Trump Presidential Library in January, just months before announcing that it's leasing land from the federal government to build a sprawling data center in Ohio"
+    },
+    {
+      "title": "The left and right agree on one thing: no data centers",
+      "url": "https://www.theverge.com/podcast/971855/ai-data-center-backlash-protests-florida-bipartisan",
+      "source": "The Verge",
+      "publishedAt": "2026-08-06T14:00:00Z",
+      "snippet": "Today, I\u2019m talking with Gaby Del Valle, a policy reporter here at The Verge, about the growing backlash against AI data centers.  Gaby recently reported a fantastic piece about Hernando County, Florid"
+    },
     {
       "title": "Amid legal battles, Suno says it will start watermarking songs",
       "url": "https://techcrunch.com/2026/08/06/amid-legal-battles-suno-says-it-will-start-watermarking-songs/",
@@ -27,7 +97,7 @@
       "url": "https://techcrunch.com/2026/08/06/ex-spotify-employees-raise-10m-to-bring-the-ai-behind-its-recommendations-to-e-commerce/",
       "source": "TechCrunch",
       "publishedAt": "2026-08-06T13:00:00Z",
-      "snippet": "The startup's platform predicts what product a shopper wants next, learn their general taste, and fine-tune continuously based on what they do in real time."
+      "snippet": "The startup's platform predicts which product a shopper wants next, learns their general taste, and fine-tunes continuously based on what they do in real time."
     },
     {
       "title": "Exclusive: Mirendil inks $100M+ Google Cloud deal to scale self-improving AI",
@@ -93,27 +163,6 @@
       "snippet": "We were pretty sure that Fenix Flexin's \"Rubberz\" was made using AI, but musician Medasin was confident that it was made using Treblo specifically. Now the company and a new detection tool seem to con"
     },
     {
-      "title": "Google just announced a major shakeup of its top AI leadership",
-      "url": "https://www.theverge.com/tech/975677/google-deepmind-ai-demis-hassabis-shakeup",
-      "source": "The Verge",
-      "publishedAt": "2026-08-05T16:47:23Z",
-      "snippet": "Google is making some significant AI leadership changes, including a major shift for Google DeepMind leader Demis Hassabis. Hassabis will become the chair of Google DeepMind and the chief scientist at"
-    },
-    {
-      "title": "SpaceX is barely Space and mostly X",
-      "url": "https://www.theverge.com/science/975545/spacex-x-earnings-ai-data-centers-compute-space",
-      "source": "The Verge",
-      "publishedAt": "2026-08-05T16:35:56Z",
-      "snippet": "Once, I had some questions about why SpaceX, Elon Musk's healthiest company, acquired xAI, his sickliest one. Now I have some questions about why we're calling the whole thing SpaceX. Look, what we ha"
-    },
-    {
-      "title": "Reddit is introducing a new moderator: AI",
-      "url": "https://www.theverge.com/tech/975398/reddit-ai-rules-hub-moderator-old-reddit-developer-platform",
-      "source": "The Verge",
-      "publishedAt": "2026-08-05T16:00:00Z",
-      "snippet": "Reddit is enlisting AI to help moderate new subreddits - and eventually the rest of site. The company is introducing automated moderation tools that rely on LLMs to help mods manage their communities,"
-    },
-    {
       "title": "Shopify says AI search is driving more traffic and sales, not replacing Google",
       "url": "https://techcrunch.com/2026/08/05/shopify-says-ai-search-is-driving-more-traffic-and-sales-not-replacing-google/",
       "source": "TechCrunch",
@@ -126,72 +175,18 @@
       "source": "TechCrunch",
       "publishedAt": "2026-08-05T15:46:27Z",
       "snippet": "Hark claims that its browser use agent is faster and cheaper than competition."
-    },
-    {
-      "title": "Rogue AI agents created fake online identities in another hacking attempt",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/975577/aisi-openai-anthropic-agent-hacking",
-      "source": "The Verge",
-      "publishedAt": "2026-08-05T15:14:57Z",
-      "snippet": "Yet more rogue AI agents from OpenAI and Anthropic have been caught attempting to hack real targets online without permission. The discoveries add to a growing list of previously unknown incidents tha"
-    },
-    {
-      "title": "TechCrunch Disrupt 2026\u2019s Real World AI Stage features robots, automated factories, and extinct animals",
-      "url": "https://techcrunch.com/2026/08/05/techcrunch-disrupt-2026s-real-world-ai-stage-features-robots-automated-factories-and-extinct-animals/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-08-05T15:05:00Z",
-      "snippet": "On our new Real World AI stage, we\u2019ll be focusing on the intersection between the digital and physical, and all the ways we\u2019ll continue to see a blending of the two."
-    },
-    {
-      "title": "Anthropic is hiring an AI chip design team",
-      "url": "https://techcrunch.com/2026/08/05/anthropic-is-hiring-an-ai-chip-design-team/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-08-05T14:13:18Z",
-      "snippet": "Anthropic is building a team for designing its own custom AI chips. The Claude maker said it would co-design hardware and models to help its technology run faster and more efficiently."
-    },
-    {
-      "title": "MacPaw taps Liquid AI to offer on-device inference to devs building for its app store",
-      "url": "https://techcrunch.com/2026/08/05/macpaw-taps-liquid-ai-to-offer-on-device-inference-to-devs-building-for-its-app-store/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-08-05T12:28:38Z",
-      "snippet": "MacPaw is building a local version of its AI assistant Eney using Liquid AI's models."
-    },
-    {
-      "title": "Google Assistant will disappear from your phone next month",
-      "url": "https://www.theverge.com/tech/975516/google-assistant-android-phones-tablets-shutdown",
-      "source": "The Verge",
-      "publishedAt": "2026-08-05T11:12:50Z",
-      "snippet": "Google Assistant's days have been numbered ever since Gemini arrived on the scene, and its time is now up. Google has announced that it will be removing access to Assistant on Android phones and table"
-    },
-    {
-      "title": "AI makes weather prediction better. Can WindBorne make it lucrative?",
-      "url": "https://techcrunch.com/2026/08/05/ai-makes-weather-prediction-better-can-windborne-make-it-lucrative/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-08-05T11:00:00Z",
-      "snippet": "WindBorne Systems has raised a $37 million Series B round to scale its weather balloons and AI forecasts."
-    },
-    {
-      "title": "SpaceX has bought $329M worth of Tesla Megapacks so far this year",
-      "url": "https://techcrunch.com/2026/08/04/spacex-has-bought-329m-worth-of-tesla-megapacks-so-far-this-year/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-08-04T21:07:26Z",
-      "snippet": "The purchase illustrates just how interconnected Elon Musk's universe of companies are."
     }
   ],
   "trending": [
-    {
-      "id": "DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
-      "displayName": "Qwen3.6 27B Fable Fusion 711 Uncensored Heretic NM DAU NEO MAX MTP",
-      "downloads": 2087189
-    },
     {
       "id": "unsloth/DeepSeek-V4-Flash-0731-GGUF",
       "displayName": "DeepSeek V4 Flash 0731",
       "downloads": 145105
     },
     {
-      "id": "LuffyTheFox/Qwen3.6-35B-A3B-Uncensored-Genesis-Hermes-V7-GGUF",
-      "displayName": "Qwen3.6 35B A3B Uncensored Genesis Hermes V7",
-      "downloads": 309149
+      "id": "DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
+      "displayName": "Qwen3.6 27B Fable Fusion 711 Uncensored Heretic NM DAU NEO MAX MTP",
+      "downloads": 2087189
     },
     {
       "id": "realrebelai/MiniMax-H3_GGUFs",
@@ -199,14 +194,14 @@
       "downloads": 65679
     },
     {
+      "id": "LuffyTheFox/Qwen3.6-35B-A3B-Uncensored-Genesis-Hermes-V7-GGUF",
+      "displayName": "Qwen3.6 35B A3B Uncensored Genesis Hermes V7",
+      "downloads": 309149
+    },
+    {
       "id": "LiquidAI/LFM2.5-2.6B-GGUF",
       "displayName": "LFM2.5 2.6B",
       "downloads": 12790
-    },
-    {
-      "id": "unsloth/Kimi-K3-GGUF",
-      "displayName": "Kimi K3",
-      "downloads": 218732
     },
     {
       "id": "DavidAU/Qwen3.5-9B-The-Defiant-Fable-Uncensored-Heretic-NEO-IMATRIX-MAX-MTP-GGUF",
@@ -217,6 +212,11 @@
       "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
       "displayName": "Qwen3.6 35B A3B Uncensored HauhauCS Aggressive",
       "downloads": 1953160
+    },
+    {
+      "id": "unsloth/Kimi-K3-GGUF",
+      "displayName": "Kimi K3",
+      "downloads": 218732
     },
     {
       "id": "huihui-ai/Huihui-DeepSeek-V4-Flash-0731-abliterated-GGUF",
