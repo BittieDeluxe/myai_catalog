@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-06T02:08:18Z",
+  "updated": "2026-08-06T06:25:39Z",
   "news": [
     {
       "title": "Elon Musk\u2019s attempt at an AI Wikipedia hasn\u2019t been updated in months",
@@ -194,14 +194,14 @@
       "downloads": 308857
     },
     {
-      "id": "unsloth/Kimi-K3-GGUF",
-      "displayName": "Kimi K3",
-      "downloads": 170055
-    },
-    {
       "id": "realrebelai/MiniMax-H3_GGUFs",
       "displayName": "MiniMax H3_GGUFs",
       "downloads": 40010
+    },
+    {
+      "id": "unsloth/Kimi-K3-GGUF",
+      "displayName": "Kimi K3",
+      "downloads": 170055
     },
     {
       "id": "DavidAU/Qwen3.5-9B-The-Defiant-Fable-Uncensored-Heretic-NEO-IMATRIX-MAX-MTP-GGUF",
