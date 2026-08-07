@@ -1,6 +1,20 @@
 {
-  "updated": "2026-08-07T14:49:03Z",
+  "updated": "2026-08-07T16:49:11Z",
   "news": [
+    {
+      "title": "What\u2019s behind the Google AI shakeup",
+      "url": "https://www.theverge.com/podcast/976784/google-deepmind-ai-race-vergecast",
+      "source": "The Verge",
+      "publishedAt": "2026-08-07T16:45:14Z",
+      "snippet": "Some of the biggest names on Google's AI team got new jobs this week. In some cases, including for legendary Googler Jeff Dean, those jobs are no longer at Google. Given that Google's models seem to b"
+    },
+    {
+      "title": "Cloudflare launches Kitesurf, a browser built for AI agents",
+      "url": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-08-07T16:16:09Z",
+      "snippet": "Cloudflare has introduced Kitesurf, a cloud-hosted browser designed for AI agents instead of people. The company says the browser uses less computing power than Chromium for common automation tasks, h"
+    },
     {
       "title": "Airbnb says AI is helping it ship features faster as it tests a new search function",
       "url": "https://techcrunch.com/2026/08/07/airbnb-says-ai-is-helping-it-ship-features-faster-as-it-tests-a-new-search-function/",
@@ -13,7 +27,7 @@
       "url": "https://techcrunch.com/2026/08/07/new-mexico-court-orders-meta-to-pay-additional-567m-in-child-safety-case/",
       "source": "TechCrunch",
       "publishedAt": "2026-08-07T11:40:37Z",
-      "snippet": "Meta's total fine has raked up to $942 million in this case"
+      "snippet": "Meta's total fine has raked up to $942 million in this case."
     },
     {
       "title": "OpenAI\u2019s new AI smart speaker will reportedly sell for between $300 and $400",
@@ -161,20 +175,6 @@
       "source": "TechCrunch",
       "publishedAt": "2026-08-05T20:05:00Z",
       "snippet": "The serial entrepreneur joins the e-commerce company as CPO to lead its AI agents."
-    },
-    {
-      "title": "Jeff Dean and other top AI researchers are leaving Google to launch their own startup",
-      "url": "https://techcrunch.com/2026/08/05/jeff-dean-and-other-top-ai-researchers-are-leaving-google-to-launch-their-own-startup/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-08-05T19:30:19Z",
-      "snippet": "The legendary Google executive is joined by other outgoing Google execs in a joint mission to use AI to push forward the process of scientific discovery."
-    },
-    {
-      "title": "Sure seems like Fenix Flexin used AI music generator Treblo",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/975528/fenix-flexin-ai-music-generator-treblo",
-      "source": "The Verge",
-      "publishedAt": "2026-08-05T16:57:25Z",
-      "snippet": "We were pretty sure that Fenix Flexin's \"Rubberz\" was made using AI, but musician Medasin was confident that it was made using Treblo specifically. Now the company and a new detection tool seem to con"
     }
   ],
   "trending": [
