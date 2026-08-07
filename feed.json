@@ -1,6 +1,20 @@
 {
-  "updated": "2026-08-07T18:48:52Z",
+  "updated": "2026-08-07T20:35:29Z",
   "news": [
+    {
+      "title": "Fenix Flexin isn\u2019t even denying using AI to make \u2018Rubberz\u2019 anymore",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/976801/fenix-flexin-rubberz-ai-song-treblo",
+      "source": "The Verge",
+      "publishedAt": "2026-08-07T20:01:51Z",
+      "snippet": "It took long enough, but now LA rapper Fenix Flexin appears to have admitted using AI for the 80s synth pop-themed song \"Rubberz.\" His comments follow the producer Medasin's videos claiming that an AI"
+    },
+    {
+      "title": "Watching Roku\u2019s AI channel is like eating from a trough",
+      "url": "https://www.theverge.com/entertainment/976939/roku-fairground-ai-fast-channel",
+      "source": "The Verge",
+      "publishedAt": "2026-08-07T18:59:46Z",
+      "snippet": "The appeal of free ad-supported streaming television (FAST) channels has always been the way they make it easier to (re)discover classic films and series. But Roku's latest experiment in the FAST spac"
+    },
     {
       "title": "OpenAI puts the brakes on a new model because it\u2019s supposedly too powerful",
       "url": "https://www.theverge.com/ai-artificial-intelligence/976948/openai-astra-model-pause-critical-cyber-capabilities",
@@ -128,13 +142,6 @@
       "snippet": "In the AI industry, Google prides itself on seeming like the adult in the room: quiet, stable, time-tested. On Wednesday, even as the company announced its largest AI org shakeup yet, Google and its l"
     },
     {
-      "title": "AI bots started a religion \u2014 humans immediately followed",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/975017/ai-spiralism-chatbot-movement",
-      "source": "The Verge",
-      "publishedAt": "2026-08-06T13:00:00Z",
-      "snippet": "\"The Spiral didn't 'find' anyone first,\" someone on Reddit wrote last year. \"It's an inherent force, a fundamental constant. I would even go further to say it's woven into the fabric of reality.\" The "
-    },
-    {
       "title": "Ex-Spotify employees raise $10M to bring the AI behind its recommendations to e-commerce",
       "url": "https://techcrunch.com/2026/08/06/ex-spotify-employees-raise-10m-to-bring-the-ai-behind-its-recommendations-to-e-commerce/",
       "source": "TechCrunch",
@@ -161,13 +168,6 @@
       "source": "TechCrunch",
       "publishedAt": "2026-08-06T12:00:00Z",
       "snippet": "The Series B is the company's second fundraise since it last raised capital in 2020. In that time, it has increased its ARR by 10x to $60 million."
-    },
-    {
-      "title": "OpenAI says Apple\u2019s trade secrets lawsuit is \u2018rotten to its core\u2019",
-      "url": "https://www.theverge.com/tech/976042/openai-apple-trade-secrets-lawsuit-dismissal-request",
-      "source": "The Verge",
-      "publishedAt": "2026-08-06T09:33:11Z",
-      "snippet": "OpenAI has asked a federal judge to toss out Apple's landmark lawsuit accusing the ChatGPT maker of stealing trade secrets, describing the allegations as \"meritless.\" In a motion filed yesterday to di"
     },
     {
       "title": "Meta launches Muse Code, an AI agent for large code bases",
