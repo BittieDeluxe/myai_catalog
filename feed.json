@@ -1,6 +1,13 @@
 {
-  "updated": "2026-08-07T20:35:29Z",
+  "updated": "2026-08-07T22:29:41Z",
   "news": [
+    {
+      "title": "After Rippling blew millions on AI in months, it built an employee ROI tool",
+      "url": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-08-07T21:30:11Z",
+      "snippet": "After its own AI usage wake-up call, Rippling this week unveiled AI Spend Console, a product that tracks individual and team employee AI spending."
+    },
     {
       "title": "Fenix Flexin isn\u2019t even denying using AI to make \u2018Rubberz\u2019 anymore",
       "url": "https://www.theverge.com/ai-artificial-intelligence/976801/fenix-flexin-rubberz-ai-song-treblo",
@@ -34,7 +41,7 @@
       "url": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/",
       "source": "TechCrunch",
       "publishedAt": "2026-08-07T16:16:09Z",
-      "snippet": "Cloudflare has introduced Kitesurf, a cloud-hosted browser designed for AI agents instead of people. The company says the browser uses less computing power than Chromium for common automation tasks, h"
+      "snippet": "Kitesurf is a cloud-hosted browser designed for AI agents instead of people. It uses less computing power than Chromium for common automation tasks, helping developers build browser-based AI agents mo"
     },
     {
       "title": "Airbnb says AI is helping it ship features faster as it tests a new search function",
@@ -55,7 +62,7 @@
       "url": "https://techcrunch.com/2026/08/07/new-mexico-court-orders-meta-to-pay-additional-567m-in-child-safety-case/",
       "source": "TechCrunch",
       "publishedAt": "2026-08-07T11:40:37Z",
-      "snippet": "Meta's total fine has raked up to $942 million in this case."
+      "snippet": "Meta's total fine has racked up to $942 million in this case."
     },
     {
       "title": "OpenAI\u2019s new AI smart speaker will reportedly sell for between $300 and $400",
@@ -168,13 +175,6 @@
       "source": "TechCrunch",
       "publishedAt": "2026-08-06T12:00:00Z",
       "snippet": "The Series B is the company's second fundraise since it last raised capital in 2020. In that time, it has increased its ARR by 10x to $60 million."
-    },
-    {
-      "title": "Meta launches Muse Code, an AI agent for large code bases",
-      "url": "https://techcrunch.com/2026/08/05/meta-launches-muse-code-an-ai-agent-for-large-code-bases/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-08-05T21:21:28Z",
-      "snippet": "Meta expanded its AI coding offerings with a new agent that, it promises, can handle complex tasks with complex software."
     }
   ],
   "trending": [
