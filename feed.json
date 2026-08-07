@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-06T23:54:05Z",
+  "updated": "2026-08-07T02:26:58Z",
   "news": [
     {
       "title": "OpenAI\u2019s new AI smart speaker will reportedly sell for between $300 and $400",
@@ -7,20 +7,6 @@
       "source": "TechCrunch",
       "publishedAt": "2026-08-06T22:43:53Z",
       "snippet": "Additional details about OpenAI's mysterious new AI device make it sound like a pricey smart speaker."
-    },
-    {
-      "title": "Jony Ive\u2019s first OpenAI gadget is reportedly a hockey puck-sized smart speaker",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/976431/openai-chatgpt-battery-smart-speaker-rumor",
-      "source": "The Verge",
-      "publishedAt": "2026-08-06T20:55:39Z",
-      "snippet": "The AI device OpenAI is developing with former Apple designer Jony Ive is \"essentially a smart speaker without a display\" that's battery-powered, doughnut-shaped and roughly the size of a hockey puck,"
-    },
-    {
-      "title": "Suno shares plans to combat spammy AI music",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/976289/suno-ai-music-spam-watermark",
-      "source": "The Verge",
-      "publishedAt": "2026-08-06T17:39:43Z",
-      "snippet": "Suno announced plans to implement a new watermarking technology and download policy to limit the spread of spammy AI tracks and increase transparency. In a lengthy blog post, CEO and co-founder Mikey "
     },
     {
       "title": "ChatGPT brings unlimited text chats to free users",
@@ -35,13 +21,6 @@
       "source": "TechCrunch",
       "publishedAt": "2026-08-06T17:00:37Z",
       "snippet": "Taking vibe-coding a step further, Na\u00efve claims its infra can automate most of the work in setting up and running a business."
-    },
-    {
-      "title": "OpenAI is giving ChatGPT free users unlimited text chats",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/976239/openai-chatgpt-free-go-text-chats",
-      "source": "The Verge",
-      "publishedAt": "2026-08-06T17:00:00Z",
-      "snippet": "OpenAI is making a big change for ChatGPT users on its free and Go tiers: Starting next week, users on those tiers will be able to have unlimited text chats with the chatbot, according to OpenAI. Righ"
     },
     {
       "title": "Gen Z dating apps like Ditto ditch swiping in favor of AI matchmaking",
@@ -161,6 +140,27 @@
       "source": "The Verge",
       "publishedAt": "2026-08-05T16:57:25Z",
       "snippet": "We were pretty sure that Fenix Flexin's \"Rubberz\" was made using AI, but musician Medasin was confident that it was made using Treblo specifically. Now the company and a new detection tool seem to con"
+    },
+    {
+      "title": "Google just announced a major shakeup of its top AI leadership",
+      "url": "https://www.theverge.com/tech/975677/google-deepmind-ai-demis-hassabis-shakeup",
+      "source": "The Verge",
+      "publishedAt": "2026-08-05T16:47:23Z",
+      "snippet": "Google is making some significant AI leadership changes, including a major shift for Google DeepMind leader Demis Hassabis. Hassabis will become the chair of Google DeepMind and the chief scientist at"
+    },
+    {
+      "title": "SpaceX is barely Space and mostly X",
+      "url": "https://www.theverge.com/science/975545/spacex-x-earnings-ai-data-centers-compute-space",
+      "source": "The Verge",
+      "publishedAt": "2026-08-05T16:35:56Z",
+      "snippet": "Once, I had some questions about why SpaceX, Elon Musk's healthiest company, acquired xAI, his sickliest one. Now I have some questions about why we're calling the whole thing SpaceX. Look, what we ha"
+    },
+    {
+      "title": "Reddit is introducing a new moderator: AI",
+      "url": "https://www.theverge.com/tech/975398/reddit-ai-rules-hub-moderator-old-reddit-developer-platform",
+      "source": "The Verge",
+      "publishedAt": "2026-08-05T16:00:00Z",
+      "snippet": "Reddit is enlisting AI to help moderate new subreddits - and eventually the rest of site. The company is introducing automated moderation tools that rely on LLMs to help mods manage their communities,"
     },
     {
       "title": "Shopify says AI search is driving more traffic and sales, not replacing Google",
