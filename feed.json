@@ -1,6 +1,13 @@
 {
-  "updated": "2026-08-07T12:52:59Z",
+  "updated": "2026-08-07T14:49:03Z",
   "news": [
+    {
+      "title": "Airbnb says AI is helping it ship features faster as it tests a new search function",
+      "url": "https://techcrunch.com/2026/08/07/airbnb-says-ai-is-helping-it-ship-features-faster-as-it-tests-a-new-search-function/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-08-07T14:22:49Z",
+      "snippet": "Airbnb will debut a new AI-powered search experience with a toggle."
+    },
     {
       "title": "New Mexico court orders Meta to pay additional $567M in child safety case",
       "url": "https://techcrunch.com/2026/08/07/new-mexico-court-orders-meta-to-pay-additional-567m-in-child-safety-case/",
@@ -168,13 +175,6 @@
       "source": "The Verge",
       "publishedAt": "2026-08-05T16:57:25Z",
       "snippet": "We were pretty sure that Fenix Flexin's \"Rubberz\" was made using AI, but musician Medasin was confident that it was made using Treblo specifically. Now the company and a new detection tool seem to con"
-    },
-    {
-      "title": "Shopify says AI search is driving more traffic and sales, not replacing Google",
-      "url": "https://techcrunch.com/2026/08/05/shopify-says-ai-search-is-driving-more-traffic-and-sales-not-replacing-google/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-08-05T15:56:14Z",
-      "snippet": "Shopify says AI isn\u2019t cannibalizing search traffic the way it has for publishers. Instead, AI-driven traffic and orders to Shopify stores tripled year over year in Q2."
     }
   ],
   "trending": [
@@ -194,14 +194,14 @@
       "downloads": 87870
     },
     {
-      "id": "LuffyTheFox/Qwen3.6-35B-A3B-Uncensored-Genesis-Hermes-V7-GGUF",
-      "displayName": "Qwen3.6 35B A3B Uncensored Genesis Hermes V7",
-      "downloads": 332992
-    },
-    {
       "id": "LiquidAI/LFM2.5-2.6B-GGUF",
       "displayName": "LFM2.5 2.6B",
       "downloads": 31489
+    },
+    {
+      "id": "LuffyTheFox/Qwen3.6-35B-A3B-Uncensored-Genesis-Hermes-V7-GGUF",
+      "displayName": "Qwen3.6 35B A3B Uncensored Genesis Hermes V7",
+      "downloads": 332992
     },
     {
       "id": "huihui-ai/Huihui-DeepSeek-V4-Flash-0731-abliterated-GGUF",
