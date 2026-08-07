@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-07T05:36:33Z",
+  "updated": "2026-08-07T07:07:32Z",
   "news": [
     {
       "title": "OpenAI\u2019s new AI smart speaker will reportedly sell for between $300 and $400",
@@ -209,14 +209,14 @@
       "downloads": 335802
     },
     {
-      "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
-      "displayName": "Qwen3.6 35B A3B Uncensored HauhauCS Aggressive",
-      "downloads": 1953160
-    },
-    {
       "id": "huihui-ai/Huihui-DeepSeek-V4-Flash-0731-abliterated-GGUF",
       "displayName": "Huihui DeepSeek V4 Flash 0731 abliterated",
       "downloads": 83194
+    },
+    {
+      "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
+      "displayName": "Qwen3.6 35B A3B Uncensored HauhauCS Aggressive",
+      "downloads": 1953160
     },
     {
       "id": "unsloth/Kimi-K3-GGUF",
