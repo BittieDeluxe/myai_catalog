@@ -1,6 +1,13 @@
 {
-  "updated": "2026-08-07T10:47:37Z",
+  "updated": "2026-08-07T12:52:59Z",
   "news": [
+    {
+      "title": "New Mexico court orders Meta to pay additional $567M in child safety case",
+      "url": "https://techcrunch.com/2026/08/07/new-mexico-court-orders-meta-to-pay-additional-567m-in-child-safety-case/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-08-07T11:40:37Z",
+      "snippet": "Meta's total fine has raked up to $942 million in this case"
+    },
     {
       "title": "OpenAI\u2019s new AI smart speaker will reportedly sell for between $300 and $400",
       "url": "https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400/",
@@ -168,13 +175,6 @@
       "source": "TechCrunch",
       "publishedAt": "2026-08-05T15:56:14Z",
       "snippet": "Shopify says AI isn\u2019t cannibalizing search traffic the way it has for publishers. Instead, AI-driven traffic and orders to Shopify stores tripled year over year in Q2."
-    },
-    {
-      "title": "Hark previews its browser use agent for completing tasks",
-      "url": "https://techcrunch.com/2026/08/05/hark-previews-its-browser-use-agent-for-completing-tasks/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-08-05T15:46:27Z",
-      "snippet": "Hark claims that its browser use agent is faster and cheaper than competition."
     }
   ],
   "trending": [
@@ -204,14 +204,14 @@
       "downloads": 31489
     },
     {
-      "id": "DavidAU/Qwen3.5-9B-The-Defiant-Fable-Uncensored-Heretic-NEO-IMATRIX-MAX-MTP-GGUF",
-      "displayName": "Qwen3.5 9B The Defiant Fable Uncensored Heretic NEO IMATRIX MAX MTP",
-      "downloads": 342556
-    },
-    {
       "id": "huihui-ai/Huihui-DeepSeek-V4-Flash-0731-abliterated-GGUF",
       "displayName": "Huihui DeepSeek V4 Flash 0731 abliterated",
       "downloads": 102798
+    },
+    {
+      "id": "DavidAU/Qwen3.5-9B-The-Defiant-Fable-Uncensored-Heretic-NEO-IMATRIX-MAX-MTP-GGUF",
+      "displayName": "Qwen3.5 9B The Defiant Fable Uncensored Heretic NEO IMATRIX MAX MTP",
+      "downloads": 342556
     },
     {
       "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
