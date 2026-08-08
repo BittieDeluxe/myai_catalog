@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-08T14:27:17Z",
+  "updated": "2026-08-08T16:27:08Z",
   "news": [
     {
       "title": "OpenAI says it slowed Astra model development over security concerns",
@@ -219,14 +219,14 @@
       "downloads": 1983570
     },
     {
-      "id": "Abiray/MiniMax-H3-GGUF",
-      "displayName": "MiniMax H3",
-      "downloads": 222664
-    },
-    {
       "id": "unsloth/Kimi-K3-GGUF",
       "displayName": "Kimi K3",
       "downloads": 266271
+    },
+    {
+      "id": "Abiray/MiniMax-H3-GGUF",
+      "displayName": "MiniMax H3",
+      "downloads": 222664
     }
   ]
 }
