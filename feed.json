@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-08T06:42:43Z",
+  "updated": "2026-08-08T08:34:37Z",
   "news": [
     {
       "title": "OpenAI says it slowed Astra model development over security concerns",
@@ -181,52 +181,52 @@
     {
       "id": "DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
       "displayName": "Qwen3.6 27B Fable Fusion 711 Uncensored Heretic NM DAU NEO MAX MTP",
-      "downloads": 2217339
+      "downloads": 2345190
     },
     {
       "id": "unsloth/DeepSeek-V4-Flash-0731-GGUF",
       "displayName": "DeepSeek V4 Flash 0731",
-      "downloads": 161253
+      "downloads": 175093
     },
     {
       "id": "realrebelai/MiniMax-H3_GGUFs",
       "displayName": "MiniMax H3_GGUFs",
-      "downloads": 87870
+      "downloads": 128265
     },
     {
       "id": "LiquidAI/LFM2.5-2.6B-GGUF",
       "displayName": "LFM2.5 2.6B",
-      "downloads": 31489
+      "downloads": 49562
     },
     {
       "id": "LuffyTheFox/Qwen3.6-35B-A3B-Uncensored-Genesis-Hermes-V7-GGUF",
       "displayName": "Qwen3.6 35B A3B Uncensored Genesis Hermes V7",
-      "downloads": 332992
+      "downloads": 373651
     },
     {
       "id": "huihui-ai/Huihui-DeepSeek-V4-Flash-0731-abliterated-GGUF",
       "displayName": "Huihui DeepSeek V4 Flash 0731 abliterated",
-      "downloads": 102798
+      "downloads": 111595
     },
     {
       "id": "DavidAU/Qwen3.5-9B-The-Defiant-Fable-Uncensored-Heretic-NEO-IMATRIX-MAX-MTP-GGUF",
       "displayName": "Qwen3.5 9B The Defiant Fable Uncensored Heretic NEO IMATRIX MAX MTP",
-      "downloads": 342556
+      "downloads": 358020
     },
     {
       "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
       "displayName": "Qwen3.6 35B A3B Uncensored HauhauCS Aggressive",
-      "downloads": 1959673
+      "downloads": 1983570
     },
     {
       "id": "unsloth/Kimi-K3-GGUF",
       "displayName": "Kimi K3",
-      "downloads": 245703
+      "downloads": 266271
     },
     {
       "id": "Abiray/MiniMax-H3-GGUF",
       "displayName": "MiniMax H3",
-      "downloads": 196363
+      "downloads": 222664
     }
   ]
 }
