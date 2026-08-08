@@ -1,6 +1,13 @@
 {
-  "updated": "2026-08-07T22:29:41Z",
+  "updated": "2026-08-08T01:14:46Z",
   "news": [
+    {
+      "title": "OpenAI says it slowed Astra model development over security concerns",
+      "url": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-08-07T22:48:24Z",
+      "snippet": "OpenAI said this model, which is still in development, reached its \"critical cybersecurity threshold,\" meaning it could independently identify and carry out cyberattacks against traditionally well-pro"
+    },
     {
       "title": "After Rippling blew millions on AI in months, it built an employee ROI tool",
       "url": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/",
@@ -168,13 +175,6 @@
       "source": "TechCrunch",
       "publishedAt": "2026-08-06T12:30:00Z",
       "snippet": "The launch of these new features reflects Google\u2019s ambitions to transform Google Maps from a navigation tool into an assistant that's capable of helping users complete real-world tasks."
-    },
-    {
-      "title": "Omilia raises $67M to scale its customer support platform",
-      "url": "https://techcrunch.com/2026/08/06/omilia-raises-67m-to-scale-its-customer-support-platform/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-08-06T12:00:00Z",
-      "snippet": "The Series B is the company's second fundraise since it last raised capital in 2020. In that time, it has increased its ARR by 10x to $60 million."
     }
   ],
   "trending": [
@@ -224,9 +224,9 @@
       "downloads": 245703
     },
     {
-      "id": "antirez/deepseek-v4-gguf",
-      "displayName": "deepseek v4",
-      "downloads": 1064234
+      "id": "Abiray/MiniMax-H3-GGUF",
+      "displayName": "MiniMax H3",
+      "downloads": 196363
     }
   ]
 }
