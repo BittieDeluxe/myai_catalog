@@ -1,6 +1,20 @@
 {
-  "updated": "2026-08-08T18:30:39Z",
+  "updated": "2026-08-08T20:22:58Z",
   "news": [
+    {
+      "title": "OpenAI acquires presentation startup NextSlide",
+      "url": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-08-08T19:41:13Z",
+      "snippet": "NextSlide says its team members are now working on ChatGPT."
+    },
+    {
+      "title": "An Amazon data center could have the worst polluting power plant in the country",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/977124/amazon-data-center-worst-polluting-power-plant",
+      "source": "The Verge",
+      "publishedAt": "2026-08-08T17:53:34Z",
+      "snippet": "To power its new West Texas data center, Amazon is investing in the construction of a new power plant that could be one of the largest single producers of greenhouse gases in the US, according to the "
+    },
     {
       "title": "OpenAI says it slowed Astra model development over security concerns",
       "url": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
@@ -149,13 +163,6 @@
       "snippet": "Suno's watermarking feature comes as the company is fighting legal battles on several fronts."
     },
     {
-      "title": "The messy politics behind Google\u2019s big AI shakeup",
-      "url": "https://www.theverge.com/tech/976108/google-ai-leadership-shakeup-jeff-dean-demis-hassabis-deepmind",
-      "source": "The Verge",
-      "publishedAt": "2026-08-06T13:26:42Z",
-      "snippet": "In the AI industry, Google prides itself on seeming like the adult in the room: quiet, stable, time-tested. On Wednesday, even as the company announced its largest AI org shakeup yet, Google and its l"
-    },
-    {
       "title": "Ex-Spotify employees raise $10M to bring the AI behind its recommendations to e-commerce",
       "url": "https://techcrunch.com/2026/08/06/ex-spotify-employees-raise-10m-to-bring-the-ai-behind-its-recommendations-to-e-commerce/",
       "source": "TechCrunch",
@@ -168,13 +175,6 @@
       "source": "TechCrunch",
       "publishedAt": "2026-08-06T13:00:00Z",
       "snippet": "Mirendil has signed a $100 million-plus Google Cloud partnership to expand its compute infrastructure, powering research into self-improving AI systems designed to accelerate scientific discovery and "
-    },
-    {
-      "title": "Google Maps adds agentic features, including food ordering and hotel bookings",
-      "url": "https://techcrunch.com/2026/08/06/google-maps-adds-agentic-features-including-food-ordering-and-hotel-bookings/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-08-06T12:30:00Z",
-      "snippet": "The launch of these new features reflects Google\u2019s ambitions to transform Google Maps from a navigation tool into an assistant that's capable of helping users complete real-world tasks."
     }
   ],
   "trending": [
@@ -219,14 +219,14 @@
       "downloads": 1983570
     },
     {
-      "id": "unsloth/Kimi-K3-GGUF",
-      "displayName": "Kimi K3",
-      "downloads": 266271
-    },
-    {
       "id": "Abiray/MiniMax-H3-GGUF",
       "displayName": "MiniMax H3",
       "downloads": 222664
+    },
+    {
+      "id": "unsloth/Kimi-K3-GGUF",
+      "displayName": "Kimi K3",
+      "downloads": 266271
     }
   ]
 }
