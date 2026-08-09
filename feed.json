@@ -1,6 +1,13 @@
 {
-  "updated": "2026-08-09T18:33:12Z",
+  "updated": "2026-08-09T20:26:11Z",
   "news": [
+    {
+      "title": "Anthropic is turning Claude Code\u2019s auto mode on by default",
+      "url": "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-08-09T19:20:32Z",
+      "snippet": "Programming with Claude Code will soon require even less human oversight."
+    },
     {
       "title": "Historian Jill Lepore says Silicon Valley misreads science fiction and undermines democracy",
       "url": "https://techcrunch.com/2026/08/09/historian-jill-lepore-says-the-tech-industry-is-led-by-bad-readers-who-are-undermining-democracy/",
@@ -163,13 +170,6 @@
       "snippet": "This generation of twentysomethings is so disillusioned with swipe-based dating apps that they'll try literally anything else \u2014 even an AI matchmaker."
     },
     {
-      "title": "OpenAI says Apple\u2019s own security practices undermine its trade secrets case",
-      "url": "https://techcrunch.com/2026/08/06/openai-says-apples-own-security-practices-undermine-its-trade-secrets-case/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-08-06T15:10:32Z",
-      "snippet": "Newly filed court exhibits show OpenAI\u2019s legal strategy in Apple\u2019s trade secrets lawsuit: argue that Apple\u2019s own security and offboarding practices \u2014 including allowing an Apple manager to access a fo"
-    },
-    {
       "title": "SoftBank donated $50 million to Trump\u2019s library months before federal data center deal",
       "url": "https://www.theverge.com/policy/976138/softbank-trump-library-data-center-ohio",
       "source": "The Verge",
@@ -204,14 +204,14 @@
       "downloads": 396282
     },
     {
-      "id": "huihui-ai/Huihui-DeepSeek-V4-Flash-0731-abliterated-GGUF",
-      "displayName": "Huihui DeepSeek V4 Flash 0731 abliterated",
-      "downloads": 117636
-    },
-    {
       "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
       "displayName": "Qwen3.6 35B A3B Uncensored HauhauCS Aggressive",
       "downloads": 2004791
+    },
+    {
+      "id": "huihui-ai/Huihui-DeepSeek-V4-Flash-0731-abliterated-GGUF",
+      "displayName": "Huihui DeepSeek V4 Flash 0731 abliterated",
+      "downloads": 117636
     },
     {
       "id": "DavidAU/Qwen3.5-9B-The-Defiant-Fable-Uncensored-Heretic-NEO-IMATRIX-MAX-MTP-GGUF",
