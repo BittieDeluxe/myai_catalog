@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-09T16:28:33Z",
+  "updated": "2026-08-09T18:33:12Z",
   "news": [
     {
       "title": "Historian Jill Lepore says Silicon Valley misreads science fiction and undermines democracy",
@@ -209,14 +209,14 @@
       "downloads": 117636
     },
     {
-      "id": "DavidAU/Qwen3.5-9B-The-Defiant-Fable-Uncensored-Heretic-NEO-IMATRIX-MAX-MTP-GGUF",
-      "displayName": "Qwen3.5 9B The Defiant Fable Uncensored Heretic NEO IMATRIX MAX MTP",
-      "downloads": 379335
-    },
-    {
       "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
       "displayName": "Qwen3.6 35B A3B Uncensored HauhauCS Aggressive",
       "downloads": 2004791
+    },
+    {
+      "id": "DavidAU/Qwen3.5-9B-The-Defiant-Fable-Uncensored-Heretic-NEO-IMATRIX-MAX-MTP-GGUF",
+      "displayName": "Qwen3.5 9B The Defiant Fable Uncensored Heretic NEO IMATRIX MAX MTP",
+      "downloads": 379335
     },
     {
       "id": "Abiray/MiniMax-H3-GGUF",
