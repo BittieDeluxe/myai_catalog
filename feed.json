@@ -1,6 +1,13 @@
 {
-  "updated": "2026-08-09T20:26:11Z",
+  "updated": "2026-08-09T22:25:05Z",
   "news": [
+    {
+      "title": "Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry",
+      "url": "https://techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-08-09T20:35:17Z",
+      "snippet": "The AI-focused hedge fund is still making some big bets."
+    },
     {
       "title": "Anthropic is turning Claude Code\u2019s auto mode on by default",
       "url": "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/",
@@ -163,13 +170,6 @@
       "snippet": "OpenAI is making a big change for ChatGPT users on its free and Go tiers: Starting next week, users on those tiers will be able to have unlimited text chats with the chatbot, according to OpenAI. Righ"
     },
     {
-      "title": "Gen Z dating apps like Ditto ditch swiping in favor of AI matchmaking",
-      "url": "https://techcrunch.com/2026/08/06/gen-z-dating-apps-like-ditto-ditch-swiping-in-favor-of-ai-matchmaking/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-08-06T15:53:03Z",
-      "snippet": "This generation of twentysomethings is so disillusioned with swipe-based dating apps that they'll try literally anything else \u2014 even an AI matchmaker."
-    },
-    {
       "title": "SoftBank donated $50 million to Trump\u2019s library months before federal data center deal",
       "url": "https://www.theverge.com/policy/976138/softbank-trump-library-data-center-ohio",
       "source": "The Verge",
@@ -209,14 +209,14 @@
       "downloads": 2004791
     },
     {
-      "id": "huihui-ai/Huihui-DeepSeek-V4-Flash-0731-abliterated-GGUF",
-      "displayName": "Huihui DeepSeek V4 Flash 0731 abliterated",
-      "downloads": 117636
-    },
-    {
       "id": "DavidAU/Qwen3.5-9B-The-Defiant-Fable-Uncensored-Heretic-NEO-IMATRIX-MAX-MTP-GGUF",
       "displayName": "Qwen3.5 9B The Defiant Fable Uncensored Heretic NEO IMATRIX MAX MTP",
       "downloads": 379335
+    },
+    {
+      "id": "huihui-ai/Huihui-DeepSeek-V4-Flash-0731-abliterated-GGUF",
+      "displayName": "Huihui DeepSeek V4 Flash 0731 abliterated",
+      "downloads": 117636
     },
     {
       "id": "Abiray/MiniMax-H3-GGUF",
