@@ -1,6 +1,20 @@
 {
-  "updated": "2026-08-09T14:29:30Z",
+  "updated": "2026-08-09T16:28:33Z",
   "news": [
+    {
+      "title": "Historian Jill Lepore says Silicon Valley misreads science fiction and undermines democracy",
+      "url": "https://techcrunch.com/2026/08/09/historian-jill-lepore-says-the-tech-industry-is-led-by-bad-readers-who-are-undermining-democracy/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-08-09T15:00:00Z",
+      "snippet": "On the latest episode of Equity, we spoke to Jill Lepore about \"government by machines\" and why Elon Musk is a bad science fiction reader."
+    },
+    {
+      "title": "The AI safety test is becoming a safety risk",
+      "url": "https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-08-09T14:30:00Z",
+      "snippet": "AI agents are escaping cybersecurity testing environments and reaching real-world systems, raising questions about whether safety infrastructure, industry standards and regulation can keep pace with i"
+    },
     {
       "title": "AI detectors are creating a new era of distrust",
       "url": "https://www.theverge.com/column/976690/ai-writing-detectors-suspicion",
@@ -161,20 +175,6 @@
       "source": "The Verge",
       "publishedAt": "2026-08-06T14:30:00Z",
       "snippet": "SoftBank contributed $50 million to the Trump Presidential Library in January, just months before announcing that it's leasing land from the federal government to build a sprawling data center in Ohio"
-    },
-    {
-      "title": "Amid legal battles, Suno says it will start watermarking songs",
-      "url": "https://techcrunch.com/2026/08/06/amid-legal-battles-suno-says-it-will-start-watermarking-songs/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-08-06T13:31:57Z",
-      "snippet": "Suno's watermarking feature comes as the company is fighting legal battles on several fronts."
-    },
-    {
-      "title": "Ex-Spotify employees raise $10M to bring the AI behind its recommendations to e-commerce",
-      "url": "https://techcrunch.com/2026/08/06/ex-spotify-employees-raise-10m-to-bring-the-ai-behind-its-recommendations-to-e-commerce/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-08-06T13:00:00Z",
-      "snippet": "The startup's platform predicts which product a shopper wants next, learns their general taste, and fine-tunes continuously based on what they do in real time."
     }
   ],
   "trending": [
