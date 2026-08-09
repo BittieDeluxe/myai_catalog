@@ -1,6 +1,13 @@
 {
-  "updated": "2026-08-09T10:28:27Z",
+  "updated": "2026-08-09T12:39:47Z",
   "news": [
+    {
+      "title": "AI detectors are creating a new era of distrust",
+      "url": "https://www.theverge.com/column/976690/ai-writing-detectors-suspicion",
+      "source": "The Verge",
+      "publishedAt": "2026-08-09T12:00:00Z",
+      "snippet": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more news about how AI is changing our daily lives, follow Emma Roth. The Stepback arrives in our s"
+    },
     {
       "title": "Planned Amazon data center could become the biggest climate polluter in the U.S.",
       "url": "https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/",
@@ -154,13 +161,6 @@
       "source": "The Verge",
       "publishedAt": "2026-08-06T14:30:00Z",
       "snippet": "SoftBank contributed $50 million to the Trump Presidential Library in January, just months before announcing that it's leasing land from the federal government to build a sprawling data center in Ohio"
-    },
-    {
-      "title": "The left and right agree on one thing: no data centers",
-      "url": "https://www.theverge.com/podcast/971855/ai-data-center-backlash-protests-florida-bipartisan",
-      "source": "The Verge",
-      "publishedAt": "2026-08-06T14:00:00Z",
-      "snippet": "Today, I\u2019m talking with Gaby Del Valle, a policy reporter here at The Verge, about the growing backlash against AI data centers.  Gaby recently reported a fantastic piece about Hernando County, Florid"
     },
     {
       "title": "Amid legal battles, Suno says it will start watermarking songs",
