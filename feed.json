@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-10T16:50:09Z",
+  "updated": "2026-08-10T18:50:35Z",
   "news": [
     {
       "title": "Meta\u2019s new Glimmer AI model offers a hint at Zuckerberg\u2019s personal intelligence vision",
@@ -9,7 +9,14 @@
       "snippet": "Meta\u2019s new open-weight Muse Glimmer model offers a glimpse of Mark Zuckerberg\u2019s personal superintelligence vision, as well as  the emerging divide between AI users can own and access."
     },
     {
-      "title": "Bose CEO Lila Snyder on the fight for high-quality audio",
+      "title": "Four takeaways from Mark Zuckerberg\u2019s massive AI manifesto",
+      "url": "https://www.theverge.com/tech/977395/meta-mark-zuckerberg-superintelligent-ai-ramble",
+      "source": "The Verge",
+      "publishedAt": "2026-08-10T15:19:05Z",
+      "snippet": "Meta CEO Mark Zuckerberg has a lot to say about the idealized future he now envisions for humanity co-existing with artificial intelligence - his latest essay spans more than 6,500 words on the matter"
+    },
+    {
+      "title": "What happens to Bose when headphones become AI?",
       "url": "https://www.theverge.com/podcast/975732/bose-ceo-lila-snyder-ai-wearables-licensing-headphones-audio",
       "source": "The Verge",
       "publishedAt": "2026-08-10T14:00:00Z",
@@ -55,7 +62,7 @@
       "url": "https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk/",
       "source": "TechCrunch",
       "publishedAt": "2026-08-09T14:30:00Z",
-      "snippet": "AI agents are escaping cybersecurity testing environments and reaching real-world systems, raising questions about whether safety infrastructure, industry standards and regulation can keep pace with i"
+      "snippet": "AI agents are escaping cybersecurity testing environments and reaching real-world systems, raising questions about whether safety infrastructure, industry standards, and regulation can keep pace with "
     },
     {
       "title": "AI detectors are creating a new era of distrust",
@@ -65,18 +72,18 @@
       "snippet": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more news about how AI is changing our daily lives, follow Emma Roth. The Stepback arrives in our s"
     },
     {
-      "title": "Planned Amazon data center could become the biggest climate polluter in the U.S.",
+      "title": "Planned Amazon data center could become the biggest climate polluter in the US",
       "url": "https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/",
       "source": "TechCrunch",
       "publishedAt": "2026-08-08T21:24:02Z",
-      "snippet": "As part of a planned Texas data center, Amazon is investing in an on-site power plant that could reportedly become the largest source of climate pollution in the United States."
+      "snippet": "AI has already had a significant impact on Amazon\u2019s carbon emissions, which it reported were up 16% last year \u2014 the wrong direction for a company that pledged to eliminate its carbon emissions by 2040"
     },
     {
       "title": "OpenAI acquires presentation startup NextSlide",
       "url": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
       "source": "TechCrunch",
       "publishedAt": "2026-08-08T19:41:13Z",
-      "snippet": "NextSlide says its team members are now working on ChatGPT."
+      "snippet": "Founder Ahmed Beshry describes the startup\u2019s product as one \u201cthat could turn prompts, notes, documents, or research into a polished, editable presentation.\u201d"
     },
     {
       "title": "An Amazon data center could have the worst polluting power plant in the country",
@@ -168,13 +175,6 @@
       "source": "The Verge",
       "publishedAt": "2026-08-06T20:55:39Z",
       "snippet": "The AI device OpenAI is developing with former Apple designer Jony Ive is \"essentially a smart speaker without a display\" that's battery-powered, doughnut-shaped and roughly the size of a hockey puck,"
-    },
-    {
-      "title": "Suno shares plans to combat spammy AI music",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/976289/suno-ai-music-spam-watermark",
-      "source": "The Verge",
-      "publishedAt": "2026-08-06T17:39:43Z",
-      "snippet": "Suno announced plans to implement a new watermarking technology and download policy to limit the spread of spammy AI tracks and increase transparency. In a lengthy blog post, CEO and co-founder Mikey "
     }
   ],
   "trending": [
