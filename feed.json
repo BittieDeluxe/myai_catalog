@@ -1,6 +1,13 @@
 {
-  "updated": "2026-08-10T18:50:35Z",
+  "updated": "2026-08-10T20:36:36Z",
   "news": [
+    {
+      "title": "Tech industry is buzzing after a Claude agent hacked into a gym",
+      "url": "https://techcrunch.com/2026/08/10/tech-industry-is-buzzing-after-a-claude-agent-hacked-into-a-gym/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-08-10T20:04:24Z",
+      "snippet": "An OpenClaw agent hacked into a gym's reservation system to bump its human boss higher on a class' waitlist. And the tech industry took notice."
+    },
     {
       "title": "Meta\u2019s new Glimmer AI model offers a hint at Zuckerberg\u2019s personal intelligence vision",
       "url": "https://techcrunch.com/2026/08/10/metas-new-glimmer-ai-model-offers-a-hint-at-zuckerbergs-personal-intelligence-vision/",
@@ -163,13 +170,6 @@
       "snippet": "Meta's total fine has racked up to $942 million in this case."
     },
     {
-      "title": "OpenAI\u2019s new AI smart speaker will reportedly sell for between $300 and $400",
-      "url": "https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-08-06T22:43:53Z",
-      "snippet": "Additional details about OpenAI's mysterious new AI device make it sound like a pricey smart speaker."
-    },
-    {
       "title": "Jony Ive\u2019s first OpenAI gadget is reportedly a hockey puck-sized smart speaker",
       "url": "https://www.theverge.com/ai-artificial-intelligence/976431/openai-chatgpt-battery-smart-speaker-rumor",
       "source": "The Verge",
@@ -189,12 +189,17 @@
       "downloads": 199167
     },
     {
+      "id": "unsloth/Muse-Glimmer-30B-GGUF",
+      "displayName": "Muse Glimmer 30B",
+      "downloads": 0
+    },
+    {
       "id": "LiquidAI/LFM2.5-2.6B-GGUF",
       "displayName": "LFM2.5 2.6B",
       "downloads": 89611
     },
     {
-      "id": "unsloth/Muse-Glimmer-30B-GGUF",
+      "id": "meta-models/Muse-Glimmer-30B-GGUF",
       "displayName": "Muse Glimmer 30B",
       "downloads": 0
     },
@@ -202,11 +207,6 @@
       "id": "realrebelai/MiniMax-H3_GGUFs",
       "displayName": "MiniMax H3_GGUFs",
       "downloads": 174862
-    },
-    {
-      "id": "meta-models/Muse-Glimmer-30B-GGUF",
-      "displayName": "Muse Glimmer 30B",
-      "downloads": 0
     },
     {
       "id": "LuffyTheFox/Qwen3.6-35B-A3B-Uncensored-Genesis-Hermes-V7-GGUF",
