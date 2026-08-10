@@ -1,6 +1,20 @@
 {
-  "updated": "2026-08-10T20:36:36Z",
+  "updated": "2026-08-10T22:32:06Z",
   "news": [
+    {
+      "title": "Mark Zuckerberg doesn\u2019t understand how to live",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/977623/mark-zuckerberg-ai-manifesto-dim-vision",
+      "source": "The Verge",
+      "publishedAt": "2026-08-10T22:00:00Z",
+      "snippet": "Recently, a man I was rock climbing with told me about how he'd used AI to make a motivational poster for himself, which he'd hung on his bedroom wall: a bear, walking a slackline over a canyon, holdi"
+    },
+    {
+      "title": "Mark Zuckerberg\u2019s AI manifesto is exactly why people don\u2019t like AI",
+      "url": "https://techcrunch.com/2026/08/10/mark-zuckerbergs-ai-manifesto-is-exactly-why-people-dont-like-ai/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-08-10T20:53:02Z",
+      "snippet": "On Monday, Mark Zuckerberg published a 6,500-word manifesto about personal AI, largely about the possibilities for the \"personal superintelligence\" systems Meta AI is building."
+    },
     {
       "title": "Tech industry is buzzing after a Claude agent hacked into a gym",
       "url": "https://techcrunch.com/2026/08/10/tech-industry-is-buzzing-after-a-claude-agent-hacked-into-a-gym/",
@@ -161,20 +175,6 @@
       "source": "TechCrunch",
       "publishedAt": "2026-08-07T14:00:00Z",
       "snippet": "Historian Jill Lepore has a theory about why tech companies often use soaring language to describe their products \u2014 almost as if they\u2019re forming a new government. And whether you\u2019re thinking of Twitte"
-    },
-    {
-      "title": "New Mexico court orders Meta to pay additional $567M in child safety case",
-      "url": "https://techcrunch.com/2026/08/07/new-mexico-court-orders-meta-to-pay-additional-567m-in-child-safety-case/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-08-07T11:40:37Z",
-      "snippet": "Meta's total fine has racked up to $942 million in this case."
-    },
-    {
-      "title": "Jony Ive\u2019s first OpenAI gadget is reportedly a hockey puck-sized smart speaker",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/976431/openai-chatgpt-battery-smart-speaker-rumor",
-      "source": "The Verge",
-      "publishedAt": "2026-08-06T20:55:39Z",
-      "snippet": "The AI device OpenAI is developing with former Apple designer Jony Ive is \"essentially a smart speaker without a display\" that's battery-powered, doughnut-shaped and roughly the size of a hockey puck,"
     }
   ],
   "trending": [
@@ -184,14 +184,14 @@
       "downloads": 2439083
     },
     {
-      "id": "unsloth/DeepSeek-V4-Flash-0731-GGUF",
-      "displayName": "DeepSeek V4 Flash 0731",
-      "downloads": 199167
-    },
-    {
       "id": "unsloth/Muse-Glimmer-30B-GGUF",
       "displayName": "Muse Glimmer 30B",
       "downloads": 0
+    },
+    {
+      "id": "unsloth/DeepSeek-V4-Flash-0731-GGUF",
+      "displayName": "DeepSeek V4 Flash 0731",
+      "downloads": 199167
     },
     {
       "id": "LiquidAI/LFM2.5-2.6B-GGUF",
@@ -219,14 +219,14 @@
       "downloads": 2014043
     },
     {
-      "id": "DavidAU/Qwen3.5-9B-The-Defiant-Fable-Uncensored-Heretic-NEO-IMATRIX-MAX-MTP-GGUF",
-      "displayName": "Qwen3.5 9B The Defiant Fable Uncensored Heretic NEO IMATRIX MAX MTP",
-      "downloads": 399023
-    },
-    {
       "id": "unsloth/MiniMax-H3-GGUF",
       "displayName": "MiniMax H3",
       "downloads": 15
+    },
+    {
+      "id": "DavidAU/Qwen3.5-9B-The-Defiant-Fable-Uncensored-Heretic-NEO-IMATRIX-MAX-MTP-GGUF",
+      "displayName": "Qwen3.5 9B The Defiant Fable Uncensored Heretic NEO IMATRIX MAX MTP",
+      "downloads": 399023
     }
   ]
 }
