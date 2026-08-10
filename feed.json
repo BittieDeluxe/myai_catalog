@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-09T22:25:05Z",
+  "updated": "2026-08-10T01:21:23Z",
   "news": [
     {
       "title": "Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry",
@@ -214,14 +214,14 @@
       "downloads": 379335
     },
     {
-      "id": "huihui-ai/Huihui-DeepSeek-V4-Flash-0731-abliterated-GGUF",
-      "displayName": "Huihui DeepSeek V4 Flash 0731 abliterated",
-      "downloads": 117636
-    },
-    {
       "id": "Abiray/MiniMax-H3-GGUF",
       "displayName": "MiniMax H3",
       "downloads": 286347
+    },
+    {
+      "id": "huihui-ai/Huihui-DeepSeek-V4-Flash-0731-abliterated-GGUF",
+      "displayName": "Huihui DeepSeek V4 Flash 0731 abliterated",
+      "downloads": 117636
     },
     {
       "id": "unsloth/Kimi-K3-GGUF",
