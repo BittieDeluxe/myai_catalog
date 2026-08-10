@@ -1,6 +1,13 @@
 {
-  "updated": "2026-08-10T12:57:27Z",
+  "updated": "2026-08-10T14:53:15Z",
   "news": [
+    {
+      "title": "Bose CEO Lila Snyder on the fight for high-quality audio",
+      "url": "https://www.theverge.com/podcast/975732/bose-ceo-lila-snyder-ai-wearables-licensing-headphones-audio",
+      "source": "The Verge",
+      "publishedAt": "2026-08-10T14:00:00Z",
+      "snippet": "Today, I\u2019m talking with Lila Snyder, who is the CEO of Bose. You certainly know Bose \u2014 it\u2019s one of the most famous brands in all of consumer tech. The company started 60 years ago selling speakers to "
+    },
     {
       "title": "Discovered Materials is playing AI whack-a-mole to hunt cooler chips",
       "url": "https://techcrunch.com/2026/08/10/discovered-materials-is-playing-ai-whack-a-mole-to-hunt-cooler-chips/",
@@ -168,13 +175,6 @@
       "source": "TechCrunch",
       "publishedAt": "2026-08-06T17:34:42Z",
       "snippet": "OpenAI said that ChatGPT free and Go users are also getting a new think button for complex queries."
-    },
-    {
-      "title": "OpenAI is giving ChatGPT free users unlimited text chats",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/976239/openai-chatgpt-free-go-text-chats",
-      "source": "The Verge",
-      "publishedAt": "2026-08-06T17:00:00Z",
-      "snippet": "OpenAI is making a big change for ChatGPT users on its free and Go tiers: Starting next week, users on those tiers will be able to have unlimited text chats with the chatbot, according to OpenAI. Righ"
     }
   ],
   "trending": [
@@ -199,6 +199,11 @@
       "downloads": 174862
     },
     {
+      "id": "unsloth/Muse-Glimmer-30B-GGUF",
+      "displayName": "Muse Glimmer 30B",
+      "downloads": 0
+    },
+    {
       "id": "LuffyTheFox/Qwen3.6-35B-A3B-Uncensored-Genesis-Hermes-V7-GGUF",
       "displayName": "Qwen3.6 35B A3B Uncensored Genesis Hermes V7",
       "downloads": 415805
@@ -209,7 +214,7 @@
       "downloads": 2014043
     },
     {
-      "id": "unsloth/Muse-Glimmer-30B-GGUF",
+      "id": "meta-models/Muse-Glimmer-30B-GGUF",
       "displayName": "Muse Glimmer 30B",
       "downloads": 0
     },
@@ -222,11 +227,6 @@
       "id": "Abiray/MiniMax-H3-GGUF",
       "displayName": "MiniMax H3",
       "downloads": 351894
-    },
-    {
-      "id": "huihui-ai/Huihui-DeepSeek-V4-Flash-0731-abliterated-GGUF",
-      "displayName": "Huihui DeepSeek V4 Flash 0731 abliterated",
-      "downloads": 144010
     }
   ]
 }
