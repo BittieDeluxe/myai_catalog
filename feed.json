@@ -1,6 +1,13 @@
 {
-  "updated": "2026-08-10T14:53:15Z",
+  "updated": "2026-08-10T16:50:09Z",
   "news": [
+    {
+      "title": "Meta\u2019s new Glimmer AI model offers a hint at Zuckerberg\u2019s personal intelligence vision",
+      "url": "https://techcrunch.com/2026/08/10/metas-new-glimmer-ai-model-offers-a-hint-at-zuckerbergs-personal-intelligence-vision/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-08-10T16:20:13Z",
+      "snippet": "Meta\u2019s new open-weight Muse Glimmer model offers a glimpse of Mark Zuckerberg\u2019s personal superintelligence vision, as well as  the emerging divide between AI users can own and access."
+    },
     {
       "title": "Bose CEO Lila Snyder on the fight for high-quality audio",
       "url": "https://www.theverge.com/podcast/975732/bose-ceo-lila-snyder-ai-wearables-licensing-headphones-audio",
@@ -168,13 +175,6 @@
       "source": "The Verge",
       "publishedAt": "2026-08-06T17:39:43Z",
       "snippet": "Suno announced plans to implement a new watermarking technology and download policy to limit the spread of spammy AI tracks and increase transparency. In a lengthy blog post, CEO and co-founder Mikey "
-    },
-    {
-      "title": "ChatGPT brings unlimited text chats to free users",
-      "url": "https://techcrunch.com/2026/08/06/openai-brings-unlimited-chatgpt-text-chats-to-free-users/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-08-06T17:34:42Z",
-      "snippet": "OpenAI said that ChatGPT free and Go users are also getting a new think button for complex queries."
     }
   ],
   "trending": [
@@ -194,12 +194,17 @@
       "downloads": 89611
     },
     {
+      "id": "unsloth/Muse-Glimmer-30B-GGUF",
+      "displayName": "Muse Glimmer 30B",
+      "downloads": 0
+    },
+    {
       "id": "realrebelai/MiniMax-H3_GGUFs",
       "displayName": "MiniMax H3_GGUFs",
       "downloads": 174862
     },
     {
-      "id": "unsloth/Muse-Glimmer-30B-GGUF",
+      "id": "meta-models/Muse-Glimmer-30B-GGUF",
       "displayName": "Muse Glimmer 30B",
       "downloads": 0
     },
@@ -214,19 +219,14 @@
       "downloads": 2014043
     },
     {
-      "id": "meta-models/Muse-Glimmer-30B-GGUF",
-      "displayName": "Muse Glimmer 30B",
-      "downloads": 0
-    },
-    {
       "id": "DavidAU/Qwen3.5-9B-The-Defiant-Fable-Uncensored-Heretic-NEO-IMATRIX-MAX-MTP-GGUF",
       "displayName": "Qwen3.5 9B The Defiant Fable Uncensored Heretic NEO IMATRIX MAX MTP",
       "downloads": 399023
     },
     {
-      "id": "Abiray/MiniMax-H3-GGUF",
+      "id": "unsloth/MiniMax-H3-GGUF",
       "displayName": "MiniMax H3",
-      "downloads": 351894
+      "downloads": 15
     }
   ]
 }
