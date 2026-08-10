@@ -1,6 +1,20 @@
 {
-  "updated": "2026-08-10T11:03:22Z",
+  "updated": "2026-08-10T12:57:27Z",
   "news": [
+    {
+      "title": "Discovered Materials is playing AI whack-a-mole to hunt cooler chips",
+      "url": "https://techcrunch.com/2026/08/10/discovered-materials-is-playing-ai-whack-a-mole-to-hunt-cooler-chips/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-08-10T12:00:00Z",
+      "snippet": "Discovered Materials raised $9 million to fund the hunt for more novel materials to build more efficient chips."
+    },
+    {
+      "title": "Ford\u2019s new AI assistant can check your fuel levels and tire pressure",
+      "url": "https://www.theverge.com/transportation/976748/ford-ai-assistant-mobile-app",
+      "source": "The Verge",
+      "publishedAt": "2026-08-10T11:00:00Z",
+      "snippet": "Ford is rolling out a new AI-powered assistant that can answer questions about your Ford or Lincoln vehicle, such as how much fuel you'll need for your next road trip or whether your truck can tow tha"
+    },
     {
       "title": "Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry",
       "url": "https://techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry/",
@@ -55,7 +69,7 @@
       "url": "https://www.theverge.com/ai-artificial-intelligence/977124/amazon-data-center-worst-polluting-power-plant",
       "source": "The Verge",
       "publishedAt": "2026-08-08T17:53:34Z",
-      "snippet": "To power its new West Texas data center, Amazon is investing in the construction of a new power plant that could be one of the largest single producers of greenhouse gases in the US, according to the "
+      "snippet": "To power its new West Texas data center, Amazon is investing in the construction of a new power plant that could be one of the largest single producers of greenhouse gases in the US, according to The "
     },
     {
       "title": "OpenAI says it slowed Astra model development over security concerns",
@@ -156,25 +170,11 @@
       "snippet": "OpenAI said that ChatGPT free and Go users are also getting a new think button for complex queries."
     },
     {
-      "title": "Na\u00efve raises $28.5M to automate the grunt work of setting up and running a company",
-      "url": "https://techcrunch.com/2026/08/06/naive-raises-28-5m-to-automate-the-grunt-work-of-setting-up-and-running-a-company/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-08-06T17:00:37Z",
-      "snippet": "Taking vibe-coding a step further, Na\u00efve claims its infra can automate most of the work in setting up and running a business."
-    },
-    {
       "title": "OpenAI is giving ChatGPT free users unlimited text chats",
       "url": "https://www.theverge.com/ai-artificial-intelligence/976239/openai-chatgpt-free-go-text-chats",
       "source": "The Verge",
       "publishedAt": "2026-08-06T17:00:00Z",
       "snippet": "OpenAI is making a big change for ChatGPT users on its free and Go tiers: Starting next week, users on those tiers will be able to have unlimited text chats with the chatbot, according to OpenAI. Righ"
-    },
-    {
-      "title": "SoftBank donated $50 million to Trump\u2019s library months before federal data center deal",
-      "url": "https://www.theverge.com/policy/976138/softbank-trump-library-data-center-ohio",
-      "source": "The Verge",
-      "publishedAt": "2026-08-06T14:30:00Z",
-      "snippet": "SoftBank contributed $50 million to the Trump Presidential Library in January, just months before announcing that it's leasing land from the federal government to build a sprawling data center in Ohio"
     }
   ],
   "trending": [
@@ -209,6 +209,11 @@
       "downloads": 2014043
     },
     {
+      "id": "unsloth/Muse-Glimmer-30B-GGUF",
+      "displayName": "Muse Glimmer 30B",
+      "downloads": 0
+    },
+    {
       "id": "DavidAU/Qwen3.5-9B-The-Defiant-Fable-Uncensored-Heretic-NEO-IMATRIX-MAX-MTP-GGUF",
       "displayName": "Qwen3.5 9B The Defiant Fable Uncensored Heretic NEO IMATRIX MAX MTP",
       "downloads": 399023
@@ -222,11 +227,6 @@
       "id": "huihui-ai/Huihui-DeepSeek-V4-Flash-0731-abliterated-GGUF",
       "displayName": "Huihui DeepSeek V4 Flash 0731 abliterated",
       "downloads": 144010
-    },
-    {
-      "id": "unsloth/MiniMax-H3-GGUF",
-      "displayName": "MiniMax H3",
-      "downloads": 15
     }
   ]
 }
