@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-11T06:58:36Z",
+  "updated": "2026-08-11T08:48:34Z",
   "news": [
     {
       "title": "OpenAI reportedly completed a $7 billion employee tender offer",
@@ -181,7 +181,7 @@
     {
       "id": "DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
       "displayName": "Qwen3.6 27B Fable Fusion 711 Uncensored Heretic NM DAU NEO MAX MTP",
-      "downloads": 2439083
+      "downloads": 2521093
     },
     {
       "id": "unsloth/Muse-Glimmer-30B-GGUF",
@@ -191,12 +191,12 @@
     {
       "id": "unsloth/DeepSeek-V4-Flash-0731-GGUF",
       "displayName": "DeepSeek V4 Flash 0731",
-      "downloads": 199167
+      "downloads": 207990
     },
     {
       "id": "LiquidAI/LFM2.5-2.6B-GGUF",
       "displayName": "LFM2.5 2.6B",
-      "downloads": 89611
+      "downloads": 111942
     },
     {
       "id": "meta-models/Muse-Glimmer-30B-GGUF",
@@ -206,27 +206,27 @@
     {
       "id": "LuffyTheFox/Qwen3.6-35B-A3B-Uncensored-Genesis-Hermes-V7-GGUF",
       "displayName": "Qwen3.6 35B A3B Uncensored Genesis Hermes V7",
-      "downloads": 415805
+      "downloads": 436140
     },
     {
       "id": "realrebelai/MiniMax-H3_GGUFs",
       "displayName": "MiniMax H3_GGUFs",
-      "downloads": 174862
+      "downloads": 195117
     },
     {
       "id": "unsloth/MiniMax-H3-GGUF",
       "displayName": "MiniMax H3",
-      "downloads": 15
+      "downloads": 781
     },
     {
       "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
       "displayName": "Qwen3.6 35B A3B Uncensored HauhauCS Aggressive",
-      "downloads": 2014043
+      "downloads": 2012637
     },
     {
       "id": "DavidAU/Qwen3.5-9B-The-Defiant-Fable-Uncensored-Heretic-NEO-IMATRIX-MAX-MTP-GGUF",
       "displayName": "Qwen3.5 9B The Defiant Fable Uncensored Heretic NEO IMATRIX MAX MTP",
-      "downloads": 399023
+      "downloads": 419415
     }
   ]
 }
