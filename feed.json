@@ -1,6 +1,20 @@
 {
-  "updated": "2026-08-10T22:32:06Z",
+  "updated": "2026-08-11T01:19:17Z",
   "news": [
+    {
+      "title": "OpenAI reportedly completed a $7 billion employee tender offer",
+      "url": "https://techcrunch.com/2026/08/10/openai-reportedly-completed-a-7-billion-employee-tender-offer/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-08-11T00:03:18Z",
+      "snippet": "San Francisco's housing market is in trouble again."
+    },
+    {
+      "title": "As AI-led attacks multiply, OpenAI launches a new cyber model",
+      "url": "https://techcrunch.com/2026/08/10/as-ai-led-attacks-multiply-openai-launches-a-new-cyber-model/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-08-10T23:56:15Z",
+      "snippet": "OpenAI is expanding its AI cybersecurity defense program Daybreak, and rolling out a new cyber-trained AI model with it."
+    },
     {
       "title": "Mark Zuckerberg doesn\u2019t understand how to live",
       "url": "https://www.theverge.com/ai-artificial-intelligence/977623/mark-zuckerberg-ai-manifesto-dim-vision",
@@ -161,20 +175,6 @@
       "source": "TechCrunch",
       "publishedAt": "2026-08-07T16:16:09Z",
       "snippet": "Kitesurf is a cloud-hosted browser designed for AI agents instead of people. It uses less computing power than Chromium for common automation tasks, helping developers build browser-based AI agents mo"
-    },
-    {
-      "title": "Airbnb says AI is helping it ship features faster as it tests a new search function",
-      "url": "https://techcrunch.com/2026/08/07/airbnb-says-ai-is-helping-it-ship-features-faster-as-it-tests-a-new-search-function/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-08-07T14:22:49Z",
-      "snippet": "Airbnb will debut a new AI-powered search experience with a toggle."
-    },
-    {
-      "title": "Jill Lepore on the \u2018Artificial State\u2019 and why Silicon Valley\u2019s leaders are bad sci-fi readers",
-      "url": "https://techcrunch.com/podcast/jill-lepore-on-the-artificial-state-and-why-silicon-valleys-leaders-are-bad-sci-fi-readers/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-08-07T14:00:00Z",
-      "snippet": "Historian Jill Lepore has a theory about why tech companies often use soaring language to describe their products \u2014 almost as if they\u2019re forming a new government. And whether you\u2019re thinking of Twitte"
     }
   ],
   "trending": [
@@ -214,14 +214,14 @@
       "downloads": 415805
     },
     {
-      "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
-      "displayName": "Qwen3.6 35B A3B Uncensored HauhauCS Aggressive",
-      "downloads": 2014043
-    },
-    {
       "id": "unsloth/MiniMax-H3-GGUF",
       "displayName": "MiniMax H3",
       "downloads": 15
+    },
+    {
+      "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
+      "displayName": "Qwen3.6 35B A3B Uncensored HauhauCS Aggressive",
+      "downloads": 2014043
     },
     {
       "id": "DavidAU/Qwen3.5-9B-The-Defiant-Fable-Uncensored-Heretic-NEO-IMATRIX-MAX-MTP-GGUF",
