@@ -1,6 +1,41 @@
 {
-  "updated": "2026-08-11T14:52:58Z",
+  "updated": "2026-08-11T16:53:26Z",
   "news": [
+    {
+      "title": "An unreleased Anthropic model made progress on one of math\u2019s biggest unsolved problems",
+      "url": "https://techcrunch.com/2026/08/11/an-unreleased-anthropic-model-made-progress-on-one-of-maths-biggest-unsolved-problems/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-08-11T16:25:20Z",
+      "snippet": "For more than 150 years, the Riemann hypothesis has stood as one of the major unsolved problems in mathematics. Anthropic hasn't solved it \u2014 but the company's models made more progress than you might "
+    },
+    {
+      "title": "Apple could help you prove your iPhone photos aren\u2019t deepfakes",
+      "url": "https://www.theverge.com/tech/977921/apple-reference-image-iphone-metadata",
+      "source": "The Verge",
+      "publishedAt": "2026-08-11T16:19:15Z",
+      "snippet": "Apple is seemingly developing an iOS feature that can verify when a photograph was taken using an iPhone camera. 9to5Mac reports that the iOS 27 beta 5 includes code references for an \"Apple Reference"
+    },
+    {
+      "title": "\u2018Zoomsday\u2019 hack uncovered using fewer than 20 AI prompts",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/977909/zoom-vulnerability-ai-attack",
+      "source": "The Verge",
+      "publishedAt": "2026-08-11T14:45:44Z",
+      "snippet": "Zoom has patched a major security vulnerability that could allow an attacker to hijack anyone's device during a meeting. In a blog post on Tuesday, researchers at A Security say they uncovered the fla"
+    },
+    {
+      "title": "Why your Amazon order confirmation emails have become so unhelpful",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/977733/amazon-order-emails-google-gmail-ai-agents-data",
+      "source": "The Verge",
+      "publishedAt": "2026-08-11T13:27:20Z",
+      "snippet": "Earlier this summer, Amazon customers began noticing that emails related to their online orders looked sparse: Order confirmation emails didn't name specific items anymore, and instead listed only ite"
+    },
+    {
+      "title": "Spotify says it won\u2019t recommend music from \u2018AI Personas\u2019",
+      "url": "https://www.theverge.com/entertainment/977815/spotify-ai-persona-label-recommendations",
+      "source": "The Verge",
+      "publishedAt": "2026-08-11T13:00:00Z",
+      "snippet": "Spotify will soon label AI artists and remove their music from your recommendations. The change, which will start rolling out in mid-September, means you'll see an \"AI Persona\" badge on an artist's pr"
+    },
     {
       "title": "Spotify will label \u2018AI Persona\u2019 profiles and exclude their music from recommendations",
       "url": "https://techcrunch.com/2026/08/11/spotify-will-label-ai-persona-profiles-and-exclude-their-music-from-recommendations/",
@@ -128,13 +163,6 @@
       "snippet": "AI agents are escaping cybersecurity testing environments and reaching real-world systems, raising questions about whether safety infrastructure, industry standards, and regulation can keep pace with "
     },
     {
-      "title": "AI detectors are creating a new era of distrust",
-      "url": "https://www.theverge.com/column/976690/ai-writing-detectors-suspicion",
-      "source": "The Verge",
-      "publishedAt": "2026-08-09T12:00:00Z",
-      "snippet": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more news about how AI is changing our daily lives, follow Emma Roth. The Stepback arrives in our s"
-    },
-    {
       "title": "Planned Amazon data center could become the biggest climate polluter in the US",
       "url": "https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/",
       "source": "TechCrunch",
@@ -147,34 +175,6 @@
       "source": "TechCrunch",
       "publishedAt": "2026-08-08T19:41:13Z",
       "snippet": "Founder Ahmed Beshry describes the startup\u2019s product as one \u201cthat could turn prompts, notes, documents, or research into a polished, editable presentation.\u201d"
-    },
-    {
-      "title": "An Amazon data center could have the worst polluting power plant in the country",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/977124/amazon-data-center-worst-polluting-power-plant",
-      "source": "The Verge",
-      "publishedAt": "2026-08-08T17:53:34Z",
-      "snippet": "To power its new West Texas data center, Amazon is investing in the construction of a new power plant that could be one of the largest single producers of greenhouse gases in the US, according to The "
-    },
-    {
-      "title": "OpenAI says it slowed Astra model development over security concerns",
-      "url": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-08-07T22:48:24Z",
-      "snippet": "OpenAI said this model, which is still in development, reached its \"critical cybersecurity threshold,\" meaning it could independently identify and carry out cyberattacks against traditionally well-pro"
-    },
-    {
-      "title": "Fenix Flexin isn\u2019t even denying using AI to make \u2018Rubberz\u2019 anymore",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/976801/fenix-flexin-rubberz-ai-song-treblo",
-      "source": "The Verge",
-      "publishedAt": "2026-08-07T20:01:51Z",
-      "snippet": "It took long enough, but now LA rapper Fenix Flexin appears to have admitted using AI for the 80s synth pop-themed song \"Rubberz.\" His comments follow the producer Medasin's videos claiming that an AI"
-    },
-    {
-      "title": "Watching Roku\u2019s AI channel is like eating from a trough",
-      "url": "https://www.theverge.com/entertainment/976939/roku-fairground-ai-fast-channel",
-      "source": "The Verge",
-      "publishedAt": "2026-08-07T18:59:46Z",
-      "snippet": "The appeal of free ad-supported streaming television (FAST) channels has always been the way they make it easier to (re)discover classic films and series. But Roku's latest experiment in the FAST spac"
     }
   ],
   "trending": [
@@ -194,24 +194,24 @@
       "downloads": 0
     },
     {
-      "id": "LiquidAI/LFM2.5-2.6B-GGUF",
-      "displayName": "LFM2.5 2.6B",
-      "downloads": 111942
-    },
-    {
       "id": "unsloth/DeepSeek-V4-Flash-0731-GGUF",
       "displayName": "DeepSeek V4 Flash 0731",
       "downloads": 207990
     },
     {
-      "id": "LuffyTheFox/Qwen3.6-35B-A3B-Uncensored-Genesis-Hermes-V7-GGUF",
-      "displayName": "Qwen3.6 35B A3B Uncensored Genesis Hermes V7",
-      "downloads": 436140
+      "id": "LiquidAI/LFM2.5-2.6B-GGUF",
+      "displayName": "LFM2.5 2.6B",
+      "downloads": 111942
     },
     {
       "id": "unsloth/MiniMax-H3-GGUF",
       "displayName": "MiniMax H3",
       "downloads": 781
+    },
+    {
+      "id": "LuffyTheFox/Qwen3.6-35B-A3B-Uncensored-Genesis-Hermes-V7-GGUF",
+      "displayName": "Qwen3.6 35B A3B Uncensored Genesis Hermes V7",
+      "downloads": 436140
     },
     {
       "id": "realrebelai/MiniMax-H3_GGUFs",
