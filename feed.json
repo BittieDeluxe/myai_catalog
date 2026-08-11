@@ -1,6 +1,13 @@
 {
-  "updated": "2026-08-11T20:37:46Z",
+  "updated": "2026-08-11T22:36:19Z",
   "news": [
+    {
+      "title": "Accel closes oversubscribed $550M India fund within weeks, 19 months after its last",
+      "url": "https://techcrunch.com/2026/08/11/accel-closes-oversubscribed-550m-india-fund-within-weeks-19-months-after-its-last/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-08-11T21:39:11Z",
+      "snippet": "The U.S. VC firm still has more than 55% of its previous $650 million India fund available for deployment."
+    },
     {
       "title": "ChatGPT and Gemini both just passed 1 billion users",
       "url": "https://www.theverge.com/ai-artificial-intelligence/978113/chatgpt-gemini-1-billion-users",
@@ -16,11 +23,11 @@
       "snippet": "OpenAI is finally bringing a dedicated ChatGPT desktop app to Linux operating systems."
     },
     {
-      "title": "Google\u2019s Gemini app surges to one billion users",
+      "title": "Google\u2019s Gemini app surges to 1 billion users",
       "url": "https://techcrunch.com/2026/08/11/googles-gemini-app-surges-to-one-billion-users/",
       "source": "TechCrunch",
       "publishedAt": "2026-08-11T18:49:12Z",
-      "snippet": "Gemini is keeping pace with OpenAI\u2019s ChatGPT, which hit 1 billion monthly active users back in June."
+      "snippet": "Google also shared numbers of how people are actually using the chatbot, with 63% of Gemini users talking directly to the assistant using the voice feature. Plus, Gemini now generates more than 150 mi"
     },
     {
       "title": "Another OpenAI executive takes off",
@@ -168,13 +175,6 @@
       "source": "TechCrunch",
       "publishedAt": "2026-08-09T20:35:17Z",
       "snippet": "The AI-focused hedge fund is still making some big bets."
-    },
-    {
-      "title": "Anthropic is turning Claude Code\u2019s auto mode on by default",
-      "url": "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-08-09T19:20:32Z",
-      "snippet": "Programming with Claude Code will soon require even less human oversight."
     }
   ],
   "trending": [
