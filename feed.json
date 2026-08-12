@@ -1,6 +1,41 @@
 {
-  "updated": "2026-08-12T16:53:00Z",
+  "updated": "2026-08-12T18:55:51Z",
   "news": [
+    {
+      "title": "AI coding startup Cognition reportedly already in talks to raise at $40B valuation",
+      "url": "https://techcrunch.com/2026/08/12/ai-coding-startup-cognition-reportedly-already-in-talks-to-raise-at-40b-valuation/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-08-12T18:19:12Z",
+      "snippet": "Cognition may be looking to raise another mega round just a few months after raising $1 billion at a $26 billion valuation."
+    },
+    {
+      "title": "As AI safety concerns mount, three pioneers make the case for staying open",
+      "url": "https://techcrunch.com/2026/08/12/as-ai-safety-concerns-mount-three-pioneers-make-the-case-for-staying-open/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-08-12T17:51:00Z",
+      "snippet": "At Ai4, three of the world's most respected AI experts\u2014Geoffrey Hinton, Fei-Fei Li, and Andrew Ng\u2014debated regulation, open-source access, and how America can compete as China advances in Asia."
+    },
+    {
+      "title": "OpenAI-backed Thrive Holdings raises $2B to bring AI to the enterprise",
+      "url": "https://techcrunch.com/2026/08/12/openai-backed-thrive-holdings-raises-2b-to-bring-ai-to-the-enterprise/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-08-12T17:41:29Z",
+      "snippet": "Thrive Holdings has raised $2 billion in new funding at a $12 billion valuation from investors like SoftBank, D1 Capital Partners, and Altimeter Capital."
+    },
+    {
+      "title": "Twitch streamers can now opt out from training Amazon\u2019s AI",
+      "url": "https://www.theverge.com/tech/979112/twitch-streamers-can-now-opt-out-from-training-amazons-ai",
+      "source": "The Verge",
+      "publishedAt": "2026-08-12T17:29:10Z",
+      "snippet": "Twitch users can now opt out of allowing their content to be used to train Amazon's generative AI models. Opting out means that \"your streams, VODs, clips, stream chats, and pictures and text on your "
+    },
+    {
+      "title": "Mesh, Automattic\u2019s CRM for everyone, comes to Android",
+      "url": "https://techcrunch.com/2026/08/12/mesh-automattics-crm-for-everyone-comes-to-android/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-08-12T16:57:58Z",
+      "snippet": "Mesh, an AI-powered contacts app and relationship manager from Automattic, is now an Android app."
+    },
     {
       "title": "Why Stream ring-maker Sandbar says the future of AI wearables is voice",
       "url": "https://techcrunch.com/video/why-stream-ring-maker-sandbar-says-the-future-of-ai-wearables-is-voice/",
@@ -135,46 +170,11 @@
       "snippet": "Google has revealed a bunch of new Pixel devices ahead of its Made by Google event. The colorful Pixel 11 lineup comes with upgraded cameras and performance, with the Pro models offering a built-in LE"
     },
     {
-      "title": "An unreleased Anthropic model made progress on one of math\u2019s biggest unsolved problems",
-      "url": "https://techcrunch.com/2026/08/11/an-unreleased-anthropic-model-made-progress-on-one-of-maths-biggest-unsolved-problems/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-08-11T16:25:20Z",
-      "snippet": "For more than 150 years, the Riemann hypothesis has stood as one of the major unsolved problems in mathematics. Anthropic hasn't solved it \u2014 but the company's models made more progress than you might "
-    },
-    {
       "title": "Apple could help you prove your iPhone photos aren\u2019t deepfakes",
       "url": "https://www.theverge.com/tech/977921/apple-reference-image-iphone-metadata",
       "source": "The Verge",
       "publishedAt": "2026-08-11T16:19:15Z",
       "snippet": "Apple is seemingly developing an iOS feature that can verify when a photograph was taken using an iPhone camera. 9to5Mac reports that the iOS 27 beta 5 includes code references for an \"Apple Reference"
-    },
-    {
-      "title": "\u2018Zoomsday\u2019 hack uncovered using fewer than 20 AI prompts",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/977909/zoom-vulnerability-ai-attack",
-      "source": "The Verge",
-      "publishedAt": "2026-08-11T14:45:44Z",
-      "snippet": "Zoom has patched a major security vulnerability that could allow an attacker to hijack anyone's device during a meeting. In a blog post on Tuesday, researchers at A Security say they uncovered the fla"
-    },
-    {
-      "title": "Spotify will label \u2018AI Persona\u2019 profiles and exclude their music from recommendations",
-      "url": "https://techcrunch.com/2026/08/11/spotify-will-label-ai-persona-profiles-and-exclude-their-music-from-recommendations/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-08-11T13:00:00Z",
-      "snippet": "Spotify is introducing \u201cAI Persona\u201d labels for artist profiles that represent AI-generated identities and will exclude their music from editorial, algorithmic, and personalized recommendations by defa"
-    },
-    {
-      "title": "Anthropic says it will watermark text generated by its AI models",
-      "url": "https://techcrunch.com/2026/08/11/anthropic-says-it-will-watermark-text-generated-by-its-ai-models/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-08-11T12:13:47Z",
-      "snippet": "Anthropic will extend support for watermarking AI generations for older models as well."
-    },
-    {
-      "title": "OpenAI reportedly completed a $7 billion employee tender offer",
-      "url": "https://techcrunch.com/2026/08/10/openai-reportedly-completed-a-7-billion-employee-tender-offer/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-08-11T00:03:18Z",
-      "snippet": "San Francisco's housing market is in trouble again."
     }
   ],
   "trending": [
