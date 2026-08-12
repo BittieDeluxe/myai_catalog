@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-12T07:17:13Z",
+  "updated": "2026-08-12T09:07:09Z",
   "news": [
     {
       "title": "Saber denies replacing Rideshare Stimulator\u2019s writers with ChatGPT",
@@ -219,14 +219,14 @@
       "downloads": 2012637
     },
     {
-      "id": "realrebelai/MiniMax-H3_GGUFs",
-      "displayName": "MiniMax H3_GGUFs",
-      "downloads": 195117
-    },
-    {
       "id": "DavidAU/Qwen3.5-9B-The-Defiant-Fable-Uncensored-Heretic-NEO-IMATRIX-MAX-MTP-GGUF",
       "displayName": "Qwen3.5 9B The Defiant Fable Uncensored Heretic NEO IMATRIX MAX MTP",
       "downloads": 419415
+    },
+    {
+      "id": "realrebelai/MiniMax-H3_GGUFs",
+      "displayName": "MiniMax H3_GGUFs",
+      "downloads": 195117
     }
   ]
 }
