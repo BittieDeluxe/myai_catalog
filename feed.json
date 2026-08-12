@@ -1,6 +1,13 @@
 {
-  "updated": "2026-08-11T22:36:19Z",
+  "updated": "2026-08-12T01:27:40Z",
   "news": [
+    {
+      "title": "Saber denies replacing Rideshare Stimulator\u2019s writers with ChatGPT",
+      "url": "https://www.theverge.com/games/978558/rideshare-stimulator-writer-ai-saber-interactive",
+      "source": "The Verge",
+      "publishedAt": "2026-08-12T00:39:26Z",
+      "snippet": "After a former lead writer claimed Saber \"replaced me with ChatGPT,\" CEO Matthew Karch now claims, \"Neither Saber nor Unigine have replaced any writers with AI,\" for the Rideshare \"Stimulator\" game an"
+    },
     {
       "title": "Accel closes oversubscribed $550M India fund within weeks, 19 months after its last",
       "url": "https://techcrunch.com/2026/08/11/accel-closes-oversubscribed-550m-india-fund-within-weeks-19-months-after-its-last/",
@@ -133,13 +140,6 @@
       "source": "TechCrunch",
       "publishedAt": "2026-08-10T23:56:15Z",
       "snippet": "OpenAI is expanding its AI cybersecurity defense program Daybreak, and rolling out a new cyber-trained AI model with it."
-    },
-    {
-      "title": "Mark Zuckerberg doesn\u2019t understand how to live",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/977623/mark-zuckerberg-ai-manifesto-dim-vision",
-      "source": "The Verge",
-      "publishedAt": "2026-08-10T22:00:00Z",
-      "snippet": "Recently, a man I was rock climbing with told me about how he'd used AI to make a motivational poster for himself, which he'd hung on his bedroom wall: a bear, walking a slackline over a canyon, holdi"
     },
     {
       "title": "Mark Zuckerberg\u2019s AI manifesto is exactly why people don\u2019t like AI",
