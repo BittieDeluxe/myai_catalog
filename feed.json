@@ -1,6 +1,20 @@
 {
-  "updated": "2026-08-12T12:57:47Z",
+  "updated": "2026-08-12T14:52:12Z",
   "news": [
+    {
+      "title": "Everything announced at Made by Google \u201926: Pixel 11, Pixel Watch 5, Pixel Tag, and tons of Gemini features",
+      "url": "https://techcrunch.com/2026/08/12/google-unveils-pixel-11-lineup-new-airtag-rival-and-gemini-features-at-made-by-google-2026/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-08-12T14:20:33Z",
+      "snippet": "From the Pixel 11 series and a brand new competitor to Apple\u2019s AirTag, here are all the announcements from the Made by Google 2026 event."
+    },
+    {
+      "title": "Google\u2019s Pixel Watch 5 dives deeper into AI and health",
+      "url": "https://www.theverge.com/tech/978094/pixel-watch-5-hands-on-made-by-google-gemini-wearables-smartwatch",
+      "source": "The Verge",
+      "publishedAt": "2026-08-12T14:00:00Z",
+      "snippet": "The $399 Google Pixel Watch 5 isn't about the hardware. Sure, there's a new satin pyrite case finish, a few new strap colors, and a Steph Curry Special Edition. Under the hood, there's a slightly fast"
+    },
     {
       "title": "Of course the ChatGPT dog cancer vaccine spawned a startup",
       "url": "https://www.theverge.com/ai-artificial-intelligence/978671/ai-cured-dog-cancer-mrna-vaccine-startup-gamgee",
@@ -83,7 +97,7 @@
       "url": "https://www.theverge.com/tech/977561/made-by-google-2026-pixel-11-news",
       "source": "The Verge",
       "publishedAt": "2026-08-11T17:00:00Z",
-      "snippet": "Google is gearing up to reveal a bunch of new Pixel devices on August 12th. A series of leaks leading up to the event suggest that the Pixel 11 lineup will come in an array of colors, with signs point"
+      "snippet": "Google has revealed a bunch of new Pixel devices ahead of its Made by Google event. The colorful Pixel 11 lineup comes with upgraded cameras and performance, with the Pro models offering a built-in LE"
     },
     {
       "title": "An unreleased Anthropic model made progress on one of math\u2019s biggest unsolved problems",
@@ -112,13 +126,6 @@
       "source": "The Verge",
       "publishedAt": "2026-08-11T13:27:20Z",
       "snippet": "Earlier this summer, Amazon customers began noticing that emails related to their online orders looked sparse: Order confirmation emails didn't name specific items anymore, and instead listed only ite"
-    },
-    {
-      "title": "Spotify says it won\u2019t recommend music from \u2018AI Personas\u2019",
-      "url": "https://www.theverge.com/entertainment/977815/spotify-ai-persona-label-recommendations",
-      "source": "The Verge",
-      "publishedAt": "2026-08-11T13:00:00Z",
-      "snippet": "Spotify will soon label AI artists and remove their music from your recommendations. The change, which will start rolling out in mid-September, means you'll see an \"AI Persona\" badge on an artist's pr"
     },
     {
       "title": "Spotify will label \u2018AI Persona\u2019 profiles and exclude their music from recommendations",
@@ -168,25 +175,18 @@
       "source": "TechCrunch",
       "publishedAt": "2026-08-10T16:20:13Z",
       "snippet": "Meta\u2019s new open-weight Muse Glimmer model offers a glimpse of Mark Zuckerberg\u2019s personal superintelligence vision, as well as  the emerging divide between AI users can own and access."
-    },
-    {
-      "title": "Discovered Materials is playing AI whack-a-mole to hunt cooler chips",
-      "url": "https://techcrunch.com/2026/08/10/discovered-materials-is-playing-ai-whack-a-mole-to-hunt-cooler-chips/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-08-10T12:00:00Z",
-      "snippet": "Discovered Materials raised $9 million to fund the hunt for more novel materials to build more efficient chips."
     }
   ],
   "trending": [
     {
-      "id": "DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
-      "displayName": "Qwen3.6 27B Fable Fusion 711 Uncensored Heretic NM DAU NEO MAX MTP",
-      "downloads": 2521093
-    },
-    {
       "id": "unsloth/Muse-Glimmer-30B-GGUF",
       "displayName": "Muse Glimmer 30B",
       "downloads": 0
+    },
+    {
+      "id": "DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
+      "displayName": "Qwen3.6 27B Fable Fusion 711 Uncensored Heretic NM DAU NEO MAX MTP",
+      "downloads": 2521093
     },
     {
       "id": "meta-models/Muse-Glimmer-30B-GGUF",
