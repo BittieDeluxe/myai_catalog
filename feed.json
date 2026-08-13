@@ -1,12 +1,40 @@
 {
-  "updated": "2026-08-13T18:56:23Z",
+  "updated": "2026-08-13T20:36:58Z",
   "news": [
+    {
+      "title": "Databricks wanted to raise $1B, investors wanted $15B. It settled on $5B at a $190B valuation.",
+      "url": "https://techcrunch.com/2026/08/13/databricks-wanted-to-raise-1b-investors-wanted-15b-it-settled-on-5b-at-a-190b-valuation/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-08-13T20:14:39Z",
+      "snippet": "AI is expensive, Ali Ghodsi tells TechCrunch. With so many investors wanting into his latest round, he said yes to more than planned."
+    },
+    {
+      "title": "OpenAI is losing its second executive this week",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/979815/openai-denise-dresser-leaving-executive-departure",
+      "source": "The Verge",
+      "publishedAt": "2026-08-13T19:28:39Z",
+      "snippet": "Another OpenAI executive is departing. Denise Dresser, who joined OpenAI as its chief revenue officer in December after serving as CEO of Slack, will be leaving in the \"coming weeks\" to \"pursue other "
+    },
+    {
+      "title": "OpenAI introduces \u2018Ultrafast,\u2019 a new mode that makes GPT-5.6 Sol work at 14x the speed",
+      "url": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-08-13T19:22:40Z",
+      "snippet": "OpenAI is launching a preview of a sped up version of its latest, most powerful model, in an effort to court enterprise users."
+    },
+    {
+      "title": "IBM partners with OpenAI to bolster enterprise AI push",
+      "url": "https://techcrunch.com/2026/08/13/ibm-partners-with-openai-to-bolster-enterprise-ai-push/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-08-13T19:19:49Z",
+      "snippet": "IBM plans to train and certify tens of thousands of consultants on OpenAI's technologies as part of this deal."
+    },
     {
       "title": "Anthropic set AI agents loose on the same task. They started a turf war.",
       "url": "https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/",
       "source": "TechCrunch",
       "publishedAt": "2026-08-13T18:28:14Z",
-      "snippet": "Anthropic researchers found AI agents can clash, collude and coordinate in unexpected ways, raising new questions about whether today\u2019s safety tests capture the risks of multi-agent systems."
+      "snippet": "Anthropic researchers found AI agents can clash, collude, and coordinate in unexpected ways, raising new questions about whether today\u2019s safety tests capture the risks of multi-agent systems."
     },
     {
       "title": "OpenAI hires new CRO as executive shake-up continues",
@@ -121,32 +149,11 @@
       "snippet": "AI notetaking hardware has taken off over the past couple of years, with credit-card-sized devices, pendants, pins, and even transcribing earbuds all promising to capture your meetings and turn them i"
     },
     {
-      "title": "Lovable confirms new $13.3B valuation, raises another $400M",
-      "url": "https://techcrunch.com/2026/08/12/lovable-confirms-new-13-3b-valuation-raises-another-400m/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-08-12T16:04:27Z",
-      "snippet": "This new funding comes after Lovable hit $500 million in annualized run rate revenue in June, the startup told TechCrunch."
-    },
-    {
       "title": "Guitar company D\u2019Addario admits that AI music was used in a promotional video",
       "url": "https://www.theverge.com/ai-artificial-intelligence/978982/daddario-guitar-ai-music-suno",
       "source": "The Verge",
       "publishedAt": "2026-08-12T15:52:07Z",
       "snippet": "After weeks of controversy and speculation, music company D'Addario has admitted that AI, specifically Suno, was used as part of a recent promotional video. For nearly two weeks, the company has denie"
-    },
-    {
-      "title": "How a $250 million acquisition collapsed into allegations of fraud and forged signatures",
-      "url": "https://techcrunch.com/2026/08/12/how-a-250-million-acquisition-collapsed-into-allegations-of-fraud-and-forged-signatures/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-08-12T15:44:56Z",
-      "snippet": "Investors are still waiting for their share of the $250 million windfall, and VideoVerse co-founder Vinayak Shrivastav is now at the center of multiple legal cases."
-    },
-    {
-      "title": "Why Sandbar thinks it\u2019s voice-enabled ring can avoid the AI hardware graveyard",
-      "url": "https://techcrunch.com/podcast/why-sandbar-thinks-its-voice-enabled-ring-can-avoid-the-ai-hardware-graveyard/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-08-12T14:22:00Z",
-      "snippet": "AI notetaking hardware has taken off over the past couple of years, with credit-card-sized devices, pendants, pins, and even transcribing earbuds all promising to capture your meetings and turn them i"
     },
     {
       "title": "Google\u2019s Pixel Watch 5 dives deeper into AI and health",
@@ -168,13 +175,6 @@
       "source": "The Verge",
       "publishedAt": "2026-08-12T11:58:54Z",
       "snippet": "SpaceXAI has introduced Grok Bot, an always-on AI agent service designed to behave like independent \"AI teammates\" that can do your work for you. The bots share their own cloud-based computer environm"
-    },
-    {
-      "title": "Saber denies replacing Rideshare Stimulator\u2019s writers with ChatGPT",
-      "url": "https://www.theverge.com/games/978558/rideshare-stimulator-writer-ai-saber-interactive",
-      "source": "The Verge",
-      "publishedAt": "2026-08-12T00:39:26Z",
-      "snippet": "After a former lead writer claimed Saber \"replaced me with ChatGPT,\" CEO Matthew Karch now claims, \"Neither Saber nor Unigine have replaced any writers with AI,\" for the Rideshare \"Stimulator\" game an"
     }
   ],
   "trending": [
