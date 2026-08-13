@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-13T10:57:20Z",
+  "updated": "2026-08-13T12:59:00Z",
   "news": [
     {
       "title": "Some Claude users are mad that Anthropic\u2019s new watermarks will catch them using it at their jobs, classes",
@@ -194,14 +194,14 @@
       "downloads": 136783
     },
     {
-      "id": "unsloth/DeepSeek-V4-Flash-0731-GGUF",
-      "displayName": "DeepSeek V4 Flash 0731",
-      "downloads": 268762
-    },
-    {
       "id": "unsloth/MiniMax-H3-GGUF",
       "displayName": "MiniMax H3",
       "downloads": 111222
+    },
+    {
+      "id": "unsloth/DeepSeek-V4-Flash-0731-GGUF",
+      "displayName": "DeepSeek V4 Flash 0731",
+      "downloads": 268762
     },
     {
       "id": "LiquidAI/LFM2.5-2.6B-GGUF",
