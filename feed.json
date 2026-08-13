@@ -1,6 +1,20 @@
 {
-  "updated": "2026-08-13T20:36:58Z",
+  "updated": "2026-08-13T22:36:03Z",
   "news": [
+    {
+      "title": "Microsoft\u2019s Clippy-like Mico character is no longer the face of Copilot",
+      "url": "https://www.theverge.com/tech/979871/microsoft-copilot-mico-retired",
+      "source": "The Verge",
+      "publishedAt": "2026-08-13T21:42:38Z",
+      "snippet": "Microsoft Copilot will no longer show its emotive yellow blob, Mico, when you use the chatbot's voice mode. In a support page, Microsoft says it's going to move Mico to its Learn Live platform, where "
+    },
+    {
+      "title": "Writer introduces new AI model and upgraded harness to contain token costs",
+      "url": "https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-08-13T21:13:24Z",
+      "snippet": "Built as a post-training variation on Z.ai's open source model GLM-5.2, Writer says the new system should provide deployment-ready capabilities at a much lower price."
+    },
     {
       "title": "Databricks wanted to raise $1B, investors wanted $15B. It settled on $5B at a $190B valuation.",
       "url": "https://techcrunch.com/2026/08/13/databricks-wanted-to-raise-1b-investors-wanted-15b-it-settled-on-5b-at-a-190b-valuation/",
@@ -41,7 +55,7 @@
       "url": "https://techcrunch.com/2026/08/13/openai-hires-new-cro-as-executive-shake-up-continues/",
       "source": "TechCrunch",
       "publishedAt": "2026-08-13T17:07:13Z",
-      "snippet": "Dali Rajic will take over as OpenAI's top salesperson."
+      "snippet": "OpenAI has replaced chief revenue officer Denise Dresser after just nine months on the job, tapping Wiz president and chief operating officer Dali Rajic to take on frontier lab's top sales job."
     },
     {
       "title": "Suno is trying to look more like a real music production tool",
@@ -142,13 +156,6 @@
       "snippet": "Mesh, an AI-powered contacts app and relationship manager from Automattic, is now an Android app."
     },
     {
-      "title": "Why Stream ring-maker Sandbar says the future of AI wearables is voice",
-      "url": "https://techcrunch.com/video/why-stream-ring-maker-sandbar-says-the-future-of-ai-wearables-is-voice/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-08-12T16:46:02Z",
-      "snippet": "AI notetaking hardware has taken off over the past couple of years, with credit-card-sized devices, pendants, pins, and even transcribing earbuds all promising to capture your meetings and turn them i"
-    },
-    {
       "title": "Guitar company D\u2019Addario admits that AI music was used in a promotional video",
       "url": "https://www.theverge.com/ai-artificial-intelligence/978982/daddario-guitar-ai-music-suno",
       "source": "The Verge",
@@ -168,13 +175,6 @@
       "source": "The Verge",
       "publishedAt": "2026-08-12T12:09:34Z",
       "snippet": "Remember that much-hyped story about an Australian tech entrepreneur using ChatGPT, Grok, and other AI tools to craft a personalized cancer vaccine for his dog? Well, surprise: He's launched a startup"
-    },
-    {
-      "title": "Grok is now an AI \u2018teammate\u2019 you can assign work",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/978666/spacexai-grok-bot-ai-agent-beta-launch",
-      "source": "The Verge",
-      "publishedAt": "2026-08-12T11:58:54Z",
-      "snippet": "SpaceXAI has introduced Grok Bot, an always-on AI agent service designed to behave like independent \"AI teammates\" that can do your work for you. The bots share their own cloud-based computer environm"
     }
   ],
   "trending": [
