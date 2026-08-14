@@ -1,6 +1,13 @@
 {
-  "updated": "2026-08-14T09:02:49Z",
+  "updated": "2026-08-14T10:54:17Z",
   "news": [
+    {
+      "title": "Apple trained its own AI model for China with help from Alibaba",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/980160/apple-intelligence-china-custom-ai-model-alibaba",
+      "source": "The Verge",
+      "publishedAt": "2026-08-14T09:21:17Z",
+      "snippet": "Apple has reportedly trained a custom AI model for the China market alongside domestic tech giant Alibaba, a rare cross-border partnership that cuts across growing tensions between Beijing and Washing"
+    },
     {
       "title": "Microsoft\u2019s Clippy-like Mico character is no longer the face of Copilot",
       "url": "https://www.theverge.com/tech/979871/microsoft-copilot-mico-retired",
@@ -168,13 +175,6 @@
       "source": "The Verge",
       "publishedAt": "2026-08-12T14:00:00Z",
       "snippet": "The $399 Google Pixel Watch 5 isn't about the hardware. Sure, there's a new satin pyrite case finish, a few new strap colors, and a Steph Curry Special Edition. Under the hood, there's a slightly fast"
-    },
-    {
-      "title": "Of course the ChatGPT dog cancer vaccine spawned a startup",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/978671/ai-cured-dog-cancer-mrna-vaccine-startup-gamgee",
-      "source": "The Verge",
-      "publishedAt": "2026-08-12T12:09:34Z",
-      "snippet": "Remember that much-hyped story about an Australian tech entrepreneur using ChatGPT, Grok, and other AI tools to craft a personalized cancer vaccine for his dog? Well, surprise: He's launched a startup"
     }
   ],
   "trending": [
