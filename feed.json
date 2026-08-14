@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-14T10:54:17Z",
+  "updated": "2026-08-14T12:55:27Z",
   "news": [
     {
       "title": "Apple trained its own AI model for China with help from Alibaba",
@@ -199,14 +199,14 @@
       "downloads": 136774
     },
     {
-      "id": "unsloth/DeepSeek-V4-Flash-0731-GGUF",
-      "displayName": "DeepSeek V4 Flash 0731",
-      "downloads": 289560
-    },
-    {
       "id": "unsloth/Qwen3.8-2.4T-A95B-GGUF",
       "displayName": "Qwen3.8 2.4T A95B",
       "downloads": 8573
+    },
+    {
+      "id": "unsloth/DeepSeek-V4-Flash-0731-GGUF",
+      "displayName": "DeepSeek V4 Flash 0731",
+      "downloads": 289560
     },
     {
       "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
