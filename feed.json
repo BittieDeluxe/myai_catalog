@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-14T07:16:53Z",
+  "updated": "2026-08-14T09:02:49Z",
   "news": [
     {
       "title": "Microsoft\u2019s Clippy-like Mico character is no longer the face of Copilot",
@@ -181,52 +181,52 @@
     {
       "id": "unsloth/Muse-Glimmer-30B-GGUF",
       "displayName": "Muse Glimmer 30B",
-      "downloads": 352023
+      "downloads": 596774
     },
     {
       "id": "DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
       "displayName": "Qwen3.6 27B Fable Fusion 711 Uncensored Heretic NM DAU NEO MAX MTP",
-      "downloads": 2793115
+      "downloads": 2891524
     },
     {
       "id": "meta-models/Muse-Glimmer-30B-GGUF",
       "displayName": "Muse Glimmer 30B",
-      "downloads": 136783
+      "downloads": 228364
     },
     {
       "id": "unsloth/MiniMax-H3-GGUF",
       "displayName": "MiniMax H3",
-      "downloads": 111222
+      "downloads": 136774
     },
     {
       "id": "unsloth/DeepSeek-V4-Flash-0731-GGUF",
       "displayName": "DeepSeek V4 Flash 0731",
-      "downloads": 268762
+      "downloads": 289560
     },
     {
       "id": "unsloth/Qwen3.8-2.4T-A95B-GGUF",
       "displayName": "Qwen3.8 2.4T A95B",
-      "downloads": 0
+      "downloads": 8573
     },
     {
       "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
       "displayName": "Qwen3.6 35B A3B Uncensored HauhauCS Aggressive",
-      "downloads": 2220086
+      "downloads": 2332009
     },
     {
       "id": "LiquidAI/LFM2.5-2.6B-GGUF",
       "displayName": "LFM2.5 2.6B",
-      "downloads": 204103
+      "downloads": 245691
     },
     {
       "id": "DavidAU/Qwen3.5-9B-The-Defiant-Fable-Uncensored-Heretic-NEO-IMATRIX-MAX-MTP-GGUF",
       "displayName": "Qwen3.5 9B The Defiant Fable Uncensored Heretic NEO IMATRIX MAX MTP",
-      "downloads": 507532
+      "downloads": 555602
     },
     {
-      "id": "LuffyTheFox/Qwen3.6-35B-A3B-Uncensored-Genesis-Hermes-V7-GGUF",
-      "displayName": "Qwen3.6 35B A3B Uncensored Genesis Hermes V7",
-      "downloads": 615195
+      "id": "peculiar-ragdoll/Nail-Qwen3.6-35B-A3B-GGUF",
+      "displayName": "Nail Qwen3.6 35B A3B",
+      "downloads": 9686
     }
   ]
 }
