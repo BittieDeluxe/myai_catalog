@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-14T01:28:30Z",
+  "updated": "2026-08-14T04:03:19Z",
   "news": [
     {
       "title": "Microsoft\u2019s Clippy-like Mico character is no longer the face of Copilot",
@@ -209,24 +209,24 @@
       "downloads": 0
     },
     {
-      "id": "LiquidAI/LFM2.5-2.6B-GGUF",
-      "displayName": "LFM2.5 2.6B",
-      "downloads": 204103
-    },
-    {
       "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
       "displayName": "Qwen3.6 35B A3B Uncensored HauhauCS Aggressive",
       "downloads": 2220086
     },
     {
-      "id": "LuffyTheFox/Qwen3.6-35B-A3B-Uncensored-Genesis-Hermes-V7-GGUF",
-      "displayName": "Qwen3.6 35B A3B Uncensored Genesis Hermes V7",
-      "downloads": 615195
+      "id": "LiquidAI/LFM2.5-2.6B-GGUF",
+      "displayName": "LFM2.5 2.6B",
+      "downloads": 204103
     },
     {
       "id": "DavidAU/Qwen3.5-9B-The-Defiant-Fable-Uncensored-Heretic-NEO-IMATRIX-MAX-MTP-GGUF",
       "displayName": "Qwen3.5 9B The Defiant Fable Uncensored Heretic NEO IMATRIX MAX MTP",
       "downloads": 507532
+    },
+    {
+      "id": "LuffyTheFox/Qwen3.6-35B-A3B-Uncensored-Genesis-Hermes-V7-GGUF",
+      "displayName": "Qwen3.6 35B A3B Uncensored Genesis Hermes V7",
+      "downloads": 615195
     }
   ]
 }
