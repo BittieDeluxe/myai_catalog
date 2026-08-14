@@ -1,6 +1,13 @@
 {
-  "updated": "2026-08-14T16:48:31Z",
+  "updated": "2026-08-14T18:46:17Z",
   "news": [
+    {
+      "title": "Mark Zuckerberg has an Instagzam",
+      "url": "https://www.theverge.com/podcast/980367/instagram-logo-new-zuckerberg-ai-vergecast",
+      "source": "The Verge",
+      "publishedAt": "2026-08-14T16:54:16Z",
+      "snippet": "Instagram's wordmark is iconic. Well, was iconic. Apparently Instagram thought it looked old, so the company rolled out a new one this week. It doesn't look like the old Instagram wordmark. It doesn't"
+    },
     {
       "title": "You can now turn off Google Gemini\u2019s visible watermarks",
       "url": "https://www.theverge.com/tech/980416/google-gemini-ai-watermarks-removal",
@@ -13,7 +20,7 @@
       "url": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/",
       "source": "TechCrunch",
       "publishedAt": "2026-08-14T16:13:40Z",
-      "snippet": "Turning off this setting won't affect invisible benchmarks used to identify an AI generated file"
+      "snippet": "Turning off this setting won't affect invisible benchmarks used to identify an AI generated file."
     },
     {
       "title": "Does Mark Zuckerberg really believe AI is \u2018for everyone\u2019?",
@@ -168,13 +175,6 @@
       "source": "The Verge",
       "publishedAt": "2026-08-12T17:29:10Z",
       "snippet": "Twitch users can now opt out of allowing their content to be used to train Amazon's generative AI models. Opting out means that \"your streams, VODs, clips, stream chats, and pictures and text on your "
-    },
-    {
-      "title": "Guitar company D\u2019Addario admits that AI music was used in a promotional video",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/978982/daddario-guitar-ai-music-suno",
-      "source": "The Verge",
-      "publishedAt": "2026-08-12T15:52:07Z",
-      "snippet": "After weeks of controversy and speculation, music company D'Addario has admitted that AI, specifically Suno, was used as part of a recent promotional video. For nearly two weeks, the company has denie"
     }
   ],
   "trending": [
@@ -219,14 +219,14 @@
       "downloads": 2332009
     },
     {
-      "id": "LiquidAI/LFM2.5-2.6B-GGUF",
-      "displayName": "LFM2.5 2.6B",
-      "downloads": 245691
-    },
-    {
       "id": "DavidAU/Qwen3.5-9B-The-Defiant-Fable-Uncensored-Heretic-NEO-IMATRIX-MAX-MTP-GGUF",
       "displayName": "Qwen3.5 9B The Defiant Fable Uncensored Heretic NEO IMATRIX MAX MTP",
       "downloads": 555602
+    },
+    {
+      "id": "LiquidAI/LFM2.5-2.6B-GGUF",
+      "displayName": "LFM2.5 2.6B",
+      "downloads": 245691
     }
   ]
 }
