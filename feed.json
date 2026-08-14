@@ -1,12 +1,47 @@
 {
-  "updated": "2026-08-14T14:46:10Z",
+  "updated": "2026-08-14T16:48:31Z",
   "news": [
+    {
+      "title": "You can now turn off Google Gemini\u2019s visible watermarks",
+      "url": "https://www.theverge.com/tech/980416/google-gemini-ai-watermarks-removal",
+      "source": "The Verge",
+      "publishedAt": "2026-08-14T16:39:32Z",
+      "snippet": "Google will now allow you to remove visible watermarks from the images, videos, and music made with AI tools. With the update, you can toggle off a new \"Media watermark\" setting in Gemini and Google's"
+    },
+    {
+      "title": "Google will now allow users to remove visible watermark from its AI generations",
+      "url": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-08-14T16:13:40Z",
+      "snippet": "Turning off this setting won't affect invisible benchmarks used to identify an AI generated file"
+    },
+    {
+      "title": "Does Mark Zuckerberg really believe AI is \u2018for everyone\u2019?",
+      "url": "https://techcrunch.com/video/does-mark-zuckerberg-really-believe-ai-is-for-everyone/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-08-14T15:43:28Z",
+      "snippet": "Meta released Glimmer this week, an open-weight AI model anyone can download and run on their own hardware \u2014 a contrast to Muse Spark, the company\u2019s more powerful model that stays locked behind its ow"
+    },
+    {
+      "title": "Kog is going deeper to squeeze more inference out of GPUs",
+      "url": "https://techcrunch.com/2026/08/14/kog-is-going-deeper-to-squeeze-more-inference-out-of-gpus/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-08-14T14:50:11Z",
+      "snippet": "The idea that GPUs are poorly suited for agentic workflows may be a misconception, according to French startup Kog."
+    },
     {
       "title": "Hyperscalers might regret embracing natural gas if new forecast proves correct",
       "url": "https://techcrunch.com/2026/08/14/hyperscalers-might-regret-embracing-natural-gas-if-new-forecast-proves-correct/",
       "source": "TechCrunch",
       "publishedAt": "2026-08-14T14:05:00Z",
       "snippet": "Natural gas prices could triple in some parts of the U.S., which could saddle hyperscalers with massive bills to power their AI data centers."
+    },
+    {
+      "title": "Meta\u2019s \u2018open\u2019 AI, and a $250M deal gone very wrong",
+      "url": "https://techcrunch.com/podcast/metas-open-ai-and-a-250m-deal-gone-very-wrong/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-08-14T14:00:00Z",
+      "snippet": "Meta released Glimmer this week, an open-weight AI model anyone can download and run on their own hardware \u2014 a contrast to Muse Spark, the company\u2019s more powerful model that stays locked behind its ow"
     },
     {
       "title": "Apple trained its own AI model for China with help from Alibaba",
@@ -128,34 +163,6 @@
       "snippet": "Is Anthropic's new watermarking system a travesty? Some have taken to social media to complain that it is."
     },
     {
-      "title": "Amazon will train on Twitch streamers\u2019 content by default, unless they opt out",
-      "url": "https://techcrunch.com/2026/08/12/amazon-will-train-on-twitch-streamers-content-by-default-unless-they-opt-out/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-08-12T20:10:40Z",
-      "snippet": "\"If this was opt-in, nobody would opt in,\" Twitch CPO Mike Minton said on a livestream responding to user feedback. \"That's honestly the answer.\""
-    },
-    {
-      "title": "AI coding startup Cognition reportedly already in talks to raise at $40B valuation",
-      "url": "https://techcrunch.com/2026/08/12/ai-coding-startup-cognition-reportedly-already-in-talks-to-raise-at-40b-valuation/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-08-12T18:19:12Z",
-      "snippet": "Cognition may be looking to raise another mega round just a few months after raising $1 billion at a $26 billion valuation."
-    },
-    {
-      "title": "As AI safety concerns mount, three pioneers make the case for staying open",
-      "url": "https://techcrunch.com/2026/08/12/as-ai-safety-concerns-mount-three-pioneers-make-the-case-for-staying-open/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-08-12T17:51:00Z",
-      "snippet": "At Ai4, three of the world's most respected AI experts \u2014 Geoffrey Hinton, Fei-Fei Li, and Andrew Ng \u2014 debated regulation, open source access, and how America can compete as China advances in Asia."
-    },
-    {
-      "title": "OpenAI-backed Thrive Holdings raises $2B to bring AI to the enterprise",
-      "url": "https://techcrunch.com/2026/08/12/openai-backed-thrive-holdings-raises-2b-to-bring-ai-to-the-enterprise/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-08-12T17:41:29Z",
-      "snippet": "Thrive Holdings has raised $2 billion in new funding at a $12 billion valuation from investors like SoftBank, D1 Capital Partners, and Altimeter Capital."
-    },
-    {
       "title": "Twitch streamers can now opt out from training Amazon\u2019s AI",
       "url": "https://www.theverge.com/tech/979112/twitch-streamers-can-now-opt-out-from-training-amazons-ai",
       "source": "The Verge",
@@ -168,16 +175,14 @@
       "source": "The Verge",
       "publishedAt": "2026-08-12T15:52:07Z",
       "snippet": "After weeks of controversy and speculation, music company D'Addario has admitted that AI, specifically Suno, was used as part of a recent promotional video. For nearly two weeks, the company has denie"
-    },
-    {
-      "title": "Google\u2019s Pixel Watch 5 dives deeper into AI and health",
-      "url": "https://www.theverge.com/tech/978094/pixel-watch-5-hands-on-made-by-google-gemini-wearables-smartwatch",
-      "source": "The Verge",
-      "publishedAt": "2026-08-12T14:00:00Z",
-      "snippet": "The $399 Google Pixel Watch 5 isn't about the hardware. Sure, there's a new satin pyrite case finish, a few new strap colors, and a Steph Curry Special Edition. Under the hood, there's a slightly fast"
     }
   ],
   "trending": [
+    {
+      "id": "unsloth/Qwen3.8-27B-GGUF",
+      "displayName": "Qwen3.8 27B",
+      "downloads": 0
+    },
     {
       "id": "unsloth/Muse-Glimmer-30B-GGUF",
       "displayName": "Muse Glimmer 30B",
@@ -222,11 +227,6 @@
       "id": "DavidAU/Qwen3.5-9B-The-Defiant-Fable-Uncensored-Heretic-NEO-IMATRIX-MAX-MTP-GGUF",
       "displayName": "Qwen3.5 9B The Defiant Fable Uncensored Heretic NEO IMATRIX MAX MTP",
       "downloads": 555602
-    },
-    {
-      "id": "peculiar-ragdoll/Nail-Qwen3.6-35B-A3B-GGUF",
-      "displayName": "Nail Qwen3.6 35B A3B",
-      "downloads": 9686
     }
   ]
 }
