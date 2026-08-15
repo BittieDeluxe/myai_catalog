@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-15T10:17:05Z",
+  "updated": "2026-08-15T12:28:11Z",
   "news": [
     {
       "title": "Mark Zuckerberg has an Instagzam",
@@ -189,14 +189,14 @@
       "downloads": 682188
     },
     {
-      "id": "meta-models/Muse-Glimmer-30B-GGUF",
-      "displayName": "Muse Glimmer 30B",
-      "downloads": 321049
-    },
-    {
       "id": "DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
       "displayName": "Qwen3.6 27B Fable Fusion 711 Uncensored Heretic NM DAU NEO MAX MTP",
       "downloads": 2983500
+    },
+    {
+      "id": "meta-models/Muse-Glimmer-30B-GGUF",
+      "displayName": "Muse Glimmer 30B",
+      "downloads": 321049
     },
     {
       "id": "unsloth/MiniMax-H3-GGUF",
@@ -224,9 +224,9 @@
       "downloads": 639475
     },
     {
-      "id": "LiquidAI/LFM2.5-2.6B-GGUF",
-      "displayName": "LFM2.5 2.6B",
-      "downloads": 285661
+      "id": "HauhauCS/Qwen3.6-27B-Uncensored-HauhauCS-Aggressive",
+      "displayName": "Qwen3.6 27B Uncensored HauhauCS Aggressive",
+      "downloads": 353725
     }
   ]
 }
