@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-15T14:16:44Z",
+  "updated": "2026-08-15T16:18:23Z",
   "news": [
     {
       "title": "Mark Zuckerberg has an Instagzam",
@@ -209,24 +209,24 @@
       "downloads": 12028
     },
     {
-      "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
-      "displayName": "Qwen3.6 35B A3B Uncensored HauhauCS Aggressive",
-      "downloads": 2472324
-    },
-    {
       "id": "JonathanColetti/Qwen3.8-27B-Uncensored-GGUF",
       "displayName": "Qwen3.8 27B Uncensored",
       "downloads": 24549
     },
     {
-      "id": "unsloth/DeepSeek-V4-Flash-0731-GGUF",
-      "displayName": "DeepSeek V4 Flash 0731",
-      "downloads": 306443
+      "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
+      "displayName": "Qwen3.6 35B A3B Uncensored HauhauCS Aggressive",
+      "downloads": 2472324
     },
     {
       "id": "DavidAU/Qwen3.5-9B-The-Defiant-Fable-Uncensored-Heretic-NEO-IMATRIX-MAX-MTP-GGUF",
       "displayName": "Qwen3.5 9B The Defiant Fable Uncensored Heretic NEO IMATRIX MAX MTP",
       "downloads": 639475
+    },
+    {
+      "id": "unsloth/DeepSeek-V4-Flash-0731-GGUF",
+      "displayName": "DeepSeek V4 Flash 0731",
+      "downloads": 306443
     }
   ]
 }
