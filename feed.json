@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-15T08:21:26Z",
+  "updated": "2026-08-15T10:17:05Z",
   "news": [
     {
       "title": "Mark Zuckerberg has an Instagzam",
@@ -181,52 +181,52 @@
     {
       "id": "unsloth/Qwen3.8-27B-GGUF",
       "displayName": "Qwen3.8 27B",
-      "downloads": 0
+      "downloads": 867963
     },
     {
       "id": "unsloth/Muse-Glimmer-30B-GGUF",
       "displayName": "Muse Glimmer 30B",
-      "downloads": 596774
-    },
-    {
-      "id": "DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
-      "displayName": "Qwen3.6 27B Fable Fusion 711 Uncensored Heretic NM DAU NEO MAX MTP",
-      "downloads": 2891524
+      "downloads": 682188
     },
     {
       "id": "meta-models/Muse-Glimmer-30B-GGUF",
       "displayName": "Muse Glimmer 30B",
-      "downloads": 228364
+      "downloads": 321049
+    },
+    {
+      "id": "DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
+      "displayName": "Qwen3.6 27B Fable Fusion 711 Uncensored Heretic NM DAU NEO MAX MTP",
+      "downloads": 2983500
     },
     {
       "id": "unsloth/MiniMax-H3-GGUF",
       "displayName": "MiniMax H3",
-      "downloads": 136774
+      "downloads": 173741
     },
     {
       "id": "unsloth/Qwen3.8-2.4T-A95B-GGUF",
       "displayName": "Qwen3.8 2.4T A95B",
-      "downloads": 8573
-    },
-    {
-      "id": "unsloth/DeepSeek-V4-Flash-0731-GGUF",
-      "displayName": "DeepSeek V4 Flash 0731",
-      "downloads": 289560
+      "downloads": 12028
     },
     {
       "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
       "displayName": "Qwen3.6 35B A3B Uncensored HauhauCS Aggressive",
-      "downloads": 2332009
+      "downloads": 2472324
+    },
+    {
+      "id": "unsloth/DeepSeek-V4-Flash-0731-GGUF",
+      "displayName": "DeepSeek V4 Flash 0731",
+      "downloads": 306443
     },
     {
       "id": "DavidAU/Qwen3.5-9B-The-Defiant-Fable-Uncensored-Heretic-NEO-IMATRIX-MAX-MTP-GGUF",
       "displayName": "Qwen3.5 9B The Defiant Fable Uncensored Heretic NEO IMATRIX MAX MTP",
-      "downloads": 555602
+      "downloads": 639475
     },
     {
       "id": "LiquidAI/LFM2.5-2.6B-GGUF",
       "displayName": "LFM2.5 2.6B",
-      "downloads": 245691
+      "downloads": 285661
     }
   ]
 }
