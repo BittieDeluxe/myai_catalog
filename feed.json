@@ -1,6 +1,13 @@
 {
-  "updated": "2026-08-15T18:21:08Z",
+  "updated": "2026-08-15T20:16:44Z",
   "news": [
+    {
+      "title": "Anthropic shares more details about how Claude\u2019s new watermarks will work",
+      "url": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-08-15T18:58:39Z",
+      "snippet": "How will the watermarking actually work? Can it be hidden with editing? And how does this affect code?"
+    },
     {
       "title": "SpaceX officially closes its Cursor acquisition",
       "url": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/",
@@ -149,13 +156,6 @@
       "snippet": "Nvidia has a plan to make sure its GPUs won't lose value. It wants to convince a new crop of financiers to keep lending for AI buildouts."
     },
     {
-      "title": "Apple in talks to pay publishers to provide Siri with current news: report",
-      "url": "https://techcrunch.com/2026/08/13/apple-in-talks-to-pay-publishers-to-provide-siri-with-current-news-report/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-08-13T14:34:43Z",
-      "snippet": "The tech giant has considered a nine-figure budget for the payments, according to the WSJ."
-    },
-    {
       "title": "Does Google even want to win at AI?",
       "url": "https://www.theverge.com/podcast/979370/google-deepmind-ai-race-lose-jeff-dean-demis-hassabis",
       "source": "The Verge",
@@ -204,14 +204,14 @@
       "downloads": 173741
     },
     {
-      "id": "unsloth/Qwen3.8-2.4T-A95B-GGUF",
-      "displayName": "Qwen3.8 2.4T A95B",
-      "downloads": 12028
-    },
-    {
       "id": "JonathanColetti/Qwen3.8-27B-Uncensored-GGUF",
       "displayName": "Qwen3.8 27B Uncensored",
       "downloads": 24549
+    },
+    {
+      "id": "unsloth/Qwen3.8-2.4T-A95B-GGUF",
+      "displayName": "Qwen3.8 2.4T A95B",
+      "downloads": 12028
     },
     {
       "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
