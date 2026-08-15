@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-14T22:17:20Z",
+  "updated": "2026-08-15T00:58:32Z",
   "news": [
     {
       "title": "Mark Zuckerberg has an Instagzam",
@@ -219,14 +219,14 @@
       "downloads": 2332009
     },
     {
-      "id": "DavidAU/Qwen3.5-9B-The-Defiant-Fable-Uncensored-Heretic-NEO-IMATRIX-MAX-MTP-GGUF",
-      "displayName": "Qwen3.5 9B The Defiant Fable Uncensored Heretic NEO IMATRIX MAX MTP",
-      "downloads": 555602
-    },
-    {
       "id": "LiquidAI/LFM2.5-2.6B-GGUF",
       "displayName": "LFM2.5 2.6B",
       "downloads": 245691
+    },
+    {
+      "id": "DavidAU/Qwen3.5-9B-The-Defiant-Fable-Uncensored-Heretic-NEO-IMATRIX-MAX-MTP-GGUF",
+      "displayName": "Qwen3.5 9B The Defiant Fable Uncensored Heretic NEO IMATRIX MAX MTP",
+      "downloads": 555602
     }
   ]
 }
