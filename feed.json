@@ -1,6 +1,20 @@
 {
-  "updated": "2026-08-15T20:16:44Z",
+  "updated": "2026-08-15T22:15:52Z",
   "news": [
+    {
+      "title": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
+      "url": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-08-15T21:29:19Z",
+      "snippet": "The woman claimed that AI tools are \"taking everyday life and turning it into child sexual abuse.\""
+    },
+    {
+      "title": "Have a laugh at AI\u2019s expense by roleplaying as a chatbot",
+      "url": "https://www.theverge.com/entertainment/980502/roleplay-as-an-ai-chatbot",
+      "source": "The Verge",
+      "publishedAt": "2026-08-15T20:45:00Z",
+      "snippet": "Your AI Slop Bores Me is brilliant in its simplicity. There are two tabs: human and LARP as an AI. On one side you enter a request. On the other, you submit an answer. But the important thing is that "
+    },
     {
       "title": "Anthropic shares more details about how Claude\u2019s new watermarks will work",
       "url": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
@@ -149,13 +163,6 @@
       "snippet": "Imagine a trio of bumbling, English lads who fantasize about becoming megastars while knocking back a few pints in a grimy pub somewhere in London. Picture the guys chortling and trying to one-up each"
     },
     {
-      "title": "Nvidia\u2019s new $500B plan is risky but brilliant, especially for aging GPUs",
-      "url": "https://techcrunch.com/2026/08/13/nvidias-new-500b-plan-is-risky-but-brilliant-especially-for-aging-gpus/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-08-13T15:08:00Z",
-      "snippet": "Nvidia has a plan to make sure its GPUs won't lose value. It wants to convince a new crop of financiers to keep lending for AI buildouts."
-    },
-    {
       "title": "Does Google even want to win at AI?",
       "url": "https://www.theverge.com/podcast/979370/google-deepmind-ai-race-lose-jeff-dean-demis-hassabis",
       "source": "The Verge",
@@ -168,13 +175,6 @@
       "source": "The Verge",
       "publishedAt": "2026-08-13T13:30:00Z",
       "snippet": "Microsoft is finally beginning to combine its consumer and commercial Copilot AI assistants into a single \"super app\" interface, starting with the Copilot and Microsoft 365 Copilot apps. Both personal"
-    },
-    {
-      "title": "Twitch streamers can now opt out from training Amazon\u2019s AI",
-      "url": "https://www.theverge.com/tech/979112/twitch-streamers-can-now-opt-out-from-training-amazons-ai",
-      "source": "The Verge",
-      "publishedAt": "2026-08-12T17:29:10Z",
-      "snippet": "Twitch users can now opt out of allowing their content to be used to train Amazon's generative AI models. Opting out means that \"your streams, VODs, clips, stream chats, and pictures and text on your "
     }
   ],
   "trending": [
