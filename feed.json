@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-16T12:29:36Z",
+  "updated": "2026-08-16T14:17:14Z",
   "news": [
     {
       "title": "Rogue AI aren\u2019t science fiction anymore",
@@ -209,14 +209,14 @@
       "downloads": 183988
     },
     {
-      "id": "unsloth/Qwen3.8-2.4T-A95B-GGUF",
-      "displayName": "Qwen3.8 2.4T A95B",
-      "downloads": 13494
-    },
-    {
       "id": "HauhauCS/Qwen3.6-27B-Uncensored-HauhauCS-Aggressive",
       "displayName": "Qwen3.6 27B Uncensored HauhauCS Aggressive",
       "downloads": 347147
+    },
+    {
+      "id": "unsloth/Qwen3.8-2.4T-A95B-GGUF",
+      "displayName": "Qwen3.8 2.4T A95B",
+      "downloads": 13494
     },
     {
       "id": "Blackfrost-AI/Qwen3.8-27B-ABLITERATED-GGUF",
