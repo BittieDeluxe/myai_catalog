@@ -1,6 +1,13 @@
 {
-  "updated": "2026-08-16T14:17:14Z",
+  "updated": "2026-08-16T16:18:27Z",
   "news": [
+    {
+      "title": "ChatGPT\u2019s Computer History tracks your clicks and keystrokes",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/980742/chatgpts-computer-history-tracks-your-clicks-and-keystrokes",
+      "source": "The Verge",
+      "publishedAt": "2026-08-16T14:56:40Z",
+      "snippet": "ChatGPT's desktop app on macOS has a new feature called Computer History that turns your actions into training data, learning how you work, suggesting automations, and even picking up tasks you left h"
+    },
     {
       "title": "Rogue AI aren\u2019t science fiction anymore",
       "url": "https://www.theverge.com/column/980337/rogue-ai-science-fiction-openai",
@@ -168,13 +175,6 @@
       "source": "The Verge",
       "publishedAt": "2026-08-13T15:30:00Z",
       "snippet": "Imagine a trio of bumbling, English lads who fantasize about becoming megastars while knocking back a few pints in a grimy pub somewhere in London. Picture the guys chortling and trying to one-up each"
-    },
-    {
-      "title": "Does Google even want to win at AI?",
-      "url": "https://www.theverge.com/podcast/979370/google-deepmind-ai-race-lose-jeff-dean-demis-hassabis",
-      "source": "The Verge",
-      "publishedAt": "2026-08-13T14:10:31Z",
-      "snippet": "Today on Decoder, I\u2019m talking with Hayden Field, The Verge\u2019s senior AI reporter, about a question that\u2019s been rocketing around the tech industry for the past week: Is Google losing the AI race? That\u2019s"
     }
   ],
   "trending": [
@@ -199,14 +199,14 @@
       "downloads": 3020070
     },
     {
-      "id": "unsloth/MiniMax-H3-GGUF",
-      "displayName": "MiniMax H3",
-      "downloads": 204344
-    },
-    {
       "id": "JonathanColetti/Qwen3.8-27B-Uncensored-GGUF",
       "displayName": "Qwen3.8 27B Uncensored",
       "downloads": 183988
+    },
+    {
+      "id": "unsloth/MiniMax-H3-GGUF",
+      "displayName": "MiniMax H3",
+      "downloads": 204344
     },
     {
       "id": "HauhauCS/Qwen3.6-27B-Uncensored-HauhauCS-Aggressive",
@@ -214,14 +214,14 @@
       "downloads": 347147
     },
     {
-      "id": "unsloth/Qwen3.8-2.4T-A95B-GGUF",
-      "displayName": "Qwen3.8 2.4T A95B",
-      "downloads": 13494
-    },
-    {
       "id": "Blackfrost-AI/Qwen3.8-27B-ABLITERATED-GGUF",
       "displayName": "Qwen3.8 27B ABLITERATED",
       "downloads": 58708
+    },
+    {
+      "id": "unsloth/Qwen3.8-2.4T-A95B-GGUF",
+      "displayName": "Qwen3.8 2.4T A95B",
+      "downloads": 13494
     },
     {
       "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
