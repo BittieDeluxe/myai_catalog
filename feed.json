@@ -1,6 +1,13 @@
 {
-  "updated": "2026-08-16T16:18:27Z",
+  "updated": "2026-08-16T18:20:49Z",
   "news": [
+    {
+      "title": "Anthropic CEO says AI backlash is \u2018fundamentally a crisis of trust\u2019",
+      "url": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-08-16T16:53:51Z",
+      "snippet": "Dario Amodei is pushing back against the idea that he's been painting an overly pessimistic picture of AI."
+    },
     {
       "title": "ChatGPT\u2019s Computer History tracks your clicks and keystrokes",
       "url": "https://www.theverge.com/ai-artificial-intelligence/980742/chatgpts-computer-history-tracks-your-clicks-and-keystrokes",
@@ -163,13 +170,6 @@
       "snippet": "Suno is releasing Studio 2.0 with significant upgrades that push it closer to an actual digital audio workstation (DAW), rather than a bare-bones audio editor with generative AI features. The biggest "
     },
     {
-      "title": "Microsoft kills off unsuccessful AI features while merging its separate Copilot apps",
-      "url": "https://techcrunch.com/2026/08/13/microsoft-kills-off-unsuccessful-ai-features-while-merging-its-separate-copilot-apps/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-08-13T15:30:52Z",
-      "snippet": "Microsoft is simplifying Copilot by combining its consumer and business apps, and dropping AI-generated podcasts, Group Chats, Deep Research, and its Mico character."
-    },
-    {
       "title": "I looked inside an AI generated movie, and the best parts were all human",
       "url": "https://www.theverge.com/entertainment/977994/higgsfield-ai-cully-hill-boys-black-list",
       "source": "The Verge",
@@ -209,14 +209,14 @@
       "downloads": 204344
     },
     {
-      "id": "HauhauCS/Qwen3.6-27B-Uncensored-HauhauCS-Aggressive",
-      "displayName": "Qwen3.6 27B Uncensored HauhauCS Aggressive",
-      "downloads": 347147
-    },
-    {
       "id": "Blackfrost-AI/Qwen3.8-27B-ABLITERATED-GGUF",
       "displayName": "Qwen3.8 27B ABLITERATED",
       "downloads": 58708
+    },
+    {
+      "id": "HauhauCS/Qwen3.6-27B-Uncensored-HauhauCS-Aggressive",
+      "displayName": "Qwen3.6 27B Uncensored HauhauCS Aggressive",
+      "downloads": 347147
     },
     {
       "id": "unsloth/Qwen3.8-2.4T-A95B-GGUF",
