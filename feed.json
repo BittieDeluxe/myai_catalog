@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-16T08:22:59Z",
+  "updated": "2026-08-16T10:17:37Z",
   "news": [
     {
       "title": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
@@ -181,37 +181,37 @@
     {
       "id": "unsloth/Qwen3.8-27B-GGUF",
       "displayName": "Qwen3.8 27B",
-      "downloads": 867963
+      "downloads": 1945635
     },
     {
       "id": "unsloth/Muse-Glimmer-30B-GGUF",
       "displayName": "Muse Glimmer 30B",
-      "downloads": 682188
+      "downloads": 718178
     },
     {
       "id": "meta-models/Muse-Glimmer-30B-GGUF",
       "displayName": "Muse Glimmer 30B",
-      "downloads": 321049
+      "downloads": 357877
     },
     {
       "id": "DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
       "displayName": "Qwen3.6 27B Fable Fusion 711 Uncensored Heretic NM DAU NEO MAX MTP",
-      "downloads": 2983500
+      "downloads": 3020070
     },
     {
       "id": "unsloth/MiniMax-H3-GGUF",
       "displayName": "MiniMax H3",
-      "downloads": 173741
+      "downloads": 204344
     },
     {
       "id": "JonathanColetti/Qwen3.8-27B-Uncensored-GGUF",
       "displayName": "Qwen3.8 27B Uncensored",
-      "downloads": 24549
+      "downloads": 183988
     },
     {
       "id": "unsloth/Qwen3.8-2.4T-A95B-GGUF",
       "displayName": "Qwen3.8 2.4T A95B",
-      "downloads": 12028
+      "downloads": 13494
     },
     {
       "id": "HauhauCS/Qwen3.6-27B-Uncensored-HauhauCS-Aggressive",
@@ -221,7 +221,7 @@
     {
       "id": "Blackfrost-AI/Qwen3.8-27B-ABLITERATED-GGUF",
       "displayName": "Qwen3.8 27B ABLITERATED",
-      "downloads": 3250
+      "downloads": 58708
     },
     {
       "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
