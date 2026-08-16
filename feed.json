@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-16T06:31:39Z",
+  "updated": "2026-08-16T08:22:59Z",
   "news": [
     {
       "title": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
@@ -216,7 +216,7 @@
     {
       "id": "HauhauCS/Qwen3.6-27B-Uncensored-HauhauCS-Aggressive",
       "displayName": "Qwen3.6 27B Uncensored HauhauCS Aggressive",
-      "downloads": 353725
+      "downloads": 347147
     },
     {
       "id": "Blackfrost-AI/Qwen3.8-27B-ABLITERATED-GGUF",
@@ -226,7 +226,7 @@
     {
       "id": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
       "displayName": "Qwen3.6 35B A3B Uncensored HauhauCS Aggressive",
-      "downloads": 2472324
+      "downloads": 2468106
     }
   ]
 }
