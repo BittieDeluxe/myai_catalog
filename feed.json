@@ -1,6 +1,13 @@
 {
-  "updated": "2026-08-17T16:21:21Z",
+  "updated": "2026-08-17T18:31:41Z",
   "news": [
+    {
+      "title": "Amazon, which started off selling books, is destroying rare texts to train AI",
+      "url": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-08-17T16:38:44Z",
+      "snippet": "Rare books are incredibly valuable for training LLMs, since these models have already trained on whatever's available online."
+    },
     {
       "title": "Groq raises $350M to fuel its pivot from AI chips to neocloud",
       "url": "https://techcrunch.com/2026/08/17/groq-raises-350m-to-fuel-its-pivot-from-ai-chips-to-neocloud/",
@@ -100,6 +107,13 @@
       "snippet": "AI coding startup Cursor is now officially a part of SpaceX."
     },
     {
+      "title": "How to tell if your AI platforms\u2019 accounts have been hacked",
+      "url": "https://techcrunch.com/2026/08/15/how-to-tell-if-your-ai-platforms-accounts-have-been-hacked/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-08-15T16:10:00Z",
+      "snippet": "A guide on how to check if hackers have broken into your accounts on the most popular AI platforms."
+    },
+    {
       "title": "Mark Zuckerberg has an Instagzam",
       "url": "https://www.theverge.com/podcast/980367/instagram-logo-new-zuckerberg-ai-vergecast",
       "source": "The Verge",
@@ -142,13 +156,6 @@
       "snippet": "Natural gas prices could triple in some parts of the U.S., which could saddle hyperscalers with massive bills to power their AI data centers."
     },
     {
-      "title": "Meta\u2019s \u2018open\u2019 AI, and a $250M deal gone very wrong",
-      "url": "https://techcrunch.com/podcast/metas-open-ai-and-a-250m-deal-gone-very-wrong/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-08-14T14:00:00Z",
-      "snippet": "Meta released Glimmer this week, an open-weight AI model anyone can download and run on their own hardware \u2014 a contrast to Muse Spark, the company\u2019s more powerful model that stays locked behind its ow"
-    },
-    {
       "title": "Apple trained its own AI model for China with help from Alibaba",
       "url": "https://www.theverge.com/ai-artificial-intelligence/980160/apple-intelligence-china-custom-ai-model-alibaba",
       "source": "The Verge",
@@ -161,13 +168,6 @@
       "source": "The Verge",
       "publishedAt": "2026-08-13T21:42:38Z",
       "snippet": "Microsoft Copilot will no longer show its emotive yellow blob, Mico, when you use the chatbot's voice mode. In a support page, Microsoft says it's going to move Mico to its Learn Live platform, where "
-    },
-    {
-      "title": "Writer introduces new AI model and upgraded harness to contain token costs",
-      "url": "https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-08-13T21:13:24Z",
-      "snippet": "Built as a post-training variation on Z.ai's open source model GLM-5.2, Writer says the new system should provide deployment-ready capabilities at a much lower price."
     },
     {
       "title": "OpenAI is losing its second executive this week",
@@ -214,11 +214,6 @@
       "downloads": 332718
     },
     {
-      "id": "unsloth/MiniMax-H3-GGUF",
-      "displayName": "MiniMax H3",
-      "downloads": 217859
-    },
-    {
       "id": "empero-ai/Qwen3.8-27B-Ridge-GGUF",
       "displayName": "Qwen3.8 27B Ridge",
       "downloads": 9222
@@ -227,6 +222,11 @@
       "id": "unsloth/Qwen3.8-2.4T-A95B-GGUF",
       "displayName": "Qwen3.8 2.4T A95B",
       "downloads": 14404
+    },
+    {
+      "id": "unsloth/MiniMax-H3-GGUF",
+      "displayName": "MiniMax H3",
+      "downloads": 217859
     }
   ]
 }
