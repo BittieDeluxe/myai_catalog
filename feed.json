@@ -1,6 +1,13 @@
 {
-  "updated": "2026-08-17T10:26:51Z",
+  "updated": "2026-08-17T12:34:27Z",
   "news": [
+    {
+      "title": "Anthropic explains how Claude\u2019s invisible text watermarks will work",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/980869/anthropic-claude-watermarks-synthid-text-system",
+      "source": "The Verge",
+      "publishedAt": "2026-08-17T10:57:13Z",
+      "snippet": "Anthropic has clarified how it's planning to apply invisible watermarks to Claude-generated text in order to comply with Europe's AI transparency rules. On Friday, Anthropic announced that Claude's te"
+    },
     {
       "title": "OpenAI reportedly disbanded its preparedness team",
       "url": "https://www.theverge.com/ai-artificial-intelligence/980817/openai-disbands-preparedness-team",
@@ -168,13 +175,6 @@
       "source": "TechCrunch",
       "publishedAt": "2026-08-13T19:19:49Z",
       "snippet": "IBM plans to train and certify tens of thousands of consultants on OpenAI's technologies as part of this deal."
-    },
-    {
-      "title": "Suno is trying to look more like a real music production tool",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/979345/suno-studio-2-0-midi-chatbot-custom-effects",
-      "source": "The Verge",
-      "publishedAt": "2026-08-13T16:00:00Z",
-      "snippet": "Suno is releasing Studio 2.0 with significant upgrades that push it closer to an actual digital audio workstation (DAW), rather than a bare-bones audio editor with generative AI features. The biggest "
     }
   ],
   "trending": [
@@ -189,14 +189,14 @@
       "downloads": 755125
     },
     {
-      "id": "meta-models/Muse-Glimmer-30B-GGUF",
-      "displayName": "Muse Glimmer 30B",
-      "downloads": 395175
-    },
-    {
       "id": "JonathanColetti/Qwen3.8-27B-Uncensored-GGUF",
       "displayName": "Qwen3.8 27B Uncensored",
       "downloads": 357701
+    },
+    {
+      "id": "meta-models/Muse-Glimmer-30B-GGUF",
+      "displayName": "Muse Glimmer 30B",
+      "downloads": 395175
     },
     {
       "id": "DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
@@ -204,14 +204,14 @@
       "downloads": 3033928
     },
     {
-      "id": "unsloth/MiniMax-H3-GGUF",
-      "displayName": "MiniMax H3",
-      "downloads": 217859
-    },
-    {
       "id": "Blackfrost-AI/Qwen3.8-27B-ABLITERATED-GGUF",
       "displayName": "Qwen3.8 27B ABLITERATED",
       "downloads": 91626
+    },
+    {
+      "id": "unsloth/MiniMax-H3-GGUF",
+      "displayName": "MiniMax H3",
+      "downloads": 217859
     },
     {
       "id": "HauhauCS/Qwen3.6-27B-Uncensored-HauhauCS-Aggressive",
