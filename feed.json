@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-16T22:15:37Z",
+  "updated": "2026-08-17T00:59:25Z",
   "news": [
     {
       "title": "OpenAI reportedly disbanded its preparedness team",
@@ -224,9 +224,9 @@
       "downloads": 13494
     },
     {
-      "id": "empero-ai/Qwen3.8-27B-Ridge-GGUF",
-      "displayName": "Qwen3.8 27B Ridge",
-      "downloads": 3351
+      "id": "0bserverx/Qwen3.8-27B-Heretic-Abliterated-Uncensored-GGUF",
+      "displayName": "Qwen3.8 27B Heretic Abliterated Uncensored",
+      "downloads": 81744
     }
   ]
 }
