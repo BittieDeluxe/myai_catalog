@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-17T08:36:45Z",
+  "updated": "2026-08-17T10:26:51Z",
   "news": [
     {
       "title": "OpenAI reportedly disbanded its preparedness team",
@@ -55,7 +55,7 @@
       "url": "https://www.theverge.com/entertainment/980502/roleplay-as-an-ai-chatbot",
       "source": "The Verge",
       "publishedAt": "2026-08-15T20:45:00Z",
-      "snippet": "Your AI Slop Bores Me is brilliant in its simplicity. There are two tabs: human and LARP as an AI. On one side you enter a request. On the other, you submit an answer. But the important thing is that "
+      "snippet": "Your AI Slop Bores Me is brilliant in its simplicity. There are two tabs: human and LARP as an AI. On one side, you enter a request. On the other, you submit an answer. But the important thing is that"
     },
     {
       "title": "Anthropic shares more details about how Claude\u2019s new watermarks will work",
@@ -181,52 +181,52 @@
     {
       "id": "unsloth/Qwen3.8-27B-GGUF",
       "displayName": "Qwen3.8 27B",
-      "downloads": 1945635
+      "downloads": 2727609
     },
     {
       "id": "unsloth/Muse-Glimmer-30B-GGUF",
       "displayName": "Muse Glimmer 30B",
-      "downloads": 718178
+      "downloads": 755125
     },
     {
       "id": "meta-models/Muse-Glimmer-30B-GGUF",
       "displayName": "Muse Glimmer 30B",
-      "downloads": 357877
-    },
-    {
-      "id": "DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
-      "displayName": "Qwen3.6 27B Fable Fusion 711 Uncensored Heretic NM DAU NEO MAX MTP",
-      "downloads": 3020070
+      "downloads": 395175
     },
     {
       "id": "JonathanColetti/Qwen3.8-27B-Uncensored-GGUF",
       "displayName": "Qwen3.8 27B Uncensored",
-      "downloads": 183988
+      "downloads": 357701
+    },
+    {
+      "id": "DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
+      "displayName": "Qwen3.6 27B Fable Fusion 711 Uncensored Heretic NM DAU NEO MAX MTP",
+      "downloads": 3033928
     },
     {
       "id": "unsloth/MiniMax-H3-GGUF",
       "displayName": "MiniMax H3",
-      "downloads": 204344
+      "downloads": 217859
     },
     {
       "id": "Blackfrost-AI/Qwen3.8-27B-ABLITERATED-GGUF",
       "displayName": "Qwen3.8 27B ABLITERATED",
-      "downloads": 58708
+      "downloads": 91626
     },
     {
       "id": "HauhauCS/Qwen3.6-27B-Uncensored-HauhauCS-Aggressive",
       "displayName": "Qwen3.6 27B Uncensored HauhauCS Aggressive",
-      "downloads": 347147
+      "downloads": 332718
     },
     {
       "id": "unsloth/Qwen3.8-2.4T-A95B-GGUF",
       "displayName": "Qwen3.8 2.4T A95B",
-      "downloads": 13494
+      "downloads": 14404
     },
     {
-      "id": "0bserverx/Qwen3.8-27B-Heretic-Abliterated-Uncensored-GGUF",
-      "displayName": "Qwen3.8 27B Heretic Abliterated Uncensored",
-      "downloads": 81744
+      "id": "empero-ai/Qwen3.8-27B-Ridge-GGUF",
+      "displayName": "Qwen3.8 27B Ridge",
+      "downloads": 9222
     }
   ]
 }
