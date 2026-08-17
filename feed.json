@@ -1,6 +1,20 @@
 {
-  "updated": "2026-08-17T14:21:59Z",
+  "updated": "2026-08-17T16:21:21Z",
   "news": [
+    {
+      "title": "Groq raises $350M to fuel its pivot from AI chips to neocloud",
+      "url": "https://techcrunch.com/2026/08/17/groq-raises-350m-to-fuel-its-pivot-from-ai-chips-to-neocloud/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-08-17T16:15:12Z",
+      "snippet": "Groq raised $350 million at a $3.5 billion valuation as the former AI chipmaker pivots to a neocloud business and expands its Nvidia-powered data center footprint."
+    },
+    {
+      "title": "Nvidia investing $1.5B in SoftBank data center developer behind OpenAI project",
+      "url": "https://techcrunch.com/2026/08/17/nvidia-investing-1-5b-in-softbank-data-center-developer-behind-openai-project/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-08-17T15:16:24Z",
+      "snippet": "Nvidia's investment in SoftBank's data center developer will guarantee its chips power an OpenAI data center."
+    },
     {
       "title": "Wispr raises $280M at $2B valuation as it looks beyond dictation",
       "url": "https://techcrunch.com/2026/08/17/wispr-raises-280m-at-2b-valuation-as-it-looks-beyond-dictation/",
@@ -156,25 +170,11 @@
       "snippet": "Built as a post-training variation on Z.ai's open source model GLM-5.2, Writer says the new system should provide deployment-ready capabilities at a much lower price."
     },
     {
-      "title": "Databricks wanted to raise $1B, investors wanted $15B. It settled on $5B at a $190B valuation.",
-      "url": "https://techcrunch.com/2026/08/13/databricks-wanted-to-raise-1b-investors-wanted-15b-it-settled-on-5b-at-a-190b-valuation/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-08-13T20:14:39Z",
-      "snippet": "AI is expensive, Ali Ghodsi tells TechCrunch. With so many investors wanting into his latest round, he said yes to more than planned."
-    },
-    {
       "title": "OpenAI is losing its second executive this week",
       "url": "https://www.theverge.com/ai-artificial-intelligence/979815/openai-denise-dresser-leaving-executive-departure",
       "source": "The Verge",
       "publishedAt": "2026-08-13T19:28:39Z",
       "snippet": "Another OpenAI executive is departing. Denise Dresser, who joined OpenAI as its chief revenue officer in December after serving as CEO of Slack, will be leaving in the \"coming weeks\" to \"pursue other "
-    },
-    {
-      "title": "OpenAI introduces \u2018Ultrafast,\u2019 a new mode that makes GPT-5.6 Sol work at 14x the speed",
-      "url": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-08-13T19:22:40Z",
-      "snippet": "OpenAI is launching a preview of a sped up version of its latest, most powerful model, in an effort to court enterprise users."
     }
   ],
   "trending": [
@@ -219,14 +219,14 @@
       "downloads": 217859
     },
     {
-      "id": "unsloth/Qwen3.8-2.4T-A95B-GGUF",
-      "displayName": "Qwen3.8 2.4T A95B",
-      "downloads": 14404
-    },
-    {
       "id": "empero-ai/Qwen3.8-27B-Ridge-GGUF",
       "displayName": "Qwen3.8 27B Ridge",
       "downloads": 9222
+    },
+    {
+      "id": "unsloth/Qwen3.8-2.4T-A95B-GGUF",
+      "displayName": "Qwen3.8 2.4T A95B",
+      "downloads": 14404
     }
   ]
 }
