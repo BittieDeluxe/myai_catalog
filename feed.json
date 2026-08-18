@@ -1,12 +1,19 @@
 {
-  "updated": "2026-08-18T14:27:38Z",
+  "updated": "2026-08-18T16:24:59Z",
   "news": [
+    {
+      "title": "Why Apple\u2019s camera-equipped AirPods may not be the \u2018pervert pods\u2019 consumers fear",
+      "url": "https://techcrunch.com/2026/08/18/why-apples-camera-equipped-airpods-may-not-be-the-pervert-pods-consumers-fear/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-08-18T16:19:10Z",
+      "snippet": "Apple\u2019s leaked camera-equipped AirPods might avoid the privacy pitfalls of other AI wearables by preventing users from recording photos and videos."
+    },
     {
       "title": "Warp\u2019s new system is an out-of-the-box software factory for AI development",
       "url": "https://techcrunch.com/2026/08/18/warps-new-system-is-an-out-of-the-box-software-factory-for-ai-development/",
       "source": "TechCrunch",
       "publishedAt": "2026-08-18T14:00:00Z",
-      "snippet": "On Tuesday, Warp introduced Warp Factories, a new infrastrructure system designed to make building AI software factories as easy as possible."
+      "snippet": "On Tuesday, Warp introduced Warp Factories, a new infrastructure system designed to make building AI software factories as easy as possible."
     },
     {
       "title": "OpenAI launches a safer ChatGPT for teens \u2014 years after teens started using it",
@@ -37,7 +44,7 @@
       "snippet": "One of the best things my smart home does is help me care for my pets, and security cameras are particularly useful for keeping track of my many critters. But the barrage of notifications they send of"
     },
     {
-      "title": "Elon Musk made flying even worse so Palantir could profit",
+      "title": "Elon Musk broke the FAA \u2014 Palantir is picking up the pieces",
       "url": "https://www.theverge.com/transportation/981194/faa-air-traffic-elon-musk-peter-thiel-palantir",
       "source": "The Verge",
       "publishedAt": "2026-08-18T11:00:00Z",
@@ -168,13 +175,6 @@
       "source": "TechCrunch",
       "publishedAt": "2026-08-15T18:58:39Z",
       "snippet": "How will the watermarking actually work? Can it be hidden with editing? And how does this affect code?"
-    },
-    {
-      "title": "SpaceX officially closes its Cursor acquisition",
-      "url": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-08-15T16:30:00Z",
-      "snippet": "AI coding startup Cursor is now officially a part of SpaceX."
     }
   ],
   "trending": [
