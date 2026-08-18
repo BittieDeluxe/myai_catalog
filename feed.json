@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-18T06:34:49Z",
+  "updated": "2026-08-18T08:30:25Z",
   "news": [
     {
       "title": "Anthropic\u2019s annualized revenue surges to $65B",
@@ -214,19 +214,19 @@
       "downloads": 332718
     },
     {
-      "id": "meta-models/Muse-Glimmer-30B-GGUF",
-      "displayName": "Muse Glimmer 30B",
-      "downloads": 395175
-    },
-    {
       "id": "0bserverx/Qwen3.8-27B-Heretic-Abliterated-Uncensored-GGUF",
       "displayName": "Qwen3.8 27B Heretic Abliterated Uncensored",
       "downloads": 106110
     },
     {
-      "id": "unsloth/Qwen3.8-2.4T-A95B-GGUF",
-      "displayName": "Qwen3.8 2.4T A95B",
-      "downloads": 14404
+      "id": "meta-models/Muse-Glimmer-30B-GGUF",
+      "displayName": "Muse Glimmer 30B",
+      "downloads": 395175
+    },
+    {
+      "id": "HauhauCS/Qwen3.8-27B-Uncensored-HauhauCS-Aggressive-MTP-GGUF",
+      "displayName": "Qwen3.8 27B Uncensored HauhauCS Aggressive MTP",
+      "downloads": 0
     }
   ]
 }
