@@ -1,6 +1,34 @@
 {
-  "updated": "2026-08-18T12:36:11Z",
+  "updated": "2026-08-18T14:27:38Z",
   "news": [
+    {
+      "title": "Warp\u2019s new system is an out-of-the-box software factory for AI development",
+      "url": "https://techcrunch.com/2026/08/18/warps-new-system-is-an-out-of-the-box-software-factory-for-ai-development/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-08-18T14:00:00Z",
+      "snippet": "On Tuesday, Warp introduced Warp Factories, a new infrastrructure system designed to make building AI software factories as easy as possible."
+    },
+    {
+      "title": "OpenAI launches a safer ChatGPT for teens \u2014 years after teens started using it",
+      "url": "https://techcrunch.com/2026/08/18/openai-launches-a-safer-chatgpt-for-teens-years-after-teens-started-using-it/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-08-18T13:50:30Z",
+      "snippet": "ChatGPT for Teens adds age-appropriate safety measures, parental controls, and learning tools designed to steer teens away from harmful content \u2014 and from using AI to cheat on their homework."
+    },
+    {
+      "title": "Perplexity\u2019s free AI offer left it with millions more users in India",
+      "url": "https://techcrunch.com/2026/08/18/perplexitys-free-ai-offer-left-it-with-millions-more-users-in-india/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-08-18T13:45:40Z",
+      "snippet": "Perplexity's India revenue rose about 60% after the Airtel offer ended for new users, even as downloads declined."
+    },
+    {
+      "title": "Firefox\u2019s Smart Window promises a better AI browser",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/981283/mozilla-firefox-smart-window-ai-features",
+      "source": "The Verge",
+      "publishedAt": "2026-08-18T13:00:00Z",
+      "snippet": "Starting today, AI chats in Firefox's Smart Window AI browsing mode can pull from current web info and show source links in chat responses through a partnership with Exa. Smart Window can also now aut"
+    },
     {
       "title": "Google\u2019s Pet Memory forgot who my cats are",
       "url": "https://www.theverge.com/tech/981269/google-home-gemini-pet-memory-nest-camera-review",
@@ -135,13 +163,6 @@
       "snippet": "The woman claimed that AI tools are \"taking everyday life and turning it into child sexual abuse.\""
     },
     {
-      "title": "Have a laugh at AI\u2019s expense by roleplaying as a chatbot",
-      "url": "https://www.theverge.com/entertainment/980502/roleplay-as-an-ai-chatbot",
-      "source": "The Verge",
-      "publishedAt": "2026-08-15T20:45:00Z",
-      "snippet": "Your AI Slop Bores Me is brilliant in its simplicity. There are two tabs: human and LARP as an AI. On one side, you enter a request. On the other, you submit an answer. But the important thing is that"
-    },
-    {
       "title": "Anthropic shares more details about how Claude\u2019s new watermarks will work",
       "url": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
       "source": "TechCrunch",
@@ -154,27 +175,6 @@
       "source": "TechCrunch",
       "publishedAt": "2026-08-15T16:30:00Z",
       "snippet": "AI coding startup Cursor is now officially a part of SpaceX."
-    },
-    {
-      "title": "How to tell if your AI platforms\u2019 accounts have been hacked",
-      "url": "https://techcrunch.com/2026/08/15/how-to-tell-if-your-ai-platforms-accounts-have-been-hacked/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-08-15T16:10:00Z",
-      "snippet": "A guide on how to check if hackers have broken into your accounts on the most popular AI platforms."
-    },
-    {
-      "title": "Google will now allow users to remove visible watermark from its AI generations",
-      "url": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-08-14T16:13:40Z",
-      "snippet": "Turning off this setting won't affect invisible benchmarks used to identify an AI generated file."
-    },
-    {
-      "title": "Does Mark Zuckerberg really believe AI is \u2018for everyone\u2019?",
-      "url": "https://techcrunch.com/video/does-mark-zuckerberg-really-believe-ai-is-for-everyone/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-08-14T15:43:28Z",
-      "snippet": "Meta released Glimmer this week, an open-weight AI model anyone can download and run on their own hardware \u2014 a contrast to Muse Spark, the company\u2019s more powerful model that stays locked behind its ow"
     }
   ],
   "trending": [
