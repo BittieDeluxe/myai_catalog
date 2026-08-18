@@ -1,6 +1,20 @@
 {
-  "updated": "2026-08-18T16:24:59Z",
+  "updated": "2026-08-18T18:30:35Z",
   "news": [
+    {
+      "title": "OpenAI institutes new safeguards after Hugging Face breach",
+      "url": "https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-08-18T18:00:00Z",
+      "snippet": "The new safeguards include more detailed monitoring of models during the development process, as well as greater emphasis on alignment and security during the post-training process."
+    },
+    {
+      "title": "Etched\u2019s valuation doubles to $21B in a month",
+      "url": "https://techcrunch.com/2026/08/18/etcheds-valuation-doubles-to-21b-in-a-month/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-08-18T17:21:58Z",
+      "snippet": "Jane Street has installed Etched's first shipped AI cluster system, and was so impressed, it led another massive round, the startup says."
+    },
     {
       "title": "Why Apple\u2019s camera-equipped AirPods may not be the \u2018pervert pods\u2019 consumers fear",
       "url": "https://techcrunch.com/2026/08/18/why-apples-camera-equipped-airpods-may-not-be-the-pervert-pods-consumers-fear/",
@@ -161,20 +175,6 @@
       "source": "The Verge",
       "publishedAt": "2026-08-16T12:00:00Z",
       "snippet": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on AI safety, follow Robert Hart. The Stepback arrives in our subscribers' inboxes at 8AM ET. "
-    },
-    {
-      "title": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
-      "url": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-08-15T21:29:19Z",
-      "snippet": "The woman claimed that AI tools are \"taking everyday life and turning it into child sexual abuse.\""
-    },
-    {
-      "title": "Anthropic shares more details about how Claude\u2019s new watermarks will work",
-      "url": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-08-15T18:58:39Z",
-      "snippet": "How will the watermarking actually work? Can it be hidden with editing? And how does this affect code?"
     }
   ],
   "trending": [
@@ -199,14 +199,14 @@
       "downloads": 787276
     },
     {
-      "id": "empero-ai/Qwen3.8-27B-Ridge-GGUF",
-      "displayName": "Qwen3.8 27B Ridge",
-      "downloads": 12854
-    },
-    {
       "id": "HauhauCS/Qwen3.8-27B-Uncensored-HauhauCS-Aggressive-MTP-GGUF",
       "displayName": "Qwen3.8 27B Uncensored HauhauCS Aggressive MTP",
       "downloads": 27745
+    },
+    {
+      "id": "empero-ai/Qwen3.8-27B-Ridge-GGUF",
+      "displayName": "Qwen3.8 27B Ridge",
+      "downloads": 12854
     },
     {
       "id": "Blackfrost-AI/Qwen3.8-27B-ABLITERATED-GGUF",
@@ -214,14 +214,14 @@
       "downloads": 134149
     },
     {
-      "id": "HauhauCS/Qwen3.6-27B-Uncensored-HauhauCS-Aggressive",
-      "displayName": "Qwen3.6 27B Uncensored HauhauCS Aggressive",
-      "downloads": 316211
-    },
-    {
       "id": "0bserverx/Qwen3.8-27B-Heretic-Abliterated-Uncensored-GGUF",
       "displayName": "Qwen3.8 27B Heretic Abliterated Uncensored",
       "downloads": 150262
+    },
+    {
+      "id": "HauhauCS/Qwen3.6-27B-Uncensored-HauhauCS-Aggressive",
+      "displayName": "Qwen3.6 27B Uncensored HauhauCS Aggressive",
+      "downloads": 316211
     },
     {
       "id": "AtomicChat/Qwen3.8-27B-GGUF",
