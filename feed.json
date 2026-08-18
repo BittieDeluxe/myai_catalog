@@ -1,6 +1,20 @@
 {
-  "updated": "2026-08-18T18:30:35Z",
+  "updated": "2026-08-18T20:17:36Z",
   "news": [
+    {
+      "title": "Robin Williams\u2019 Instagram account brought back to fight \u2018AI abuse\u2019",
+      "url": "https://www.theverge.com/entertainment/981644/robin-williams-instagram-account-ai",
+      "source": "The Verge",
+      "publishedAt": "2026-08-18T19:48:26Z",
+      "snippet": "Robin Williams' children are taking over their father's Instagram account after his daughter spoke out against the use of his AI likeness, as reported earlier by The Wrap. In a post on Tuesday, Zak, Z"
+    },
+    {
+      "title": "OpenAI lays out new security changes after its AI hacked Hugging Face",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/981640/openai-security-changes-ai-hugging-face-hack",
+      "source": "The Verge",
+      "publishedAt": "2026-08-18T19:28:30Z",
+      "snippet": "OpenAI is announcing security updates following the July news that its AI broke out of a sandboxed environment and accidentally hacked Hugging Face, including improvements to its research environments"
+    },
     {
       "title": "OpenAI institutes new safeguards after Hugging Face breach",
       "url": "https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/",
@@ -161,20 +175,6 @@
       "source": "TechCrunch",
       "publishedAt": "2026-08-16T16:53:51Z",
       "snippet": "Dario Amodei is pushing back against the idea that he's been painting an overly pessimistic picture of AI."
-    },
-    {
-      "title": "ChatGPT\u2019s Computer History tracks your clicks and keystrokes",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/980742/chatgpts-computer-history-tracks-your-clicks-and-keystrokes",
-      "source": "The Verge",
-      "publishedAt": "2026-08-16T14:56:40Z",
-      "snippet": "ChatGPT's desktop app on macOS has a new feature called Computer History that turns your actions into training data, learning how you work, suggesting automations, and even picking up tasks you left h"
-    },
-    {
-      "title": "Rogue AI aren\u2019t science fiction anymore",
-      "url": "https://www.theverge.com/column/980337/rogue-ai-science-fiction-openai",
-      "source": "The Verge",
-      "publishedAt": "2026-08-16T12:00:00Z",
-      "snippet": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on AI safety, follow Robert Hart. The Stepback arrives in our subscribers' inboxes at 8AM ET. "
     }
   ],
   "trending": [
@@ -194,14 +194,14 @@
       "downloads": 3020528
     },
     {
-      "id": "unsloth/Muse-Glimmer-30B-GGUF",
-      "displayName": "Muse Glimmer 30B",
-      "downloads": 787276
-    },
-    {
       "id": "HauhauCS/Qwen3.8-27B-Uncensored-HauhauCS-Aggressive-MTP-GGUF",
       "displayName": "Qwen3.8 27B Uncensored HauhauCS Aggressive MTP",
       "downloads": 27745
+    },
+    {
+      "id": "unsloth/Muse-Glimmer-30B-GGUF",
+      "displayName": "Muse Glimmer 30B",
+      "downloads": 787276
     },
     {
       "id": "empero-ai/Qwen3.8-27B-Ridge-GGUF",
