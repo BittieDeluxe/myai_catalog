@@ -1,6 +1,13 @@
 {
-  "updated": "2026-08-18T08:30:25Z",
+  "updated": "2026-08-18T10:22:59Z",
   "news": [
+    {
+      "title": "Apple\u2019s camera-equipped AirPods appear in leaked video",
+      "url": "https://www.theverge.com/tech/981326/apple-airpods-with-cameras-demo-video-leak",
+      "source": "The Verge",
+      "publishedAt": "2026-08-18T09:00:01Z",
+      "snippet": "We may have our first glimpse of Apple's rumored camera-equipped AirPods, thanks to a video that MacRumors found in the macOS Tahoe 26.7 Release Candidate. The short video clip features a man - who is"
+    },
     {
       "title": "Anthropic\u2019s annualized revenue surges to $65B",
       "url": "https://techcrunch.com/2026/08/17/anthropics-annualized-revenue-surges-to-65b/",
@@ -168,65 +175,58 @@
       "source": "The Verge",
       "publishedAt": "2026-08-14T09:21:17Z",
       "snippet": "Apple has reportedly trained a custom AI model for the China market alongside domestic tech giant Alibaba, a rare cross-border partnership that cuts across growing tensions between Beijing and Washing"
-    },
-    {
-      "title": "Microsoft\u2019s Clippy-like Mico character is no longer the face of Copilot",
-      "url": "https://www.theverge.com/tech/979871/microsoft-copilot-mico-retired",
-      "source": "The Verge",
-      "publishedAt": "2026-08-13T21:42:38Z",
-      "snippet": "Microsoft Copilot will no longer show its emotive yellow blob, Mico, when you use the chatbot's voice mode. In a support page, Microsoft says it's going to move Mico to its Learn Live platform, where "
     }
   ],
   "trending": [
     {
       "id": "unsloth/Qwen3.8-27B-GGUF",
       "displayName": "Qwen3.8 27B",
-      "downloads": 2727609
+      "downloads": 3561466
     },
     {
       "id": "JonathanColetti/Qwen3.8-27B-Uncensored-GGUF",
       "displayName": "Qwen3.8 27B Uncensored",
-      "downloads": 357701
+      "downloads": 558767
     },
     {
       "id": "unsloth/Muse-Glimmer-30B-GGUF",
       "displayName": "Muse Glimmer 30B",
-      "downloads": 755125
+      "downloads": 787276
     },
     {
       "id": "DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
       "displayName": "Qwen3.6 27B Fable Fusion 711 Uncensored Heretic NM DAU NEO MAX MTP",
-      "downloads": 3033928
+      "downloads": 3020528
     },
     {
       "id": "Blackfrost-AI/Qwen3.8-27B-ABLITERATED-GGUF",
       "displayName": "Qwen3.8 27B ABLITERATED",
-      "downloads": 91626
+      "downloads": 134149
     },
     {
       "id": "empero-ai/Qwen3.8-27B-Ridge-GGUF",
       "displayName": "Qwen3.8 27B Ridge",
-      "downloads": 9222
-    },
-    {
-      "id": "HauhauCS/Qwen3.6-27B-Uncensored-HauhauCS-Aggressive",
-      "displayName": "Qwen3.6 27B Uncensored HauhauCS Aggressive",
-      "downloads": 332718
-    },
-    {
-      "id": "0bserverx/Qwen3.8-27B-Heretic-Abliterated-Uncensored-GGUF",
-      "displayName": "Qwen3.8 27B Heretic Abliterated Uncensored",
-      "downloads": 106110
-    },
-    {
-      "id": "meta-models/Muse-Glimmer-30B-GGUF",
-      "displayName": "Muse Glimmer 30B",
-      "downloads": 395175
+      "downloads": 12854
     },
     {
       "id": "HauhauCS/Qwen3.8-27B-Uncensored-HauhauCS-Aggressive-MTP-GGUF",
       "displayName": "Qwen3.8 27B Uncensored HauhauCS Aggressive MTP",
-      "downloads": 0
+      "downloads": 27745
+    },
+    {
+      "id": "HauhauCS/Qwen3.6-27B-Uncensored-HauhauCS-Aggressive",
+      "displayName": "Qwen3.6 27B Uncensored HauhauCS Aggressive",
+      "downloads": 316211
+    },
+    {
+      "id": "0bserverx/Qwen3.8-27B-Heretic-Abliterated-Uncensored-GGUF",
+      "displayName": "Qwen3.8 27B Heretic Abliterated Uncensored",
+      "downloads": 150262
+    },
+    {
+      "id": "meta-models/Muse-Glimmer-30B-GGUF",
+      "displayName": "Muse Glimmer 30B",
+      "downloads": 426612
     }
   ]
 }
