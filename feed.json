@@ -1,6 +1,13 @@
 {
-  "updated": "2026-08-17T22:18:59Z",
+  "updated": "2026-08-18T00:57:42Z",
   "news": [
+    {
+      "title": "Anthropic\u2019s annualized revenue surges to $65B",
+      "url": "https://techcrunch.com/2026/08/17/anthropics-annualized-revenue-surges-to-65b/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-08-17T23:56:26Z",
+      "snippet": "The model maker added $18 billion in annualized revenue in two months."
+    },
     {
       "title": "AI automation startup Relay shuts down, staff joins Google\u2019s Chrome team",
       "url": "https://techcrunch.com/2026/08/17/ai-automation-startup-relay-shuts-down-staff-joins-googles-chrome-team/",
@@ -35,6 +42,13 @@
       "source": "TechCrunch",
       "publishedAt": "2026-08-17T13:10:05Z",
       "snippet": "The funds will allow Wispr to increase its footprint as it ventures into new areas, such as meetings, with its newly released note-taker tool."
+    },
+    {
+      "title": "Whisker\u2019s AI-powered litter robot thinks my cats swapped bodies",
+      "url": "https://www.theverge.com/tech/978323/whisker-litter-robot-5-pro-review",
+      "source": "The Verge",
+      "publishedAt": "2026-08-17T11:00:00Z",
+      "snippet": "The greatest invention in pet tech in recent years is the litter robot. A machine that scoops your kitties' poop so you don't have to - what else could a cat owner possibly want? How about insights in"
     },
     {
       "title": "Anthropic explains how Claude\u2019s invisible text watermarks will work",
@@ -149,13 +163,6 @@
       "snippet": "Meta released Glimmer this week, an open-weight AI model anyone can download and run on their own hardware \u2014 a contrast to Muse Spark, the company\u2019s more powerful model that stays locked behind its ow"
     },
     {
-      "title": "Kog is going deeper to squeeze more inference out of GPUs",
-      "url": "https://techcrunch.com/2026/08/14/kog-is-going-deeper-to-squeeze-more-inference-out-of-gpus/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-08-14T14:50:11Z",
-      "snippet": "The idea that GPUs are poorly suited for agentic workflows may be a misconception, according to French startup Kog."
-    },
-    {
       "title": "Apple trained its own AI model for China with help from Alibaba",
       "url": "https://www.theverge.com/ai-artificial-intelligence/980160/apple-intelligence-china-custom-ai-model-alibaba",
       "source": "The Verge",
@@ -168,13 +175,6 @@
       "source": "The Verge",
       "publishedAt": "2026-08-13T21:42:38Z",
       "snippet": "Microsoft Copilot will no longer show its emotive yellow blob, Mico, when you use the chatbot's voice mode. In a support page, Microsoft says it's going to move Mico to its Learn Live platform, where "
-    },
-    {
-      "title": "OpenAI is losing its second executive this week",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/979815/openai-denise-dresser-leaving-executive-departure",
-      "source": "The Verge",
-      "publishedAt": "2026-08-13T19:28:39Z",
-      "snippet": "Another OpenAI executive is departing. Denise Dresser, who joined OpenAI as its chief revenue officer in December after serving as CEO of Slack, will be leaving in the \"coming weeks\" to \"pursue other "
     }
   ],
   "trending": [
