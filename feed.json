@@ -1,6 +1,27 @@
 {
-  "updated": "2026-08-18T10:22:59Z",
+  "updated": "2026-08-18T12:36:11Z",
   "news": [
+    {
+      "title": "Google\u2019s Pet Memory forgot who my cats are",
+      "url": "https://www.theverge.com/tech/981269/google-home-gemini-pet-memory-nest-camera-review",
+      "source": "The Verge",
+      "publishedAt": "2026-08-18T12:01:29Z",
+      "snippet": "One of the best things my smart home does is help me care for my pets, and security cameras are particularly useful for keeping track of my many critters. But the barrage of notifications they send of"
+    },
+    {
+      "title": "Elon Musk made flying even worse so Palantir could profit",
+      "url": "https://www.theverge.com/transportation/981194/faa-air-traffic-elon-musk-peter-thiel-palantir",
+      "source": "The Verge",
+      "publishedAt": "2026-08-18T11:00:00Z",
+      "snippet": "On August 6th, the Minneapolis Air Route Traffic Control Center lost radar and communications for around two hours. The outage disrupted more than 1,100 flights across the center's 330,000 square mile"
+    },
+    {
+      "title": "ChatGPT is getting a dedicated mode for teens",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/981333/openai-chatgpt-teen-mode",
+      "source": "The Verge",
+      "publishedAt": "2026-08-18T11:00:00Z",
+      "snippet": "OpenAI is introducing a dedicated ChatGPT mode for teenagers, combining existing youth safeguards and new safety features under one roof. The launch comes amid mounting public scrutiny over how AI too"
+    },
     {
       "title": "Apple\u2019s camera-equipped AirPods appear in leaked video",
       "url": "https://www.theverge.com/tech/981326/apple-airpods-with-cameras-demo-video-leak",
@@ -142,20 +163,6 @@
       "snippet": "A guide on how to check if hackers have broken into your accounts on the most popular AI platforms."
     },
     {
-      "title": "Mark Zuckerberg has an Instagzam",
-      "url": "https://www.theverge.com/podcast/980367/instagram-logo-new-zuckerberg-ai-vergecast",
-      "source": "The Verge",
-      "publishedAt": "2026-08-14T16:54:16Z",
-      "snippet": "Instagram's wordmark is iconic. Well, was iconic. Apparently Instagram thought it looked old, so the company rolled out a new one this week. It doesn't look like the old Instagram wordmark. It doesn't"
-    },
-    {
-      "title": "You can now turn off Google Gemini\u2019s visible watermarks",
-      "url": "https://www.theverge.com/tech/980416/google-gemini-ai-watermarks-removal",
-      "source": "The Verge",
-      "publishedAt": "2026-08-14T16:39:32Z",
-      "snippet": "Google will now allow you to remove visible watermarks from the images, videos, and music made with AI tools. With the update, you can toggle off a new \"Media watermark\" setting in Gemini and Google's"
-    },
-    {
       "title": "Google will now allow users to remove visible watermark from its AI generations",
       "url": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/",
       "source": "TechCrunch",
@@ -168,13 +175,6 @@
       "source": "TechCrunch",
       "publishedAt": "2026-08-14T15:43:28Z",
       "snippet": "Meta released Glimmer this week, an open-weight AI model anyone can download and run on their own hardware \u2014 a contrast to Muse Spark, the company\u2019s more powerful model that stays locked behind its ow"
-    },
-    {
-      "title": "Apple trained its own AI model for China with help from Alibaba",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/980160/apple-intelligence-china-custom-ai-model-alibaba",
-      "source": "The Verge",
-      "publishedAt": "2026-08-14T09:21:17Z",
-      "snippet": "Apple has reportedly trained a custom AI model for the China market alongside domestic tech giant Alibaba, a rare cross-border partnership that cuts across growing tensions between Beijing and Washing"
     }
   ],
   "trending": [
@@ -189,19 +189,14 @@
       "downloads": 558767
     },
     {
-      "id": "unsloth/Muse-Glimmer-30B-GGUF",
-      "displayName": "Muse Glimmer 30B",
-      "downloads": 787276
-    },
-    {
       "id": "DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
       "displayName": "Qwen3.6 27B Fable Fusion 711 Uncensored Heretic NM DAU NEO MAX MTP",
       "downloads": 3020528
     },
     {
-      "id": "Blackfrost-AI/Qwen3.8-27B-ABLITERATED-GGUF",
-      "displayName": "Qwen3.8 27B ABLITERATED",
-      "downloads": 134149
+      "id": "unsloth/Muse-Glimmer-30B-GGUF",
+      "displayName": "Muse Glimmer 30B",
+      "downloads": 787276
     },
     {
       "id": "empero-ai/Qwen3.8-27B-Ridge-GGUF",
@@ -214,6 +209,11 @@
       "downloads": 27745
     },
     {
+      "id": "Blackfrost-AI/Qwen3.8-27B-ABLITERATED-GGUF",
+      "displayName": "Qwen3.8 27B ABLITERATED",
+      "downloads": 134149
+    },
+    {
       "id": "HauhauCS/Qwen3.6-27B-Uncensored-HauhauCS-Aggressive",
       "displayName": "Qwen3.6 27B Uncensored HauhauCS Aggressive",
       "downloads": 316211
@@ -224,9 +224,9 @@
       "downloads": 150262
     },
     {
-      "id": "meta-models/Muse-Glimmer-30B-GGUF",
-      "displayName": "Muse Glimmer 30B",
-      "downloads": 426612
+      "id": "AtomicChat/Qwen3.8-27B-GGUF",
+      "displayName": "Qwen3.8 27B",
+      "downloads": 72562
     }
   ]
 }
