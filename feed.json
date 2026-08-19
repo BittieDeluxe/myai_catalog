@@ -1,6 +1,13 @@
 {
-  "updated": "2026-08-19T12:36:36Z",
+  "updated": "2026-08-19T14:27:41Z",
   "news": [
+    {
+      "title": "Calendly throws its hat into meeting note-taker circus",
+      "url": "https://techcrunch.com/2026/08/19/calendly-throws-its-hat-into-meeting-note-taker-circus/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-08-19T14:09:39Z",
+      "snippet": "Calendly is also releasing a meeting scheduling assistant called Callie."
+    },
     {
       "title": "Nvidia\u2019s new financial strategy does not compute",
       "url": "https://www.theverge.com/ai-artificial-intelligence/981668/nvidias-goldman-blackrock-gpu-compute-asset",
@@ -156,13 +163,6 @@
       "snippet": "Nvidia's investment in SoftBank's data center developer will guarantee its chips power an OpenAI data center."
     },
     {
-      "title": "Wispr raises $280M at $2B valuation as it looks beyond dictation",
-      "url": "https://techcrunch.com/2026/08/17/wispr-raises-280m-at-2b-valuation-as-it-looks-beyond-dictation/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-08-17T13:10:05Z",
-      "snippet": "The funds will allow Wispr to increase its footprint as it ventures into new areas, such as meetings, with its newly released note-taker tool."
-    },
-    {
       "title": "Whisker\u2019s AI-powered litter robot thinks my cats swapped bodies",
       "url": "https://www.theverge.com/tech/978323/whisker-litter-robot-5-pro-review",
       "source": "The Verge",
@@ -204,14 +204,14 @@
       "downloads": 3033363
     },
     {
-      "id": "huihui-ai/Huihui-Qwen3.8-27B-abliterated-GGUF",
-      "displayName": "Huihui Qwen3.8 27B abliterated",
-      "downloads": 94234
-    },
-    {
       "id": "Blackfrost-AI/Qwen3.8-27B-ABLITERATED-GGUF",
       "displayName": "Qwen3.8 27B ABLITERATED",
       "downloads": 164263
+    },
+    {
+      "id": "huihui-ai/Huihui-Qwen3.8-27B-abliterated-GGUF",
+      "displayName": "Huihui Qwen3.8 27B abliterated",
+      "downloads": 94234
     },
     {
       "id": "unsloth/Muse-Glimmer-30B-GGUF",
