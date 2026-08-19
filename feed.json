@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-19T00:58:27Z",
+  "updated": "2026-08-19T02:52:34Z",
   "news": [
     {
       "title": "Cursor capitalizes on GitHub frustration, launches rival hosting platform",
@@ -189,14 +189,14 @@
       "downloads": 558767
     },
     {
-      "id": "DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
-      "displayName": "Qwen3.6 27B Fable Fusion 711 Uncensored Heretic NM DAU NEO MAX MTP",
-      "downloads": 3020528
-    },
-    {
       "id": "HauhauCS/Qwen3.8-27B-Uncensored-HauhauCS-Aggressive-MTP-GGUF",
       "displayName": "Qwen3.8 27B Uncensored HauhauCS Aggressive MTP",
       "downloads": 27745
+    },
+    {
+      "id": "DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
+      "displayName": "Qwen3.6 27B Fable Fusion 711 Uncensored Heretic NM DAU NEO MAX MTP",
+      "downloads": 3020528
     },
     {
       "id": "empero-ai/Qwen3.8-27B-Ridge-GGUF",
