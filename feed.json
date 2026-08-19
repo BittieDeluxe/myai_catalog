@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-19T04:32:00Z",
+  "updated": "2026-08-19T06:35:56Z",
   "news": [
     {
       "title": "Cursor capitalizes on GitHub frustration, launches rival hosting platform",
@@ -219,14 +219,14 @@
       "downloads": 150262
     },
     {
-      "id": "HauhauCS/Qwen3.6-27B-Uncensored-HauhauCS-Aggressive",
-      "displayName": "Qwen3.6 27B Uncensored HauhauCS Aggressive",
-      "downloads": 316211
-    },
-    {
       "id": "huihui-ai/Huihui-Qwen3.8-27B-abliterated-GGUF",
       "displayName": "Huihui Qwen3.8 27B abliterated",
       "downloads": 55279
+    },
+    {
+      "id": "HauhauCS/Qwen3.6-27B-Uncensored-HauhauCS-Aggressive",
+      "displayName": "Qwen3.6 27B Uncensored HauhauCS Aggressive",
+      "downloads": 316211
     }
   ]
 }
