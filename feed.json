@@ -1,6 +1,20 @@
 {
-  "updated": "2026-08-19T10:23:05Z",
+  "updated": "2026-08-19T12:36:36Z",
   "news": [
+    {
+      "title": "Nvidia\u2019s new financial strategy does not compute",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/981668/nvidias-goldman-blackrock-gpu-compute-asset",
+      "source": "The Verge",
+      "publishedAt": "2026-08-19T12:00:00Z",
+      "snippet": "April - 1805 Napoleon is master of Europe Only the British fleet stands before him Compute is now an asset class I see it is once again time to talk financial innovation. Apollo, BlackRock, Blackstone"
+    },
+    {
+      "title": "AI isn\u2019t close to curing cancer. This startup says it knows what it will take.",
+      "url": "https://techcrunch.com/2026/08/19/ai-isnt-close-to-curing-cancer-this-startup-says-it-knows-what-it-will-take/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-08-19T12:00:00Z",
+      "snippet": "It's the data, stupid."
+    },
     {
       "title": "Relativity Networks raises $22 million to bring a faster kind of fiber to data centers",
       "url": "https://techcrunch.com/2026/08/19/relativity-networks-raises-22-million-to-bring-a-faster-kind-of-fiber-to-data-centers/",
@@ -161,20 +175,6 @@
       "source": "The Verge",
       "publishedAt": "2026-08-17T10:57:13Z",
       "snippet": "Anthropic has clarified how it's planning to apply invisible watermarks to Claude-generated text in order to comply with Europe's AI transparency rules. On Friday, Anthropic announced that Claude's te"
-    },
-    {
-      "title": "OpenAI reportedly disbanded its preparedness team",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/980817/openai-disbands-preparedness-team",
-      "source": "The Verge",
-      "publishedAt": "2026-08-16T21:32:56Z",
-      "snippet": "According to the Financial Times, OpenAI disbanded its preparedness team at the end of last month. The job of the preparedness team was to assess if models posed serious risks and develop ways to miti"
-    },
-    {
-      "title": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
-      "url": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-08-16T20:57:04Z",
-      "snippet": "OpenRouter's CEO recently described the startup as Stripe for AI."
     }
   ],
   "trending": [
@@ -194,24 +194,24 @@
       "downloads": 131113
     },
     {
-      "id": "DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
-      "displayName": "Qwen3.6 27B Fable Fusion 711 Uncensored Heretic NM DAU NEO MAX MTP",
-      "downloads": 3033363
-    },
-    {
       "id": "empero-ai/Qwen3.8-27B-Ridge-GGUF",
       "displayName": "Qwen3.8 27B Ridge",
       "downloads": 32454
     },
     {
-      "id": "Blackfrost-AI/Qwen3.8-27B-ABLITERATED-GGUF",
-      "displayName": "Qwen3.8 27B ABLITERATED",
-      "downloads": 164263
+      "id": "DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
+      "displayName": "Qwen3.6 27B Fable Fusion 711 Uncensored Heretic NM DAU NEO MAX MTP",
+      "downloads": 3033363
     },
     {
       "id": "huihui-ai/Huihui-Qwen3.8-27B-abliterated-GGUF",
       "displayName": "Huihui Qwen3.8 27B abliterated",
       "downloads": 94234
+    },
+    {
+      "id": "Blackfrost-AI/Qwen3.8-27B-ABLITERATED-GGUF",
+      "displayName": "Qwen3.8 27B ABLITERATED",
+      "downloads": 164263
     },
     {
       "id": "unsloth/Muse-Glimmer-30B-GGUF",
