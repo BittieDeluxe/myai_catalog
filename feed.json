@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-19T06:35:56Z",
+  "updated": "2026-08-19T08:31:15Z",
   "news": [
     {
       "title": "Cursor capitalizes on GitHub frustration, launches rival hosting platform",
@@ -204,24 +204,24 @@
       "downloads": 12854
     },
     {
-      "id": "unsloth/Muse-Glimmer-30B-GGUF",
-      "displayName": "Muse Glimmer 30B",
-      "downloads": 787276
-    },
-    {
       "id": "Blackfrost-AI/Qwen3.8-27B-ABLITERATED-GGUF",
       "displayName": "Qwen3.8 27B ABLITERATED",
       "downloads": 134149
     },
     {
-      "id": "0bserverx/Qwen3.8-27B-Heretic-Abliterated-Uncensored-GGUF",
-      "displayName": "Qwen3.8 27B Heretic Abliterated Uncensored",
-      "downloads": 150262
+      "id": "unsloth/Muse-Glimmer-30B-GGUF",
+      "displayName": "Muse Glimmer 30B",
+      "downloads": 787276
     },
     {
       "id": "huihui-ai/Huihui-Qwen3.8-27B-abliterated-GGUF",
       "displayName": "Huihui Qwen3.8 27B abliterated",
       "downloads": 55279
+    },
+    {
+      "id": "0bserverx/Qwen3.8-27B-Heretic-Abliterated-Uncensored-GGUF",
+      "displayName": "Qwen3.8 27B Heretic Abliterated Uncensored",
+      "downloads": 150262
     },
     {
       "id": "HauhauCS/Qwen3.6-27B-Uncensored-HauhauCS-Aggressive",
