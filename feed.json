@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-19T02:52:34Z",
+  "updated": "2026-08-19T04:32:00Z",
   "news": [
     {
       "title": "Cursor capitalizes on GitHub frustration, launches rival hosting platform",
@@ -224,9 +224,9 @@
       "downloads": 316211
     },
     {
-      "id": "AtomicChat/Qwen3.8-27B-GGUF",
-      "displayName": "Qwen3.8 27B",
-      "downloads": 72562
+      "id": "huihui-ai/Huihui-Qwen3.8-27B-abliterated-GGUF",
+      "displayName": "Huihui Qwen3.8 27B abliterated",
+      "downloads": 55279
     }
   ]
 }
