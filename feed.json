@@ -1,6 +1,13 @@
 {
-  "updated": "2026-08-19T08:31:15Z",
+  "updated": "2026-08-19T10:23:05Z",
   "news": [
+    {
+      "title": "Relativity Networks raises $22 million to bring a faster kind of fiber to data centers",
+      "url": "https://techcrunch.com/2026/08/19/relativity-networks-raises-22-million-to-bring-a-faster-kind-of-fiber-to-data-centers/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-08-19T10:00:00Z",
+      "snippet": "Relativity Networks deals in hollow-core fiber, a rarely deployed technology that allows data to be transmitted 30% faster than conventional fiber."
+    },
     {
       "title": "Cursor capitalizes on GitHub frustration, launches rival hosting platform",
       "url": "https://techcrunch.com/2026/08/18/cursor-capitalizes-on-github-frustration-launches-rival-hosting-platform/",
@@ -168,65 +175,58 @@
       "source": "TechCrunch",
       "publishedAt": "2026-08-16T20:57:04Z",
       "snippet": "OpenRouter's CEO recently described the startup as Stripe for AI."
-    },
-    {
-      "title": "Why people aren\u2019t buying Mark Zuckerberg\u2019s AI future",
-      "url": "https://techcrunch.com/2026/08/16/why-people-arent-buying-mark-zuckerbergs-ai-future/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-08-16T20:32:01Z",
-      "snippet": "On the latest episode of Equity podcast, we discuss why not everyone is buying Zuckerberg\u2019s vision."
     }
   ],
   "trending": [
     {
       "id": "unsloth/Qwen3.8-27B-GGUF",
       "displayName": "Qwen3.8 27B",
-      "downloads": 3561466
+      "downloads": 4318134
     },
     {
       "id": "JonathanColetti/Qwen3.8-27B-Uncensored-GGUF",
       "displayName": "Qwen3.8 27B Uncensored",
-      "downloads": 558767
+      "downloads": 766812
     },
     {
       "id": "HauhauCS/Qwen3.8-27B-Uncensored-HauhauCS-Aggressive-MTP-GGUF",
       "displayName": "Qwen3.8 27B Uncensored HauhauCS Aggressive MTP",
-      "downloads": 27745
+      "downloads": 131113
     },
     {
       "id": "DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
       "displayName": "Qwen3.6 27B Fable Fusion 711 Uncensored Heretic NM DAU NEO MAX MTP",
-      "downloads": 3020528
+      "downloads": 3033363
     },
     {
       "id": "empero-ai/Qwen3.8-27B-Ridge-GGUF",
       "displayName": "Qwen3.8 27B Ridge",
-      "downloads": 12854
+      "downloads": 32454
     },
     {
       "id": "Blackfrost-AI/Qwen3.8-27B-ABLITERATED-GGUF",
       "displayName": "Qwen3.8 27B ABLITERATED",
-      "downloads": 134149
-    },
-    {
-      "id": "unsloth/Muse-Glimmer-30B-GGUF",
-      "displayName": "Muse Glimmer 30B",
-      "downloads": 787276
+      "downloads": 164263
     },
     {
       "id": "huihui-ai/Huihui-Qwen3.8-27B-abliterated-GGUF",
       "displayName": "Huihui Qwen3.8 27B abliterated",
-      "downloads": 55279
+      "downloads": 94234
+    },
+    {
+      "id": "unsloth/Muse-Glimmer-30B-GGUF",
+      "displayName": "Muse Glimmer 30B",
+      "downloads": 818805
     },
     {
       "id": "0bserverx/Qwen3.8-27B-Heretic-Abliterated-Uncensored-GGUF",
       "displayName": "Qwen3.8 27B Heretic Abliterated Uncensored",
-      "downloads": 150262
+      "downloads": 245266
     },
     {
-      "id": "HauhauCS/Qwen3.6-27B-Uncensored-HauhauCS-Aggressive",
-      "displayName": "Qwen3.6 27B Uncensored HauhauCS Aggressive",
-      "downloads": 316211
+      "id": "orcarouter/Qwen3.8-27B-Uncensored-GGUF",
+      "displayName": "Qwen3.8 27B Uncensored",
+      "downloads": 26472
     }
   ]
 }
