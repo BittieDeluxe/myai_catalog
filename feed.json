@@ -1,6 +1,13 @@
 {
-  "updated": "2026-08-20T12:37:55Z",
+  "updated": "2026-08-20T14:30:35Z",
   "news": [
+    {
+      "title": "Welcome to the AI crisis in math",
+      "url": "https://www.theverge.com/podcast/982434/ai-math-openai-astra-existential-crisis",
+      "source": "The Verge",
+      "publishedAt": "2026-08-20T14:00:00Z",
+      "snippet": "Today on Decoder, I\u2019m talking with Robert Hart, The Verge\u2019s London-based AI reporter, about what AI is doing to the field of mathematics and the existential crisis many lead mathematicians are having "
+    },
     {
       "title": "Meta AI\u2019s new Mac app wants you to talk to your apps",
       "url": "https://techcrunch.com/2026/08/20/meta-ais-new-mac-app-wants-you-to-talk-to-your-apps/",
@@ -168,13 +175,6 @@
       "source": "The Verge",
       "publishedAt": "2026-08-18T12:01:29Z",
       "snippet": "One of the best things my smart home does is help me care for my pets, and security cameras are particularly useful for keeping track of my many critters. But the barrage of notifications they send of"
-    },
-    {
-      "title": "Elon Musk broke the FAA \u2014 Palantir is picking up the pieces",
-      "url": "https://www.theverge.com/transportation/981194/faa-air-traffic-elon-musk-peter-thiel-palantir",
-      "source": "The Verge",
-      "publishedAt": "2026-08-18T11:00:00Z",
-      "snippet": "On August 6th, the Minneapolis Air Route Traffic Control Center lost radar and communications for around two hours. The outage disrupted more than 1,100 flights across the center's 330,000 square mile"
     }
   ],
   "trending": [
@@ -209,14 +209,14 @@
       "downloads": 187008
     },
     {
-      "id": "Blackfrost-AI/Qwen3.8-27B-ABLITERATED-GGUF",
-      "displayName": "Qwen3.8 27B ABLITERATED",
-      "downloads": 186470
-    },
-    {
       "id": "0bserverx/Qwen3.8-27B-Heretic-Abliterated-Uncensored-GGUF",
       "displayName": "Qwen3.8 27B Heretic Abliterated Uncensored",
       "downloads": 326638
+    },
+    {
+      "id": "Blackfrost-AI/Qwen3.8-27B-ABLITERATED-GGUF",
+      "displayName": "Qwen3.8 27B ABLITERATED",
+      "downloads": 186470
     },
     {
       "id": "DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
@@ -224,9 +224,9 @@
       "downloads": 3001999
     },
     {
-      "id": "ornith-ai/Ornith-1.5-35B-A3B-GGUF",
-      "displayName": "Ornith 1.5 35B A3B",
-      "downloads": 53691
+      "id": "OBLITERATUS/Qwen3.8-27B-OBLITERATED",
+      "displayName": "Qwen3.8 27B OBLITERATED",
+      "downloads": 4415
     }
   ]
 }
