@@ -1,6 +1,34 @@
 {
-  "updated": "2026-08-20T16:28:41Z",
+  "updated": "2026-08-20T18:32:13Z",
   "news": [
+    {
+      "title": "Linkdaze\u2019s smart calendar is built to run a household, not just track a schedule",
+      "url": "https://techcrunch.com/2026/08/20/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-08-20T18:20:35Z",
+      "snippet": "Linkdaze's smart digital calendar stands out for not putting its features behind a paywall, including an AI meal planner tool."
+    },
+    {
+      "title": "Grok keeps sending gibberish responses to users",
+      "url": "https://techcrunch.com/2026/08/20/grok-keeps-sending-gibberish-responses-to-users/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-08-20T17:32:16Z",
+      "snippet": "Affected users told TechCrunch they were using Grok Lite, and noticed the issues as early as Wednesday morning."
+    },
+    {
+      "title": "A third of web pages published since ChatGPT\u2019s launch show signs of AI authorship, study finds",
+      "url": "https://techcrunch.com/2026/08/20/a-third-of-webpages-published-since-chatgpts-launch-show-signs-of-ai-authorship-study-finds/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-08-20T17:18:58Z",
+      "snippet": "ChatGPT and other AI models are now authoring and editing much of the new web."
+    },
+    {
+      "title": "Ramp launches its own AI model router, called Router",
+      "url": "https://techcrunch.com/2026/08/20/ramp-launches-its-own-ai-model-router-called-router/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-08-20T16:46:00Z",
+      "snippet": "Ramp has launched its own AI model routing service, dubbed Router, that lets users and companies use and switch between various large language models via an API."
+    },
     {
       "title": "Meta brings Pocket, an app that lets you vibe-code and share games, to US users",
       "url": "https://techcrunch.com/2026/08/20/meta-brings-pocket-an-app-that-lets-you-vibe-code-and-share-games-to-us-users/",
@@ -13,7 +41,7 @@
       "url": "https://techcrunch.com/2026/08/20/inertia-enterprises-finds-a-way-to-make-its-fusion-fuel-fast/",
       "source": "TechCrunch",
       "publishedAt": "2026-08-20T16:00:00Z",
-      "snippet": "Fusion power startup Inertia Enterprises reduced the fuel filling process from a week to just a few hours. It's one of ten hurdles the company must overcome to make a profitable power plant."
+      "snippet": "Fusion power startup Inertia Enterprises reduced the fuel filling process from a week to just a few hours. It's one of 10 hurdles the company must overcome to make a profitable power plant."
     },
     {
       "title": "It\u2019s Greg Brockman\u2019s OpenAI now",
@@ -121,39 +149,11 @@
       "snippet": "Meta is launching a new Mac app dedicated to its AI chatbot. In an announcement on Wednesday, Meta says you can share your window with its AI chatbot, which can provide suggestions, answer questions, "
     },
     {
-      "title": "TerraPower\u2019s nuclear reactor has a secret weapon for powering AI data centers",
-      "url": "https://techcrunch.com/2026/08/19/terrapowers-nuclear-reactor-has-a-secret-weapon-for-powering-ai-data-centers/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-08-19T15:44:53Z",
-      "snippet": "TerraPower's nuclear power plant possesses a strategic advantage over competitors, especially when chasing after data center deals."
-    },
-    {
-      "title": "Amazon makes its AI-powered Alexa+ free on Fire TV, no Prime required",
-      "url": "https://techcrunch.com/2026/08/19/amazon-makes-its-ai-powered-alexa-free-on-fire-tv-no-prime-required/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-08-19T15:00:00Z",
-      "snippet": "Amazon is making its AI-powered Alexa+ assistant free on all compatible Fire TV devices in the U.S., automatically upgrading users whether or not they subscribe to Prime."
-    },
-    {
-      "title": "Calendly throws its hat into meeting note-taker circus",
-      "url": "https://techcrunch.com/2026/08/19/calendly-throws-its-hat-into-meeting-note-taker-circus/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-08-19T14:09:39Z",
-      "snippet": "Calendly is also releasing a meeting scheduling assistant called Callie."
-    },
-    {
       "title": "Nvidia\u2019s new financial strategy does not compute",
       "url": "https://www.theverge.com/ai-artificial-intelligence/981668/nvidias-goldman-blackrock-gpu-compute-asset",
       "source": "The Verge",
       "publishedAt": "2026-08-19T12:00:00Z",
       "snippet": "April - 1805 Napoleon is master of Europe Only the British fleet stands before him Compute is now an asset class I see it is once again time to talk financial innovation. Apollo, BlackRock, Blackstone"
-    },
-    {
-      "title": "AI isn\u2019t close to curing cancer. This startup says it knows what it will take.",
-      "url": "https://techcrunch.com/2026/08/19/ai-isnt-close-to-curing-cancer-this-startup-says-it-knows-what-it-will-take/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-08-19T12:00:00Z",
-      "snippet": "It's the data, stupid."
     },
     {
       "title": "Robin Williams\u2019 Instagram account brought back to fight \u2018AI abuse\u2019",
@@ -199,6 +199,11 @@
       "downloads": 55074
     },
     {
+      "id": "OBLITERATUS/Qwen3.8-27B-OBLITERATED",
+      "displayName": "Qwen3.8 27B OBLITERATED",
+      "downloads": 4415
+    },
+    {
       "id": "orcarouter/Qwen3.8-27B-Uncensored-GGUF",
       "displayName": "Qwen3.8 27B Uncensored",
       "downloads": 52382
@@ -217,11 +222,6 @@
       "id": "0bserverx/Qwen3.8-27B-Heretic-Abliterated-Uncensored-GGUF",
       "displayName": "Qwen3.8 27B Heretic Abliterated Uncensored",
       "downloads": 326638
-    },
-    {
-      "id": "OBLITERATUS/Qwen3.8-27B-OBLITERATED",
-      "displayName": "Qwen3.8 27B OBLITERATED",
-      "downloads": 4415
     },
     {
       "id": "DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
