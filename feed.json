@@ -1,6 +1,27 @@
 {
-  "updated": "2026-08-20T20:22:24Z",
+  "updated": "2026-08-20T22:21:12Z",
   "news": [
+    {
+      "title": "ChatGPT can now send texts for you with new Apple Messages plugin",
+      "url": "https://techcrunch.com/2026/08/20/chatgpt-can-now-send-texts-for-you-with-new-apple-messages-plugin/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-08-20T22:09:51Z",
+      "snippet": "Ever wanted someone else to do your texting for you? ChatGPT is being offered up as an automated text scribe via a new Apple Messages integration."
+    },
+    {
+      "title": "Google Discover is getting an AI chatbot-tuned feed",
+      "url": "https://www.theverge.com/tech/983088/google-discover-ai-chatbot-feed",
+      "source": "The Verge",
+      "publishedAt": "2026-08-20T21:50:22Z",
+      "snippet": "Google will soon allow you to customize your Discover feed by describing what you want to see. The new feature, rolling out to the Google app in the \"coming days,\" will use AI to automatically tweak y"
+    },
+    {
+      "title": "OK, can we actually cool data centers with our pee?",
+      "url": "https://techcrunch.com/2026/08/20/ok-can-we-actually-cool-data-centers-with-our-pee/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-08-20T20:53:13Z",
+      "snippet": "Jason Kelce joked that people should cool data centers with their pee, rather than potable water -- but his suggestion is not completely ludicrous."
+    },
     {
       "title": "Google gives publishers a new way to fight AI-driven traffic losses",
       "url": "https://techcrunch.com/2026/08/20/google-gives-publishers-a-new-way-to-fight-ai-driven-traffic-losses/",
@@ -114,25 +135,11 @@
       "snippet": "SpaceX was reportedly in talks to buy AI coding startup Cognition. SpaceX has already acquired Cursor as it races to catch up to rivals like OpenAI and Anthropic in enterprise AI."
     },
     {
-      "title": "AI was supposed to win people over by now \u2014 it hasn\u2019t",
-      "url": "https://techcrunch.com/2026/08/19/ai-was-supposed-to-win-people-over-by-now-it-hasnt/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-08-19T19:11:40Z",
-      "snippet": "As AI becomes harder to avoid, consumers are growing more wary of the technology \u2014 and Silicon Valley is discovering that widespread adoption doesn\u2019t necessarily lead to acceptance."
-    },
-    {
       "title": "Google Gemini is getting a dedicated student hub",
       "url": "https://www.theverge.com/ai-artificial-intelligence/982425/google-gemini-student-hub",
       "source": "The Verge",
       "publishedAt": "2026-08-19T19:00:00Z",
       "snippet": "As we're gearing up for back-to-school season, Google is rolling out a new dedicated student hub in Gemini. It's a one-stop repository for collecting research in a study notebook, creating flashcards,"
-    },
-    {
-      "title": "Google packs Search and Gemini with new AI study tools",
-      "url": "https://techcrunch.com/2026/08/19/google-launches-new-study-tools-for-students-across-search-and-gemini/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-08-19T19:00:00Z",
-      "snippet": "The launch of the new study features marks Google's latest effort to make Gemini the AI assistant that students turn to when learning and studying, as it continues to compete with companies like OpenA"
     },
     {
       "title": "OpenAI hit the brakes. Now what?",
@@ -168,13 +175,6 @@
       "source": "The Verge",
       "publishedAt": "2026-08-18T19:28:30Z",
       "snippet": "OpenAI is announcing security updates following the July news that its AI broke out of a sandboxed environment and accidentally hacked Hugging Face, including improvements to its research environments"
-    },
-    {
-      "title": "Firefox\u2019s Smart Window promises a better AI browser",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/981283/mozilla-firefox-smart-window-ai-features",
-      "source": "The Verge",
-      "publishedAt": "2026-08-18T13:00:00Z",
-      "snippet": "Starting today, AI chats in Firefox's Smart Window AI browsing mode can pull from current web info and show source links in chat responses through a partnership with Exa. Smart Window can also now aut"
     }
   ],
   "trending": [
@@ -224,9 +224,9 @@
       "downloads": 186470
     },
     {
-      "id": "DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
-      "displayName": "Qwen3.6 27B Fable Fusion 711 Uncensored Heretic NM DAU NEO MAX MTP",
-      "downloads": 3001999
+      "id": "ornith-ai/Ornith-1.5-35B-A3B-GGUF",
+      "displayName": "Ornith 1.5 35B A3B",
+      "downloads": 53691
     }
   ]
 }
