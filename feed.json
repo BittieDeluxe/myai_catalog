@@ -1,6 +1,13 @@
 {
-  "updated": "2026-08-19T22:19:12Z",
+  "updated": "2026-08-20T00:58:08Z",
   "news": [
+    {
+      "title": "Stripe didn\u2019t really buy OpenRouter because of the \u2018singularity\u2019",
+      "url": "https://techcrunch.com/2026/08/19/stripe-didnt-really-buy-openrouter-because-of-the-singularity/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-08-19T23:32:00Z",
+      "snippet": "What does a payments giant want with a startup that routes prompts between different AI models? Stripe says it's because of \"the singularity\" but it's really for a far more real and powerful reason."
+    },
     {
       "title": "OpenAI seeks to one-up Anthropic with new customer privacy protections",
       "url": "https://techcrunch.com/2026/08/19/openai-seeks-to-one-up-anthropic-with-new-customer-privacy-protections/",
@@ -142,13 +149,6 @@
       "snippet": "Jane Street has installed Etched's first shipped AI cluster system, and was so impressed, it led another massive round, the startup says."
     },
     {
-      "title": "Why Apple\u2019s camera-equipped AirPods may not be the \u2018pervert pods\u2019 consumers fear",
-      "url": "https://techcrunch.com/2026/08/18/why-apples-camera-equipped-airpods-may-not-be-the-pervert-pods-consumers-fear/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-08-18T16:19:10Z",
-      "snippet": "Apple\u2019s leaked camera-equipped AirPods might avoid the privacy pitfalls of other AI wearables by preventing users from recording photos and videos."
-    },
-    {
       "title": "Firefox\u2019s Smart Window promises a better AI browser",
       "url": "https://www.theverge.com/ai-artificial-intelligence/981283/mozilla-firefox-smart-window-ai-features",
       "source": "The Verge",
@@ -224,9 +224,9 @@
       "downloads": 245266
     },
     {
-      "id": "unsloth/Muse-Glimmer-30B-GGUF",
-      "displayName": "Muse Glimmer 30B",
-      "downloads": 818805
+      "id": "AtomicChat/Qwen3.8-27B-GGUF",
+      "displayName": "Qwen3.8 27B",
+      "downloads": 121717
     }
   ]
 }
