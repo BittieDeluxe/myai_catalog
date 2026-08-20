@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-20T06:37:39Z",
+  "updated": "2026-08-20T08:31:48Z",
   "news": [
     {
       "title": "Stripe didn\u2019t really buy OpenRouter because of the \u2018singularity\u2019",
@@ -28,6 +28,13 @@
       "source": "TechCrunch",
       "publishedAt": "2026-08-19T19:11:40Z",
       "snippet": "As AI becomes harder to avoid, consumers are growing more wary of the technology \u2014 and Silicon Valley is discovering that widespread adoption doesn\u2019t necessarily lead to acceptance."
+    },
+    {
+      "title": "Google Gemini is getting a dedicated student hub",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/982425/google-gemini-student-hub",
+      "source": "The Verge",
+      "publishedAt": "2026-08-19T19:00:00Z",
+      "snippet": "As we're gearing up for back-to-school season, Google is rolling out a new dedicated student hub in Gemini. It's a one-stop repository for collecting research in a study notebook, creating flashcards,"
     },
     {
       "title": "Google packs Search and Gemini with new AI study tools",
@@ -168,13 +175,6 @@
       "source": "The Verge",
       "publishedAt": "2026-08-18T11:00:00Z",
       "snippet": "OpenAI is introducing a dedicated ChatGPT mode for teenagers, combining existing youth safeguards and new safety features under one roof. The launch comes amid mounting public scrutiny over how AI too"
-    },
-    {
-      "title": "Apple\u2019s camera-equipped AirPods appear in leaked video",
-      "url": "https://www.theverge.com/tech/981326/apple-airpods-with-cameras-demo-video-leak",
-      "source": "The Verge",
-      "publishedAt": "2026-08-18T09:00:01Z",
-      "snippet": "We may have our first glimpse of Apple's rumored camera-equipped AirPods, thanks to a video that MacRumors found in the macOS Tahoe 26.7 Release Candidate. The short video clip features a man - who is"
     }
   ],
   "trending": [
@@ -204,14 +204,14 @@
       "downloads": 26472
     },
     {
-      "id": "Blackfrost-AI/Qwen3.8-27B-ABLITERATED-GGUF",
-      "displayName": "Qwen3.8 27B ABLITERATED",
-      "downloads": 164263
-    },
-    {
       "id": "huihui-ai/Huihui-Qwen3.8-27B-abliterated-GGUF",
       "displayName": "Huihui Qwen3.8 27B abliterated",
       "downloads": 94234
+    },
+    {
+      "id": "Blackfrost-AI/Qwen3.8-27B-ABLITERATED-GGUF",
+      "displayName": "Qwen3.8 27B ABLITERATED",
+      "downloads": 164263
     },
     {
       "id": "0bserverx/Qwen3.8-27B-Heretic-Abliterated-Uncensored-GGUF",
