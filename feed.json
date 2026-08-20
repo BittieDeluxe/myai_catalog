@@ -1,6 +1,20 @@
 {
-  "updated": "2026-08-20T10:23:50Z",
+  "updated": "2026-08-20T12:37:55Z",
   "news": [
+    {
+      "title": "Meta AI\u2019s new Mac app wants you to talk to your apps",
+      "url": "https://techcrunch.com/2026/08/20/meta-ais-new-mac-app-wants-you-to-talk-to-your-apps/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-08-20T12:11:57Z",
+      "snippet": "Meta said its Muse Spark model is powering the dictation feature."
+    },
+    {
+      "title": "Slack is launching collaborative vibe-coding channels",
+      "url": "https://www.theverge.com/tech/982628/slack-code-vibe-coding-channels-launch",
+      "source": "The Verge",
+      "publishedAt": "2026-08-20T12:00:00Z",
+      "snippet": "Slack is introducing dedicated channels where teams can vibe-code together with AI agents instead of jumping between different tools and conversations. The Slack Code launch includes open, project-spe"
+    },
     {
       "title": "Binance now lets AI agents trade, but keeping them in check is largely up to users",
       "url": "https://techcrunch.com/2026/08/20/binance-now-lets-ai-agents-trade-but-keeping-them-in-check-is-largely-up-to-users/",
@@ -142,13 +156,6 @@
       "snippet": "OpenAI is announcing security updates following the July news that its AI broke out of a sandboxed environment and accidentally hacked Hugging Face, including improvements to its research environments"
     },
     {
-      "title": "OpenAI institutes new safeguards after Hugging Face breach",
-      "url": "https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-08-18T18:00:00Z",
-      "snippet": "The new safeguards include more detailed monitoring of models during the development process, as well as greater emphasis on alignment and security during the post-training process."
-    },
-    {
       "title": "Firefox\u2019s Smart Window promises a better AI browser",
       "url": "https://www.theverge.com/ai-artificial-intelligence/981283/mozilla-firefox-smart-window-ai-features",
       "source": "The Verge",
@@ -168,13 +175,6 @@
       "source": "The Verge",
       "publishedAt": "2026-08-18T11:00:00Z",
       "snippet": "On August 6th, the Minneapolis Air Route Traffic Control Center lost radar and communications for around two hours. The outage disrupted more than 1,100 flights across the center's 330,000 square mile"
-    },
-    {
-      "title": "ChatGPT is getting a dedicated mode for teens",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/981333/openai-chatgpt-teen-mode",
-      "source": "The Verge",
-      "publishedAt": "2026-08-18T11:00:00Z",
-      "snippet": "OpenAI is introducing a dedicated ChatGPT mode for teenagers, combining existing youth safeguards and new safety features under one roof. The launch comes amid mounting public scrutiny over how AI too"
     }
   ],
   "trending": [
@@ -224,9 +224,9 @@
       "downloads": 3001999
     },
     {
-      "id": "AtomicChat/Qwen3.8-27B-GGUF",
-      "displayName": "Qwen3.8 27B",
-      "downloads": 206960
+      "id": "ornith-ai/Ornith-1.5-35B-A3B-GGUF",
+      "displayName": "Ornith 1.5 35B A3B",
+      "downloads": 53691
     }
   ]
 }
