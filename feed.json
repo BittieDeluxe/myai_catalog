@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-21T16:26:57Z",
+  "updated": "2026-08-21T18:29:39Z",
   "news": [
     {
       "title": "The DOJ is investigating a16z. What does this mean for venture capital?",
@@ -189,14 +189,14 @@
       "downloads": 1126222
     },
     {
-      "id": "HauhauCS/Qwen3.8-27B-Uncensored-HauhauCS-Aggressive-MTP-GGUF",
-      "displayName": "Qwen3.8 27B Uncensored HauhauCS Aggressive MTP",
-      "downloads": 357225
-    },
-    {
       "id": "OBLITERATUS/Qwen3.8-27B-OBLITERATED",
       "displayName": "Qwen3.8 27B OBLITERATED",
       "downloads": 123956
+    },
+    {
+      "id": "HauhauCS/Qwen3.8-27B-Uncensored-HauhauCS-Aggressive-MTP-GGUF",
+      "displayName": "Qwen3.8 27B Uncensored HauhauCS Aggressive MTP",
+      "downloads": 357225
     },
     {
       "id": "empero-ai/Qwen3.8-27B-Ridge-GGUF",
