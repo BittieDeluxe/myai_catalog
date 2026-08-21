@@ -1,6 +1,13 @@
 {
-  "updated": "2026-08-21T20:19:52Z",
+  "updated": "2026-08-21T22:18:37Z",
   "news": [
+    {
+      "title": "Over 1 million people have clicked LinkedIn\u2019s AI slop button",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/983502/linkedin-ai-slop-button-one-million-people-message",
+      "source": "The Verge",
+      "publishedAt": "2026-08-21T21:25:50Z",
+      "snippet": "LinkedIn actually announced a \"Seems like AI slop\" button on July 30th, and the company says that a lot of people have already used it. According to a Thursday post from chief product officer Hari Sri"
+    },
     {
       "title": "Nvidia just showed that the harness, not the AI model, is now the real hero",
       "url": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/",
@@ -168,13 +175,6 @@
       "source": "The Verge",
       "publishedAt": "2026-08-19T12:00:00Z",
       "snippet": "April - 1805 Napoleon is master of Europe Only the British fleet stands before him Compute is now an asset class I see it is once again time to talk financial innovation. Apollo, BlackRock, Blackstone"
-    },
-    {
-      "title": "Robin Williams\u2019 Instagram account brought back to fight \u2018AI abuse\u2019",
-      "url": "https://www.theverge.com/entertainment/981644/robin-williams-instagram-account-ai",
-      "source": "The Verge",
-      "publishedAt": "2026-08-18T19:48:26Z",
-      "snippet": "Robin Williams' children are taking over their father's Instagram account after his daughter spoke out against the use of his AI likeness, as reported earlier by The Wrap. In a post on Tuesday, Zak, Z"
     }
   ],
   "trending": [
@@ -214,14 +214,14 @@
       "downloads": 338221
     },
     {
-      "id": "0bserverx/Qwen3.8-27B-Heretic-Abliterated-Uncensored-GGUF",
-      "displayName": "Qwen3.8 27B Heretic Abliterated Uncensored",
-      "downloads": 421918
-    },
-    {
       "id": "ornith-ai/Ornith-1.5-35B-A3B-GGUF",
       "displayName": "Ornith 1.5 35B A3B",
       "downloads": 123237
+    },
+    {
+      "id": "0bserverx/Qwen3.8-27B-Heretic-Abliterated-Uncensored-GGUF",
+      "displayName": "Qwen3.8 27B Heretic Abliterated Uncensored",
+      "downloads": 421918
     },
     {
       "id": "Blackfrost-AI/Qwen3.8-27B-ABLITERATED-GGUF",
