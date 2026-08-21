@@ -1,12 +1,12 @@
 {
-  "updated": "2026-08-21T18:29:39Z",
+  "updated": "2026-08-21T20:19:52Z",
   "news": [
     {
-      "title": "The DOJ is investigating a16z. What does this mean for venture capital?",
-      "url": "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital/",
+      "title": "Nvidia just showed that the harness, not the AI model, is now the real hero",
+      "url": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/",
       "source": "TechCrunch",
-      "publishedAt": "2026-08-21T14:00:00Z",
-      "snippet": "Andreessen Horowitz has two partners sitting on the boards of companies that now compete with each other: Ben Horowitz at Databricks and Martin Casado at Fivetran. Nothing too scandalous on the surfac"
+      "publishedAt": "2026-08-21T19:43:39Z",
+      "snippet": "Nvidia research shows that AI agents can perform well, and not go off the deep end, through fine-tuning, even if the AI model isn't that great at the task."
     },
     {
       "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
@@ -14,6 +14,13 @@
       "source": "TechCrunch",
       "publishedAt": "2026-08-21T14:00:00Z",
       "snippet": "There's about to be a big fight to secure access to space."
+    },
+    {
+      "title": "The DOJ is investigating a16z. What does this mean for venture capital?",
+      "url": "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-08-21T14:00:00Z",
+      "snippet": "Andreessen Horowitz has two partners sitting on the boards of companies that now compete with each other: Ben Horowitz at Databricks and Martin Casado at Fivetran. Nothing too scandalous on the surfac"
     },
     {
       "title": "Major YouTube creators are facing backlash for accepting AI money",
@@ -126,13 +133,6 @@
       "source": "The Verge",
       "publishedAt": "2026-08-20T14:00:00Z",
       "snippet": "Today on Decoder, I\u2019m talking with Robert Hart, The Verge\u2019s London-based AI reporter, about what AI is doing to the field of mathematics and the existential crisis many lead mathematicians are having "
-    },
-    {
-      "title": "Meta AI\u2019s new Mac app wants you to talk to your apps",
-      "url": "https://techcrunch.com/2026/08/20/meta-ais-new-mac-app-wants-you-to-talk-to-your-apps/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-08-20T12:11:57Z",
-      "snippet": "The company said that the dictation feature works across all apps, just like other tools such as Wispr Flow, Superwhisper, and Monologue."
     },
     {
       "title": "Slack is launching collaborative vibe-coding channels",
