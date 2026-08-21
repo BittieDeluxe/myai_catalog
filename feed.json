@@ -1,6 +1,13 @@
 {
-  "updated": "2026-08-21T14:29:20Z",
+  "updated": "2026-08-21T16:26:57Z",
   "news": [
+    {
+      "title": "The DOJ is investigating a16z. What does this mean for venture capital?",
+      "url": "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-08-21T14:00:00Z",
+      "snippet": "Andreessen Horowitz has two partners sitting on the boards of companies that now compete with each other: Ben Horowitz at Databricks and Martin Casado at Fivetran. Nothing too scandalous on the surfac"
+    },
     {
       "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
       "url": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/",
@@ -79,7 +86,7 @@
       "snippet": "Affected users told TechCrunch they were using Grok Lite, and noticed the issues as early as Wednesday morning."
     },
     {
-      "title": "A third of web pages published since ChatGPT\u2019s launch show signs of AI authorship, study finds",
+      "title": "A third of web pages published since ChatGPT launched were written by AI, study finds",
       "url": "https://techcrunch.com/2026/08/20/a-third-of-webpages-published-since-chatgpts-launch-show-signs-of-ai-authorship-study-finds/",
       "source": "TechCrunch",
       "publishedAt": "2026-08-20T17:18:58Z",
@@ -133,13 +140,6 @@
       "source": "The Verge",
       "publishedAt": "2026-08-20T12:00:00Z",
       "snippet": "Slack is introducing dedicated channels where teams can vibe-code together with AI agents instead of jumping between different tools and conversations. The Slack Code launch includes open, project-spe"
-    },
-    {
-      "title": "Binance now lets AI agents trade, but keeping them in check is largely up to users",
-      "url": "https://techcrunch.com/2026/08/20/binance-now-lets-ai-agents-trade-but-keeping-them-in-check-is-largely-up-to-users/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-08-20T09:30:00Z",
-      "snippet": "Binance's Agent OS works with tools such as ChatGPT, Claude Code, and Cursor."
     },
     {
       "title": "Google Gemini is getting a dedicated student hub",
@@ -219,14 +219,14 @@
       "downloads": 421918
     },
     {
-      "id": "Blackfrost-AI/Qwen3.8-27B-ABLITERATED-GGUF",
-      "displayName": "Qwen3.8 27B ABLITERATED",
-      "downloads": 197667
-    },
-    {
       "id": "ornith-ai/Ornith-1.5-35B-A3B-GGUF",
       "displayName": "Ornith 1.5 35B A3B",
       "downloads": 123237
+    },
+    {
+      "id": "Blackfrost-AI/Qwen3.8-27B-ABLITERATED-GGUF",
+      "displayName": "Qwen3.8 27B ABLITERATED",
+      "downloads": 197667
     }
   ]
 }
