@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-21T10:24:07Z",
+  "updated": "2026-08-21T12:36:58Z",
   "news": [
     {
       "title": "AI data startup Micro1 reaches $500M gross run rate amid AI training boom",
@@ -219,14 +219,14 @@
       "downloads": 421918
     },
     {
-      "id": "Blackfrost-AI/Qwen3.8-27B-ABLITERATED-GGUF",
-      "displayName": "Qwen3.8 27B ABLITERATED",
-      "downloads": 197667
-    },
-    {
       "id": "ornith-ai/Ornith-1.5-35B-A3B-GGUF",
       "displayName": "Ornith 1.5 35B A3B",
       "downloads": 123237
+    },
+    {
+      "id": "Blackfrost-AI/Qwen3.8-27B-ABLITERATED-GGUF",
+      "displayName": "Qwen3.8 27B ABLITERATED",
+      "downloads": 197667
     }
   ]
 }
