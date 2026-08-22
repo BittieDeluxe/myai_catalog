@@ -1,6 +1,20 @@
 {
-  "updated": "2026-08-21T22:18:37Z",
+  "updated": "2026-08-22T00:58:14Z",
   "news": [
+    {
+      "title": "Anthropic\u2019s Opus 4.6 is a smut-machine",
+      "url": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-08-21T23:07:25Z",
+      "snippet": "Anthropic forbids its Claude models from generating sexually explicit content. But a series of tests conducted by TechCrunch found that it didn't take much to get past the restriction."
+    },
+    {
+      "title": "Nvidia partners with data center developer Cloverleaf",
+      "url": "https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-08-21T22:37:38Z",
+      "snippet": "Nvidia continues to pour money into data center development \u2014 just as AI data centers bring lots of money into Nvidia."
+    },
     {
       "title": "Over 1 million people have clicked LinkedIn\u2019s AI slop button",
       "url": "https://www.theverge.com/ai-artificial-intelligence/983502/linkedin-ai-slop-button-one-million-people-message",
@@ -112,20 +126,6 @@
       "source": "TechCrunch",
       "publishedAt": "2026-08-20T16:46:00Z",
       "snippet": "Ramp has launched its own AI model routing service, dubbed Router, that lets users and companies use and switch between various large language models via an API."
-    },
-    {
-      "title": "Meta brings Pocket, an app that lets you vibe-code and share games, to US users",
-      "url": "https://techcrunch.com/2026/08/20/meta-brings-pocket-an-app-that-lets-you-vibe-code-and-share-games-to-us-users/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-08-20T16:07:26Z",
-      "snippet": "Meta is bringing Pocket, its experimental AI-powered app for creating and sharing interactive games, to users across the U.S. after quietly testing it in Brazil."
-    },
-    {
-      "title": "Inertia Enterprises finds a way to make its fusion fuel fast",
-      "url": "https://techcrunch.com/2026/08/20/inertia-enterprises-finds-a-way-to-make-its-fusion-fuel-fast/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-08-20T16:00:00Z",
-      "snippet": "Fusion power startup Inertia Enterprises reduced the fuel filling process from a week to just a few hours. It's one of 10 hurdles the company must overcome to make a profitable power plant."
     },
     {
       "title": "It\u2019s Greg Brockman\u2019s OpenAI now",
