@@ -1,6 +1,13 @@
 {
-  "updated": "2026-08-22T20:16:44Z",
+  "updated": "2026-08-22T22:16:29Z",
   "news": [
+    {
+      "title": "Harvard\u2019s $699 startup bootcamp offers AI avatars of its instructors",
+      "url": "https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-08-22T21:46:56Z",
+      "snippet": "In the HBS Foundry program, AI avatars provide feedback during practice pitches and board meetings."
+    },
     {
       "title": "Inherent, founded by DeepMind alumni, says its AI \u2018teammate\u2019 just outperformed Anthropic and OpenAI at replicating research",
       "url": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/",
@@ -51,18 +58,18 @@
       "snippet": "Nvidia research shows that AI agents can perform well, and not go off the deep end, through fine-tuning, even if the AI model isn't that great at the task."
     },
     {
-      "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
-      "url": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-08-21T14:00:00Z",
-      "snippet": "There's about to be a big fight to secure access to space."
-    },
-    {
       "title": "The DOJ is investigating a16z. What does this mean for venture capital?",
       "url": "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital/",
       "source": "TechCrunch",
       "publishedAt": "2026-08-21T14:00:00Z",
       "snippet": "Andreessen Horowitz has two partners sitting on the boards of companies that now compete with each other: Ben Horowitz at Databricks and Martin Casado at Fivetran. Nothing too scandalous on the surfac"
+    },
+    {
+      "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
+      "url": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-08-21T14:00:00Z",
+      "snippet": "There's about to be a big fight to secure access to space."
     },
     {
       "title": "Major YouTube creators are facing backlash for accepting AI money",
@@ -119,13 +126,6 @@
       "source": "TechCrunch",
       "publishedAt": "2026-08-20T19:15:05Z",
       "snippet": "Runlayer and Rippling have dropped their lawsuits. No money was paid. Rippling celebrated by releasing a competing product."
-    },
-    {
-      "title": "Linkdaze\u2019s smart calendar is built to run a household, not just track a schedule",
-      "url": "https://techcrunch.com/2026/08/20/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-08-20T18:20:35Z",
-      "snippet": "Linkdaze's smart digital calendar stands out for not putting its features behind a paywall, including an AI meal planner tool."
     },
     {
       "title": "It\u2019s Greg Brockman\u2019s OpenAI now",
