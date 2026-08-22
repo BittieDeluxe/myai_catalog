@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-22T02:49:54Z",
+  "updated": "2026-08-22T04:27:34Z",
   "news": [
     {
       "title": "Anthropic\u2019s Opus 4.6 is a smut-machine",
@@ -199,14 +199,14 @@
       "downloads": 357225
     },
     {
-      "id": "empero-ai/Qwen3.8-27B-Ridge-GGUF",
-      "displayName": "Qwen3.8 27B Ridge",
-      "downloads": 74038
-    },
-    {
       "id": "orcarouter/Qwen3.8-27B-Uncensored-GGUF",
       "displayName": "Qwen3.8 27B Uncensored",
       "downloads": 68275
+    },
+    {
+      "id": "empero-ai/Qwen3.8-27B-Ridge-GGUF",
+      "displayName": "Qwen3.8 27B Ridge",
+      "downloads": 74038
     },
     {
       "id": "huihui-ai/Huihui-Qwen3.8-27B-abliterated-GGUF",
