@@ -1,6 +1,13 @@
 {
-  "updated": "2026-08-22T18:21:39Z",
+  "updated": "2026-08-22T20:16:44Z",
   "news": [
+    {
+      "title": "Inherent, founded by DeepMind alumni, says its AI \u2018teammate\u2019 just outperformed Anthropic and OpenAI at replicating research",
+      "url": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-08-22T19:00:00Z",
+      "snippet": "Built by DeepMind alumni, British AI lab Inherent released Faraday, an AI agent whose ability to replicate scientific papers could be a stepping stone for innovation."
+    },
     {
       "title": "OpenAI says California should strengthen its AI safety bill",
       "url": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/",
@@ -121,13 +128,6 @@
       "snippet": "Linkdaze's smart digital calendar stands out for not putting its features behind a paywall, including an AI meal planner tool."
     },
     {
-      "title": "Grok keeps sending gibberish responses to users",
-      "url": "https://techcrunch.com/2026/08/20/grok-keeps-sending-gibberish-responses-to-users/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-08-20T17:32:16Z",
-      "snippet": "Affected users told TechCrunch they were using Grok Lite, and noticed the issues as early as Wednesday morning."
-    },
-    {
       "title": "It\u2019s Greg Brockman\u2019s OpenAI now",
       "url": "https://www.theverge.com/ai-artificial-intelligence/982774/greg-brockman-openai-role-expansion",
       "source": "The Verge",
@@ -204,11 +204,6 @@
       "downloads": 85371
     },
     {
-      "id": "empero-ai/Qwen3.8-27B-Ridge-GGUF",
-      "displayName": "Qwen3.8 27B Ridge",
-      "downloads": 97247
-    },
-    {
       "id": "huihui-ai/Huihui-Qwen3.8-27B-abliterated-GGUF",
       "displayName": "Huihui Qwen3.8 27B abliterated",
       "downloads": 635416
@@ -217,6 +212,11 @@
       "id": "ornith-ai/Ornith-1.5-35B-A3B-GGUF",
       "displayName": "Ornith 1.5 35B A3B",
       "downloads": 173935
+    },
+    {
+      "id": "empero-ai/Qwen3.8-27B-Ridge-GGUF",
+      "displayName": "Qwen3.8 27B Ridge",
+      "downloads": 97247
     },
     {
       "id": "DavidAU/Qwen3.8-27B-Cold-Fusion-GAIN-V1.1-NM-DAU-NEO-MAX-MTP-GGUF",
