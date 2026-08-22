@@ -1,6 +1,13 @@
 {
-  "updated": "2026-08-22T16:17:26Z",
+  "updated": "2026-08-22T18:21:39Z",
   "news": [
+    {
+      "title": "OpenAI says California should strengthen its AI safety bill",
+      "url": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-08-22T16:30:34Z",
+      "snippet": "OpenAI is calling for California to strengthen SB 53, an AI safety bill that the company previously opposed."
+    },
     {
       "title": "Frontier AI labs still won\u2019t say how they\u2019d contain a rogue model",
       "url": "https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/",
@@ -121,13 +128,6 @@
       "snippet": "Affected users told TechCrunch they were using Grok Lite, and noticed the issues as early as Wednesday morning."
     },
     {
-      "title": "A third of web pages published since ChatGPT launched were written by AI, study finds",
-      "url": "https://techcrunch.com/2026/08/20/a-third-of-webpages-published-since-chatgpts-launch-show-signs-of-ai-authorship-study-finds/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-08-20T17:18:58Z",
-      "snippet": "ChatGPT and other AI models are now authoring and editing much of the new web."
-    },
-    {
       "title": "It\u2019s Greg Brockman\u2019s OpenAI now",
       "url": "https://www.theverge.com/ai-artificial-intelligence/982774/greg-brockman-openai-role-expansion",
       "source": "The Verge",
@@ -219,14 +219,14 @@
       "downloads": 173935
     },
     {
-      "id": "0bserverx/Qwen3.8-27B-Heretic-Abliterated-Uncensored-GGUF",
-      "displayName": "Qwen3.8 27B Heretic Abliterated Uncensored",
-      "downloads": 505813
-    },
-    {
       "id": "DavidAU/Qwen3.8-27B-Cold-Fusion-GAIN-V1.1-NM-DAU-NEO-MAX-MTP-GGUF",
       "displayName": "Qwen3.8 27B Cold Fusion GAIN V1.1 NM DAU NEO MAX MTP",
       "downloads": 176969
+    },
+    {
+      "id": "0bserverx/Qwen3.8-27B-Heretic-Abliterated-Uncensored-GGUF",
+      "displayName": "Qwen3.8 27B Heretic Abliterated Uncensored",
+      "downloads": 505813
     }
   ]
 }
