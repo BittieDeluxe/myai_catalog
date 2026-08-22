@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-22T04:27:34Z",
+  "updated": "2026-08-22T06:31:38Z",
   "news": [
     {
       "title": "Anthropic\u2019s Opus 4.6 is a smut-machine",
@@ -224,9 +224,9 @@
       "downloads": 421918
     },
     {
-      "id": "Blackfrost-AI/Qwen3.8-27B-ABLITERATED-GGUF",
-      "displayName": "Qwen3.8 27B ABLITERATED",
-      "downloads": 197667
+      "id": "DavidAU/Qwen3.8-27B-Cold-Fusion-GAIN-V1.1-NM-DAU-NEO-MAX-MTP-GGUF",
+      "displayName": "Qwen3.8 27B Cold Fusion GAIN V1.1 NM DAU NEO MAX MTP",
+      "downloads": 155208
     }
   ]
 }
