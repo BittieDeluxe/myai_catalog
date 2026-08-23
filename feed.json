@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-23T12:30:15Z",
+  "updated": "2026-08-23T14:18:14Z",
   "news": [
     {
       "title": "Harvard\u2019s $699 startup bootcamp offers AI avatars of its instructors",
@@ -204,14 +204,14 @@
       "downloads": 108666
     },
     {
-      "id": "huihui-ai/Huihui-Qwen3.8-27B-abliterated-GGUF",
-      "displayName": "Huihui Qwen3.8 27B abliterated",
-      "downloads": 943360
-    },
-    {
       "id": "ornith-ai/Ornith-1.5-35B-A3B-GGUF",
       "displayName": "Ornith 1.5 35B A3B",
       "downloads": 369478
+    },
+    {
+      "id": "huihui-ai/Huihui-Qwen3.8-27B-abliterated-GGUF",
+      "displayName": "Huihui Qwen3.8 27B abliterated",
+      "downloads": 943360
     },
     {
       "id": "DavidAU/Qwen3.8-27B-Cold-Fusion-GAIN-V1.1-NM-DAU-NEO-MAX-MTP-GGUF",
