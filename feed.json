@@ -1,6 +1,20 @@
 {
-  "updated": "2026-08-24T14:36:30Z",
+  "updated": "2026-08-24T16:30:53Z",
   "news": [
+    {
+      "title": "Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics",
+      "url": "https://techcrunch.com/2026/08/24/valor-point72-back-general-intuition-at-6b-valuation-as-ai-startup-pushes-into-robotics/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-08-24T15:24:18Z",
+      "snippet": "General Intuition, the startup building a foundation model that trains generalized AI agents how to move through space and time, is in talks to raise at a $6 billion pre-money valuation from new inves"
+    },
+    {
+      "title": "OpenAI is building AI agents for everything. Will everyone use them?",
+      "url": "https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-08-24T15:00:00Z",
+      "snippet": "Inside the frontier lab\u2019s push to bring AI agents from software engineers to the masses."
+    },
     {
       "title": "Hugging Face reportedly in talks to be acquired for $13B",
       "url": "https://techcrunch.com/2026/08/24/hugging-face-reportedly-in-talks-to-be-acquired-for-13b/",
@@ -93,13 +107,6 @@
       "snippet": "Nvidia research shows that AI agents can perform well, and not go off the deep end, through fine-tuning, even if the AI model isn't that great at the task."
     },
     {
-      "title": "The DOJ is investigating a16z. What does this mean for venture capital?",
-      "url": "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-08-21T14:00:00Z",
-      "snippet": "Andreessen Horowitz has two partners sitting on the boards of companies that now compete with each other: Ben Horowitz at Databricks and Martin Casado at Fivetran. Nothing too scandalous on the surfac"
-    },
-    {
       "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
       "url": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/",
       "source": "TechCrunch",
@@ -112,13 +119,6 @@
       "source": "The Verge",
       "publishedAt": "2026-08-21T13:37:52Z",
       "snippet": "Over the past few days, a number of prominent filmmaking content creators including Matti Haapoja and Sam \"Kold\" Kolder have posted videos of themselves demonstrating what's possible with AI platform "
-    },
-    {
-      "title": "AI data startup Micro1 reaches $500M gross run rate amid AI training boom",
-      "url": "https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-08-21T00:13:44Z",
-      "snippet": "Surging demand for AI training data is driving rapid growth for the startup and its rivals."
     },
     {
       "title": "Google Discover is getting an AI chatbot-tuned feed",
@@ -224,9 +224,9 @@
       "downloads": 971104
     },
     {
-      "id": "empero-ai/Qwen3.8-27B-Ridge-GGUF",
-      "displayName": "Qwen3.8 27B Ridge",
-      "downloads": 162580
+      "id": "0bserverx/Qwen3.8-27B-Heretic-Abliterated-Uncensored-GGUF",
+      "displayName": "Qwen3.8 27B Heretic Abliterated Uncensored",
+      "downloads": 654805
     }
   ]
 }
