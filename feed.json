@@ -1,6 +1,13 @@
 {
-  "updated": "2026-08-24T18:33:01Z",
+  "updated": "2026-08-24T20:23:57Z",
   "news": [
+    {
+      "title": "Amjad Masad, CEO and co-founder of Replit, joins the Disrupt Stage at TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/08/24/amjad-masad-ceo-and-co-founder-of-replit-joins-the-disrupt-stage-at-techcrunch-disrupt-2026/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-08-24T19:54:19Z",
+      "snippet": "At TechCrunch Disrupt 2026, Replit CEO Amjad Masad will share his perspective on the future of programming and Replit's role in developing it."
+    },
     {
       "title": "Instinct\u2019s powerful AI assistant is raising privacy and security concerns",
       "url": "https://techcrunch.com/2026/08/24/instincts-powerful-ai-assistant-is-raising-privacy-and-security-concerns/",
@@ -76,7 +83,7 @@
       "url": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/",
       "source": "TechCrunch",
       "publishedAt": "2026-08-22T16:30:34Z",
-      "snippet": "OpenAI is calling for California to strengthen SB 53, an AI safety bill that the company previously opposed."
+      "snippet": "OpenAI's global affairs team post also referenced \u201crecent incidents\u201d that \u201cunderscore both the need for these protections and the importance of updating them\u201d as new risks emerge."
     },
     {
       "title": "Frontier AI labs still won\u2019t say how they\u2019d contain a rogue model",
@@ -98,13 +105,6 @@
       "source": "TechCrunch",
       "publishedAt": "2026-08-21T23:07:25Z",
       "snippet": "Anthropic forbids its Claude models from generating sexually explicit content. But a series of tests conducted by TechCrunch found that it didn't take much to get past the restriction."
-    },
-    {
-      "title": "Nvidia partners with data center developer Cloverleaf",
-      "url": "https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-08-21T22:37:38Z",
-      "snippet": "Nvidia continues to pour money into data center development \u2014 just as AI data centers bring lots of money into Nvidia."
     },
     {
       "title": "Over 1 million people have clicked LinkedIn\u2019s AI slop button",
@@ -224,9 +224,9 @@
       "downloads": 971104
     },
     {
-      "id": "0bserverx/Qwen3.8-27B-Heretic-Abliterated-Uncensored-GGUF",
-      "displayName": "Qwen3.8 27B Heretic Abliterated Uncensored",
-      "downloads": 654805
+      "id": "empero-ai/Qwen3.8-27B-Ridge-GGUF",
+      "displayName": "Qwen3.8 27B Ridge",
+      "downloads": 162580
     }
   ]
 }
