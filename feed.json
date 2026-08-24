@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-24T02:58:16Z",
+  "updated": "2026-08-24T04:39:13Z",
   "news": [
     {
       "title": "Who\u2019s behind the new \u2018stealth model\u2019 Ox Alpha?",
@@ -219,14 +219,14 @@
       "downloads": 193794
     },
     {
-      "id": "empero-ai/Qwen3.8-27B-Ridge-GGUF",
-      "displayName": "Qwen3.8 27B Ridge",
-      "downloads": 131435
-    },
-    {
       "id": "ornith-ai/Ornith-1.5-9B-GGUF",
       "displayName": "Ornith 1.5 9B",
       "downloads": 359078
+    },
+    {
+      "id": "empero-ai/Qwen3.8-27B-Ridge-GGUF",
+      "displayName": "Qwen3.8 27B Ridge",
+      "downloads": 131435
     }
   ]
 }
