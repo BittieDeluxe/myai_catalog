@@ -1,6 +1,13 @@
 {
-  "updated": "2026-08-24T16:30:53Z",
+  "updated": "2026-08-24T18:33:01Z",
   "news": [
+    {
+      "title": "Instinct\u2019s powerful AI assistant is raising privacy and security concerns",
+      "url": "https://techcrunch.com/2026/08/24/instincts-powerful-ai-assistant-is-raising-privacy-and-security-concerns/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-08-24T18:03:55Z",
+      "snippet": "Early testers are raving about what Instinct can do, but some say the AI assistant\u2019s sweeping access, broad terms and ability to act on users\u2019 behalf come with uncomfortable trade-offs"
+    },
     {
       "title": "Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics",
       "url": "https://techcrunch.com/2026/08/24/valor-point72-back-general-intuition-at-6b-valuation-as-ai-startup-pushes-into-robotics/",
@@ -79,6 +86,13 @@
       "snippet": "A new study finds leading AI labs have few publicly documented plans for containing rogue models, raising questions about preparedness as AI systems increasingly demonstrate unexpected and potentially"
     },
     {
+      "title": "Michael Polansky is training an AI model on skin that\u2019s still alive",
+      "url": "https://techcrunch.com/2026/08/21/michael-polansky-is-training-an-ai-model-on-skin-thats-still-alive/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-08-22T01:31:04Z",
+      "snippet": "Michael Polansky \u2014 better known publicly as Lady Gaga's partner and a former top deputy to Sean Parker \u2014 has quietly spent years building an AI-driven startup that keeps living human skin tissue alive"
+    },
+    {
       "title": "Anthropic\u2019s Opus 4.6 is a smut-machine",
       "url": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/",
       "source": "TechCrunch",
@@ -98,20 +112,6 @@
       "source": "The Verge",
       "publishedAt": "2026-08-21T21:25:50Z",
       "snippet": "LinkedIn actually announced a \"Seems like AI slop\" button on July 30th, and the company says that a lot of people have already used it. According to a Thursday post from chief product officer Hari Sri"
-    },
-    {
-      "title": "Nvidia just showed that the harness, not the AI model, is now the real hero",
-      "url": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-08-21T19:43:39Z",
-      "snippet": "Nvidia research shows that AI agents can perform well, and not go off the deep end, through fine-tuning, even if the AI model isn't that great at the task."
-    },
-    {
-      "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
-      "url": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-08-21T14:00:00Z",
-      "snippet": "There's about to be a big fight to secure access to space."
     },
     {
       "title": "Major YouTube creators are facing backlash for accepting AI money",
