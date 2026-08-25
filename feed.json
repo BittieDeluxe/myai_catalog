@@ -1,6 +1,13 @@
 {
-  "updated": "2026-08-25T10:25:56Z",
+  "updated": "2026-08-25T12:38:15Z",
   "news": [
+    {
+      "title": "\u2018The world seems to be ready\u2019: An interview with OpenAI head of product Thibault Sottiaux",
+      "url": "https://techcrunch.com/2026/08/25/the-world-seems-to-be-ready-an-interview-with-openai-head-of-product-thibault-sottiaux/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-08-25T12:00:00Z",
+      "snippet": "TechCrunch talks agents, UX, and reporting to Greg Brockman with OpenAI's head of product."
+    },
     {
       "title": "OpenAI subpoenaed by Alabama AG over Hugging Face hack",
       "url": "https://www.theverge.com/ai-artificial-intelligence/984239/alabama-attorney-general-subpoena-openai-hugging-face-hack",
@@ -105,13 +112,6 @@
       "source": "TechCrunch",
       "publishedAt": "2026-08-22T16:30:34Z",
       "snippet": "OpenAI's global affairs team post also referenced \u201crecent incidents\u201d that \u201cunderscore both the need for these protections and the importance of updating them\u201d as new risks emerge."
-    },
-    {
-      "title": "Frontier AI labs still won\u2019t say how they\u2019d contain a rogue model",
-      "url": "https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-08-22T16:00:00Z",
-      "snippet": "A new study finds leading AI labs have few publicly documented plans for containing rogue models, raising questions about preparedness as AI systems increasingly demonstrate unexpected and potentially"
     },
     {
       "title": "Over 1 million people have clicked LinkedIn\u2019s AI slop button",
@@ -224,9 +224,9 @@
       "downloads": 221918
     },
     {
-      "id": "empero-ai/Qwen3.8-27B-Ridge-GGUF",
-      "displayName": "Qwen3.8 27B Ridge",
-      "downloads": 182844
+      "id": "0bserverx/Qwen3.8-27B-Heretic-Abliterated-Uncensored-GGUF",
+      "displayName": "Qwen3.8 27B Heretic Abliterated Uncensored",
+      "downloads": 735183
     }
   ]
 }
