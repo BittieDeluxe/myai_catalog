@@ -1,6 +1,27 @@
 {
-  "updated": "2026-08-25T12:38:15Z",
+  "updated": "2026-08-25T14:39:21Z",
   "news": [
+    {
+      "title": "OpenAI\u2019s Jalape\u00f1o chip is built for fast inference at scale, benchmarks show",
+      "url": "https://techcrunch.com/2026/08/25/openais-jalapeno-chip-is-built-for-fast-inference-at-scale-benchmarks-show/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-08-25T14:22:04Z",
+      "snippet": "Tested on Semianalysis\u2019s InferenceX benchmark, Jalape\u00f1o registered both more tokens per user and more throughput per kilowatt than the currently available state-of-the art."
+    },
+    {
+      "title": "OpenAI says its Jalape\u00f1o chip can power faster AI responses than the competition",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/984290/openai-jalapeno-ai-chip-benchmarks",
+      "source": "The Verge",
+      "publishedAt": "2026-08-25T14:00:00Z",
+      "snippet": "OpenAI says its new AI chip, Jalape\u00f1o, completes tasks more efficiently and returns responses faster than other AI systems, according to a blog post published on Tuesday. During a briefing with report"
+    },
+    {
+      "title": "Accel-backed Keenable is indexing the web for AI agents",
+      "url": "https://techcrunch.com/2026/08/25/accel-backed-keenable-is-indexing-the-web-for-ai-agents/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-08-25T13:00:00Z",
+      "snippet": "Now exiting stealth mode with a $26 million seed round, Keenable has been building a vast web search index for AI agents."
+    },
     {
       "title": "\u2018The world seems to be ready\u2019: An interview with OpenAI head of product Thibault Sottiaux",
       "url": "https://techcrunch.com/2026/08/25/the-world-seems-to-be-ready-an-interview-with-openai-head-of-product-thibault-sottiaux/",
@@ -100,20 +121,6 @@
       "snippet": "In the HBS Foundry program, AI avatars provide feedback during practice pitches and board meetings."
     },
     {
-      "title": "Inherent, founded by DeepMind alumni, says its AI \u2018teammate\u2019 just outperformed Anthropic and OpenAI at replicating research",
-      "url": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-08-22T19:00:00Z",
-      "snippet": "Built by DeepMind alumni, British AI lab Inherent released Faraday, an AI agent whose ability to replicate scientific papers could be a stepping stone for innovation."
-    },
-    {
-      "title": "OpenAI says California should strengthen its AI safety bill",
-      "url": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-08-22T16:30:34Z",
-      "snippet": "OpenAI's global affairs team post also referenced \u201crecent incidents\u201d that \u201cunderscore both the need for these protections and the importance of updating them\u201d as new risks emerge."
-    },
-    {
       "title": "Over 1 million people have clicked LinkedIn\u2019s AI slop button",
       "url": "https://www.theverge.com/ai-artificial-intelligence/983502/linkedin-ai-slop-button-one-million-people-message",
       "source": "The Verge",
@@ -168,13 +175,6 @@
       "source": "The Verge",
       "publishedAt": "2026-08-19T17:10:09Z",
       "snippet": "With a looming IPO, intense competition from Anthropic, and Chinese and open-weight rivals nipping at its heels, OpenAI has plenty of reasons to move fast. Instead, it hit the brakes. On Tuesday, the "
-    },
-    {
-      "title": "Meta AI is getting a Mac app",
-      "url": "https://www.theverge.com/tech/982270/meta-ai-mac-app",
-      "source": "The Verge",
-      "publishedAt": "2026-08-19T17:00:00Z",
-      "snippet": "Meta is launching a new Mac app dedicated to its AI chatbot. In an announcement on Wednesday, Meta says you can share your window with its AI chatbot, which can provide suggestions, answer questions, "
     }
   ],
   "trending": [
