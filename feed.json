@@ -1,12 +1,19 @@
 {
-  "updated": "2026-08-25T14:39:21Z",
+  "updated": "2026-08-25T16:30:46Z",
   "news": [
+    {
+      "title": "Gamma acquires Accel-backed design startup Lica",
+      "url": "https://techcrunch.com/2026/08/25/gamma-acquires-accel-backed-design-startup-lica/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-08-25T15:00:00Z",
+      "snippet": "Lica co-founders are going to work on Gamma's new research team."
+    },
     {
       "title": "OpenAI\u2019s Jalape\u00f1o chip is built for fast inference at scale, benchmarks show",
       "url": "https://techcrunch.com/2026/08/25/openais-jalapeno-chip-is-built-for-fast-inference-at-scale-benchmarks-show/",
       "source": "TechCrunch",
       "publishedAt": "2026-08-25T14:22:04Z",
-      "snippet": "Tested on Semianalysis\u2019s InferenceX benchmark, Jalape\u00f1o registered both more tokens per user and more throughput per kilowatt than the currently available state-of-the art."
+      "snippet": "Tested on SemiAnalysis\u2019 InferenceX benchmark, Jalape\u00f1o registered both more tokens per user and more throughput per kilowatt than the currently available state-of-the art."
     },
     {
       "title": "OpenAI says its Jalape\u00f1o chip can power faster AI responses than the competition",
@@ -114,13 +121,6 @@
       "snippet": "Most published authors have, without their knowledge or consent, contributed to the development of the same AI tools that threaten to undermine their livelihoods. That seems illegal, right?"
     },
     {
-      "title": "Harvard\u2019s $699 startup bootcamp offers AI avatars of its instructors",
-      "url": "https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-08-22T21:46:56Z",
-      "snippet": "In the HBS Foundry program, AI avatars provide feedback during practice pitches and board meetings."
-    },
-    {
       "title": "Over 1 million people have clicked LinkedIn\u2019s AI slop button",
       "url": "https://www.theverge.com/ai-artificial-intelligence/983502/linkedin-ai-slop-button-one-million-people-message",
       "source": "The Verge",
@@ -194,14 +194,14 @@
       "downloads": 832185
     },
     {
-      "id": "JonathanColetti/Qwen3.8-27B-Uncensored-GGUF",
-      "displayName": "Qwen3.8 27B Uncensored",
-      "downloads": 1525645
-    },
-    {
       "id": "ornith-ai/Ornith-1.5-35B-A3B-GGUF",
       "displayName": "Ornith 1.5 35B A3B",
       "downloads": 1156903
+    },
+    {
+      "id": "JonathanColetti/Qwen3.8-27B-Uncensored-GGUF",
+      "displayName": "Qwen3.8 27B Uncensored",
+      "downloads": 1525645
     },
     {
       "id": "orcarouter/Qwen3.8-27B-Uncensored-GGUF",
