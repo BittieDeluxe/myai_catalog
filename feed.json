@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-25T02:53:31Z",
+  "updated": "2026-08-25T04:33:40Z",
   "news": [
     {
       "title": "Situational Awareness, star AI hedge fund that nearly imploded, now being probed by the SEC",
@@ -214,19 +214,19 @@
       "downloads": 1140375
     },
     {
-      "id": "DavidAU/Qwen3.8-27B-Cold-Fusion-GAIN-V1.1-NM-DAU-NEO-MAX-MTP-GGUF",
-      "displayName": "Qwen3.8 27B Cold Fusion GAIN V1.1 NM DAU NEO MAX MTP",
-      "downloads": 209017
-    },
-    {
       "id": "ornith-ai/Ornith-1.5-9B-GGUF",
       "displayName": "Ornith 1.5 9B",
       "downloads": 971104
     },
     {
-      "id": "0bserverx/Qwen3.8-27B-Heretic-Abliterated-Uncensored-GGUF",
-      "displayName": "Qwen3.8 27B Heretic Abliterated Uncensored",
-      "downloads": 654805
+      "id": "DavidAU/Qwen3.8-27B-Cold-Fusion-GAIN-V1.1-NM-DAU-NEO-MAX-MTP-GGUF",
+      "displayName": "Qwen3.8 27B Cold Fusion GAIN V1.1 NM DAU NEO MAX MTP",
+      "downloads": 209017
+    },
+    {
+      "id": "empero-ai/Qwen3.8-27B-Ridge-GGUF",
+      "displayName": "Qwen3.8 27B Ridge",
+      "downloads": 162580
     }
   ]
 }
