@@ -1,6 +1,20 @@
 {
-  "updated": "2026-08-26T14:38:56Z",
+  "updated": "2026-08-26T16:44:08Z",
   "news": [
+    {
+      "title": "Radar makes podcasts searchable \u2014 and usable by AI agents",
+      "url": "https://techcrunch.com/2026/08/26/radar-makes-podcasts-searchable-and-usable-by-ai-agents/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-08-26T15:47:28Z",
+      "snippet": "Particle\u2019s new podcast intelligence platform transcribes and analyzes more than 130,000 podcasts, making their conversations searchable on the web and accessible to AI agents through an API and MCP."
+    },
+    {
+      "title": "Ex-Meta scientists want to bring visual AI to the factory floor",
+      "url": "https://techcrunch.com/2026/08/26/ex-meta-scientists-want-to-bring-visual-ai-to-the-factory-floor/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-08-26T15:00:00Z",
+      "snippet": "Perceptron offers an AI model that it says can help machines navigate the world while also providing in-depth visual intelligence."
+    },
     {
       "title": "Bill Gates wants to see a robot tax and \u2018Human Reserved\u2019 jobs to mitigate harms from AI",
       "url": "https://techcrunch.com/2026/08/26/bill-gates-wants-to-see-a-robot-tax-and-human-reserved-jobs-to-mitigate-harms-from-ai/",
@@ -55,7 +69,7 @@
       "url": "https://techcrunch.com/2026/08/26/runable-hits-21m-to-bet-ai-agents-can-go-from-building-businesses-to-growing-them/",
       "source": "TechCrunch",
       "publishedAt": "2026-08-26T11:00:00Z",
-      "snippet": "Runable says 60%\u201370% of its 1 trillion-plus token usage in the last 90 days came from paying customers."
+      "snippet": "Runable says 60% to 70% of its 1 trillion-plus token usage in the last 90 days came from paying customers."
     },
     {
       "title": "India\u2019s Ringg gets backing from Peak XV as it pushes voice AI past the phone call",
@@ -100,25 +114,11 @@
       "snippet": "Lica co-founders are going to work on Gamma's new research team."
     },
     {
-      "title": "OpenAI\u2019s Jalape\u00f1o chip is built for fast inference at scale, benchmarks show",
-      "url": "https://techcrunch.com/2026/08/25/openais-jalapeno-chip-is-built-for-fast-inference-at-scale-benchmarks-show/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-08-25T14:22:04Z",
-      "snippet": "Tested on SemiAnalysis\u2019 InferenceX benchmark, Jalape\u00f1o registered both more tokens per user and more throughput per kilowatt than the currently available state-of-the art."
-    },
-    {
       "title": "OpenAI says its Jalape\u00f1o chip can power faster AI responses than the competition",
       "url": "https://www.theverge.com/ai-artificial-intelligence/984290/openai-jalapeno-ai-chip-benchmarks",
       "source": "The Verge",
       "publishedAt": "2026-08-25T14:00:00Z",
       "snippet": "OpenAI says its new AI chip, Jalape\u00f1o, completes tasks more efficiently and returns responses faster than other AI systems, according to a blog post published on Tuesday. During a briefing with report"
-    },
-    {
-      "title": "Accel-backed Keenable is indexing the web for AI agents",
-      "url": "https://techcrunch.com/2026/08/25/accel-backed-keenable-is-indexing-the-web-for-ai-agents/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-08-25T13:00:00Z",
-      "snippet": "Now exiting stealth mode with a $26 million seed round, Keenable has been building a vast web search index for AI agents."
     },
     {
       "title": "OpenAI subpoenaed by Alabama AG over Hugging Face hack",
@@ -199,6 +199,11 @@
       "downloads": 1391218
     },
     {
+      "id": "unsloth/Qwen3.8-Flash-Next-GGUF",
+      "displayName": "Qwen3.8 Flash Next",
+      "downloads": 0
+    },
+    {
       "id": "JonathanColetti/Qwen3.8-27B-Uncensored-GGUF",
       "displayName": "Qwen3.8 27B Uncensored",
       "downloads": 1620754
@@ -209,19 +214,14 @@
       "downloads": 183871
     },
     {
-      "id": "ornith-ai/Ornith-1.5-9B-GGUF",
-      "displayName": "Ornith 1.5 9B",
-      "downloads": 1389641
-    },
-    {
       "id": "huihui-ai/Huihui-Qwen3.8-27B-abliterated-GGUF",
       "displayName": "Huihui Qwen3.8 27B abliterated",
       "downloads": 1318749
     },
     {
-      "id": "unsloth/Qwen3.8-Flash-Next-GGUF",
-      "displayName": "Qwen3.8 Flash Next",
-      "downloads": 0
+      "id": "ornith-ai/Ornith-1.5-9B-GGUF",
+      "displayName": "Ornith 1.5 9B",
+      "downloads": 1389641
     },
     {
       "id": "DavidAU/Qwen3.8-27B-Cold-Fusion-GAIN-V1.1-NM-DAU-NEO-MAX-MTP-GGUF",
