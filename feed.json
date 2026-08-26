@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-26T04:34:50Z",
+  "updated": "2026-08-26T06:39:35Z",
   "news": [
     {
       "title": "India\u2019s Ringg gets backing from Peak XV as it pushes voice AI past the phone call",
@@ -16,7 +16,7 @@
       "snippet": "The $200 million extension comes just months after the physical AI startup reached a $2 billion valuation."
     },
     {
-      "title": "OpenAI loses a top data center exec, as stream of high-profile departures continues",
+      "title": "OpenAI loses a top data center exec as stream of high-profile departures continues",
       "url": "https://techcrunch.com/2026/08/25/openai-loses-a-top-data-center-exec-as-stream-of-high-profile-departures-continues/",
       "source": "TechCrunch",
       "publishedAt": "2026-08-26T00:06:20Z",
@@ -209,14 +209,14 @@
       "downloads": 154225
     },
     {
-      "id": "huihui-ai/Huihui-Qwen3.8-27B-abliterated-GGUF",
-      "displayName": "Huihui Qwen3.8 27B abliterated",
-      "downloads": 1230831
-    },
-    {
       "id": "ornith-ai/Ornith-1.5-9B-GGUF",
       "displayName": "Ornith 1.5 9B",
       "downloads": 1144037
+    },
+    {
+      "id": "huihui-ai/Huihui-Qwen3.8-27B-abliterated-GGUF",
+      "displayName": "Huihui Qwen3.8 27B abliterated",
+      "downloads": 1230831
     },
     {
       "id": "DavidAU/Qwen3.8-27B-Cold-Fusion-GAIN-V1.1-NM-DAU-NEO-MAX-MTP-GGUF",
