@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-26T08:36:55Z",
+  "updated": "2026-08-26T10:30:24Z",
   "news": [
     {
       "title": "India\u2019s Ringg gets backing from Peak XV as it pushes voice AI past the phone call",
@@ -181,52 +181,52 @@
     {
       "id": "unsloth/Qwen3.8-27B-GGUF",
       "displayName": "Qwen3.8 27B",
-      "downloads": 7334695
+      "downloads": 7638591
     },
     {
       "id": "OBLITERATUS/Qwen3.8-27B-OBLITERATED",
       "displayName": "Qwen3.8 27B OBLITERATED",
-      "downloads": 389747
+      "downloads": 468746
     },
     {
       "id": "HauhauCS/Qwen3.8-27B-Uncensored-HauhauCS-Aggressive-MTP-GGUF",
       "displayName": "Qwen3.8 27B Uncensored HauhauCS Aggressive MTP",
-      "downloads": 832185
+      "downloads": 911795
     },
     {
       "id": "ornith-ai/Ornith-1.5-35B-A3B-GGUF",
       "displayName": "Ornith 1.5 35B A3B",
-      "downloads": 1156903
+      "downloads": 1391218
     },
     {
       "id": "JonathanColetti/Qwen3.8-27B-Uncensored-GGUF",
       "displayName": "Qwen3.8 27B Uncensored",
-      "downloads": 1525645
+      "downloads": 1620754
     },
     {
       "id": "orcarouter/Qwen3.8-27B-Uncensored-GGUF",
       "displayName": "Qwen3.8 27B Uncensored",
-      "downloads": 154225
+      "downloads": 183871
     },
     {
       "id": "ornith-ai/Ornith-1.5-9B-GGUF",
       "displayName": "Ornith 1.5 9B",
-      "downloads": 1144037
+      "downloads": 1389641
     },
     {
       "id": "huihui-ai/Huihui-Qwen3.8-27B-abliterated-GGUF",
       "displayName": "Huihui Qwen3.8 27B abliterated",
-      "downloads": 1230831
+      "downloads": 1318749
     },
     {
       "id": "DavidAU/Qwen3.8-27B-Cold-Fusion-GAIN-V1.1-NM-DAU-NEO-MAX-MTP-GGUF",
       "displayName": "Qwen3.8 27B Cold Fusion GAIN V1.1 NM DAU NEO MAX MTP",
-      "downloads": 221918
+      "downloads": 232525
     },
     {
       "id": "0bserverx/Qwen3.8-27B-Heretic-Abliterated-Uncensored-GGUF",
       "displayName": "Qwen3.8 27B Heretic Abliterated Uncensored",
-      "downloads": 735183
+      "downloads": 803565
     }
   ]
 }
