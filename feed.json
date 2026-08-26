@@ -1,6 +1,27 @@
 {
-  "updated": "2026-08-26T19:43:01Z",
+  "updated": "2026-08-26T22:40:23Z",
   "news": [
+    {
+      "title": "Nvidia is about to be a hundred-billion-dollar-a-quarter company",
+      "url": "https://www.theverge.com/tech/985387/nvidia-hundred-billion-dollar-quarterly-revenue",
+      "source": "The Verge",
+      "publishedAt": "2026-08-26T21:40:53Z",
+      "snippet": "Nvidia's predicting it will pull in $108 billion in revenue within just a few months. It wouldn't be the first company to rake in over $100 billion in quarterly revenue - Amazon, Apple, and Alphabet h"
+    },
+    {
+      "title": "Anthropic continues compute-gobbling streak in $45 billion deal with Nscale",
+      "url": "https://techcrunch.com/2026/08/26/anthropic-continues-compute-gobbling-streak-in-45-billion-deal-with-nscale/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-08-26T21:37:39Z",
+      "snippet": "The new deal with the infrastructure provider is the latest example of Anthropic's white-hot compute-gobbling streak."
+    },
+    {
+      "title": "OpenAI\u2019s rogue AI model incident was worse than we thought",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/985385/openais-rogue-ai-model-hugging-face-cybersecurity-incident-reports-metr",
+      "source": "The Verge",
+      "publishedAt": "2026-08-26T21:36:06Z",
+      "snippet": "In July, an unreleased OpenAI model broke out of a restricted environment, figured out how to get access to the internet, allowed AI agents to talk to each other using a secret \"message board,\" and ha"
+    },
     {
       "title": "Google\u2019s Gemini has a branding problem, and so does the rest of AI",
       "url": "https://techcrunch.com/2026/08/26/googles-gemini-has-a-branding-problem-and-so-does-the-rest-of-ai/",
@@ -114,13 +135,6 @@
       "snippet": "The $200 million extension comes just months after the physical AI startup reached a $2 billion valuation."
     },
     {
-      "title": "OpenAI loses a top data center exec as stream of high-profile departures continues",
-      "url": "https://techcrunch.com/2026/08/25/openai-loses-a-top-data-center-exec-as-stream-of-high-profile-departures-continues/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-08-26T00:06:20Z",
-      "snippet": "In a statement to TechCrunch about Malone's departure, OpenAI said it had \"recently reorganized\" its \"infrastructure organization to support the scale and pace of our work.\""
-    },
-    {
       "title": "OpenAI says its Jalape\u00f1o chip can power faster AI responses than the competition",
       "url": "https://www.theverge.com/ai-artificial-intelligence/984290/openai-jalapeno-ai-chip-benchmarks",
       "source": "The Verge",
@@ -161,20 +175,6 @@
       "source": "The Verge",
       "publishedAt": "2026-08-20T15:45:55Z",
       "snippet": "OpenAI has had a hell of a year. The company spent months battling former cofounder Elon Musk in a sensational jury trial, was hit with a high-profile trade secrets lawsuit from Apple, and faced wides"
-    },
-    {
-      "title": "Welcome to the AI crisis in math",
-      "url": "https://www.theverge.com/podcast/982434/ai-math-openai-astra-existential-crisis",
-      "source": "The Verge",
-      "publishedAt": "2026-08-20T14:00:00Z",
-      "snippet": "Today on Decoder, I\u2019m talking with Robert Hart, The Verge\u2019s London-based AI reporter, about what AI is doing to the field of mathematics and the existential crisis many lead mathematicians are having "
-    },
-    {
-      "title": "Slack is launching collaborative vibe-coding channels",
-      "url": "https://www.theverge.com/tech/982628/slack-code-vibe-coding-channels-launch",
-      "source": "The Verge",
-      "publishedAt": "2026-08-20T12:00:00Z",
-      "snippet": "Slack is introducing dedicated channels where teams can vibe-code together with AI agents instead of jumping between different tools and conversations. The Slack Code launch includes open, project-spe"
     }
   ],
   "trending": [
@@ -199,14 +199,14 @@
       "downloads": 0
     },
     {
-      "id": "ornith-ai/Ornith-1.5-35B-A3B-GGUF",
-      "displayName": "Ornith 1.5 35B A3B",
-      "downloads": 1391218
-    },
-    {
       "id": "JonathanColetti/Qwen3.8-27B-Uncensored-GGUF",
       "displayName": "Qwen3.8 27B Uncensored",
       "downloads": 1620754
+    },
+    {
+      "id": "ornith-ai/Ornith-1.5-35B-A3B-GGUF",
+      "displayName": "Ornith 1.5 35B A3B",
+      "downloads": 1391218
     },
     {
       "id": "orcarouter/Qwen3.8-27B-Uncensored-GGUF",
