@@ -1,6 +1,20 @@
 {
-  "updated": "2026-08-25T22:20:51Z",
+  "updated": "2026-08-26T01:01:43Z",
   "news": [
+    {
+      "title": "Robotics startup Generalist reaches $3B valuation, sources say",
+      "url": "https://techcrunch.com/2026/08/25/robotics-startup-generalist-reaches-3b-valuation-sources-say/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-08-26T00:40:59Z",
+      "snippet": "The $200 million extension comes just months after the physical AI startup reached a $2 billion valuation."
+    },
+    {
+      "title": "OpenAI loses a top data center exec, as stream of high-profile departures continues",
+      "url": "https://techcrunch.com/2026/08/25/openai-loses-a-top-data-center-exec-as-stream-of-high-profile-departures-continues/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-08-26T00:06:20Z",
+      "snippet": "Before Malone left, OpenAI had already reshuffled its infrastructure org, shifting his reporting line away from President Greg Brockman and putting Vice President Sachin Katti in charge of the group."
+    },
     {
       "title": "Stability AI, maker of image generator Stable Diffusion, raises $76 million in fresh funding",
       "url": "https://techcrunch.com/2026/08/25/stability-ai-maker-of-image-generator-stable-diffusion-raises-76-million-in-fresh-funding/",
@@ -105,20 +119,6 @@
       "source": "TechCrunch",
       "publishedAt": "2026-08-24T13:47:26Z",
       "snippet": "Hugging Face has reportedly been fielding acquisition offers that would value the company at around $13B. But with the founders' feeling of responsibility to community, doubts arise as to whether a sa"
-    },
-    {
-      "title": "Who\u2019s behind the new \u2018stealth model\u2019 Ox Alpha?",
-      "url": "https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-08-23T20:01:36Z",
-      "snippet": "A mysterious new AI model called Ox Alpha has driven certain corners of the internet into a frenzy of speculation."
-    },
-    {
-      "title": "Linkdaze\u2019s smart calendar is built to run a household, not just track a schedule",
-      "url": "https://techcrunch.com/2026/08/23/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-08-23T19:14:08Z",
-      "snippet": "Linkdaze's smart digital calendar stands out for not putting its features behind a paywall, including an AI meal planner tool."
     },
     {
       "title": "Over 1 million people have clicked LinkedIn\u2019s AI slop button",
