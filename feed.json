@@ -1,6 +1,41 @@
 {
-  "updated": "2026-08-26T12:41:46Z",
+  "updated": "2026-08-26T14:38:56Z",
   "news": [
+    {
+      "title": "Bill Gates wants to see a robot tax and \u2018Human Reserved\u2019 jobs to mitigate harms from AI",
+      "url": "https://techcrunch.com/2026/08/26/bill-gates-wants-to-see-a-robot-tax-and-human-reserved-jobs-to-mitigate-harms-from-ai/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-08-26T14:37:01Z",
+      "snippet": "Gates is mostly in the Responsible AI camp, but there are a few ideas in here we hadn't heard before."
+    },
+    {
+      "title": "Surprise: Z.ai is the AI lab behind the mysterious Ox Alpha model",
+      "url": "https://techcrunch.com/2026/08/26/surprise-z-ai-is-the-ai-lab-behind-the-mysterious-ox-alpha-model/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-08-26T14:19:29Z",
+      "snippet": "Z.ai confirms it is behind Ox Alpha, the mysterious open AI model topping benchmarks and leaderboards, and its weights are set to be released soon."
+    },
+    {
+      "title": "Robot brain builders are pushing out of their GPT-2 era",
+      "url": "https://techcrunch.com/2026/08/26/robot-brain-builders-are-pushing-out-of-their-gpt-2-era/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-08-26T13:30:00Z",
+      "snippet": "Robot bodies are waiting for their AI brains to catch up."
+    },
+    {
+      "title": "QueryStory wants you to believe what AI is telling you",
+      "url": "https://techcrunch.com/2026/08/26/querystory-wants-you-to-believe-what-ai-is-telling-you/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-08-26T13:00:00Z",
+      "snippet": "The startup came out of stealth with $6 million in seed funding and a plan to use LLMs and cybersecurity know-how to make AI queries coherent."
+    },
+    {
+      "title": "Arga Labs is building a better way to train enterprise AI agents",
+      "url": "https://techcrunch.com/2026/08/26/arga-is-building-a-better-way-to-train-enterprise-ai-agents/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-08-26T12:55:28Z",
+      "snippet": "Arga has raised $10 million in a seed funding round that was led by General Catalyst, with participation from Box Group, Emergence, Gradient and SV Angel."
+    },
     {
       "title": "Hearing tech startup Legato emerges from stealth with $12M and a peek at its AI hearing glasses",
       "url": "https://techcrunch.com/2026/08/26/hearing-tech-startup-legato-emerges-from-stealth-with-12m-and-a-peek-at-its-ai-hearing-glasses/",
@@ -86,46 +121,11 @@
       "snippet": "Now exiting stealth mode with a $26 million seed round, Keenable has been building a vast web search index for AI agents."
     },
     {
-      "title": "\u2018The world seems to be ready\u2019: An interview with OpenAI head of product Thibault Sottiaux",
-      "url": "https://techcrunch.com/2026/08/25/the-world-seems-to-be-ready-an-interview-with-openai-head-of-product-thibault-sottiaux/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-08-25T12:00:00Z",
-      "snippet": "TechCrunch talks agents, UX, and reporting to Greg Brockman with OpenAI's head of product."
-    },
-    {
       "title": "OpenAI subpoenaed by Alabama AG over Hugging Face hack",
       "url": "https://www.theverge.com/ai-artificial-intelligence/984239/alabama-attorney-general-subpoena-openai-hugging-face-hack",
       "source": "The Verge",
       "publishedAt": "2026-08-25T09:15:03Z",
       "snippet": "Alabama's attorney general issued a subpoena to OpenAI on Monday as part of an investigation into how one of its AI agents escaped a supposedly secure testing environment and autonomously hacked anoth"
-    },
-    {
-      "title": "Situational Awareness, star AI hedge fund that nearly imploded, now being probed by the SEC",
-      "url": "https://techcrunch.com/2026/08/24/situational-awareness-star-ai-hedge-fund-that-nearly-imploded-now-being-probed-by-the-sec/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-08-25T00:23:12Z",
-      "snippet": "The AI hedge fund went from \"the talk of Wall Street\" to \"subject of federal subpoenas\" faster than you can say \"diversify your portfolio.\""
-    },
-    {
-      "title": "Trump bought SpaceX shares two weeks after blockbuster IPO",
-      "url": "https://techcrunch.com/2026/08/24/trump-bought-spacex-shares-two-weeks-after-blockbuster-ipo/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-08-24T21:24:17Z",
-      "snippet": "The president bought when the stock was in the mid-$150 range. SpaceX finished trading on Monday back at its IPO price of $135."
-    },
-    {
-      "title": "Amjad Masad, CEO and co-founder of Replit, joins the Disrupt Stage at TechCrunch Disrupt 2026",
-      "url": "https://techcrunch.com/2026/08/24/amjad-masad-ceo-and-co-founder-of-replit-joins-the-disrupt-stage-at-techcrunch-disrupt-2026/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-08-24T19:54:19Z",
-      "snippet": "At TechCrunch Disrupt 2026, Replit CEO Amjad Masad will share his perspective on the future of programming and Replit's role in developing it."
-    },
-    {
-      "title": "Instinct\u2019s powerful AI assistant is raising privacy and security concerns",
-      "url": "https://techcrunch.com/2026/08/24/instincts-powerful-ai-assistant-is-raising-privacy-and-security-concerns/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-08-24T18:03:55Z",
-      "snippet": "Early testers are raving about what Instinct can do, but some say the AI assistant\u2019s sweeping access, broad terms and ability to act on users\u2019 behalf come with uncomfortable trade-offs."
     },
     {
       "title": "Over 1 million people have clicked LinkedIn\u2019s AI slop button",
@@ -219,14 +219,14 @@
       "downloads": 1318749
     },
     {
+      "id": "unsloth/Qwen3.8-Flash-Next-GGUF",
+      "displayName": "Qwen3.8 Flash Next",
+      "downloads": 0
+    },
+    {
       "id": "DavidAU/Qwen3.8-27B-Cold-Fusion-GAIN-V1.1-NM-DAU-NEO-MAX-MTP-GGUF",
       "displayName": "Qwen3.8 27B Cold Fusion GAIN V1.1 NM DAU NEO MAX MTP",
       "downloads": 232525
-    },
-    {
-      "id": "0bserverx/Qwen3.8-27B-Heretic-Abliterated-Uncensored-GGUF",
-      "displayName": "Qwen3.8 27B Heretic Abliterated Uncensored",
-      "downloads": 803565
     }
   ]
 }
