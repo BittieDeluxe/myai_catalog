@@ -1,6 +1,34 @@
 {
-  "updated": "2026-08-27T18:46:01Z",
+  "updated": "2026-08-28T03:59:33Z",
   "news": [
+    {
+      "title": "Anthropic was illegally blacklisted by the Trump administration, court rules",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/985947/anthropic-supply-chain-risk-lawsuit-judge-ruling",
+      "source": "The Verge",
+      "publishedAt": "2026-08-28T03:14:06Z",
+      "snippet": "On Thursday, a judge ruled that the Pentagon's blacklisting of Anthropic earlier this year was unconstitutional, delivering the AI lab a win in a monthslong rollercoaster of a battle with the Trump ad"
+    },
+    {
+      "title": "Anthropic and OpenAI are joining the AI stage at TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/08/27/anthropic-and-openai-are-joining-the-ai-stage-at-techcrunch-disrupt-2026/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-08-27T23:16:45Z",
+      "snippet": "At TechCrunch Disrupt 2026, the AI Stage is back to dig into the single hottest topic in the community for the past few years, presented by Google for Startups."
+    },
+    {
+      "title": "Barret Zoph, the Thinking Machines co-founder ousted before joining OpenAI, is now at Google",
+      "url": "https://techcrunch.com/2026/08/27/barret-zoph-the-thinking-machines-co-founder-who-defected-to-openai-is-now-at-google/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-08-27T19:52:52Z",
+      "snippet": "Zoph, who co-founded Thinking Machines Lab alongside Mira Murati and also served as the startup's CTO, led a brief stint at OpenAI and is now at Google."
+    },
+    {
+      "title": "Google\u2019s AI note-taking app now allows you to interact with books",
+      "url": "https://www.theverge.com/tech/985567/google-gemini-notebook-expert-sources-books",
+      "source": "The Verge",
+      "publishedAt": "2026-08-27T19:30:00Z",
+      "snippet": "Google's AI note-taking app, Gemini Notebook, can now pull information from the books you've purchased. The new \"Expert Intelligence\" feature allows you to bring titles from Google Play Books directly"
+    },
     {
       "title": "OpenAI, Anthropic, Google, and 100 other companies call for action to defend against rogue AI",
       "url": "https://techcrunch.com/2026/08/27/openai-anthropic-google-and-100-other-companies-call-for-action-to-defend-against-rogue-ai/",
@@ -76,7 +104,7 @@
       "url": "https://techcrunch.com/2026/08/27/plauds-new-earphones-come-with-an-esim-enabled-case-for-talking-to-ai-agents/",
       "source": "TechCrunch",
       "publishedAt": "2026-08-27T13:00:00Z",
-      "snippet": "Plaud's new 'agentic' earbuds are priced at $249."
+      "snippet": "Called Plaud One, these adopt the simple bare-bones style of Apple's AirPods, and can record calls, while their case can be used to record in-person conversations or take notes."
     },
     {
       "title": "OpenAI to start showing ads on ChatGPT\u2019s free and Go tiers in India",
@@ -142,39 +170,11 @@
       "snippet": "Was Greg Brockman the right executive all along?"
     },
     {
-      "title": "OpenAI releases its official report on the Hugging Face breach",
-      "url": "https://techcrunch.com/2026/08/26/openai-releases-its-official-report-on-the-hugging-face-breach/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-08-26T19:05:22Z",
-      "snippet": "The report, which spans several discrete cybersecurity compromises, is the most complete accounting of the incident to date."
-    },
-    {
       "title": "Google\u2019s new AI transcription edits out your \u2018ums\u2019 and \u2018ahs\u2019",
       "url": "https://www.theverge.com/tech/985186/google-gemini-3-5-transcribe-audio-ai",
       "source": "The Verge",
       "publishedAt": "2026-08-26T17:00:00Z",
       "snippet": "Google has updated Gemini Audio with new transcription capabilities that automatically detect specialized jargon and more than 85 languages. Gemini 3.5 Transcribe is a new addition to the Gemini famil"
-    },
-    {
-      "title": "Radar makes podcasts searchable \u2014 and usable by AI agents",
-      "url": "https://techcrunch.com/2026/08/26/radar-makes-podcasts-searchable-and-usable-by-ai-agents/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-08-26T15:47:28Z",
-      "snippet": "Particle\u2019s new podcast intelligence platform transcribes and analyzes more than 130,000 podcasts, making their conversations searchable on the web and accessible to AI agents through an API and MCP."
-    },
-    {
-      "title": "Bill Gates is deeply worried about AI, and he\u2019s no longer staying quiet",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/984923/bill-gates-is-deeply-worried-about-ai-and-hes-no-longer-staying-quiet",
-      "source": "The Verge",
-      "publishedAt": "2026-08-26T11:07:40Z",
-      "snippet": "Bill Gates has been reflecting a lot on AI lately, and the process has triggered a stark awakening. Once a staunch AI optimist, the Microsoft cofounder is now deeply pessimistic about what AI means fo"
-    },
-    {
-      "title": "OpenAI says its Jalape\u00f1o chip can power faster AI responses than the competition",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/984290/openai-jalapeno-ai-chip-benchmarks",
-      "source": "The Verge",
-      "publishedAt": "2026-08-25T14:00:00Z",
-      "snippet": "OpenAI says its new AI chip, Jalape\u00f1o, completes tasks more efficiently and returns responses faster than other AI systems, according to a blog post published on Tuesday. During a briefing with report"
     }
   ],
   "trending": [
@@ -199,6 +199,11 @@
       "downloads": 938219
     },
     {
+      "id": "unsloth/GLM-5.3-Flash-GGUF",
+      "displayName": "GLM 5.3 Flash",
+      "downloads": 0
+    },
+    {
       "id": "JonathanColetti/Qwen3.8-27B-Uncensored-GGUF",
       "displayName": "Qwen3.8 27B Uncensored",
       "downloads": 1666948
@@ -209,19 +214,14 @@
       "downloads": 188460
     },
     {
-      "id": "unsloth/GLM-5.3-Flash-GGUF",
-      "displayName": "GLM 5.3 Flash",
-      "downloads": 0
+      "id": "huihui-ai/Huihui-Qwen3.8-27B-abliterated-GGUF",
+      "displayName": "Huihui Qwen3.8 27B abliterated",
+      "downloads": 1355482
     },
     {
       "id": "ornith-ai/Ornith-1.5-35B-A3B-GGUF",
       "displayName": "Ornith 1.5 35B A3B",
       "downloads": 1469059
-    },
-    {
-      "id": "huihui-ai/Huihui-Qwen3.8-27B-abliterated-GGUF",
-      "displayName": "Huihui Qwen3.8 27B abliterated",
-      "downloads": 1355482
     },
     {
       "id": "DavidAU/Qwen3.8-27B-Cold-Fusion-GAIN-V1.1-NM-DAU-NEO-MAX-MTP-GGUF",
