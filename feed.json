@@ -1,6 +1,27 @@
 {
-  "updated": "2026-08-28T16:30:42Z",
+  "updated": "2026-08-29T01:24:10Z",
   "news": [
+    {
+      "title": "Neocloud Lambda secures $1B in debt to buy more chips",
+      "url": "https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-08-28T20:24:11Z",
+      "snippet": "Neocloud Lambda has raised $1B in private debt to buy Nvidia AI chips and lease them to Microsoft. It's the latest in a string of loans, underscoring the high cost of the AI boom."
+    },
+    {
+      "title": "An Anthropic researcher just gave us a peek at self-improving AI",
+      "url": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-08-28T19:30:38Z",
+      "snippet": "Given 10 benchmarks for specific misaligned behaviors, the automated systems were able to improve performance on every single one without degrading overall performance."
+    },
+    {
+      "title": "Open-weight AI companies are the Valley\u2019s hottest acquisition targets",
+      "url": "https://techcrunch.com/2026/08/28/open-weight-ai-companies-are-the-valleys-hottest-acquisition-targets/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-08-28T18:19:40Z",
+      "snippet": "There's a lot of capital pouring into the business of giving models away."
+    },
     {
       "title": "Trump\u2019s EPA wants to let data centers hide their air pollution",
       "url": "https://www.theverge.com/ai-artificial-intelligence/986176/data-center-pollution-epa-rule-change-air-permit",
@@ -142,32 +163,11 @@
       "snippet": "Nvidia has reportedly agreed to buy Hugging Face, the popular open source AI hub, for $12.9 billion in a move that would let Nvidia both protect its chip empire and jump back into the cloud business."
     },
     {
-      "title": "Viral AI startup Instinct has raised $350M at a $2.5B valuation",
-      "url": "https://techcrunch.com/2026/08/26/viral-ai-startup-instinct-has-raised-350-million-at-a-2-5-billion-valuation/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-08-27T00:24:57Z",
-      "snippet": "The startup is only a year old but it has already generated a massive amount of hype (and money) while also spurring privacy concerns."
-    },
-    {
-      "title": "Amazon just tripled its order of Nvidia chips over \u2018surging demand\u2019",
-      "url": "https://techcrunch.com/2026/08/26/amazon-just-tripled-its-order-of-nvidia-chips-over-surging-demand/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-08-26T23:47:18Z",
-      "snippet": "Amazon is adding another 2 million Nvidia GPU chips to its data centers over the next two years. But this extended partnerships stretches beyond buying more chips."
-    },
-    {
       "title": "Nvidia is about to be a hundred-billion-dollar-a-quarter company",
       "url": "https://www.theverge.com/tech/985387/nvidia-hundred-billion-dollar-quarterly-revenue",
       "source": "The Verge",
       "publishedAt": "2026-08-26T21:40:53Z",
       "snippet": "Nvidia's predicting it will pull in $108 billion in revenue within just a few months. It wouldn't be the first company to rake in over $100 billion in quarterly revenue - Amazon, Apple, and Alphabet h"
-    },
-    {
-      "title": "Anthropic continues compute-gobbling streak in $45B deal with Nscale",
-      "url": "https://techcrunch.com/2026/08/26/anthropic-continues-compute-gobbling-streak-in-45-billion-deal-with-nscale/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-08-26T21:37:39Z",
-      "snippet": "The new deal with the infrastructure provider is the latest example of Anthropic's white-hot compute-gobbling streak."
     },
     {
       "title": "OpenAI\u2019s rogue AI model incident was worse than we thought",
@@ -224,9 +224,9 @@
       "downloads": 1469059
     },
     {
-      "id": "DavidAU/Qwen3.8-27B-Cold-Fusion-GAIN-V1.1-NM-DAU-NEO-MAX-MTP-GGUF",
-      "displayName": "Qwen3.8 27B Cold Fusion GAIN V1.1 NM DAU NEO MAX MTP",
-      "downloads": 238691
+      "id": "peculiar-ragdoll/Tiel-Coder-35B-A3B-GGUF",
+      "displayName": "Tiel Coder 35B A3B",
+      "downloads": 16011
     }
   ]
 }
