@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-29T01:24:10Z",
+  "updated": "2026-08-29T08:34:01Z",
   "news": [
     {
       "title": "Neocloud Lambda secures $1B in debt to buy more chips",
@@ -179,14 +179,14 @@
   ],
   "trending": [
     {
-      "id": "unsloth/Qwen3.8-27B-GGUF",
-      "displayName": "Qwen3.8 27B",
-      "downloads": 7758790
-    },
-    {
       "id": "unsloth/Qwen3.8-Flash-Next-GGUF",
       "displayName": "Qwen3.8 Flash Next",
       "downloads": 4354
+    },
+    {
+      "id": "unsloth/Qwen3.8-27B-GGUF",
+      "displayName": "Qwen3.8 27B",
+      "downloads": 7758790
     },
     {
       "id": "OBLITERATUS/Qwen3.8-27B-OBLITERATED",
@@ -194,14 +194,14 @@
       "downloads": 509270
     },
     {
-      "id": "HauhauCS/Qwen3.8-27B-Uncensored-HauhauCS-Aggressive-MTP-GGUF",
-      "displayName": "Qwen3.8 27B Uncensored HauhauCS Aggressive MTP",
-      "downloads": 938219
-    },
-    {
       "id": "unsloth/GLM-5.3-Flash-GGUF",
       "displayName": "GLM 5.3 Flash",
       "downloads": 0
+    },
+    {
+      "id": "HauhauCS/Qwen3.8-27B-Uncensored-HauhauCS-Aggressive-MTP-GGUF",
+      "displayName": "Qwen3.8 27B Uncensored HauhauCS Aggressive MTP",
+      "downloads": 938219
     },
     {
       "id": "JonathanColetti/Qwen3.8-27B-Uncensored-GGUF",
