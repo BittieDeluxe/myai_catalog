@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-29T19:07:06Z",
+  "updated": "2026-08-29T22:15:07Z",
   "news": [
     {
       "title": "Sony Music, Warner sue Anthropic, alleging a \u201cbrazen campaign\u201d of intellectual property theft",
@@ -7,6 +7,13 @@
       "source": "TechCrunch",
       "publishedAt": "2026-08-29T18:41:59Z",
       "snippet": "This latest lawsuit is particularly broad and homes in on accusations of illegal piracy."
+    },
+    {
+      "title": "Sony Music and Warner Chappell are suing Anthropic",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/986438/sony-music-warner-chappell-anthropic-lawsuit-copyright",
+      "source": "The Verge",
+      "publishedAt": "2026-08-29T18:19:53Z",
+      "snippet": "Sony Music and Warner Chappell have filed suit against Anthropic in the US District Court for the Northern District of California seeking damages for \"tens of thousands\" copyrighted works. The compani"
     },
     {
       "title": "\u201cWe\u2019re not doing 30 bets a year\u201d: Vijay Pande on betting small after running $4 billion at a16z",
@@ -168,13 +175,6 @@
       "source": "The Verge",
       "publishedAt": "2026-08-27T13:00:00Z",
       "snippet": "Adobe is rolling out an AI-heavy update for Photoshop that includes a new \"optional\" interface dedicated to its AI tools. Launching in beta, the \"AI Assisted Editor\" view will show all of Photoshop's "
-    },
-    {
-      "title": "Nvidia is about to be a hundred-billion-dollar-a-quarter company",
-      "url": "https://www.theverge.com/tech/985387/nvidia-hundred-billion-dollar-quarterly-revenue",
-      "source": "The Verge",
-      "publishedAt": "2026-08-26T21:40:53Z",
-      "snippet": "Nvidia's predicting it will pull in $108 billion in revenue within just a few months. It wouldn't be the first company to rake in over $100 billion in quarterly revenue - Amazon, Apple, and Alphabet h"
     }
   ],
   "trending": [
@@ -219,14 +219,14 @@
       "downloads": 1485837
     },
     {
-      "id": "ornith-ai/Ornith-1.5-35B-A3B-GGUF",
-      "displayName": "Ornith 1.5 35B A3B",
-      "downloads": 1768313
-    },
-    {
       "id": "peculiar-ragdoll/Tiel-Coder-35B-A3B-GGUF",
       "displayName": "Tiel Coder 35B A3B",
       "downloads": 47817
+    },
+    {
+      "id": "ornith-ai/Ornith-1.5-35B-A3B-GGUF",
+      "displayName": "Ornith 1.5 35B A3B",
+      "downloads": 1768313
     }
   ]
 }
