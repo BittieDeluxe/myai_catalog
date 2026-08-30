@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-30T03:18:46Z",
+  "updated": "2026-08-30T09:41:10Z",
   "news": [
     {
       "title": "Sony Music, Warner sue Anthropic, alleging a \u201cbrazen campaign\u201d of intellectual property theft",
@@ -181,52 +181,52 @@
     {
       "id": "unsloth/Qwen3.8-Flash-Next-GGUF",
       "displayName": "Qwen3.8 Flash Next",
-      "downloads": 188061
+      "downloads": 328195
     },
     {
       "id": "unsloth/Qwen3.8-27B-GGUF",
       "displayName": "Qwen3.8 27B",
-      "downloads": 8363481
+      "downloads": 8839153
     },
     {
       "id": "OBLITERATUS/Qwen3.8-27B-OBLITERATED",
       "displayName": "Qwen3.8 27B OBLITERATED",
-      "downloads": 645554
+      "downloads": 725757
     },
     {
       "id": "unsloth/GLM-5.3-Flash-GGUF",
       "displayName": "GLM 5.3 Flash",
-      "downloads": 27288
+      "downloads": 45936
     },
     {
       "id": "HauhauCS/Qwen3.8-27B-Uncensored-HauhauCS-Aggressive-MTP-GGUF",
       "displayName": "Qwen3.8 27B Uncensored HauhauCS Aggressive MTP",
-      "downloads": 1061687
+      "downloads": 1158065
     },
     {
       "id": "orcarouter/Qwen3.8-27B-Uncensored-GGUF",
       "displayName": "Qwen3.8 27B Uncensored",
-      "downloads": 215892
-    },
-    {
-      "id": "huihui-ai/Huihui-Qwen3.8-27B-abliterated-GGUF",
-      "displayName": "Huihui Qwen3.8 27B abliterated",
-      "downloads": 1485837
+      "downloads": 238397
     },
     {
       "id": "JonathanColetti/Qwen3.8-27B-Uncensored-GGUF",
       "displayName": "Qwen3.8 27B Uncensored",
-      "downloads": 1843237
+      "downloads": 1991437
+    },
+    {
+      "id": "huihui-ai/Huihui-Qwen3.8-27B-abliterated-GGUF",
+      "displayName": "Huihui Qwen3.8 27B abliterated",
+      "downloads": 1622056
     },
     {
       "id": "peculiar-ragdoll/Tiel-Coder-35B-A3B-GGUF",
       "displayName": "Tiel Coder 35B A3B",
-      "downloads": 47817
+      "downloads": 87848
     },
     {
-      "id": "ornith-ai/Ornith-1.5-35B-A3B-GGUF",
-      "displayName": "Ornith 1.5 35B A3B",
-      "downloads": 1768313
+      "id": "orcarouter/Qwen3.8-Flash-Next-Uncensored-GGUF",
+      "displayName": "Qwen3.8 Flash Next Uncensored",
+      "downloads": 42864
     }
   ]
 }
