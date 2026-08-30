@@ -1,6 +1,27 @@
 {
-  "updated": "2026-08-30T14:38:46Z",
+  "updated": "2026-08-30T19:00:09Z",
   "news": [
+    {
+      "title": "Musk\u2019s faster path to more gas turbines comes with pollution problem",
+      "url": "https://techcrunch.com/2026/08/30/musks-faster-path-to-more-gas-turbines-comes-with-pollution-problem/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-08-30T16:54:25Z",
+      "snippet": "Elon Musk says a secretive new SpaceX foundry will let him cast his own turbine blades and get gas power online 18 months faster than anyone else \u2014 but it's a bet on a fuel source that's already trigg"
+    },
+    {
+      "title": "Texas Governor Abbott blocks funding for more Flock cameras",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/986541/texas-governor-abbott-flock-cameras",
+      "source": "The Verge",
+      "publishedAt": "2026-08-30T15:35:10Z",
+      "snippet": "As backlash grows over Flock's AI surveillance cameras, Texas Governor Greg Abbott has frozen state spending on them. The move came just ahead of the publication of a Texas Tribune investigation that "
+    },
+    {
+      "title": "Caterpillar is bringing to AI deployment what it learned from automating mining",
+      "url": "https://techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-08-30T15:00:00Z",
+      "snippet": "Caterpillar has spent decades putting autonomous machines to work at remote mining sites. It's now bringing that experience to AI deployment."
+    },
     {
       "title": "Sony Music, Warner sue Anthropic, alleging a \u201cbrazen campaign\u201d of intellectual property theft",
       "url": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
@@ -135,20 +156,6 @@
       "snippet": "Clem Delangue, CEO of Hugging Face, said the Microduck is an \u201copen-source robot you can teach new tricks with reinforcement learning.\u201d"
     },
     {
-      "title": "AI\u2019s memory crunch is coming for Android apps",
-      "url": "https://techcrunch.com/2026/08/27/ais-memory-crunch-is-coming-for-android-apps/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-08-27T14:27:04Z",
-      "snippet": "Google is setting new memory-use limits for Android apps as AI data centers contribute to hardware shortages that could leave lower-cost phones with less memory."
-    },
-    {
-      "title": "Here\u2019s all the times AI has gone rogue and hacked other companies",
-      "url": "https://techcrunch.com/2026/08/27/heres-all-the-times-ai-has-gone-rogue-and-hacked-other-companies/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-08-27T14:01:42Z",
-      "snippet": "A recap of all the incidents involving LLMs made by Anthropic, Meta, and OpenAI, which went rogue and attacked real companies and individuals on the internet."
-    },
-    {
       "title": "OpenAI\u2019s executive exodus has one big winner",
       "url": "https://www.theverge.com/podcast/985332/openai-greg-brockman-sam-altman-leader-executive-exodus",
       "source": "The Verge",
@@ -168,13 +175,6 @@
       "source": "The Verge",
       "publishedAt": "2026-08-27T13:11:23Z",
       "snippet": "Plaud has introduced a new AI wearable that's designed to record, transcribe, and summarize your conversations, only this time it looks like earbuds instead of a pin. The Plaud One Explorer Edition ca"
-    },
-    {
-      "title": "Adobe is adding more AI to Photoshop",
-      "url": "https://www.theverge.com/tech/985491/adobe-photoshop-ai-assisted-editor-markup",
-      "source": "The Verge",
-      "publishedAt": "2026-08-27T13:00:00Z",
-      "snippet": "Adobe is rolling out an AI-heavy update for Photoshop that includes a new \"optional\" interface dedicated to its AI tools. Launching in beta, the \"AI Assisted Editor\" view will show all of Photoshop's "
     }
   ],
   "trending": [
@@ -189,14 +189,14 @@
       "downloads": 8839153
     },
     {
-      "id": "OBLITERATUS/Qwen3.8-27B-OBLITERATED",
-      "displayName": "Qwen3.8 27B OBLITERATED",
-      "downloads": 725757
-    },
-    {
       "id": "unsloth/GLM-5.3-Flash-GGUF",
       "displayName": "GLM 5.3 Flash",
       "downloads": 45936
+    },
+    {
+      "id": "OBLITERATUS/Qwen3.8-27B-OBLITERATED",
+      "displayName": "Qwen3.8 27B OBLITERATED",
+      "downloads": 725757
     },
     {
       "id": "HauhauCS/Qwen3.8-27B-Uncensored-HauhauCS-Aggressive-MTP-GGUF",
@@ -214,14 +214,14 @@
       "downloads": 1991437
     },
     {
-      "id": "huihui-ai/Huihui-Qwen3.8-27B-abliterated-GGUF",
-      "displayName": "Huihui Qwen3.8 27B abliterated",
-      "downloads": 1622056
-    },
-    {
       "id": "peculiar-ragdoll/Tiel-Coder-35B-A3B-GGUF",
       "displayName": "Tiel Coder 35B A3B",
       "downloads": 87848
+    },
+    {
+      "id": "huihui-ai/Huihui-Qwen3.8-27B-abliterated-GGUF",
+      "displayName": "Huihui Qwen3.8 27B abliterated",
+      "downloads": 1622056
     },
     {
       "id": "orcarouter/Qwen3.8-Flash-Next-Uncensored-GGUF",
