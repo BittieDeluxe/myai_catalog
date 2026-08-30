@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-30T19:00:09Z",
+  "updated": "2026-08-30T22:20:00Z",
   "news": [
     {
       "title": "Musk\u2019s faster path to more gas turbines comes with pollution problem",
@@ -204,14 +204,14 @@
       "downloads": 1158065
     },
     {
-      "id": "orcarouter/Qwen3.8-27B-Uncensored-GGUF",
-      "displayName": "Qwen3.8 27B Uncensored",
-      "downloads": 238397
-    },
-    {
       "id": "JonathanColetti/Qwen3.8-27B-Uncensored-GGUF",
       "displayName": "Qwen3.8 27B Uncensored",
       "downloads": 1991437
+    },
+    {
+      "id": "orcarouter/Qwen3.8-27B-Uncensored-GGUF",
+      "displayName": "Qwen3.8 27B Uncensored",
+      "downloads": 238397
     },
     {
       "id": "peculiar-ragdoll/Tiel-Coder-35B-A3B-GGUF",
