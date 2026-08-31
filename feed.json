@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-31T03:14:32Z",
+  "updated": "2026-08-31T10:25:11Z",
   "news": [
     {
       "title": "The U.S. is building barriers around drones and robots, but China has scale to get around them",
@@ -181,52 +181,52 @@
     {
       "id": "unsloth/Qwen3.8-Flash-Next-GGUF",
       "displayName": "Qwen3.8 Flash Next",
-      "downloads": 328195
+      "downloads": 373029
     },
     {
       "id": "unsloth/Qwen3.8-27B-GGUF",
       "displayName": "Qwen3.8 27B",
-      "downloads": 8839153
+      "downloads": 9059937
     },
     {
       "id": "unsloth/GLM-5.3-Flash-GGUF",
       "displayName": "GLM 5.3 Flash",
-      "downloads": 45936
+      "downloads": 53350
     },
     {
       "id": "OBLITERATUS/Qwen3.8-27B-OBLITERATED",
       "displayName": "Qwen3.8 27B OBLITERATED",
-      "downloads": 725757
+      "downloads": 759644
     },
     {
       "id": "HauhauCS/Qwen3.8-27B-Uncensored-HauhauCS-Aggressive-MTP-GGUF",
       "displayName": "Qwen3.8 27B Uncensored HauhauCS Aggressive MTP",
-      "downloads": 1158065
-    },
-    {
-      "id": "JonathanColetti/Qwen3.8-27B-Uncensored-GGUF",
-      "displayName": "Qwen3.8 27B Uncensored",
-      "downloads": 1991437
-    },
-    {
-      "id": "orcarouter/Qwen3.8-27B-Uncensored-GGUF",
-      "displayName": "Qwen3.8 27B Uncensored",
-      "downloads": 238397
+      "downloads": 1202914
     },
     {
       "id": "peculiar-ragdoll/Tiel-Coder-35B-A3B-GGUF",
       "displayName": "Tiel Coder 35B A3B",
-      "downloads": 87848
+      "downloads": 105974
+    },
+    {
+      "id": "JonathanColetti/Qwen3.8-27B-Uncensored-GGUF",
+      "displayName": "Qwen3.8 27B Uncensored",
+      "downloads": 2055081
+    },
+    {
+      "id": "orcarouter/Qwen3.8-27B-Uncensored-GGUF",
+      "displayName": "Qwen3.8 27B Uncensored",
+      "downloads": 246445
     },
     {
       "id": "huihui-ai/Huihui-Qwen3.8-27B-abliterated-GGUF",
       "displayName": "Huihui Qwen3.8 27B abliterated",
-      "downloads": 1622056
+      "downloads": 1764919
     },
     {
       "id": "orcarouter/Qwen3.8-Flash-Next-Uncensored-GGUF",
       "displayName": "Qwen3.8 Flash Next Uncensored",
-      "downloads": 42864
+      "downloads": 51125
     }
   ]
 }
