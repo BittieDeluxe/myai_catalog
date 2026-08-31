@@ -1,6 +1,13 @@
 {
-  "updated": "2026-08-30T22:20:00Z",
+  "updated": "2026-08-31T03:14:32Z",
   "news": [
+    {
+      "title": "The U.S. is building barriers around drones and robots, but China has scale to get around them",
+      "url": "https://techcrunch.com/2026/08/30/the-u-s-is-building-barriers-around-drones-and-robots-china-still-has-scale/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-08-31T02:34:00Z",
+      "snippet": "The U.S. is shutting out more foreign-made drones and robots. China\u2019s scale means the global competition may simply move elsewhere."
+    },
     {
       "title": "Musk\u2019s faster path to more gas turbines comes with pollution problem",
       "url": "https://techcrunch.com/2026/08/30/musks-faster-path-to-more-gas-turbines-comes-with-pollution-problem/",
@@ -147,13 +154,6 @@
       "source": "TechCrunch",
       "publishedAt": "2026-08-27T16:00:00Z",
       "snippet": "The updates indicate that Google is looking to position AI Mode as an AI travel agent of sorts, as it's moving beyond simply helping users find information to actually handling parts of the trip-plann"
-    },
-    {
-      "title": "Hugging Face is selling a cute $399 open source duck robot, Microduck",
-      "url": "https://techcrunch.com/2026/08/27/hugging-face-is-selling-a-cute-399-open-source-duck-robot-microduck/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-08-27T14:56:52Z",
-      "snippet": "Clem Delangue, CEO of Hugging Face, said the Microduck is an \u201copen-source robot you can teach new tricks with reinforcement learning.\u201d"
     },
     {
       "title": "OpenAI\u2019s executive exodus has one big winner",
