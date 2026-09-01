@@ -1,6 +1,13 @@
 {
-  "updated": "2026-08-31T23:34:42Z",
+  "updated": "2026-09-01T03:18:01Z",
   "news": [
+    {
+      "title": "Apple shares \u2018shocking evidence\u2019 against former employee accused of stealing company data for OpenAI",
+      "url": "https://techcrunch.com/2026/08/31/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-09-01T00:13:00Z",
+      "snippet": "Apple says it has evidence that a former employee destroyed evidence of data theft after learning he was under investigation."
+    },
     {
       "title": "The Pentagon now has its own version of ChatGPT and Grok",
       "url": "https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/",
@@ -147,13 +154,6 @@
       "source": "TechCrunch",
       "publishedAt": "2026-08-28T20:24:11Z",
       "snippet": "Neocloud Lambda has raised $1B in private debt to buy Nvidia AI chips and lease them to Microsoft. It's the latest in a string of loans, underscoring the high cost of the AI boom."
-    },
-    {
-      "title": "An Anthropic researcher just gave us a peek at self-improving AI",
-      "url": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-08-28T19:30:38Z",
-      "snippet": "Given 10 benchmarks for specific misaligned behaviors, the automated systems were able to improve performance on every single one without degrading overall performance."
     },
     {
       "title": "Trump\u2019s EPA wants to let data centers hide their air pollution",
