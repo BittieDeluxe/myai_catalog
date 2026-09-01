@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-01T03:18:01Z",
+  "updated": "2026-09-01T09:06:38Z",
   "news": [
     {
       "title": "Apple shares \u2018shocking evidence\u2019 against former employee accused of stealing company data for OpenAI",
@@ -204,14 +204,14 @@
       "downloads": 1202914
     },
     {
-      "id": "JonathanColetti/Qwen3.8-27B-Uncensored-GGUF",
-      "displayName": "Qwen3.8 27B Uncensored",
-      "downloads": 2055081
-    },
-    {
       "id": "orcarouter/Qwen3.8-Flash-Next-Uncensored-GGUF",
       "displayName": "Qwen3.8 Flash Next Uncensored",
       "downloads": 51125
+    },
+    {
+      "id": "JonathanColetti/Qwen3.8-27B-Uncensored-GGUF",
+      "displayName": "Qwen3.8 27B Uncensored",
+      "downloads": 2055081
     },
     {
       "id": "orcarouter/Qwen3.8-27B-Uncensored-GGUF",
