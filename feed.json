@@ -1,6 +1,76 @@
 {
-  "updated": "2026-09-01T14:28:27Z",
+  "updated": "2026-09-01T19:09:46Z",
   "news": [
+    {
+      "title": "The rise of AI \u2018civilizations\u2019 and the fall of corporate responsibility",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/987566/ai-civilizations-opeai-hugging-face-hack",
+      "source": "The Verge",
+      "publishedAt": "2026-09-01T19:02:54Z",
+      "snippet": "Depending on who you ask, developer platform Hugging Face was recently attacked by OpenAI - after it lost control of its own AI tools - or by a succession of AI \"civilizations.\" Welcome to the linguis"
+    },
+    {
+      "title": "Apple accuses OpenAI of destroying evidence",
+      "url": "https://www.theverge.com/tech/987575/apple-openai-destroying-evidence-trade-secrets-lawsuit",
+      "source": "The Verge",
+      "publishedAt": "2026-09-01T18:19:26Z",
+      "snippet": "Apple is pushing for \"expedited discovery\" in its legal battle against OpenAI over concerns the company is actively destroying evidence, as reported earlier by Bloomberg. In a filing on Monday, Apple "
+    },
+    {
+      "title": "Google\u2019s answer to Canva is an AI tool where you prompt instead of design",
+      "url": "https://techcrunch.com/2026/09/01/googles-answer-to-canva-is-an-ai-tool-where-you-prompt-instead-of-design/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-09-01T17:35:37Z",
+      "snippet": "With Google Pics, Google is pushing deeper into the creative software market dominated by Canva and Adobe, but with a distinctly AI-first approach."
+    },
+    {
+      "title": "ChatGPT Health adds Epic integration for clinicians to import patient data",
+      "url": "https://techcrunch.com/2026/09/01/chatgpt-health-adds-epic-integration-for-clinicians-to-import-patient-data/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-09-01T17:00:00Z",
+      "snippet": "OpenAI said that the integration provides read-only access to health records for clinicians."
+    },
+    {
+      "title": "Sequoia-incubated Empirik launches with $21M to predict outages before they happen",
+      "url": "https://techcrunch.com/2026/09/01/sequoia-incubated-empirik-launches-with-21m-to-predict-outages-before-they-happen/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-09-01T16:31:04Z",
+      "snippet": "The startup wants to do for IT infrastructure what Cursor did for software engineering."
+    },
+    {
+      "title": "John Deere launched an AI chatbot for farmers",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/987486/john-deere-jd-ai-chatbot",
+      "source": "The Verge",
+      "publishedAt": "2026-09-01T16:00:52Z",
+      "snippet": "John Deere is testing a new \"JD\" AI assistant that it says can help farmers make more money, with answers about best practices and historical trends that are based on their own data. It uses their \"fi"
+    },
+    {
+      "title": "Google Pics is like Canva, but with even more AI",
+      "url": "https://www.theverge.com/tech/987423/google-pics-ai-image-editor-generator",
+      "source": "The Verge",
+      "publishedAt": "2026-09-01T16:00:00Z",
+      "snippet": "Google has a new suite of creative design tools for Workspace users called Google Pics, which aims to make editing and generating \"professional-grade\" AI images less cumbersome for businesses. Built a"
+    },
+    {
+      "title": "Amazon Alexa can now alert you when something new might tempt you to shop",
+      "url": "https://techcrunch.com/2026/09/01/amazon-alexa-can-now-alert-you-when-something-new-might-tempt-you-to-shop/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-09-01T15:51:55Z",
+      "snippet": "Amazon is adding a new Alexa-powered feature called \u201cUpdate Me When\u201d that can send personalized alerts about product launches, tours, books, shows, and other events that could trigger a purchase."
+    },
+    {
+      "title": "AIR raises $50M to help companies vet the skills and add-ons AI agents use",
+      "url": "https://techcrunch.com/2026/09/01/air-raises-50m-to-help-companies-vet-the-skills-and-add-ons-ai-agents-use/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-09-01T15:45:51Z",
+      "snippet": "AIR's platform can discover agents running at a company, continuously vets any skills and add-ons they use, and blocks any unwanted behavior."
+    },
+    {
+      "title": "Fambot introduces an \u2018AI chief of staff\u2019 for families",
+      "url": "https://techcrunch.com/2026/09/01/fambot-introduces-an-ai-chief-of-staff-for-families/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-09-01T15:10:58Z",
+      "snippet": "Fambot is building an AI \u201cchief of staff\u201d to help families manage the emails, calendars, school updates, sports schedules, and other logistics of raising kids."
+    },
     {
       "title": "Nvidia\u2019s controversial DLSS 5 arrives September 3rd and requires serious GPU horsepower",
       "url": "https://www.theverge.com/tech/986378/nvidia-dlss-5-launch-nba-2k27",
@@ -105,76 +175,6 @@
       "source": "The Verge",
       "publishedAt": "2026-08-30T15:35:10Z",
       "snippet": "As backlash grows over Flock's AI surveillance cameras, Texas Governor Greg Abbott has frozen state spending on them. The move came just ahead of the publication of a Texas Tribune investigation that "
-    },
-    {
-      "title": "Caterpillar is bringing to AI deployment what it learned from automating mining",
-      "url": "https://techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-08-30T15:00:00Z",
-      "snippet": "Caterpillar has spent decades putting autonomous machines to work at remote mining sites. It's now bringing that experience to AI deployment."
-    },
-    {
-      "title": "Sony Music, Warner sue Anthropic, alleging a \u2018brazen campaign\u2019 of intellectual property theft",
-      "url": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-08-29T18:41:59Z",
-      "snippet": "This latest lawsuit is particularly broad and homes in on accusations of illegal piracy."
-    },
-    {
-      "title": "Sony Music Publishing and Warner Chappell are suing Anthropic",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/986438/sony-music-warner-chappell-anthropic-lawsuit-copyright",
-      "source": "The Verge",
-      "publishedAt": "2026-08-29T18:19:53Z",
-      "snippet": "Sony Music Publishing and Warner Chappell have filed suit against Anthropic in the US District Court for the Northern District of California seeking damages for \"tens of thousands\" copyrighted works. "
-    },
-    {
-      "title": "At TechBBQ, Europe\u2019s AI conversations kept coming back to: Who\u2019s actually in control?",
-      "url": "https://techcrunch.com/2026/08/29/at-techbbq-europes-ai-conversations-kept-coming-back-to-whos-actually-in-control/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-08-29T17:51:10Z",
-      "snippet": "Investors, founders, and operators from across Europe arrived for the annual Nordic TechBBQ conference to talk about how humans can have agency over AI."
-    },
-    {
-      "title": "\u2018We\u2019re not doing 30 bets a year\u2019: Vijay Pande on betting small after running $4B at a16z",
-      "url": "https://techcrunch.com/2026/08/29/were-not-doing-30-bets-a-year-vijay-pande-on-betting-small-after-running-4-billion-at-a16z/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-08-29T17:36:47Z",
-      "snippet": "Vijay Pande \u2014 who left a16z's roughly $4 billion biotech practice last year to start the much smaller, AI-native VZVC \u2014 talks about why biology is finally shifting from a \"discovery\" science to an \"en"
-    },
-    {
-      "title": "Nvidia\u2019s AI advantage is moving beyond the GPU",
-      "url": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-08-29T13:00:00Z",
-      "snippet": "The new generation of data center systems is increasing efficiency with smarter traffic control instead of just more processor cycles."
-    },
-    {
-      "title": "Musicians-turned-detectives are hunting for AI grifters",
-      "url": "https://www.theverge.com/entertainment/985866/h4rris-nihil-young-edm-suno-ai",
-      "source": "The Verge",
-      "publishedAt": "2026-08-29T12:00:00Z",
-      "snippet": "As audio-focused generative tools and platforms have gotten more sophisticated, the internet has become increasingly filled with AI-generated music whose melodies and vocals are algorithmically derive"
-    },
-    {
-      "title": "Neocloud Lambda secures $1B in debt to buy more chips",
-      "url": "https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-08-28T20:24:11Z",
-      "snippet": "Neocloud Lambda has raised $1B in private debt to buy Nvidia AI chips and lease them to Microsoft. It's the latest in a string of loans, underscoring the high cost of the AI boom."
-    },
-    {
-      "title": "Trump\u2019s EPA wants to let data centers hide their air pollution",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/986176/data-center-pollution-epa-rule-change-air-permit",
-      "source": "The Verge",
-      "publishedAt": "2026-08-28T16:28:40Z",
-      "snippet": "Just as new data centers face growing backlash from neighboring communities, the US Environmental Protection Agency (EPA) is about to make it harder for people to weigh in on any pollution those cente"
-    },
-    {
-      "title": "Anthropic was illegally blacklisted by the Trump administration, court rules",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/985947/anthropic-supply-chain-risk-lawsuit-judge-ruling",
-      "source": "The Verge",
-      "publishedAt": "2026-08-28T03:14:06Z",
-      "snippet": "On Thursday, a judge ruled that the Pentagon's blacklisting of Anthropic earlier this year was unconstitutional, delivering the AI lab a win in a monthslong rollercoaster of a battle with the Trump ad"
     }
   ],
   "trending": [
@@ -209,14 +209,14 @@
       "downloads": 64325
     },
     {
-      "id": "JonathanColetti/Qwen3.8-27B-Uncensored-GGUF",
-      "displayName": "Qwen3.8 27B Uncensored",
-      "downloads": 2143289
-    },
-    {
       "id": "orcarouter/Qwen3.8-27B-Uncensored-GGUF",
       "displayName": "Qwen3.8 27B Uncensored",
       "downloads": 254529
+    },
+    {
+      "id": "JonathanColetti/Qwen3.8-27B-Uncensored-GGUF",
+      "displayName": "Qwen3.8 27B Uncensored",
+      "downloads": 2143289
     },
     {
       "id": "peculiar-ragdoll/Tiel-Coder-35B-A3B-GGUF",
@@ -224,9 +224,9 @@
       "downloads": 130086
     },
     {
-      "id": "huihui-ai/Huihui-Qwen3.8-27B-abliterated-GGUF",
-      "displayName": "Huihui Qwen3.8 27B abliterated",
-      "downloads": 1869259
+      "id": "ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF",
+      "displayName": "Qwen3.8 27B GSQ RCO",
+      "downloads": 56208
     }
   ]
 }
