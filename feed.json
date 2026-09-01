@@ -1,6 +1,13 @@
 {
-  "updated": "2026-09-01T09:06:38Z",
+  "updated": "2026-09-01T14:28:27Z",
   "news": [
+    {
+      "title": "Nvidia\u2019s controversial DLSS 5 arrives September 3rd and requires serious GPU horsepower",
+      "url": "https://www.theverge.com/tech/986378/nvidia-dlss-5-launch-nba-2k27",
+      "source": "The Verge",
+      "publishedAt": "2026-09-01T13:00:00Z",
+      "snippet": "Nvidia is officially launching DLSS 5 this week, following a divisive announcement in March where we likened the AI upscaling tech to a \"real-time generative AI filter for video games\" and \"motion smo"
+    },
     {
       "title": "Apple shares \u2018shocking evidence\u2019 against former employee accused of stealing company data for OpenAI",
       "url": "https://techcrunch.com/2026/08/31/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai/",
@@ -168,65 +175,58 @@
       "source": "The Verge",
       "publishedAt": "2026-08-28T03:14:06Z",
       "snippet": "On Thursday, a judge ruled that the Pentagon's blacklisting of Anthropic earlier this year was unconstitutional, delivering the AI lab a win in a monthslong rollercoaster of a battle with the Trump ad"
-    },
-    {
-      "title": "Google\u2019s AI note-taking app now allows you to interact with books",
-      "url": "https://www.theverge.com/tech/985567/google-gemini-notebook-expert-sources-books",
-      "source": "The Verge",
-      "publishedAt": "2026-08-27T19:30:00Z",
-      "snippet": "Google's AI note-taking app, Gemini Notebook, can now pull information from the books you've purchased. The new \"Expert Intelligence\" feature allows you to bring titles from Google Play Books directly"
     }
   ],
   "trending": [
     {
       "id": "unsloth/Qwen3.8-Flash-Next-GGUF",
       "displayName": "Qwen3.8 Flash Next",
-      "downloads": 373029
+      "downloads": 431339
     },
     {
       "id": "unsloth/Qwen3.8-27B-GGUF",
       "displayName": "Qwen3.8 27B",
-      "downloads": 9059937
+      "downloads": 9354057
     },
     {
       "id": "unsloth/GLM-5.3-Flash-GGUF",
       "displayName": "GLM 5.3 Flash",
-      "downloads": 53350
+      "downloads": 63718
     },
     {
       "id": "OBLITERATUS/Qwen3.8-27B-OBLITERATED",
       "displayName": "Qwen3.8 27B OBLITERATED",
-      "downloads": 759644
+      "downloads": 805791
     },
     {
       "id": "HauhauCS/Qwen3.8-27B-Uncensored-HauhauCS-Aggressive-MTP-GGUF",
       "displayName": "Qwen3.8 27B Uncensored HauhauCS Aggressive MTP",
-      "downloads": 1202914
+      "downloads": 1276092
     },
     {
       "id": "orcarouter/Qwen3.8-Flash-Next-Uncensored-GGUF",
       "displayName": "Qwen3.8 Flash Next Uncensored",
-      "downloads": 51125
+      "downloads": 64325
     },
     {
       "id": "JonathanColetti/Qwen3.8-27B-Uncensored-GGUF",
       "displayName": "Qwen3.8 27B Uncensored",
-      "downloads": 2055081
+      "downloads": 2143289
     },
     {
       "id": "orcarouter/Qwen3.8-27B-Uncensored-GGUF",
       "displayName": "Qwen3.8 27B Uncensored",
-      "downloads": 246445
+      "downloads": 254529
     },
     {
       "id": "peculiar-ragdoll/Tiel-Coder-35B-A3B-GGUF",
       "displayName": "Tiel Coder 35B A3B",
-      "downloads": 105974
+      "downloads": 130086
     },
     {
       "id": "huihui-ai/Huihui-Qwen3.8-27B-abliterated-GGUF",
       "displayName": "Huihui Qwen3.8 27B abliterated",
-      "downloads": 1764919
+      "downloads": 1869259
     }
   ]
 }
