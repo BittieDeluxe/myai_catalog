@@ -1,6 +1,104 @@
 {
-  "updated": "2026-09-02T14:02:16Z",
+  "updated": "2026-09-02T19:10:32Z",
   "news": [
+    {
+      "title": "Amazon\u2019s AI assistant can now spot fake emails from the company",
+      "url": "https://www.theverge.com/tech/988518/amazon-alexa-for-shopping-verify-emails",
+      "source": "The Verge",
+      "publishedAt": "2026-09-02T17:52:56Z",
+      "snippet": "Amazon is trying to combat impersonation scams with a new feature that allows you to use its AI assistant to determine whether an email, text message, or phone call actually came from the company. Wit"
+    },
+    {
+      "title": "Pangram\u2019s Max Spero on why AI detection is harder than \u2018Real or Fake\u2019",
+      "url": "https://techcrunch.com/video/pangrams-max-spero-on-why-ai-detection-is-harder-than-real-or-fake/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-09-02T17:18:13Z",
+      "snippet": "The internet has a trust problem, and it\u2019s not just because social media feeds are filling up with AI slop. AI-generated text and images are now making their way into job applications, product reviews"
+    },
+    {
+      "title": "We\u2019re \u2018dangerously close\u2019 to dead internet theory, says Pangram\u2019s CEO",
+      "url": "https://techcrunch.com/podcast/were-dangerously-close-to-dead-internet-theory-says-pangrams-ceo/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-09-02T17:09:57Z",
+      "snippet": "The internet has a trust problem, and it\u2019s not just because social media feeds are filling up with AI slop. AI-generated text and images are now making their way into job applications, product reviews"
+    },
+    {
+      "title": "US government sides with OpenAI on issue of training LLMs on copyrighted material",
+      "url": "https://techcrunch.com/2026/09/02/u-s-government-sides-with-openai-on-issue-of-training-llms-on-copyrighted-material/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-09-02T17:09:06Z",
+      "snippet": "\"The United States has a strong interest in continuing to develop a robust and competitive\nartificial intelligence industry that sets the standard for the practice and procedure of AI use\nglobally,\" t"
+    },
+    {
+      "title": "Researchers fear safety disaster ahead of OpenAI\u2019s Astra release",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/988334/openai-astra-ai-monitoring-safety",
+      "source": "The Verge",
+      "publishedAt": "2026-09-02T16:40:50Z",
+      "snippet": "OpenAI is on the cusp of releasing its most powerful AI model yet, Astra, following weeks of delays to shore up safety protocols after its agents attacked real targets during testing. As details about"
+    },
+    {
+      "title": "The Trump administration is supporting OpenAI in the NYT copyright lawsuit",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/988344/trump-administration-new-york-times-openai-lawsuit",
+      "source": "The Verge",
+      "publishedAt": "2026-09-02T16:12:25Z",
+      "snippet": "The Trump administration has intervened in The New York Times' copyright lawsuit against OpenAI, making an argument in favor of the AI lab. The landmark lawsuit, filed in December 2023, alleging that "
+    },
+    {
+      "title": "Wonderful more than doubles its valuation to $5B in under 6 months",
+      "url": "https://techcrunch.com/2026/09/02/wonderful-more-than-doubles-its-valuation-to-5b-in-under-6-months/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-09-02T16:04:10Z",
+      "snippet": "Wonderful said it will use its $550 million Series C funding to develop products faster, expand its FDE teams, and meet demand for its products."
+    },
+    {
+      "title": "India\u2019s richest man now wants to turn aging computers into AI-ready PCs",
+      "url": "https://techcrunch.com/2026/09/02/indias-richest-man-now-wants-to-turn-aging-computers-into-ai-ready-pcs/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-09-02T16:01:48Z",
+      "snippet": "Jio is betting it can turn an aging computer into an AI-ready PC for as little as about $11 for two months."
+    },
+    {
+      "title": "Google is sending MrBeast into the wilderness, armed with AI",
+      "url": "https://www.theverge.com/tech/988355/mrbeast-google-partnership-gemini-fitbit",
+      "source": "The Verge",
+      "publishedAt": "2026-09-02T15:47:03Z",
+      "snippet": "MrBeast will feature Gemini, Google Health, and the Fitbit Air in upcoming videos as part of a multi-year partnership with Google. The deal will kick off with a video featuring Jimmy \"MrBeast\" Donalds"
+    },
+    {
+      "title": "HiddenLayer nabs $100M as enterprises rush to secure their AI deployments",
+      "url": "https://techcrunch.com/2026/09/02/hiddenlayer-nabs-100m-as-enterprises-rush-to-secure-their-ai-deployments/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-09-02T15:01:23Z",
+      "snippet": "Security companies are scrambling to build products that can monitor not just agents but also the tools and add-ons they use."
+    },
+    {
+      "title": "PSA: Amazon\u2019s shopping AI can now tell you if that message is a scam",
+      "url": "https://techcrunch.com/2026/09/02/psa-amazons-shopping-ai-can-now-tell-you-if-that-message-is-a-scam/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-09-02T14:56:34Z",
+      "snippet": "Amazon is adding a scam-detection feature to Alexa for Shopping that can verify whether suspicious emails, texts, and other messages actually came from the retailer."
+    },
+    {
+      "title": "OpenAI accused of \u2018aiding and abetting\u2019 Tumbler Ridge mass shooting in dozens of new lawsuits",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/988261/openai-tumbler-ridge-shooting-lawsuit-aiding-abetting",
+      "source": "The Verge",
+      "publishedAt": "2026-09-02T14:35:03Z",
+      "snippet": "OpenAI and its CEO Sam Altman are facing 30 new lawsuits that accuse them of providing \"substantial assistance and encouragement\" to the suspect in Canada's Tumbler Ridge school shooting, as reported "
+    },
+    {
+      "title": "NYC bans AI use for students until they reach high school",
+      "url": "https://www.theverge.com/policy/988228/nyc-ai-restrictions-in-schools-chatbot-ban",
+      "source": "The Verge",
+      "publishedAt": "2026-09-02T14:30:00Z",
+      "snippet": "New York City mayor Zohran Mamdani has announced a new policy today that will ban younger schoolchildren from using AI in classrooms. The one-year moratorium, effective in the 2026-2027 school year, w"
+    },
+    {
+      "title": "Adobe acquires Indian market intelligence startup Rilo",
+      "url": "https://techcrunch.com/2026/09/02/adobe-acquires-indian-market-intelligence-startup-rilo/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-09-02T14:03:57Z",
+      "snippet": "This is Adobe's second acquisition out of India after Rephrase.ai in 2023"
+    },
     {
       "title": "OpenAI faces 30 more lawsuits tied to Tumbler Ridge shooting",
       "url": "https://techcrunch.com/2026/09/02/openai-faces-30-more-lawsuits-tied-to-tumbler-ridge-shooting/",
@@ -65,13 +163,6 @@
       "snippet": "Depending on who you ask, developer platform Hugging Face was recently attacked by OpenAI - after it lost control of its own AI tools - or by a succession of AI \"civilizations.\" Welcome to the linguis"
     },
     {
-      "title": "Apple accuses OpenAI of destroying evidence",
-      "url": "https://www.theverge.com/tech/987575/apple-openai-destroying-evidence-trade-secrets-lawsuit",
-      "source": "The Verge",
-      "publishedAt": "2026-09-01T18:19:26Z",
-      "snippet": "Apple is pushing for \"expedited discovery\" in its legal battle against OpenAI over concerns the company is actively destroying evidence, as reported earlier by Bloomberg. In a filing on Monday, Apple "
-    },
-    {
       "title": "Google\u2019s answer to Canva is an AI tool where you prompt instead of design",
       "url": "https://techcrunch.com/2026/09/01/googles-answer-to-canva-is-an-ai-tool-where-you-prompt-instead-of-design/",
       "source": "TechCrunch",
@@ -84,97 +175,6 @@
       "source": "TechCrunch",
       "publishedAt": "2026-09-01T17:00:00Z",
       "snippet": "OpenAI said that the integration provides read-only access to health records for clinicians."
-    },
-    {
-      "title": "Sequoia-incubated Empirik launches with $21M to predict outages before they happen",
-      "url": "https://techcrunch.com/2026/09/01/sequoia-incubated-empirik-launches-with-21m-to-predict-outages-before-they-happen/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-09-01T16:31:04Z",
-      "snippet": "The startup wants to do for IT infrastructure what Cursor did for software engineering."
-    },
-    {
-      "title": "John Deere launched an AI chatbot for farmers",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/987486/john-deere-jd-ai-chatbot",
-      "source": "The Verge",
-      "publishedAt": "2026-09-01T16:00:52Z",
-      "snippet": "John Deere is testing a new \"JD\" AI assistant that it says can help farmers make more money, with answers about best practices and historical trends that are based on their own data. It uses their \"fi"
-    },
-    {
-      "title": "Google Pics is like Canva, but with even more AI",
-      "url": "https://www.theverge.com/tech/987423/google-pics-ai-image-editor-generator",
-      "source": "The Verge",
-      "publishedAt": "2026-09-01T16:00:00Z",
-      "snippet": "Google has a new suite of creative design tools for Workspace users called Google Pics, which aims to make editing and generating \"professional-grade\" AI images less cumbersome for businesses. Built a"
-    },
-    {
-      "title": "Amazon Alexa can now alert you when something new might tempt you to shop",
-      "url": "https://techcrunch.com/2026/09/01/amazon-alexa-can-now-alert-you-when-something-new-might-tempt-you-to-shop/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-09-01T15:51:55Z",
-      "snippet": "Amazon is adding a new Alexa-powered feature called \u201cUpdate Me When\u201d that can send personalized alerts about product launches, tours, books, shows, and other events that could trigger a purchase."
-    },
-    {
-      "title": "AIR raises $50M to help companies vet the skills and add-ons AI agents use",
-      "url": "https://techcrunch.com/2026/09/01/air-raises-50m-to-help-companies-vet-the-skills-and-add-ons-ai-agents-use/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-09-01T15:45:51Z",
-      "snippet": "AIR's platform can discover agents running at a company, continuously vets any skills and add-ons they use, and blocks any unwanted behavior."
-    },
-    {
-      "title": "Fambot introduces an \u2018AI chief of staff\u2019 for families",
-      "url": "https://techcrunch.com/2026/09/01/fambot-introduces-an-ai-chief-of-staff-for-families/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-09-01T15:10:58Z",
-      "snippet": "Fambot is building an AI \u201cchief of staff\u201d to help families manage the emails, calendars, school updates, sports schedules, and other logistics of raising kids."
-    },
-    {
-      "title": "Nvidia\u2019s controversial DLSS 5 arrives September 3rd and requires serious GPU horsepower",
-      "url": "https://www.theverge.com/tech/986378/nvidia-dlss-5-launch-nba-2k27",
-      "source": "The Verge",
-      "publishedAt": "2026-09-01T13:00:00Z",
-      "snippet": "Nvidia is officially launching DLSS 5 this week, following a divisive announcement in March where we likened the AI upscaling tech to a \"real-time generative AI filter for video games\" and \"motion smo"
-    },
-    {
-      "title": "Apple shares \u2018shocking evidence\u2019 against former employee accused of stealing company data for OpenAI",
-      "url": "https://techcrunch.com/2026/08/31/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-09-01T00:13:00Z",
-      "snippet": "Apple says it has evidence that a former employee destroyed evidence of data theft after learning he was under investigation."
-    },
-    {
-      "title": "The Pentagon now has its own version of ChatGPT and Grok",
-      "url": "https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-08-31T20:13:45Z",
-      "snippet": "Versions of OpenAI's ChatGPT and SpaceXAI's Grok will join Google's Gemini on the Pentagon's central portal for AI tools."
-    },
-    {
-      "title": "Instagram puts new limits on undisclosed AI profiles",
-      "url": "https://techcrunch.com/2026/08/31/instagram-puts-new-limits-on-undisclosed-ai-profiles/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-08-31T19:16:59Z",
-      "snippet": "As frustration over AI influencers has been growing, Instagram is limiting the reach of undisclosed AI profiles."
-    },
-    {
-      "title": "Harvard Law dropout raises $6M for Blue Voice to build a \u2018Harvey for police officers\u2019",
-      "url": "https://techcrunch.com/2026/08/31/harvard-law-dropout-raises-6m-for-blue-voice-to-build-a-harvey-for-police-officers/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-08-31T18:35:11Z",
-      "snippet": "Blue Voice is trained on department-specific laws, local ordinances, protocols, and guidelines that general-purpose AI tools can't access on the public internet."
-    },
-    {
-      "title": "Debian won\u2019t ban AI code from its Linux distribution",
-      "url": "https://www.theverge.com/tech/986789/linux-debian-generative-ai-policy",
-      "source": "The Verge",
-      "publishedAt": "2026-08-31T15:34:58Z",
-      "snippet": "Debian voted to allow developers to use AI tools in their contributions to the Linux distribution's \"development, maintenance, [and] documentation.\" The new policy on AI acknowledges that \"responsible"
-    },
-    {
-      "title": "New York Governor Kathy Hochul thinks AI should be \u2018less evil\u2019",
-      "url": "https://www.theverge.com/podcast/986661/ny-gov-kathy-hochul-ai-data-centers-ban-3d-printed-guns-flock-cameras",
-      "source": "The Verge",
-      "publishedAt": "2026-08-31T14:00:00Z",
-      "snippet": "Today, I\u2019m talking with New York Governor Kathy Hochul, and I\u2019ll just warn you \u2014 this episode moves really fast. It\u2019s an election year, after all, with a shocking amount of tech policy at stake, and G"
     }
   ],
   "trending": [
@@ -219,14 +219,14 @@
       "downloads": 254529
     },
     {
-      "id": "peculiar-ragdoll/Tiel-Coder-35B-A3B-GGUF",
-      "displayName": "Tiel Coder 35B A3B",
-      "downloads": 130086
-    },
-    {
       "id": "JonathanColetti/Qwen3.8-27B-Uncensored-GGUF",
       "displayName": "Qwen3.8 27B Uncensored",
       "downloads": 2143289
+    },
+    {
+      "id": "peculiar-ragdoll/Tiel-Coder-35B-A3B-GGUF",
+      "displayName": "Tiel Coder 35B A3B",
+      "downloads": 130086
     }
   ]
 }
