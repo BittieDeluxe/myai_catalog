@@ -1,6 +1,13 @@
 {
-  "updated": "2026-09-01T22:20:03Z",
+  "updated": "2026-09-02T02:36:06Z",
   "news": [
+    {
+      "title": "Google needs Hollywood more than the studios need AI",
+      "url": "https://www.theverge.com/tech/987429/google-needs-hollywood-more-than-the-studios-need-ai",
+      "source": "The Verge",
+      "publishedAt": "2026-09-01T22:50:29Z",
+      "snippet": "Google has reportedly been reaching out to a number of Hollywood's biggest studios, hoping to strike licensing agreements that would allow it to train its AI models on copyrighted material in exchange"
+    },
     {
       "title": "AfterQuery reportedly becomes Y Combinator\u2019s fastest-ever unicorn, now valued at $3.2B",
       "url": "https://techcrunch.com/2026/09/01/afterquery-reportedly-becomes-y-combinators-fastest-ever-unicorn-now-valued-at-3-2b/",
@@ -16,7 +23,7 @@
       "snippet": "Anthropic says its newest AI models, Fable 5.1 and Mythos 5.1, address criticisms from customers about price, data retention, and overzealous safeguards. The company claims Claude Fable 5.1 offers str"
     },
     {
-      "title": "Open AI\u2019s Astra model is on the way \u2014 and very good at breaking into computer systems",
+      "title": "OpenAI\u2019s Astra model is on the way \u2014 and very good at breaking into computer systems",
       "url": "https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/",
       "source": "TechCrunch",
       "publishedAt": "2026-09-01T21:06:24Z",
@@ -168,13 +175,6 @@
       "source": "The Verge",
       "publishedAt": "2026-08-31T14:00:00Z",
       "snippet": "Today, I\u2019m talking with New York Governor Kathy Hochul, and I\u2019ll just warn you \u2014 this episode moves really fast. It\u2019s an election year, after all, with a shocking amount of tech policy at stake, and G"
-    },
-    {
-      "title": "ChatGPT to face tougher regulation in the EU",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/986682/openai-chatgpt-eu-dsa",
-      "source": "The Verge",
-      "publishedAt": "2026-08-31T13:27:36Z",
-      "snippet": "OpenAI will soon be held accountable for mitigating risks related to ChatGPT's impact on minors, user mental health, and the spread of illegal content in the European Union. That's because ChatGPT is "
     }
   ],
   "trending": [
@@ -219,14 +219,14 @@
       "downloads": 2143289
     },
     {
-      "id": "peculiar-ragdoll/Tiel-Coder-35B-A3B-GGUF",
-      "displayName": "Tiel Coder 35B A3B",
-      "downloads": 130086
-    },
-    {
       "id": "ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF",
       "displayName": "Qwen3.8 27B GSQ RCO",
       "downloads": 56208
+    },
+    {
+      "id": "peculiar-ragdoll/Tiel-Coder-35B-A3B-GGUF",
+      "displayName": "Tiel Coder 35B A3B",
+      "downloads": 130086
     }
   ]
 }
