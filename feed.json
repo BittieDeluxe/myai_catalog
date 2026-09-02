@@ -1,6 +1,20 @@
 {
-  "updated": "2026-09-02T19:10:32Z",
+  "updated": "2026-09-02T22:17:33Z",
   "news": [
+    {
+      "title": "OpenAI\u2019s new reasoning technique alarms AI safety experts",
+      "url": "https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-09-02T20:19:14Z",
+      "snippet": "OpenAI\u2019s new Astra model will use \u201crecurrent depth,\u201d a technique that allows the model to operate outside of the sequential thinking that characterizes most reasoning models."
+    },
+    {
+      "title": "Google says its new Gemini 3.8 Flash model \u2018works harder\u2019 but might cost more",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/988742/google-gemini-3-8-flash",
+      "source": "The Verge",
+      "publishedAt": "2026-09-02T20:11:40Z",
+      "snippet": "Google launched Gemini 3.8 Flash, arriving just a few weeks after its predecessor. The company claims the new model \"works harder\" than Gemini 3.7 Flash by performing more reasoning steps on complex t"
+    },
     {
       "title": "Amazon\u2019s AI assistant can now spot fake emails from the company",
       "url": "https://www.theverge.com/tech/988518/amazon-alexa-for-shopping-verify-emails",
@@ -27,7 +41,7 @@
       "url": "https://techcrunch.com/2026/09/02/u-s-government-sides-with-openai-on-issue-of-training-llms-on-copyrighted-material/",
       "source": "TechCrunch",
       "publishedAt": "2026-09-02T17:09:06Z",
-      "snippet": "\"The United States has a strong interest in continuing to develop a robust and competitive\nartificial intelligence industry that sets the standard for the practice and procedure of AI use\nglobally,\" t"
+      "snippet": "\"The United States has a strong interest in continuing to develop a robust and competitive artificial intelligence industry that sets the standard for the practice and procedure of AI use\nglobally,\" t"
     },
     {
       "title": "Researchers fear safety disaster ahead of OpenAI\u2019s Astra release",
@@ -156,25 +170,11 @@
       "snippet": "Fable 5.1 includes changes meant to reduce token cost and false-positive restrictions from the model's safeguards."
     },
     {
-      "title": "The rise of AI \u2018civilizations\u2019 and the fall of corporate responsibility",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/987566/ai-civilizations-opeai-hugging-face-hack",
-      "source": "The Verge",
-      "publishedAt": "2026-09-01T19:02:54Z",
-      "snippet": "Depending on who you ask, developer platform Hugging Face was recently attacked by OpenAI - after it lost control of its own AI tools - or by a succession of AI \"civilizations.\" Welcome to the linguis"
-    },
-    {
       "title": "Google\u2019s answer to Canva is an AI tool where you prompt instead of design",
       "url": "https://techcrunch.com/2026/09/01/googles-answer-to-canva-is-an-ai-tool-where-you-prompt-instead-of-design/",
       "source": "TechCrunch",
       "publishedAt": "2026-09-01T17:35:37Z",
       "snippet": "With Google Pics, Google is pushing deeper into the creative software market dominated by Canva and Adobe, but with a distinctly AI-first approach."
-    },
-    {
-      "title": "ChatGPT Health adds Epic integration for clinicians to import patient data",
-      "url": "https://techcrunch.com/2026/09/01/chatgpt-health-adds-epic-integration-for-clinicians-to-import-patient-data/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-09-01T17:00:00Z",
-      "snippet": "OpenAI said that the integration provides read-only access to health records for clinicians."
     }
   ],
   "trending": [
@@ -204,14 +204,14 @@
       "downloads": 1276092
     },
     {
-      "id": "orcarouter/Qwen3.8-Flash-Next-Uncensored-GGUF",
-      "displayName": "Qwen3.8 Flash Next Uncensored",
-      "downloads": 64325
-    },
-    {
       "id": "ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF",
       "displayName": "Qwen3.8 27B GSQ RCO",
       "downloads": 56208
+    },
+    {
+      "id": "orcarouter/Qwen3.8-Flash-Next-Uncensored-GGUF",
+      "displayName": "Qwen3.8 Flash Next Uncensored",
+      "downloads": 64325
     },
     {
       "id": "orcarouter/Qwen3.8-27B-Uncensored-GGUF",
