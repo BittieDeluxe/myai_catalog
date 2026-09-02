@@ -1,6 +1,13 @@
 {
-  "updated": "2026-09-02T08:20:10Z",
+  "updated": "2026-09-02T14:02:16Z",
   "news": [
+    {
+      "title": "OpenAI faces 30 more lawsuits tied to Tumbler Ridge shooting",
+      "url": "https://techcrunch.com/2026/09/02/openai-faces-30-more-lawsuits-tied-to-tumbler-ridge-shooting/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-09-02T12:09:42Z",
+      "snippet": "Edelson PC is filing 30 new lawsuits against OpenAI over the Tumbler Ridge shooting, escalating claims to aiding and abetting and naming Chris Lehane, though evidence remains unconfirmed."
+    },
     {
       "title": "Google needs Hollywood more than the studios need AI",
       "url": "https://www.theverge.com/tech/987429/google-needs-hollywood-more-than-the-studios-need-ai",
@@ -156,13 +163,6 @@
       "snippet": "Blue Voice is trained on department-specific laws, local ordinances, protocols, and guidelines that general-purpose AI tools can't access on the public internet."
     },
     {
-      "title": "Clipto uses AI to search terabytes of video and is now valued at $250M",
-      "url": "https://techcrunch.com/2026/08/31/three-year-old-ai-media-search-startup-clipto-hits-a-250m-valuation/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-08-31T16:00:00Z",
-      "snippet": "The three-year-old startup says it reached $15 million in ARR and profitability before raising its latest $15 million round."
-    },
-    {
       "title": "Debian won\u2019t ban AI code from its Linux distribution",
       "url": "https://www.theverge.com/tech/986789/linux-debian-generative-ai-policy",
       "source": "The Verge",
@@ -209,24 +209,24 @@
       "downloads": 64325
     },
     {
-      "id": "orcarouter/Qwen3.8-27B-Uncensored-GGUF",
-      "displayName": "Qwen3.8 27B Uncensored",
-      "downloads": 254529
-    },
-    {
       "id": "ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF",
       "displayName": "Qwen3.8 27B GSQ RCO",
       "downloads": 56208
     },
     {
-      "id": "JonathanColetti/Qwen3.8-27B-Uncensored-GGUF",
+      "id": "orcarouter/Qwen3.8-27B-Uncensored-GGUF",
       "displayName": "Qwen3.8 27B Uncensored",
-      "downloads": 2143289
+      "downloads": 254529
     },
     {
       "id": "peculiar-ragdoll/Tiel-Coder-35B-A3B-GGUF",
       "displayName": "Tiel Coder 35B A3B",
       "downloads": 130086
+    },
+    {
+      "id": "JonathanColetti/Qwen3.8-27B-Uncensored-GGUF",
+      "displayName": "Qwen3.8 27B Uncensored",
+      "downloads": 2143289
     }
   ]
 }
