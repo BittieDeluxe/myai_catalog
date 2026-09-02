@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-02T02:36:06Z",
+  "updated": "2026-09-02T08:20:10Z",
   "news": [
     {
       "title": "Google needs Hollywood more than the studios need AI",
@@ -214,14 +214,14 @@
       "downloads": 254529
     },
     {
-      "id": "JonathanColetti/Qwen3.8-27B-Uncensored-GGUF",
-      "displayName": "Qwen3.8 27B Uncensored",
-      "downloads": 2143289
-    },
-    {
       "id": "ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF",
       "displayName": "Qwen3.8 27B GSQ RCO",
       "downloads": 56208
+    },
+    {
+      "id": "JonathanColetti/Qwen3.8-27B-Uncensored-GGUF",
+      "displayName": "Qwen3.8 27B Uncensored",
+      "downloads": 2143289
     },
     {
       "id": "peculiar-ragdoll/Tiel-Coder-35B-A3B-GGUF",
