@@ -1,6 +1,76 @@
 {
-  "updated": "2026-09-03T14:04:17Z",
+  "updated": "2026-09-03T19:02:48Z",
   "news": [
+    {
+      "title": "Abliteration.ai is making a business out of removing AI guardrails",
+      "url": "https://techcrunch.com/2026/09/03/abliteration-ai-is-making-a-business-out-of-removing-ai-guardrails/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-09-03T18:37:57Z",
+      "snippet": "Abliteration.AI is making powerful AI models without guardrails easier to access, arguing that giving defenders the same tools as bad actors could ultimately improve cybersecurity."
+    },
+    {
+      "title": "Meta is paying to peek at how you use their latest AI model",
+      "url": "https://techcrunch.com/2026/09/03/meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-09-03T18:19:56Z",
+      "snippet": "For its new Muse Spark model, intended for operating coding and other agents, Meta is offering an explicit discount averaging out to about 95% for users who \"contribute\" to the development of future m"
+    },
+    {
+      "title": "OpenAI launches Astra, its powerful (and controversial) new model",
+      "url": "https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-09-03T18:01:45Z",
+      "snippet": "OpenAI claims that Astra represents \"a new frontier on computer and browser use,\" and that it handles tasks with unmatched \"speed, accuracy, and safety.\""
+    },
+    {
+      "title": "OpenAI\u2019s next big AI model has \u2018entered the AGI era\u2019",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/989601/openai-gpt-6-astra-release",
+      "source": "The Verge",
+      "publishedAt": "2026-09-03T18:00:00Z",
+      "snippet": "OpenAI's next big model is here: GPT-6 Astra. The company calls it a \"generational leap in capability\" for areas like cybersecurity, professional work, software engineering, science, and computer use."
+    },
+    {
+      "title": "Ollie is betting its focus on privacy can help it win the AI assistant race",
+      "url": "https://techcrunch.com/2026/09/03/ollie-is-betting-privacy-can-win-the-ai-assistant-race/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-09-03T16:09:01Z",
+      "snippet": "The family-focused AI assistant wants access to the details of your everyday life, but says it won\u2019t use that data to train AI models or share it with others."
+    },
+    {
+      "title": "Nvidia launches free tool that links idle computers into a personal AI data center",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/989435/nvidia-pair-personal-ai-router-home-local-llm-compute-tool-rtx-macbook",
+      "source": "The Verge",
+      "publishedAt": "2026-09-03T16:00:00Z",
+      "snippet": "Nvidia is announcing its new Personal AI Router (PAIR), a free tool that syncs up your home computers for tackling local AI inference tasks with tools like Ollama and LM Studio. Let's get the obvious "
+    },
+    {
+      "title": "Google now lets you chat with Gmail, Docs, and Keep",
+      "url": "https://www.theverge.com/tech/989508/google-gmail-docs-keep-live-voice-modes-gemini",
+      "source": "The Verge",
+      "publishedAt": "2026-09-03T16:00:00Z",
+      "snippet": "Google is rolling out AI-powered voice assistant modes for Gmail, Docs, and Keep that allow you to manage the apps by talking to them. The real time conversational capabilities are called Gmail Live, "
+    },
+    {
+      "title": "ChatGPT, Grok, and Claude all went down at the same time",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/989503/chatgpt-grok-claude-outage-down",
+      "source": "The Verge",
+      "publishedAt": "2026-09-03T15:35:14Z",
+      "snippet": "OpenAI's ChatGPT, xAI's Grok, and Anthropic's Claude are back online after they all began experiencing issues around the same time on Thursday. At about 11AM ET, ChatGPT started returning error messag"
+    },
+    {
+      "title": "Google says its AI weather model is getting better",
+      "url": "https://www.theverge.com/tech/988921/weather-forecast-ai-model-google-satellite-update",
+      "source": "The Verge",
+      "publishedAt": "2026-09-03T15:00:00Z",
+      "snippet": "Google is rolling out an updated AI weather model that's supposed to be more accurate, especially when it comes to predicting rain and snowfall. In the announcement today, the company says it's now ab"
+    },
+    {
+      "title": "Google\u2019s latest AI weather model gives you no excuse to forget your umbrella",
+      "url": "https://techcrunch.com/2026/09/03/googles-latest-ai-weather-model-gives-you-no-excuse-to-forget-your-umbrella/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-09-03T15:00:00Z",
+      "snippet": "WeatherNext 3 is the latest wave of a sea change in meteorology brought out by deep learning techniques. Google says it will start feeding into weather information users see in search, Google Maps, an"
+    },
     {
       "title": "Nvidia confirms it will buy Hugging Face for $12.9 billion",
       "url": "https://techcrunch.com/2026/09/03/nvidia-confirms-it-will-buy-hugging-face-for-12-9-billion/",
@@ -105,98 +175,23 @@
       "source": "TechCrunch",
       "publishedAt": "2026-09-02T16:01:48Z",
       "snippet": "Jio is betting it can turn an aging computer into an AI-ready PC for as little as about $11 for two months."
-    },
-    {
-      "title": "Google is sending MrBeast into the wilderness, armed with AI",
-      "url": "https://www.theverge.com/tech/988355/mrbeast-google-partnership-gemini-fitbit",
-      "source": "The Verge",
-      "publishedAt": "2026-09-02T15:47:03Z",
-      "snippet": "MrBeast will feature Gemini, Google Health, and the Fitbit Air in upcoming videos as part of a multi-year partnership with Google. The deal will kick off with a video featuring Jimmy \"MrBeast\" Donalds"
-    },
-    {
-      "title": "HiddenLayer nabs $100M as enterprises rush to secure their AI deployments",
-      "url": "https://techcrunch.com/2026/09/02/hiddenlayer-nabs-100m-as-enterprises-rush-to-secure-their-ai-deployments/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-09-02T15:01:23Z",
-      "snippet": "Security companies are scrambling to build products that can monitor not just agents but also the tools and add-ons they use."
-    },
-    {
-      "title": "PSA: Amazon\u2019s shopping AI can now tell you if that message is a scam",
-      "url": "https://techcrunch.com/2026/09/02/psa-amazons-shopping-ai-can-now-tell-you-if-that-message-is-a-scam/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-09-02T14:56:34Z",
-      "snippet": "Amazon is adding a scam-detection feature to Alexa for Shopping that can verify whether suspicious emails, texts, and other messages actually came from the retailer."
-    },
-    {
-      "title": "OpenAI accused of \u2018aiding and abetting\u2019 Tumbler Ridge mass shooting in dozens of new lawsuits",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/988261/openai-tumbler-ridge-shooting-lawsuit-aiding-abetting",
-      "source": "The Verge",
-      "publishedAt": "2026-09-02T14:35:03Z",
-      "snippet": "OpenAI and its CEO Sam Altman are facing 30 new lawsuits that accuse them of providing \"substantial assistance and encouragement\" to the suspect in Canada's Tumbler Ridge school shooting, as reported "
-    },
-    {
-      "title": "NYC bans AI use for students until they reach high school",
-      "url": "https://www.theverge.com/policy/988228/nyc-ai-restrictions-in-schools-chatbot-ban",
-      "source": "The Verge",
-      "publishedAt": "2026-09-02T14:30:00Z",
-      "snippet": "New York City Mayor Zohran Mamdani has announced a new policy today that will ban younger schoolchildren from using AI in classrooms. The one-year moratorium, effective in the 2026-2027 school year, w"
-    },
-    {
-      "title": "Adobe acquires Indian market intelligence startup Rilo",
-      "url": "https://techcrunch.com/2026/09/02/adobe-acquires-indian-market-intelligence-startup-rilo/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-09-02T14:03:57Z",
-      "snippet": "This is Adobe's second acquisition out of India after Rephrase.ai in 2023"
-    },
-    {
-      "title": "OpenAI faces 30 more lawsuits tied to Tumbler Ridge shooting",
-      "url": "https://techcrunch.com/2026/09/02/openai-faces-30-more-lawsuits-tied-to-tumbler-ridge-shooting/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-09-02T12:09:42Z",
-      "snippet": "Edelson PC is filing 30 new lawsuits against OpenAI over the Tumbler Ridge shooting, escalating claims to aiding and abetting and naming Chris Lehane, though evidence remains unconfirmed."
-    },
-    {
-      "title": "Google needs Hollywood more than the studios need AI",
-      "url": "https://www.theverge.com/tech/987429/google-needs-hollywood-more-than-the-studios-need-ai",
-      "source": "The Verge",
-      "publishedAt": "2026-09-01T22:50:29Z",
-      "snippet": "Google has reportedly been reaching out to a number of Hollywood's biggest studios, hoping to strike licensing agreements that would allow it to train its AI models on copyrighted material in exchange"
-    },
-    {
-      "title": "AfterQuery reportedly becomes Y Combinator\u2019s fastest-ever unicorn, now valued at $3.2B",
-      "url": "https://techcrunch.com/2026/09/01/afterquery-reportedly-becomes-y-combinators-fastest-ever-unicorn-now-valued-at-3-2b/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-09-01T22:08:24Z",
-      "snippet": "AI model-training startup AfterQuery has reportedly raised a round that valued it at $3.2 billion, just five months after announcing its $30 million Series A at a $300 million valuation in April."
-    },
-    {
-      "title": "Anthropic launches Claude Fable 5.1 and says it\u2019s up to 45 percent cheaper for agentic work",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/987830/anthropic-claude-fable-mythos-5-1",
-      "source": "The Verge",
-      "publishedAt": "2026-09-01T22:01:36Z",
-      "snippet": "Anthropic says its newest AI models, Fable 5.1 and Mythos 5.1, address criticisms from customers about price, data retention, and overzealous safeguards. The company claims Claude Fable 5.1 offers str"
     }
   ],
   "trending": [
-    {
-      "id": "unsloth/Qwen3.8-Flash-Next-GGUF",
-      "displayName": "Qwen3.8 Flash Next",
-      "downloads": 535984
-    },
     {
       "id": "unsloth/Qwen3.8-27B-GGUF",
       "displayName": "Qwen3.8 27B",
       "downloads": 9553042
     },
     {
+      "id": "unsloth/Qwen3.8-Flash-Next-GGUF",
+      "displayName": "Qwen3.8 Flash Next",
+      "downloads": 535984
+    },
+    {
       "id": "ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF",
       "displayName": "Qwen3.8 27B GSQ RCO",
       "downloads": 100110
-    },
-    {
-      "id": "unsloth/GLM-5.3-Flash-GGUF",
-      "displayName": "GLM 5.3 Flash",
-      "downloads": 75195
     },
     {
       "id": "OBLITERATUS/Qwen3.8-27B-OBLITERATED",
@@ -214,14 +209,19 @@
       "downloads": 85105
     },
     {
+      "id": "unsloth/GLM-5.3-Flash-GGUF",
+      "displayName": "GLM 5.3 Flash",
+      "downloads": 75195
+    },
+    {
       "id": "orcarouter/Qwen3.8-27B-Uncensored-GGUF",
       "displayName": "Qwen3.8 27B Uncensored",
       "downloads": 262325
     },
     {
-      "id": "JonathanColetti/Qwen3.8-27B-Uncensored-GGUF",
-      "displayName": "Qwen3.8 27B Uncensored",
-      "downloads": 2244539
+      "id": "DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
+      "displayName": "Qwen3.8 27B TURBO Fable Cold Fusion 735 882 Heretic Uncensored NEO CODER MAX MTP",
+      "downloads": 39646
     },
     {
       "id": "peculiar-ragdoll/Tiel-Coder-35B-A3B-GGUF",
