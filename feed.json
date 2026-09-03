@@ -1,6 +1,20 @@
 {
-  "updated": "2026-09-03T08:29:30Z",
+  "updated": "2026-09-03T14:04:17Z",
   "news": [
+    {
+      "title": "Nvidia confirms it will buy Hugging Face for $12.9 billion",
+      "url": "https://techcrunch.com/2026/09/03/nvidia-confirms-it-will-buy-hugging-face-for-12-9-billion/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-09-03T12:42:45Z",
+      "snippet": "Nvidia said Hugging Face hosts over 3 million models and is used by over 18 million developers."
+    },
+    {
+      "title": "Nvidia is buying Hugging Face for almost $13 billion",
+      "url": "https://www.theverge.com/tech/985474/nvidia-buying-hugging-face-deal",
+      "source": "The Verge",
+      "publishedAt": "2026-09-03T12:12:06Z",
+      "snippet": "Nvidia has agreed to buy Hugging Face for $12.93 billion, bringing one of the most popular hosting platforms for open-source AI models, datasets, and tools under the ownership of the world's biggest A"
+    },
     {
       "title": "The Builders Stage brings practical strategies for scaling startups to TechCrunch Disrupt 2026",
       "url": "https://techcrunch.com/2026/09/02/the-builders-stage-brings-practical-strategies-for-scaling-startups-to-techcrunch-disrupt-2026/",
@@ -161,72 +175,58 @@
       "source": "The Verge",
       "publishedAt": "2026-09-01T22:01:36Z",
       "snippet": "Anthropic says its newest AI models, Fable 5.1 and Mythos 5.1, address criticisms from customers about price, data retention, and overzealous safeguards. The company claims Claude Fable 5.1 offers str"
-    },
-    {
-      "title": "OpenAI\u2019s Astra model is on the way \u2014 and very good at breaking into computer systems",
-      "url": "https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-09-01T21:06:24Z",
-      "snippet": "OpenAI previewed the precautions it is taking as it prepares to release Astra, its newest, cyber-critical LLM."
-    },
-    {
-      "title": "OpenAI delayed its new model\u2019s development after the Hugging Face hack",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/987695/openai-astra-unreleased-model-cybersecurity-delay",
-      "source": "The Verge",
-      "publishedAt": "2026-09-01T20:45:49Z",
-      "snippet": "After an unreleased OpenAI model wreaked enough havoc to make international headlines, OpenAI delayed the development of a different unreleased model suite, Astra, in order to shore up its safety work"
     }
   ],
   "trending": [
     {
       "id": "unsloth/Qwen3.8-Flash-Next-GGUF",
       "displayName": "Qwen3.8 Flash Next",
-      "downloads": 431339
+      "downloads": 535984
     },
     {
       "id": "unsloth/Qwen3.8-27B-GGUF",
       "displayName": "Qwen3.8 27B",
-      "downloads": 9354057
-    },
-    {
-      "id": "unsloth/GLM-5.3-Flash-GGUF",
-      "displayName": "GLM 5.3 Flash",
-      "downloads": 63718
+      "downloads": 9553042
     },
     {
       "id": "ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF",
       "displayName": "Qwen3.8 27B GSQ RCO",
-      "downloads": 56208
+      "downloads": 100110
+    },
+    {
+      "id": "unsloth/GLM-5.3-Flash-GGUF",
+      "displayName": "GLM 5.3 Flash",
+      "downloads": 75195
     },
     {
       "id": "OBLITERATUS/Qwen3.8-27B-OBLITERATED",
       "displayName": "Qwen3.8 27B OBLITERATED",
-      "downloads": 805791
+      "downloads": 848781
     },
     {
       "id": "HauhauCS/Qwen3.8-27B-Uncensored-HauhauCS-Aggressive-MTP-GGUF",
       "displayName": "Qwen3.8 27B Uncensored HauhauCS Aggressive MTP",
-      "downloads": 1276092
+      "downloads": 1336061
     },
     {
       "id": "orcarouter/Qwen3.8-Flash-Next-Uncensored-GGUF",
       "displayName": "Qwen3.8 Flash Next Uncensored",
-      "downloads": 64325
+      "downloads": 85105
     },
     {
       "id": "orcarouter/Qwen3.8-27B-Uncensored-GGUF",
       "displayName": "Qwen3.8 27B Uncensored",
-      "downloads": 254529
+      "downloads": 262325
     },
     {
       "id": "JonathanColetti/Qwen3.8-27B-Uncensored-GGUF",
       "displayName": "Qwen3.8 27B Uncensored",
-      "downloads": 2143289
+      "downloads": 2244539
     },
     {
       "id": "peculiar-ragdoll/Tiel-Coder-35B-A3B-GGUF",
       "displayName": "Tiel Coder 35B A3B",
-      "downloads": 130086
+      "downloads": 154626
     }
   ]
 }
