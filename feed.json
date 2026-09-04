@@ -1,6 +1,13 @@
 {
-  "updated": "2026-09-03T22:11:27Z",
+  "updated": "2026-09-04T02:39:29Z",
   "news": [
+    {
+      "title": "Crusoe reportedly raises $3B at a  $30B valuation",
+      "url": "https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-09-04T00:48:42Z",
+      "snippet": "The round came together after the data center developer reportedly secured a $13 billion contract with Jane Street."
+    },
     {
       "title": "Accel reportedly in talks to lead $1B round for Thinking Machines at $40B valuation",
       "url": "https://techcrunch.com/2026/09/03/accel-reportedly-in-talks-to-lead-1b-round-for-thinking-machines-at-40b-valuation/",
@@ -168,13 +175,6 @@
       "source": "The Verge",
       "publishedAt": "2026-09-02T16:12:25Z",
       "snippet": "The Trump administration has intervened in The New York Times' copyright lawsuit against OpenAI, making an argument in favor of the AI lab. The landmark lawsuit, filed in December 2023, alleging that "
-    },
-    {
-      "title": "Wonderful more than doubles its valuation to $5B in under 6 months",
-      "url": "https://techcrunch.com/2026/09/02/wonderful-more-than-doubles-its-valuation-to-5b-in-under-6-months/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-09-02T16:04:10Z",
-      "snippet": "Wonderful said it will use its $550 million Series C funding to develop products faster, expand its FDE teams, and meet demand for its products."
     }
   ],
   "trending": [
