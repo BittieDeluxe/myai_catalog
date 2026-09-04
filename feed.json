@@ -1,6 +1,13 @@
 {
-  "updated": "2026-09-04T17:24:51Z",
+  "updated": "2026-09-04T20:11:39Z",
   "news": [
+    {
+      "title": "Roland is getting into generative AI music with Melody Flip",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/990197/roland-ai-music-melody-flip",
+      "source": "The Verge",
+      "publishedAt": "2026-09-04T17:51:35Z",
+      "snippet": "It's not quite the \"push button; get song\" of Suno, but Roland's new Melody Flip tool marks the company's foray into generative AI music. Available as a plug-in for your digital audio workstation (DAW"
+    },
     {
       "title": "What will Apple\u2019s John Ternus era look like?",
       "url": "https://techcrunch.com/video/what-will-apples-john-ternus-era-look-like/",
@@ -149,13 +156,6 @@
       "snippet": "Nvidia is announcing its new Personal AI Router (PAIR), a free tool that syncs up your home computers for tackling local AI inference tasks with tools like Ollama and LM Studio. Let's get the obvious "
     },
     {
-      "title": "Google now lets you chat with Gmail, Docs, and Keep",
-      "url": "https://www.theverge.com/tech/989508/google-gmail-docs-keep-live-voice-modes-gemini",
-      "source": "The Verge",
-      "publishedAt": "2026-09-03T16:00:00Z",
-      "snippet": "Google is rolling out AI-powered voice assistant modes for Gmail, Docs, and Keep that allow you to manage the apps by talking to them. The real time conversational capabilities are called Gmail Live, "
-    },
-    {
       "title": "Google\u2019s latest AI weather model gives you no excuse to forget your umbrella",
       "url": "https://techcrunch.com/2026/09/03/googles-latest-ai-weather-model-gives-you-no-excuse-to-forget-your-umbrella/",
       "source": "TechCrunch",
@@ -219,14 +219,14 @@
       "downloads": 97994
     },
     {
-      "id": "unsloth/GLM-5.3-Flash-GGUF",
-      "displayName": "GLM 5.3 Flash",
-      "downloads": 85158
-    },
-    {
       "id": "JonathanColetti/Qwen3.8-27B-Uncensored-GGUF",
       "displayName": "Qwen3.8 27B Uncensored",
       "downloads": 2395758
+    },
+    {
+      "id": "peculiar-ragdoll/Tiel-Coder-35B-A3B-GGUF",
+      "displayName": "Tiel Coder 35B A3B",
+      "downloads": 202692
     }
   ]
 }
