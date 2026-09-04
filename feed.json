@@ -1,6 +1,13 @@
 {
-  "updated": "2026-09-04T02:39:29Z",
+  "updated": "2026-09-04T08:25:10Z",
   "news": [
+    {
+      "title": "The sameness problem behind those unappetizing AI-generated menus",
+      "url": "https://techcrunch.com/2026/09/03/the-sameness-problem-behind-those-unappetizing-ai-generated-menus/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-09-04T04:21:03Z",
+      "snippet": "While restaurant owners might look to generative AI as a shortcut to sprucing up their menu, customers can viscerally sense that something is wrong with the food."
+    },
     {
       "title": "Crusoe reportedly raises $3B at a  $30B valuation",
       "url": "https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/",
@@ -156,13 +163,6 @@
       "snippet": "The internet has a trust problem, and it\u2019s not just because social media feeds are filling up with AI slop. AI-generated text and images are now making their way into job applications, product reviews"
     },
     {
-      "title": "US government sides with OpenAI on issue of training LLMs on copyrighted material",
-      "url": "https://techcrunch.com/2026/09/02/u-s-government-sides-with-openai-on-issue-of-training-llms-on-copyrighted-material/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-09-02T17:09:06Z",
-      "snippet": "\"The United States has a strong interest in continuing to develop a robust and competitive artificial intelligence industry that sets the standard for the practice and procedure of AI use\nglobally,\" t"
-    },
-    {
       "title": "Researchers fear safety disaster ahead of OpenAI\u2019s Astra release",
       "url": "https://www.theverge.com/ai-artificial-intelligence/988334/openai-astra-ai-monitoring-safety",
       "source": "The Verge",
@@ -209,9 +209,9 @@
       "downloads": 85105
     },
     {
-      "id": "unsloth/GLM-5.3-Flash-GGUF",
-      "displayName": "GLM 5.3 Flash",
-      "downloads": 75195
+      "id": "DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
+      "displayName": "Qwen3.8 27B TURBO Fable Cold Fusion 735 882 Heretic Uncensored NEO CODER MAX MTP",
+      "downloads": 39646
     },
     {
       "id": "orcarouter/Qwen3.8-27B-Uncensored-GGUF",
@@ -219,14 +219,14 @@
       "downloads": 262325
     },
     {
-      "id": "DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
-      "displayName": "Qwen3.8 27B TURBO Fable Cold Fusion 735 882 Heretic Uncensored NEO CODER MAX MTP",
-      "downloads": 39646
+      "id": "unsloth/GLM-5.3-Flash-GGUF",
+      "displayName": "GLM 5.3 Flash",
+      "downloads": 75195
     },
     {
-      "id": "peculiar-ragdoll/Tiel-Coder-35B-A3B-GGUF",
-      "displayName": "Tiel Coder 35B A3B",
-      "downloads": 154626
+      "id": "JonathanColetti/Qwen3.8-27B-Uncensored-GGUF",
+      "displayName": "Qwen3.8 27B Uncensored",
+      "downloads": 2244539
     }
   ]
 }
