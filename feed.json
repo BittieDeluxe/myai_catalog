@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-05T11:48:30Z",
+  "updated": "2026-09-05T14:28:01Z",
   "news": [
     {
       "title": "OpenAI admits to German wiki \u2018incident\u2019",
@@ -194,14 +194,14 @@
       "downloads": 780823
     },
     {
-      "id": "HauhauCS/Qwen3.8-27B-Uncensored-HauhauCS-Aggressive-MTP-GGUF",
-      "displayName": "Qwen3.8 27B Uncensored HauhauCS Aggressive MTP",
-      "downloads": 1527627
-    },
-    {
       "id": "DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
       "displayName": "Qwen3.8 27B TURBO Fable Cold Fusion 735 882 Heretic Uncensored NEO CODER MAX MTP",
       "downloads": 174405
+    },
+    {
+      "id": "HauhauCS/Qwen3.8-27B-Uncensored-HauhauCS-Aggressive-MTP-GGUF",
+      "displayName": "Qwen3.8 27B Uncensored HauhauCS Aggressive MTP",
+      "downloads": 1527627
     },
     {
       "id": "OBLITERATUS/Qwen3.8-27B-OBLITERATED",
