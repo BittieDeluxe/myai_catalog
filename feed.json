@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-05T14:28:01Z",
+  "updated": "2026-09-05T17:52:27Z",
   "news": [
     {
       "title": "OpenAI admits to German wiki \u2018incident\u2019",
@@ -224,9 +224,9 @@
       "downloads": 2453361
     },
     {
-      "id": "peculiar-ragdoll/Tiel-Coder-35B-A3B-GGUF",
-      "displayName": "Tiel Coder 35B A3B",
-      "downloads": 225807
+      "id": "Jackrong/Qwopus3.8-27B-Flash-GGUF",
+      "displayName": "Qwopus3.8 27B Flash",
+      "downloads": 10680
     }
   ]
 }
