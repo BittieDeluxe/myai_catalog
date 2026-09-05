@@ -1,6 +1,20 @@
 {
-  "updated": "2026-09-05T17:52:27Z",
+  "updated": "2026-09-05T19:50:55Z",
   "news": [
+    {
+      "title": "Hikers rescued after using Google Gemini for planning",
+      "url": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-09-05T19:35:24Z",
+      "snippet": "The sheriff\u2019s office said the hikers \u201cwere advised by Gemini to bring far less food and water than their group required.\""
+    },
+    {
+      "title": "OpenAI confirms \u2018wiki incident,\u2019 says it\u2019s \u2018working on a framework\u2019 for more disclosure",
+      "url": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-09-05T18:05:27Z",
+      "snippet": "OpenAI acknowledged its role in a recently reported incident where AI agents took over a German wiki forum."
+    },
     {
       "title": "OpenAI admits to German wiki \u2018incident\u2019",
       "url": "https://www.theverge.com/ai-artificial-intelligence/990773/openai-german-wiki-incident",
@@ -156,25 +170,11 @@
       "snippet": "For its new Muse Spark model, intended for operating coding and other agents, Meta is offering an explicit discount averaging out to about 95% for users who \"contribute\" to the development of future m"
     },
     {
-      "title": "OpenAI launches Astra, its powerful (and controversial) new model",
-      "url": "https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-09-03T18:01:45Z",
-      "snippet": "OpenAI claims that Astra represents \"a new frontier on computer and browser use,\" and that it handles tasks with unmatched \"speed, accuracy, and safety.\""
-    },
-    {
       "title": "OpenAI\u2019s next big AI model has \u2018entered the AGI era\u2019",
       "url": "https://www.theverge.com/ai-artificial-intelligence/989601/openai-gpt-6-astra-release",
       "source": "The Verge",
       "publishedAt": "2026-09-03T18:00:00Z",
       "snippet": "OpenAI's next big model is here: GPT-6 Astra. The company calls it a \"generational leap in capability\" for areas like cybersecurity, professional work, software engineering, science, and computer use."
-    },
-    {
-      "title": "Ollie is betting its focus on privacy can help it win the AI assistant race",
-      "url": "https://techcrunch.com/2026/09/03/ollie-is-betting-privacy-can-win-the-ai-assistant-race/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-09-03T16:09:01Z",
-      "snippet": "The family-focused AI assistant wants access to the details of your everyday life, but says it won\u2019t use that data to train AI models or share it with others."
     }
   ],
   "trending": [
@@ -209,6 +209,11 @@
       "downloads": 968936
     },
     {
+      "id": "JonathanColetti/Qwen3.8-27B-Uncensored-GGUF",
+      "displayName": "Qwen3.8 27B Uncensored",
+      "downloads": 2453361
+    },
+    {
       "id": "orcarouter/Qwen3.8-27B-Uncensored-GGUF",
       "displayName": "Qwen3.8 27B Uncensored",
       "downloads": 283774
@@ -217,11 +222,6 @@
       "id": "orcarouter/Qwen3.8-Flash-Next-Uncensored-GGUF",
       "displayName": "Qwen3.8 Flash Next Uncensored",
       "downloads": 106845
-    },
-    {
-      "id": "JonathanColetti/Qwen3.8-27B-Uncensored-GGUF",
-      "displayName": "Qwen3.8 27B Uncensored",
-      "downloads": 2453361
     },
     {
       "id": "Jackrong/Qwopus3.8-27B-Flash-GGUF",
