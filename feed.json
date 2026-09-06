@@ -1,6 +1,13 @@
 {
-  "updated": "2026-09-06T19:55:01Z",
+  "updated": "2026-09-06T21:55:10Z",
   "news": [
+    {
+      "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
+      "url": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-09-06T20:47:37Z",
+      "snippet": "Authors say publishers seem to be claiming more than their fair share of settlement payments."
+    },
     {
       "title": "Travis Kalanick\u2019s Atoms might be getting into the robotaxi business",
       "url": "https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/",
@@ -161,13 +168,6 @@
       "source": "TechCrunch",
       "publishedAt": "2026-09-04T00:48:42Z",
       "snippet": "The round came together after the data center developer reportedly secured a $13 billion contract with Jane Street."
-    },
-    {
-      "title": "Accel reportedly in talks to lead $1B round for Thinking Machines at $40B valuation",
-      "url": "https://techcrunch.com/2026/09/03/accel-reportedly-in-talks-to-lead-1b-round-for-thinking-machines-at-40b-valuation/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-09-03T19:36:29Z",
-      "snippet": "The high-profile startup's annual revenue run rate stands at over $100 million."
     },
     {
       "title": "OpenAI\u2019s next big AI model has \u2018entered the AGI era\u2019",
