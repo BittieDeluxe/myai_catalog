@@ -1,6 +1,13 @@
 {
-  "updated": "2026-09-06T16:40:25Z",
+  "updated": "2026-09-06T19:55:01Z",
   "news": [
+    {
+      "title": "Travis Kalanick\u2019s Atoms might be getting into the robotaxi business",
+      "url": "https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-09-06T16:45:00Z",
+      "snippet": "The Uber founder has said that Atoms will allow him to complete \"unfinished business.\""
+    },
     {
       "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
       "url": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
@@ -161,13 +168,6 @@
       "source": "TechCrunch",
       "publishedAt": "2026-09-03T19:36:29Z",
       "snippet": "The high-profile startup's annual revenue run rate stands at over $100 million."
-    },
-    {
-      "title": "Abliteration.ai is making a business out of removing AI guardrails",
-      "url": "https://techcrunch.com/2026/09/03/abliteration-ai-is-making-a-business-out-of-removing-ai-guardrails/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-09-03T18:37:57Z",
-      "snippet": "Abliteration.AI is making powerful AI models without guardrails easier to access, arguing that giving defenders the same tools as bad actors could ultimately improve cybersecurity."
     },
     {
       "title": "OpenAI\u2019s next big AI model has \u2018entered the AGI era\u2019",
