@@ -1,6 +1,13 @@
 {
-  "updated": "2026-09-06T23:26:11Z",
+  "updated": "2026-09-07T02:36:20Z",
   "news": [
+    {
+      "title": "Seattle Times and Newsday sue OpenAI and Microsoft for infringement",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft",
+      "source": "The Verge",
+      "publishedAt": "2026-09-06T23:36:04Z",
+      "snippet": "The Seattle Times and Newsday are just the latest plaintiffs to take OpenAI to court, alleging copyright infringement. The two outlets say the company used their journalism as training data for its AI"
+    },
     {
       "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
       "url": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
@@ -168,13 +175,6 @@
       "source": "TechCrunch",
       "publishedAt": "2026-09-04T00:48:42Z",
       "snippet": "The round came together after the data center developer reportedly secured a $13 billion contract with Jane Street."
-    },
-    {
-      "title": "OpenAI\u2019s next big AI model has \u2018entered the AGI era\u2019",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/989601/openai-gpt-6-astra-release",
-      "source": "The Verge",
-      "publishedAt": "2026-09-03T18:00:00Z",
-      "snippet": "OpenAI's next big model is here: GPT-6 Astra. The company calls it a \"generational leap in capability\" for areas like cybersecurity, professional work, software engineering, science, and computer use."
     }
   ],
   "trending": [
@@ -204,14 +204,14 @@
       "downloads": 1568315
     },
     {
-      "id": "OBLITERATUS/Qwen3.8-27B-OBLITERATED",
-      "displayName": "Qwen3.8 27B OBLITERATED",
-      "downloads": 995160
-    },
-    {
       "id": "Jackrong/Qwopus3.8-27B-Flash-GGUF",
       "displayName": "Qwopus3.8 27B Flash",
       "downloads": 22128
+    },
+    {
+      "id": "OBLITERATUS/Qwen3.8-27B-OBLITERATED",
+      "displayName": "Qwen3.8 27B OBLITERATED",
+      "downloads": 995160
     },
     {
       "id": "orcarouter/Qwen3.8-27B-Uncensored-GGUF",
