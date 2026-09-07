@@ -1,6 +1,13 @@
 {
-  "updated": "2026-09-07T15:27:50Z",
+  "updated": "2026-09-07T19:33:04Z",
   "news": [
+    {
+      "title": "Opaque recurrence, and other AI terms that you should probably know",
+      "url": "https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-09-07T19:24:00Z",
+      "snippet": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter."
+    },
     {
       "title": "Seattle Times and Newsday sue OpenAI and Microsoft for infringement",
       "url": "https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft",
@@ -51,7 +58,7 @@
       "snippet": "OpenAI says it needs to overhaul how and when it reports instances of AI models attacking real-world targets. The acknowledgement comes as the company manages the fallout from reports that a swarm of "
     },
     {
-      "title": "XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation",
+      "title": "XDOF, just 3 months out of stealth, is in talks for a Series B at a $1.2B valuation",
       "url": "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/",
       "source": "TechCrunch",
       "publishedAt": "2026-09-04T23:36:14Z",
@@ -168,13 +175,6 @@
       "source": "TechCrunch",
       "publishedAt": "2026-09-04T04:21:03Z",
       "snippet": "While restaurant owners might look to generative AI as a shortcut to sprucing up their menu, customers can viscerally sense that something is wrong with the food."
-    },
-    {
-      "title": "Crusoe reportedly raises $3B at a  $30B valuation",
-      "url": "https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-09-04T00:48:42Z",
-      "snippet": "The round came together after the data center developer reportedly secured a $13 billion contract with Jane Street."
     }
   ],
   "trending": [
@@ -209,14 +209,14 @@
       "downloads": 60343
     },
     {
-      "id": "OBLITERATUS/Qwen3.8-27B-OBLITERATED",
-      "displayName": "Qwen3.8 27B OBLITERATED",
-      "downloads": 1024582
-    },
-    {
       "id": "orcarouter/Qwen3.8-27B-Uncensored-GGUF",
       "displayName": "Qwen3.8 27B Uncensored",
       "downloads": 292633
+    },
+    {
+      "id": "OBLITERATUS/Qwen3.8-27B-OBLITERATED",
+      "displayName": "Qwen3.8 27B OBLITERATED",
+      "downloads": 1024582
     },
     {
       "id": "JonathanColetti/Qwen3.8-27B-Uncensored-GGUF",
