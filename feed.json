@@ -1,12 +1,47 @@
 {
-  "updated": "2026-09-08T19:13:01Z",
+  "updated": "2026-09-08T22:18:52Z",
   "news": [
+    {
+      "title": "Hackers are stealing Claude tokens from subscribers",
+      "url": "https://techcrunch.com/2026/09/08/hackers-are-stealing-claude-tokens-from-subscribers/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-09-08T21:10:27Z",
+      "snippet": "Last month, a Claude user noticed his account was consuming tokens even though he wasn't working. Anthropic has since warned users about hackers."
+    },
+    {
+      "title": "Cognition hits $48B valuation, signaling investors believe AI coding is far from a winner-take-all market",
+      "url": "https://techcrunch.com/2026/09/08/cognition-hits-48b-valuation-signaling-investors-believe-ai-coding-is-far-from-a-winner-take-all-market/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-09-08T21:04:06Z",
+      "snippet": "Cognition's valuation multiple is higher than Cursor's was before selling to SpaceX."
+    },
+    {
+      "title": "Drama swirls around OpenAI\u2019s legendary mathematical milestone",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/991710/openai-navier-stokes-solution",
+      "source": "The Verge",
+      "publishedAt": "2026-09-08T20:53:52Z",
+      "snippet": "OpenAI says it found a solution to a major math problem that has remained unsolved for around 90 years, as reported earlier by The New York Times and Wired. In a blog post on Tuesday, OpenAI announced"
+    },
+    {
+      "title": "ChatGPT Sketch turns your bad drawings into detailed AI images",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/991727/openai-chatgpt-images-2-5-sketch",
+      "source": "The Verge",
+      "publishedAt": "2026-09-08T20:16:09Z",
+      "snippet": "OpenAI announced ChatGPT Images 2.5 on Tuesday and is adding a new way to tell ChatGPT what you want it to make an image of: by drawing a doodle. With a new feature called Sketch, you can just draw so"
+    },
     {
       "title": "Meta bets on AI agent Muse to catch up in AI race",
       "url": "https://www.theverge.com/ai-artificial-intelligence/991216/meta-bets-on-ai-agent-muse-to-catch-up-in-ai-race",
       "source": "The Verge",
       "publishedAt": "2026-09-08T19:00:00Z",
       "snippet": "Meta is making another push to bring artificial intelligence to the masses with Muse, a personal assistant it says can put AI in the hands of virtually anyone. The product is the latest step in a mult"
+    },
+    {
+      "title": "Meta debuts its Muse AI agent. Will consumers trust it?",
+      "url": "https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-09-08T19:00:00Z",
+      "snippet": "Meta's new personal AI agent Muse wants access to users' email, calendars, payments, health services, and more \u2014 making the company's biggest consumer AI bet yet a major test of whether people still t"
     },
     {
       "title": "OpenAI fought dirty on career-making math problem, says NYU mathematician",
@@ -16,7 +51,7 @@
       "snippet": "There is a $1 million bounty for the first person providing a solution to the Navier-Stokes existence and smoothness problem."
     },
     {
-      "title": "A new class action lawsuit questions whether Anthropic broke the law by misleading power users",
+      "title": "AI power users claim Anthropic duped them with subscriptions, and they\u2019re taking it to court",
       "url": "https://www.theverge.com/ai-artificial-intelligence/990313/anthropic-class-action-lawsuit-pricing-subscription-plans",
       "source": "The Verge",
       "publishedAt": "2026-09-08T17:27:31Z",
@@ -128,13 +163,6 @@
       "snippet": "OpenAI\u2019s latest agent swarm incident adds urgency to calls for independent investigations as researchers and lawmakers question whether AI labs should control the scope of their own safety reviews."
     },
     {
-      "title": "AI compute provider Nscale is looking for $3.5B in pre-IPO financing",
-      "url": "https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-09-04T21:12:11Z",
-      "snippet": "Nscale, which recently struck a $45 billion deal with Anthropic, is in talks to raise additional funds in anticipation of an upcoming IPO."
-    },
-    {
       "title": "Roland is getting into generative AI music with Melody Flip",
       "url": "https://www.theverge.com/ai-artificial-intelligence/990197/roland-ai-music-melody-flip",
       "source": "The Verge",
@@ -142,39 +170,11 @@
       "snippet": "It's not quite the \"push button; get song\" of Suno, but Roland's new Melody Flip tool marks the company's foray into generative AI music. Available as a plug-in for your digital audio workstation (DAW"
     },
     {
-      "title": "What will Apple\u2019s John Ternus era look like?",
-      "url": "https://techcrunch.com/video/what-will-apples-john-ternus-era-look-like/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-09-04T17:18:00Z",
-      "snippet": "It\u2019s officially the Ternus era at Apple.   Tim Cook stepped down as CEO this week, handing the company to former hardware chief John Ternus, whose first memo promised a \u201chuge launch next week\u201d \u2014 timin"
-    },
-    {
-      "title": "Another swarm of OpenAI agents reached the open internet without the frontier lab\u2019s knowledge",
-      "url": "https://techcrunch.com/2026/09/04/another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-labs-knowledge/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-09-04T16:21:11Z",
-      "snippet": "It's the latest failure of OpenAI's internal monitoring and security systems."
-    },
-    {
       "title": "Microsoft says virtually nobody was grabbing NYT articles through its chatbot",
       "url": "https://www.theverge.com/policy/990267/microsoft-openai-new-york-times-authors-lawsuit",
       "source": "The Verge",
       "publishedAt": "2026-09-04T16:05:57Z",
       "snippet": "Microsoft's Copilot rarely reproduces even full sentences from news articles and books, let alone substantive chunks that could substitute for the original, the company says in new legal filings as it"
-    },
-    {
-      "title": "Rogue OpenAI agents appear to have organized another attack using a German wiki",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/990149/openai-rogue-agents-german-wiki",
-      "source": "The Verge",
-      "publishedAt": "2026-09-04T13:34:12Z",
-      "snippet": "A swarm of rogue AI agents from OpenAI reportedly commandeered a German website and transformed it into a messaging board for other agents, with officials staying quiet about the incident for weeks as"
-    },
-    {
-      "title": "Instagram\u2019s AI detection is a mess (again)",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/989617/instagram-ai-content-label-confusion",
-      "source": "The Verge",
-      "publishedAt": "2026-09-04T12:00:00Z",
-      "snippet": "Instagram's visible AI labels are supposed to help people quickly spot synthetically generated content at a glance. Over the last few weeks, however, users have been reporting that the system has gone"
     }
   ],
   "trending": [
