@@ -1,6 +1,20 @@
 {
-  "updated": "2026-09-08T08:31:14Z",
+  "updated": "2026-09-08T14:04:42Z",
   "news": [
+    {
+      "title": "Google\u2019s Atlas of the human genome could pave the way for new treatments",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/991180/google-launches-alpha-genome-atlas",
+      "source": "The Verge",
+      "publishedAt": "2026-09-08T14:00:00Z",
+      "snippet": "Google DeepMind has unveiled an AI tool that its scientists claim could help unravel the mysteries of the human genome and transform our understanding of biology, accelerating scientific research and "
+    },
+    {
+      "title": "Adobe is trying to make its AI generators idiot-proof in Premiere",
+      "url": "https://www.theverge.com/tech/991133/adobe-is-trying-to-make-its-ai-generators-idiot-proof-in-premiere",
+      "source": "The Verge",
+      "publishedAt": "2026-09-08T13:00:00Z",
+      "snippet": "Adobe is overhauling how editors interact with AI in its Premiere professional video editing software. Its new Generative Media tool makes it easier to generate video, sound effects, music, and sounds"
+    },
     {
       "title": "Opaque recurrence, and other AI terms that you should probably know",
       "url": "https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
@@ -156,20 +170,6 @@
       "snippet": "Microsoft is giving its developer-optimized Windows experience a name: Project Zenith. While the software maker originally announced a similar developer-optimized Windows effort at Build earlier this "
     },
     {
-      "title": "Sam Altman apologizes for \u2018messy\u2019 GPT-6 Astra rollout that\u2019s locked out paying users",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/990060/altman-apologizes-messy-astra-rollout",
-      "source": "The Verge",
-      "publishedAt": "2026-09-04T10:41:48Z",
-      "snippet": "Just hours after OpenAI launched GPT-6 Astra, CEO Sam Altman was already apologizing for what he describes as a \"messy rollout\" after paying users expecting access to the new frontier model were left "
-    },
-    {
-      "title": "This NAS company wants to run your local smart home",
-      "url": "https://www.theverge.com/tech/990006/this-nas-company-wants-to-run-your-local-smart-home",
-      "source": "The Verge",
-      "publishedAt": "2026-09-04T09:41:44Z",
-      "snippet": "Ugreen, known for its phone power banks, chargers, and NAS storage solutions, is moving into the smart home - in a big way. This week at the IFA tech show, the company launched its HomeAgent smart hom"
-    },
-    {
       "title": "The sameness problem behind those unappetizing AI-generated menus",
       "url": "https://techcrunch.com/2026/09/03/the-sameness-problem-behind-those-unappetizing-ai-generated-menus/",
       "source": "TechCrunch",
@@ -181,52 +181,52 @@
     {
       "id": "ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF",
       "displayName": "Qwen3.8 27B GSQ RCO",
-      "downloads": 403292
+      "downloads": 479597
     },
     {
       "id": "DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
       "displayName": "Qwen3.8 27B TURBO Fable Cold Fusion 735 882 Heretic Uncensored NEO CODER MAX MTP",
-      "downloads": 258896
+      "downloads": 348753
     },
     {
       "id": "unsloth/Qwen3.8-27B-GGUF",
       "displayName": "Qwen3.8 27B",
-      "downloads": 10479045
+      "downloads": 10675683
     },
     {
       "id": "unsloth/Qwen3.8-Flash-Next-GGUF",
       "displayName": "Qwen3.8 Flash Next",
-      "downloads": 868243
+      "downloads": 935568
     },
     {
       "id": "HauhauCS/Qwen3.8-27B-Uncensored-HauhauCS-Aggressive-MTP-GGUF",
       "displayName": "Qwen3.8 27B Uncensored HauhauCS Aggressive MTP",
-      "downloads": 1629754
+      "downloads": 1715824
     },
     {
       "id": "Jackrong/Qwopus3.8-27B-Flash-GGUF",
       "displayName": "Qwopus3.8 27B Flash",
-      "downloads": 60343
+      "downloads": 113295
     },
     {
       "id": "orcarouter/Qwen3.8-27B-Uncensored-GGUF",
       "displayName": "Qwen3.8 27B Uncensored",
-      "downloads": 292633
+      "downloads": 299670
     },
     {
       "id": "OBLITERATUS/Qwen3.8-27B-OBLITERATED",
       "displayName": "Qwen3.8 27B OBLITERATED",
-      "downloads": 1024582
+      "downloads": 1059387
     },
     {
       "id": "JonathanColetti/Qwen3.8-27B-Uncensored-GGUF",
       "displayName": "Qwen3.8 27B Uncensored",
-      "downloads": 2584884
+      "downloads": 2660078
     },
     {
-      "id": "XHToken/Spark-X2.5-4B-GGUF",
-      "displayName": "Spark X2.5 4B",
-      "downloads": 36320
+      "id": "openbmb/MiniCPM5-2B-GGUF",
+      "displayName": "MiniCPM5 2B",
+      "downloads": 7760
     }
   ]
 }
