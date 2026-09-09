@@ -1,6 +1,62 @@
 {
-  "updated": "2026-09-09T19:01:24Z",
+  "updated": "2026-09-09T22:12:19Z",
   "news": [
+    {
+      "title": "Massachusetts hits data centers with new clean power rules",
+      "url": "https://techcrunch.com/2026/09/09/massachusetts-hits-data-centers-with-new-clean-power-rules/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-09-09T21:43:34Z",
+      "snippet": "Massachusetts has become the third state in as many months to slap new restrictions on data center development."
+    },
+    {
+      "title": "Suno releases its first AI music model made with record industry help",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/991977/suno-releases-its-first-ai-music-model-made-with-record-industry-help",
+      "source": "The Verge",
+      "publishedAt": "2026-09-09T21:42:19Z",
+      "snippet": "Suno's new v6 AI music model is its first made with support from the record industry. Suno's Jack Brody told The Verge that v6 was \"trained from the ground up, with a new set of data that does not inc"
+    },
+    {
+      "title": "OpenAI\u2019s sly mathematical breakthrough sends a chill through academia",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/992953/openai-math-millennium-prize-navier-stokes",
+      "source": "The Verge",
+      "publishedAt": "2026-09-09T21:16:34Z",
+      "snippet": "OpenAI's announcement Tuesday that it has solved one of mathematics' legendary Millennium Prize problems should have been a moment of triumph. The result is both an undeniable achievement and a striki"
+    },
+    {
+      "title": "Read the Apple document explaining how new listening features still protect your privacy",
+      "url": "https://www.theverge.com/tech/992919/apple-siri-ai-audio-intelligence-privacy",
+      "source": "The Verge",
+      "publishedAt": "2026-09-09T20:44:43Z",
+      "snippet": "At Wednesday's iPhone Duo launch event, Apple announced a handful of new Siri AI Audio Intelligence features, including Siri Recap, Live Rewind, Sound Recognition, and Music Recognition. Alongside its"
+    },
+    {
+      "title": "Apple Watch\u2019s new AI features are normalizing the idea that technology is always listening",
+      "url": "https://techcrunch.com/2026/09/09/apple-watchs-new-ai-features-are-normalizing-the-idea-that-technology-is-always-listening/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-09-09T20:24:48Z",
+      "snippet": "Apple says its new watches won\u2019t save raw audio, but features that can transcribe recent speech and summarize ambient conversations raise new questions about consent, privacy, and how people behave wh"
+    },
+    {
+      "title": "Everything Apple announced at its fall iPhone event, from the foldable iPhone Duo to an always-listening Apple Watch",
+      "url": "https://techcrunch.com/2026/09/09/everything-apple-announced-at-its-fall-iphone-event-from-the-foldable-iphone-duo-to-an-always-listening-apple-watch/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-09-09T20:03:43Z",
+      "snippet": "The main event was the tech giant's highly anticipated first foldable phone, the iPhone Duo."
+    },
+    {
+      "title": "Apple\u2019s new iPhone camera mode promises to prove your photo isn\u2019t AI",
+      "url": "https://www.theverge.com/tech/992766/apple-iphone-18-pro-reference-image",
+      "source": "The Verge",
+      "publishedAt": "2026-09-09T19:30:12Z",
+      "snippet": "Apple is launching a new way to prove that the picture you took isn't manipulated by AI. A new feature, called \"Reference Image,\" will arrive with the iPhone 18 Pro lineup later this month and is supp"
+    },
+    {
+      "title": "The hinge for Apple\u2019s new foldable phone was built with AI",
+      "url": "https://techcrunch.com/2026/09/09/the-hinge-for-apples-new-foldable-phone-was-built-with-ai/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-09-09T19:21:48Z",
+      "snippet": "Apple says it used AI and 3D printing in the manufacturing process for its long-awaited foldable phone."
+    },
     {
       "title": "Apple\u2019s revamped Health app will calculate your \u2018health age\u2019 and readiness score",
       "url": "https://techcrunch.com/2026/09/09/apples-revamped-health-app-will-calculate-your-health-age-and-readiness-score/",
@@ -83,7 +139,7 @@
       "url": "https://techcrunch.com/2026/09/09/sequoia-doubles-down-on-cymphony-as-ai-agents-create-new-enterprise-security-risks/",
       "source": "TechCrunch",
       "publishedAt": "2026-09-09T13:00:00Z",
-      "snippet": "Cymphony was valued at more than $100 million in a $25 million Series A co-led by Sequoia and SMBC Fin Atlas Beyond Fund."
+      "snippet": "Cymphony gives security teams a single view of employees, AI agents, and other nonhuman identities, including the systems and sensitive data they can access."
     },
     {
       "title": "Instacart launches an AI grocery shopping assistant called Clementine",
@@ -91,20 +147,6 @@
       "source": "TechCrunch",
       "publishedAt": "2026-09-09T13:00:00Z",
       "snippet": "Instacart is the latest app to bake a conversational AI assistant into its platform."
-    },
-    {
-      "title": "Besxar is building an orbital semiconductor factory, one SpaceX rocket at a time",
-      "url": "https://techcrunch.com/2026/09/09/besxar-is-strapping-advanced-chip-fabs-onto-spacexs-falcon-9-rockets/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-09-09T12:30:00Z",
-      "snippet": "If you want to manufacture in space\u2014and bring the products back again\u2014there\u2019s a limited set of options: Wait to go to the International Space Station, or partner with a handful of start-ups launching "
-    },
-    {
-      "title": "Suno replaces its AI models with a new one trained on licensed music as copyright suits pile up",
-      "url": "https://techcrunch.com/2026/09/09/suno-replaces-its-ai-models-with-a-new-one-trained-on-licensed-music-as-copyright-suits-pile-up/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-09-09T12:05:34Z",
-      "snippet": "As it grapples with a bevy of lawsuits, Suno said its new model, Suno v6, is not trained using music it used to train previous versions of the AI model."
     },
     {
       "title": "Students who use AI generally score worse at school",
@@ -121,20 +163,6 @@
       "snippet": "A senior Anthropic safety researcher has said there is more than a 10 percent chance artificial intelligence \"could kill all humans\" by the end of the decade, just hours after a colleague resigned ove"
     },
     {
-      "title": "Hackers are stealing Claude tokens from subscribers",
-      "url": "https://techcrunch.com/2026/09/08/hackers-are-stealing-claude-tokens-from-subscribers/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-09-08T21:10:27Z",
-      "snippet": "Last month, a Claude user noticed his account was consuming tokens even though he wasn't working. Anthropic has since warned users about hackers."
-    },
-    {
-      "title": "Cognition hits $48B valuation, signaling investors believe AI coding is far from a winner-take-all market",
-      "url": "https://techcrunch.com/2026/09/08/cognition-hits-48b-valuation-signaling-investors-believe-ai-coding-is-far-from-a-winner-take-all-market/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-09-08T21:04:06Z",
-      "snippet": "Cognition's valuation multiple is higher than Cursor's was before selling to SpaceX."
-    },
-    {
       "title": "Drama swirls around OpenAI\u2019s legendary mathematical milestone",
       "url": "https://www.theverge.com/ai-artificial-intelligence/991710/openai-navier-stokes-solution",
       "source": "The Verge",
@@ -147,34 +175,6 @@
       "source": "The Verge",
       "publishedAt": "2026-09-08T20:16:09Z",
       "snippet": "OpenAI announced ChatGPT Images 2.5 on Tuesday and is adding a new way to tell ChatGPT what you want it to make an image of: by drawing a doodle. With a new feature called Sketch, you can just draw so"
-    },
-    {
-      "title": "Meta bets on AI agent Muse to catch up in AI race",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/991216/meta-bets-on-ai-agent-muse-to-catch-up-in-ai-race",
-      "source": "The Verge",
-      "publishedAt": "2026-09-08T19:00:00Z",
-      "snippet": "Meta is making another push to bring artificial intelligence to the masses with Muse, a personal assistant it says can put AI in the hands of virtually anyone. The product is the latest step in a mult"
-    },
-    {
-      "title": "AI power users claim Anthropic duped them with subscriptions, and they\u2019re taking it to court",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/990313/anthropic-class-action-lawsuit-pricing-subscription-plans",
-      "source": "The Verge",
-      "publishedAt": "2026-09-08T17:27:31Z",
-      "snippet": "Anthropic says power users are key to its business - it's prioritized them even when it means cutting off other popular applications, like OpenClaw. But some of these same customers say Anthropic misl"
-    },
-    {
-      "title": "Google\u2019s Atlas of the human genome could pave the way for new treatments",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/991180/google-launches-alpha-genome-atlas",
-      "source": "The Verge",
-      "publishedAt": "2026-09-08T14:00:00Z",
-      "snippet": "Google DeepMind has unveiled an AI tool that its scientists claim could help unravel the mysteries of the human genome and transform our understanding of biology, accelerating scientific research and "
-    },
-    {
-      "title": "Adobe is trying to make its AI generators idiot-proof in Premiere",
-      "url": "https://www.theverge.com/tech/991133/adobe-is-trying-to-make-its-ai-generators-idiot-proof-in-premiere",
-      "source": "The Verge",
-      "publishedAt": "2026-09-08T13:00:00Z",
-      "snippet": "Adobe is overhauling how editors interact with AI in its Premiere professional video editing software. Its new Generative Media tool makes it easier to generate video, sound effects, music, and sounds"
     }
   ],
   "trending": [
@@ -224,9 +224,9 @@
       "downloads": 2305654
     },
     {
-      "id": "OBLITERATUS/Qwen3.8-27B-OBLITERATED",
-      "displayName": "Qwen3.8 27B OBLITERATED",
-      "downloads": 1059387
+      "id": "XHToken/Spark-X2.5-4B-GGUF",
+      "displayName": "Spark X2.5 4B",
+      "downloads": 49223
     }
   ]
 }
