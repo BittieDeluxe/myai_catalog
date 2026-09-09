@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-09T02:48:32Z",
+  "updated": "2026-09-09T08:33:50Z",
   "news": [
     {
       "title": "Hackers are stealing Claude tokens from subscribers",
@@ -194,11 +194,6 @@
       "downloads": 10675683
     },
     {
-      "id": "unsloth/Qwen3.8-Flash-Next-GGUF",
-      "displayName": "Qwen3.8 Flash Next",
-      "downloads": 935568
-    },
-    {
       "id": "Jackrong/Qwopus3.8-27B-Flash-GGUF",
       "displayName": "Qwopus3.8 27B Flash",
       "downloads": 113295
@@ -207,6 +202,11 @@
       "id": "HauhauCS/Qwen3.8-27B-Uncensored-HauhauCS-Aggressive-MTP-GGUF",
       "displayName": "Qwen3.8 27B Uncensored HauhauCS Aggressive MTP",
       "downloads": 1715824
+    },
+    {
+      "id": "unsloth/Qwen3.8-Flash-Next-GGUF",
+      "displayName": "Qwen3.8 Flash Next",
+      "downloads": 935568
     },
     {
       "id": "orcarouter/Qwen3.8-27B-Uncensored-GGUF",
