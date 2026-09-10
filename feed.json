@@ -1,6 +1,13 @@
 {
-  "updated": "2026-09-10T08:36:01Z",
+  "updated": "2026-09-10T14:01:13Z",
   "news": [
+    {
+      "title": "Mathematicians want proof OpenAI didn\u2019t use their work",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/993263/where-does-openai-get-mathematics-training-data",
+      "source": "The Verge",
+      "publishedAt": "2026-09-10T11:00:57Z",
+      "snippet": "Another researcher is challenging OpenAI about the data driving its increasingly impressive array of mathematical discoveries. Just days after a bitter row erupted over whether the company's models be"
+    },
     {
       "title": "AI research startup Listen Labs scrubbed a $1.5B funding round for Salesforce talks",
       "url": "https://techcrunch.com/2026/09/09/ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-for-salesforce-talks/",
@@ -168,65 +175,58 @@
       "source": "The Verge",
       "publishedAt": "2026-09-08T20:53:52Z",
       "snippet": "OpenAI says it found a solution to a major math problem that has remained unsolved for around 90 years, as reported earlier by The New York Times and Wired. In a blog post on Tuesday, OpenAI announced"
-    },
-    {
-      "title": "ChatGPT Sketch turns your bad drawings into detailed AI images",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/991727/openai-chatgpt-images-2-5-sketch",
-      "source": "The Verge",
-      "publishedAt": "2026-09-08T20:16:09Z",
-      "snippet": "OpenAI announced ChatGPT Images 2.5 on Tuesday and is adding a new way to tell ChatGPT what you want it to make an image of: by drawing a doodle. With a new feature called Sketch, you can just draw so"
     }
   ],
   "trending": [
     {
       "id": "ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF",
       "displayName": "Qwen3.8 27B GSQ RCO",
-      "downloads": 479597
+      "downloads": 614850
     },
     {
       "id": "unsloth/Qwen3.8-27B-GGUF",
       "displayName": "Qwen3.8 27B",
-      "downloads": 10675683
+      "downloads": 11127203
     },
     {
       "id": "DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
       "displayName": "Qwen3.8 27B TURBO Fable Cold Fusion 735 882 Heretic Uncensored NEO CODER MAX MTP",
-      "downloads": 348753
+      "downloads": 517644
     },
     {
       "id": "Jackrong/Qwopus3.8-27B-Flash-GGUF",
       "displayName": "Qwopus3.8 27B Flash",
-      "downloads": 113295
+      "downloads": 192107
     },
     {
       "id": "HauhauCS/Qwen3.8-27B-Uncensored-HauhauCS-Aggressive-MTP-GGUF",
       "displayName": "Qwen3.8 27B Uncensored HauhauCS Aggressive MTP",
-      "downloads": 1715824
+      "downloads": 1908917
     },
     {
       "id": "openbmb/MiniCPM5-2B-GGUF",
       "displayName": "MiniCPM5 2B",
-      "downloads": 7760
+      "downloads": 51179
     },
     {
       "id": "orcarouter/Qwen3.8-27B-Uncensored-GGUF",
       "displayName": "Qwen3.8 27B Uncensored",
-      "downloads": 299670
+      "downloads": 314894
     },
     {
       "id": "unsloth/Qwen3.8-Flash-Next-GGUF",
       "displayName": "Qwen3.8 Flash Next",
-      "downloads": 935568
+      "downloads": 1053823
     },
     {
       "id": "XHToken/Spark-X2.5-4B-GGUF",
       "displayName": "Spark X2.5 4B",
-      "downloads": 49223
+      "downloads": 73777
     },
     {
       "id": "huihui-ai/Huihui-Qwen3.8-27B-abliterated-GGUF",
       "displayName": "Huihui Qwen3.8 27B abliterated",
-      "downloads": 2305654
+      "downloads": 2441040
     }
   ]
 }
