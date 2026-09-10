@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-10T02:50:04Z",
+  "updated": "2026-09-10T08:36:01Z",
   "news": [
     {
       "title": "AI research startup Listen Labs scrubbed a $1.5B funding round for Salesforce talks",
@@ -209,14 +209,14 @@
       "downloads": 7760
     },
     {
-      "id": "unsloth/Qwen3.8-Flash-Next-GGUF",
-      "displayName": "Qwen3.8 Flash Next",
-      "downloads": 935568
-    },
-    {
       "id": "orcarouter/Qwen3.8-27B-Uncensored-GGUF",
       "displayName": "Qwen3.8 27B Uncensored",
       "downloads": 299670
+    },
+    {
+      "id": "unsloth/Qwen3.8-Flash-Next-GGUF",
+      "displayName": "Qwen3.8 Flash Next",
+      "downloads": 935568
     },
     {
       "id": "XHToken/Spark-X2.5-4B-GGUF",
