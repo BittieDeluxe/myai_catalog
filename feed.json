@@ -1,6 +1,48 @@
 {
-  "updated": "2026-09-11T18:56:10Z",
+  "updated": "2026-09-11T22:10:46Z",
   "news": [
+    {
+      "title": "Y Combinator\u2019s Garry Tan wants U.S. open-weight AI labs to \u2018distill\u2019 frontier models, too",
+      "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-09-11T20:59:47Z",
+      "snippet": "Tan argues that frontier models themselves trained on public human knowledge so access to capable AI should be \"a form of public good.\""
+    },
+    {
+      "title": "OpenAI\u2019s feud with mathematicians is only escalating",
+      "url": "https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-09-11T20:57:36Z",
+      "snippet": "Twenty-five leading mathematicians signed an open letter arguing that AI labs are threatening their intellectual work."
+    },
+    {
+      "title": "Lawyer fined $5K over AI-hallucinated witnesses in a murder case",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/994207/chatgpt-new-mexico-lawyer-fined-murder-appeal",
+      "source": "The Verge",
+      "publishedAt": "2026-09-11T20:44:02Z",
+      "snippet": "New Mexico's Supreme Court is punishing a lawyer for including AI-fabricated witnesses and fake police testimony in an appeal for his client's murder conviction, according to a report from Reuters. In"
+    },
+    {
+      "title": "One week left to book your exhibit table at TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/09/11/one-week-left-to-book-your-exhibit-table-at-techcrunch-disrupt-2026/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-09-11T20:33:18Z",
+      "snippet": "Only one week left to secure your exhibit table. Tables are limited and can sell out before the September 18 deadline."
+    },
+    {
+      "title": "Final, final, final call for TechCrunch Disrupt 2026 Side Events",
+      "url": "https://techcrunch.com/2026/09/11/final-final-final-call-for-techcrunch-disrupt-2026-side-events/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-09-11T20:30:17Z",
+      "snippet": "The absolute last chance to apply to host an official Side Event during TechCrunch Disrupt 2026 is tonight, September 11, at 11:59 p.m. PT."
+    },
+    {
+      "title": "Kimi-maker Moonshot AI targets $2B in annual revenue",
+      "url": "https://techcrunch.com/2026/09/11/kimi-maker-moonshot-ai-targets-2-billion-in-annual-revenue/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-09-11T19:35:54Z",
+      "snippet": "While K3's usage figures have declined slightly in recent months, OpenRouter data currently shows as many as 300 billion tokens being generated each day by K3 models on the system."
+    },
     {
       "title": "An Anthropic researcher\u2019s doomsday warning comes at a very interesting time",
       "url": "https://techcrunch.com/podcast/an-anthropic-researchers-doomsday-warning-comes-at-a-very-interesting-time/",
@@ -114,13 +156,6 @@
       "snippet": "\u201cThe vast majority of cases we find are people who are entitled to claim for something, claiming for that thing,\u201d the researcher told TechCrunch."
     },
     {
-      "title": "Maven Robotics wants to steal your robot deployment deal",
-      "url": "https://techcrunch.com/2026/09/10/maven-robotics-wants-to-steal-your-robot-deployment-deal/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-09-10T14:17:37Z",
-      "snippet": "Maven Robotics emerged from stealth today with a $100 million Series A and active deployments."
-    },
-    {
       "title": "Why the current tech backlash feels different",
       "url": "https://www.theverge.com/podcast/992141/decoder-mailbag-ai-backlash-surveillance-midterms-data-centers",
       "source": "The Verge",
@@ -135,46 +170,11 @@
       "snippet": "Another researcher is challenging OpenAI about the data driving its increasingly impressive array of mathematical discoveries. Just days after a bitter row erupted over whether the company's models be"
     },
     {
-      "title": "AI research startup Listen Labs scrubbed a $1.5B funding round for Salesforce talks",
-      "url": "https://techcrunch.com/2026/09/09/ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-for-salesforce-talks/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-09-10T00:00:37Z",
-      "snippet": "Listen Labs walked away from a signed Series C term sheet from Menlo Ventures, sources say."
-    },
-    {
-      "title": "OpenAI adds a prominent AI doomer to its board of directors",
-      "url": "https://techcrunch.com/2026/09/09/openai-adds-a-prominent-ai-doomer-to-its-board-of-directors/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-09-09T22:25:22Z",
-      "snippet": "Paul Christiano, an influential AI researcher focused on alignment, is joining the OpenAI Foundation as a member of its board."
-    },
-    {
-      "title": "Massachusetts hits data centers with new clean power rules",
-      "url": "https://techcrunch.com/2026/09/09/massachusetts-hits-data-centers-with-new-clean-power-rules/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-09-09T21:43:34Z",
-      "snippet": "Massachusetts has become the third state in as many months to slap new restrictions on data center development."
-    },
-    {
       "title": "Suno releases its first AI music model made with record industry help",
       "url": "https://www.theverge.com/ai-artificial-intelligence/991977/suno-releases-its-first-ai-music-model-made-with-record-industry-help",
       "source": "The Verge",
       "publishedAt": "2026-09-09T21:42:19Z",
       "snippet": "Suno's new v6 AI music model is its first made with support from the record industry. Suno's Jack Brody told The Verge that v6 was \"trained from the ground up, with a new set of data that does not inc"
-    },
-    {
-      "title": "OpenAI\u2019s sly mathematical breakthrough sends a chill through academia",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/992953/openai-math-millennium-prize-navier-stokes",
-      "source": "The Verge",
-      "publishedAt": "2026-09-09T21:16:34Z",
-      "snippet": "OpenAI's announcement Tuesday that it has solved one of mathematics' legendary Millennium Prize problems should have been a moment of triumph. The result is both an undeniable achievement and a striki"
-    },
-    {
-      "title": "Apple Watch\u2019s new AI features are normalizing the idea that technology is always listening",
-      "url": "https://techcrunch.com/2026/09/09/apple-watchs-new-ai-features-are-normalizing-the-idea-that-technology-is-always-listening/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-09-09T20:24:48Z",
-      "snippet": "Apple says its new watches won\u2019t save raw audio, but features that can transcribe recent speech and summarize ambient conversations raise new questions about consent, privacy, and how people behave wh"
     }
   ],
   "trending": [
