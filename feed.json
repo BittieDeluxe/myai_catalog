@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-10T22:12:50Z",
+  "updated": "2026-09-11T02:43:52Z",
   "news": [
     {
       "title": "Jensen Huang explains why Nvidia will grow an astounding 70% next year",
@@ -199,14 +199,14 @@
       "downloads": 192107
     },
     {
-      "id": "HauhauCS/Qwen3.8-27B-Uncensored-HauhauCS-Aggressive-MTP-GGUF",
-      "displayName": "Qwen3.8 27B Uncensored HauhauCS Aggressive MTP",
-      "downloads": 1908917
-    },
-    {
       "id": "openbmb/MiniCPM5-2B-GGUF",
       "displayName": "MiniCPM5 2B",
       "downloads": 51179
+    },
+    {
+      "id": "HauhauCS/Qwen3.8-27B-Uncensored-HauhauCS-Aggressive-MTP-GGUF",
+      "displayName": "Qwen3.8 27B Uncensored HauhauCS Aggressive MTP",
+      "downloads": 1908917
     },
     {
       "id": "orcarouter/Qwen3.8-27B-Uncensored-GGUF",
