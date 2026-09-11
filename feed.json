@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-11T02:43:52Z",
+  "updated": "2026-09-11T08:30:39Z",
   "news": [
     {
       "title": "Jensen Huang explains why Nvidia will grow an astounding 70% next year",
@@ -13,7 +13,7 @@
       "url": "https://techcrunch.com/2026/09/10/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/",
       "source": "TechCrunch",
       "publishedAt": "2026-09-10T21:35:00Z",
-      "snippet": "Mark Wahlberg joins Bruce K. Lee at Disrupt to discuss investing, entrepreneurship, healthcare, wellness and building businesses."
+      "snippet": "Mark Wahlberg joins Bruce K. Lee at Disrupt to discuss investing, entrepreneurship, healthcare, wellness, and building businesses."
     },
     {
       "title": "Slack can now vibe-code interactive charts and reports inside chats",
@@ -214,14 +214,14 @@
       "downloads": 314894
     },
     {
-      "id": "unsloth/Qwen3.8-Flash-Next-GGUF",
-      "displayName": "Qwen3.8 Flash Next",
-      "downloads": 1053823
-    },
-    {
       "id": "XHToken/Spark-X2.5-4B-GGUF",
       "displayName": "Spark X2.5 4B",
       "downloads": 73777
+    },
+    {
+      "id": "unsloth/Qwen3.8-Flash-Next-GGUF",
+      "displayName": "Qwen3.8 Flash Next",
+      "downloads": 1053823
     },
     {
       "id": "huihui-ai/Huihui-Qwen3.8-27B-abliterated-GGUF",
