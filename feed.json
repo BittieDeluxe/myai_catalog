@@ -1,6 +1,34 @@
 {
-  "updated": "2026-09-11T14:00:19Z",
+  "updated": "2026-09-11T18:56:10Z",
   "news": [
+    {
+      "title": "An Anthropic researcher\u2019s doomsday warning comes at a very interesting time",
+      "url": "https://techcrunch.com/podcast/an-anthropic-researchers-doomsday-warning-comes-at-a-very-interesting-time/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-09-11T18:41:49Z",
+      "snippet": "An Anthropic researcher resigned this week, warning in a post on X that the company is \u201cracing straight to self-improving superintelligence and gambling with our lives\u201d. The company\u2019s own alignment le"
+    },
+    {
+      "title": "Nscale adds former OpenAI exec Fidji Simo to its board ahead of potential IPO",
+      "url": "https://techcrunch.com/2026/09/11/nscale-adds-former-openai-exec-fidji-simo-to-its-board-ahead-of-potential-ipo/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-09-11T16:46:25Z",
+      "snippet": "The No. 2 exec at OpenAI also led Instacart through its IPO in 2023."
+    },
+    {
+      "title": "Anthropic spent this week in hot water over cybersecurity",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/994064/anthropic-spent-this-week-in-hot-water-over-cybersecurity",
+      "source": "The Verge",
+      "publishedAt": "2026-09-11T16:09:14Z",
+      "snippet": "After admitting earlier this year that its AI models had hacked other companies' systems on a handful of occasions, Anthropic released a new report on Wednesday detailing the attacks. It reveals a str"
+    },
+    {
+      "title": "Meta says it\u2019s changing AI suggestions after posing invasive personal questions",
+      "url": "https://www.theverge.com/tech/993974/meta-ai-prompt-invasive-suggestions",
+      "source": "The Verge",
+      "publishedAt": "2026-09-11T14:25:21Z",
+      "snippet": "Meta says it's making changes to the prompts suggested by its AI chatbot after a viral video showed it digging for personal information about a woman's young daughters, as reported earlier by Futurism"
+    },
     {
       "title": "Jensen Huang explains why Nvidia will grow an astounding 70% next year",
       "url": "https://techcrunch.com/2026/09/10/jensen-huang-explains-why-nvidia-will-grow-an-astounding-70-next-year/",
@@ -142,39 +170,11 @@
       "snippet": "OpenAI's announcement Tuesday that it has solved one of mathematics' legendary Millennium Prize problems should have been a moment of triumph. The result is both an undeniable achievement and a striki"
     },
     {
-      "title": "Read the Apple document explaining how new listening features still protect your privacy",
-      "url": "https://www.theverge.com/tech/992919/apple-siri-ai-audio-intelligence-privacy",
-      "source": "The Verge",
-      "publishedAt": "2026-09-09T20:44:43Z",
-      "snippet": "At Wednesday's iPhone Duo launch event, Apple announced a handful of new Siri AI Audio Intelligence features, including Siri Recap, Live Rewind, Sound Recognition, and Music Recognition. Alongside its"
-    },
-    {
       "title": "Apple Watch\u2019s new AI features are normalizing the idea that technology is always listening",
       "url": "https://techcrunch.com/2026/09/09/apple-watchs-new-ai-features-are-normalizing-the-idea-that-technology-is-always-listening/",
       "source": "TechCrunch",
       "publishedAt": "2026-09-09T20:24:48Z",
       "snippet": "Apple says its new watches won\u2019t save raw audio, but features that can transcribe recent speech and summarize ambient conversations raise new questions about consent, privacy, and how people behave wh"
-    },
-    {
-      "title": "Everything Apple announced at its fall iPhone event, from the foldable iPhone Duo to an always-listening Apple Watch",
-      "url": "https://techcrunch.com/2026/09/09/everything-apple-announced-at-its-fall-iphone-event-from-the-foldable-iphone-duo-to-an-always-listening-apple-watch/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-09-09T20:03:43Z",
-      "snippet": "The main event was the tech giant's highly anticipated first foldable phone, the iPhone Duo."
-    },
-    {
-      "title": "Apple\u2019s new iPhone camera mode promises to prove your photo isn\u2019t AI",
-      "url": "https://www.theverge.com/tech/992766/apple-iphone-18-pro-reference-image",
-      "source": "The Verge",
-      "publishedAt": "2026-09-09T19:30:12Z",
-      "snippet": "Apple is launching a new way to prove that the picture you took isn't manipulated by AI. A new feature, called \"Reference Image,\" will arrive with the iPhone 18 Pro lineup later this month and is supp"
-    },
-    {
-      "title": "The hinge for Apple\u2019s new foldable phone was built with AI",
-      "url": "https://techcrunch.com/2026/09/09/the-hinge-for-apples-new-foldable-phone-was-built-with-ai/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-09-09T19:21:48Z",
-      "snippet": "Apple says it used AI and 3D printing in the manufacturing process for its long-awaited foldable phone."
     }
   ],
   "trending": [
@@ -194,14 +194,14 @@
       "downloads": 606200
     },
     {
-      "id": "Jackrong/Qwopus3.8-27B-Flash-GGUF",
-      "displayName": "Qwopus3.8 27B Flash",
-      "downloads": 231831
-    },
-    {
       "id": "openbmb/MiniCPM5-2B-GGUF",
       "displayName": "MiniCPM5 2B",
       "downloads": 70755
+    },
+    {
+      "id": "Jackrong/Qwopus3.8-27B-Flash-GGUF",
+      "displayName": "Qwopus3.8 27B Flash",
+      "downloads": 231831
     },
     {
       "id": "HauhauCS/Qwen3.8-27B-Uncensored-HauhauCS-Aggressive-MTP-GGUF",
@@ -219,14 +219,14 @@
       "downloads": 1106182
     },
     {
-      "id": "huihui-ai/Huihui-Qwen3.8-27B-abliterated-GGUF",
-      "displayName": "Huihui Qwen3.8 27B abliterated",
-      "downloads": 2508629
-    },
-    {
       "id": "XHToken/Spark-X2.5-4B-GGUF",
       "displayName": "Spark X2.5 4B",
       "downloads": 82991
+    },
+    {
+      "id": "huihui-ai/Huihui-Qwen3.8-27B-abliterated-GGUF",
+      "displayName": "Huihui Qwen3.8 27B abliterated",
+      "downloads": 2508629
     }
   ]
 }
