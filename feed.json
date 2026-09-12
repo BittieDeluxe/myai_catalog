@@ -1,6 +1,13 @@
 {
-  "updated": "2026-09-12T08:18:56Z",
+  "updated": "2026-09-12T13:18:57Z",
   "news": [
+    {
+      "title": "OpenAI just wants to win",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/994255/openai-millennium-prize-problem-tristan-buckmaster-competition",
+      "source": "The Verge",
+      "publishedAt": "2026-09-12T11:00:00Z",
+      "snippet": "OpenAI has spent the last few years planting flags across the increasingly difficult terrain in mathematics. This week, it claimed one of its biggest prizes yet: a solution to a legendary Millennium P"
+    },
     {
       "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
       "url": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
@@ -168,65 +175,58 @@
       "source": "The Verge",
       "publishedAt": "2026-09-10T11:00:57Z",
       "snippet": "Another researcher is challenging OpenAI about the data driving its increasingly impressive array of mathematical discoveries. Just days after a bitter row erupted over whether the company's models be"
-    },
-    {
-      "title": "Suno releases its first AI music model made with record industry help",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/991977/suno-releases-its-first-ai-music-model-made-with-record-industry-help",
-      "source": "The Verge",
-      "publishedAt": "2026-09-09T21:42:19Z",
-      "snippet": "Suno's new v6 AI music model is its first made with support from the record industry. Suno's Jack Brody told The Verge that v6 was \"trained from the ground up, with a new set of data that does not inc"
     }
   ],
   "trending": [
     {
       "id": "ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF",
       "displayName": "Qwen3.8 27B GSQ RCO",
-      "downloads": 682187
+      "downloads": 729683
     },
     {
       "id": "unsloth/Qwen3.8-27B-GGUF",
       "displayName": "Qwen3.8 27B",
-      "downloads": 11339637
+      "downloads": 11529203
     },
     {
       "id": "DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
       "displayName": "Qwen3.8 27B TURBO Fable Cold Fusion 735 882 Heretic Uncensored NEO CODER MAX MTP",
-      "downloads": 606200
+      "downloads": 665911
     },
     {
       "id": "openbmb/MiniCPM5-2B-GGUF",
       "displayName": "MiniCPM5 2B",
-      "downloads": 70755
+      "downloads": 87316
     },
     {
       "id": "HauhauCS/Qwen3.8-27B-Uncensored-HauhauCS-Aggressive-MTP-GGUF",
       "displayName": "Qwen3.8 27B Uncensored HauhauCS Aggressive MTP",
-      "downloads": 1999181
-    },
-    {
-      "id": "Jackrong/Qwopus3.8-27B-Flash-GGUF",
-      "displayName": "Qwopus3.8 27B Flash",
-      "downloads": 231831
+      "downloads": 2078044
     },
     {
       "id": "orcarouter/Qwen3.8-27B-Uncensored-GGUF",
       "displayName": "Qwen3.8 27B Uncensored",
-      "downloads": 320537
+      "downloads": 330078
+    },
+    {
+      "id": "Jackrong/Qwopus3.8-27B-Flash-GGUF",
+      "displayName": "Qwopus3.8 27B Flash",
+      "downloads": 260350
     },
     {
       "id": "XHToken/Spark-X2.5-4B-GGUF",
       "displayName": "Spark X2.5 4B",
-      "downloads": 82991
-    },
-    {
-      "id": "unsloth/Qwen3.8-Flash-Next-GGUF",
-      "displayName": "Qwen3.8 Flash Next",
-      "downloads": 1106182
+      "downloads": 102339
     },
     {
       "id": "huihui-ai/Huihui-Qwen3.8-27B-abliterated-GGUF",
       "displayName": "Huihui Qwen3.8 27B abliterated",
-      "downloads": 2508629
+      "downloads": 2618490
+    },
+    {
+      "id": "unsloth/Qwen3.8-Flash-Next-GGUF",
+      "displayName": "Qwen3.8 Flash Next",
+      "downloads": 1160057
     }
   ]
 }
