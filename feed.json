@@ -1,19 +1,19 @@
 {
-  "updated": "2026-09-12T16:41:39Z",
+  "updated": "2026-09-12T20:06:01Z",
   "news": [
+    {
+      "title": "Anthropic CEO outlines plan to slow AI development",
+      "url": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-09-12T19:34:44Z",
+      "snippet": "Anthropic's Dario Amodei and OpenAI's Sam Altman seem to agree that it's time to \"pace the frontier.\" What would that actually look like?"
+    },
     {
       "title": "Anthropic CEO says it\u2019s time to pump the brakes on AI",
       "url": "https://www.theverge.com/ai-artificial-intelligence/994337/anthropic-ceo-slow-down-ai-development",
       "source": "The Verge",
       "publishedAt": "2026-09-12T16:23:40Z",
       "snippet": "Anthropic CEO Dario Amodei says the time has come to slow down AI development and will give third-party evaluators like METR access to its models to help ensure its \"adherence to safety practices and "
-    },
-    {
-      "title": "Anthropic CEO outlines plan to \u2018pace the frontier\u2019",
-      "url": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-09-12T15:52:11Z",
-      "snippet": "What would it actually look like to \"pace the frontier\"?"
     },
     {
       "title": "Trump is giving data centers a pass to pollute",
