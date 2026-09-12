@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-12T02:53:07Z",
+  "updated": "2026-09-12T08:18:56Z",
   "news": [
     {
       "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
@@ -199,14 +199,14 @@
       "downloads": 70755
     },
     {
-      "id": "Jackrong/Qwopus3.8-27B-Flash-GGUF",
-      "displayName": "Qwopus3.8 27B Flash",
-      "downloads": 231831
-    },
-    {
       "id": "HauhauCS/Qwen3.8-27B-Uncensored-HauhauCS-Aggressive-MTP-GGUF",
       "displayName": "Qwen3.8 27B Uncensored HauhauCS Aggressive MTP",
       "downloads": 1999181
+    },
+    {
+      "id": "Jackrong/Qwopus3.8-27B-Flash-GGUF",
+      "displayName": "Qwopus3.8 27B Flash",
+      "downloads": 231831
     },
     {
       "id": "orcarouter/Qwen3.8-27B-Uncensored-GGUF",
