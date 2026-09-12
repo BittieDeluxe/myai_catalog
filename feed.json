@@ -1,12 +1,19 @@
 {
-  "updated": "2026-09-11T22:10:46Z",
+  "updated": "2026-09-12T02:53:07Z",
   "news": [
     {
-      "title": "Y Combinator\u2019s Garry Tan wants U.S. open-weight AI labs to \u2018distill\u2019 frontier models, too",
+      "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
+      "url": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-09-11T22:58:17Z",
+      "snippet": "The round for the two-year-old startup is coming together months after Mecka announced its Series A."
+    },
+    {
+      "title": "Y Combinator\u2019s Garry Tan wants US open-weight AI labs to \u2018distill\u2019 frontier models, too",
       "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
       "source": "TechCrunch",
       "publishedAt": "2026-09-11T20:59:47Z",
-      "snippet": "Tan argues that frontier models themselves trained on public human knowledge so access to capable AI should be \"a form of public good.\""
+      "snippet": "Tan wants smaller, American open-weight AI labs to use the same kind of training techniques on American frontier AI labs, giving the U.S. a more robust set of open-weight options that aren\u2019t Chinese."
     },
     {
       "title": "OpenAI\u2019s feud with mathematicians is only escalating",
@@ -149,13 +156,6 @@
       "snippet": "Meta has launched its new Muse assistant, marking the company's first real foray into AI-powered productivity tools. The company says its AI agent can \"take the busywork off your plate\" by helping you"
     },
     {
-      "title": "AI agents are flooding public services with new requests",
-      "url": "https://techcrunch.com/2026/09/10/ai-agents-are-flooding-public-services-with-new-requests/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-09-10T14:53:50Z",
-      "snippet": "\u201cThe vast majority of cases we find are people who are entitled to claim for something, claiming for that thing,\u201d the researcher told TechCrunch."
-    },
-    {
       "title": "Why the current tech backlash feels different",
       "url": "https://www.theverge.com/podcast/992141/decoder-mailbag-ai-backlash-surveillance-midterms-data-centers",
       "source": "The Verge",
@@ -214,14 +214,14 @@
       "downloads": 320537
     },
     {
-      "id": "unsloth/Qwen3.8-Flash-Next-GGUF",
-      "displayName": "Qwen3.8 Flash Next",
-      "downloads": 1106182
-    },
-    {
       "id": "XHToken/Spark-X2.5-4B-GGUF",
       "displayName": "Spark X2.5 4B",
       "downloads": 82991
+    },
+    {
+      "id": "unsloth/Qwen3.8-Flash-Next-GGUF",
+      "displayName": "Qwen3.8 Flash Next",
+      "downloads": 1106182
     },
     {
       "id": "huihui-ai/Huihui-Qwen3.8-27B-abliterated-GGUF",
