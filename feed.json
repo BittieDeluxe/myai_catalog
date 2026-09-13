@@ -1,6 +1,13 @@
 {
-  "updated": "2026-09-13T14:01:53Z",
+  "updated": "2026-09-13T18:29:37Z",
   "news": [
+    {
+      "title": "Obama urges Democrats to have a \u2018clear plan\u2019 for AI safeguards",
+      "url": "https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-09-13T16:30:00Z",
+      "snippet": "Obama recently said that Democrats need to make artificial intelligence one of their \u201ccentral agendas\u201d and \u201chave a very clear plan\u201d to address concerns around the technology\u2019s economic impact and safe"
+    },
     {
       "title": "OpenAI\u2019s rogue AI tried to hack another company in May",
       "url": "https://www.theverge.com/ai-artificial-intelligence/994383/openais-rogue-ai-rubygems-hack",
@@ -163,13 +170,6 @@
       "snippet": "A new report released Thursday by Anthropic alleges persistent distillation attacks by China-based AI companies, which have escalated in recent months as competition in the space has intensified."
     },
     {
-      "title": "Meta\u2019s AI agent Muse is now the No. 2 app in the US",
-      "url": "https://techcrunch.com/2026/09/10/metas-ai-agent-muse-is-now-the-no-2-app-in-the-us/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-09-10T19:50:04Z",
-      "snippet": "Meta's newest app Muse is off to a slower start than the company's other apps, like Meta AI or Threads."
-    },
-    {
       "title": "Schools are catching on to Big Tech\u2019s playbook",
       "url": "https://www.theverge.com/policy/993308/computer-science-ai-education-coding-kids",
       "source": "The Verge",
@@ -219,14 +219,14 @@
       "downloads": 2682158
     },
     {
-      "id": "Jackrong/Qwopus3.8-27B-Flash-GGUF",
-      "displayName": "Qwopus3.8 27B Flash",
-      "downloads": 264436
-    },
-    {
       "id": "unsloth/Qwen3.8-Flash-Next-GGUF",
       "displayName": "Qwen3.8 Flash Next",
       "downloads": 1211625
+    },
+    {
+      "id": "Jackrong/Qwopus3.8-27B-Flash-GGUF",
+      "displayName": "Qwopus3.8 27B Flash",
+      "downloads": 264436
     }
   ]
 }
