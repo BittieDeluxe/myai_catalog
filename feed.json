@@ -1,6 +1,20 @@
 {
-  "updated": "2026-09-13T18:29:37Z",
+  "updated": "2026-09-13T22:02:35Z",
   "news": [
+    {
+      "title": "Trump and Mike Johnson think the AI industry is overreacting",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/994441/trump-mike-johnson-ai-industry-overreacting",
+      "source": "The Verge",
+      "publishedAt": "2026-09-13T19:41:48Z",
+      "snippet": "Yesterday, Anthropic CEO Dario Amodei published a lengthy open letter saying it was time to \"pace the frontier\" and slow down AI development. OpenAI's Sam Altman and Elon Musk both agreed, publicly vo"
+    },
+    {
+      "title": "What\u2019s behind the AI industry\u2019s latest warnings of doom?",
+      "url": "https://techcrunch.com/2026/09/13/whats-behind-the-ai-industrys-latest-warnings-of-doom/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-09-13T19:40:15Z",
+      "snippet": "On Equity, we discussed the AI industry's latest debate about whether it poses an existential threat to humanity."
+    },
     {
       "title": "Obama urges Democrats to have a \u2018clear plan\u2019 for AI safeguards",
       "url": "https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards/",
@@ -161,20 +175,6 @@
       "source": "TechCrunch",
       "publishedAt": "2026-09-10T20:59:51Z",
       "snippet": "The company said Pro subscriptions put the most strain on its systems, so it's pausing sign-ups while adding more capacity."
-    },
-    {
-      "title": "Anthropic details distillation campaigns from Alibaba, Moonshot AI, and DeepSeek",
-      "url": "https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-09-10T20:57:30Z",
-      "snippet": "A new report released Thursday by Anthropic alleges persistent distillation attacks by China-based AI companies, which have escalated in recent months as competition in the space has intensified."
-    },
-    {
-      "title": "Schools are catching on to Big Tech\u2019s playbook",
-      "url": "https://www.theverge.com/policy/993308/computer-science-ai-education-coding-kids",
-      "source": "The Verge",
-      "publishedAt": "2026-09-10T19:44:20Z",
-      "snippet": "It's the hot new thing in tech, and it's where all the jobs are. Students who don't learn to use it fall behind. And to help them catch up in time, its creators are graciously providing the resources "
     }
   ],
   "trending": [
