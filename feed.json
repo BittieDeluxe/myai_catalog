@@ -1,6 +1,20 @@
 {
-  "updated": "2026-09-12T23:40:31Z",
+  "updated": "2026-09-13T02:51:55Z",
   "news": [
+    {
+      "title": "OpenAI\u2019s rogue AI tried to hack another company in May",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/994383/openais-rogue-ai-rubygems-hack",
+      "source": "The Verge",
+      "publishedAt": "2026-09-12T21:41:36Z",
+      "snippet": "In May, hundreds of malicious and spam packages were uploaded to RubyGems, causing a serious disruption for the host. Now independent researchers have said that a swarm of OpenAI agents were responsib"
+    },
+    {
+      "title": "Sam Altman says OpenAI going public in 2026 would be \u2018ill-advised\u2019",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/994384/sam-altman-no-openai-ipo-ill-advised",
+      "source": "The Verge",
+      "publishedAt": "2026-09-12T21:16:28Z",
+      "snippet": "OpenAI CEO Sam Altman confirmed that there would be no OpenAI IPO in 2026 during an interview with Fortune. Over the course of 45 minutes, Altman discussed a variety of subjects including the Hugging "
+    },
     {
       "title": "OpenAI\u2019s Sam Altman says it would be \u2018ill-advised\u2019 to go public in 2026",
       "url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
@@ -161,20 +175,6 @@
       "source": "The Verge",
       "publishedAt": "2026-09-10T19:44:20Z",
       "snippet": "It's the hot new thing in tech, and it's where all the jobs are. Students who don't learn to use it fall behind. And to help them catch up in time, its creators are graciously providing the resources "
-    },
-    {
-      "title": "Universal Music is launching an AI music platform with ElevenLabs",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/993465/universal-music-elevenlabs-ai",
-      "source": "The Verge",
-      "publishedAt": "2026-09-10T15:38:19Z",
-      "snippet": "Universal Music Group is launching a new AI-powered platform that will allow users to draw from its catalog of licensed music to create song remixes, mashups, and new takes on tracks, according to an "
-    },
-    {
-      "title": "Meta\u2019s Muse AI works and creeps me out",
-      "url": "https://www.theverge.com/tech/993391/meta-muse-ai-hands-on",
-      "source": "The Verge",
-      "publishedAt": "2026-09-10T15:00:00Z",
-      "snippet": "Meta has launched its new Muse assistant, marking the company's first real foray into AI-powered productivity tools. The company says its AI agent can \"take the busywork off your plate\" by helping you"
     }
   ],
   "trending": [
@@ -209,14 +209,14 @@
       "downloads": 330078
     },
     {
-      "id": "XHToken/Spark-X2.5-4B-GGUF",
-      "displayName": "Spark X2.5 4B",
-      "downloads": 102339
-    },
-    {
       "id": "Jackrong/Qwopus3.8-27B-Flash-GGUF",
       "displayName": "Qwopus3.8 27B Flash",
       "downloads": 260350
+    },
+    {
+      "id": "XHToken/Spark-X2.5-4B-GGUF",
+      "displayName": "Spark X2.5 4B",
+      "downloads": 102339
     },
     {
       "id": "huihui-ai/Huihui-Qwen3.8-27B-abliterated-GGUF",
