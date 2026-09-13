@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-13T02:51:55Z",
+  "updated": "2026-09-13T14:01:53Z",
   "news": [
     {
       "title": "OpenAI\u2019s rogue AI tried to hack another company in May",
@@ -181,52 +181,52 @@
     {
       "id": "ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF",
       "displayName": "Qwen3.8 27B GSQ RCO",
-      "downloads": 729683
+      "downloads": 769557
     },
     {
       "id": "unsloth/Qwen3.8-27B-GGUF",
       "displayName": "Qwen3.8 27B",
-      "downloads": 11529203
+      "downloads": 11005880
     },
     {
       "id": "DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
       "displayName": "Qwen3.8 27B TURBO Fable Cold Fusion 735 882 Heretic Uncensored NEO CODER MAX MTP",
-      "downloads": 665911
+      "downloads": 750591
     },
     {
       "id": "openbmb/MiniCPM5-2B-GGUF",
       "displayName": "MiniCPM5 2B",
-      "downloads": 87316
+      "downloads": 99716
     },
     {
       "id": "HauhauCS/Qwen3.8-27B-Uncensored-HauhauCS-Aggressive-MTP-GGUF",
       "displayName": "Qwen3.8 27B Uncensored HauhauCS Aggressive MTP",
-      "downloads": 2078044
+      "downloads": 2157412
     },
     {
       "id": "orcarouter/Qwen3.8-27B-Uncensored-GGUF",
       "displayName": "Qwen3.8 27B Uncensored",
-      "downloads": 330078
-    },
-    {
-      "id": "Jackrong/Qwopus3.8-27B-Flash-GGUF",
-      "displayName": "Qwopus3.8 27B Flash",
-      "downloads": 260350
+      "downloads": 337009
     },
     {
       "id": "XHToken/Spark-X2.5-4B-GGUF",
       "displayName": "Spark X2.5 4B",
-      "downloads": 102339
+      "downloads": 130031
     },
     {
       "id": "huihui-ai/Huihui-Qwen3.8-27B-abliterated-GGUF",
       "displayName": "Huihui Qwen3.8 27B abliterated",
-      "downloads": 2618490
+      "downloads": 2682158
+    },
+    {
+      "id": "Jackrong/Qwopus3.8-27B-Flash-GGUF",
+      "displayName": "Qwopus3.8 27B Flash",
+      "downloads": 264436
     },
     {
       "id": "unsloth/Qwen3.8-Flash-Next-GGUF",
       "displayName": "Qwen3.8 Flash Next",
-      "downloads": 1160057
+      "downloads": 1211625
     }
   ]
 }
