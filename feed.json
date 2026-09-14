@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-13T22:02:35Z",
+  "updated": "2026-09-14T03:06:11Z",
   "news": [
     {
       "title": "Trump and Mike Johnson think the AI industry is overreacting",
@@ -184,14 +184,14 @@
       "downloads": 769557
     },
     {
-      "id": "unsloth/Qwen3.8-27B-GGUF",
-      "displayName": "Qwen3.8 27B",
-      "downloads": 11005880
-    },
-    {
       "id": "DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
       "displayName": "Qwen3.8 27B TURBO Fable Cold Fusion 735 882 Heretic Uncensored NEO CODER MAX MTP",
       "downloads": 750591
+    },
+    {
+      "id": "unsloth/Qwen3.8-27B-GGUF",
+      "displayName": "Qwen3.8 27B",
+      "downloads": 11005880
     },
     {
       "id": "openbmb/MiniCPM5-2B-GGUF",
@@ -224,9 +224,9 @@
       "downloads": 1211625
     },
     {
-      "id": "Jackrong/Qwopus3.8-27B-Flash-GGUF",
-      "displayName": "Qwopus3.8 27B Flash",
-      "downloads": 264436
+      "id": "DavidAU/Qwen3.8-27B-TWIN-TURBO-Fable-Cold-Fusion-709-L-Uncensored-NM-DAU-NEO-MTP-GGUF",
+      "displayName": "Qwen3.8 27B TWIN TURBO Fable Cold Fusion 709 L Uncensored NM DAU NEO MTP",
+      "downloads": 31779
     }
   ]
 }
