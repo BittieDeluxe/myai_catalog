@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-14T03:06:11Z",
+  "updated": "2026-09-14T09:30:17Z",
   "news": [
     {
       "title": "Trump and Mike Johnson think the AI industry is overreacting",
@@ -181,52 +181,52 @@
     {
       "id": "ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF",
       "displayName": "Qwen3.8 27B GSQ RCO",
-      "downloads": 769557
+      "downloads": 819784
     },
     {
       "id": "DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
       "displayName": "Qwen3.8 27B TURBO Fable Cold Fusion 735 882 Heretic Uncensored NEO CODER MAX MTP",
-      "downloads": 750591
+      "downloads": 875703
     },
     {
       "id": "unsloth/Qwen3.8-27B-GGUF",
       "displayName": "Qwen3.8 27B",
-      "downloads": 11005880
+      "downloads": 10077938
     },
     {
       "id": "openbmb/MiniCPM5-2B-GGUF",
       "displayName": "MiniCPM5 2B",
-      "downloads": 99716
+      "downloads": 108471
     },
     {
       "id": "HauhauCS/Qwen3.8-27B-Uncensored-HauhauCS-Aggressive-MTP-GGUF",
       "displayName": "Qwen3.8 27B Uncensored HauhauCS Aggressive MTP",
-      "downloads": 2157412
+      "downloads": 2224663
     },
     {
       "id": "orcarouter/Qwen3.8-27B-Uncensored-GGUF",
       "displayName": "Qwen3.8 27B Uncensored",
-      "downloads": 337009
-    },
-    {
-      "id": "XHToken/Spark-X2.5-4B-GGUF",
-      "displayName": "Spark X2.5 4B",
-      "downloads": 130031
+      "downloads": 342042
     },
     {
       "id": "huihui-ai/Huihui-Qwen3.8-27B-abliterated-GGUF",
       "displayName": "Huihui Qwen3.8 27B abliterated",
-      "downloads": 2682158
+      "downloads": 2744995
     },
     {
-      "id": "unsloth/Qwen3.8-Flash-Next-GGUF",
-      "displayName": "Qwen3.8 Flash Next",
-      "downloads": 1211625
+      "id": "XHToken/Spark-X2.5-4B-GGUF",
+      "displayName": "Spark X2.5 4B",
+      "downloads": 146448
     },
     {
       "id": "DavidAU/Qwen3.8-27B-TWIN-TURBO-Fable-Cold-Fusion-709-L-Uncensored-NM-DAU-NEO-MTP-GGUF",
       "displayName": "Qwen3.8 27B TWIN TURBO Fable Cold Fusion 709 L Uncensored NM DAU NEO MTP",
-      "downloads": 31779
+      "downloads": 60930
+    },
+    {
+      "id": "unsloth/Qwen3.8-Flash-Next-GGUF",
+      "displayName": "Qwen3.8 Flash Next",
+      "downloads": 1256828
     }
   ]
 }
