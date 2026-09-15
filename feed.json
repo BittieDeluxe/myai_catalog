@@ -1,6 +1,20 @@
 {
-  "updated": "2026-09-15T20:48:00Z",
+  "updated": "2026-09-15T23:55:16Z",
   "news": [
+    {
+      "title": "Voters mostly don\u2019t like AI and data centers, but neither party seems to have an edge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/995917/data-center-nyt-midterm-poll-september",
+      "source": "The Verge",
+      "publishedAt": "2026-09-15T23:34:25Z",
+      "snippet": "Poll data released Tuesday by the New York Times and Siena University confirms what we've already been seeing, and what politicians are responding to - AI and data centers are incredibly unpopular. As"
+    },
+    {
+      "title": "The AI data center boom is colliding with cities scarred by big industry",
+      "url": "https://techcrunch.com/2026/09/15/the-ai-data-center-boom-is-colliding-with-cities-scarred-by-big-industry/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-09-15T21:47:38Z",
+      "snippet": "National outcry against data center construction has spread to Philadelphia, where officials suggested possible construction in a neighborhood already impacted by a now-defunct oil refinery."
+    },
     {
       "title": "Meta now lets AI agents handle the boring parts of WhatsApp Business setup",
       "url": "https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/",
@@ -128,13 +142,6 @@
       "snippet": "Dario Amodei kicked off a flood of statements over the past few days about AI safety by publishing a long essay titled \"We Must Pace the Frontier\" detailing why AI development should be slowed down. O"
     },
     {
-      "title": "OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says",
-      "url": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-09-14T20:44:14Z",
-      "snippet": "Glass Imaging was founded by a pair of former Apple engineers who previously led the team that developed Apple's Portrait Mode."
-    },
-    {
       "title": "Jensen Huang puts Trump on speakerphone onstage to announce robots won\u2019t take over the world",
       "url": "https://www.theverge.com/tech/995079/president-donald-trump-calls-nvidia-ceo-jensen-huang-all-in-summit",
       "source": "The Verge",
@@ -168,13 +175,6 @@
       "source": "The Verge",
       "publishedAt": "2026-09-12T21:16:28Z",
       "snippet": "OpenAI CEO Sam Altman confirmed that there would be no OpenAI IPO in 2026 during an interview with Fortune. Over the course of 45 minutes, Altman discussed a variety of subjects including the Hugging "
-    },
-    {
-      "title": "Anthropic CEO says it\u2019s time to pump the brakes on AI",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/994337/anthropic-ceo-slow-down-ai-development",
-      "source": "The Verge",
-      "publishedAt": "2026-09-12T16:23:40Z",
-      "snippet": "Anthropic CEO Dario Amodei says the time has come to slow down AI development and will give third-party evaluators like METR access to its models to help ensure its \"adherence to safety practices and "
     }
   ],
   "trending": [
@@ -194,14 +194,14 @@
       "downloads": 949394
     },
     {
-      "id": "HauhauCS/Qwen3.8-27B-Uncensored-HauhauCS-Aggressive-MTP-GGUF",
-      "displayName": "Qwen3.8 27B Uncensored HauhauCS Aggressive MTP",
-      "downloads": 2298657
-    },
-    {
       "id": "ukisai/Swift-Qwen3.8-27B-GGUF",
       "displayName": "Swift Qwen3.8 27B",
       "downloads": 36615
+    },
+    {
+      "id": "HauhauCS/Qwen3.8-27B-Uncensored-HauhauCS-Aggressive-MTP-GGUF",
+      "displayName": "Qwen3.8 27B Uncensored HauhauCS Aggressive MTP",
+      "downloads": 2298657
     },
     {
       "id": "DavidAU/Qwen3.8-27B-TWIN-TURBO-Fable-Cold-Fusion-709-L-Uncensored-NM-DAU-NEO-MTP-GGUF",
@@ -209,14 +209,14 @@
       "downloads": 81810
     },
     {
-      "id": "openbmb/MiniCPM5-2B-GGUF",
-      "displayName": "MiniCPM5 2B",
-      "downloads": 116964
-    },
-    {
       "id": "orcarouter/Qwen3.8-27B-Uncensored-GGUF",
       "displayName": "Qwen3.8 27B Uncensored",
       "downloads": 343719
+    },
+    {
+      "id": "openbmb/MiniCPM5-2B-GGUF",
+      "displayName": "MiniCPM5 2B",
+      "downloads": 116964
     },
     {
       "id": "huihui-ai/Huihui-Qwen3.8-27B-abliterated-GGUF",
