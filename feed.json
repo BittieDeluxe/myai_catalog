@@ -1,6 +1,13 @@
 {
-  "updated": "2026-09-15T00:11:50Z",
+  "updated": "2026-09-15T07:06:40Z",
   "news": [
+    {
+      "title": "Jensen Huang took a call from Trump, and showed off something else, too",
+      "url": "https://techcrunch.com/2026/09/14/jensen-huang-took-a-call-from-trump-and-showed-off-something-else-too/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-09-15T01:50:48Z",
+      "snippet": "When Jensen Huang took a live call from Trump, some of us were more focused the phone he used to take it."
+    },
     {
       "title": "Is Big Tech\u2019s AI slowdown a safety pact or a cartel?",
       "url": "https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel",
@@ -168,13 +175,6 @@
       "source": "The Verge",
       "publishedAt": "2026-09-12T11:00:00Z",
       "snippet": "OpenAI has spent the last few years planting flags across the increasingly difficult terrain in mathematics. This week, it claimed one of its biggest prizes yet: a solution to a legendary Millennium P"
-    },
-    {
-      "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
-      "url": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-09-11T22:58:17Z",
-      "snippet": "The round for the two-year-old startup is coming together months after Mecka announced its Series A."
     }
   ],
   "trending": [
@@ -194,14 +194,14 @@
       "downloads": 875703
     },
     {
-      "id": "openbmb/MiniCPM5-2B-GGUF",
-      "displayName": "MiniCPM5 2B",
-      "downloads": 108471
-    },
-    {
       "id": "HauhauCS/Qwen3.8-27B-Uncensored-HauhauCS-Aggressive-MTP-GGUF",
       "displayName": "Qwen3.8 27B Uncensored HauhauCS Aggressive MTP",
       "downloads": 2224663
+    },
+    {
+      "id": "openbmb/MiniCPM5-2B-GGUF",
+      "displayName": "MiniCPM5 2B",
+      "downloads": 108471
     },
     {
       "id": "DavidAU/Qwen3.8-27B-TWIN-TURBO-Fable-Cold-Fusion-709-L-Uncensored-NM-DAU-NEO-MTP-GGUF",
@@ -209,24 +209,24 @@
       "downloads": 60930
     },
     {
-      "id": "orcarouter/Qwen3.8-27B-Uncensored-GGUF",
-      "displayName": "Qwen3.8 27B Uncensored",
-      "downloads": 342042
-    },
-    {
       "id": "huihui-ai/Huihui-Qwen3.8-27B-abliterated-GGUF",
       "displayName": "Huihui Qwen3.8 27B abliterated",
       "downloads": 2744995
     },
     {
-      "id": "unsloth/Qwen3.8-Flash-Next-GGUF",
-      "displayName": "Qwen3.8 Flash Next",
-      "downloads": 1256828
-    },
-    {
       "id": "ukisai/Swift-Qwen3.8-27B-GGUF",
       "displayName": "Swift Qwen3.8 27B",
       "downloads": 16624
+    },
+    {
+      "id": "orcarouter/Qwen3.8-27B-Uncensored-GGUF",
+      "displayName": "Qwen3.8 27B Uncensored",
+      "downloads": 342042
+    },
+    {
+      "id": "unsloth/Qwen3.8-Flash-Next-GGUF",
+      "displayName": "Qwen3.8 Flash Next",
+      "downloads": 1256828
     }
   ]
 }
