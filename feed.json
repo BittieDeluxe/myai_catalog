@@ -1,8 +1,15 @@
 {
-  "updated": "2026-09-15T23:55:16Z",
+  "updated": "2026-09-16T03:07:21Z",
   "news": [
     {
-      "title": "Voters mostly don\u2019t like AI and data centers, but neither party seems to have an edge",
+      "title": "We don\u2019t need AI regulation \u2014 leave safety to us, Nvidia\u2019s Jensen Huang says",
+      "url": "https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-09-16T00:20:39Z",
+      "snippet": "AI isn't some new form of \"alien mind,\" according to Jensen Huang. It's just hardware and software, so safety can be engineered by each AI product maker."
+    },
+    {
+      "title": "AI and data centers are incredibly unpopular in every poll",
       "url": "https://www.theverge.com/ai-artificial-intelligence/995917/data-center-nyt-midterm-poll-september",
       "source": "The Verge",
       "publishedAt": "2026-09-15T23:34:25Z",
@@ -126,13 +133,6 @@
       "source": "The Verge",
       "publishedAt": "2026-09-14T22:59:41Z",
       "snippet": "When OpenAI CEO Sam Altman, Anthropic CEO Dario Amodei, Google DeepMind cofounder Demis Hassabis, and SpaceX head Elon Musk loosely agreed over the weekend to slow down AI development, skeptics spotte"
-    },
-    {
-      "title": "Nvidia CEO Jensen Huang tells Trump \u2018we\u2019re not going to let [an AI slowdown] happen\u2019",
-      "url": "https://techcrunch.com/2026/09/14/nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdown-happen/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-09-14T21:51:02Z",
-      "snippet": "Though Elon Musk and Sam Altman have supported Dario Amodei's calls to slow the pace of AI development, Jensen Huang seems to feel differently."
     },
     {
       "title": "What execs and politicians are saying about slowing down AI development",
