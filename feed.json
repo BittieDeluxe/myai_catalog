@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-16T03:07:21Z",
+  "updated": "2026-09-16T09:01:02Z",
   "news": [
     {
       "title": "We don\u2019t need AI regulation \u2014 leave safety to us, Nvidia\u2019s Jensen Huang says",
@@ -209,9 +209,9 @@
       "downloads": 81810
     },
     {
-      "id": "orcarouter/Qwen3.8-27B-Uncensored-GGUF",
-      "displayName": "Qwen3.8 27B Uncensored",
-      "downloads": 343719
+      "id": "huihui-ai/Huihui-Qwen3.8-27B-abliterated-GGUF",
+      "displayName": "Huihui Qwen3.8 27B abliterated",
+      "downloads": 2805550
     },
     {
       "id": "openbmb/MiniCPM5-2B-GGUF",
@@ -219,9 +219,9 @@
       "downloads": 116964
     },
     {
-      "id": "huihui-ai/Huihui-Qwen3.8-27B-abliterated-GGUF",
-      "displayName": "Huihui Qwen3.8 27B abliterated",
-      "downloads": 2805550
+      "id": "orcarouter/Qwen3.8-27B-Uncensored-GGUF",
+      "displayName": "Qwen3.8 27B Uncensored",
+      "downloads": 343719
     },
     {
       "id": "unsloth/Qwen3.8-Flash-Next-GGUF",
