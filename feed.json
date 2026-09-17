@@ -1,6 +1,27 @@
 {
-  "updated": "2026-09-16T22:36:24Z",
+  "updated": "2026-09-17T03:08:14Z",
   "news": [
+    {
+      "title": "Snap tries to make the case again for its $2,200 smart glasses",
+      "url": "https://techcrunch.com/2026/09/16/snap-tries-to-make-the-case-again-for-its-2200-smart-glasses/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-09-17T00:58:49Z",
+      "snippet": "Since Specs' debut earlier this year, Snap has clearly been looking for an opportunity to explain why the smart glasses deserve to exist."
+    },
+    {
+      "title": "Al Gore says the real AI risk isn\u2019t data centers \u2014 it\u2019s what industry leaders are warning about",
+      "url": "https://techcrunch.com/2026/09/16/al-gore-has-a-surprisingly-calm-take-on-the-ai-data-center-backlash/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-09-16T23:43:09Z",
+      "snippet": "In an interview with TechCrunch, Al Gore suggested he isn't losing sleep over AI data center emissions \u2014 he's more worried about the AI industry's own warnings about where the technology is headed."
+    },
+    {
+      "title": "Snap is launching a new Specs AI tool, and it\u2019s coming to iOS and Mac",
+      "url": "https://www.theverge.com/tech/996078/snap-specs-intelligence-ai-agent-ios-mac",
+      "source": "The Verge",
+      "publishedAt": "2026-09-16T23:40:00Z",
+      "snippet": "Snap is introducing \"Specs Intelligence,\" a new AI assistant that can connect other digital accounts to help you with things like work tasks and keeping track of travel information. It seems similar t"
+    },
     {
       "title": "Anthropic and OpenAI want to embed safety evaluators. Will they really be independent?",
       "url": "https://techcrunch.com/2026/09/16/anthropic-and-openai-want-to-embed-safety-evaluators-will-they-really-be-independent/",
@@ -149,32 +170,11 @@
       "snippet": "Poll data released Tuesday by The New York Times and Siena University confirms what we've already been seeing, and what politicians are responding to - AI and data centers are incredibly unpopular. As"
     },
     {
-      "title": "The AI data center boom is colliding with cities scarred by big industry",
-      "url": "https://techcrunch.com/2026/09/15/the-ai-data-center-boom-is-colliding-with-cities-scarred-by-big-industry/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-09-15T21:47:38Z",
-      "snippet": "National outcry against data center construction has spread to Philadelphia, where officials suggested possible construction in a neighborhood already impacted by a now-defunct oil refinery."
-    },
-    {
-      "title": "Meta now lets AI agents handle the boring parts of WhatsApp Business setup",
-      "url": "https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-09-15T20:12:53Z",
-      "snippet": "A new WhatsApp Business MCP server lets developers use AI coding agents like Claude, Cursor, Codex, and ChatGPT to handle setup, messaging templates, testing, and troubleshooting."
-    },
-    {
       "title": "Meta\u2019s new One subscriptions put a price on social media and AI",
       "url": "https://www.theverge.com/tech/995453/meta-one-subscriptions-ai",
       "source": "The Verge",
       "publishedAt": "2026-09-15T15:00:00Z",
       "snippet": "Shortly after launching its new do-everything AI assistant Muse, Meta's launching subscription bundles that pair its standalone app subscriptions with extra AI usage. Some of the new Meta One bundles "
-    },
-    {
-      "title": "This doorbell camera lets a human security guard watch your front door",
-      "url": "https://www.theverge.com/tech/995365/simplisafe-video-doorbell-series-2-virtual-guard-price-specs",
-      "source": "The Verge",
-      "publishedAt": "2026-09-15T13:36:45Z",
-      "snippet": "DIY home security company SimpliSafe is bringing its AI-powered proactive security feature to the front door. The new SimpliSafe Video Doorbell Series 2 launches today for $199.99 and works with the c"
     }
   ],
   "trending": [
@@ -219,14 +219,14 @@
       "downloads": 2828411
     },
     {
-      "id": "openbmb/MiniCPM5-2B-GGUF",
-      "displayName": "MiniCPM5 2B",
-      "downloads": 130756
-    },
-    {
       "id": "unsloth/Qwen3.8-Flash-Next-GGUF",
       "displayName": "Qwen3.8 Flash Next",
       "downloads": 1371824
+    },
+    {
+      "id": "mradermacher/Ornith-1.5-9B-uncensored-GGUF",
+      "displayName": "Ornith 1.5 9B uncensored",
+      "downloads": 109470
     }
   ]
 }
