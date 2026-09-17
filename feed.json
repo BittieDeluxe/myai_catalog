@@ -1,12 +1,61 @@
 {
-  "updated": "2026-09-17T14:37:07Z",
+  "updated": "2026-09-17T19:29:33Z",
   "news": [
+    {
+      "title": "The AI Superintelligence Slowdown",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/996923/ai-safety-slow-openai-anthropic",
+      "source": "The Verge",
+      "publishedAt": "2026-09-17T19:28:24Z",
+      "snippet": "Remember when tech leaders would tell their employees to \u201cmove fast and break things\u201d? It seemed that would be the way of AI too. But after a summer where rogue AI agents became reality, and researche"
+    },
+    {
+      "title": "Claude Code relaunches Projects to manage multiple AI agents in the cloud",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/997134/anthropic-claude-code-projects",
+      "source": "The Verge",
+      "publishedAt": "2026-09-17T18:58:05Z",
+      "snippet": "The revamped projects feature in Claude Code allows users to run multiple agents under the same roof, with a shared memory, goals, and library of files and artifacts. Similar to Grok Bot and other too"
+    },
+    {
+      "title": "Even the king of England has his hesitations about AI",
+      "url": "https://techcrunch.com/2026/09/17/even-the-king-of-england-has-his-hesitations-about-ai/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-09-17T17:26:25Z",
+      "snippet": "King Charles hosted a private summit Thursday with some of the most prominent names in AI and the U.K. government."
+    },
+    {
+      "title": "Base Labs launches an open-weight AI safety partnership with Hugging Face and Goodfire",
+      "url": "https://techcrunch.com/2026/09/17/base-labs-launches-an-open-weight-ai-safety-partnership-with-hugging-face-and-goodfire/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-09-17T17:15:59Z",
+      "snippet": "Base Labs, the research group Baseten spun up earlier this year, will develop and publish methods for training and monitoring open models."
+    },
+    {
+      "title": "Pinterest teases a new \u2018Restyle\u2019 feature that lets you redesign your room with AI",
+      "url": "https://techcrunch.com/2026/09/17/pinterest-teases-a-new-restyle-feature-that-lets-you-redesign-your-room-with-ai/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-09-17T17:15:00Z",
+      "snippet": "Pinterest is testing Restyle, a new AI-powered feature that lets users visualize furniture, decor, lighting, and more in photos of their own rooms \u2014 potentially helping turn saved inspiration into pur"
+    },
     {
       "title": "Huawei plans Q1 2027 launch of new AI chip as it takes on Nvidia",
       "url": "https://techcrunch.com/2026/09/17/huawei-plans-q1-2027-launch-of-new-ai-chip-as-it-takes-on-nvidia/",
       "source": "TechCrunch",
       "publishedAt": "2026-09-17T14:06:14Z",
       "snippet": "Huawei is accelerating the launch of its next-generation Ascend 960DT AI chip as it pushes to compete with Nvidia and close China\u2019s AI computing gap with the U.S."
+    },
+    {
+      "title": "Microsoft AI CEO says AI threats are real, and Anthropic is making it worse",
+      "url": "https://www.theverge.com/podcast/996412/microsoft-ai-ceo-mustafa-suleyman-regulation-safety-anthropic-claude",
+      "source": "The Verge",
+      "publishedAt": "2026-09-17T14:00:00Z",
+      "snippet": "Today, I\u2019m talking with Mustafa Suleyman, the CEO of Microsoft AI. As you\u2019re no doubt aware, the biggest story in tech right now is the spiraling debate about AI safety and regulation.  It should come"
+    },
+    {
+      "title": "AI is feared globally as the destroyer of jobs",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/996775/ai-is-feared-globally-as-the-destroyer-of-jobs",
+      "source": "The Verge",
+      "publishedAt": "2026-09-17T14:00:00Z",
+      "snippet": "Pew Research has published a new global survey that sheds light on how people view AI, including its impact on jobs, life in general, and income inequality. The survey questioned 42,151 people across "
     },
     {
       "title": "2 days left to exhibit at TechCrunch Disrupt 2026",
@@ -126,55 +175,6 @@
       "source": "TechCrunch",
       "publishedAt": "2026-09-16T17:00:00Z",
       "snippet": "Google is launching early access to a new MCP server for Google Home, allowing AI agents like Claude, ChatGPT, and others to control connected devices, review camera summaries, and access smart home a"
-    },
-    {
-      "title": "Claude comes for Gemini with its own take on Docs and Slides",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/996234/anthropic-one-claude-cowork-docs-slides",
-      "source": "The Verge",
-      "publishedAt": "2026-09-16T16:30:00Z",
-      "snippet": "Claude is getting a pair of new tools today: Docs and Slides. They'll let you create documents and presentations through Claude chats, which you can export, edit, and share with other users. As part o"
-    },
-    {
-      "title": "Anthropic merges Claude chat and Cowork in one interface",
-      "url": "https://techcrunch.com/2026/09/16/anthropic-merges-claude-chat-and-cowork-in-one-interface/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-09-16T16:30:00Z",
-      "snippet": "Anthropic is initially releasing these features to Pro and Max plan subscribers."
-    },
-    {
-      "title": "Robots are waiting for a ChatGPT moment: Nvidia\u2019s Les Karpas explains why at TechCrunch Disrupt 2026",
-      "url": "https://techcrunch.com/2026/09/16/robots-are-waiting-for-a-chatgpt-moment-nvidias-les-karpas-explains-why-at-techcrunch-disrupt-2026/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-09-16T15:00:00Z",
-      "snippet": "The robotics industry is still waiting for their breakthrough into day-to-day life. Nvidia's Les Karpas has an answer as to why at TechCrunch Disrupt 2026. Register before September 25 to save up to $"
-    },
-    {
-      "title": "The sexy AI-powered dating app scams are here",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/995348/ai-dating-app-scams",
-      "source": "The Verge",
-      "publishedAt": "2026-09-16T14:45:00Z",
-      "snippet": "Security researcher Matthew \"Zigula\" Gore-Kormanik was analyzing a fraudulent dating app called Dora when he got a pop-up message saying he was receiving a call from Jennifer. According to her bio, sh"
-    },
-    {
-      "title": "Threads\u2019 new features let podcasters promote shows and reach listeners",
-      "url": "https://techcrunch.com/2026/09/16/threads-new-features-let-podcasters-promote-shows-and-reach-listeners/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-09-16T14:24:58Z",
-      "snippet": "Threads is rolling out new tools for podcasters, including profile cards, episode links, transcripts, guest tags, posting reminders, and audience insights, as Meta looks to make the X rival a bigger h"
-    },
-    {
-      "title": "A brief history of AI executives calling for regulation",
-      "url": "https://www.theverge.com/policy/995534/a-brief-history-of-ai-executives-calling-for-regulation",
-      "source": "The Verge",
-      "publishedAt": "2026-09-16T12:00:00Z",
-      "snippet": "Over the past few days, a lot of people who stand to make a lot of money from AI all publicly agreed that it's time to make everyone slow down before we lose control - including OpenAI CEO Sam Altman,"
-    },
-    {
-      "title": "AI and data centers are incredibly unpopular in every poll",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/995917/data-center-nyt-midterm-poll-september",
-      "source": "The Verge",
-      "publishedAt": "2026-09-15T23:34:25Z",
-      "snippet": "Poll data released Tuesday by The New York Times and Siena University confirms what we've already been seeing, and what politicians are responding to - AI and data centers are incredibly unpopular. As"
     }
   ],
   "trending": [
@@ -214,19 +214,19 @@
       "downloads": 332520
     },
     {
-      "id": "huihui-ai/Huihui-Qwen3.8-27B-abliterated-GGUF",
-      "displayName": "Huihui Qwen3.8 27B abliterated",
-      "downloads": 2859860
-    },
-    {
-      "id": "unsloth/Qwen3.8-Flash-Next-GGUF",
-      "displayName": "Qwen3.8 Flash Next",
-      "downloads": 1416173
+      "id": "ISTA-DASLab/Qwen3.8-Flash-Next-GSQ-RCO-GGUF",
+      "displayName": "Qwen3.8 Flash Next GSQ RCO",
+      "downloads": 13471
     },
     {
       "id": "mradermacher/Ornith-1.5-9B-uncensored-GGUF",
       "displayName": "Ornith 1.5 9B uncensored",
       "downloads": 117437
+    },
+    {
+      "id": "huihui-ai/Huihui-Qwen3.8-27B-abliterated-GGUF",
+      "displayName": "Huihui Qwen3.8 27B abliterated",
+      "downloads": 2859860
     }
   ]
 }
