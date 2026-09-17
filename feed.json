@@ -1,6 +1,20 @@
 {
-  "updated": "2026-09-17T03:08:14Z",
+  "updated": "2026-09-17T09:08:41Z",
   "news": [
+    {
+      "title": "Iceland-based Treble raises $18 million for its voice simulation platform",
+      "url": "https://techcrunch.com/2026/09/16/iceland-based-treble-raises-18-million-for-its-voice-simulation-platform/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-09-17T05:00:00Z",
+      "snippet": "Treble's voice simulation platform is used by voice AI model developers, AI wearable, and robotics companies"
+    },
+    {
+      "title": "Your startup\u2019s next teammate might be an AI agent: Gusto, Insight Partners, and Leland explain what that changes at TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/09/16/your-startups-next-teammate-might-be-an-ai-agent-gusto-insight-partners-and-leland-explain-what-that-changes-at-techcrunch-disrupt-2026/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-09-17T03:30:00Z",
+      "snippet": "This session will explore how early-stage companies are building teams where humans and AI agents work alongside each other \u2014 and how founders can do that without sacrificing speed, accountability, or"
+    },
     {
       "title": "Snap tries to make the case again for its $2,200 smart glasses",
       "url": "https://techcrunch.com/2026/09/16/snap-tries-to-make-the-case-again-for-its-2200-smart-glasses/",
@@ -9,7 +23,7 @@
       "snippet": "Since Specs' debut earlier this year, Snap has clearly been looking for an opportunity to explain why the smart glasses deserve to exist."
     },
     {
-      "title": "Al Gore says the real AI risk isn\u2019t data centers \u2014 it\u2019s what industry leaders are warning about",
+      "title": "Al Gore says the real AI risk isn\u2019t data centers",
       "url": "https://techcrunch.com/2026/09/16/al-gore-has-a-surprisingly-calm-take-on-the-ai-data-center-backlash/",
       "source": "TechCrunch",
       "publishedAt": "2026-09-16T23:43:09Z",
@@ -149,20 +163,6 @@
       "snippet": "Over the past few days, a lot of people who stand to make a lot of money from AI all publicly agreed that it's time to make everyone slow down before we lose control - including OpenAI CEO Sam Altman,"
     },
     {
-      "title": "Amazon launches Alexa+ in India with Hindi support",
-      "url": "https://techcrunch.com/2026/09/16/amazon-launches-alexa-in-india-with-hindi-support/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-09-16T10:34:47Z",
-      "snippet": "Amazon is letting all customers use Alexa+ assistant in early access period."
-    },
-    {
-      "title": "We don\u2019t need AI regulation \u2014 leave safety to us, Nvidia\u2019s Jensen Huang says",
-      "url": "https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-09-16T00:20:39Z",
-      "snippet": "AI isn't some new form of \"alien mind,\" according to Jensen Huang. It's just hardware and software, so safety can be engineered by each AI product maker."
-    },
-    {
       "title": "AI and data centers are incredibly unpopular in every poll",
       "url": "https://www.theverge.com/ai-artificial-intelligence/995917/data-center-nyt-midterm-poll-september",
       "source": "The Verge",
@@ -199,14 +199,14 @@
       "downloads": 55309
     },
     {
-      "id": "HauhauCS/Qwen3.8-27B-Uncensored-HauhauCS-Aggressive-MTP-GGUF",
-      "displayName": "Qwen3.8 27B Uncensored HauhauCS Aggressive MTP",
-      "downloads": 2387042
-    },
-    {
       "id": "DavidAU/Qwen3.8-27B-TWIN-TURBO-Fable-Cold-Fusion-709-L-Uncensored-NM-DAU-NEO-MTP-GGUF",
       "displayName": "Qwen3.8 27B TWIN TURBO Fable Cold Fusion 709 L Uncensored NM DAU NEO MTP",
       "downloads": 114335
+    },
+    {
+      "id": "HauhauCS/Qwen3.8-27B-Uncensored-HauhauCS-Aggressive-MTP-GGUF",
+      "displayName": "Qwen3.8 27B Uncensored HauhauCS Aggressive MTP",
+      "downloads": 2387042
     },
     {
       "id": "orcarouter/Qwen3.8-27B-Uncensored-GGUF",
