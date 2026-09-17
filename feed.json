@@ -1,6 +1,55 @@
 {
-  "updated": "2026-09-17T19:29:33Z",
+  "updated": "2026-09-17T22:36:38Z",
   "news": [
+    {
+      "title": "PrismML hopes its tiny LLM could change how we all use AI",
+      "url": "https://techcrunch.com/2026/09/17/prismml-hopes-its-tiny-llm-could-change-how-we-all-use-ai/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-09-17T22:34:09Z",
+      "snippet": "If AI lab PrismML isn't on your radar yet, it should be."
+    },
+    {
+      "title": "The FAA\u2019s plan to fix air traffic? $875 million worth of AI",
+      "url": "https://techcrunch.com/2026/09/17/the-faas-plan-to-fix-air-traffic-875-million-worth-of-ai/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-09-17T22:14:59Z",
+      "snippet": "A new AI-based software program is being launched to help air traffic controllers better navigate their jobs as the crossing guards of America's skies."
+    },
+    {
+      "title": "The fix for rogue AI agents could be more AI",
+      "url": "https://techcrunch.com/2026/09/17/the-fix-for-rogue-ai-agents-could-be-more-ai/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-09-17T20:34:47Z",
+      "snippet": "As companies hand off longer and more complex tasks to AI agents, they are running into an oversight problem: Agents can act faster, longer, and at greater volume than humans can realistically review."
+    },
+    {
+      "title": "OpenAI caught its models leaving notes to successors to hide bad behavior",
+      "url": "https://techcrunch.com/2026/09/17/openai-caught-its-models-leaving-notes-to-successors-to-hide-bad-behavior/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-09-17T20:34:24Z",
+      "snippet": "OpenAI disclosed instances of GPT-5.6 Sol instructing future contexts to conceal mistakes and misaligned behavior, highlighting the growing challenge of detecting misalignment as increasingly capable "
+    },
+    {
+      "title": "Is the AI safety debate about safety or control?",
+      "url": "https://techcrunch.com/2026/09/17/is-the-ai-safety-debate-about-safety-or-control/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-09-17T20:19:37Z",
+      "snippet": "Not everyone agrees with Amodei's call for globally coordinated action for AI safety."
+    },
+    {
+      "title": "UN turns to Google to make its global data ready for AI agents",
+      "url": "https://techcrunch.com/2026/09/17/un-turns-to-google-to-make-its-global-data-ready-for-ai-agents/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-09-17T20:00:00Z",
+      "snippet": "The shift comes after a UNICEF test found leading AI models struggled to accurately retrieve global development statistics."
+    },
+    {
+      "title": "Microsoft exec called AI scraping \u2018the largest theft of labor in human history,\u2019 new unredacted filings reveal",
+      "url": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-09-17T19:46:08Z",
+      "snippet": "Newly unsealed court filings show Microsoft privately called OpenAI's data practices \"theft\" while both companies scraped paywalled Times content, built datasets from it, and warned internally it woul"
+    },
     {
       "title": "The AI Superintelligence Slowdown",
       "url": "https://www.theverge.com/ai-artificial-intelligence/996923/ai-safety-slow-openai-anthropic",
@@ -93,39 +142,11 @@
       "snippet": "Treble's voice simulation platform is used by voice AI model developers and AI wearable and robotics companies,"
     },
     {
-      "title": "Your startup\u2019s next teammate might be an AI agent: Gusto, Insight Partners, and Leland explain what that changes at TechCrunch Disrupt 2026",
-      "url": "https://techcrunch.com/2026/09/16/your-startups-next-teammate-might-be-an-ai-agent-gusto-insight-partners-and-leland-explain-what-that-changes-at-techcrunch-disrupt-2026/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-09-17T03:30:00Z",
-      "snippet": "This session will explore how early-stage companies are building teams where humans and AI agents work alongside each other \u2014 and how founders can do that without sacrificing speed, accountability, or"
-    },
-    {
-      "title": "Snap tries to make the case again for its $2,200 smart glasses",
-      "url": "https://techcrunch.com/2026/09/16/snap-tries-to-make-the-case-again-for-its-2200-smart-glasses/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-09-17T00:58:49Z",
-      "snippet": "Since Specs' debut earlier this year, Snap has clearly been looking for an opportunity to explain why the smart glasses deserve to exist."
-    },
-    {
-      "title": "Al Gore says the real AI risk isn\u2019t data centers",
-      "url": "https://techcrunch.com/2026/09/16/al-gore-has-a-surprisingly-calm-take-on-the-ai-data-center-backlash/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-09-16T23:43:09Z",
-      "snippet": "In an interview with TechCrunch, Al Gore suggested he isn't losing sleep over AI data center emissions \u2014 he's more worried about the AI industry's own warnings about where the technology is headed."
-    },
-    {
       "title": "Snap is launching a new Specs AI tool, and it\u2019s coming to iOS and Mac",
       "url": "https://www.theverge.com/tech/996078/snap-specs-intelligence-ai-agent-ios-mac",
       "source": "The Verge",
       "publishedAt": "2026-09-16T23:40:00Z",
       "snippet": "Snap is introducing \"Specs Intelligence,\" a new AI assistant that can connect other digital accounts to help you with things like work tasks and keeping track of travel information. It seems similar t"
-    },
-    {
-      "title": "Anthropic and OpenAI want to embed safety evaluators. Will they really be independent?",
-      "url": "https://techcrunch.com/2026/09/16/anthropic-and-openai-want-to-embed-safety-evaluators-will-they-really-be-independent/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-09-16T21:07:24Z",
-      "snippet": "Anthropic and OpenAI want to embed independent safety evaluators inside their AI labs. Researchers welcome the unprecedented access, but warn meaningful oversight requires transparency, independence, "
     },
     {
       "title": "The 2.5-hour AI-generated Odyssey movie is 2.5 hours too long",
@@ -142,20 +163,6 @@
       "snippet": "E-waste from the AI boom has been vastly underestimated, a new report warns. By 2050, it could become enough trash to fill 23 million shipping containers - roughly enough 40-foot containers to circle "
     },
     {
-      "title": "After accusations of selling \u2018perv glasses,\u2019 Meta prepares to sell a pair without a camera",
-      "url": "https://techcrunch.com/2026/09/16/after-accusations-of-selling-perv-glasses-meta-prepares-to-sell-a-pair-without-a-camera/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-09-16T20:12:00Z",
-      "snippet": "Can Meta dodge the \"pervert glasses\" accusations with a new camera-free product?"
-    },
-    {
-      "title": "AI labs want in-house auditors \u2014 but maybe they should shut the front door first",
-      "url": "https://techcrunch.com/2026/09/16/ai-labs-want-in-house-auditors-but-maybe-they-should-shut-the-front-door-first/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-09-16T18:25:25Z",
-      "snippet": "There may be a simpler and more effective fix for rogue agents, hiding in plain sight."
-    },
-    {
       "title": "Apple might make servers again to cash in on the AI rush",
       "url": "https://www.theverge.com/tech/996321/apple-servers-ai-nvidia",
       "source": "The Verge",
@@ -168,13 +175,6 @@
       "source": "The Verge",
       "publishedAt": "2026-09-16T17:00:00Z",
       "snippet": "Google is opening up its smart home to AI agents, letting tools like Claude and Open Claw access and control your connected devices and analyze your home's data using the standardized Model Context Pr"
-    },
-    {
-      "title": "Your AI agents can now control your Google Home devices",
-      "url": "https://techcrunch.com/2026/09/16/your-ai-agents-can-now-control-your-google-home-devices/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-09-16T17:00:00Z",
-      "snippet": "Google is launching early access to a new MCP server for Google Home, allowing AI agents like Claude, ChatGPT, and others to control connected devices, review camera summaries, and access smart home a"
     }
   ],
   "trending": [
@@ -209,14 +209,14 @@
       "downloads": 2351839
     },
     {
-      "id": "orcarouter/Qwen3.8-27B-Uncensored-GGUF",
-      "displayName": "Qwen3.8 27B Uncensored",
-      "downloads": 332520
-    },
-    {
       "id": "ISTA-DASLab/Qwen3.8-Flash-Next-GSQ-RCO-GGUF",
       "displayName": "Qwen3.8 Flash Next GSQ RCO",
       "downloads": 13471
+    },
+    {
+      "id": "orcarouter/Qwen3.8-27B-Uncensored-GGUF",
+      "displayName": "Qwen3.8 27B Uncensored",
+      "downloads": 332520
     },
     {
       "id": "mradermacher/Ornith-1.5-9B-uncensored-GGUF",
