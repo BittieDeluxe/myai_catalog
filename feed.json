@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-18T02:56:03Z",
+  "updated": "2026-09-18T08:41:26Z",
   "news": [
     {
       "title": "Crusoe raises $3.9B to build massive data centers and small modular \u2018AI factories\u2019",
@@ -179,6 +179,11 @@
   ],
   "trending": [
     {
+      "id": "prism-ml/Ternary-Bonsai-2-27B-gguf",
+      "displayName": "Ternary Bonsai 2 27B",
+      "downloads": 0
+    },
+    {
       "id": "ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF",
       "displayName": "Qwen3.8 27B GSQ RCO",
       "downloads": 1027602
@@ -194,19 +199,9 @@
       "downloads": 8205000
     },
     {
-      "id": "prism-ml/Ternary-Bonsai-2-27B-gguf",
-      "displayName": "Ternary Bonsai 2 27B",
-      "downloads": 0
-    },
-    {
       "id": "ukisai/Swift-Qwen3.8-27B-GGUF",
       "displayName": "Swift Qwen3.8 27B",
       "downloads": 72862
-    },
-    {
-      "id": "DavidAU/Qwen3.8-27B-TWIN-TURBO-Fable-Cold-Fusion-709-L-Uncensored-NM-DAU-NEO-MTP-GGUF",
-      "displayName": "Qwen3.8 27B TWIN TURBO Fable Cold Fusion 709 L Uncensored NM DAU NEO MTP",
-      "downloads": 133885
     },
     {
       "id": "HauhauCS/Qwen3.8-27B-Uncensored-HauhauCS-Aggressive-MTP-GGUF",
@@ -214,19 +209,24 @@
       "downloads": 2351839
     },
     {
+      "id": "DavidAU/Qwen3.8-27B-TWIN-TURBO-Fable-Cold-Fusion-709-L-Uncensored-NM-DAU-NEO-MTP-GGUF",
+      "displayName": "Qwen3.8 27B TWIN TURBO Fable Cold Fusion 709 L Uncensored NM DAU NEO MTP",
+      "downloads": 133885
+    },
+    {
       "id": "ISTA-DASLab/Qwen3.8-Flash-Next-GSQ-RCO-GGUF",
       "displayName": "Qwen3.8 Flash Next GSQ RCO",
       "downloads": 13471
     },
     {
-      "id": "orcarouter/Qwen3.8-27B-Uncensored-GGUF",
-      "displayName": "Qwen3.8 27B Uncensored",
-      "downloads": 332520
-    },
-    {
       "id": "mradermacher/Ornith-1.5-9B-uncensored-GGUF",
       "displayName": "Ornith 1.5 9B uncensored",
       "downloads": 117437
+    },
+    {
+      "id": "orcarouter/Qwen3.8-27B-Uncensored-GGUF",
+      "displayName": "Qwen3.8 27B Uncensored",
+      "downloads": 332520
     }
   ]
 }
