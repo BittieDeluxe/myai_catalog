@@ -1,12 +1,68 @@
 {
-  "updated": "2026-09-18T18:49:36Z",
+  "updated": "2026-09-18T22:13:19Z",
   "news": [
+    {
+      "title": "Anthropic\u2019s first embedded evaluator is \u2026 Accenture?",
+      "url": "https://techcrunch.com/2026/09/18/anthropics-first-embedded-evaluator-is-accenture/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-09-18T21:44:33Z",
+      "snippet": "Accenture is about to take on its most high-risk consulting engagement ever."
+    },
+    {
+      "title": "OpenAI and Microsoft knew they were starting a \u2018doom loop\u2019 for the web",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/997633/openai-microsoft-chatgpt-ai-new-york-times-doom-loop-theft-google-zero",
+      "source": "The Verge",
+      "publishedAt": "2026-09-18T21:07:24Z",
+      "snippet": "Recently unsealed court documents in the New York Times' case against OpenAI and Microsoft are pretty damning. The companies' own documentation warned that it was starting a \"doom loop\" that would dam"
+    },
+    {
+      "title": "World model companies are keeping a lot of secrets",
+      "url": "https://techcrunch.com/2026/09/18/world-model-companies-are-keeping-a-lot-of-secrets/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-09-18T20:18:14Z",
+      "snippet": "Everyone in the world-models space is sitting on a pile of cash and a ton of buzz, but good luck getting anyone \u2014 from the founders to their own data suppliers \u2014 to tell you what they're actually buil"
+    },
+    {
+      "title": "A new kind of AI model from a ChatGPT inventor is thrilling developers",
+      "url": "https://techcrunch.com/2026/09/18/a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-09-18T18:49:30Z",
+      "snippet": "Jev, a new kind of AI model, is showing developers a cheaper and faster path to software intelligence."
+    },
     {
       "title": "Virginia governor creates an AI task force and moves to restrain data centers",
       "url": "https://www.theverge.com/policy/997573/virginia-governor-spanberger-data-center-ai-task-force",
       "source": "The Verge",
       "publishedAt": "2026-09-18T18:29:17Z",
-      "snippet": "Virginia Gov. Abigail Spanberger (D) ordered the state government to take steps that could empower local communities to have a larger say in data center development and slow down approvals in a state "
+      "snippet": "Virginia Gov. Abigail Spanberger ordered the state government to take steps that could empower local communities to have a larger say in data center development and slow down approvals in a state that"
+    },
+    {
+      "title": "Disney\u2019s first CTO led an AI startup it once accused of copying its characters",
+      "url": "https://techcrunch.com/2026/09/18/disneys-first-cto-led-an-ai-startup-it-once-accused-of-copying-its-characters/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-09-18T17:59:53Z",
+      "snippet": "The former CEO of Character.AI, which Disney previously sent a cease-and-desist letter to, will serve as the company's first-ever chief technology officer."
+    },
+    {
+      "title": "Google\u2019s new \u2018CC\u2019 is an AI agent that helps families run their households",
+      "url": "https://techcrunch.com/2026/09/18/googles-new-cc-is-an-ai-agent-that-helps-families-run-their-households/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-09-18T17:33:50Z",
+      "snippet": "Google is refocusing its CC AI agent on household coordination, letting families share emails, schedules, and tasks so the AI can manage calendars, fill out forms, make shopping lists, plan meals, and"
+    },
+    {
+      "title": "Dario Amodei and other AI leaders want to \u2018Pace the Frontier\u2019 but\u2026how?",
+      "url": "https://techcrunch.com/video/dario-amodei-and-other-ai-leaders-want-to-pace-the-frontier-buthow/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-09-18T17:09:56Z",
+      "snippet": "A week after an Anthropic researcher\u2019s doomsday warning rattled the AI world, the company\u2019s CEO Dario Amodei has outlined his plan to \u201cpace the frontier\u201d of AI development. The proposal leans on indep"
+    },
+    {
+      "title": "Automattic\u2019s 33-Hour Coup, and can AI labs police themselves?",
+      "url": "https://techcrunch.com/podcast/automattics-33-hour-coup-and-can-ai-labs-police-themselves/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-09-18T17:06:32Z",
+      "snippet": "A week after an Anthropic researcher\u2019s doomsday warning rattled the AI world, the company\u2019s CEO Dario Amodei has outlined his plan to \u201cpace the frontier\u201d of AI development. The proposal leans on indep"
     },
     {
       "title": "Gavin Newsom is pushing for an AI kill switch",
@@ -14,6 +70,13 @@
       "source": "The Verge",
       "publishedAt": "2026-09-18T17:04:51Z",
       "snippet": "California Gov. Gavin Newsom (D) is positioning the state to take the lead on AI oversight, including the potential to mandate a \"kill switch\" for frontier models, with a new executive order issued Fr"
+    },
+    {
+      "title": "Manus seeks $4B valuation in new $500M fundraise as it resumes independent ops",
+      "url": "https://techcrunch.com/2026/09/18/manus-seeks-4b-valuation-in-new-500m-fundraise-as-it-resumes-independent-ops/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-09-18T16:35:49Z",
+      "snippet": "Manus, which earlier this year had to break off a merger with Meta, is in discussions to raise $500M at a $4B valuation."
     },
     {
       "title": "What Hollywood thinks about existential AI warnings",
@@ -30,11 +93,60 @@
       "snippet": "A team of three independent security researchers at Hacktron says it took less than 72 hours for them to hack into OpenAI employee accounts using Anthropic's Claude Opus 4.8 and 5, The Wall Street Jou"
     },
     {
+      "title": "Open or closed AI? Nvidia\u2019s Nader Khalil and Sydney Sykes take on one of the decisions shaping next-gen startups at TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/09/18/open-or-closed-ai-nvidias-nader-khalil-and-sydney-sykes-take-on-one-of-the-decisions-shaping-next-gen-startups-at-techcrunch-disrupt-2026/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-09-18T15:30:00Z",
+      "snippet": "Nvidia's Nader Khalil and Sydney Sykes discuss one of the decisions shaping next-gen startups on the Builders Stage at TechCrunch Disrupt 2026."
+    },
+    {
+      "title": "Meta\u2019s Muse hits Mac, letting the AI take actions on your computer",
+      "url": "https://techcrunch.com/2026/09/18/metas-muse-hits-mac-letting-the-ai-take-actions-on-your-computer/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-09-18T15:22:48Z",
+      "snippet": "Muse is now available on the Mac, where it can work with your files and apps to take action on your behalf."
+    },
+    {
+      "title": "Robinhood\u2019s Abhishek Fatehpuria on winning the modern financial consumer at TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/09/18/robinhoods-abhishek-fatehpuria-on-winning-the-modern-financial-consumer-at-techcrunch-disrupt-2026/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-09-18T15:00:00Z",
+      "snippet": "Robinhood\u2019s Abhishek Fatehpuria on winning the modern financial consumer at TechCrunch Disrupt 2026. Register now to save up to $200 before September 25 at 11:59 p.m. PT."
+    },
+    {
+      "title": "Researchers used Anthropic\u2019s Claude to hack into OpenAI",
+      "url": "https://techcrunch.com/2026/09/18/researchers-used-anthropics-claude-to-hack-into-openai/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-09-18T14:00:14Z",
+      "snippet": "Security researchers used Anthropic\u2019s Claude to exploit vulnerabilities in OpenAI\u2019s systems, taking over employee accounts and gaining access to an internal code repository before reporting the flaws."
+    },
+    {
+      "title": "The clock is ticking: Final 24 hours to exhibit at TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/09/18/final-24-hours-to-exhibit-at-techcrunch-disrupt-2026/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-09-18T14:00:00Z",
+      "snippet": "Last day to book your exhibit table at Disrupt is today, September 18. Get your startup in front of 10,000+ founders, investors, operators, and tech leaders on October 13\u201315."
+    },
+    {
       "title": "Flash floods can strike without warning \u2014 this new technology could change that",
       "url": "https://www.theverge.com/science/997083/flash-flood-warning-tacls-satellite-machine-learning",
       "source": "The Verge",
       "publishedAt": "2026-09-18T11:00:00Z",
       "snippet": "On the morning of June 9th, Laura Lin was working from her home in Lanesville, a rural southern Indiana town about 15 miles from the Kentucky border. She was on a Zoom call, unaware that the heavy rai"
+    },
+    {
+      "title": "Crusoe raises $3.9B to build massive data centers and small modular \u2018AI factories\u2019",
+      "url": "https://techcrunch.com/2026/09/17/crusoe-raises-3-9b-to-build-massive-data-centers-and-small-modular-ai-factories/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-09-17T23:25:52Z",
+      "snippet": "The round values the data center giant at $30.9 billion."
+    },
+    {
+      "title": "Google DeepMind launches institute to widen the AGI debate",
+      "url": "https://techcrunch.com/2026/09/17/google-deepmind-launches-institute-to-widen-the-agi-debate/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-09-17T23:21:17Z",
+      "snippet": "The new institute aims to surface differing views between Google, Google DeepMind, and the broader global research community around AGI. \"They will not always agree, and they will likely change their "
     },
     {
       "title": "The AI Superintelligence Slowdown",
@@ -63,13 +175,6 @@
       "source": "The Verge",
       "publishedAt": "2026-09-17T14:00:00Z",
       "snippet": "Pew Research has published a new global survey that sheds light on how people view AI, including its impact on jobs, life in general, and income inequality. The survey questioned 42,151 people across "
-    },
-    {
-      "title": "Inside the suddenly explosive world of AI safety",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/996563/ai-safety-research-metr-redwood-openai-anthropic",
-      "source": "The Verge",
-      "publishedAt": "2026-09-17T11:30:00Z",
-      "snippet": "On a sunny July day in Berkeley, California, the country's top AI safety researchers gathered on an unmarked floor of an unmarked building. They had come together for a \"war room\" to dissect the high-"
     }
   ],
   "trending": [
