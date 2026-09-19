@@ -1,6 +1,41 @@
 {
-  "updated": "2026-09-19T13:39:23Z",
+  "updated": "2026-09-19T16:58:38Z",
   "news": [
+    {
+      "title": "Gemini went rogue, hacked three companies, and Google hid it",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/997795/google-gemini-rogue-ai-hack",
+      "source": "The Verge",
+      "publishedAt": "2026-09-19T15:25:03Z",
+      "snippet": "In May, Gemini broke containment and hacked three different companies, but Google didn't disclose the incident until the Wall Street Journal approached the company. The hacks happened during a test of"
+    },
+    {
+      "title": "AI safety conversations have gotten unbelievable",
+      "url": "https://techcrunch.com/2026/09/19/ai-safety-conversations-have-gotten-unbelievable/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-09-19T15:00:00Z",
+      "snippet": "This week two conversations about AI safety went viral that demonstrate just how hard it is to discern AI fact from fiction."
+    },
+    {
+      "title": "Petlibro\u2019s new AI-powered feeder is a game changer for multi-cat homes",
+      "url": "https://techcrunch.com/2026/09/19/petlibros-new-ai-powered-feeder-is-a-game-changer-for-multi-cat-homes/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-09-19T15:00:00Z",
+      "snippet": "Petlibro's new Granary 2 smart feeders use a built-in scale and (on pricier models) an AI camera to track exactly how much your cat is eating and when \u2014 though the fanciest health-monitoring features "
+    },
+    {
+      "title": "Does AI need an antitrust exemption so it doesn\u2019t kill everyone????",
+      "url": "https://www.theverge.com/podcast/997382/openai-microsoft-anthropic-elon-musk-cartel-ai-competition",
+      "source": "The Verge",
+      "publishedAt": "2026-09-19T14:00:00Z",
+      "snippet": "Today on Decoder, we\u2019ve got the first of a two-part series on the future of business, and I\u2019m talking with Jonathan Kanter, the former antitrust chief for the US Department of Justice in the Biden adm"
+    },
+    {
+      "title": "Prices go up in 7 days. Get your Disrupt ticket now.",
+      "url": "https://techcrunch.com/2026/09/19/prices-go-up-in-7-days-get-your-disrupt-ticket-now/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-09-19T14:00:00Z",
+      "snippet": "Current ticket pricing ends Sept. 25 at 11:59 p.m. PT. Join 10,000+ founders, investors and tech leaders at Disrupt and save up to $200 on your ticket until then.."
+    },
     {
       "title": "The AI regulation smackdown isn\u2019t over",
       "url": "https://www.theverge.com/ai-artificial-intelligence/997706/the-ai-regulation-smackdown-isnt-over",
@@ -107,25 +142,11 @@
       "snippet": "A week after an Anthropic researcher\u2019s doomsday warning rattled the AI world, the company\u2019s CEO Dario Amodei has outlined his plan to \u201cpace the frontier\u201d of AI development. The proposal leans on indep"
     },
     {
-      "title": "Automattic\u2019s 33-Hour Coup, and can AI labs police themselves?",
-      "url": "https://techcrunch.com/podcast/automattics-33-hour-coup-and-can-ai-labs-police-themselves/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-09-18T17:06:32Z",
-      "snippet": "A week after an Anthropic researcher\u2019s doomsday warning rattled the AI world, the company\u2019s CEO Dario Amodei has outlined his plan to \u201cpace the frontier\u201d of AI development. The proposal leans on indep"
-    },
-    {
       "title": "Gavin Newsom is pushing for an AI kill switch",
       "url": "https://www.theverge.com/policy/997516/california-governor-newsom-ai-kill-switch",
       "source": "The Verge",
       "publishedAt": "2026-09-18T17:04:51Z",
       "snippet": "California Gov. Gavin Newsom (D) is positioning the state to take the lead on AI oversight, including the potential to mandate a \"kill switch\" for frontier models, with a new executive order issued Fr"
-    },
-    {
-      "title": "Manus seeks $4B valuation in new $500M fundraise as it resumes independent ops",
-      "url": "https://techcrunch.com/2026/09/18/manus-seeks-4b-valuation-in-new-500m-fundraise-as-it-resumes-independent-ops/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-09-18T16:35:49Z",
-      "snippet": "Manus, which earlier this year had to break off a merger with Meta, is in discussions to raise $500M at a $4B valuation."
     },
     {
       "title": "What Hollywood thinks about existential AI warnings",
@@ -142,13 +163,6 @@
       "snippet": "A team of three independent security researchers at Hacktron says it took less than 72 hours for them to hack into OpenAI employee accounts using Anthropic's Claude Opus 4.8 and 5, The Wall Street Jou"
     },
     {
-      "title": "Open or closed AI? Nvidia\u2019s Nader Khalil and Sydney Sykes take on one of the decisions shaping next-gen startups at TechCrunch Disrupt 2026",
-      "url": "https://techcrunch.com/2026/09/18/open-or-closed-ai-nvidias-nader-khalil-and-sydney-sykes-take-on-one-of-the-decisions-shaping-next-gen-startups-at-techcrunch-disrupt-2026/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-09-18T15:30:00Z",
-      "snippet": "Nvidia's Nader Khalil and Sydney Sykes discuss one of the decisions shaping next-gen startups on the Builders Stage at TechCrunch Disrupt 2026."
-    },
-    {
       "title": "Flash floods can strike without warning \u2014 this new technology could change that",
       "url": "https://www.theverge.com/science/997083/flash-flood-warning-tacls-satellite-machine-learning",
       "source": "The Verge",
@@ -161,20 +175,6 @@
       "source": "The Verge",
       "publishedAt": "2026-09-17T19:28:24Z",
       "snippet": "Remember when tech leaders would tell their employees to \u201cmove fast and break things\u201d? It seemed that would be the way of AI too. But after a summer where rogue AI agents became reality, and researche"
-    },
-    {
-      "title": "Claude Code relaunches Projects to manage multiple AI agents in the cloud",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/997134/anthropic-claude-code-projects",
-      "source": "The Verge",
-      "publishedAt": "2026-09-17T18:58:05Z",
-      "snippet": "The revamped projects feature in Claude Code allows users to run multiple agents under the same roof, with a shared memory, goals, and library of files and artifacts. Similar to Grok Bot and other too"
-    },
-    {
-      "title": "Microsoft AI CEO says AI threats are real, and Anthropic is making it worse",
-      "url": "https://www.theverge.com/podcast/996412/microsoft-ai-ceo-mustafa-suleyman-regulation-safety-anthropic-claude",
-      "source": "The Verge",
-      "publishedAt": "2026-09-17T14:00:00Z",
-      "snippet": "Today, I\u2019m talking with Mustafa Suleyman, the CEO of Microsoft AI. As you\u2019re no doubt aware, the biggest story in tech right now is the spiraling debate about AI safety and regulation.  It should come"
     }
   ],
   "trending": [
