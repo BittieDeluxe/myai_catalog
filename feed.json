@@ -1,6 +1,34 @@
 {
-  "updated": "2026-09-20T17:15:03Z",
+  "updated": "2026-09-20T20:13:26Z",
   "news": [
+    {
+      "title": "Is the AI industry really ready to slow down?",
+      "url": "https://techcrunch.com/2026/09/20/is-the-ai-industry-really-ready-to-slow-down/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-09-20T18:56:04Z",
+      "snippet": "On Equity, we debated whether Ai executives are serious about wanting to slow down."
+    },
+    {
+      "title": "No one is surprised that Nvidia\u2019s Jensen Huang thinks AI fears are overblown.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown",
+      "source": "The Verge",
+      "publishedAt": "2026-09-20T18:50:18Z",
+      "snippet": "The man who may stand to make the most money from the AI boom seems to think he knows better than anyone else, including researchers who have studied and worked on AI for decades. In an interview with"
+    },
+    {
+      "title": "Vocci\u2019s ring adds a new form factor to meeting note-taking",
+      "url": "https://techcrunch.com/2026/09/20/voccis-ring-adds-a-new-form-factor-to-meeting-note-taking/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-09-20T18:32:52Z",
+      "snippet": "Vocci's lightweight ring costs $249, and might pose some privacy questions"
+    },
+    {
+      "title": "ScrollEd wants to turn textbooks into TikTok",
+      "url": "https://techcrunch.com/2026/09/20/scrolled-wants-to-turn-textbooks-into-tiktok/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-09-20T18:00:00Z",
+      "snippet": "ScrollEd turns textbooks into a scrollable, Instagram-like feed with video, audio, and quizzes. The Palo Alto startup, founded by student co-founders (and spouses) Utsav Gupta and Rebecca Neff, pitche"
+    },
     {
       "title": "Trump now says he wants to form an \u2018AI Force\u2019",
       "url": "https://www.theverge.com/ai-artificial-intelligence/997867/trump-ai-force-ai-czar",
@@ -128,32 +156,11 @@
       "snippet": "AI leaders have been promising that AI is the key to curing human disease. Anthropic researchers have also been warning that AI might kill us all."
     },
     {
-      "title": "AI hallucination nearly triggers US military operation",
-      "url": "https://techcrunch.com/2026/09/18/ai-hallucination-nearly-triggers-us-military-operation/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-09-18T23:12:32Z",
-      "snippet": "\u201cIt\u2019s important for service members to understand the uncertainty inherent to LLMs,\" a GovAI research scholar warns."
-    },
-    {
-      "title": "Anthropic\u2019s first embedded evaluator is \u2026 Accenture?",
-      "url": "https://techcrunch.com/2026/09/18/anthropics-first-embedded-evaluator-is-accenture/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-09-18T21:44:33Z",
-      "snippet": "Accenture is about to take on its most high-risk consulting engagement ever."
-    },
-    {
       "title": "OpenAI and Microsoft knew they were starting a \u2018doom loop\u2019 for the web",
       "url": "https://www.theverge.com/ai-artificial-intelligence/997633/openai-microsoft-chatgpt-ai-new-york-times-doom-loop-theft-google-zero",
       "source": "The Verge",
       "publishedAt": "2026-09-18T21:07:24Z",
       "snippet": "Recently unsealed court documents in the New York Times' case against OpenAI and Microsoft are pretty damning. The companies' own documentation warned that it was starting a \"doom loop\" that would dam"
-    },
-    {
-      "title": "World model companies are keeping a lot of secrets",
-      "url": "https://techcrunch.com/2026/09/18/world-model-companies-are-keeping-a-lot-of-secrets/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-09-18T20:18:14Z",
-      "snippet": "Everyone in the world-models space is sitting on a pile of cash and a ton of buzz, but good luck getting anyone \u2014 from the founders to their own data suppliers \u2014 to tell you what they're actually buil"
     },
     {
       "title": "Virginia governor creates an AI task force and moves to restrain data centers",
@@ -168,13 +175,6 @@
       "source": "The Verge",
       "publishedAt": "2026-09-18T17:04:51Z",
       "snippet": "California Gov. Gavin Newsom (D) is positioning the state to take the lead on AI oversight, including the potential to mandate a \"kill switch\" for frontier models, with a new executive order issued Fr"
-    },
-    {
-      "title": "What Hollywood thinks about existential AI warnings",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/997358/what-hollywood-thinks-about-existential-ai-warnings",
-      "source": "The Verge",
-      "publishedAt": "2026-09-18T16:35:19Z",
-      "snippet": "As the tech sector sounds alarms about AI's potential to destroy humanity, entertainment labor groups are urging the public to stay focused on what's already happening. The Verge reached out to Disney"
     }
   ],
   "trending": [
@@ -189,14 +189,14 @@
       "downloads": 1217204
     },
     {
-      "id": "DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
-      "displayName": "Qwen3.8 27B TURBO Fable Cold Fusion 735 882 Heretic Uncensored NEO CODER MAX MTP",
-      "downloads": 1301417
-    },
-    {
       "id": "unsloth/Qwen3.8-27B-GGUF",
       "displayName": "Qwen3.8 27B",
       "downloads": 6941478
+    },
+    {
+      "id": "DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
+      "displayName": "Qwen3.8 27B TURBO Fable Cold Fusion 735 882 Heretic Uncensored NEO CODER MAX MTP",
+      "downloads": 1301417
     },
     {
       "id": "ukisai/Swift-Qwen3.8-27B-GGUF",
