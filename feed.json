@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-20T23:48:19Z",
+  "updated": "2026-09-21T03:03:10Z",
   "news": [
     {
       "title": "6 days left to save up to $200 to TechCrunch Disrupt 2026",
@@ -219,9 +219,9 @@
       "downloads": 32563
     },
     {
-      "id": "orcarouter/Qwen3.8-27B-Uncensored-GGUF",
-      "displayName": "Qwen3.8 27B Uncensored",
-      "downloads": 285022
+      "id": "abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
+      "displayName": "Qwen Image 2.1 Uncensored",
+      "downloads": 0
     },
     {
       "id": "empero-ai/Qwen3.8-35B-A3B-Distill-GGUF",
