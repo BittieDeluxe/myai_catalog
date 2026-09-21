@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-21T03:03:10Z",
+  "updated": "2026-09-21T09:32:16Z",
   "news": [
     {
       "title": "6 days left to save up to $200 to TechCrunch Disrupt 2026",
@@ -23,7 +23,7 @@
       "snippet": "On Equity, we debated whether Ai executives are serious about wanting to slow down."
     },
     {
-      "title": "No one is surprised that Nvidia\u2019s Jensen Huang thinks AI fears are overblown.",
+      "title": "No one is surprised that Nvidia\u2019s Jensen Huang thinks AI fears are overblown",
       "url": "https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown",
       "source": "The Verge",
       "publishedAt": "2026-09-20T18:50:18Z",
@@ -204,6 +204,11 @@
       "downloads": 136668
     },
     {
+      "id": "abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
+      "displayName": "Qwen Image 2.1 Uncensored",
+      "downloads": 0
+    },
+    {
       "id": "ISTA-DASLab/Qwen3.8-Flash-Next-GSQ-RCO-GGUF",
       "displayName": "Qwen3.8 Flash Next GSQ RCO",
       "downloads": 42965
@@ -219,14 +224,9 @@
       "downloads": 32563
     },
     {
-      "id": "abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
-      "displayName": "Qwen Image 2.1 Uncensored",
-      "downloads": 0
-    },
-    {
-      "id": "empero-ai/Qwen3.8-35B-A3B-Distill-GGUF",
-      "displayName": "Qwen3.8 35B A3B Distill",
-      "downloads": 52476
+      "id": "orcarouter/Qwen3.8-27B-Uncensored-GGUF",
+      "displayName": "Qwen3.8 27B Uncensored",
+      "downloads": 285022
     }
   ]
 }
