@@ -1,6 +1,20 @@
 {
-  "updated": "2026-09-22T07:13:11Z",
+  "updated": "2026-09-22T13:01:57Z",
   "news": [
+    {
+      "title": "Nscale\u2019s IPO will test Wall Street\u2019s appetite for concentrated AI bets once again",
+      "url": "https://techcrunch.com/2026/09/22/nscales-ipo-will-test-wall-streets-appetite-for-concentrated-ai-bets-once-again/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-09-22T12:23:05Z",
+      "snippet": "The British AI data center developer depends on tech giants Microsoft and Anthropic for most of its revenue."
+    },
+    {
+      "title": "Meta patches Muse exploit that let attackers control the AI agent",
+      "url": "https://www.theverge.com/tech/998679/meta-muse-patch-zero-day-exploit-ai-agent",
+      "source": "The Verge",
+      "publishedAt": "2026-09-22T11:53:58Z",
+      "snippet": "Meta has issued a patch for its Muse macOS app following the discovery of a zero-day vulnerability that could allow someone to take control of the AI agent. The bug found by security researcher Patric"
+    },
     {
       "title": "The man who built Apple\u2019s stores doesn\u2019t buy Silicon Valley\u2019s bet on AI shopping",
       "url": "https://techcrunch.com/2026/09/21/the-man-who-built-apples-stores-doesnt-buy-silicon-valleys-bet-on-ai-shopping/",
@@ -142,13 +156,6 @@
       "snippet": "Vocci's lightweight ring costs $249, and might pose some privacy questions."
     },
     {
-      "title": "ScrollEd wants to turn textbooks into TikTok",
-      "url": "https://techcrunch.com/2026/09/20/scrolled-wants-to-turn-textbooks-into-tiktok/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-09-20T18:00:00Z",
-      "snippet": "ScrollEd turns textbooks into a scrollable, Instagram-like feed with video, audio, and quizzes. The Palo Alto startup, founded by student co-founders (and spouses) Utsav Gupta and Rebecca Neff, pitche"
-    },
-    {
       "title": "Trump now says he wants to form an \u2018AI Force\u2019",
       "url": "https://www.theverge.com/ai-artificial-intelligence/997867/trump-ai-force-ai-czar",
       "source": "The Verge",
@@ -168,65 +175,58 @@
       "source": "The Verge",
       "publishedAt": "2026-09-19T20:44:40Z",
       "snippet": "Meta's Muse is apparently an effective AI assistant, but one that's a little creepy. Part of that is because of its new Mac app, which can access Messages, Calendar, and Notes. But for all its smarts,"
-    },
-    {
-      "title": "Gemini went rogue, hacked three companies, and Google hid it",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/997795/google-gemini-rogue-ai-hack",
-      "source": "The Verge",
-      "publishedAt": "2026-09-19T15:25:03Z",
-      "snippet": "In May, Gemini broke containment and hacked three different companies, but Google didn't disclose the incident until the Wall Street Journal approached the company. The hacks happened during a test of"
     }
   ],
   "trending": [
     {
       "id": "prism-ml/Ternary-Bonsai-2-27B-gguf",
       "displayName": "Ternary Bonsai 2 27B",
-      "downloads": 2227879
+      "downloads": 2569604
     },
     {
       "id": "abenzerps/Qwen-Image-2.1-GGUF",
       "displayName": "Qwen Image 2.1",
-      "downloads": 33232
+      "downloads": 182313
     },
     {
       "id": "ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF",
       "displayName": "Qwen3.8 27B GSQ RCO",
-      "downloads": 1292471
+      "downloads": 1363176
     },
     {
       "id": "DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
       "displayName": "Qwen3.8 27B TURBO Fable Cold Fusion 735 882 Heretic Uncensored NEO CODER MAX MTP",
-      "downloads": 1348712
+      "downloads": 1397909
     },
     {
       "id": "unsloth/Qwen3.8-27B-GGUF",
       "displayName": "Qwen3.8 27B",
-      "downloads": 7039006
-    },
-    {
-      "id": "ukisai/Swift-Qwen3.8-27B-GGUF",
-      "displayName": "Swift Qwen3.8 27B",
-      "downloads": 144372
+      "downloads": 7019401
     },
     {
       "id": "ISTA-DASLab/Qwen3.8-Flash-Next-GSQ-RCO-GGUF",
       "displayName": "Qwen3.8 Flash Next GSQ RCO",
-      "downloads": 53094
+      "downloads": 67988
     },
     {
-      "id": "cyjin-yl/Qwen3.8-27B-Uncensored-Cyber-agentic-imatrix-GGUF",
-      "displayName": "Qwen3.8 27B Uncensored Cyber agentic imatrix",
-      "downloads": 34992
+      "id": "ukisai/Swift-Qwen3.8-27B-GGUF",
+      "displayName": "Swift Qwen3.8 27B",
+      "downloads": 153942
     },
     {
       "id": "HauhauCS/Qwen3.8-27B-Uncensored-HauhauCS-Aggressive-MTP-GGUF",
       "displayName": "Qwen3.8 27B Uncensored HauhauCS Aggressive MTP",
-      "downloads": 2074475
+      "downloads": 2049571
+    },
+    {
+      "id": "cyjin-yl/Qwen3.8-27B-Uncensored-Cyber-agentic-imatrix-GGUF",
+      "displayName": "Qwen3.8 27B Uncensored Cyber agentic imatrix",
+      "downloads": 38149
     },
     {
       "id": "empero-ai/Qwen3.8-35B-A3B-Distill-GGUF",
       "displayName": "Qwen3.8 35B A3B Distill",
-      "downloads": 64967
+      "downloads": 83240
     }
   ]
 }
