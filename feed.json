@@ -1,6 +1,13 @@
 {
-  "updated": "2026-09-21T21:37:42Z",
+  "updated": "2026-09-22T00:32:18Z",
   "news": [
+    {
+      "title": "The man who built Apple\u2019s stores doesn\u2019t buy Silicon Valley\u2019s bet on AI shopping",
+      "url": "https://techcrunch.com/2026/09/21/the-man-who-built-apples-stores-doesnt-buy-silicon-valleys-bet-on-ai-shopping/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-09-21T23:44:28Z",
+      "snippet": "Apple Store architect Ron Johnson says Apple's secret sauce has always been its people."
+    },
     {
       "title": "California tightens rules on AI data center energy and water use",
       "url": "https://www.theverge.com/ai-artificial-intelligence/998453/california-ai-data-center-bills",
@@ -163,13 +170,6 @@
       "snippet": "Meta's Muse is apparently an effective AI assistant, but one that's a little creepy. Part of that is because of its new Mac app, which can access Messages, Calendar, and Notes. But for all its smarts,"
     },
     {
-      "title": "Flock reportedly tries to shrink workforce with employee buyouts",
-      "url": "https://techcrunch.com/2026/09/19/flock-reportedly-tries-to-shrink-workforce-with-employee-buyouts/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-09-19T20:39:13Z",
-      "snippet": "Without buyouts, Flock would \"almost certainly\" need to lay off staff."
-    },
-    {
       "title": "Gemini went rogue, hacked three companies, and Google hid it",
       "url": "https://www.theverge.com/ai-artificial-intelligence/997795/google-gemini-rogue-ai-hack",
       "source": "The Verge",
@@ -194,14 +194,14 @@
       "downloads": 1292471
     },
     {
-      "id": "unsloth/Qwen3.8-27B-GGUF",
-      "displayName": "Qwen3.8 27B",
-      "downloads": 7039006
-    },
-    {
       "id": "DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
       "displayName": "Qwen3.8 27B TURBO Fable Cold Fusion 735 882 Heretic Uncensored NEO CODER MAX MTP",
       "downloads": 1348712
+    },
+    {
+      "id": "unsloth/Qwen3.8-27B-GGUF",
+      "displayName": "Qwen3.8 27B",
+      "downloads": 7039006
     },
     {
       "id": "ukisai/Swift-Qwen3.8-27B-GGUF",
