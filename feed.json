@@ -1,6 +1,13 @@
 {
-  "updated": "2026-09-23T03:56:25Z",
+  "updated": "2026-09-23T09:05:52Z",
   "news": [
+    {
+      "title": "\u2018We\u2019re already fighting yesterday\u2019s battle\u2019: Greece\u2019s prime minister gets candid about AI",
+      "url": "https://techcrunch.com/2026/09/22/were-already-fighting-yesterdays-battle-greeces-prime-minister-gets-candid-about-ai/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-09-23T04:59:08Z",
+      "snippet": "Most leaders on a trade mission stick to the pitch, but when I interviewed Greek Prime Minister Kyriakos Mitsotakis this week, he also admitted that no government is ready for what AI is about to do."
+    },
     {
       "title": "OpenAI wants to consult elite mathematicians about how to not fumble again",
       "url": "https://www.theverge.com/ai-artificial-intelligence/999167/openai-elite-mathematicians-panel",
@@ -149,13 +156,6 @@
       "snippet": "California Gov. Gavin Newsom has signed seven bills designed to prevent AI data centers from passing utility costs onto residents, as reported earlier by the Los Angeles Times. The package of laws req"
     },
     {
-      "title": "OpenAI forms math advisory group as its AI resolves more than 100 open problems",
-      "url": "https://techcrunch.com/2026/09/21/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-09-21T20:15:58Z",
-      "snippet": "The group won't be given leeway to slow down or redirect OpenAI's ongoing mathematical research."
-    },
-    {
       "title": "Can John Ternus find Apple\u2019s next big thing?",
       "url": "https://www.theverge.com/podcast/996874/apple-john-ternus-tim-cook-mark-gurman-future-ai-siri-iphone",
       "source": "The Verge",
@@ -204,14 +204,19 @@
       "downloads": 1397909
     },
     {
+      "id": "ukisai/Swift-Qwen3.8-27B-GGUF",
+      "displayName": "Swift Qwen3.8 27B",
+      "downloads": 153942
+    },
+    {
       "id": "ISTA-DASLab/Qwen3.8-Flash-Next-GSQ-RCO-GGUF",
       "displayName": "Qwen3.8 Flash Next GSQ RCO",
       "downloads": 67988
     },
     {
-      "id": "ukisai/Swift-Qwen3.8-27B-GGUF",
-      "displayName": "Swift Qwen3.8 27B",
-      "downloads": 153942
+      "id": "pottokao/Qwen-Image-2.1-Text-Encoder-Heretic-GGUF",
+      "displayName": "Qwen Image 2.1 Text Encoder Heretic",
+      "downloads": 34059
     },
     {
       "id": "HauhauCS/Qwen3.8-27B-Uncensored-HauhauCS-Aggressive-MTP-GGUF",
@@ -222,11 +227,6 @@
       "id": "empero-ai/Qwen3.8-35B-A3B-Distill-GGUF",
       "displayName": "Qwen3.8 35B A3B Distill",
       "downloads": 83240
-    },
-    {
-      "id": "dealignai/Bonsai-2-27B-Ternary-CRACK-GGUF",
-      "displayName": "Bonsai 2 27B Ternary CRACK",
-      "downloads": 38424
     }
   ]
 }
