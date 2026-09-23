@@ -1,6 +1,13 @@
 {
-  "updated": "2026-09-22T23:57:49Z",
+  "updated": "2026-09-23T03:56:25Z",
   "news": [
+    {
+      "title": "OpenAI wants to consult elite mathematicians about how to not fumble again",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/999167/openai-elite-mathematicians-panel",
+      "source": "The Verge",
+      "publishedAt": "2026-09-23T00:17:17Z",
+      "snippet": "After turning a string of spectacular mathematical results into a reputational crisis, OpenAI is consulting human mathematicians to help it figure out a less disastrous path forward. On Monday, the co"
+    },
     {
       "title": "TechCrunch Founder Summit\u2019s agenda revealed: Unlock fundraising, hiring, and AI insights in Boston on November 4",
       "url": "https://techcrunch.com/2026/09/22/techcrunch-founder-summits-agenda-revealed-unlock-fundraising-hiring-and-ai-insights-in-boston-on-november-4/",
@@ -168,13 +175,6 @@
       "source": "The Verge",
       "publishedAt": "2026-09-21T10:18:06Z",
       "snippet": "Governments need to rein in increasingly capable AI agents before their risks are fully understood, a United Nations scientific panel warned in the global organization's first major assessment of Open"
-    },
-    {
-      "title": "Amazon blocks Meta\u2019s Muse AI agent",
-      "url": "https://www.theverge.com/tech/998078/amazon-blocks-meta-muse-ai-agent-shopping",
-      "source": "The Verge",
-      "publishedAt": "2026-09-21T09:21:47Z",
-      "snippet": "Meta's Muse AI agent has been blocked from shopping Amazon on behalf of its users, GeekWire reports. A popup message started appearing on Sunday for Muse users saying that \"continued access by an unau"
     }
   ],
   "trending": [
