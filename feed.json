@@ -1,6 +1,20 @@
 {
-  "updated": "2026-09-23T19:24:42Z",
+  "updated": "2026-09-23T22:38:29Z",
   "news": [
+    {
+      "title": "Anthropic says its biology lab has already found something big",
+      "url": "https://techcrunch.com/2026/09/23/anthropic-says-its-biology-lab-has-already-found-something-big/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-09-23T22:17:39Z",
+      "snippet": "But maybe the biggest reveal is that Anthropic has not let Claude run loose in its biology lab. Humans are still, so far, in the loop."
+    },
+    {
+      "title": "Enveda secures $311M to bring more nature-derived AI drugs into clinical trials",
+      "url": "https://techcrunch.com/2026/09/23/enveda-secures-311m-to-bring-more-nature-derived-ai-drugs-into-clinical-trials/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-09-23T19:31:28Z",
+      "snippet": "The round valued the AI biotech at $2 billion. It is currently testing drugs that treat skin conditions and preserve weight loss after stopping GLP-1s."
+    },
     {
       "title": "Meta\u2019s AI agent is a cute little guy who\u2019s great at spending my money",
       "url": "https://www.theverge.com/ai-artificial-intelligence/999526/meta-muse-ai-agent-hands-on-shopping",
@@ -149,20 +163,6 @@
       "snippet": "Qualcomm said that its new top chip can run 30B mixture-of-expert model locally."
     },
     {
-      "title": "Meta admits Muse\u2019s likeness to OpenClaw isn\u2019t a coincidence",
-      "url": "https://techcrunch.com/2026/09/22/meta-admits-muses-likeness-to-openclaw-isnt-a-coincidence/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-09-22T19:09:11Z",
-      "snippet": "Meta says Muse was built from scratch, but acknowledges the AI assistant was \"heavily inspired\" by OpenClaw \u2014 down to some of its workspace filenames and content."
-    },
-    {
-      "title": "OpenAI launches GPT-6 Sol and Luna, boasting lower cost and fewer mistakes",
-      "url": "https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-09-22T18:00:00Z",
-      "snippet": "OpenAI is launching two new models, which it says are cut from the same cloth as Astra."
-    },
-    {
       "title": "Andreessen Horowitz is launching an \u2018academy\u2019 with no homework and partnerships with Palantir, Google, and Meta",
       "url": "https://www.theverge.com/ai-artificial-intelligence/998813/andreessen-horowitz-ai-academy",
       "source": "The Verge",
@@ -224,9 +224,9 @@
       "downloads": 26739
     },
     {
-      "id": "empero-ai/Qwen3.8-35B-A3B-Distill-GGUF",
-      "displayName": "Qwen3.8 35B A3B Distill",
-      "downloads": 95061
+      "id": "dealignai/Bonsai-2-27B-Ternary-CRACK-GGUF",
+      "displayName": "Bonsai 2 27B Ternary CRACK",
+      "downloads": 44106
     }
   ]
 }
