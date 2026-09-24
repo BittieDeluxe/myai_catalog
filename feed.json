@@ -1,6 +1,13 @@
 {
-  "updated": "2026-09-24T19:45:24Z",
+  "updated": "2026-09-24T22:57:50Z",
   "news": [
+    {
+      "title": "Gemini 3.8 Live with Live Avatar gives Google\u2019s AI a face",
+      "url": "https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face",
+      "source": "The Verge",
+      "publishedAt": "2026-09-24T19:59:26Z",
+      "snippet": "Google's new Gemini 3.8 Live update lets users have conversations with the model while watching an animated AI persona respond in real time. The \"Live Avatar\" will lip-sync and show different facial e"
+    },
     {
       "title": "Bring your co-founder, partner, or colleague and get 50% off a second TechCrunch Disrupt 2026 pass",
       "url": "https://techcrunch.com/2026/09/24/bring-your-co-founder-partner-or-colleague-and-get-50-off-a-second-techcrunch-disrupt-2026-pass/",
@@ -125,7 +132,7 @@
       "url": "https://techcrunch.com/2026/09/24/ando-eyes-slack-as-it-builds-team-messaging-platform-for-humans-and-agents-to-work-together/",
       "source": "TechCrunch",
       "publishedAt": "2026-09-24T14:31:00Z",
-      "snippet": "Ando has raised $20 million in pre-seed and seed funding from investors including Accel, Index Ventures, and Emergence."
+      "snippet": "The app gives agents their own identities and inboxes and lets them partake in conversations as naturally as people can."
     },
     {
       "title": "Why can\u2019t we just keep rogue AIs off the internet?",
@@ -154,13 +161,6 @@
       "source": "The Verge",
       "publishedAt": "2026-09-24T14:15:05Z",
       "snippet": "Flock is in the hot seat in Washington, even if its CEO declined to actually face senators at a hearing about its \"AI Surveillance Network\" on Wednesday. \"There's many players in this industry, but th"
-    },
-    {
-      "title": "I have some questions for Mark Zuckerberg",
-      "url": "https://www.theverge.com/podcast/999383/mark-zuckerberg-meta-glasses-ai-teen-safety-surveillance-data-centers",
-      "source": "The Verge",
-      "publishedAt": "2026-09-24T14:15:00Z",
-      "snippet": "It\u2019s a big week for Meta. The company just kicked off its big Connect conference on Wednesday, and the new Muse AI agent appears to be an early hit. I\u2019ve been using it \u2014 it is surprisingly good.  CEO "
     },
     {
       "title": "2 days left to save up to $200 on a TechCrunch Disrupt 2026 pass \u2014 reason 4 of 5 to attend",
@@ -194,14 +194,14 @@
       "downloads": 1465429
     },
     {
-      "id": "unsloth/Qwen3.8-27B-GGUF",
-      "displayName": "Qwen3.8 27B",
-      "downloads": 7063930
-    },
-    {
       "id": "DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
       "displayName": "Qwen3.8 27B TURBO Fable Cold Fusion 735 882 Heretic Uncensored NEO CODER MAX MTP",
       "downloads": 1502387
+    },
+    {
+      "id": "unsloth/Qwen3.8-27B-GGUF",
+      "displayName": "Qwen3.8 27B",
+      "downloads": 7063930
     },
     {
       "id": "nvidia/Nemotron-3-Diarization",
