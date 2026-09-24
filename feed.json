@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-24T02:54:09Z",
+  "updated": "2026-09-24T08:57:34Z",
   "news": [
     {
       "title": "Everything new coming to Meta\u2019s AI agent Muse",
@@ -209,14 +209,14 @@
       "downloads": 74291
     },
     {
+      "id": "nvidia/Nemotron-3-Diarization",
+      "displayName": "Nemotron 3 Diarization",
+      "downloads": 27
+    },
+    {
       "id": "ukisai/Swift-Qwen3.8-27B-GGUF",
       "displayName": "Swift Qwen3.8 27B",
       "downloads": 168762
-    },
-    {
-      "id": "ISTA-DASLab/Qwen3.8-Flash-Next-GSQ-RCO-GGUF",
-      "displayName": "Qwen3.8 Flash Next GSQ RCO",
-      "downloads": 80659
     },
     {
       "id": "unsloth/Qwen-Image-2.1-GGUF",
@@ -224,9 +224,9 @@
       "downloads": 26739
     },
     {
-      "id": "dealignai/Bonsai-2-27B-Ternary-CRACK-GGUF",
-      "displayName": "Bonsai 2 27B Ternary CRACK",
-      "downloads": 44106
+      "id": "ISTA-DASLab/Qwen3.8-Flash-Next-GSQ-RCO-GGUF",
+      "displayName": "Qwen3.8 Flash Next GSQ RCO",
+      "downloads": 80659
     }
   ]
 }
