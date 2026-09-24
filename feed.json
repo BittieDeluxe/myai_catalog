@@ -1,6 +1,69 @@
 {
-  "updated": "2026-09-23T22:38:29Z",
+  "updated": "2026-09-24T02:54:09Z",
   "news": [
+    {
+      "title": "Everything new coming to Meta\u2019s AI agent Muse",
+      "url": "https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-09-24T01:13:32Z",
+      "snippet": "CEO Mark Zuckerberg kicked off the company\u2019s annual Connect event in Menlo Park on Wednesday with a keynote that made one thing clear: Meta is going all-in on Muse. It's even coming to Meta's AI glass"
+    },
+    {
+      "title": "Meta made a Tamagotchi-like wearable for its Muse AI agent",
+      "url": "https://techcrunch.com/2026/09/23/meta-made-a-tamagotchi-like-wearable-for-its-muse-ai-agent/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-09-24T00:46:17Z",
+      "snippet": "The tiny hardware device creates  another mobile home for its AI agent Muse."
+    },
+    {
+      "title": "Meta is making a standalone Muse AI gadget",
+      "url": "https://www.theverge.com/tech/999750/muse-charm-meta-ai-hardware",
+      "source": "The Verge",
+      "publishedAt": "2026-09-24T00:15:20Z",
+      "snippet": "Meta is building a dedicated hardware device for its new Muse AI agent. The product, called Muse Charm, was briefly shown off by Meta CEO Mark Zuckerberg at the end of tonight's Meta Connect presentat"
+    },
+    {
+      "title": "Muse is coming to Meta smart glasses",
+      "url": "https://www.theverge.com/tech/999673/meta-connect-2026-muse-glasses-features",
+      "source": "The Verge",
+      "publishedAt": "2026-09-23T23:40:56Z",
+      "snippet": "Just a couple of weeks after launching Muse, Meta announced that it's \"working on\" bringing the agent to its smart glasses, including the new glasses it unveiled at Meta Connect. Users will be able to"
+    },
+    {
+      "title": "Meta introduces camera-free AI glasses",
+      "url": "https://techcrunch.com/2026/09/23/meta-introduces-camera-free-ai-glasses/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-09-23T23:39:44Z",
+      "snippet": "Meta says the camera-free glasses will be lighter and have up to 12 hours battery life."
+    },
+    {
+      "title": "Meta ditches the camera on its newest smart glasses",
+      "url": "https://www.theverge.com/tech/999281/ray-ban-meta-audio-glasses-meta-connect-2026",
+      "source": "The Verge",
+      "publishedAt": "2026-09-23T23:37:17Z",
+      "snippet": "Walking around Meta Connect 2026, everyone's sporting smart glasses in all sorts of shapes, colors, and sizes. It's a marked difference here, a tech bubble where \"pervert glasses\" are not a concern. O"
+    },
+    {
+      "title": "Meta is making Muse more powerful and will let you video chat with it, too",
+      "url": "https://www.theverge.com/tech/999454/meta-muse-ai-agent-video-chat-connect-2026",
+      "source": "The Verge",
+      "publishedAt": "2026-09-23T23:19:42Z",
+      "snippet": "Meta is quickly iterating on its new Muse AI agent, announcing a bunch of updates today that make the bot more capable and able to chat with you in more ways. Muse agents are getting their own email a"
+    },
+    {
+      "title": "Meta Connect 2026: The biggest news and announcements",
+      "url": "https://www.theverge.com/tech/998480/meta-connect-2026-biggest-news-announcements",
+      "source": "The Verge",
+      "publishedAt": "2026-09-23T22:45:00Z",
+      "snippet": "It\u2019s about time for Meta Connect, the company\u2019s annual product launch event. This year, given the company\u2019s major focus on AI and wearables like smart glasses, it seems likely that we\u2019ll see updates f"
+    },
+    {
+      "title": "Meta Connect 2026 live blog: On the ground at Mark Zuckerberg\u2019s next big product launch",
+      "url": "https://www.theverge.com/tech/998457/meta-connect-2026-live-blog-mark-zuckerberg-keynote",
+      "source": "The Verge",
+      "publishedAt": "2026-09-23T22:30:00Z",
+      "snippet": "It's time once again for Meta's annual September product launch event, and The Verge is on the ground in Menlo Park to cover the show live. Meta says that today's keynote by Mark Zuckerberg will be ab"
+    },
     {
       "title": "Anthropic says its biology lab has already found something big",
       "url": "https://techcrunch.com/2026/09/23/anthropic-says-its-biology-lab-has-already-found-something-big/",
@@ -65,13 +128,6 @@
       "snippet": "Built directly into the YouTube Music app, Ask Music lets users describe what they want to hear in everyday language rather than searching for individual songs or artists."
     },
     {
-      "title": "YouTube is building AI creator tools that do almost everything for them",
-      "url": "https://www.theverge.com/tech/999140/made-on-youtube-creator-tools-ai-thumbnails-tests",
-      "source": "The Verge",
-      "publishedAt": "2026-09-23T14:30:00Z",
-      "snippet": "Part of the job of a content creator is to figure out how to get their work in front of the most people. Cracking - or fighting - the algorithm has historically been a frustration for creators, but Yo"
-    },
-    {
       "title": "YouTube will let you build your own algorithm with AI",
       "url": "https://techcrunch.com/2026/09/23/youtube-will-let-you-build-your-own-algorithm-with-ai/",
       "source": "TechCrunch",
@@ -114,67 +170,11 @@
       "snippet": "Ema has raised $140 million to date and has more than 50 enterprise customers, including Google and Microsoft."
     },
     {
-      "title": "OpenAI nabs key Patreon execs ahead of upcoming announcement",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/999249/openai-creators-patreon-execs-hire-sam-yam",
-      "source": "The Verge",
-      "publishedAt": "2026-09-23T11:02:39Z",
-      "snippet": "OpenAI has hired three former Patreon execs to anchor its product strategy for creators. After starting the creator subscription platform 13 years ago, cofounder and technology chief Sam Yam announced"
-    },
-    {
       "title": "\u2018We\u2019re already fighting yesterday\u2019s battle\u2019: Greece\u2019s prime minister gets candid about AI",
       "url": "https://techcrunch.com/2026/09/22/were-already-fighting-yesterdays-battle-greeces-prime-minister-gets-candid-about-ai/",
       "source": "TechCrunch",
       "publishedAt": "2026-09-23T04:59:08Z",
       "snippet": "Most leaders on a trade mission stick to the pitch, but when I interviewed Greek Prime Minister Kyriakos Mitsotakis this week, he also admitted that no government is ready for what AI is about to do."
-    },
-    {
-      "title": "OpenAI wants to consult elite mathematicians about how to not fumble again",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/999167/openai-elite-mathematicians-panel",
-      "source": "The Verge",
-      "publishedAt": "2026-09-23T00:17:17Z",
-      "snippet": "After turning a string of spectacular mathematical results into a reputational crisis, OpenAI is consulting human mathematicians to help it figure out a less disastrous path forward. On Monday, the co"
-    },
-    {
-      "title": "TechCrunch Founder Summit\u2019s agenda revealed: Unlock fundraising, hiring, and AI insights in Boston on November 4",
-      "url": "https://techcrunch.com/2026/09/22/techcrunch-founder-summits-agenda-revealed-unlock-fundraising-hiring-and-ai-insights-in-boston-on-november-4/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-09-22T23:21:49Z",
-      "snippet": "Founders shouldn't have to learn the hardest lessons the hardest way. TechCrunch Founder Summit is designed to make the challenges of starting a company easier and the highs that much greater."
-    },
-    {
-      "title": "Snorkel AI triples valuation to $3.5B as demand for AI training data booms",
-      "url": "https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-09-22T21:56:43Z",
-      "snippet": "The seven-year-old startup has raised a $350 million Series E to fuel its data-as-a-service approach."
-    },
-    {
-      "title": "Rabbit\u2019s new AI agent doesn\u2019t need an R1 to run",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/999094/rabbit-ai-agent-os3",
-      "source": "The Verge",
-      "publishedAt": "2026-09-22T20:52:40Z",
-      "snippet": "Rabbit, the company behind the underwhelming R1 device, is rolling out a standalone AI agent that you don't need its hardware to use, as reported earlier by Wired. The startup says its new OS3 \"agenti"
-    },
-    {
-      "title": "Qualcomm launches two new smartphone chips with emphasis on AI",
-      "url": "https://techcrunch.com/2026/09/22/qualcomm-launches-two-new-smartphone-chips-with-emphasis-on-ai/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-09-22T20:00:00Z",
-      "snippet": "Qualcomm said that its new top chip can run 30B mixture-of-expert model locally."
-    },
-    {
-      "title": "Andreessen Horowitz is launching an \u2018academy\u2019 with no homework and partnerships with Palantir, Google, and Meta",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/998813/andreessen-horowitz-ai-academy",
-      "source": "The Verge",
-      "publishedAt": "2026-09-22T16:34:08Z",
-      "snippet": "Venture capital firm Andreessen Horowitz (a16z) is creating an \"academy\" positioned as a pipeline for young people to build or join a Silicon Valley startup. The \"Horowitz Andreessen Academy\" will lau"
-    },
-    {
-      "title": "Anthropic launches Claude Opus 5.5 with stricter safeguards for cybersecurity",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/998868/anthropic-claude-opus-5-5-cybersecurity",
-      "source": "The Verge",
-      "publishedAt": "2026-09-22T16:30:00Z",
-      "snippet": "Anthropic says its new Claude Opus 5.5 model comes with stronger safeguards in the wake of recent rogue AI hacking incidents. In an announcement on Tuesday, Anthropic says Opus 5.5 comes with improvem"
     }
   ],
   "trending": [
@@ -204,14 +204,14 @@
       "downloads": 7134167
     },
     {
-      "id": "ukisai/Swift-Qwen3.8-27B-GGUF",
-      "displayName": "Swift Qwen3.8 27B",
-      "downloads": 168762
-    },
-    {
       "id": "pottokao/Qwen-Image-2.1-Text-Encoder-Heretic-GGUF",
       "displayName": "Qwen Image 2.1 Text Encoder Heretic",
       "downloads": 74291
+    },
+    {
+      "id": "ukisai/Swift-Qwen3.8-27B-GGUF",
+      "displayName": "Swift Qwen3.8 27B",
+      "downloads": 168762
     },
     {
       "id": "ISTA-DASLab/Qwen3.8-Flash-Next-GSQ-RCO-GGUF",
