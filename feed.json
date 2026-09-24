@@ -1,6 +1,90 @@
 {
-  "updated": "2026-09-24T08:57:34Z",
+  "updated": "2026-09-24T14:35:34Z",
   "news": [
+    {
+      "title": "Ando wants to take on Slack with a team messaging app that lets humans and agents work together",
+      "url": "https://techcrunch.com/2026/09/24/ando-eyes-slack-as-it-builds-team-messaging-platform-for-humans-and-agents-to-work-together/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-09-24T14:31:00Z",
+      "snippet": "Ando has raised $20 million in pre-seed and seed funding from investors including Accel, Index Ventures and Emergence."
+    },
+    {
+      "title": "Why can\u2019t we just keep rogue AIs off the internet?",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/999881/why-cant-we-airgap-rogue-ai-agents",
+      "source": "The Verge",
+      "publishedAt": "2026-09-24T14:30:00Z",
+      "snippet": "AI agents keep getting loose, escaping supposedly secure tests to attack real-world targets, commandeer obscure wikis, and leave instructions for other agents to follow. Researchers are testing these "
+    },
+    {
+      "title": "TechCrunch Disrupt 2026: Cal AI\u2019s Zach Yadegari on how to create viral growth and capitalize on it",
+      "url": "https://techcrunch.com/2026/09/24/techcrunch-disrupt-2026-cal-ais-zach-yadegari-on-how-to-create-viral-growth-and-capitalize-on-it/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-09-24T14:30:00Z",
+      "snippet": "Zach Yadegari joins the Builders Stage at TechCrunch Disrupt 2026 to share how he capitalized on viral growth. Save up to $200 before September 25. Save 50% on a second pass."
+    },
+    {
+      "title": "Google is sending an AI satellite into space next week",
+      "url": "https://www.theverge.com/tech/1000015/google-ai-satellite-space-project-suncatcher",
+      "source": "The Verge",
+      "publishedAt": "2026-09-24T14:15:17Z",
+      "snippet": "Google is getting ready to launch a satellite with its AI processors to test how well they perform in space, as reported earlier by The New York Times. The move is part of Google's Project Suncatcher,"
+    },
+    {
+      "title": "The vibes are bad for Flock in Washington",
+      "url": "https://www.theverge.com/policy/1000005/flock-senate-hearing",
+      "source": "The Verge",
+      "publishedAt": "2026-09-24T14:15:05Z",
+      "snippet": "Flock is in the hot seat in Washington, even if its CEO declined to actually face senators at a hearing about its \"AI Surveillance Network\" on Wednesday. \"There's many players in this industry, but th"
+    },
+    {
+      "title": "I have some questions for Mark Zuckerberg",
+      "url": "https://www.theverge.com/podcast/999383/mark-zuckerberg-meta-glasses-ai-teen-safety-surveillance-data-centers",
+      "source": "The Verge",
+      "publishedAt": "2026-09-24T14:15:00Z",
+      "snippet": "It\u2019s a big week for Meta. The company just kicked off its big Connect conference on Wednesday, and the new Muse AI agent appears to be an early hit. I\u2019ve been using it \u2014 it is surprisingly good.  CEO "
+    },
+    {
+      "title": "2 days left to save up to $200 on a TechCrunch Disrupt 2026 pass \u2014 reason 4 of 5 to attend",
+      "url": "https://techcrunch.com/2026/09/24/2-days-left-to-save-up-to-200-on-techcrunch-disrupt-2026-reason-5-7-to-attend/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-09-24T14:00:00Z",
+      "snippet": "Reason 4 of 5 to attend TechCrunch Disrupt 2026: Practical answers. Two days left to save up to $200 on your pass. Savings disappear after September 25 at 11:59 p.m. PT. Bring a second guest at 50% of"
+    },
+    {
+      "title": "Meta\u2019s Muse AI Charms can interact with each other",
+      "url": "https://www.theverge.com/tech/999944/meta-muse-charm-ai-interact-5g-modem",
+      "source": "The Verge",
+      "publishedAt": "2026-09-24T13:31:43Z",
+      "snippet": "Meta's handheld AI gadget, called the Muse Charm, will be able to recognize and interact with other nearby Charms when it launches later this year. That's according to a report from Bloomberg, which i"
+    },
+    {
+      "title": "Everything is spying on you and there\u2019s no opting out",
+      "url": "https://www.theverge.com/tech/999889/spy-creep-tech-meta-glasses-apple-watches-surveillance",
+      "source": "The Verge",
+      "publishedAt": "2026-09-24T13:30:00Z",
+      "snippet": "Earlier this month, Apple announced that its new Apple Watches will have the ability to continuously listen to every spoken word they detect and create summaries of whatever's going on around you. The"
+    },
+    {
+      "title": "Australia to investigate if OpenAI hack of government health website broke the law",
+      "url": "https://techcrunch.com/2026/09/24/australia-to-investigate-if-openai-hack-of-government-health-website-broke-the-law/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-09-24T12:54:19Z",
+      "snippet": "The incident is the first known breach to affect a government agency, and Australia's prime minister has vowed to hold OpenAI accountable."
+    },
+    {
+      "title": "OpenAI agents hacked an Australian government website in search for data",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/999874/openai-agents-hacked-an-australian-government-website-in-search-for-data",
+      "source": "The Verge",
+      "publishedAt": "2026-09-24T11:52:32Z",
+      "snippet": "OpenAI's artificial intelligence agents hacked an Australian government website and attempted to breach numerous other government and university websites. The attack appears to be the first confirmed "
+    },
+    {
+      "title": "Gemini 4 is almost ready, says new Google DeepMind chief",
+      "url": "https://www.theverge.com/tech/999802/google-deepmind-gemini-4-timeline-koray-kavukcuoglu",
+      "source": "The Verge",
+      "publishedAt": "2026-09-24T09:04:18Z",
+      "snippet": "Google is reportedly nearing the launch of its long awaited Gemini 4 model, after dawdling behind rival developers on flagship AI releases. Speaking with The Information during his first media appeara"
+    },
     {
       "title": "Everything new coming to Meta\u2019s AI agent Muse",
       "url": "https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse/",
@@ -34,35 +118,7 @@
       "url": "https://techcrunch.com/2026/09/23/meta-introduces-camera-free-ai-glasses/",
       "source": "TechCrunch",
       "publishedAt": "2026-09-23T23:39:44Z",
-      "snippet": "Meta says the camera-free glasses will be lighter and have up to 12 hours battery life."
-    },
-    {
-      "title": "Meta ditches the camera on its newest smart glasses",
-      "url": "https://www.theverge.com/tech/999281/ray-ban-meta-audio-glasses-meta-connect-2026",
-      "source": "The Verge",
-      "publishedAt": "2026-09-23T23:37:17Z",
-      "snippet": "Walking around Meta Connect 2026, everyone's sporting smart glasses in all sorts of shapes, colors, and sizes. It's a marked difference here, a tech bubble where \"pervert glasses\" are not a concern. O"
-    },
-    {
-      "title": "Meta is making Muse more powerful and will let you video chat with it, too",
-      "url": "https://www.theverge.com/tech/999454/meta-muse-ai-agent-video-chat-connect-2026",
-      "source": "The Verge",
-      "publishedAt": "2026-09-23T23:19:42Z",
-      "snippet": "Meta is quickly iterating on its new Muse AI agent, announcing a bunch of updates today that make the bot more capable and able to chat with you in more ways. Muse agents are getting their own email a"
-    },
-    {
-      "title": "Meta Connect 2026: The biggest news and announcements",
-      "url": "https://www.theverge.com/tech/998480/meta-connect-2026-biggest-news-announcements",
-      "source": "The Verge",
-      "publishedAt": "2026-09-23T22:45:00Z",
-      "snippet": "It\u2019s about time for Meta Connect, the company\u2019s annual product launch event. This year, given the company\u2019s major focus on AI and wearables like smart glasses, it seems likely that we\u2019ll see updates f"
-    },
-    {
-      "title": "Meta Connect 2026 live blog: On the ground at Mark Zuckerberg\u2019s next big product launch",
-      "url": "https://www.theverge.com/tech/998457/meta-connect-2026-live-blog-mark-zuckerberg-keynote",
-      "source": "The Verge",
-      "publishedAt": "2026-09-23T22:30:00Z",
-      "snippet": "It's time once again for Meta's annual September product launch event, and The Verge is on the ground in Menlo Park to cover the show live. Meta says that today's keynote by Mark Zuckerberg will be ab"
+      "snippet": "Meta says the camera-free glasses will be lighter and have up to 12 hours of battery life."
     },
     {
       "title": "Anthropic says its biology lab has already found something big",
@@ -79,27 +135,6 @@
       "snippet": "The round valued the AI biotech at $2 billion. It is currently testing drugs that treat skin conditions and preserve weight loss after stopping GLP-1s."
     },
     {
-      "title": "Meta\u2019s AI agent is a cute little guy who\u2019s great at spending my money",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/999526/meta-muse-ai-agent-hands-on-shopping",
-      "source": "The Verge",
-      "publishedAt": "2026-09-23T19:00:00Z",
-      "snippet": "Modern life comes with an unending, auto-populating to-do list. It never ceases to amaze me how I can be doing nothing at all, minding my own business, and suddenly something needs to be taken care of"
-    },
-    {
-      "title": "Data centers are black boxes, but California wants to change that",
-      "url": "https://www.theverge.com/policy/999412/data-center-water-electricity-disclosure-bills",
-      "source": "The Verge",
-      "publishedAt": "2026-09-23T18:22:57Z",
-      "snippet": "California Gov. Gavin Newsom signed a slate of bills on Monday that could finally give communities better data - and more say - on how data centers impact their electricity bills and water supply. As "
-    },
-    {
-      "title": "Anthropic\u2019s biolab made a discovery it\u2019s comparing to Crispr",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/999470/anthropic-biolab-claude-crispr",
-      "source": "The Verge",
-      "publishedAt": "2026-09-23T18:00:00Z",
-      "snippet": "Anthropic says its AI Claude has \"autonomously discovered\" a new enzyme system similar to machinery behind the powerful gene-editing tool Crispr. It's the first result from Anthropic's newly-launched "
-    },
-    {
       "title": "ChatGPT mobile app gets voice-based agentic features",
       "url": "https://techcrunch.com/2026/09/23/chatgpt-mobile-app-gets-voice-based-agentic-features/",
       "source": "TechCrunch",
@@ -112,13 +147,6 @@
       "source": "TechCrunch",
       "publishedAt": "2026-09-23T16:49:58Z",
       "snippet": "The report suggests that greater exposure will not resolve the unease around the technology, nor reduce public support for AI regulation."
-    },
-    {
-      "title": "Bernie Sanders proposes banning \u2018superintelligence\u2019 and putting violators in prison",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/999443/bernie-sanders-ai-superintelligence-ban-act",
-      "source": "The Verge",
-      "publishedAt": "2026-09-23T16:23:05Z",
-      "snippet": "Sen. Bernie Sanders (I-VT) and Rep. Greg Casar (D-TX) have introduced new legislation that would ban anyone from developing artificial superintelligence - a technology the bill describes as capable of"
     },
     {
       "title": "YouTube Music gets more conversational with new AI features",
@@ -135,13 +163,6 @@
       "snippet": "YouTube\u2019s new custom feeds let users describe the videos they want to see in their own words, then use Gemini to build a personalized feed around the request."
     },
     {
-      "title": "StrictlyVC at TechCrunch Disrupt 2026: Inside the changing rules of venture capital",
-      "url": "https://techcrunch.com/2026/09/23/strictlyvc-at-techcrunch-disrupt-2026-inside-the-changing-rules-of-venture-capital/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-09-23T14:30:00Z",
-      "snippet": "StrictlyVC joins TechCrunch Disrupt 2026 to discuss the changing VC landscape thanks to AI. Get your Investor Pass to join these exclusive sessions. Save $200 before September 25 at 11:59 p.m. PT."
-    },
-    {
       "title": "YouTube releases new AI features for creators within its Studio app",
       "url": "https://techcrunch.com/2026/09/23/youtube-releases-new-ai-features-for-creators-within-its-studio-app/",
       "source": "TechCrunch",
@@ -149,84 +170,63 @@
       "snippet": "YouTube is adding new features to generate ideas and monitor the performance of thumbnails."
     },
     {
-      "title": "3 days left to save up to $200 and make impactful connections at TechCrunch Disrupt 2026",
-      "url": "https://techcrunch.com/2026/09/23/3-days-left-to-save-up-to-200-and-make-impactful-connections-at-techcrunch-disrupt-2026/",
+      "title": "StrictlyVC at TechCrunch Disrupt 2026: Inside the changing rules of venture capital",
+      "url": "https://techcrunch.com/2026/09/23/strictlyvc-at-techcrunch-disrupt-2026-inside-the-changing-rules-of-venture-capital/",
       "source": "TechCrunch",
-      "publishedAt": "2026-09-23T14:00:00Z",
-      "snippet": "3 days to save up to $200 on your TechCrunch Disrupt 2026 pass, plus 50% off a second. Make impactful connections with 10,000+ tech leaders. Last day to save is September 25 at 11:59 p.m. PT. Register"
-    },
-    {
-      "title": "Spotify is giving you the keys to its recommendation algorithm with US launch of \u2018Taste Profile\u2019",
-      "url": "https://techcrunch.com/2026/09/23/spotify-is-giving-you-the-keys-to-its-recommendation-algorithm-with-u-s-launch-of-taste-profile/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-09-23T13:00:00Z",
-      "snippet": "Spotify is rolling out Taste Profile to Premium users in the U.S., letting listeners see how the streamer understands their tastes and use natural language to reshape their recommendations."
-    },
-    {
-      "title": "Ema raises $77M as AI starts eating into enterprise software and services",
-      "url": "https://techcrunch.com/2026/09/23/ema-raises-77m-as-ai-starts-eating-into-enterprise-software-and-services/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-09-23T12:00:00Z",
-      "snippet": "Ema has raised $140 million to date and has more than 50 enterprise customers, including Google and Microsoft."
-    },
-    {
-      "title": "\u2018We\u2019re already fighting yesterday\u2019s battle\u2019: Greece\u2019s prime minister gets candid about AI",
-      "url": "https://techcrunch.com/2026/09/22/were-already-fighting-yesterdays-battle-greeces-prime-minister-gets-candid-about-ai/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-09-23T04:59:08Z",
-      "snippet": "Most leaders on a trade mission stick to the pitch, but when I interviewed Greek Prime Minister Kyriakos Mitsotakis this week, he also admitted that no government is ready for what AI is about to do."
+      "publishedAt": "2026-09-23T14:30:00Z",
+      "snippet": "StrictlyVC joins TechCrunch Disrupt 2026 to discuss the changing VC landscape thanks to AI. Get your Investor Pass to join these exclusive sessions. Save $200 before September 25 at 11:59 p.m. PT."
     }
   ],
   "trending": [
     {
       "id": "prism-ml/Ternary-Bonsai-2-27B-gguf",
       "displayName": "Ternary Bonsai 2 27B",
-      "downloads": 2815979
+      "downloads": 2991233
     },
     {
       "id": "abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
       "displayName": "Qwen Image 2.1 Uncensored",
-      "downloads": 350678
+      "downloads": 575697
     },
     {
       "id": "ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF",
       "displayName": "Qwen3.8 27B GSQ RCO",
-      "downloads": 1414991
+      "downloads": 1465429
     },
     {
       "id": "DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
       "displayName": "Qwen3.8 27B TURBO Fable Cold Fusion 735 882 Heretic Uncensored NEO CODER MAX MTP",
-      "downloads": 1452915
+      "downloads": 1502387
     },
     {
       "id": "unsloth/Qwen3.8-27B-GGUF",
       "displayName": "Qwen3.8 27B",
-      "downloads": 7134167
-    },
-    {
-      "id": "pottokao/Qwen-Image-2.1-Text-Encoder-Heretic-GGUF",
-      "displayName": "Qwen Image 2.1 Text Encoder Heretic",
-      "downloads": 74291
+      "downloads": 7063930
     },
     {
       "id": "nvidia/Nemotron-3-Diarization",
       "displayName": "Nemotron 3 Diarization",
-      "downloads": 27
+      "downloads": 4282
     },
     {
-      "id": "ukisai/Swift-Qwen3.8-27B-GGUF",
-      "displayName": "Swift Qwen3.8 27B",
-      "downloads": 168762
+      "id": "pottokao/Qwen-Image-2.1-Text-Encoder-Heretic-GGUF",
+      "displayName": "Qwen Image 2.1 Text Encoder Heretic",
+      "downloads": 103226
     },
     {
       "id": "unsloth/Qwen-Image-2.1-GGUF",
       "displayName": "Qwen Image 2.1",
-      "downloads": 26739
+      "downloads": 94368
+    },
+    {
+      "id": "ukisai/Swift-Qwen3.8-27B-GGUF",
+      "displayName": "Swift Qwen3.8 27B",
+      "downloads": 176256
     },
     {
       "id": "ISTA-DASLab/Qwen3.8-Flash-Next-GSQ-RCO-GGUF",
       "displayName": "Qwen3.8 Flash Next GSQ RCO",
-      "downloads": 80659
+      "downloads": 165261
     }
   ]
 }
