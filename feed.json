@@ -1,6 +1,20 @@
 {
-  "updated": "2026-09-25T19:46:51Z",
+  "updated": "2026-09-25T23:01:36Z",
   "news": [
+    {
+      "title": "Unsecured OpenAI agents posted 53 user images on the internet without the lab\u2019s knowledge",
+      "url": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-09-25T22:20:47Z",
+      "snippet": "AI agents operating in OpenAI's research environment posted user images on public image-hosting sites without the lab's knowledge."
+    },
+    {
+      "title": "Meta opens early access program for new Muse features",
+      "url": "https://techcrunch.com/2026/09/25/meta-opens-early-access-program-for-new-muse-features/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-09-25T20:34:53Z",
+      "snippet": "Anyone interested in joining has to ask Muse to put them on the list."
+    },
     {
       "title": "Anthropic to pay Akamai $11.6 billion over seven years in cloud deal",
       "url": "https://techcrunch.com/2026/09/25/anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal/",
@@ -128,25 +142,11 @@
       "snippet": "After teasing its new Copilot \"super app\" last month, Microsoft is officially unveiling it today. The redesigned Copilot app bundles three AI capabilities into a single interface of chat, coding, and "
     },
     {
-      "title": "Lightspeed targets $250M for new India fund, focusing on early-stage AI",
-      "url": "https://techcrunch.com/2026/09/24/lightspeed-targets-250m-for-new-india-fund-focusing-on-early-stage-ai/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-09-25T05:00:00Z",
-      "snippet": "The venture firm is aligning its India fundraising cycle with its global funds for the first time, as it shifts to a shorter investment period."
-    },
-    {
       "title": "Gemini 3.8 Live with Live Avatar gives Google\u2019s AI a face",
       "url": "https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face",
       "source": "The Verge",
       "publishedAt": "2026-09-24T19:59:26Z",
       "snippet": "Google's new Gemini 3.8 Live update lets users have conversations with the model while watching an animated AI persona respond in real time. The \"Live Avatar\" will lip-sync and show different facial e"
-    },
-    {
-      "title": "Bring your co-founder, partner, or colleague and get 50% off a second TechCrunch Disrupt 2026 pass",
-      "url": "https://techcrunch.com/2026/09/24/bring-your-co-founder-partner-or-colleague-and-get-50-off-a-second-techcrunch-disrupt-2026-pass/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-09-24T19:15:00Z",
-      "snippet": "Buy one pass to TechCrunch Disrupt 2026 and get 50% off a second of the same ticket type. Register before event starts on October 13 at 8 a.m. PT."
     },
     {
       "title": "Jensen Huang talks about AI and climate change like a supervillain",
@@ -204,14 +204,14 @@
       "downloads": 6938321
     },
     {
-      "id": "DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
-      "displayName": "Qwen3.8 27B TURBO Fable Cold Fusion 735 882 Heretic Uncensored NEO CODER MAX MTP",
-      "downloads": 1546398
-    },
-    {
       "id": "pottokao/Qwen-Image-2.1-Text-Encoder-Heretic-GGUF",
       "displayName": "Qwen Image 2.1 Text Encoder Heretic",
       "downloads": 126393
+    },
+    {
+      "id": "DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
+      "displayName": "Qwen3.8 27B TURBO Fable Cold Fusion 735 882 Heretic Uncensored NEO CODER MAX MTP",
+      "downloads": 1546398
     },
     {
       "id": "unsloth/Qwen-Image-2.1-GGUF",
@@ -224,9 +224,9 @@
       "downloads": 242469
     },
     {
-      "id": "ukisai/Swift-Qwen3.8-27B-GGUF",
-      "displayName": "Swift Qwen3.8 27B",
-      "downloads": 181565
+      "id": "HauhauCS/Qwen3.8-27B-Uncensored-HauhauCS-Aggressive-MTP-GGUF",
+      "displayName": "Qwen3.8 27B Uncensored HauhauCS Aggressive MTP",
+      "downloads": 2046752
     }
   ]
 }
