@@ -1,6 +1,34 @@
 {
-  "updated": "2026-09-25T09:18:49Z",
+  "updated": "2026-09-25T14:56:52Z",
   "news": [
+    {
+      "title": "Affected by layoffs? Don\u2019t miss this $75 deal for your TechCrunch Disrupt 2026 Expo+ Pass",
+      "url": "https://techcrunch.com/2026/09/25/disrupt-2026-layoff-expo-plus-passes-available-for-75-dollars/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-09-25T14:15:00Z",
+      "snippet": "Your next opportunity could be one conversation away. Get your Expo+ Pass for just $75. Limited to the first 100 qualifying people."
+    },
+    {
+      "title": "Last 24 hours to save up to $200 on TechCrunch Disrupt 2026. Reason 5/5 to attend: Leave further ahead.",
+      "url": "https://techcrunch.com/2026/09/25/last-24-hours-to-save-up-to-200-on-techcrunch-disrupt-2026-reason-5-5-to-attend/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-09-25T14:00:00Z",
+      "snippet": "Last 24 hours to save up to $200 on your TechCrunch Disrupt 2026 pass. Leave the event further in your startup's trajectory than where you started. Don't miss your chance to save and to push the needl"
+    },
+    {
+      "title": "Can Apple Home\u2019s AI camera features outsmart Amazon\u2019s and Google\u2019s? I put them to the test",
+      "url": "https://www.theverge.com/tech/1000321/apple-intelligence-home-security-camera-amazon-ring-alexa-google-nest-gemini-home-review",
+      "source": "The Verge",
+      "publishedAt": "2026-09-25T13:00:00Z",
+      "snippet": "A few years back, I was at a beachside Easter egg hunt, watching my kids dash through sand dunes searching for sweet treats. My phone buzzed in my pocket; I ignored it. A moment later, it buzzed again"
+    },
+    {
+      "title": "Microsoft thinks its new Copilot \u2018super app\u2019 will be as influential as Office",
+      "url": "https://www.theverge.com/news/1000532/microsoft-copilot-super-app-chat-coding-autopilot",
+      "source": "The Verge",
+      "publishedAt": "2026-09-25T12:00:00Z",
+      "snippet": "After teasing its new Copilot \"super app\" last month, Microsoft is officially unveiling it today. The redesigned Copilot app bundles three AI capabilities into a single interface of chat, coding, and "
+    },
     {
       "title": "Lightspeed targets $250M for new India fund, focusing on early-stage AI",
       "url": "https://techcrunch.com/2026/09/24/lightspeed-targets-250m-for-new-india-fund-focusing-on-early-stage-ai/",
@@ -147,34 +175,6 @@
       "source": "The Verge",
       "publishedAt": "2026-09-24T14:30:00Z",
       "snippet": "AI agents keep getting loose, escaping supposedly secure tests to attack real-world targets, commandeer obscure wikis, and leave instructions for other agents to follow. Researchers are testing these "
-    },
-    {
-      "title": "TechCrunch Disrupt 2026: Cal AI\u2019s Zach Yadegari on how to create viral growth and capitalize on it",
-      "url": "https://techcrunch.com/2026/09/24/techcrunch-disrupt-2026-cal-ais-zach-yadegari-on-how-to-create-viral-growth-and-capitalize-on-it/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-09-24T14:30:00Z",
-      "snippet": "Zach Yadegari joins the Builders Stage at TechCrunch Disrupt 2026 to share how he capitalized on viral growth. Save up to $200 before September 25. Save 50% on a second pass."
-    },
-    {
-      "title": "Google is sending an AI satellite into space next week",
-      "url": "https://www.theverge.com/tech/1000015/google-ai-satellite-space-project-suncatcher",
-      "source": "The Verge",
-      "publishedAt": "2026-09-24T14:15:17Z",
-      "snippet": "Google is getting ready to launch a satellite with its AI processors to test how well they perform in space, as reported earlier by The New York Times. The move is part of Google's Project Suncatcher,"
-    },
-    {
-      "title": "The vibes are bad for Flock in Washington",
-      "url": "https://www.theverge.com/policy/1000005/flock-senate-hearing",
-      "source": "The Verge",
-      "publishedAt": "2026-09-24T14:15:05Z",
-      "snippet": "Flock is in the hot seat in Washington, even if its CEO declined to actually face senators at a hearing about its \"AI Surveillance Network\" on Wednesday. \"There's many players in this industry, but th"
-    },
-    {
-      "title": "2 days left to save up to $200 on a TechCrunch Disrupt 2026 pass \u2014 reason 4 of 5 to attend",
-      "url": "https://techcrunch.com/2026/09/24/2-days-left-to-save-up-to-200-on-techcrunch-disrupt-2026-reason-5-7-to-attend/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-09-24T14:00:00Z",
-      "snippet": "Reason 4 of 5 to attend TechCrunch Disrupt 2026: Practical answers. Two days left to save up to $200 on your pass. Savings disappear after September 25 at 11:59 p.m. PT. Bring a second guest at 50% of"
     }
   ],
   "trending": [
@@ -199,14 +199,14 @@
       "downloads": 11459
     },
     {
-      "id": "DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
-      "displayName": "Qwen3.8 27B TURBO Fable Cold Fusion 735 882 Heretic Uncensored NEO CODER MAX MTP",
-      "downloads": 1546398
-    },
-    {
       "id": "unsloth/Qwen3.8-27B-GGUF",
       "displayName": "Qwen3.8 27B",
       "downloads": 6938321
+    },
+    {
+      "id": "DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
+      "displayName": "Qwen3.8 27B TURBO Fable Cold Fusion 735 882 Heretic Uncensored NEO CODER MAX MTP",
+      "downloads": 1546398
     },
     {
       "id": "pottokao/Qwen-Image-2.1-Text-Encoder-Heretic-GGUF",
