@@ -1,6 +1,13 @@
 {
-  "updated": "2026-09-26T09:01:15Z",
+  "updated": "2026-09-26T14:01:22Z",
   "news": [
+    {
+      "title": "Can Cloudflare CEO Matthew Prince save the web from AI?",
+      "url": "https://www.theverge.com/podcast/1000344/cloudflare-matthew-prince-google-zero-ai-web-advertising",
+      "source": "The Verge",
+      "publishedAt": "2026-09-26T14:00:00Z",
+      "snippet": "Today, I\u2019m talking with Matthew Prince, who is CEO of Cloudflare. This episode is part of a two-part series on the future of business. Matthew last joined us on the show about two and a half years ago"
+    },
     {
       "title": "At Meta Connect, the company\u2019s smart glasses were everywhere",
       "url": "https://techcrunch.com/2026/09/25/at-meta-connect-the-companys-smart-glasses-were-everywhere/",
@@ -168,65 +175,58 @@
       "source": "The Verge",
       "publishedAt": "2026-09-24T17:14:12Z",
       "snippet": "A pair of developers say that with very little prompting, Meta's Muse will share its entire filesystem with you. Peter James and Jonny L. Saunders have said they both independently coaxed Muse into zi"
-    },
-    {
-      "title": "Muse sure looks a lot like OpenClaw",
-      "url": "https://www.theverge.com/report/1000180/muse-openclaw-instinct-lookalike",
-      "source": "The Verge",
-      "publishedAt": "2026-09-24T17:10:38Z",
-      "snippet": "We seem to be entering into an AI agent renaissance. Meta's new consumer-facing AI agent, Muse, topped the App Store charts soon after its release and has 600,000 daily active users in the US, by an A"
     }
   ],
   "trending": [
     {
       "id": "abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
       "displayName": "Qwen Image 2.1 Uncensored",
-      "downloads": 715906
+      "downloads": 876673
     },
     {
       "id": "prism-ml/Ternary-Bonsai-2-27B-gguf",
       "displayName": "Ternary Bonsai 2 27B",
-      "downloads": 3109078
+      "downloads": 3247527
     },
     {
       "id": "nvidia/Nemotron-3-Diarization",
       "displayName": "Nemotron 3 Diarization",
-      "downloads": 11459
+      "downloads": 19620
     },
     {
       "id": "ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF",
       "displayName": "Qwen3.8 27B GSQ RCO",
-      "downloads": 1510016
+      "downloads": 1560929
     },
     {
       "id": "pottokao/Qwen-Image-2.1-Text-Encoder-Heretic-GGUF",
       "displayName": "Qwen Image 2.1 Text Encoder Heretic",
-      "downloads": 126393
+      "downloads": 137283
     },
     {
       "id": "unsloth/Qwen3.8-27B-GGUF",
       "displayName": "Qwen3.8 27B",
-      "downloads": 6938321
-    },
-    {
-      "id": "DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
-      "displayName": "Qwen3.8 27B TURBO Fable Cold Fusion 735 882 Heretic Uncensored NEO CODER MAX MTP",
-      "downloads": 1546398
+      "downloads": 6832629
     },
     {
       "id": "unsloth/Qwen-Image-2.1-GGUF",
       "displayName": "Qwen Image 2.1",
-      "downloads": 130465
+      "downloads": 170469
+    },
+    {
+      "id": "DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
+      "displayName": "Qwen3.8 27B TURBO Fable Cold Fusion 735 882 Heretic Uncensored NEO CODER MAX MTP",
+      "downloads": 1603479
     },
     {
       "id": "ISTA-DASLab/Qwen3.8-Flash-Next-GSQ-RCO-GGUF",
       "displayName": "Qwen3.8 Flash Next GSQ RCO",
-      "downloads": 242469
+      "downloads": 353422
     },
     {
       "id": "HauhauCS/Qwen3.8-27B-Uncensored-HauhauCS-Aggressive-MTP-GGUF",
       "displayName": "Qwen3.8 27B Uncensored HauhauCS Aggressive MTP",
-      "downloads": 2046752
+      "downloads": 2081505
     }
   ]
 }
