@@ -1,12 +1,19 @@
 {
-  "updated": "2026-09-26T03:14:24Z",
+  "updated": "2026-09-26T09:01:15Z",
   "news": [
+    {
+      "title": "At Meta Connect, the company\u2019s smart glasses were everywhere",
+      "url": "https://techcrunch.com/2026/09/25/at-meta-connect-the-companys-smart-glasses-were-everywhere/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-09-26T01:08:57Z",
+      "snippet": "The company behind Facebook and Instagram wants to keep consumers connected to the digital world via its ever-growing line of smart glasses."
+    },
     {
       "title": "Crusoe abandons $1.25B plan to use Boom turbines at AI data centers",
       "url": "https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/",
       "source": "TechCrunch",
       "publishedAt": "2026-09-25T23:11:10Z",
-      "snippet": "Boom Supersonic CEO Blake Scholl said its new stationary power plants were no longer in Crusoe's near-term plans."
+      "snippet": "Boom Supersonic CEO Blake Scholl said the company's new stationary power plants were no longer in Crusoe's near-term plans."
     },
     {
       "title": "Unsecured OpenAI agents posted 53 user images on the internet without the lab\u2019s knowledge",
@@ -119,13 +126,6 @@
       "source": "TechCrunch",
       "publishedAt": "2026-09-25T15:00:00Z",
       "snippet": "At TechCrunch Disrupt 2026, Ricursive Intelligence co-founders Anna Goldie and Azalia Mirhoseini will take the Disrupt Stage to discuss closing the loop between AI and chip development. Save up to $20"
-    },
-    {
-      "title": "Affected by layoffs? Don\u2019t miss this $75 deal for your TechCrunch Disrupt 2026 Expo+ Pass",
-      "url": "https://techcrunch.com/2026/09/25/disrupt-2026-layoff-expo-plus-passes-available-for-75-dollars/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-09-25T14:15:00Z",
-      "snippet": "Your next opportunity could be one conversation away. Get your Expo+ Pass for just $75. Limited to the first 100 qualifying people."
     },
     {
       "title": "Can Apple Home\u2019s AI camera features outsmart Amazon\u2019s and Google\u2019s? I put them to the test",
