@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-27T09:45:45Z",
+  "updated": "2026-09-27T14:57:30Z",
   "news": [
     {
       "title": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
@@ -194,14 +194,14 @@
       "downloads": 22514
     },
     {
-      "id": "ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF",
-      "displayName": "Qwen3.8 27B GSQ RCO",
-      "downloads": 1608439
-    },
-    {
       "id": "pottokao/Qwen-Image-2.1-Text-Encoder-Heretic-GGUF",
       "displayName": "Qwen Image 2.1 Text Encoder Heretic",
       "downloads": 145246
+    },
+    {
+      "id": "ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF",
+      "displayName": "Qwen3.8 27B GSQ RCO",
+      "downloads": 1608439
     },
     {
       "id": "unsloth/Qwen-Image-2.1-GGUF",
