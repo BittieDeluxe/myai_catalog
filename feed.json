@@ -1,6 +1,27 @@
 {
-  "updated": "2026-09-27T19:28:47Z",
+  "updated": "2026-09-27T22:45:54Z",
   "news": [
+    {
+      "title": "Engram is a sampler that turns broken AI hallucinations into music",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1001193/engram-sampler-ai-hallucinations-music",
+      "source": "The Verge",
+      "publishedAt": "2026-09-27T20:46:36Z",
+      "snippet": "Music startup Thoughtful Things has just launched the Kickstarter campaign for its first instrument, Engram. It's a sampler and groovebox that uses AI to mangle incoming audio and even hallucinate com"
+    },
+    {
+      "title": "Anthropic\u2019s CEO is about to have dinner with President Trump",
+      "url": "https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-09-27T20:34:28Z",
+      "snippet": "This will be the first one-on-one meeting between Dario Amodei and Donald Trump"
+    },
+    {
+      "title": "Can Muse overcome Meta\u2019s trust issues?",
+      "url": "https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-09-27T19:57:30Z",
+      "snippet": "On Equity, we discussed how Meta's AI announcement managed to steal the spotlight from OpenAI and Anthropic."
+    },
     {
       "title": "OpenAI agents tried to \u2018bruteforce\u2019 a UN website",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1001178/openai-agents-bruteforce-un-website",
@@ -114,25 +135,11 @@
       "snippet": "The findings highlight how AI-generated and vibe-coded apps can spill and expose users' data when not configured or secured properly."
     },
     {
-      "title": "Astra and Opus just passed Turing\u2019s other test",
-      "url": "https://techcrunch.com/2026/09/25/astra-and-opus-just-passed-turings-other-test/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-09-25T17:24:36Z",
-      "snippet": "Frontier AI models are finishing Alan Turing's World War II codebreaking work."
-    },
-    {
       "title": "Meta makes the Muse filesystem even more accessible",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1000784/meta-muse-filesystem",
       "source": "The Verge",
       "publishedAt": "2026-09-25T16:49:53Z",
       "snippet": "Yesterday, with a little prodding, it was discovered that Meta's Muse would expose its filesystem to curious users. The files offered a fascinating peek under the hood of an AI chatbot, and appeared t"
-    },
-    {
-      "title": "Meta is putting its muscle behind Muse as the AI app takes off",
-      "url": "https://techcrunch.com/2026/09/25/meta-is-putting-its-muscle-behind-muse-as-the-ai-app-takes-off/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-09-25T16:16:52Z",
-      "snippet": "Muse is topping the app store charts and adding users at a rapid clip, while Meta ramps up the personal AI agent's promotion across its own apps and beyond."
     },
     {
       "title": "Sony and UMG are suing Suno again",
@@ -168,13 +175,6 @@
       "source": "The Verge",
       "publishedAt": "2026-09-24T19:59:26Z",
       "snippet": "Google's new Gemini 3.8 Live update lets users have conversations with the model while watching an animated AI persona respond in real time. The \"Live Avatar\" will lip-sync and show different facial e"
-    },
-    {
-      "title": "Jensen Huang talks about AI and climate change like a supervillain",
-      "url": "https://www.theverge.com/tech/1000140/jensen-huang-nvidia-ai-energy-climate-change-supervillain",
-      "source": "The Verge",
-      "publishedAt": "2026-09-24T18:04:44Z",
-      "snippet": "As Jensen Huang puts it, AI can help fight climate change - but only if it inflicts \"an enormous amount of pain and suffering\" first. The Nvidia CEO discussed the future of energy and AI's impact on o"
     }
   ],
   "trending": [
