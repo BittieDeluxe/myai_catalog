@@ -1,6 +1,20 @@
 {
-  "updated": "2026-09-27T14:57:30Z",
+  "updated": "2026-09-27T19:28:47Z",
   "news": [
+    {
+      "title": "OpenAI agents tried to \u2018bruteforce\u2019 a UN website",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1001178/openai-agents-bruteforce-un-website",
+      "source": "The Verge",
+      "publishedAt": "2026-09-27T17:21:07Z",
+      "snippet": "Security researcher Rowan Howard-Jones says that OpenAI agents scanned the UN Conference on Trade and Development's (UNCTAD) statistics site over 16,000 times between April and June. While the inciden"
+    },
+    {
+      "title": "Anthropic\u2019s Dario Amodei gets the SNL treatment",
+      "url": "https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-09-27T16:30:00Z",
+      "snippet": "\"AI is the devil and I its maker.\""
+    },
     {
       "title": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
       "url": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/",
@@ -121,13 +135,6 @@
       "snippet": "Muse is topping the app store charts and adding users at a rapid clip, while Meta ramps up the personal AI agent's promotion across its own apps and beyond."
     },
     {
-      "title": "Meta\u2019s AI Tamagotchi bet is\u2026working?",
-      "url": "https://techcrunch.com/video/will-metas-ai-tamagotchi-bet-isworking/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-09-25T16:00:00Z",
-      "snippet": "When AI leaders at OpenAI and Anthropic started talking about \u201cpacing the frontier,\u201d maybe someone should have asked: what pace? Now it\u2019s turned into model drop week for both companies as Anthropic ro"
-    },
-    {
       "title": "Sony and UMG are suing Suno again",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1000758/suno-sony-umg-lawsuit-ai-music",
       "source": "The Verge",
@@ -168,13 +175,6 @@
       "source": "The Verge",
       "publishedAt": "2026-09-24T18:04:44Z",
       "snippet": "As Jensen Huang puts it, AI can help fight climate change - but only if it inflicts \"an enormous amount of pain and suffering\" first. The Nvidia CEO discussed the future of energy and AI's impact on o"
-    },
-    {
-      "title": "Meta is going to let you build games with AI right on your phone",
-      "url": "https://www.theverge.com/games/999972/meta-horizon-create-studio-ai-games",
-      "source": "The Verge",
-      "publishedAt": "2026-09-24T17:52:29Z",
-      "snippet": "Meta has a new plan to get people to make games for its Horizon social platform. The company today announced two new development tools that will let you create games with AI prompts: Horizon Create, a"
     }
   ],
   "trending": [
