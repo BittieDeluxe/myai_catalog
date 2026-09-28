@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-28T03:19:28Z",
+  "updated": "2026-09-28T10:27:26Z",
   "news": [
     {
       "title": "Engram is a sampler that turns broken AI hallucinations into music",
@@ -181,52 +181,52 @@
     {
       "id": "abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
       "displayName": "Qwen Image 2.1 Uncensored",
-      "downloads": 964220
+      "downloads": 1062921
     },
     {
       "id": "prism-ml/Ternary-Bonsai-2-27B-gguf",
       "displayName": "Ternary Bonsai 2 27B",
-      "downloads": 3343748
+      "downloads": 3457124
     },
     {
       "id": "nvidia/Nemotron-3-Diarization",
       "displayName": "Nemotron 3 Diarization",
-      "downloads": 22514
+      "downloads": 26428
     },
     {
       "id": "pottokao/Qwen-Image-2.1-Text-Encoder-Heretic-GGUF",
       "displayName": "Qwen Image 2.1 Text Encoder Heretic",
-      "downloads": 145246
-    },
-    {
-      "id": "ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF",
-      "displayName": "Qwen3.8 27B GSQ RCO",
-      "downloads": 1608439
+      "downloads": 158806
     },
     {
       "id": "unsloth/Qwen-Image-2.1-GGUF",
       "displayName": "Qwen Image 2.1",
-      "downloads": 194341
+      "downloads": 220231
+    },
+    {
+      "id": "ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF",
+      "displayName": "Qwen3.8 27B GSQ RCO",
+      "downloads": 1655818
     },
     {
       "id": "unsloth/Qwen3.8-27B-GGUF",
       "displayName": "Qwen3.8 27B",
-      "downloads": 6651662
+      "downloads": 6538700
     },
     {
       "id": "DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
       "displayName": "Qwen3.8 27B TURBO Fable Cold Fusion 735 882 Heretic Uncensored NEO CODER MAX MTP",
-      "downloads": 1633238
+      "downloads": 1683597
     },
     {
       "id": "ISTA-DASLab/Qwen3.8-Flash-Next-GSQ-RCO-GGUF",
       "displayName": "Qwen3.8 Flash Next GSQ RCO",
-      "downloads": 412130
+      "downloads": 503144
     },
     {
-      "id": "HauhauCS/Qwen3.8-27B-Uncensored-HauhauCS-Aggressive-MTP-GGUF",
-      "displayName": "Qwen3.8 27B Uncensored HauhauCS Aggressive MTP",
-      "downloads": 2044324
+      "id": "ukisai/Swift-1.5-Qwen3.8-27B-GSQ-RCO-GGUF",
+      "displayName": "Swift 1.5 Qwen3.8 27B GSQ RCO",
+      "downloads": 58021
     }
   ]
 }
