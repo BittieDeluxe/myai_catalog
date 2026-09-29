@@ -1,6 +1,20 @@
 {
-  "updated": "2026-09-29T00:08:26Z",
+  "updated": "2026-09-29T07:48:50Z",
   "news": [
+    {
+      "title": "Anthropic\u2019s prospectus details losses, growth, and, yes, a warning that its AI could end humanity",
+      "url": "https://techcrunch.com/2026/09/28/anthropics-prospectus-details-losses-growth-and-yes-a-warning-that-its-ai-could-end-humanity/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-09-29T05:13:43Z",
+      "snippet": "In its prospectus, Anthropic just told investors it's losing tens of billions of dollars a year, but also growing like crazy, and \u2014 oh yeah \u2014 its own AI might pose an existential risk to humanity."
+    },
+    {
+      "title": "Peak XV ups Surge seed investment ceiling to $5M, unveils 18-startup cohort",
+      "url": "https://techcrunch.com/2026/09/28/peak-xv-goes-bigger-at-seed-with-new-surge-cohort-as-series-a-bar-rises/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-09-29T00:30:00Z",
+      "snippet": "Thirteen of the 18 startups in Peak XV\u2019s latest Surge cohort are targeting global markets, while more than half are based in India."
+    },
     {
       "title": "OpenAI reportedly ditches model over safety concerns",
       "url": "https://techcrunch.com/2026/09/28/openai-reportedly-ditches-model-over-safety-concerns/",
@@ -37,6 +51,13 @@
       "snippet": "Shopify is expanding WebMCP support to checkout, allowing browser-based AI agents to update order details and complete purchases with a buyer\u2019s authorization."
     },
     {
+      "title": "The AI boom took over Climate Week and not everyone is happy about it",
+      "url": "https://techcrunch.com/2026/09/28/the-ai-boom-took-over-climate-week-and-not-everyone-is-happy-about-it/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-09-28T19:21:59Z",
+      "snippet": "Just like the rest of the U.S., data centers and AI are dividing climate tech founders and investors."
+    },
+    {
       "title": "OpenAI\u2019s AI agents need to catch up",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1001590/openai-devday-2026-aeon-ai-agent",
       "source": "The Verge",
@@ -48,7 +69,7 @@
       "url": "https://techcrunch.com/2026/09/28/nvidia-launches-new-platform-for-reining-in-rogue-ai-agents/",
       "source": "TechCrunch",
       "publishedAt": "2026-09-28T18:31:23Z",
-      "snippet": "As the debate rages over whether the recent spate of rogue AI agents is a step toward AGI or a more conventional engineering problem, Nvidia is offering its own answer to the problem. Nvidia CEO Jense"
+      "snippet": "Nvidia CEO Jensen Huang on Monday introduced a toolkit of software and hardware products that add independent security layers around AI agents to ensure they stay within their test environments even i"
     },
     {
       "title": "AI is supercharging hacking, and your local hospitals and banks aren\u2019t ready",
@@ -128,32 +149,11 @@
       "snippet": "Thousands of applications. Multiple rounds of review. Hundreds of hours spent evaluating startups from around the world. Now comes the part everyone has been waiting for. Register for TechCrunch Disru"
     },
     {
-      "title": "Modulate raises $25M for its voice models and analysis suite",
-      "url": "https://techcrunch.com/2026/09/28/modulate-raises-25m-for-its-voice-models-and-analysis-suite/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-09-28T14:05:00Z",
-      "snippet": "Modulate deploys its models to detect deepfake, fraud and scam"
-    },
-    {
       "title": "The SaaSpocalypse that wasn\u2019t, with Atlassian CEO Mike Cannon-Brookes",
       "url": "https://www.theverge.com/podcast/1000914/atlassian-ceo-mike-cannon-brookes-saaspocalypse-ai-enterprise-software-trello-jira",
       "source": "The Verge",
       "publishedAt": "2026-09-28T14:00:00Z",
       "snippet": "Today, I\u2019m talking with Mike Cannon-Brookes, who is cofounder and CEO of Atlassian.  Atlassian is one of those companies that every other company runs on \u2014 it makes important platform tools like Jira "
-    },
-    {
-      "title": "Your final chance to grab your exhibit table at TechCrunch Disrupt 2026 is October 2",
-      "url": "https://techcrunch.com/2026/09/28/disrupt-2026-exhibitor-program-extended-until-oct-2/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-09-28T14:00:00Z",
-      "snippet": "The last day to book your Disrupt 2026 exhibit table is this Friday, October 2 at 11:59 p.m. PT. Secure your exhibit table and get your startup in front of 10,000+ founders, investors, and tech leader"
-    },
-    {
-      "title": "Insurtech Outmarket raises $34.5M just months after prior round",
-      "url": "https://techcrunch.com/2026/09/28/insuretech-outmarket-raises-34-5m-just-months-after-prior-round/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-09-28T14:00:00Z",
-      "snippet": "The startup uses AI to automate tedious paperwork for insurance agencies and brokers."
     },
     {
       "title": "Nvidia says its new AI safety platform can contain rogue agents within \u2018milliseconds\u2019",
@@ -184,24 +184,24 @@
       "downloads": 1062921
     },
     {
-      "id": "prism-ml/Ternary-Bonsai-2-27B-gguf",
-      "displayName": "Ternary Bonsai 2 27B",
-      "downloads": 3457124
-    },
-    {
       "id": "nvidia/Nemotron-3-Diarization",
       "displayName": "Nemotron 3 Diarization",
       "downloads": 26428
     },
     {
-      "id": "pottokao/Qwen-Image-2.1-Text-Encoder-Heretic-GGUF",
-      "displayName": "Qwen Image 2.1 Text Encoder Heretic",
-      "downloads": 158806
+      "id": "prism-ml/Ternary-Bonsai-2-27B-gguf",
+      "displayName": "Ternary Bonsai 2 27B",
+      "downloads": 3457124
     },
     {
       "id": "unsloth/Qwen-Image-2.1-GGUF",
       "displayName": "Qwen Image 2.1",
       "downloads": 220231
+    },
+    {
+      "id": "pottokao/Qwen-Image-2.1-Text-Encoder-Heretic-GGUF",
+      "displayName": "Qwen Image 2.1 Text Encoder Heretic",
+      "downloads": 158806
     },
     {
       "id": "ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF",
