@@ -1,6 +1,41 @@
 {
-  "updated": "2026-09-28T19:09:25Z",
+  "updated": "2026-09-29T00:08:26Z",
   "news": [
+    {
+      "title": "OpenAI reportedly ditches model over safety concerns",
+      "url": "https://techcrunch.com/2026/09/28/openai-reportedly-ditches-model-over-safety-concerns/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-09-28T23:39:20Z",
+      "snippet": "A top executive at the AI lab told the Wall Street Journal that the model in question had displayed a poor aptitude for following orders."
+    },
+    {
+      "title": "AMD is acquiring AI company World Labs in a deal worth more than $8 billion",
+      "url": "https://www.theverge.com/tech/1001749/amd-world-labs-ai-acquisition-deal",
+      "source": "The Verge",
+      "publishedAt": "2026-09-28T21:31:35Z",
+      "snippet": "AMD announced today that it's acquiring World Labs, an AI research lab co-founded by the prominent researcher Dr. Fei-Fei Li, in an all-stock deal worth approximately $8.2 billion. World Labs launched"
+    },
+    {
+      "title": "Source: Inference provider Modal Labs closing in on $750M round at $15.75B valuation",
+      "url": "https://techcrunch.com/2026/09/28/source-inference-provider-modal-labs-closing-in-on-750m-round-at-15-75b-valuation/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-09-28T21:29:18Z",
+      "snippet": "The new financing is expected to more than triples the AI infrastructure startup's valuation from just four months ago."
+    },
+    {
+      "title": "AMD will acquire Fei-Fei Li\u2019s World Labs for $8.2 billion",
+      "url": "https://techcrunch.com/2026/09/28/amd-will-acquire-fei-fei-lis-world-labs-for-8-2-billion/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-09-28T20:39:33Z",
+      "snippet": "The acquisition will see World Labs founder Fei-Fei Li join AMD as executive vice president and chief scientist."
+    },
+    {
+      "title": "Shopify opens checkout to browser-based AI agents",
+      "url": "https://techcrunch.com/2026/09/28/shopify-opens-checkout-to-browser-based-ai-agents/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-09-28T19:33:57Z",
+      "snippet": "Shopify is expanding WebMCP support to checkout, allowing browser-based AI agents to update order details and complete purchases with a buyer\u2019s authorization."
+    },
     {
       "title": "OpenAI\u2019s AI agents need to catch up",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1001590/openai-devday-2026-aeon-ai-agent",
@@ -13,7 +48,7 @@
       "url": "https://techcrunch.com/2026/09/28/nvidia-launches-new-platform-for-reining-in-rogue-ai-agents/",
       "source": "TechCrunch",
       "publishedAt": "2026-09-28T18:31:23Z",
-      "snippet": "As the debate rages over whether the recent spate of rogue AI agents is a step toward AGI or a more conventional engineering problem, Nvidia is offering its own answer to problem. Nvidia CEO Jensen Hu"
+      "snippet": "As the debate rages over whether the recent spate of rogue AI agents is a step toward AGI or a more conventional engineering problem, Nvidia is offering its own answer to the problem. Nvidia CEO Jense"
     },
     {
       "title": "AI is supercharging hacking, and your local hospitals and banks aren\u2019t ready",
@@ -34,7 +69,7 @@
       "url": "https://techcrunch.com/2026/09/28/google-is-killing-off-geminis-gems-in-favor-of-skills/",
       "source": "TechCrunch",
       "publishedAt": "2026-09-28T17:29:50Z",
-      "snippet": "As all-in-one AI agents like Meta's Muse and Instinct take off, Google is opting to end a feature which built task-specific agents."
+      "snippet": "As all-in-one AI agents like Meta's Muse and Instinct take off, Google is opting to end a feature that built task-specific agents."
     },
     {
       "title": "OpenAI still doesn\u2019t seem to have a handle on all of its rogue AI activity",
@@ -107,13 +142,6 @@
       "snippet": "Today, I\u2019m talking with Mike Cannon-Brookes, who is cofounder and CEO of Atlassian.  Atlassian is one of those companies that every other company runs on \u2014 it makes important platform tools like Jira "
     },
     {
-      "title": "Insurtech Outmarket raises $34.5M just months after prior round",
-      "url": "https://techcrunch.com/2026/09/28/insuretech-outmarket-raises-34-5m-just-months-after-prior-round/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-09-28T14:00:00Z",
-      "snippet": "The startup uses AI to automate tedious paperwork for insurance agencies and brokers."
-    },
-    {
       "title": "Your final chance to grab your exhibit table at TechCrunch Disrupt 2026 is October 2",
       "url": "https://techcrunch.com/2026/09/28/disrupt-2026-exhibitor-program-extended-until-oct-2/",
       "source": "TechCrunch",
@@ -121,11 +149,11 @@
       "snippet": "The last day to book your Disrupt 2026 exhibit table is this Friday, October 2 at 11:59 p.m. PT. Secure your exhibit table and get your startup in front of 10,000+ founders, investors, and tech leader"
     },
     {
-      "title": "Viral AI agent Instinct raises $1B Series C at a $10B valuation",
-      "url": "https://techcrunch.com/2026/09/28/viral-ai-agent-instinct-raises-1b-series-c-at-a-10b-valuation/",
+      "title": "Insurtech Outmarket raises $34.5M just months after prior round",
+      "url": "https://techcrunch.com/2026/09/28/insuretech-outmarket-raises-34-5m-just-months-after-prior-round/",
       "source": "TechCrunch",
-      "publishedAt": "2026-09-28T13:38:48Z",
-      "snippet": "Instinct has raised a $1 billion Series C, saying 'we're just getting started.' The company is now valued at $10 billion."
+      "publishedAt": "2026-09-28T14:00:00Z",
+      "snippet": "The startup uses AI to automate tedious paperwork for insurance agencies and brokers."
     },
     {
       "title": "Nvidia says its new AI safety platform can contain rogue agents within \u2018milliseconds\u2019",
@@ -142,39 +170,11 @@
       "snippet": "Music startup Thoughtful Things has just launched the Kickstarter campaign for its first instrument, Engram. It's a sampler and groovebox that uses AI to mangle incoming audio and even hallucinate com"
     },
     {
-      "title": "Anthropic\u2019s CEO is about to have dinner with President Trump",
-      "url": "https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-09-27T20:34:28Z",
-      "snippet": "This will be the first one-on-one meeting between Dario Amodei and Donald Trump"
-    },
-    {
-      "title": "Can Muse overcome Meta\u2019s trust issues?",
-      "url": "https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-09-27T19:57:30Z",
-      "snippet": "On Equity, we discussed how Meta's AI announcement managed to steal the spotlight from OpenAI and Anthropic."
-    },
-    {
       "title": "OpenAI agents tried to \u2018bruteforce\u2019 a UN website",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1001178/openai-agents-bruteforce-un-website",
       "source": "The Verge",
       "publishedAt": "2026-09-27T17:21:07Z",
       "snippet": "Security researcher Rowan Howard-Jones says that OpenAI agents scanned the UN Conference on Trade and Development's (UNCTAD) statistics site over 16,000 times between April and June. While the inciden"
-    },
-    {
-      "title": "Anthropic\u2019s Dario Amodei gets the SNL treatment",
-      "url": "https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-09-27T16:30:00Z",
-      "snippet": "\"AI is the devil and I its maker.\""
-    },
-    {
-      "title": "OpenAI pauses training of its \u2018most capable models\u2019",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause",
-      "source": "The Verge",
-      "publishedAt": "2026-09-26T16:34:59Z",
-      "snippet": "As reports of OpenAI's models breaking containment, hacking sites, and generally getting out of control pile up, the company has made the decision to pause training of its most powerful models. The de"
     }
   ],
   "trending": [
