@@ -1,12 +1,110 @@
 {
-  "updated": "2026-09-30T14:32:09Z",
+  "updated": "2026-09-30T20:28:51Z",
   "news": [
+    {
+      "title": "OpenAI\u2019s Jev clone could help the frontier lab stop its swarming agents",
+      "url": "https://techcrunch.com/2026/09/30/openais-jev-clone-could-help-the-frontier-lab-stop-its-swarming-agents/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-09-30T19:00:57Z",
+      "snippet": "OpenAI's \"Decisions API\" is a Jev clone that confirms the importance of fast, cheap intelligence."
+    },
+    {
+      "title": "AI voice startup ElevenLabs doubles valuation to $22B",
+      "url": "https://techcrunch.com/2026/09/30/ai-voice-startup-elevenlabs-doubles-valuation-to-22b/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-09-30T18:23:57Z",
+      "snippet": "The $300 million employee tender was co-led by Wellington and T. Rowe Price."
+    },
+    {
+      "title": "The AI Tamagotchis are coming",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1002779/openai-dots-meta-muse-ai-agents-hardware-devices",
+      "source": "The Verge",
+      "publishedAt": "2026-09-30T18:07:38Z",
+      "snippet": "While AI has made plenty of inroads on people's phones and computers, it's largely failed in dedicated devices. But over the next year, two major AI companies, Meta and OpenAI, will attempt to change "
+    },
+    {
+      "title": "Reddit is killing RSS feeds and ending public API access because of AI bots",
+      "url": "https://techcrunch.com/2026/09/30/reddit-is-killing-rss-feeds-ending-public-api-access-because-of-ai-bots/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-09-30T17:45:00Z",
+      "snippet": "Reddit is ending support for RSS feeds, as the company continues tightening access to its trove of user-generated content."
+    },
+    {
+      "title": "The ugly economics of consumer AI",
+      "url": "https://techcrunch.com/2026/09/30/the-ugly-economics-of-consumer-ai/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-09-30T17:24:45Z",
+      "snippet": "There\u2019s a reason frontier labs have gotten gun-shy about consumer AI \u2014 and it\u2019s not because the tech isn\u2019t good enough."
+    },
+    {
+      "title": "Here\u2019s what AI leaders are saying about Trump\u2019s new safety plan",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1002636/ai-execs-trump-self-policing-deal-comments",
+      "source": "The Verge",
+      "publishedAt": "2026-09-30T17:15:49Z",
+      "snippet": "After hosting a meal with Big Tech leaders on Tuesday, President Donald Trump responded to journalist questions about his artificial intelligence announcements in typical fashion. He said his previous"
+    },
+    {
+      "title": "Meta disputes claim that Muse read a user\u2019s private messages without permission",
+      "url": "https://techcrunch.com/2026/09/30/meta-disputes-claim-that-muse-read-a-users-private-messages-without-permission/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-09-30T16:24:23Z",
+      "snippet": "Meta says its Muse AI agent cannot access a user\u2019s Messages without explicit permission, disputing a journalist\u2019s account that the agent read his private messages while the required Mac setting was tu"
+    },
+    {
+      "title": "DoorDash launches an AI agent you can text to order food",
+      "url": "https://techcrunch.com/2026/09/30/doordash-launches-an-ai-agent-you-can-text-to-order-food/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-09-30T16:00:24Z",
+      "snippet": "By launching an AI agent for food ordering, DoorDash is looking to gain an edge over rivals Uber Eats and Grubhub."
+    },
+    {
+      "title": "Destro AI\u2019s secret sauce is getting robots and humans on the same page",
+      "url": "https://techcrunch.com/2026/09/30/destro-ais-secret-sauce-is-getting-robots-and-humans-on-the-same-page/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-09-30T16:00:00Z",
+      "snippet": "\"One of the biggest reasons we are winning against robotics companies is because we are not a robotics company.\""
+    },
+    {
+      "title": "Instinct\u2019s new product recommendations are giving some users the ick",
+      "url": "https://techcrunch.com/2026/09/30/instincts-new-product-recommendations-are-giving-some-users-the-ick/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-09-30T15:56:28Z",
+      "snippet": "Instinct is rolling out human-curated product and travel recommendations, but some users aren\u2019t happy about getting suggestions they never asked for."
+    },
+    {
+      "title": "All the latest news on Meta\u2019s cute, creepy Muse AI agent",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1002671/meta-muse-ai",
+      "source": "The Verge",
+      "publishedAt": "2026-09-30T15:18:49Z",
+      "snippet": "Meta launched a new Muse AI agent it claims can help you with everything from firing off emails to buying stuff online. Muse can be surprisingly effective at delivering on those promises \u2014 if you\u2019re w"
+    },
+    {
+      "title": "Google reportedly tests paying publishers for AI search results",
+      "url": "https://www.theverge.com/tech/1002665/google-paying-publishers-ai-search-features",
+      "source": "The Verge",
+      "publishedAt": "2026-09-30T14:51:49Z",
+      "snippet": "Google has launched a pilot program that pays publishers for their contributions to its AI-powered search features, according to a report from The Information. The pilot program reportedly includes ar"
+    },
+    {
+      "title": "Instagram is adding an AI \u2018assistant\u2019 to tell you how to post",
+      "url": "https://www.theverge.com/tech/1002402/instagram-ai-edits-assistant-creators-analytics-youtube",
+      "source": "The Verge",
+      "publishedAt": "2026-09-30T14:30:00Z",
+      "snippet": "Instagram is the latest social media platform to add built-in AI-powered features that will give users feedback on their posts. The company announced Wednesday that its standalone Edits app will now i"
+    },
+    {
+      "title": "Cerebras Systems\u2019 Andrew Feldman on whether AI can keep scaling at TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/09/30/cerebras-systems-andrew-feldman-on-whether-ai-can-keep-scaling-at-techcrunch-disrupt-2026/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-09-30T14:30:00Z",
+      "snippet": "At TechCrunch Disrupt 2026, Cerebras Systems CEO and co-founder Andrew Feldman will explore the growing demand for compute, energy, and infrastructure, how Cerebras is approaching those constraints di"
+    },
     {
       "title": "Restate lands $20M as the need for durable infrastructure increases with AI agents",
       "url": "https://techcrunch.com/2026/09/30/restate-lands-20m-as-the-need-for-durable-infrastructure-increases-with-ai-agents/",
       "source": "TechCrunch",
       "publishedAt": "2026-09-30T14:27:11Z",
-      "snippet": "Founded by Apache Flink veterans, the startup is taking on workflow heavyweight Temporal."
+      "snippet": "Instead of building its durable execution engine on top of an external database, the company developed its own storage, replication, and redundancy layers. This architecture allows Restate to be excep"
     },
     {
       "title": "3 days left to exhibit: Turn visibility into your next opportunity at TechCrunch Disrupt 2026",
@@ -72,109 +170,11 @@
       "snippet": "OpenAI is building out the pieces of an alternative to the traditional app store model, turning ChatGPT into a place where software can be discovered and used by people and AI agents alike."
     },
     {
-      "title": "OpenAI reportedly in talks to raise $30B round at $1.4T valuation",
-      "url": "https://techcrunch.com/2026/09/29/openai-reportedly-in-talks-to-raise-30b-round-at-1-4t-valuation/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-09-29T19:52:37Z",
-      "snippet": "The new round is anticipated to be the company's last before its delayed 2027 public debut."
-    },
-    {
-      "title": "Here\u2019s why OpenAI is absent from Nvidia\u2019s industry-wide effort to end rogue AI agents",
-      "url": "https://techcrunch.com/2026/09/29/heres-why-openai-is-absent-from-nvidias-industry-wide-effort-to-end-rogue-ai-agents/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-09-29T18:35:00Z",
-      "snippet": "OpenAI isn't a public supporter of Nvidia's Open Agent Safety Platform, but it is privately working with Nvidia, TechCrunch has learned."
-    },
-    {
-      "title": "OpenAI takes on Microsoft with the launch of what feels a whole lot like ChatGPT\u2019s own office suite",
-      "url": "https://techcrunch.com/2026/09/29/openai-takes-on-microsoft-with-the-launch-of-what-feels-a-whole-lot-like-chatgpts-own-office-suite/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-09-29T17:45:51Z",
-      "snippet": "OpenAI's newly announced suite of office features puts it into more direct competition with more traditional software companies."
-    },
-    {
       "title": "AI researchers put out videos saying superintelligence is \u2018exactly as dangerous as it sounds\u2019",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1002238/openai-google-anthropic-ai-researchers-safety-interviews",
       "source": "The Verge",
       "publishedAt": "2026-09-29T17:35:03Z",
       "snippet": "\"The chance of human extinction is about a coin flip, in my view,\" Geoffrey Irving, a former OpenAI and Google DeepMind employee, said in a new interview. It's one of a dozen interviews with AI resear"
-    },
-    {
-      "title": "AI-powered app maker Wabi pivots to a messaging experience",
-      "url": "https://techcrunch.com/2026/09/29/ai-powered-app-maker-wabi-pivots-to-a-messaging-experience/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-09-29T17:20:00Z",
-      "snippet": "Wabi is repositioning its prompt-based app builder as a personal AI agent that can create interfaces on demand, combining chat, apps, and ongoing tasks."
-    },
-    {
-      "title": "OpenAI launches Dots, its bubbly agentic avatar",
-      "url": "https://techcrunch.com/2026/09/29/openai-launches-dots-its-bubbly-agentic-avatar/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-09-29T17:17:15Z",
-      "snippet": "Dots are meant to operate independent of any specific hardware or interface, pursuing user-defined goals continuously in the background with minimal oversight."
-    },
-    {
-      "title": "OpenAI launches Dots, its Muse competitor",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1002033/openai-dots-launch-muse-competitor",
-      "source": "The Verge",
-      "publishedAt": "2026-09-29T17:15:00Z",
-      "snippet": "OpenAI is responding to Meta's buzzy Muse AI with agentic helpers of its own: Dots. During its DevDay keynote on Tuesday, OpenAI announced that Dots will serve as always-on AI assistants that can \"do "
-    },
-    {
-      "title": "OpenAI gives Codex reusable cloud environments that work across devices",
-      "url": "https://techcrunch.com/2026/09/29/openai-gives-codex-reusable-cloud-environments-that-work-across-devices/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-09-29T17:15:00Z",
-      "snippet": "OpenAI is expanding Codex with reusable cloud development environments, a revamped CLI with voice controls, new code review tools, and a security-focused product for scanning repositories and preparin"
-    },
-    {
-      "title": "OpenAI expands ChatGPT\u2019s plug-ins with app-like interfaces and automations",
-      "url": "https://techcrunch.com/2026/09/29/openai-expands-chatgpts-plugins-with-app-like-interfaces-and-automations/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-09-29T17:15:00Z",
-      "snippet": "OpenAI is expanding ChatGPT plug-ins with dedicated sidebar homes, interactive panels, file viewers, improved discovery, and support for automations."
-    },
-    {
-      "title": "OpenAI launches GPT-6.1 Sol, says it nearly matches GPT-6 Astra and costs less",
-      "url": "https://techcrunch.com/2026/09/29/openai-launches-gpt-6-1-sol-says-it-nearly-matches-gpt-6-astra-and-costs-less/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-09-29T17:15:00Z",
-      "snippet": "OpenAI says GPT-6.1 Sol delivers significant improvements over GPT-6 Sol across complex professional tasks, including code writing and debugging, document understanding, and executing multistep busine"
-    },
-    {
-      "title": "Protesters gather at OpenAI\u2019s DevDay",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1002201/openai-sam-altman-openai-devday-protests-ice-data-centers",
-      "source": "The Verge",
-      "publishedAt": "2026-09-29T17:12:27Z",
-      "snippet": "On Tuesday, OpenAI's annual DevDay event began with protests, flyers, and chants. \"Sam Altman, get off it, put people over profit,\" said a group of protesters marching in a circle in front of a series"
-    },
-    {
-      "title": "Can a chatbot fix the government maze? The White House is about to find out",
-      "url": "https://techcrunch.com/2026/09/29/can-a-chatbot-fix-the-government-maze-the-white-house-is-about-to-find-out/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-09-29T16:55:56Z",
-      "snippet": "America.gov is intended to simplify the process of navigating government bureaucracy, but large language models are imperfect and remain prone to hallucinations, which could cause new issues."
-    },
-    {
-      "title": "OpenAI DevDay 2026: The biggest news and announcements",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1001681/openai-devday-2026-biggest-news-announcements",
-      "source": "The Verge",
-      "publishedAt": "2026-09-29T16:00:00Z",
-      "snippet": "It\u2019s OpenAI\u2019s turn in the fall tech events calendar. The company is hosting its annual DevDay on September 29th in San Francisco, and during a live keynote featuring CEO Sam Altman, it revealed severa"
-    },
-    {
-      "title": "Meta\u2019s Muse AI sent a YouTuber\u2019s address to a stranger",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1001886/meta-muse-ai-facebook-marketplace-security-concerns",
-      "source": "The Verge",
-      "publishedAt": "2026-09-29T14:08:21Z",
-      "snippet": "Tech YouTuber Matt Robb says that Muse gave out his home address to a total stranger this weekend, after authorizing the bot to handle his Facebook Marketplace account. That's despite Meta placing gre"
-    },
-    {
-      "title": "Will Chinese AI companies slow down? A top House Democrat wants answers",
-      "url": "https://www.theverge.com/policy/1001767/khanna-ai-safety-china-treaty",
-      "source": "The Verge",
-      "publishedAt": "2026-09-29T12:00:00Z",
-      "snippet": "As President Donald Trump prepares to meet tech and AI CEOs in Washington, Rep. Ro Khanna (D-CA) is calling for a treaty between the US and China to keep AI from wreaking havoc on the world. But wrang"
     }
   ],
   "trending": [
@@ -199,14 +199,14 @@
       "downloads": 1679903
     },
     {
-      "id": "unsloth/Qwen-Image-2.1-GGUF",
-      "displayName": "Qwen Image 2.1",
-      "downloads": 302158
-    },
-    {
       "id": "orcarouter/OrcaSAQ-2-Cyber-27B-Uncensored-GGUF",
       "displayName": "OrcaSAQ 2 Cyber 27B Uncensored",
       "downloads": 7186
+    },
+    {
+      "id": "unsloth/Qwen-Image-2.1-GGUF",
+      "displayName": "Qwen Image 2.1",
+      "downloads": 302158
     },
     {
       "id": "ukisai/Swift-1.5-Qwen3.8-27B-GSQ-RCO-GGUF",
@@ -219,14 +219,14 @@
       "downloads": 1777756
     },
     {
-      "id": "pottokao/Qwen-Image-2.1-Text-Encoder-Heretic-GGUF",
-      "displayName": "Qwen Image 2.1 Text Encoder Heretic",
-      "downloads": 174547
-    },
-    {
       "id": "unsloth/Qwen3.8-27B-GGUF",
       "displayName": "Qwen3.8 27B",
       "downloads": 6342850
+    },
+    {
+      "id": "ISTA-DASLab/Qwen3.8-Flash-Next-GSQ-RCO-GGUF",
+      "displayName": "Qwen3.8 Flash Next GSQ RCO",
+      "downloads": 754993
     }
   ]
 }
