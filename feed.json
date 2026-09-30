@@ -1,6 +1,41 @@
 {
-  "updated": "2026-09-29T20:24:29Z",
+  "updated": "2026-09-30T00:59:25Z",
   "news": [
+    {
+      "title": "Sam Altman says OpenAI won\u2019t go public until its models are safe",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1002505/sam-altman-openai-ipo-devday-ai-safety",
+      "source": "The Verge",
+      "publishedAt": "2026-09-30T00:19:13Z",
+      "snippet": "For months, people have wondered when OpenAI will go public. CEO Sam Altman says it won't happen until the company can make better promises about model safety, with no firm timeline in sight. \"We inte"
+    },
+    {
+      "title": "America.gov gets really weird when you ask it about Minecraft, but it\u2019s not a glitch",
+      "url": "https://techcrunch.com/2026/09/29/america-gov-gets-really-weird-when-you-ask-it-about-minecraft-but-its-not-a-glitch/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-09-29T23:30:55Z",
+      "snippet": "For the sake of national security, it's a relief to learn that America.gov is not hallucinating to the point that it's penning lengthy poetry."
+    },
+    {
+      "title": "Trump orders US government to call AI \u2018Super Intelligence\u2019",
+      "url": "https://www.theverge.com/policy/1002468/trump-ai-superintelligence-executive-order-ai",
+      "source": "The Verge",
+      "publishedAt": "2026-09-29T22:25:45Z",
+      "snippet": "The US executive branch is no longer acknowledging the existence of \"artificial intelligence.\" Going forward, official policy websites, policy documents, and press releases will refer only to \"Super I"
+    },
+    {
+      "title": "The internet is convinced Elon Musk\u2019s xAI trolled OpenAI\u2019s \u2018Dots\u2019 launch",
+      "url": "https://techcrunch.com/2026/09/29/the-internet-is-convinced-elon-musks-xai-trolled-openais-dots-launch/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-09-29T22:20:59Z",
+      "snippet": "Before OpenAI launched its new AI agent, Dots, on Tuesday, Elon Musk's xAI had already acquired the domain name \"dot.com,\" which now redirects to the Grok chatbot download page."
+    },
+    {
+      "title": "Elon Musk\u2019s AI-powered Grokipedia is updating again",
+      "url": "https://www.theverge.com/tech/1002448/elon-musk-grokipedia-ai-updating-again",
+      "source": "The Verge",
+      "publishedAt": "2026-09-29T21:49:09Z",
+      "snippet": "Grokipedia, the AI-powered online encyclopedia from SpaceXAI, appears to be updating articles once again after a months-long pause. In August, Lawfare reported that articles on Grokipedia hadn't revie"
+    },
     {
       "title": "OpenAI\u2019s latest features take direct aim at the app store model",
       "url": "https://techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model/",
@@ -9,8 +44,8 @@
       "snippet": "OpenAI is building out the pieces of an alternative to the traditional app store model, turning ChatGPT into a place where software can be discovered and used by people and AI agents alike."
     },
     {
-      "title": "OpenAI repotedly in talks to raise $30B round at $1.4T valuation",
-      "url": "https://techcrunch.com/2026/09/29/openai-repotedly-in-talks-to-raise-30b-round-at-1-4t-valuation/",
+      "title": "OpenAI reportedly in talks to raise $30B round at $1.4T valuation",
+      "url": "https://techcrunch.com/2026/09/29/openai-reportedly-in-talks-to-raise-30b-round-at-1-4t-valuation/",
       "source": "TechCrunch",
       "publishedAt": "2026-09-29T19:52:37Z",
       "snippet": "The new round is anticipated to be the company's last before its delayed 2027 public debut."
@@ -27,7 +62,7 @@
       "url": "https://techcrunch.com/2026/09/29/openai-takes-on-microsoft-with-the-launch-of-what-feels-a-whole-lot-like-chatgpts-own-office-suite/",
       "source": "TechCrunch",
       "publishedAt": "2026-09-29T17:45:51Z",
-      "snippet": "OpenAI's newly announced suite of office features puts it into mor direct competition with more traditional software companies."
+      "snippet": "OpenAI's newly announced suite of office features puts it into more direct competition with more traditional software companies."
     },
     {
       "title": "AI researchers put out videos saying superintelligence is \u2018exactly as dangerous as it sounds\u2019",
@@ -41,7 +76,7 @@
       "url": "https://techcrunch.com/2026/09/29/ai-powered-app-maker-wabi-pivots-to-a-messaging-experience/",
       "source": "TechCrunch",
       "publishedAt": "2026-09-29T17:20:00Z",
-      "snippet": "Wabi is repositioning its prompt-based app builder as a personal AI agent that can create interfaces on demand, combining chat, apps and ongoing tasks."
+      "snippet": "Wabi is repositioning its prompt-based app builder as a personal AI agent that can create interfaces on demand, combining chat, apps, and ongoing tasks."
     },
     {
       "title": "OpenAI launches Dots, its bubbly agentic avatar",
@@ -58,25 +93,25 @@
       "snippet": "OpenAI is responding to Meta's buzzy Muse AI with agentic helpers of its own: Dots. During its DevDay keynote on Tuesday, OpenAI announced that Dots will serve as always-on AI assistants that can \"do "
     },
     {
-      "title": "OpenAI expands ChatGPT\u2019s plugins with app-like interfaces and automations",
+      "title": "OpenAI gives Codex reusable cloud environments that work across devices",
+      "url": "https://techcrunch.com/2026/09/29/openai-gives-codex-reusable-cloud-environments-that-work-across-devices/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-09-29T17:15:00Z",
+      "snippet": "OpenAI is expanding Codex with reusable cloud development environments, a revamped CLI with voice controls, new code review tools, and a security-focused product for scanning repositories and preparin"
+    },
+    {
+      "title": "OpenAI expands ChatGPT\u2019s plug-ins with app-like interfaces and automations",
       "url": "https://techcrunch.com/2026/09/29/openai-expands-chatgpts-plugins-with-app-like-interfaces-and-automations/",
       "source": "TechCrunch",
       "publishedAt": "2026-09-29T17:15:00Z",
-      "snippet": "OpenAI is expanding ChatGPT plugins with dedicated sidebar homes, interactive panels, file viewers, improved discovery, and support for automations."
+      "snippet": "OpenAI is expanding ChatGPT plug-ins with dedicated sidebar homes, interactive panels, file viewers, improved discovery, and support for automations."
     },
     {
       "title": "OpenAI launches GPT-6.1 Sol, says it nearly matches GPT-6 Astra and costs less",
       "url": "https://techcrunch.com/2026/09/29/openai-launches-gpt-6-1-sol-says-it-nearly-matches-gpt-6-astra-and-costs-less/",
       "source": "TechCrunch",
       "publishedAt": "2026-09-29T17:15:00Z",
-      "snippet": "OpenAI says GPT-6.1 Sol delivers significant improvements over GPT-6 Sol across complex professional tasks, including code writing and debugging, document understanding, and executing multi-step busin"
-    },
-    {
-      "title": "OpenAI gives Codex reusable cloud environments that work across devices",
-      "url": "https://techcrunch.com/2026/09/29/openai-gives-codex-reusable-cloud-environments-that-work-across-devices/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-09-29T17:15:00Z",
-      "snippet": "OpenAI is expanding Codex with reusable cloud development environments, a revamped CLI with voice controls, new code review tools and a security-focused product for scanning repositories and preparing"
+      "snippet": "OpenAI says GPT-6.1 Sol delivers significant improvements over GPT-6 Sol across complex professional tasks, including code writing and debugging, document understanding, and executing multistep busine"
     },
     {
       "title": "Protesters gather at OpenAI\u2019s DevDay",
@@ -90,7 +125,7 @@
       "url": "https://techcrunch.com/2026/09/29/can-a-chatbot-fix-the-government-maze-the-white-house-is-about-to-find-out/",
       "source": "TechCrunch",
       "publishedAt": "2026-09-29T16:55:56Z",
-      "snippet": "America.gov is intended to simplify the process of navigating government bureaucracy, but language models are imperfect and remain prone to hallucinations, which could cause new issues."
+      "snippet": "America.gov is intended to simplify the process of navigating government bureaucracy, but large language models are imperfect and remain prone to hallucinations, which could cause new issues."
     },
     {
       "title": "OpenAI DevDay 2026: The biggest news and announcements",
@@ -128,20 +163,6 @@
       "snippet": "The tech giant says the agent can help owners run their business and find new customers."
     },
     {
-      "title": "OpenAI apologizes to Australia after its AI agents breached government sites",
-      "url": "https://techcrunch.com/2026/09/29/openai-apologizes-to-australia-after-its-ai-agents-breached-government-sites/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-09-29T12:45:05Z",
-      "snippet": "The company also detailed how some of those breaches had happened, and outlined additional measures it is taking to assess the impact of the events."
-    },
-    {
-      "title": "Reco raises $55M as AI agent security startups crowd the market",
-      "url": "https://techcrunch.com/2026/09/29/reco-raises-55m-as-ai-agent-security-startups-crowd-the-market/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-09-29T12:30:00Z",
-      "snippet": "The round builds on a $30 million fundraise in February, taking the company's total funding to $140 million."
-    },
-    {
       "title": "Will Chinese AI companies slow down? A top House Democrat wants answers",
       "url": "https://www.theverge.com/policy/1001767/khanna-ai-safety-china-treaty",
       "source": "The Verge",
@@ -154,27 +175,6 @@
       "source": "The Verge",
       "publishedAt": "2026-09-29T11:48:27Z",
       "snippet": "As Anthropic gears up for its greatly anticipated public debut, a preview of the company's IPO filing reportedly details its mounting losses, leadership proposals to retain power, and how its AI devel"
-    },
-    {
-      "title": "AMD is acquiring AI company World Labs in a deal worth more than $8 billion",
-      "url": "https://www.theverge.com/tech/1001749/amd-world-labs-ai-acquisition-deal",
-      "source": "The Verge",
-      "publishedAt": "2026-09-28T21:31:35Z",
-      "snippet": "AMD announced today that it's acquiring World Labs, an AI research lab co-founded by the prominent researcher Dr. Fei-Fei Li, in an all-stock deal worth approximately $8.2 billion. World Labs launched"
-    },
-    {
-      "title": "OpenAI\u2019s AI agents need to catch up",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1001590/openai-devday-2026-aeon-ai-agent",
-      "source": "The Verge",
-      "publishedAt": "2026-09-28T18:45:00Z",
-      "snippet": "OpenAI popularized the modern generative AI chatbot, but as its 2026 DevDay event approaches, it's fallen behind in one of the industry's hottest categories: continuously running, consumer-facing AI a"
-    },
-    {
-      "title": "AI is supercharging hacking, and your local hospitals and banks aren\u2019t ready",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1001427/ai-is-supercharging-hacking-and-your-local-hospitals-and-banks-arent-ready",
-      "source": "The Verge",
-      "publishedAt": "2026-09-28T18:30:00Z",
-      "snippet": "In March, Janice Malone began getting calls about suspicious activity from her nonprofit organization, Vivian's Door. Vivian's Door, headquartered in Alabama, typically provided training, resources, a"
     }
   ],
   "trending": [
@@ -199,14 +199,14 @@
       "downloads": 251937
     },
     {
-      "id": "pottokao/Qwen-Image-2.1-Text-Encoder-Heretic-GGUF",
-      "displayName": "Qwen Image 2.1 Text Encoder Heretic",
-      "downloads": 168249
-    },
-    {
       "id": "ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF",
       "displayName": "Qwen3.8 27B GSQ RCO",
       "downloads": 1678861
+    },
+    {
+      "id": "pottokao/Qwen-Image-2.1-Text-Encoder-Heretic-GGUF",
+      "displayName": "Qwen Image 2.1 Text Encoder Heretic",
+      "downloads": 168249
     },
     {
       "id": "DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
@@ -224,9 +224,9 @@
       "downloads": 116252
     },
     {
-      "id": "ISTA-DASLab/Qwen3.8-Flash-Next-GSQ-RCO-GGUF",
-      "displayName": "Qwen3.8 Flash Next GSQ RCO",
-      "downloads": 612673
+      "id": "orcarouter/OrcaSAQ-2-Cyber-27B-Uncensored-GGUF",
+      "displayName": "OrcaSAQ 2 Cyber 27B Uncensored",
+      "downloads": 6170
     }
   ]
 }
