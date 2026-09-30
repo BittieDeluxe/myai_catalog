@@ -1,6 +1,34 @@
 {
-  "updated": "2026-09-30T07:51:51Z",
+  "updated": "2026-09-30T14:32:09Z",
   "news": [
+    {
+      "title": "Restate lands $20M as the need for durable infrastructure increases with AI agents",
+      "url": "https://techcrunch.com/2026/09/30/restate-lands-20m-as-the-need-for-durable-infrastructure-increases-with-ai-agents/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-09-30T14:27:11Z",
+      "snippet": "Founded by Apache Flink veterans, the startup is taking on workflow heavyweight Temporal."
+    },
+    {
+      "title": "3 days left to exhibit: Turn visibility into your next opportunity at TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/09/30/3-days-left-to-exhibit-at-techcrunch-disrupt-2026-2/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-09-30T14:15:00Z",
+      "snippet": "Three days left to exhibit at TechCrunch Disrupt 2026. Book by October 2 at 11:59 p.m. PT to showcase your startup to 10,000+ founders, investors, operators, and tech leaders."
+    },
+    {
+      "title": "Here\u2019s how tech leaders will self-police AI safety under Trump\u2019s deal",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1002584/trump-us-ai-safety-deal-self-regulation-tech-execs",
+      "source": "The Verge",
+      "publishedAt": "2026-09-30T12:24:32Z",
+      "snippet": "We now have the full details of the \"morally binding\" AI safety deal announced by President Trump yesterday, in which top executives agreed to self-regulate their artificial intelligence technology. T"
+    },
+    {
+      "title": "Airbnb adds AI search, more social features",
+      "url": "https://techcrunch.com/2026/09/30/airbnb-adds-ai-search-more-social-features/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-09-30T12:00:00Z",
+      "snippet": "Airbnb is also launching new services such as meal delivery and laundry in select locations."
+    },
     {
       "title": "Sam Altman says OpenAI won\u2019t go public until its models are safe",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1002505/sam-altman-openai-ipo-devday-ai-safety",
@@ -135,13 +163,6 @@
       "snippet": "It\u2019s OpenAI\u2019s turn in the fall tech events calendar. The company is hosting its annual DevDay on September 29th in San Francisco, and during a live keynote featuring CEO Sam Altman, it revealed severa"
     },
     {
-      "title": "Instinct founder said more than 50% of transactions on the platform are travel-related",
-      "url": "https://techcrunch.com/2026/09/29/instinct-founder-said-more-than-50-of-transactions-on-the-platform-are-travel-related/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-09-29T15:12:07Z",
-      "snippet": "Instinct founder said the platform is growing 10% day by day, with transaction volume increasing at a similar rate."
-    },
-    {
       "title": "Meta\u2019s Muse AI sent a YouTuber\u2019s address to a stranger",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1001886/meta-muse-ai-facebook-marketplace-security-concerns",
       "source": "The Verge",
@@ -149,84 +170,63 @@
       "snippet": "Tech YouTuber Matt Robb says that Muse gave out his home address to a total stranger this weekend, after authorizing the bot to handle his Facebook Marketplace account. That's despite Meta placing gre"
     },
     {
-      "title": "With Dazzle, Marissa Mayer bets your camera roll has more info on your life than your inbox",
-      "url": "https://techcrunch.com/2026/09/29/with-dazzle-marissa-mayer-bets-your-camera-roll-has-more-info-on-your-life-than-your-inbox/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-09-29T13:53:01Z",
-      "snippet": "Mayer argues that if a photo is worth a thousand words, your camera roll is worth millions. By analyzing all the photos stored on your phone, Dazzle claims to understand your hobbies, interests, food,"
-    },
-    {
-      "title": "Meta is expanding its AI agent Muse to small businesses",
-      "url": "https://techcrunch.com/2026/09/29/meta-is-expanding-its-ai-agent-muse-to-small-businesses/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-09-29T13:47:30Z",
-      "snippet": "The tech giant says the agent can help owners run their business and find new customers."
-    },
-    {
       "title": "Will Chinese AI companies slow down? A top House Democrat wants answers",
       "url": "https://www.theverge.com/policy/1001767/khanna-ai-safety-china-treaty",
       "source": "The Verge",
       "publishedAt": "2026-09-29T12:00:00Z",
       "snippet": "As President Donald Trump prepares to meet tech and AI CEOs in Washington, Rep. Ro Khanna (D-CA) is calling for a treaty between the US and China to keep AI from wreaking havoc on the world. But wrang"
-    },
-    {
-      "title": "Anthropic warns of \u2018catastrophic\u2019 AI risks in its own IPO filing",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1001838/anthropic-ipo-prospectus-ai-safety-threat",
-      "source": "The Verge",
-      "publishedAt": "2026-09-29T11:48:27Z",
-      "snippet": "As Anthropic gears up for its greatly anticipated public debut, a preview of the company's IPO filing reportedly details its mounting losses, leadership proposals to retain power, and how its AI devel"
     }
   ],
   "trending": [
     {
       "id": "abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
       "displayName": "Qwen Image 2.1 Uncensored",
-      "downloads": 1152523
+      "downloads": 1232685
     },
     {
       "id": "nvidia/Nemotron-3-Diarization",
       "displayName": "Nemotron 3 Diarization",
-      "downloads": 30931
+      "downloads": 36386
     },
     {
       "id": "prism-ml/Ternary-Bonsai-2-27B-gguf",
       "displayName": "Ternary Bonsai 2 27B",
-      "downloads": 3581027
+      "downloads": 3676692
     },
     {
       "id": "ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF",
       "displayName": "Qwen3.8 27B GSQ RCO",
-      "downloads": 1678861
+      "downloads": 1679903
     },
     {
       "id": "unsloth/Qwen-Image-2.1-GGUF",
       "displayName": "Qwen Image 2.1",
-      "downloads": 251937
-    },
-    {
-      "id": "pottokao/Qwen-Image-2.1-Text-Encoder-Heretic-GGUF",
-      "displayName": "Qwen Image 2.1 Text Encoder Heretic",
-      "downloads": 168249
-    },
-    {
-      "id": "DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
-      "displayName": "Qwen3.8 27B TURBO Fable Cold Fusion 735 882 Heretic Uncensored NEO CODER MAX MTP",
-      "downloads": 1726231
-    },
-    {
-      "id": "unsloth/Qwen3.8-27B-GGUF",
-      "displayName": "Qwen3.8 27B",
-      "downloads": 6425606
-    },
-    {
-      "id": "ukisai/Swift-1.5-Qwen3.8-27B-GSQ-RCO-GGUF",
-      "displayName": "Swift 1.5 Qwen3.8 27B GSQ RCO",
-      "downloads": 116252
+      "downloads": 302158
     },
     {
       "id": "orcarouter/OrcaSAQ-2-Cyber-27B-Uncensored-GGUF",
       "displayName": "OrcaSAQ 2 Cyber 27B Uncensored",
-      "downloads": 6170
+      "downloads": 7186
+    },
+    {
+      "id": "ukisai/Swift-1.5-Qwen3.8-27B-GSQ-RCO-GGUF",
+      "displayName": "Swift 1.5 Qwen3.8 27B GSQ RCO",
+      "downloads": 175005
+    },
+    {
+      "id": "DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
+      "displayName": "Qwen3.8 27B TURBO Fable Cold Fusion 735 882 Heretic Uncensored NEO CODER MAX MTP",
+      "downloads": 1777756
+    },
+    {
+      "id": "pottokao/Qwen-Image-2.1-Text-Encoder-Heretic-GGUF",
+      "displayName": "Qwen Image 2.1 Text Encoder Heretic",
+      "downloads": 174547
+    },
+    {
+      "id": "unsloth/Qwen3.8-27B-GGUF",
+      "displayName": "Qwen3.8 27B",
+      "downloads": 6342850
     }
   ]
 }
