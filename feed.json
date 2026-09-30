@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-30T00:59:25Z",
+  "updated": "2026-09-30T07:51:51Z",
   "news": [
     {
       "title": "Sam Altman says OpenAI won\u2019t go public until its models are safe",
@@ -194,14 +194,14 @@
       "downloads": 3581027
     },
     {
-      "id": "unsloth/Qwen-Image-2.1-GGUF",
-      "displayName": "Qwen Image 2.1",
-      "downloads": 251937
-    },
-    {
       "id": "ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF",
       "displayName": "Qwen3.8 27B GSQ RCO",
       "downloads": 1678861
+    },
+    {
+      "id": "unsloth/Qwen-Image-2.1-GGUF",
+      "displayName": "Qwen Image 2.1",
+      "downloads": 251937
     },
     {
       "id": "pottokao/Qwen-Image-2.1-Text-Encoder-Heretic-GGUF",
