@@ -1,6 +1,55 @@
 {
-  "updated": "2026-10-01T16:50:42Z",
+  "updated": "2026-10-01T22:16:25Z",
   "news": [
+    {
+      "title": "Musk\u2019s AI chatbot Grok reportedly encouraged Trump to capture  Venezuela\u2019s president",
+      "url": "https://techcrunch.com/2026/10/01/musks-ai-chatbot-grok-reportedly-encouraged-trump-to-capture-venezuelas-president/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-10-01T21:08:11Z",
+      "snippet": "President Trump reportedly asked for Grok's opinion before invading Venezuela and capturing Nicol\u00e1s Maduro."
+    },
+    {
+      "title": "Google\u2019s new Guided Vision feature can help you read the fine print",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1003756/google-gemini-live-guided-vision",
+      "source": "The Verge",
+      "publishedAt": "2026-10-01T19:47:51Z",
+      "snippet": "Guided Vision is launching in Gemini Live on compatible Android devices today to use AI to give real-time audio descriptions of anything you point your phone's camera at. By sharing your camera in Gem"
+    },
+    {
+      "title": "ChatGPT can now virtually try on clothes for you",
+      "url": "https://techcrunch.com/2026/10/01/chatgpt-can-now-virtually-try-on-clothes-for-you/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-10-01T19:21:53Z",
+      "snippet": "OpenAI is rolling out new shopping features for ChatGPT that let users virtually try on clothing and accessories using their own photos and save products they like to a Favorites library."
+    },
+    {
+      "title": "Google thinks SpaceX\u2019s Starship has to launch 1,800 times before space data centers get off the ground",
+      "url": "https://techcrunch.com/2026/10/01/google-thinks-spacexs-starship-has-to-launch-1600-times-before-space-data-centers-get-off-the-ground/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-10-01T19:18:03Z",
+      "snippet": "Google launched its first advanced chip into orbit to pave the way for space data centers."
+    },
+    {
+      "title": "OpenAI cuts ties with 3 safety researchers, WSJ reports",
+      "url": "https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-10-01T18:14:42Z",
+      "snippet": "OpenAI has parted ways with three safety researchers after an internal investigation found they mishandled sensitive company information, report says."
+    },
+    {
+      "title": "Opus 5.5 loves to tell you \u2018this matters\u2019 (and other AI writing tells)",
+      "url": "https://techcrunch.com/2026/10/01/opus-5-5-loves-to-tell-you-this-matters-and-other-ai-writing-tells/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-10-01T17:50:19Z",
+      "snippet": "Opus 5.5\u2019s biggest tell is the word \u201cdependable,\u201d which pops up 23 times more often than in human samples."
+    },
+    {
+      "title": "Judge dismisses antitrust lawsuits over Google\u2019s AI Overviews",
+      "url": "https://www.theverge.com/tech/1003589/google-ai-overviews-chegg-penske-lawsuits-dismissed",
+      "source": "The Verge",
+      "publishedAt": "2026-10-01T17:12:21Z",
+      "snippet": "A federal judge has dismissed a pair of antitrust lawsuits filed by Chegg and Rolling Stone parent company Penske Media Corporation, which accused Google of driving away web traffic with its AI-powere"
+    },
     {
       "title": "Amazon releases its own Jev clone as decision models flood the web",
       "url": "https://techcrunch.com/2026/10/01/amazon-releases-its-own-jev-clone-as-decision-models-flood-the-web/",
@@ -107,46 +156,11 @@
       "snippet": "While AI has made plenty of inroads on people's phones and computers, it's largely failed in dedicated devices. But over the next year, two major AI companies, Meta and OpenAI, will attempt to change "
     },
     {
-      "title": "Reddit is killing RSS feeds and ending public API access because of AI bots",
-      "url": "https://techcrunch.com/2026/09/30/reddit-is-killing-rss-feeds-ending-public-api-access-because-of-ai-bots/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-09-30T17:45:00Z",
-      "snippet": "Reddit is ending support for RSS feeds, as the company continues tightening access to its trove of user-generated content."
-    },
-    {
-      "title": "The ugly economics of consumer AI",
-      "url": "https://techcrunch.com/2026/09/30/the-ugly-economics-of-consumer-ai/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-09-30T17:24:45Z",
-      "snippet": "There\u2019s a reason frontier labs have gotten gun-shy about consumer AI \u2014 and it\u2019s not because the tech isn\u2019t good enough."
-    },
-    {
       "title": "Here\u2019s what AI leaders are saying about Trump\u2019s new safety plan",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1002636/ai-execs-trump-self-policing-deal-comments",
       "source": "The Verge",
       "publishedAt": "2026-09-30T17:15:49Z",
       "snippet": "After hosting a meal with Big Tech leaders on Tuesday, President Donald Trump responded to journalist questions about his artificial intelligence announcements in typical fashion. He said his previous"
-    },
-    {
-      "title": "Meta disputes claim that Muse read a user\u2019s private messages without permission",
-      "url": "https://techcrunch.com/2026/09/30/meta-disputes-claim-that-muse-read-a-users-private-messages-without-permission/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-09-30T16:24:23Z",
-      "snippet": "Meta says its Muse AI agent cannot access a user\u2019s Messages without explicit permission, disputing a journalist\u2019s account that the agent read his private messages while the required Mac setting was tu"
-    },
-    {
-      "title": "DoorDash launches an AI agent you can text to order food",
-      "url": "https://techcrunch.com/2026/09/30/doordash-launches-an-ai-agent-you-can-text-to-order-food/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-09-30T16:00:24Z",
-      "snippet": "By launching an AI agent for food ordering, DoorDash is looking to gain an edge over rivals Uber Eats and Grubhub."
-    },
-    {
-      "title": "Destro AI\u2019s secret sauce is getting robots and humans on the same page",
-      "url": "https://techcrunch.com/2026/09/30/destro-ais-secret-sauce-is-getting-robots-and-humans-on-the-same-page/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-09-30T16:00:00Z",
-      "snippet": "\"One of the biggest reasons we are winning against robotics companies is because we are not a robotics company.\""
     },
     {
       "title": "All the latest news on Meta\u2019s cute, creepy Muse AI agent",
@@ -161,20 +175,6 @@
       "source": "The Verge",
       "publishedAt": "2026-09-30T14:51:49Z",
       "snippet": "Google has launched a pilot program that pays publishers for their contributions to its AI-powered search features, according to a report from The Information. The pilot program reportedly includes ar"
-    },
-    {
-      "title": "Instagram is adding an AI \u2018assistant\u2019 to tell you how to post",
-      "url": "https://www.theverge.com/tech/1002402/instagram-ai-edits-assistant-creators-analytics-youtube",
-      "source": "The Verge",
-      "publishedAt": "2026-09-30T14:30:00Z",
-      "snippet": "Instagram is the latest social media platform to add built-in AI-powered features that will give users feedback on their posts. The company announced Wednesday that its standalone Edits app will now i"
-    },
-    {
-      "title": "Here\u2019s how tech leaders will self-police AI safety under Trump\u2019s deal",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1002584/trump-us-ai-safety-deal-self-regulation-tech-execs",
-      "source": "The Verge",
-      "publishedAt": "2026-09-30T12:24:32Z",
-      "snippet": "We now have the full details of the \"morally binding\" AI safety deal announced by President Trump yesterday, in which top executives agreed to self-regulate their artificial intelligence technology. T"
     }
   ],
   "trending": [
@@ -189,19 +189,14 @@
       "downloads": 40936
     },
     {
-      "id": "prism-ml/Ternary-Bonsai-2-27B-gguf",
-      "displayName": "Ternary Bonsai 2 27B",
-      "downloads": 3766691
-    },
-    {
       "id": "Viggle/Qwen-Image-2.1-viggle-turbo",
       "displayName": "Qwen Image 2.1 viggle turbo",
       "downloads": 217638
     },
     {
-      "id": "ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF",
-      "displayName": "Qwen3.8 27B GSQ RCO",
-      "downloads": 1679425
+      "id": "prism-ml/Ternary-Bonsai-2-27B-gguf",
+      "displayName": "Ternary Bonsai 2 27B",
+      "downloads": 3766691
     },
     {
       "id": "orcarouter/OrcaSAQ-2-Cyber-27B-Uncensored-GGUF",
@@ -209,14 +204,19 @@
       "downloads": 8412
     },
     {
-      "id": "ukisai/Swift-1.5-Qwen3.8-27B-GSQ-RCO-GGUF",
-      "displayName": "Swift 1.5 Qwen3.8 27B GSQ RCO",
-      "downloads": 231149
+      "id": "ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF",
+      "displayName": "Qwen3.8 27B GSQ RCO",
+      "downloads": 1679425
     },
     {
       "id": "ISTA-DASLab/Qwen3.8-Flash-Next-GSQ-RCO-Coder-GGUF",
       "displayName": "Qwen3.8 Flash Next GSQ RCO Coder",
       "downloads": 148142
+    },
+    {
+      "id": "ukisai/Swift-1.5-Qwen3.8-27B-GSQ-RCO-GGUF",
+      "displayName": "Swift 1.5 Qwen3.8 27B GSQ RCO",
+      "downloads": 231149
     },
     {
       "id": "ISTA-DASLab/Qwen3.8-Flash-Next-GSQ-RCO-GGUF",
