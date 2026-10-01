@@ -1,6 +1,27 @@
 {
-  "updated": "2026-09-30T20:28:51Z",
+  "updated": "2026-10-01T01:01:34Z",
   "news": [
+    {
+      "title": "Google releases Gemini 4 Argon, called its most powerful model yet",
+      "url": "https://techcrunch.com/2026/09/30/google-releases-gemini-4-argon-called-its-most-powerful-model-yet/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-09-30T23:43:07Z",
+      "snippet": "Google has released its latest Gemini model, marketing it as a workhorse for coding and cybersecurity work."
+    },
+    {
+      "title": "Valor, Atreides, and Sequoia back AI startup Flow Engineering at $750M valuation",
+      "url": "https://techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-09-30T21:07:40Z",
+      "snippet": "Flow Engineering, which is bringing AI agents to hardware design, also landed Roelof Botha as an angel investor and board member."
+    },
+    {
+      "title": "Google announces Gemini 4 and says it\u2019s so capable that only \u2018trusted cyber defenders\u2019 can have it right now",
+      "url": "https://www.theverge.com/tech/1002980/google-gemini-4-argon",
+      "source": "The Verge",
+      "publishedAt": "2026-09-30T20:41:41Z",
+      "snippet": "Google today revealed its next AI frontier model, which it's calling Gemini 4 Argon. The new model delivers \"frontier performance in complex workflows across real-world software engineering, enterpris"
+    },
     {
       "title": "OpenAI\u2019s Jev clone could help the frontier lab stop its swarming agents",
       "url": "https://techcrunch.com/2026/09/30/openais-jev-clone-could-help-the-frontier-lab-stop-its-swarming-agents/",
@@ -149,32 +170,11 @@
       "snippet": "The US executive branch is no longer acknowledging the existence of \"artificial intelligence.\" Going forward, official policy websites, policy documents, and press releases will refer only to \"Super I"
     },
     {
-      "title": "The internet is convinced Elon Musk\u2019s xAI trolled OpenAI\u2019s \u2018Dots\u2019 launch",
-      "url": "https://techcrunch.com/2026/09/29/the-internet-is-convinced-elon-musks-xai-trolled-openais-dots-launch/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-09-29T22:20:59Z",
-      "snippet": "Before OpenAI launched its new AI agent, Dots, on Tuesday, Elon Musk's xAI had already acquired the domain name \"dot.com,\" which now redirects to the Grok chatbot download page."
-    },
-    {
       "title": "Elon Musk\u2019s AI-powered Grokipedia is updating again",
       "url": "https://www.theverge.com/tech/1002448/elon-musk-grokipedia-ai-updating-again",
       "source": "The Verge",
       "publishedAt": "2026-09-29T21:49:09Z",
       "snippet": "Grokipedia, the AI-powered online encyclopedia from SpaceXAI, appears to be updating articles once again after a months-long pause. In August, Lawfare reported that articles on Grokipedia hadn't revie"
-    },
-    {
-      "title": "OpenAI\u2019s latest features take direct aim at the app store model",
-      "url": "https://techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-09-29T20:15:47Z",
-      "snippet": "OpenAI is building out the pieces of an alternative to the traditional app store model, turning ChatGPT into a place where software can be discovered and used by people and AI agents alike."
-    },
-    {
-      "title": "AI researchers put out videos saying superintelligence is \u2018exactly as dangerous as it sounds\u2019",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1002238/openai-google-anthropic-ai-researchers-safety-interviews",
-      "source": "The Verge",
-      "publishedAt": "2026-09-29T17:35:03Z",
-      "snippet": "\"The chance of human extinction is about a coin flip, in my view,\" Geoffrey Irving, a former OpenAI and Google DeepMind employee, said in a new interview. It's one of a dozen interviews with AI resear"
     }
   ],
   "trending": [
@@ -204,24 +204,24 @@
       "downloads": 7186
     },
     {
-      "id": "unsloth/Qwen-Image-2.1-GGUF",
-      "displayName": "Qwen Image 2.1",
-      "downloads": 302158
-    },
-    {
       "id": "ukisai/Swift-1.5-Qwen3.8-27B-GSQ-RCO-GGUF",
       "displayName": "Swift 1.5 Qwen3.8 27B GSQ RCO",
       "downloads": 175005
     },
     {
+      "id": "unsloth/Qwen-Image-2.1-GGUF",
+      "displayName": "Qwen Image 2.1",
+      "downloads": 302158
+    },
+    {
+      "id": "ISTA-DASLab/Qwen3.8-Flash-Next-GSQ-RCO-Coder-GGUF",
+      "displayName": "Qwen3.8 Flash Next GSQ RCO Coder",
+      "downloads": 33259
+    },
+    {
       "id": "DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
       "displayName": "Qwen3.8 27B TURBO Fable Cold Fusion 735 882 Heretic Uncensored NEO CODER MAX MTP",
       "downloads": 1777756
-    },
-    {
-      "id": "unsloth/Qwen3.8-27B-GGUF",
-      "displayName": "Qwen3.8 27B",
-      "downloads": 6342850
     },
     {
       "id": "ISTA-DASLab/Qwen3.8-Flash-Next-GSQ-RCO-GGUF",
