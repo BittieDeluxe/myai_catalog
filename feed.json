@@ -1,6 +1,13 @@
 {
-  "updated": "2026-10-02T03:48:36Z",
+  "updated": "2026-10-02T10:16:05Z",
   "news": [
+    {
+      "title": "AI music maker Suno now generates spoken words",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1003925/suno-speech-ai-voice-feature-beta-availability",
+      "source": "The Verge",
+      "publishedAt": "2026-10-02T09:42:19Z",
+      "snippet": "Suno is branching out from the world of AI music, launching a new feature that generates spoken voices based on scripts or prompted descriptions. Speech is now available in public beta across Suno's w"
+    },
     {
       "title": "Musk\u2019s AI chatbot Grok reportedly encouraged Trump to capture  Venezuela\u2019s president",
       "url": "https://techcrunch.com/2026/10/01/musks-ai-chatbot-grok-reportedly-encouraged-trump-to-capture-venezuelas-president/",
@@ -168,65 +175,58 @@
       "source": "The Verge",
       "publishedAt": "2026-09-30T15:18:49Z",
       "snippet": "Meta launched a new Muse AI agent it claims can help you with everything from firing off emails to buying stuff online. Muse can be surprisingly effective at delivering on those promises \u2014 if you\u2019re w"
-    },
-    {
-      "title": "Google reportedly tests paying publishers for AI search results",
-      "url": "https://www.theverge.com/tech/1002665/google-paying-publishers-ai-search-features",
-      "source": "The Verge",
-      "publishedAt": "2026-09-30T14:51:49Z",
-      "snippet": "Google has launched a pilot program that pays publishers for their contributions to its AI-powered search features, according to a report from The Information. The pilot program reportedly includes ar"
     }
   ],
   "trending": [
     {
       "id": "abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
       "displayName": "Qwen Image 2.1 Uncensored",
-      "downloads": 1303476
+      "downloads": 1376248
     },
     {
       "id": "Viggle/Qwen-Image-2.1-viggle-turbo",
       "displayName": "Qwen Image 2.1 viggle turbo",
-      "downloads": 217638
+      "downloads": 240660
     },
     {
       "id": "nvidia/Nemotron-3-Diarization",
       "displayName": "Nemotron 3 Diarization",
-      "downloads": 40936
+      "downloads": 44350
     },
     {
       "id": "prism-ml/Ternary-Bonsai-2-27B-gguf",
       "displayName": "Ternary Bonsai 2 27B",
-      "downloads": 3766691
+      "downloads": 3869715
     },
     {
       "id": "orcarouter/OrcaSAQ-2-Cyber-27B-Uncensored-GGUF",
       "displayName": "OrcaSAQ 2 Cyber 27B Uncensored",
-      "downloads": 8412
+      "downloads": 9533
     },
     {
       "id": "ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF",
       "displayName": "Qwen3.8 27B GSQ RCO",
-      "downloads": 1679425
+      "downloads": 1678428
     },
     {
       "id": "ISTA-DASLab/Qwen3.8-Flash-Next-GSQ-RCO-Coder-GGUF",
       "displayName": "Qwen3.8 Flash Next GSQ RCO Coder",
-      "downloads": 148142
-    },
-    {
-      "id": "ukisai/Swift-1.5-Qwen3.8-27B-GSQ-RCO-GGUF",
-      "displayName": "Swift 1.5 Qwen3.8 27B GSQ RCO",
-      "downloads": 231149
+      "downloads": 261136
     },
     {
       "id": "ISTA-DASLab/Qwen3.8-Flash-Next-GSQ-RCO-GGUF",
       "displayName": "Qwen3.8 Flash Next GSQ RCO",
-      "downloads": 952084
+      "downloads": 1141018
+    },
+    {
+      "id": "ukisai/Swift-1.5-Qwen3.8-27B-GSQ-RCO-GGUF",
+      "displayName": "Swift 1.5 Qwen3.8 27B GSQ RCO",
+      "downloads": 284203
     },
     {
       "id": "unsloth/Qwen3.8-27B-GGUF",
       "displayName": "Qwen3.8 27B",
-      "downloads": 6271224
+      "downloads": 6237305
     }
   ]
 }
