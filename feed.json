@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-01T22:16:25Z",
+  "updated": "2026-10-02T03:48:36Z",
   "news": [
     {
       "title": "Musk\u2019s AI chatbot Grok reportedly encouraged Trump to capture  Venezuela\u2019s president",
@@ -184,14 +184,14 @@
       "downloads": 1303476
     },
     {
-      "id": "nvidia/Nemotron-3-Diarization",
-      "displayName": "Nemotron 3 Diarization",
-      "downloads": 40936
-    },
-    {
       "id": "Viggle/Qwen-Image-2.1-viggle-turbo",
       "displayName": "Qwen Image 2.1 viggle turbo",
       "downloads": 217638
+    },
+    {
+      "id": "nvidia/Nemotron-3-Diarization",
+      "displayName": "Nemotron 3 Diarization",
+      "downloads": 40936
     },
     {
       "id": "prism-ml/Ternary-Bonsai-2-27B-gguf",
