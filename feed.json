@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-03T00:53:24Z",
+  "updated": "2026-10-03T07:30:36Z",
   "news": [
     {
       "title": "Meta wants your next gadget to be Muse-infused",
@@ -194,14 +194,14 @@
       "downloads": 44350
     },
     {
-      "id": "prism-ml/Ternary-Bonsai-2-27B-gguf",
-      "displayName": "Ternary Bonsai 2 27B",
-      "downloads": 3869715
-    },
-    {
       "id": "orcarouter/OrcaSAQ-2-Cyber-27B-Uncensored-GGUF",
       "displayName": "OrcaSAQ 2 Cyber 27B Uncensored",
       "downloads": 9533
+    },
+    {
+      "id": "prism-ml/Ternary-Bonsai-2-27B-gguf",
+      "displayName": "Ternary Bonsai 2 27B",
+      "downloads": 3869715
     },
     {
       "id": "ISTA-DASLab/Qwen3.8-Flash-Next-GSQ-RCO-Coder-GGUF",
