@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-05T00:23:41Z",
+  "updated": "2026-10-05T08:11:54Z",
   "news": [
     {
       "title": "Google froze its open source bug bounty program due to a \u2018significant rise\u2019 in AI submissions",
@@ -194,11 +194,6 @@
       "downloads": 53014
     },
     {
-      "id": "Viggle/Qwen-Image-2.1-viggle-turbo",
-      "displayName": "Qwen Image 2.1 viggle turbo",
-      "downloads": 272896
-    },
-    {
       "id": "orcarouter/OrcaSAQ-2-Cyber-27B-Uncensored-GGUF",
       "displayName": "OrcaSAQ 2 Cyber 27B Uncensored",
       "downloads": 14195
@@ -207,6 +202,11 @@
       "id": "ISTA-DASLab/Qwen3.8-Flash-Next-GSQ-RCO-GGUF",
       "displayName": "Qwen3.8 Flash Next GSQ RCO",
       "downloads": 1886975
+    },
+    {
+      "id": "Viggle/Qwen-Image-2.1-viggle-turbo",
+      "displayName": "Qwen Image 2.1 viggle turbo",
+      "downloads": 272896
     },
     {
       "id": "prism-ml/Ternary-Bonsai-2-27B-gguf",
