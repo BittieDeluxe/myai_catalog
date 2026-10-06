@@ -1,6 +1,55 @@
 {
-  "updated": "2026-10-06T08:29:17Z",
+  "updated": "2026-10-06T16:27:14Z",
   "news": [
+    {
+      "title": "Anthropic is giving startups a free year of Claude Team and $1,000 in credits",
+      "url": "https://techcrunch.com/2026/10/06/anthropic-gives-startups-a-free-year-of-enterprise-service-and-1000-in-token-credits/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-10-06T16:00:00Z",
+      "snippet": "\"We created this program because we believe the benefits of AI will reach most people through the companies that build on top of models, rather than through the models alone.\""
+    },
+    {
+      "title": "LibreOffice says \u2018no AI\u2019 is now a software feature",
+      "url": "https://techcrunch.com/2026/10/06/libreoffice-says-no-ai-is-now-a-software-feature/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-10-06T15:25:00Z",
+      "snippet": "The maker of the open source document editor says it has no plans to add AI to its software's default configuration, citing user privacy."
+    },
+    {
+      "title": "Mistral\u2019s new 1T model aims to leapfrog closed and open rivals",
+      "url": "https://techcrunch.com/2026/10/06/mistrals-new-1t-model-aims-to-leapfrog-closed-and-open-rivals/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-10-06T14:33:16Z",
+      "snippet": "French AI lab Mistral AI has released Mistral Large 4, a new large multimodal model aiming to leapfrog both American and Chinese rivals."
+    },
+    {
+      "title": "Pinterest\u2019s AI now turns beauty Pins into action plans",
+      "url": "https://techcrunch.com/2026/10/06/pinterests-ai-now-turns-beauty-pins-into-action-plans/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-10-06T14:00:49Z",
+      "snippet": "Pinterest\u2019s new AI-powered Beauty Guides translate hair and nail Pins into salon terminology, with estimated costs, appointment times, and maintenance needs."
+    },
+    {
+      "title": "Get all your questions answered at TechCrunch Disrupt 2026: The full breakout session agenda revealed",
+      "url": "https://techcrunch.com/2026/10/06/get-all-your-questions-answered-at-techcrunch-disrupt-2026-the-full-breakout-session-agenda-revealed/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-10-06T14:00:00Z",
+      "snippet": "Get all of your scaling and tech questions answered at TechCrunch Disrupt 2026. Here's the full breakout session agenda, happening October 13-15 in San Francisco. Register now to join and save up to $"
+    },
+    {
+      "title": "Google is about to remove free access to Gemini Flash and Pro",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1005451/google-gemini-free-flash-lite-only",
+      "source": "The Verge",
+      "publishedAt": "2026-10-06T13:19:01Z",
+      "snippet": "Starting on October 9th, anyone using Google Gemini on a free plan will be limited to the Flash Lite model. Free users can currently choose from Gemini Flash Lite, Flash, and Pro, but now you'll need "
+    },
+    {
+      "title": "Amazon Alexa Plus keeps creepily singing \u2018lalala\u2019 for minutes on end",
+      "url": "https://www.theverge.com/tech/1005342/amazon-alexa-plus-keeps-creepily-singing-lalala-for-minutes-on-end",
+      "source": "The Verge",
+      "publishedAt": "2026-10-06T10:53:11Z",
+      "snippet": "An unsettling Alexa Plus bug has seen some Amazon Echo smart home speakers reduced to saying - and sometimes singing - nothing but \"lalala\" on repeat for minutes at a time, often in the middle of conv"
+    },
     {
       "title": "Gemini Call for Me might tell your mom you\u2019re running late",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1005177/google-gemini-call-for-me-expansion-rumors",
@@ -126,107 +175,58 @@
       "source": "TechCrunch",
       "publishedAt": "2026-10-05T14:30:00Z",
       "snippet": "Meet the final five Startup Battlefield judges who'll decide who wins the pitch competition at TechCrunch Disrupt 2026. Get your pass now to save up to $100, and get a second at 50% off."
-    },
-    {
-      "title": "The final Disrupt Stage lineup: Three days of conversations you won\u2019t hear anywhere outside of TechCrunch Disrupt 2026",
-      "url": "https://techcrunch.com/2026/10/05/the-final-disrupt-stage-lineup-three-days-of-conversations-you-wont-hear-anywhere-outside-of-techcrunch-disrupt-2026/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-10-05T14:00:00Z",
-      "snippet": "The full TechCrunch Disrupt Stage lineup revealed, featuring Max Hodak, Mark Wahlberg, Benchmark partners, and more. Register now to save up to $100 on your pass and get a second at 50% off."
-    },
-    {
-      "title": "An open-source tool lets you delete 12GB of Apple Intelligence data on macOS",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1004672/mac-delete-apple-intelligence-ai-tool",
-      "source": "The Verge",
-      "publishedAt": "2026-10-05T13:47:14Z",
-      "snippet": "Getting some extra storage space on your Mac could be as easy as deleting Apple's AI features with a new open-source command line tool called RemoveMacAI. There used to be a single Settings toggle for"
-    },
-    {
-      "title": "OpenAI is sticking more ads in ChatGPT",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1004655/openai-chatgpt-visual-ads",
-      "source": "The Verge",
-      "publishedAt": "2026-10-05T13:09:48Z",
-      "snippet": "OpenAI's latest ad format will put images of sponsored products and services on your screen. The ads, which OpenAI will begin testing in the US later this month, will \"initially\" appear when you gener"
-    },
-    {
-      "title": "Can Safeworld convince people that GenAI robots won\u2019t hurt them?",
-      "url": "https://techcrunch.com/2026/10/05/can-safeworld-convince-people-that-gen-ai-robots-wont-hurt-them/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-10-05T12:00:00Z",
-      "snippet": "Safeworld is building digital humans to make sure robots don't hurt the real ones."
-    },
-    {
-      "title": "Google froze its open source bug bounty program due to a \u2018significant rise\u2019 in AI submissions",
-      "url": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-10-04T20:31:07Z",
-      "snippet": "AI slop seems to be overwhelming bug bounty programs."
-    },
-    {
-      "title": "Can \u2018super intelligence\u2019 and a non-binding safety pact solve AI\u2019s image problem?",
-      "url": "https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-10-04T20:08:34Z",
-      "snippet": "On Equity, we discussed the Trump administration's attempts to rebrand AI."
-    },
-    {
-      "title": "Trump unveils his new Super Intelligence Force",
-      "url": "https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-10-04T15:15:10Z",
-      "snippet": "This new task force is Trump's latest response to the debate over AI safety."
     }
   ],
   "trending": [
     {
       "id": "abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
       "displayName": "Qwen Image 2.1 Uncensored",
-      "downloads": 1638838
+      "downloads": 1721760
     },
     {
       "id": "Venastine-Research/Xing4.0-29B-A4B-GGUF",
       "displayName": "Xing4.0 29B A4B",
-      "downloads": 18863
+      "downloads": 30585
     },
     {
       "id": "jialinyyzz/humanizer",
       "displayName": "humanizer",
-      "downloads": 10329
+      "downloads": 15134
     },
     {
       "id": "ISTA-DASLab/Qwen3.8-Flash-Next-GSQ-RCO-GGUF",
       "displayName": "Qwen3.8 Flash Next GSQ RCO",
-      "downloads": 2244732
+      "downloads": 2709781
     },
     {
       "id": "orcarouter/OrcaSAQ-2-Cyber-27B-Uncensored-GGUF",
       "displayName": "OrcaSAQ 2 Cyber 27B Uncensored",
-      "downloads": 16802
-    },
-    {
-      "id": "Viggle/Qwen-Image-2.1-viggle-turbo",
-      "displayName": "Qwen Image 2.1 viggle turbo",
-      "downloads": 286885
+      "downloads": 18114
     },
     {
       "id": "prism-ml/Ternary-Bonsai-2-27B-gguf",
       "displayName": "Ternary Bonsai 2 27B",
-      "downloads": 4120718
+      "downloads": 4193836
+    },
+    {
+      "id": "Viggle/Qwen-Image-2.1-viggle-turbo",
+      "displayName": "Qwen Image 2.1 viggle turbo",
+      "downloads": 302425
     },
     {
       "id": "nvidia/Nemotron-3-Diarization",
       "displayName": "Nemotron 3 Diarization",
-      "downloads": 55491
+      "downloads": 58703
     },
     {
       "id": "ISTA-DASLab/Qwen3.8-Flash-Next-GSQ-RCO-Coder-GGUF",
       "displayName": "Qwen3.8 Flash Next GSQ RCO Coder",
-      "downloads": 389398
+      "downloads": 478633
     },
     {
       "id": "DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
       "displayName": "Qwen3.8 27B TURBO Fable Cold Fusion 735 882 Heretic Uncensored NEO CODER MAX MTP",
-      "downloads": 2134360
+      "downloads": 2125779
     }
   ]
 }
