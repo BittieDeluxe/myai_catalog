@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-06T01:05:00Z",
+  "updated": "2026-10-06T08:29:17Z",
   "news": [
     {
       "title": "Gemini Call for Me might tell your mom you\u2019re running late",
@@ -189,6 +189,11 @@
       "downloads": 18863
     },
     {
+      "id": "jialinyyzz/humanizer",
+      "displayName": "humanizer",
+      "downloads": 10329
+    },
+    {
       "id": "ISTA-DASLab/Qwen3.8-Flash-Next-GSQ-RCO-GGUF",
       "displayName": "Qwen3.8 Flash Next GSQ RCO",
       "downloads": 2244732
@@ -199,24 +204,19 @@
       "downloads": 16802
     },
     {
-      "id": "jialinyyzz/humanizer",
-      "displayName": "humanizer",
-      "downloads": 10329
-    },
-    {
       "id": "Viggle/Qwen-Image-2.1-viggle-turbo",
       "displayName": "Qwen Image 2.1 viggle turbo",
       "downloads": 286885
     },
     {
-      "id": "nvidia/Nemotron-3-Diarization",
-      "displayName": "Nemotron 3 Diarization",
-      "downloads": 55491
-    },
-    {
       "id": "prism-ml/Ternary-Bonsai-2-27B-gguf",
       "displayName": "Ternary Bonsai 2 27B",
       "downloads": 4120718
+    },
+    {
+      "id": "nvidia/Nemotron-3-Diarization",
+      "displayName": "Nemotron 3 Diarization",
+      "downloads": 55491
     },
     {
       "id": "ISTA-DASLab/Qwen3.8-Flash-Next-GSQ-RCO-Coder-GGUF",
