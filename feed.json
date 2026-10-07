@@ -1,6 +1,20 @@
 {
-  "updated": "2026-10-06T22:13:43Z",
+  "updated": "2026-10-07T04:00:49Z",
   "news": [
+    {
+      "title": "OpenAI drops another batch of mathematical breakthroughs",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1005004/openai-math-release-github",
+      "source": "The Verge",
+      "publishedAt": "2026-10-06T23:26:38Z",
+      "snippet": "OpenAI has revealed solutions to a number of long-standing mathematics problems produced by an unreleased frontier model in a batch of 722 manuscripts, covering 372 result families that group related "
+    },
+    {
+      "title": "Ex-Ramp engineers raise $20M for platform Melius after scrapping their first product",
+      "url": "https://techcrunch.com/2026/10/06/ex-ramp-engineers-raise-20m-for-platform-melius-after-scrapping-their-first-product/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-10-06T22:34:03Z",
+      "snippet": "Instead of helping marketers manage and optimize ad spend, the company is focusing on building the tools that generate the creative assets and campaigns."
+    },
     {
       "title": "How AI decision models could change content moderation",
       "url": "https://techcrunch.com/2026/10/06/how-ai-decision-models-could-change-content-moderation/",
@@ -156,25 +170,11 @@
       "snippet": "An invisible, machine-readable watermark in text output is rolling out to ChatGPT and Codex, but only for users in the European Union at first. OpenAI says its textGrain watermarking \"matched or excee"
     },
     {
-      "title": "Hot Girl Hotline is like \u2018Dear Abby\u2019 for the AI era",
-      "url": "https://techcrunch.com/2026/10/05/hot-girl-hotline-is-like-dear-abby-for-the-ai-era/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-10-05T17:29:22Z",
-      "snippet": "Founded by two sisters, Hot Girl Hotline uses AI to give young women personalized dating and relationship advice, with an emphasis on safety and avoiding emotional dependency."
-    },
-    {
       "title": "OpenAI PR tells journalist to \u2018move on\u2019 while asking Sam Altman about a ChatGPT user\u2019s suicide",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1004827/openai-sam-altman-vanity-fair-interview-pr",
       "source": "The Verge",
       "publishedAt": "2026-10-05T16:55:42Z",
       "snippet": "An OpenAI publicist tried to change the topic of CEO Sam Altman's interview with Vanity Fair's Mark Guiducci after the editor brought up a ChatGPT user's suicide. When Guiducci confronted Altman about"
-    },
-    {
-      "title": "Sam Altman says \u2018some bad things\u2019 will happen, but AI is totally worth it",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1004811/openai-altman-bad-things-ai-tradeoff",
-      "source": "The Verge",
-      "publishedAt": "2026-10-05T16:44:21Z",
-      "snippet": "Sam Altman thinks that the benefits of AI will be so great that \"the world should accept some bad things happening\" along the way. The OpenAI CEO pointed to hacks, scams, and \"other bad things\" as cos"
     }
   ],
   "trending": [
@@ -209,24 +209,24 @@
       "downloads": 4193836
     },
     {
+      "id": "ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF",
+      "displayName": "Qwen3.8 27B GSQ RCO",
+      "downloads": 1589314
+    },
+    {
       "id": "Viggle/Qwen-Image-2.1-viggle-turbo",
       "displayName": "Qwen Image 2.1 viggle turbo",
       "downloads": 302425
     },
     {
-      "id": "nvidia/Nemotron-3-Diarization",
-      "displayName": "Nemotron 3 Diarization",
-      "downloads": 58703
-    },
-    {
-      "id": "ISTA-DASLab/Qwen3.8-Flash-Next-GSQ-RCO-Coder-GGUF",
-      "displayName": "Qwen3.8 Flash Next GSQ RCO Coder",
-      "downloads": 478633
-    },
-    {
       "id": "DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
       "displayName": "Qwen3.8 27B TURBO Fable Cold Fusion 735 882 Heretic Uncensored NEO CODER MAX MTP",
       "downloads": 2125779
+    },
+    {
+      "id": "nvidia/Nemotron-3-Diarization",
+      "displayName": "Nemotron 3 Diarization",
+      "downloads": 58703
     }
   ]
 }
