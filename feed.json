@@ -1,6 +1,20 @@
 {
-  "updated": "2026-10-07T04:00:49Z",
+  "updated": "2026-10-07T12:32:53Z",
   "news": [
+    {
+      "title": "AI could upend food delivery",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1005726/doordash-ai-agentic-food-delivery-bites",
+      "source": "The Verge",
+      "publishedAt": "2026-10-07T12:00:00Z",
+      "snippet": "DoorDash, the leading food delivery app, processed 970 million orders in its second quarter this year and generated $4.5 billion in revenue. A 10-person startup called Bites is a blip in comparison: I"
+    },
+    {
+      "title": "ChatGPT for Teens is an \u2018unacceptable risk,\u2019 says Common Sense Media",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1006355/openai-chatgpt-for-teens-common-sense-media",
+      "source": "The Verge",
+      "publishedAt": "2026-10-07T09:00:00Z",
+      "snippet": "Common Sense Media, a nonprofit that offers reviews of apps, services, and entertainment with a focus on youth safety, today said that OpenAI's ChatGPT for Teens is an \"unacceptable risk.\" ChatGPT for"
+    },
     {
       "title": "OpenAI drops another batch of mathematical breakthroughs",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1005004/openai-math-release-github",
@@ -161,72 +175,58 @@
       "source": "TechCrunch",
       "publishedAt": "2026-10-05T18:29:00Z",
       "snippet": "TikTok describes its new Shopping Assistant as a conversational AI agent designed to help users discover and purchase products."
-    },
-    {
-      "title": "OpenAI is adding text watermarking in ChatGPT and Codex",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1004880/openai-chatgpt-text-watermarks-eu-ai-act",
-      "source": "The Verge",
-      "publishedAt": "2026-10-05T18:08:39Z",
-      "snippet": "An invisible, machine-readable watermark in text output is rolling out to ChatGPT and Codex, but only for users in the European Union at first. OpenAI says its textGrain watermarking \"matched or excee"
-    },
-    {
-      "title": "OpenAI PR tells journalist to \u2018move on\u2019 while asking Sam Altman about a ChatGPT user\u2019s suicide",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1004827/openai-sam-altman-vanity-fair-interview-pr",
-      "source": "The Verge",
-      "publishedAt": "2026-10-05T16:55:42Z",
-      "snippet": "An OpenAI publicist tried to change the topic of CEO Sam Altman's interview with Vanity Fair's Mark Guiducci after the editor brought up a ChatGPT user's suicide. When Guiducci confronted Altman about"
     }
   ],
   "trending": [
     {
       "id": "abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
       "displayName": "Qwen Image 2.1 Uncensored",
-      "downloads": 1721760
+      "downloads": 1820627
     },
     {
       "id": "Venastine-Research/Xing4.0-29B-A4B-GGUF",
       "displayName": "Xing4.0 29B A4B",
-      "downloads": 30585
+      "downloads": 33633
     },
     {
       "id": "jialinyyzz/humanizer",
       "displayName": "humanizer",
-      "downloads": 15134
+      "downloads": 19483
     },
     {
       "id": "ISTA-DASLab/Qwen3.8-Flash-Next-GSQ-RCO-GGUF",
       "displayName": "Qwen3.8 Flash Next GSQ RCO",
-      "downloads": 2709781
+      "downloads": 3080123
     },
     {
       "id": "orcarouter/OrcaSAQ-2-Cyber-27B-Uncensored-GGUF",
       "displayName": "OrcaSAQ 2 Cyber 27B Uncensored",
-      "downloads": 18114
+      "downloads": 19030
     },
     {
       "id": "prism-ml/Ternary-Bonsai-2-27B-gguf",
       "displayName": "Ternary Bonsai 2 27B",
-      "downloads": 4193836
-    },
-    {
-      "id": "ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF",
-      "displayName": "Qwen3.8 27B GSQ RCO",
-      "downloads": 1589314
-    },
-    {
-      "id": "Viggle/Qwen-Image-2.1-viggle-turbo",
-      "displayName": "Qwen Image 2.1 viggle turbo",
-      "downloads": 302425
+      "downloads": 4271466
     },
     {
       "id": "DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
       "displayName": "Qwen3.8 27B TURBO Fable Cold Fusion 735 882 Heretic Uncensored NEO CODER MAX MTP",
-      "downloads": 2125779
+      "downloads": 2088541
+    },
+    {
+      "id": "ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF",
+      "displayName": "Qwen3.8 27B GSQ RCO",
+      "downloads": 1546030
+    },
+    {
+      "id": "Viggle/Qwen-Image-2.1-viggle-turbo",
+      "displayName": "Qwen Image 2.1 viggle turbo",
+      "downloads": 326801
     },
     {
       "id": "nvidia/Nemotron-3-Diarization",
       "displayName": "Nemotron 3 Diarization",
-      "downloads": 58703
+      "downloads": 62252
     }
   ]
 }
