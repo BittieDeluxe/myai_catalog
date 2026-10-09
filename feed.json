@@ -1,6 +1,55 @@
 {
-  "updated": "2026-10-09T08:23:59Z",
+  "updated": "2026-10-09T16:46:18Z",
   "news": [
+    {
+      "title": "Danu Robotics\u2019 fight to build a better recycling robot",
+      "url": "https://techcrunch.com/2026/10/09/danu-robotics-fight-to-build-a-better-recycling-robot/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-10-09T16:45:00Z",
+      "snippet": "For six years, Danu founder Amy Ma has been working on a better way to sort recyclable waste."
+    },
+    {
+      "title": "We can\u2019t help treating AI like it\u2019s human. But should we?",
+      "url": "https://techcrunch.com/2026/10/09/we-cant-help-treating-ai-like-its-human-but-should-we/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-10-09T16:40:14Z",
+      "snippet": "\"When we are drawn into even the most primitive exchanges with a relational artifact, we believe it cares for us,\" Dr. Sherry Turkle writes. \"And we are wired to care for it in return.\""
+    },
+    {
+      "title": "a16z\u2019s Olivia Moore on the state of consumer AI",
+      "url": "https://techcrunch.com/2026/10/09/a16zs-olivia-moore-on-the-state-of-consumer-ai/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-10-09T15:43:33Z",
+      "snippet": "Moore sees a huge opportunity in consumer AI, particularly if the industry can tap into revenue streams beyond just subscriptions and API charges."
+    },
+    {
+      "title": "Trump\u2019s attempt to rename AI is looking awfully artificial",
+      "url": "https://www.theverge.com/policy/1008677/trump-super-intelligence-ai-rebranding",
+      "source": "The Verge",
+      "publishedAt": "2026-10-09T14:25:43Z",
+      "snippet": "President Donald Trump has a knack for turning words against his enemies. His first successful presidential run was built on monikers like \"Little Marco\" and \"Crooked Hillary\"; he changed \"fake news\" "
+    },
+    {
+      "title": "Instinct was the buzziest AI agent around \u2014 can it survive Muse?",
+      "url": "https://www.theverge.com/tech/1008254/instinct-agent-ai-hands-on-muse-dots",
+      "source": "The Verge",
+      "publishedAt": "2026-10-09T14:00:00Z",
+      "snippet": "Before there were cute little guys, there was Instinct. In August, the startup got its AI agent to market with an unusual playbook: invite-only, no marketing, and barely so much as a website. And yet,"
+    },
+    {
+      "title": "TechCrunch Disrupt 2026 starts in 4 days \u2014 lock in your pass savings of up to $100 before prices rise",
+      "url": "https://techcrunch.com/2026/10/09/techcrunch-disrupt-2026-starts-in-4-days-lock-in-your-pass-savings-of-up-to-100-before-prices-rise/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-10-09T14:00:00Z",
+      "snippet": "Four days until TechCrunch Disrupt 2026 starts, when 10,000 founders, investors, and tech leaders gather in San Francisco's Moscone West on October 13-15. Save up to $100 on your price. Plus, save 50%"
+    },
+    {
+      "title": "OpenAI doubles down on decision to fire three AI safety researchers",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1008604/openai-defends-decision-fire-safety-researchers",
+      "source": "The Verge",
+      "publishedAt": "2026-10-09T09:48:26Z",
+      "snippet": "OpenAI is standing firm on its decision to fire three safety researchers after an investigation found they committed \"a significant breach of trust.\" In a post on X on Friday, the company said Jasmine"
+    },
     {
       "title": "Anthropic launches free AI security scans for open-source projects",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1008521/anthropic-open-source-oss-scanner",
@@ -126,107 +175,58 @@
       "source": "The Verge",
       "publishedAt": "2026-10-08T14:28:03Z",
       "snippet": "Google is launching a \"universal\" Gemini AI agent that can work across apps and devices in the background. The tool, announced as part of the Gemini at Work event on Thursday, will be available within"
-    },
-    {
-      "title": "Can you trust Meta\u2019s Muse or OpenAI\u2019s Dots to run your life?",
-      "url": "https://www.theverge.com/podcast/1007408/meta-muse-openai-dots-ai-agent-race-privacy-free",
-      "source": "The Verge",
-      "publishedAt": "2026-10-08T14:00:00Z",
-      "snippet": "My Decoder guest today is Hayden Field, The Verge\u2019s senior AI reporter, and we\u2019re discussing the new wave of consumer-friendly AI agents. If you\u2019ve been paying attention to this space, you know AI ent"
-    },
-    {
-      "title": "Artificial is a wicked satire that also sticks to the facts",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1007786/artificial-is-a-wicked-satire-that-also-sticks-to-the-facts",
-      "source": "The Verge",
-      "publishedAt": "2026-10-08T14:00:00Z",
-      "snippet": "At the New York Film Festival premiere of Artificial, Luca Guadagnino's satirical Sam Altman biopic, the director said onstage that \"[when] someone wants to play God, that's very interesting to me.\" T"
-    },
-    {
-      "title": "5 days to TechCrunch Disrupt 2026: Don\u2019t pay more at the door for your pass",
-      "url": "https://techcrunch.com/2026/10/08/5-days-to-techcrunch-disrupt-2026-dont-pay-more-at-the-door/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-10-08T14:00:00Z",
-      "snippet": "The global tech ecosystem gathers at TechCrunch Disrupt 2026 at San Francisco\u2019s Moscone West on October 13-15. Get your pass now to save up to $100. Get a second of the same ticket type to save 50%."
-    },
-    {
-      "title": "Cal AI\u2019s 19-year-old founder just raised $10M for his new AI startup",
-      "url": "https://techcrunch.com/2026/10/08/cal-ais-19-year-old-founder-just-raised-10m-for-his-new-ai-startup/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-10-08T14:00:00Z",
-      "snippet": "Zach Yadegari, the teen co-founder of popular Cal AI calorie tracking app, has launched a new personal AI agent startup that competes with Instinct, Muse, and Bee."
-    },
-    {
-      "title": "Google releases a new local-first Granola competitor",
-      "url": "https://techcrunch.com/2026/10/08/google-releases-a-new-local-first-granola-competitor/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-10-08T13:28:39Z",
-      "snippet": "Google\u2019s new AI Edge Foresight app takes on Granola with an offline meeting note-taker that can transcribe conversations, generate notes, and answer questions using on-device AI."
-    },
-    {
-      "title": "China\u2019s Manus raises over $500M in first funding round since split with Meta",
-      "url": "https://techcrunch.com/2026/10/08/chinas-manus-raises-over-500m-in-first-funding-round-since-split-with-meta/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-10-08T13:20:32Z",
-      "snippet": "Boyu Capital and IDG Capital led the funding round, and existing shareholders Tencent, HSG (formerly known as Sequoia China), ZhenFund, and others also participated."
-    },
-    {
-      "title": "ChatGPT\u2019s \u2018Intelligent UI\u2019 update fills its responses with pictures, charts, and buttons",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1007276/openai-chatgpt-intelligent-ui-gpt-6",
-      "source": "The Verge",
-      "publishedAt": "2026-10-07T19:10:42Z",
-      "snippet": "OpenAI is launching a new Intelligent UI feature in ChatGPT that allows the chatbot to answer your questions with interactive visuals. The update, which is rolling out to all users alongside GPT-6, gi"
     }
   ],
   "trending": [
     {
-      "id": "abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
-      "displayName": "Qwen Image 2.1 Uncensored",
-      "downloads": 1933066
-    },
-    {
       "id": "jialinyyzz/humanizer",
       "displayName": "humanizer",
-      "downloads": 23439
+      "downloads": 29470
+    },
+    {
+      "id": "abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
+      "displayName": "Qwen Image 2.1 Uncensored",
+      "downloads": 2013268
     },
     {
       "id": "Venastine-Research/Xing4.0-29B-A4B-GGUF",
       "displayName": "Xing4.0 29B A4B",
-      "downloads": 36481
+      "downloads": 38740
     },
     {
       "id": "ISTA-DASLab/Qwen3.8-Flash-Next-GSQ-RCO-GGUF",
       "displayName": "Qwen3.8 Flash Next GSQ RCO",
-      "downloads": 3405442
+      "downloads": 3559321
     },
     {
       "id": "unsloth/embeddinggemma-2-GGUF",
       "displayName": "embeddinggemma 2",
-      "downloads": 29692
-    },
-    {
-      "id": "orcarouter/OrcaSAQ-2-Cyber-27B-Uncensored-GGUF",
-      "displayName": "OrcaSAQ 2 Cyber 27B Uncensored",
-      "downloads": 20613
+      "downloads": 41582
     },
     {
       "id": "DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
       "displayName": "Qwen3.8 27B TURBO Fable Cold Fusion 735 882 Heretic Uncensored NEO CODER MAX MTP",
-      "downloads": 2037446
-    },
-    {
-      "id": "prism-ml/Ternary-Bonsai-2-27B-gguf",
-      "displayName": "Ternary Bonsai 2 27B",
-      "downloads": 4345410
-    },
-    {
-      "id": "orcarouter/Qwen3.8-Flash-Next-Uncensored-GGUF",
-      "displayName": "Qwen3.8 Flash Next Uncensored",
-      "downloads": 492022
+      "downloads": 2000216
     },
     {
       "id": "ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF",
       "displayName": "Qwen3.8 27B GSQ RCO",
-      "downloads": 1517150
+      "downloads": 1490741
+    },
+    {
+      "id": "orcarouter/OrcaSAQ-2-Cyber-27B-Uncensored-GGUF",
+      "displayName": "OrcaSAQ 2 Cyber 27B Uncensored",
+      "downloads": 21406
+    },
+    {
+      "id": "prism-ml/Ternary-Bonsai-2-27B-gguf",
+      "displayName": "Ternary Bonsai 2 27B",
+      "downloads": 4389072
+    },
+    {
+      "id": "ConwayResearch/Underdog-Saluki-27B-1.0",
+      "displayName": "Underdog Saluki 27B 1.0",
+      "downloads": 15274
     }
   ]
 }
