@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-10T04:04:10Z",
+  "updated": "2026-10-10T11:48:36Z",
   "news": [
     {
       "title": "Anthropic can\u2019t reliably control its AI agents. It\u2019s cutting off its internal evals from the live internet instead",
@@ -181,52 +181,52 @@
     {
       "id": "jialinyyzz/humanizer",
       "displayName": "humanizer",
-      "downloads": 29470
+      "downloads": 33664
     },
     {
       "id": "abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
       "displayName": "Qwen Image 2.1 Uncensored",
-      "downloads": 2013268
+      "downloads": 2096562
     },
     {
       "id": "Venastine-Research/Xing4.0-29B-A4B-GGUF",
       "displayName": "Xing4.0 29B A4B",
-      "downloads": 38740
+      "downloads": 45199
     },
     {
       "id": "ISTA-DASLab/Qwen3.8-Flash-Next-GSQ-RCO-GGUF",
       "displayName": "Qwen3.8 Flash Next GSQ RCO",
-      "downloads": 3559321
-    },
-    {
-      "id": "unsloth/embeddinggemma-2-GGUF",
-      "displayName": "embeddinggemma 2",
-      "downloads": 41582
+      "downloads": 3922328
     },
     {
       "id": "ConwayResearch/Underdog-Saluki-27B-1.0",
       "displayName": "Underdog Saluki 27B 1.0",
-      "downloads": 15274
+      "downloads": 59191
+    },
+    {
+      "id": "unsloth/embeddinggemma-2-GGUF",
+      "displayName": "embeddinggemma 2",
+      "downloads": 50551
     },
     {
       "id": "DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
       "displayName": "Qwen3.8 27B TURBO Fable Cold Fusion 735 882 Heretic Uncensored NEO CODER MAX MTP",
-      "downloads": 2000216
-    },
-    {
-      "id": "ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF",
-      "displayName": "Qwen3.8 27B GSQ RCO",
-      "downloads": 1490741
+      "downloads": 1960274
     },
     {
       "id": "prism-ml/Ternary-Bonsai-2-27B-gguf",
       "displayName": "Ternary Bonsai 2 27B",
-      "downloads": 4389072
+      "downloads": 4457576
     },
     {
-      "id": "orcarouter/OrcaSAQ-2-Cyber-27B-Uncensored-GGUF",
-      "displayName": "OrcaSAQ 2 Cyber 27B Uncensored",
-      "downloads": 21406
+      "id": "nerkyor/Qwen3.8-27B-Coder390-EfficientThink-Opus5.5-GPT6Astra-Grok4.7-DSV4Pro-K3-SFT-RLOO-MTP-DFlash2",
+      "displayName": "Qwen3.8 27B Coder390 EfficientThink Opus5.5 GPT6Astra Grok4.7 DSV4Pro K3 SFT RLOO MTP DFlash2",
+      "downloads": 42336
+    },
+    {
+      "id": "ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF",
+      "displayName": "Qwen3.8 27B GSQ RCO",
+      "downloads": 1484655
     }
   ]
 }
