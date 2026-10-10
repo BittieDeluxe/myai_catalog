@@ -1,12 +1,19 @@
 {
-  "updated": "2026-10-09T22:10:02Z",
+  "updated": "2026-10-10T04:04:10Z",
   "news": [
+    {
+      "title": "Anthropic can\u2019t reliably control its AI agents. It\u2019s cutting off its internal evals from the live internet instead",
+      "url": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-10-10T00:18:32Z",
+      "snippet": "Anthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further notice."
+    },
     {
       "title": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
       "url": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/",
       "source": "TechCrunch",
       "publishedAt": "2026-10-09T21:41:29Z",
-      "snippet": "TypeSafe AI raised $870 million in a round led by a16Z."
+      "snippet": "What has users and large corporations so excited about Jev is TypeSafe\u2019s claim that it works significantly faster and uses far fewer tokens than LLMs."
     },
     {
       "title": "Anthropic\u2019s AI gave Philadelphia police a fake tip about an unsolved homicide",
@@ -156,13 +163,6 @@
       "snippet": "Google is turning Gemini into an AI agent that can plan, execute tasks, and work across business apps and systems. The agent can delegate work to subagents, use multiple AI models, and even gets its o"
     },
     {
-      "title": "Anthropic changes usage policy to ban model abuse and election interference",
-      "url": "https://techcrunch.com/2026/10/08/anthropic-changes-usage-policy-to-ban-model-abuse-and-election-interference/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-10-08T18:16:24Z",
-      "snippet": "Anthropic's updated usage policy explicitly prohibits users from repeatedly abusing Claude in extreme cases, though ordinary frustration and criticism are still allowed. The new rules also address ele"
-    },
-    {
       "title": "USA Today becomes the latest publisher to sue OpenAI",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1008198/usa-today-openai-copyright-lawsuit",
       "source": "The Verge",
@@ -219,14 +219,14 @@
       "downloads": 1490741
     },
     {
-      "id": "orcarouter/OrcaSAQ-2-Cyber-27B-Uncensored-GGUF",
-      "displayName": "OrcaSAQ 2 Cyber 27B Uncensored",
-      "downloads": 21406
-    },
-    {
       "id": "prism-ml/Ternary-Bonsai-2-27B-gguf",
       "displayName": "Ternary Bonsai 2 27B",
       "downloads": 4389072
+    },
+    {
+      "id": "orcarouter/OrcaSAQ-2-Cyber-27B-Uncensored-GGUF",
+      "displayName": "OrcaSAQ 2 Cyber 27B Uncensored",
+      "downloads": 21406
     }
   ]
 }
