@@ -1,6 +1,34 @@
 {
-  "updated": "2026-10-10T11:48:36Z",
+  "updated": "2026-10-10T16:51:48Z",
   "news": [
+    {
+      "title": "3 days to TechCrunch Disrupt 2026: Meet the startups before they hit mainstream",
+      "url": "https://techcrunch.com/2026/10/10/3-days-to-disrupt-2026-meet-the-startups-before-they-hit-mainstream/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-10-10T15:00:00Z",
+      "snippet": "TechCrunch Disrupt 2026 takes place October 13-15 in San Francisco. Over 300 startups will show what they\u2019ve built to 10,000 tech leaders. Plus, 250+ speakers are ready to share insights across 200+ s"
+    },
+    {
+      "title": "Anthropic is cutting off its internal evaluations from the internet",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1009286/anthropic-is-cutting-off-its-internal-evaluations-from-the-internet",
+      "source": "The Verge",
+      "publishedAt": "2026-10-10T14:41:16Z",
+      "snippet": "After a recent spate of high-profile incidents in which AI agents escaped containment, Anthropic is cutting off internet access for all internal evaluations. In a report Friday, the company detailed \""
+    },
+    {
+      "title": "Here are the top AI agents that can live in your text messages",
+      "url": "https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-10-10T14:00:00Z",
+      "snippet": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work."
+    },
+    {
+      "title": "AI agent makers are promising privacy \u2014 will they deliver?",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1009051/privacy-ai-agent-promises-openai-meta-muse-dots",
+      "source": "The Verge",
+      "publishedAt": "2026-10-10T13:00:00Z",
+      "snippet": "At this year's OpenAI DevDay, CEO Sam Altman unveiled the company's new AI agent Dots - and told the crowd that the company wants to \"set a new standard for privacy in frontier AI.\" OpenAI would spend"
+    },
     {
       "title": "Anthropic can\u2019t reliably control its AI agents. It\u2019s cutting off its internal evals from the live internet instead",
       "url": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
@@ -147,34 +175,6 @@
       "source": "TechCrunch",
       "publishedAt": "2026-10-08T18:19:45Z",
       "snippet": "The company behind the popular LMArena leaderboard has raised $200 million led by Lightspeed and Khosla, and is now measuring AI models on alignment issues such as lying."
-    },
-    {
-      "title": "OpenAI\u2019s revenue is reportedly $20 billion less than previously projected",
-      "url": "https://techcrunch.com/2026/10/08/openais-revenue-is-reportedly-20-billion-less-than-previously-projected/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-10-08T18:19:42Z",
-      "snippet": "It had previously been reported that the AI lab's annualized revenue was some $70 billion, but a new report claims it's a whole lot less than that."
-    },
-    {
-      "title": "Google brings agentic AI to Gemini, starting with businesses",
-      "url": "https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-10-08T18:18:00Z",
-      "snippet": "Google is turning Gemini into an AI agent that can plan, execute tasks, and work across business apps and systems. The agent can delegate work to subagents, use multiple AI models, and even gets its o"
-    },
-    {
-      "title": "USA Today becomes the latest publisher to sue OpenAI",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1008198/usa-today-openai-copyright-lawsuit",
-      "source": "The Verge",
-      "publishedAt": "2026-10-08T17:58:33Z",
-      "snippet": "USA Today Co., along with the several local newspapers it owns, is suing OpenAI over claims that the company copied \"hundreds of thousands\" of articles to train its AI models, as reported earlier by R"
-    },
-    {
-      "title": "SpaceXAI backs Omarchy, the controversial Linux distro, with $1.5 million in compute",
-      "url": "https://www.theverge.com/tech/1008148/spacexai-omarchy-grok-david-heinemeier-hansson",
-      "source": "The Verge",
-      "publishedAt": "2026-10-08T17:57:01Z",
-      "snippet": "If Elon Musk and SpaceXAI were going to back any Linux distro, it seems obvious they'd back Omarchy. Today it was announced that SpaceXAI would be joining the Omacom Foundation, which oversees Omarchy"
     }
   ],
   "trending": [
@@ -194,19 +194,24 @@
       "downloads": 45199
     },
     {
-      "id": "ISTA-DASLab/Qwen3.8-Flash-Next-GSQ-RCO-GGUF",
-      "displayName": "Qwen3.8 Flash Next GSQ RCO",
-      "downloads": 3922328
-    },
-    {
       "id": "ConwayResearch/Underdog-Saluki-27B-1.0",
       "displayName": "Underdog Saluki 27B 1.0",
       "downloads": 59191
     },
     {
+      "id": "ISTA-DASLab/Qwen3.8-Flash-Next-GSQ-RCO-GGUF",
+      "displayName": "Qwen3.8 Flash Next GSQ RCO",
+      "downloads": 3922328
+    },
+    {
       "id": "unsloth/embeddinggemma-2-GGUF",
       "displayName": "embeddinggemma 2",
       "downloads": 50551
+    },
+    {
+      "id": "nerkyor/Qwen3.8-27B-Coder390-EfficientThink-Opus5.5-GPT6Astra-Grok4.7-DSV4Pro-K3-SFT-RLOO-MTP-DFlash2",
+      "displayName": "Qwen3.8 27B Coder390 EfficientThink Opus5.5 GPT6Astra Grok4.7 DSV4Pro K3 SFT RLOO MTP DFlash2",
+      "downloads": 42336
     },
     {
       "id": "DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
@@ -217,11 +222,6 @@
       "id": "prism-ml/Ternary-Bonsai-2-27B-gguf",
       "displayName": "Ternary Bonsai 2 27B",
       "downloads": 4457576
-    },
-    {
-      "id": "nerkyor/Qwen3.8-27B-Coder390-EfficientThink-Opus5.5-GPT6Astra-Grok4.7-DSV4Pro-K3-SFT-RLOO-MTP-DFlash2",
-      "displayName": "Qwen3.8 27B Coder390 EfficientThink Opus5.5 GPT6Astra Grok4.7 DSV4Pro K3 SFT RLOO MTP DFlash2",
-      "downloads": 42336
     },
     {
       "id": "ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF",
