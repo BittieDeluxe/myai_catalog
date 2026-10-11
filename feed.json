@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-11T00:38:12Z",
+  "updated": "2026-10-11T08:13:09Z",
   "news": [
     {
       "title": "Satya Nadella says we should assume all AI models are \u2018compromised\u2019",
@@ -204,14 +204,14 @@
       "downloads": 50551
     },
     {
-      "id": "ISTA-DASLab/Qwen3.8-Flash-Next-GSQ-RCO-GGUF",
-      "displayName": "Qwen3.8 Flash Next GSQ RCO",
-      "downloads": 3922328
-    },
-    {
       "id": "AtomicChat/Qwen-Image-2.1-Turbo-Uncensored-GGUF",
       "displayName": "Qwen Image 2.1 Turbo Uncensored",
       "downloads": 7314
+    },
+    {
+      "id": "ISTA-DASLab/Qwen3.8-Flash-Next-GSQ-RCO-GGUF",
+      "displayName": "Qwen3.8 Flash Next GSQ RCO",
+      "downloads": 3922328
     },
     {
       "id": "nerkyor/Qwen3.8-27B-Coder390-EfficientThink-Opus5.5-GPT6Astra-Grok4.7-DSV4Pro-K3-SFT-RLOO-MTP-DFlash2",
