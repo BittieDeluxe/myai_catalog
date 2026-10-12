@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-12T00:55:21Z",
+  "updated": "2026-10-12T08:29:46Z",
   "news": [
     {
       "title": "Will the HomeView be Apple\u2019s first smart home success?",
@@ -184,14 +184,9 @@
       "downloads": 37647
     },
     {
-      "id": "abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
-      "displayName": "Qwen Image 2.1 Uncensored",
+      "id": "abenzerps/Qwen-Image-2.1-Uncensored-Quantized",
+      "displayName": "Qwen Image 2.1 Uncensored Quantized",
       "downloads": 2188658
-    },
-    {
-      "id": "Venastine-Research/Xing4.0-29B-A4B-GGUF",
-      "displayName": "Xing4.0 29B A4B",
-      "downloads": 48389
     },
     {
       "id": "ConwayResearch/Underdog-Saluki-27B-1.0",
@@ -199,19 +194,24 @@
       "downloads": 108900
     },
     {
+      "id": "Venastine-Research/Xing4.0-29B-A4B-GGUF",
+      "displayName": "Xing4.0 29B A4B",
+      "downloads": 48389
+    },
+    {
       "id": "AtomicChat/Qwen-Image-2.1-Turbo-Uncensored-GGUF",
       "displayName": "Qwen Image 2.1 Turbo Uncensored",
       "downloads": 100530
     },
     {
-      "id": "unsloth/embeddinggemma-2-GGUF",
-      "displayName": "embeddinggemma 2",
-      "downloads": 59274
-    },
-    {
       "id": "nerkyor/Qwen3.8-27B-Coder390-EfficientThink-Opus5.5-GPT6Astra-Grok4.7-DSV4Pro-K3-SFT-RLOO-MTP-DFlash2",
       "displayName": "Qwen3.8 27B Coder390 EfficientThink Opus5.5 GPT6Astra Grok4.7 DSV4Pro K3 SFT RLOO MTP DFlash2",
       "downloads": 56525
+    },
+    {
+      "id": "unsloth/embeddinggemma-2-GGUF",
+      "displayName": "embeddinggemma 2",
+      "downloads": 59274
     },
     {
       "id": "ISTA-DASLab/Qwen3.8-Flash-Next-GSQ-RCO-GGUF",
@@ -224,9 +224,9 @@
       "downloads": 2016567
     },
     {
-      "id": "prism-ml/Ternary-Bonsai-2-27B-gguf",
-      "displayName": "Ternary Bonsai 2 27B",
-      "downloads": 4549911
+      "id": "ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF",
+      "displayName": "Qwen3.8 27B GSQ RCO",
+      "downloads": 1489676
     }
   ]
 }
