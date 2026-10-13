@@ -1,12 +1,68 @@
 {
-  "updated": "2026-10-13T17:18:51Z",
+  "updated": "2026-10-13T22:13:59Z",
   "news": [
+    {
+      "title": "OpenAI employee arrested for allegedly planting a bug in a conference room",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1010642/openai-employee-arrested-recording-device",
+      "source": "The Verge",
+      "publishedAt": "2026-10-13T20:45:25Z",
+      "snippet": "An OpenAI engineer was arrested after the company said it discovered a \"sophisticated recording device\" hidden in one of its offices. The employee was identified as Abdulrahman Alfozan, a 35-year-old "
+    },
+    {
+      "title": "Judge orders OpenAI to turn over hiring records in Apple trade secrets case",
+      "url": "https://techcrunch.com/2026/10/13/judge-orders-openai-to-turn-over-hiring-records-in-apple-trade-secrets-case/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-10-13T20:36:44Z",
+      "snippet": "A federal judge ruled that Apple can access OpenAI's interview materials involving former Apple employees, as well as private messages and testimony from key figures in the case."
+    },
+    {
+      "title": "Shopify opens its catalog up to more AI agents",
+      "url": "https://www.theverge.com/news/1010365/shopify-opens-its-catalog-up-to-more-ai-agents",
+      "source": "The Verge",
+      "publishedAt": "2026-10-13T19:42:42Z",
+      "snippet": "More AI agents will soon be able to browse and purchase from Shopify listings, marking an expansion of the company's agentic commerce ambitions. Shopify announced Tuesday it will let shoppers configur"
+    },
+    {
+      "title": "Xbox is officially embracing the chaos of AI-powered game ports",
+      "url": "https://www.theverge.com/news/1010406/xbox-labs-game-decompiling-emulation-exploration",
+      "source": "The Verge",
+      "publishedAt": "2026-10-13T19:00:48Z",
+      "snippet": "Retro gaming is going through a wild time at the moment, thanks to decompilations and recompilations that are letting gamers port classic titles to new devices, or merge code from two different games "
+    },
+    {
+      "title": "Flox Intelligence is building AI to keep wildlife away from trains, airports, and roads",
+      "url": "https://techcrunch.com/2026/10/13/flox-intelligence-is-building-ai-to-keep-wildlife-away-from-trains-airports-and-roads/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-10-13T18:30:00Z",
+      "snippet": "Flox's edge devices can identify animals and use species-specific sounds to drive them away from critical infrastructure."
+    },
+    {
+      "title": "Facebook is giving users more control over their algorithm",
+      "url": "https://techcrunch.com/2026/10/13/facebook-is-giving-users-more-control-over-their-algorithm/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-10-13T18:05:24Z",
+      "snippet": "Meta announced the launch of its new AI-powered feature, \u201cYour Algorithm,\u201d a feature it first launched on Instagram."
+    },
+    {
+      "title": "I don\u2019t miss the camera on the Ray-Ban Meta Audio glasses",
+      "url": "https://www.theverge.com/tech/1009128/ray-ban-meta-audio-glasses-review-smart-glasses-headphones-wearables",
+      "source": "The Verge",
+      "publishedAt": "2026-10-13T18:00:00Z",
+      "snippet": "The other day I whizzed past several people while running in the park, my playlist blasting at full volume. The next morning, I smiled at a barista while ordering a caramel apple-flavored matcha latte"
+    },
+    {
+      "title": "Laplace Intelligence red-teams robots and self-driving cars before they hit the real world",
+      "url": "https://techcrunch.com/2026/10/13/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-10-13T17:30:00Z",
+      "snippet": "University of Michigan spinout Laplace Intelligence uses AI agents and interactive simulation to stress-test robots and self-driving vehicles before deployment. The profitable startup is competing in "
+    },
     {
       "title": "Pluto Security raises $42M as AI gives enterprise security teams a new headache",
       "url": "https://techcrunch.com/2026/10/13/pluto-security-raises-42m-as-ai-gives-enterprise-security-teams-a-new-headache/",
       "source": "TechCrunch",
       "publishedAt": "2026-10-13T17:18:25Z",
-      "snippet": "Pluto Security has raised $42 million Jump Capital, TLV Partners, Ansa Capital and angel investors."
+      "snippet": "The problem with giving everyone in a company access to AI tools is that people will use them in unexpected ways. And that fact is steadily seeding fears that companies now have new, gaping security h"
     },
     {
       "title": "Facebook will let you customize your feed algorithm using AI",
@@ -23,21 +79,21 @@
       "snippet": "The next time you vibe-code a custom app with Google's AI Studio, you won't have to connect your phone to a computer to install it. On Tuesday, Google announced a new feature in the US that will allow"
     },
     {
-      "title": "Google Play now supports private, vibe-coded apps built just for you",
+      "title": "Google Play now lets anyone build private, vibe-coded apps that run on Android",
       "url": "https://techcrunch.com/2026/10/13/google-play-now-supports-private-vibe-coded-apps-built-just-for-you/",
       "source": "TechCrunch",
       "publishedAt": "2026-10-13T17:00:00Z",
       "snippet": "Google is making it easier to build and use personal Android apps created with AI, without having to make them available to everyone on the Play Store."
     },
     {
-      "title": "Actress Mia Goth says it\u2019s \u2018incomprehensible\u2019 that Instagram allowed an AI image of her to spread",
+      "title": "It\u2019s \u2018incomprehensible\u2019 that Instagram allowed an AI image of Mia Goth to spread, say her reps",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1010277/mia-goth-instagram-ai-shirt-deepfake-divorce",
       "source": "The Verge",
       "publishedAt": "2026-10-13T16:42:51Z",
       "snippet": "Earlier this month, news broke that actress Mia Goth had filed for divorce from actor and filmmaker Shia LaBeouf. An Instagram post from the account miagoth_ - marked with a blue verified checkmark - "
     },
     {
-      "title": "Satlyt, founded by a former Google and SpaceX product manager, raises $8M to run AI on satellites",
+      "title": "SpaceX and Google both said no. Now his software is riding a SpaceX rocket next to Google\u2019s",
       "url": "https://techcrunch.com/2026/10/13/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites/",
       "source": "TechCrunch",
       "publishedAt": "2026-10-13T16:30:00Z",
@@ -86,13 +142,6 @@
       "snippet": "The full TechCrunch Disrupt Stage lineup revealed, featuring Max Hodak, Mark Wahlberg, Benchmark partners, and more. Register now to save up to $100 on your pass and get a second at 50% off."
     },
     {
-      "title": "Apple launches HomeView, its first smart display for the home",
-      "url": "https://www.theverge.com/tech/1009704/apple-homeview-smart-display-first-look",
-      "source": "The Verge",
-      "publishedAt": "2026-10-13T13:00:00Z",
-      "snippet": "It's finally here: Apple's long-rumored smart display, the Apple HomeView, has arrived. I got a first look at the device in New York City this week, and it's gorgeous. The HomeView puts a small, vibra"
-    },
-    {
       "title": "Amex introduces a framework to prevent AI agents from making unauthorized purchases",
       "url": "https://techcrunch.com/2026/10/13/amex-introduces-a-framework-to-prevent-ai-agents-from-making-unauthorized-purchases/",
       "source": "TechCrunch",
@@ -105,13 +154,6 @@
       "source": "TechCrunch",
       "publishedAt": "2026-10-13T12:23:42Z",
       "snippet": "The startup will sell some of its assets to Disney for $20 million."
-    },
-    {
-      "title": "Character.AI files for bankruptcy",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1009802/character-ai-files-for-bankruptcy-disney",
-      "source": "The Verge",
-      "publishedAt": "2026-10-13T10:32:23Z",
-      "snippet": "Character.AI, one of the first breakout startups of the generative AI boom, has filed for bankruptcy and is selling some of its assets to Disney. The company, which builds various online bots for user"
     },
     {
       "title": "Meta releases its first frontier model, Muse Wonder",
@@ -128,53 +170,11 @@
       "snippet": "A Silicon Valley startup that uses weather balloons and AI to predict the weather won a U.S. military contract worth almost $50 million."
     },
     {
-      "title": "Meta has some Wonder Full new AI models",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1009479/meta-muse-wonder-full-ai-model",
-      "source": "The Verge",
-      "publishedAt": "2026-10-12T17:00:00Z",
-      "snippet": "Meta is making up for lost time in the AI race. After launching Muse Spark, the first model from its revamped Superintelligence Labs division, and buzzy AI agent Muse, it's now launching two new model"
-    },
-    {
       "title": "Honeyjar offers AI tools to improve PR and comms at every company",
       "url": "https://techcrunch.com/2026/10/12/honeyjar-offers-ai-tools-to-improve-pr-and-comms-at-every-company/",
       "source": "TechCrunch",
       "publishedAt": "2026-10-12T15:45:00Z",
       "snippet": "Journalists, entrepreneurs, and even some public relations professionals will tell you that the PR process is broken. But could AI actually make things better?"
-    },
-    {
-      "title": "Microsoft president says UK is best placed to drive AI regulation",
-      "url": "https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-10-12T15:31:19Z",
-      "snippet": "Microsoft president Brad Smith calls for urgent AI regulation, saying milk and washing machines have more oversight than AI companies."
-    },
-    {
-      "title": "This AI startup says it can generate permit-ready blueprints in minutes",
-      "url": "https://techcrunch.com/2026/10/12/this-ai-startup-says-it-can-generate-permit-ready-blueprints-in-minutes/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-10-12T15:27:59Z",
-      "snippet": "Blueprints AI, a bootstrapped startup based in Santa Monica, developed software that produces code-compliant construction blueprints from a photo, PDF, or sketch."
-    },
-    {
-      "title": "TechCrunch Disrupt 2026 starts tomorrow: Your final chance to secure up to $100 ticket savings",
-      "url": "https://techcrunch.com/2026/10/12/techcrunch-disrupt-2026-starts-tomorrow-your-final-chance-to-secure-up-to-100-ticket-savings/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-10-12T14:00:00Z",
-      "snippet": "Tomorrow at 8 a.m. PT, it all begins z\u2014 10,000+ founders, investors, and tech operators will gather at San Francisco\u2019s Moscone West for TechCrunch Disrupt 2026 for three days of ideas, connections, an"
-    },
-    {
-      "title": "Microsoft\u2019s new AI chip makes it less reliant on Nvidia\u2019s GPUs",
-      "url": "https://www.theverge.com/news/1009465/microsoft-maia-300-chip-improvements-rollout",
-      "source": "The Verge",
-      "publishedAt": "2026-10-12T13:00:00Z",
-      "snippet": "Microsoft is announcing its third-generation Maia in-house AI chip today, designed to be the \"primary AI inference system\" for Microsoft's products and services. Maia 300 not only improves the cost an"
-    },
-    {
-      "title": "Former Plaud exec raises $26M for AI app that listens to you in the background",
-      "url": "https://techcrunch.com/2026/10/12/former-plaud-exec-raises-26m-for-ai-app-that-listens-to-you-in-the-background/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-10-12T12:47:59Z",
-      "snippet": "One of the core promises of AI is that the more it knows about a person, the better it will be able to assist them with tasks and make appropriate suggestions, which, if you'll believe the tech compan"
     }
   ],
   "trending": [
@@ -204,24 +204,24 @@
       "downloads": 83887
     },
     {
-      "id": "Venastine-Research/Xing4.0-29B-A4B-GGUF",
-      "displayName": "Xing4.0 29B A4B",
-      "downloads": 58000
-    },
-    {
       "id": "unsloth/embeddinggemma-2-GGUF",
       "displayName": "embeddinggemma 2",
       "downloads": 81504
     },
     {
-      "id": "ISTA-DASLab/Qwen3.8-Flash-Next-GSQ-RCO-GGUF",
-      "displayName": "Qwen3.8 Flash Next GSQ RCO",
-      "downloads": 4675423
+      "id": "Venastine-Research/Xing4.0-29B-A4B-GGUF",
+      "displayName": "Xing4.0 29B A4B",
+      "downloads": 58000
     },
     {
       "id": "DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
       "displayName": "Qwen3.8 27B TURBO Fable Cold Fusion 735 882 Heretic Uncensored NEO CODER MAX MTP",
       "downloads": 1940062
+    },
+    {
+      "id": "ISTA-DASLab/Qwen3.8-Flash-Next-GSQ-RCO-GGUF",
+      "displayName": "Qwen3.8 Flash Next GSQ RCO",
+      "downloads": 4675423
     },
     {
       "id": "orcarouter/Qwen3.8-Flash-Next-Uncensored-GGUF",
