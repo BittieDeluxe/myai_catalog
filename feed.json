@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-13T01:46:21Z",
+  "updated": "2026-10-13T08:52:30Z",
   "news": [
     {
       "title": "Meta releases its first frontier model, Muse Wonder",
@@ -204,14 +204,14 @@
       "downloads": 75302
     },
     {
-      "id": "Venastine-Research/Xing4.0-29B-A4B-GGUF",
-      "displayName": "Xing4.0 29B A4B",
-      "downloads": 52788
-    },
-    {
       "id": "unsloth/embeddinggemma-2-GGUF",
       "displayName": "embeddinggemma 2",
       "downloads": 71914
+    },
+    {
+      "id": "Venastine-Research/Xing4.0-29B-A4B-GGUF",
+      "displayName": "Xing4.0 29B A4B",
+      "downloads": 52788
     },
     {
       "id": "ISTA-DASLab/Qwen3.8-Flash-Next-GSQ-RCO-GGUF",
