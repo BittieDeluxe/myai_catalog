@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-12T19:34:48Z",
+  "updated": "2026-10-13T01:46:21Z",
   "news": [
     {
       "title": "Meta releases its first frontier model, Muse Wonder",
@@ -224,9 +224,9 @@
       "downloads": 2025498
     },
     {
-      "id": "ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF",
-      "displayName": "Qwen3.8 27B GSQ RCO",
-      "downloads": 1482471
+      "id": "orcarouter/Qwen3.8-Flash-Next-Uncensored-GGUF",
+      "displayName": "Qwen3.8 Flash Next Uncensored",
+      "downloads": 629886
     }
   ]
 }
