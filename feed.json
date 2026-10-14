@@ -1,6 +1,34 @@
 {
-  "updated": "2026-10-13T22:13:59Z",
+  "updated": "2026-10-14T03:18:27Z",
   "news": [
+    {
+      "title": "Science Corporation implants its vision-restoring chip in its first Stargardt disease patient",
+      "url": "https://techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-10-13T23:13:31Z",
+      "snippet": "Max Hodak, the former president and co-founder of Neuralink, detailed on stage at TechCrunch Disrupt how his company's work with PRIMA is part of its path toward a novel brain-computer interface (BCI)"
+    },
+    {
+      "title": "Cerebras CEO says we\u2019re nearing a future where everyone has a personal AI assistant at home",
+      "url": "https://techcrunch.com/2026/10/13/cerebras-ceo-says-were-nearing-a-future-where-everyone-has-a-personal-ai-assistant-at-home/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-10-13T23:05:34Z",
+      "snippet": "Cerebras CEO Andrew Feldman predicts a future where personal AI assistants become as commonplace as household appliances, running partly on local devices and partly in the cloud."
+    },
+    {
+      "title": "Industrial Next wants factory robots to switch tasks in minutes, not weeks",
+      "url": "https://techcrunch.com/2026/10/13/industrial-next-wants-factory-robots-to-switch-tasks-in-minutes-not-weeks/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-10-13T23:00:00Z",
+      "snippet": "Industrial Next helps manufacturers automate complex, delicate tasks that have traditionally required human labor."
+    },
+    {
+      "title": "Cerebras CEO pushes back on AI doomsday warnings",
+      "url": "https://techcrunch.com/2026/10/13/cerebras-ceo-pushes-back-on-ai-doomsday-warnings/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-10-13T22:36:59Z",
+      "snippet": "Cerebras CEO Andrew Feldman has a message for AI leaders spreading doomsday warnings: Maybe stop talking? At TechCrunch Disrupt, he argued that the industry's focus on AI's risks is drowning out its p"
+    },
     {
       "title": "OpenAI employee arrested for allegedly planting a bug in a conference room",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1010642/openai-employee-arrested-recording-device",
@@ -147,34 +175,6 @@
       "source": "TechCrunch",
       "publishedAt": "2026-10-13T13:00:00Z",
       "snippet": "American Express is introducing a new framework designed to ensure AI agents only make purchases their users have authorized, potentially preventing costly mistakes and disputes as AI-powered shopping"
-    },
-    {
-      "title": "Just 5 years in, interactive chatbot platform Character.AI files for bankruptcy",
-      "url": "https://techcrunch.com/2026/10/13/just-5-years-in-interactive-chatbot-platform-character-ai-files-for-bankruptcy/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-10-13T12:23:42Z",
-      "snippet": "The startup will sell some of its assets to Disney for $20 million."
-    },
-    {
-      "title": "Meta releases its first frontier model, Muse Wonder",
-      "url": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-10-12T17:56:56Z",
-      "snippet": "Where Muse Spark aimed to be a lightweight model that could perform at low latency, the Wonder models are larger and said to be more capable, with higher benchmark scores and better results on complex"
-    },
-    {
-      "title": "WindBorne wins a hefty US Air Force contract for its balloon data",
-      "url": "https://techcrunch.com/2026/10/12/windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-10-12T17:19:14Z",
-      "snippet": "A Silicon Valley startup that uses weather balloons and AI to predict the weather won a U.S. military contract worth almost $50 million."
-    },
-    {
-      "title": "Honeyjar offers AI tools to improve PR and comms at every company",
-      "url": "https://techcrunch.com/2026/10/12/honeyjar-offers-ai-tools-to-improve-pr-and-comms-at-every-company/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-10-12T15:45:00Z",
-      "snippet": "Journalists, entrepreneurs, and even some public relations professionals will tell you that the PR process is broken. But could AI actually make things better?"
     }
   ],
   "trending": [
@@ -209,14 +209,14 @@
       "downloads": 81504
     },
     {
-      "id": "Venastine-Research/Xing4.0-29B-A4B-GGUF",
-      "displayName": "Xing4.0 29B A4B",
-      "downloads": 58000
-    },
-    {
       "id": "DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
       "displayName": "Qwen3.8 27B TURBO Fable Cold Fusion 735 882 Heretic Uncensored NEO CODER MAX MTP",
       "downloads": 1940062
+    },
+    {
+      "id": "Venastine-Research/Xing4.0-29B-A4B-GGUF",
+      "displayName": "Xing4.0 29B A4B",
+      "downloads": 58000
     },
     {
       "id": "ISTA-DASLab/Qwen3.8-Flash-Next-GSQ-RCO-GGUF",
