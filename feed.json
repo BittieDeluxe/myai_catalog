@@ -1,6 +1,55 @@
 {
-  "updated": "2026-10-15T19:39:22Z",
+  "updated": "2026-10-15T22:51:21Z",
   "news": [
+    {
+      "title": "ChatGPT can peek at your Chrome tabs now",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs",
+      "source": "The Verge",
+      "publishedAt": "2026-10-15T22:43:23Z",
+      "snippet": "OpenAI's ChatGPT Atlas browser is gone, but now ChatGPT's Google Chrome extension is getting some upgrades that allow it to use the browser tabs you already have open. With the extension installed, Op"
+    },
+    {
+      "title": "Sega pulls Total War: Shogun 2 remaster from sale following disastrous launch",
+      "url": "https://www.theverge.com/games/1012512/sega-total-war-shogun-2-remaster-pulled",
+      "source": "The Verge",
+      "publishedAt": "2026-10-15T22:35:55Z",
+      "snippet": "Sega is removing Total War: Shogun 2 - Complete Edition from storefronts following a disastrous launch where users complained about issues like bugs and upscaling that appears to have been done by AI."
+    },
+    {
+      "title": "The tech backlash is now in theaters",
+      "url": "https://www.theverge.com/entertainment/1012438/hollywood-tech-backlash-you-can-see-everything-musk-the-social-reckoning-artificial",
+      "source": "The Verge",
+      "publishedAt": "2026-10-15T21:39:52Z",
+      "snippet": "Though movies about disruptive tech founders are nothing new, 2026 has been unusually stacked with features that take a much more critical look at how Silicon Valley is reshaping our reality. Aaron So"
+    },
+    {
+      "title": "Trump posts AI-edited photo to brag about White House restoration work",
+      "url": "https://www.theverge.com/policy/1012445/donald-trump-ai-photo-white-house-rennovation-column",
+      "source": "The Verge",
+      "publishedAt": "2026-10-15T21:09:33Z",
+      "snippet": "President Donald Trump posted a series of photos on Truth Social showing off renovations to the White House - but one of them appears to be modified with AI. The picture, which compares an old White H"
+    },
+    {
+      "title": "Meta launches an open-weight AI model that runs on Macs",
+      "url": "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-10-15T20:04:53Z",
+      "snippet": "Meta and Apple have teamed up for the launch of the social media giant's newest model, Muse Spark Open, which will run locally on Apple silicon."
+    },
+    {
+      "title": "Bluesky\u2019s AI tool now lets you make games and apps to share on social",
+      "url": "https://www.theverge.com/tech/1012374/bluesky-ai-attie-small-social-games-apps",
+      "source": "The Verge",
+      "publishedAt": "2026-10-15T19:57:16Z",
+      "snippet": "Bluesky's Attie AI tool, which initially launched earlier this year as a way to use AI to build your own feeds, now lets you make \"small\" social apps like games, polls, and dashboards that you can the"
+    },
+    {
+      "title": "Amazon devices chief Panos Panay sees a future where AI devices replace the need to use apps",
+      "url": "https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-sees-a-future-where-ai-devices-replace-the-need-to-use-apps/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-10-15T19:55:25Z",
+      "snippet": "Speaking at TechCrunch Disrupt, Amazon devices chief Panos Panay described a future where ambient AI devices work in the background, anticipating users' needs instead of waiting for commands."
+    },
     {
       "title": "Anthropic is letting METR researchers look under the hood with employee-level access",
       "url": "https://techcrunch.com/2026/10/15/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access/",
@@ -79,32 +128,11 @@
       "snippet": "Last day to be part of TechCrunch Disrupt 2026. Join 10,000+ tech leaders for a day of connections and insights. Save 75% on your pass now."
     },
     {
-      "title": "Google launches its \u2018universal\u2019 online shopping cart ahead of the holidays",
-      "url": "https://www.theverge.com/tech/1011797/google-ai-universal-cart-shopping-tool-launch",
-      "source": "The Verge",
-      "publishedAt": "2026-10-15T13:00:00Z",
-      "snippet": "Google's intelligent AI shopping cart is finally here, and just in time to tempt users into Black Friday and seasonal holiday spending. The Universal Cart tool Google previewed at its I/O event in May"
-    },
-    {
-      "title": "Amazon\u2019s always-listening Bee wearable can now help you buy stuff",
-      "url": "https://www.theverge.com/tech/1011475/amazon-bee-frontier-eclipse-price-specs",
-      "source": "The Verge",
-      "publishedAt": "2026-10-15T12:00:00Z",
-      "snippet": "Last year, Amazon bought Bee, a relatively unknown startup with a $50 always-listening AI wearable that summarized every conversation you had. Today, the e-commerce giant is announcing two new Bee dev"
-    },
-    {
       "title": "Amazon\u2019s Bee launches two new personal AI devices, starting at $75",
       "url": "https://techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75/",
       "source": "TechCrunch",
       "publishedAt": "2026-10-15T12:00:00Z",
       "snippet": "Amazon-owned Bee has launched its first new AI devices since its acquisition, including an updated wearable and a credit-card-sized recorder that attaches to smartphones. The devices can summarize con"
-    },
-    {
-      "title": "Your secrets aren\u2019t safe with this cute robot toy \u2014 they\u2019re on Chinese servers ready to be hacked",
-      "url": "https://www.theverge.com/tech/1010727/eiliko-robot-hack-energize-lab",
-      "source": "The Verge",
-      "publishedAt": "2026-10-15T11:00:00Z",
-      "snippet": "There's a new digital pet in town - a cute little marshmallow of a robot that can change its cartoony expressions to match your mood. But if you or your kids talk to \"Eiliko\" over Wi-Fi, it'll phone h"
     },
     {
       "title": "Figma announces new features to define how agents work on its platform",
@@ -128,25 +156,11 @@
       "snippet": "Gudea, a company that tracks how stories and rumors spread online that describes itself as the \u201cstorm tracker for the internet,\u201d is using AI to help organizations spot trouble brewing online before it"
     },
     {
-      "title": "McKinsey is making job applicants spar with a fake AI client",
-      "url": "https://www.theverge.com/news/1011654/mckinsey-ai-client-interview",
-      "source": "The Verge",
-      "publishedAt": "2026-10-14T22:53:31Z",
-      "snippet": "Consulting firm McKinsey & Company is going to ask some entry-level candidates to have a 10-minute conversation with an AI simulation of a client as part of the interview process, according to The Wal"
-    },
-    {
       "title": "Flock CEO says its microphones detect \u2018just gunshots\u2019 \u2014 its website says different",
       "url": "https://techcrunch.com/2026/10/14/flock-ceo-says-its-microphones-detect-just-gunshots-its-website-says-different/",
       "source": "TechCrunch",
       "publishedAt": "2026-10-14T21:30:33Z",
       "snippet": "Langley\u2019s comments come amid mounting scrutiny of Flock from privacy advocates, including the ACLU, and members of the public who are concerned about the misuse of its technology."
-    },
-    {
-      "title": "Eight states sue OpenAI, saying ChatGPT isn\u2019t safe for kids",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety",
-      "source": "The Verge",
-      "publishedAt": "2026-10-14T21:11:28Z",
-      "snippet": "OpenAI is facing a new wave of lawsuits from eight US states that accuse the company of harming children and misleading customers about the safety of ChatGPT, as reported earlier by Reuters. The lawsu"
     },
     {
       "title": "YouTube Music launches new labels as AI-generated music floods streaming platforms",
@@ -161,20 +175,6 @@
       "source": "TechCrunch",
       "publishedAt": "2026-10-14T18:00:00Z",
       "snippet": "Most companies use AI agents to ship products faster or speed up workflows. Apate.ai sends them undercover to get scammed."
-    },
-    {
-      "title": "Deezer will soon let you filter out AI-generated music",
-      "url": "https://techcrunch.com/2026/10/14/deezer-will-soon-let-you-filter-out-ai-generated-music/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-10-14T15:16:04Z",
-      "snippet": "Deezer said that the new toggle will be rolled out by the end of the year."
-    },
-    {
-      "title": "Save 50% on your TechCrunch Disrupt 2026 ticket and join the last 2 days in San Francisco\u2019s Moscone West",
-      "url": "https://techcrunch.com/2026/10/14/save-50-on-your-techcrunch-disrupt-2026-ticket-and-join-the-last-two-days-in-san-francisco/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-10-14T15:13:24Z",
-      "snippet": "Get a 50% discount on the last two days of TechCrunch Disrupt 2026, October 14-15, in San Francisco. Register now and join the rest of the startup ecosystem. Today, it's all about physical and softwar"
     }
   ],
   "trending": [
@@ -219,14 +219,14 @@
       "downloads": 720858
     },
     {
-      "id": "ISTA-DASLab/Qwen3.8-Flash-Next-GSQ-RCO-GGUF",
-      "displayName": "Qwen3.8 Flash Next GSQ RCO",
-      "downloads": 5183346
-    },
-    {
       "id": "openbmb/MiniCPM-V-4.7-35B-A3B-gguf",
       "displayName": "MiniCPM V 4.7 35B A3B",
       "downloads": 100853
+    },
+    {
+      "id": "ISTA-DASLab/Qwen3.8-Flash-Next-GSQ-RCO-GGUF",
+      "displayName": "Qwen3.8 Flash Next GSQ RCO",
+      "downloads": 5183346
     }
   ]
 }
