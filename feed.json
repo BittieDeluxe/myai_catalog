@@ -1,6 +1,48 @@
 {
-  "updated": "2026-10-15T14:37:22Z",
+  "updated": "2026-10-15T19:39:22Z",
   "news": [
+    {
+      "title": "Anthropic is letting METR researchers look under the hood with employee-level access",
+      "url": "https://techcrunch.com/2026/10/15/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-10-15T19:14:26Z",
+      "snippet": "METR will publish its own assessments of Anthropic\u2019s risks, incidents, and practices, and the frontier AI model maker has given up the right to block them."
+    },
+    {
+      "title": "Bluesky expands its AI-powered Attie app to let anyone build websites, games, and more",
+      "url": "https://techcrunch.com/2026/10/15/bluesky-expands-its-ai-powered-attie-app-to-let-anyone-build-websites-games-and-more/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-10-15T18:56:46Z",
+      "snippet": "Bluesky is bringing \u201csocial vibe coding\u201d to its experimental Attie platform, allowing users to create interactive experiences like games, quizzes, and websites that can tap into the social network's a"
+    },
+    {
+      "title": "Meta and Apple team up to make Muse AI models run better on Macs",
+      "url": "https://www.theverge.com/news/1012293/meta-apple-muse-spark-open-ai-model-mlx",
+      "source": "The Verge",
+      "publishedAt": "2026-10-15T18:15:36Z",
+      "snippet": "Meta announced the Muse Spark Open AI model today, claiming that it's the \"most capable US open-weight model to date.\" But the company also says that it's the \"the first model in its class\" that can \""
+    },
+    {
+      "title": "Last chance to save up to $200 on your TechCrunch Founder Summit pass: Early booking ends October 16",
+      "url": "https://techcrunch.com/2026/10/15/last-chance-to-save-up-to-200-on-techcrunch-founder-summit-early-booking-ends-oct-16/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-10-15T18:00:00Z",
+      "snippet": "Savings of up to $200 end October 16 for TechCrunch Founder Summit. These savings for Founder and Investor Passes vanish after Friday. Join 1,000 founders and investors on November 4 at Boston\u2019s SoWa "
+    },
+    {
+      "title": "Friends don\u2019t let friends feed their data to AI agents",
+      "url": "https://www.theverge.com/tech/1011938/muse-ai-data-friends-consent",
+      "source": "The Verge",
+      "publishedAt": "2026-10-15T16:21:45Z",
+      "snippet": "There's a growing trend in the consumer tech world: gadgets designed to spy on everything and everyone around you, regardless of whether or not anyone else actually consented to it. Now, with the adve"
+    },
+    {
+      "title": "AI agents are coming to Rivian\u2019s cars",
+      "url": "https://techcrunch.com/2026/10/15/ai-agents-are-coming-to-rivians-cars/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-10-15T15:02:36Z",
+      "snippet": "We'll likely learn more about how this will work at the company's upcoming \"AI & Autonomy Day\" event in December."
+    },
     {
       "title": "How Windows is being optimized for Nvidia\u2019s RTX Spark laptops",
       "url": "https://www.theverge.com/tech/1011996/microsoft-windows-rtx-spark-platform-changes-notepad",
@@ -34,7 +76,7 @@
       "url": "https://techcrunch.com/2026/10/15/techcrunch-disrupt-2026-last-day/",
       "source": "TechCrunch",
       "publishedAt": "2026-10-15T14:00:00Z",
-      "snippet": "Last day to join TechCrunch Disrupt 2026. Join 10,000+ tech leaders for a day of connections and insights. Save 75% on your pass now."
+      "snippet": "Last day to be part of TechCrunch Disrupt 2026. Join 10,000+ tech leaders for a day of connections and insights. Save 75% on your pass now."
     },
     {
       "title": "Google launches its \u2018universal\u2019 online shopping cart ahead of the holidays",
@@ -107,20 +149,6 @@
       "snippet": "OpenAI is facing a new wave of lawsuits from eight US states that accuse the company of harming children and misleading customers about the safety of ChatGPT, as reported earlier by Reuters. The lawsu"
     },
     {
-      "title": "The AI race is back on",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1011311/the-ai-race-is-back-on",
-      "source": "The Verge",
-      "publishedAt": "2026-10-14T19:06:03Z",
-      "snippet": "Last week, Anthropic and OpenAI looked like they had the AI race to themselves, pulling ahead with increasingly powerful models that left their rivals in the dust. Google seemed hopelessly far behind,"
-    },
-    {
-      "title": "Now that Character.AI is going bankrupt, what happens to all of its users\u2019 data?",
-      "url": "https://www.theverge.com/policy/1011417/new-york-ag-characterai-bankruptcy",
-      "source": "The Verge",
-      "publishedAt": "2026-10-14T18:47:54Z",
-      "snippet": "New York Attorney General Letitia James revealed a years-long multi-state investigation against Character.AI as they now seek to require protections on consumer data sold through its bankruptcy procee"
-    },
-    {
       "title": "YouTube Music launches new labels as AI-generated music floods streaming platforms",
       "url": "https://techcrunch.com/2026/10/14/youtube-music-launches-new-labels-as-ai-generated-music-floods-streaming-platforms/",
       "source": "TechCrunch",
@@ -147,34 +175,6 @@
       "source": "TechCrunch",
       "publishedAt": "2026-10-14T15:13:24Z",
       "snippet": "Get a 50% discount on the last two days of TechCrunch Disrupt 2026, October 14-15, in San Francisco. Register now and join the rest of the startup ecosystem. Today, it's all about physical and softwar"
-    },
-    {
-      "title": "Zenzap raises $44M for its AI chat app that aims to replace WhatsApp in the workplace",
-      "url": "https://techcrunch.com/2026/10/14/zenzap-raises-44m-for-its-ai-chat-app-that-aims-to-replace-whatsapp-in-the-workplace/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-10-14T15:08:00Z",
-      "snippet": "Zenzap is used by organizations including Starbucks and Taco Bell."
-    },
-    {
-      "title": "Floqer\u2019s AI agents research sales prospects so teams don\u2019t have to",
-      "url": "https://techcrunch.com/2026/10/14/floqers-ai-agents-help-b2b-revenue-teams-research-customers/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-10-14T15:00:00Z",
-      "snippet": "The problem Floqer is trying to solve is familiar to anyone who has worked in sales or revenue operations."
-    },
-    {
-      "title": "TechCrunch Disrupt 2026: Day 2",
-      "url": "https://techcrunch.com/2026/10/14/techcrunch-disrupt-2026-day-2/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-10-14T14:30:00Z",
-      "snippet": "Day 2 at TechCrunch Disrupt 2026, full of all themes across AI, as well as an investor-only session, more roundtables, Side Events, and more. Register to save 50% on your pass."
-    },
-    {
-      "title": "Scimplify raises $25M to challenge China\u2019s grip on critical materials with AI",
-      "url": "https://techcrunch.com/2026/10/14/scimplify-raises-25m-to-challenge-chinas-grip-on-critical-materials-with-ai/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-10-14T11:00:00Z",
-      "snippet": "Scimplify's annualized revenue run rate has tripled to $200 million as it eyes U.S. expansion."
     }
   ],
   "trending": [
@@ -189,14 +189,14 @@
       "downloads": 2415278
     },
     {
-      "id": "ConwayResearch/Underdog-Saluki-27B-1.0",
-      "displayName": "Underdog Saluki 27B 1.0",
-      "downloads": 344177
-    },
-    {
       "id": "AtomicChat/Qwen-Image-2.1-Turbo-Uncensored-GGUF",
       "displayName": "Qwen Image 2.1 Turbo Uncensored",
       "downloads": 296253
+    },
+    {
+      "id": "ConwayResearch/Underdog-Saluki-27B-1.0",
+      "displayName": "Underdog Saluki 27B 1.0",
+      "downloads": 344177
     },
     {
       "id": "nerkyor/Qwen3.8-27B-Coder390-EfficientThink-Opus5.5-GPT6Astra-Grok4.7-DSV4Pro-K3-SFT-RLOO-MTP-DFlash2",
@@ -204,14 +204,14 @@
       "downloads": 148660
     },
     {
+      "id": "LiquidAI/LFM2.5-24B-A2B-GGUF",
+      "displayName": "LFM2.5 24B A2B",
+      "downloads": 45676
+    },
+    {
       "id": "DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
       "displayName": "Qwen3.8 27B TURBO Fable Cold Fusion 735 882 Heretic Uncensored NEO CODER MAX MTP",
       "downloads": 1856283
-    },
-    {
-      "id": "ISTA-DASLab/Qwen3.8-Flash-Next-GSQ-RCO-GGUF",
-      "displayName": "Qwen3.8 Flash Next GSQ RCO",
-      "downloads": 5183346
     },
     {
       "id": "orcarouter/Qwen3.8-Flash-Next-Uncensored-GGUF",
@@ -219,14 +219,14 @@
       "downloads": 720858
     },
     {
-      "id": "LiquidAI/LFM2.5-24B-A2B-GGUF",
-      "displayName": "LFM2.5 24B A2B",
-      "downloads": 45676
+      "id": "ISTA-DASLab/Qwen3.8-Flash-Next-GSQ-RCO-GGUF",
+      "displayName": "Qwen3.8 Flash Next GSQ RCO",
+      "downloads": 5183346
     },
     {
-      "id": "unsloth/Qwen3.8-27B-GGUF",
-      "displayName": "Qwen3.8 27B",
-      "downloads": 6655172
+      "id": "openbmb/MiniCPM-V-4.7-35B-A3B-gguf",
+      "displayName": "MiniCPM V 4.7 35B A3B",
+      "downloads": 100853
     }
   ]
 }
