@@ -1,6 +1,69 @@
 {
-  "updated": "2026-10-15T08:46:28Z",
+  "updated": "2026-10-15T14:37:22Z",
   "news": [
+    {
+      "title": "How Windows is being optimized for Nvidia\u2019s RTX Spark laptops",
+      "url": "https://www.theverge.com/tech/1011996/microsoft-windows-rtx-spark-platform-changes-notepad",
+      "source": "The Verge",
+      "publishedAt": "2026-10-15T14:30:00Z",
+      "snippet": "Microsoft and Nvidia held a launch party for the first wave of RTX Spark laptops last week in San Francisco, where a new wave of AI PCs took center stage amid a packed crowd and a lively hands-on area"
+    },
+    {
+      "title": "Google\u2019s Universal Cart shopping tool launches in the US",
+      "url": "https://techcrunch.com/2026/10/15/googles-universal-cart-shopping-tool-launches-in-the-us/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-10-15T14:29:33Z",
+      "snippet": "The new shopping tool is available in the U.S. across Google Search and the Gemini app."
+    },
+    {
+      "title": "Nobody is safe from celebrity AI deepfakes",
+      "url": "https://www.theverge.com/report/1011927/instagram-celebrity-ai-slop-likeness-taylor-swift-mia-goth",
+      "source": "The Verge",
+      "publishedAt": "2026-10-15T14:03:42Z",
+      "snippet": "In hindsight, the post on Instagram should have raised more red flags. The image purported to show actress Mia Goth, just days after filing for divorce from actor and filmmaker Shia LaBeouf, posing in"
+    },
+    {
+      "title": "Benn Jordan on Flock, privacy, and the new surveillance backlash",
+      "url": "https://www.theverge.com/podcast/1011170/benn-jordan-flock-cameras-alpr-ai-surveillance-privacy",
+      "source": "The Verge",
+      "publishedAt": "2026-10-15T14:00:00Z",
+      "snippet": "Today, I\u2019m talking with Benn Jordan, musician, YouTuber, researcher, and investigative journalist. You might know Benn from those first two titles \u2014 he\u2019s got a prolific discography of experimental mus"
+    },
+    {
+      "title": "TechCrunch Disrupt 2026: Last day",
+      "url": "https://techcrunch.com/2026/10/15/techcrunch-disrupt-2026-last-day/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-10-15T14:00:00Z",
+      "snippet": "Last day to join TechCrunch Disrupt 2026. Join 10,000+ tech leaders for a day of connections and insights. Save 75% on your pass now."
+    },
+    {
+      "title": "Google launches its \u2018universal\u2019 online shopping cart ahead of the holidays",
+      "url": "https://www.theverge.com/tech/1011797/google-ai-universal-cart-shopping-tool-launch",
+      "source": "The Verge",
+      "publishedAt": "2026-10-15T13:00:00Z",
+      "snippet": "Google's intelligent AI shopping cart is finally here, and just in time to tempt users into Black Friday and seasonal holiday spending. The Universal Cart tool Google previewed at its I/O event in May"
+    },
+    {
+      "title": "Amazon\u2019s always-listening Bee wearable can now help you buy stuff",
+      "url": "https://www.theverge.com/tech/1011475/amazon-bee-frontier-eclipse-price-specs",
+      "source": "The Verge",
+      "publishedAt": "2026-10-15T12:00:00Z",
+      "snippet": "Last year, Amazon bought Bee, a relatively unknown startup with a $50 always-listening AI wearable that summarized every conversation you had. Today, the e-commerce giant is announcing two new Bee dev"
+    },
+    {
+      "title": "Amazon\u2019s Bee launches two new personal AI devices, starting at $75",
+      "url": "https://techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-10-15T12:00:00Z",
+      "snippet": "Amazon-owned Bee has launched its first new AI devices since its acquisition, including an updated wearable and a credit-card-sized recorder that attaches to smartphones. The devices can summarize con"
+    },
+    {
+      "title": "Your secrets aren\u2019t safe with this cute robot toy \u2014 they\u2019re on Chinese servers ready to be hacked",
+      "url": "https://www.theverge.com/tech/1010727/eiliko-robot-hack-energize-lab",
+      "source": "The Verge",
+      "publishedAt": "2026-10-15T11:00:00Z",
+      "snippet": "There's a new digital pet in town - a cute little marshmallow of a robot that can change its cartoony expressions to match your mood. But if you or your kids talk to \"Eiliko\" over Wi-Fi, it'll phone h"
+    },
     {
       "title": "Figma announces new features to define how agents work on its platform",
       "url": "https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/",
@@ -20,7 +83,7 @@
       "url": "https://techcrunch.com/2026/10/14/gudea-leverages-ai-to-help-organizations-prevent-social-media-crises-before-they-erupt/",
       "source": "TechCrunch",
       "publishedAt": "2026-10-15T00:00:00Z",
-      "snippet": "Every day, conversations unfold across social media and websites around the world. A seemingly insignificant post\u2014whether it involves AI-generated misinformation, hate speech, or a damaging rumor\u2014can "
+      "snippet": "Gudea, a company that tracks how stories and rumors spread online that describes itself as the \u201cstorm tracker for the internet,\u201d is using AI to help organizations spot trouble brewing online before it"
     },
     {
       "title": "McKinsey is making job applicants spar with a fake AI client",
@@ -65,53 +128,11 @@
       "snippet": "The label will appear on the player page and include songs entirely generated by AI or partially, such as AI involved in composition and vocals."
     },
     {
-      "title": "YouTube sticks new labels on AI-generated songs",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1011369/youtube-music-ai-label",
-      "source": "The Verge",
-      "publishedAt": "2026-10-14T18:22:56Z",
-      "snippet": "YouTube is adding a \"Made with AI\" label to tracks that were \"altered or fully generated\" using AI, with a similar approach to its existing process for applying AI labels to videos. It doesn't sound l"
-    },
-    {
       "title": "Apate sends AI agents undercover to get scammed so they can gather fraud intelligence",
       "url": "https://techcrunch.com/2026/10/14/apate-sends-ai-agents-undercover-to-get-scammed-so-they-can-gather-fraud-intelligence/",
       "source": "TechCrunch",
       "publishedAt": "2026-10-14T18:00:00Z",
       "snippet": "Most companies use AI agents to ship products faster or speed up workflows. Apate.ai sends them undercover to get scammed."
-    },
-    {
-      "title": "My AI doppelganger tells me what to eat",
-      "url": "https://www.theverge.com/column/1011264/digital-twin-metabolism-ai-twin-health",
-      "source": "The Verge",
-      "publishedAt": "2026-10-14T17:00:00Z",
-      "snippet": "This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in for "
-    },
-    {
-      "title": "OpenAI claims an ex-employee took its product plans and presented them to Apple",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1011276/openai-employee-unreleased-product-plans",
-      "source": "The Verge",
-      "publishedAt": "2026-10-14T16:43:24Z",
-      "snippet": "OpenAI claims a former employee took more than 100 files related to its product plans before joining Apple. In a document filed on Wednesday, OpenAI accuses the unnamed employee of sending this inform"
-    },
-    {
-      "title": "Microsoft has a new machine learning tool to improve weather forecasts",
-      "url": "https://www.theverge.com/science/1011127/ai-weather-forecast-microsoft",
-      "source": "The Verge",
-      "publishedAt": "2026-10-14T16:05:21Z",
-      "snippet": "Old-school physics-based weather forecasting and even new AI models typically become less reliable beyond two weeks, a problem Microsoft claims to have solved using machine learning. Researchers with "
-    },
-    {
-      "title": "Square\u2019s new kiosk lets you talk to AI for help with your order",
-      "url": "https://www.theverge.com/tech/1009086/square-kiosk",
-      "source": "The Verge",
-      "publishedAt": "2026-10-14T16:00:00Z",
-      "snippet": "Square is launching new hardware: a big kiosk for ordering things that has a touchscreen and lets you talk to an AI. It's called the Square Kiosk. Square says the Kiosk, which has a large pill shape, "
-    },
-    {
-      "title": "Android is using AI to suss out scammers in Google Messages",
-      "url": "https://www.theverge.com/tech/1010928/android-scam-protection-enhanced-protection-google-messages",
-      "source": "The Verge",
-      "publishedAt": "2026-10-14T16:00:00Z",
-      "snippet": "Android is introducing new scam defense features that aim to make it easier for users to evade mobile fraud, including bolstered protection in Google Messages and additional safeguarding tools. Buildi"
     },
     {
       "title": "Deezer will soon let you filter out AI-generated music",
@@ -154,79 +175,58 @@
       "source": "TechCrunch",
       "publishedAt": "2026-10-14T11:00:00Z",
       "snippet": "Scimplify's annualized revenue run rate has tripled to $200 million as it eyes U.S. expansion."
-    },
-    {
-      "title": "Science Corporation implants its vision-restoring chip in its first Stargardt disease patient",
-      "url": "https://techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-10-13T23:13:31Z",
-      "snippet": "Max Hodak, the former president and co-founder of Neuralink, detailed onstage at TechCrunch Disrupt how his company's work with PRIMA is part of its path toward a novel brain-computer interface (BCI)."
-    },
-    {
-      "title": "Cerebras CEO says we\u2019re nearing a future where everyone has a personal AI assistant at home",
-      "url": "https://techcrunch.com/2026/10/13/cerebras-ceo-says-were-nearing-a-future-where-everyone-has-a-personal-ai-assistant-at-home/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-10-13T23:05:34Z",
-      "snippet": "Cerebras CEO Andrew Feldman predicts a future where personal AI assistants become as commonplace as household appliances, running partly on local devices and partly in the cloud."
-    },
-    {
-      "title": "Industrial Next wants factory robots to switch tasks in minutes, not weeks",
-      "url": "https://techcrunch.com/2026/10/13/industrial-next-wants-factory-robots-to-switch-tasks-in-minutes-not-weeks/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-10-13T23:00:00Z",
-      "snippet": "Industrial Next helps manufacturers automate complex, delicate tasks that have traditionally required human labor."
     }
   ],
   "trending": [
     {
       "id": "jialinyyzz/humanizer",
       "displayName": "humanizer",
-      "downloads": 65616
+      "downloads": 75253
     },
     {
       "id": "abenzerps/Qwen-Image-2.1-Uncensored-Quantized",
       "displayName": "Qwen Image 2.1 Uncensored Quantized",
-      "downloads": 2315771
+      "downloads": 2415278
     },
     {
       "id": "ConwayResearch/Underdog-Saluki-27B-1.0",
       "displayName": "Underdog Saluki 27B 1.0",
-      "downloads": 311969
+      "downloads": 344177
     },
     {
       "id": "AtomicChat/Qwen-Image-2.1-Turbo-Uncensored-GGUF",
       "displayName": "Qwen Image 2.1 Turbo Uncensored",
-      "downloads": 258320
+      "downloads": 296253
     },
     {
       "id": "nerkyor/Qwen3.8-27B-Coder390-EfficientThink-Opus5.5-GPT6Astra-Grok4.7-DSV4Pro-K3-SFT-RLOO-MTP-DFlash2",
       "displayName": "Qwen3.8 27B Coder390 EfficientThink Opus5.5 GPT6Astra Grok4.7 DSV4Pro K3 SFT RLOO MTP DFlash2",
-      "downloads": 114351
+      "downloads": 148660
     },
     {
       "id": "DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
       "displayName": "Qwen3.8 27B TURBO Fable Cold Fusion 735 882 Heretic Uncensored NEO CODER MAX MTP",
-      "downloads": 1900731
-    },
-    {
-      "id": "orcarouter/Qwen3.8-Flash-Next-Uncensored-GGUF",
-      "displayName": "Qwen3.8 Flash Next Uncensored",
-      "downloads": 692812
+      "downloads": 1856283
     },
     {
       "id": "ISTA-DASLab/Qwen3.8-Flash-Next-GSQ-RCO-GGUF",
       "displayName": "Qwen3.8 Flash Next GSQ RCO",
-      "downloads": 4894108
+      "downloads": 5183346
     },
     {
-      "id": "unsloth/Qwen3.8-27B-GGUF",
-      "displayName": "Qwen3.8 27B",
-      "downloads": 6634241
+      "id": "orcarouter/Qwen3.8-Flash-Next-Uncensored-GGUF",
+      "displayName": "Qwen3.8 Flash Next Uncensored",
+      "downloads": 720858
     },
     {
       "id": "LiquidAI/LFM2.5-24B-A2B-GGUF",
       "displayName": "LFM2.5 24B A2B",
-      "downloads": 17807
+      "downloads": 45676
+    },
+    {
+      "id": "unsloth/Qwen3.8-27B-GGUF",
+      "displayName": "Qwen3.8 27B",
+      "downloads": 6655172
     }
   ]
 }
