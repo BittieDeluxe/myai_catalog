@@ -1,6 +1,13 @@
 {
-  "updated": "2026-10-16T19:14:08Z",
+  "updated": "2026-10-16T22:26:28Z",
   "news": [
+    {
+      "title": "Replit is no longer working with Anthropic, CEO says",
+      "url": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-10-16T21:22:28Z",
+      "snippet": "Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never any indication that it was no longer with "
+    },
     {
       "title": "India becomes the latest country to report rogue AI agent activity",
       "url": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
@@ -161,13 +168,6 @@
       "source": "The Verge",
       "publishedAt": "2026-10-15T16:21:45Z",
       "snippet": "There's a growing trend in the consumer tech world: gadgets designed to spy on everything and everyone around you, regardless of whether or not anyone else actually consented to it. Now, with the adve"
-    },
-    {
-      "title": "AI agents are coming to Rivian\u2019s cars",
-      "url": "https://techcrunch.com/2026/10/15/ai-agents-are-coming-to-rivians-cars/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-10-15T15:02:36Z",
-      "snippet": "We'll likely learn more about how this will work at the company's upcoming \"AI & Autonomy Day\" event in December."
     },
     {
       "title": "How Windows is being optimized for Nvidia\u2019s RTX Spark laptops",
