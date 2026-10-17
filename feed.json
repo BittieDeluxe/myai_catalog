@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-17T02:46:01Z",
+  "updated": "2026-10-17T08:12:47Z",
   "news": [
     {
       "title": "Replit is no longer working with Anthropic, CEO says",
@@ -224,9 +224,9 @@
       "downloads": 753032
     },
     {
-      "id": "ISTA-DASLab/Qwen3.8-Flash-Next-GSQ-RCO-GGUF",
-      "displayName": "Qwen3.8 Flash Next GSQ RCO",
-      "downloads": 5349998
+      "id": "unsloth/Qwen3.8-27B-GGUF",
+      "displayName": "Qwen3.8 27B",
+      "downloads": 6663225
     }
   ]
 }
