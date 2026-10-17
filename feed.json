@@ -1,6 +1,13 @@
 {
-  "updated": "2026-10-17T08:12:47Z",
+  "updated": "2026-10-17T13:25:10Z",
   "news": [
+    {
+      "title": "Websites are closing their doors to AI agents",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
+      "source": "The Verge",
+      "publishedAt": "2026-10-17T13:00:00Z",
+      "snippet": "Autonomous agents are the hottest thing in AI. OpenAI, Meta, Google, Instinct, and others promise their agents can scour the internet on your behalf, doing anything from booking a dinner reservation a"
+    },
     {
       "title": "Replit is no longer working with Anthropic, CEO says",
       "url": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
@@ -168,65 +175,58 @@
       "source": "The Verge",
       "publishedAt": "2026-10-15T16:21:45Z",
       "snippet": "There's a growing trend in the consumer tech world: gadgets designed to spy on everything and everyone around you, regardless of whether or not anyone else actually consented to it. Now, with the adve"
-    },
-    {
-      "title": "How Windows is being optimized for Nvidia\u2019s RTX Spark laptops",
-      "url": "https://www.theverge.com/tech/1011996/microsoft-windows-rtx-spark-platform-changes-notepad",
-      "source": "The Verge",
-      "publishedAt": "2026-10-15T14:30:00Z",
-      "snippet": "Microsoft and Nvidia held a launch party for the first wave of RTX Spark laptops last week in San Francisco, where a new wave of AI PCs took center stage amid a packed crowd and a lively hands-on area"
     }
   ],
   "trending": [
     {
       "id": "jialinyyzz/humanizer",
       "displayName": "humanizer",
-      "downloads": 85612
+      "downloads": 95870
     },
     {
       "id": "abenzerps/Qwen-Image-2.1-Uncensored-Quantized",
       "displayName": "Qwen Image 2.1 Uncensored Quantized",
-      "downloads": 2477554
+      "downloads": 2571722
     },
     {
       "id": "AtomicChat/Qwen-Image-2.1-Turbo-Uncensored-GGUF",
       "displayName": "Qwen Image 2.1 Turbo Uncensored",
-      "downloads": 327786
+      "downloads": 362499
     },
     {
       "id": "ConwayResearch/Underdog-Saluki-27B-1.0",
       "displayName": "Underdog Saluki 27B 1.0",
-      "downloads": 370955
+      "downloads": 394277
     },
     {
       "id": "nerkyor/Qwen3.8-27B-Coder390-EfficientThink-Opus5.5-GPT6Astra-Grok4.7-DSV4Pro-K3-SFT-RLOO-MTP-DFlash2",
       "displayName": "Qwen3.8 27B Coder390 EfficientThink Opus5.5 GPT6Astra Grok4.7 DSV4Pro K3 SFT RLOO MTP DFlash2",
-      "downloads": 182130
+      "downloads": 228320
     },
     {
       "id": "LiquidAI/LFM2.5-24B-A2B-GGUF",
       "displayName": "LFM2.5 24B A2B",
-      "downloads": 60927
+      "downloads": 82115
     },
     {
       "id": "DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
       "displayName": "Qwen3.8 27B TURBO Fable Cold Fusion 735 882 Heretic Uncensored NEO CODER MAX MTP",
-      "downloads": 1833225
+      "downloads": 1799400
     },
     {
       "id": "openbmb/MiniCPM-V-4.7-35B-A3B-gguf",
       "displayName": "MiniCPM V 4.7 35B A3B",
-      "downloads": 125004
+      "downloads": 143623
     },
     {
       "id": "orcarouter/Qwen3.8-Flash-Next-Uncensored-GGUF",
       "displayName": "Qwen3.8 Flash Next Uncensored",
-      "downloads": 753032
+      "downloads": 786638
     },
     {
       "id": "unsloth/Qwen3.8-27B-GGUF",
       "displayName": "Qwen3.8 27B",
-      "downloads": 6663225
+      "downloads": 6768984
     }
   ]
 }
