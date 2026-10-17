@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-16T22:26:28Z",
+  "updated": "2026-10-17T02:46:01Z",
   "news": [
     {
       "title": "Replit is no longer working with Anthropic, CEO says",
@@ -214,14 +214,14 @@
       "downloads": 1833225
     },
     {
-      "id": "orcarouter/Qwen3.8-Flash-Next-Uncensored-GGUF",
-      "displayName": "Qwen3.8 Flash Next Uncensored",
-      "downloads": 753032
-    },
-    {
       "id": "openbmb/MiniCPM-V-4.7-35B-A3B-gguf",
       "displayName": "MiniCPM V 4.7 35B A3B",
       "downloads": 125004
+    },
+    {
+      "id": "orcarouter/Qwen3.8-Flash-Next-Uncensored-GGUF",
+      "displayName": "Qwen3.8 Flash Next Uncensored",
+      "downloads": 753032
     },
     {
       "id": "ISTA-DASLab/Qwen3.8-Flash-Next-GSQ-RCO-GGUF",
