@@ -1,6 +1,13 @@
 {
-  "updated": "2026-10-17T16:48:12Z",
+  "updated": "2026-10-17T20:00:30Z",
   "news": [
+    {
+      "title": "Replit is no longer working with Anthropic, CEO says",
+      "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-10-17T18:48:08Z",
+      "snippet": "Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still be available to customers on the platform."
+    },
     {
       "title": "Meta removes language that may have allowed it to scrape news sites",
       "url": "https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites",
@@ -14,13 +21,6 @@
       "source": "The Verge",
       "publishedAt": "2026-10-17T13:00:00Z",
       "snippet": "Autonomous agents are the hottest thing in AI. OpenAI, Meta, Google, Instinct, and others promise their agents can scour the internet on your behalf, doing anything from booking a dinner reservation a"
-    },
-    {
-      "title": "Replit is no longer working with Anthropic, CEO says",
-      "url": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-10-16T21:22:28Z",
-      "snippet": "Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never any indication that it was no longer with "
     },
     {
       "title": "India becomes the latest country to report rogue AI agent activity",
