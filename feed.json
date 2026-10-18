@@ -1,12 +1,19 @@
 {
-  "updated": "2026-10-18T17:02:23Z",
+  "updated": "2026-10-18T20:00:00Z",
   "news": [
+    {
+      "title": "A woman was arrested in Philly for blocking a delivery robot",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1013541/a-woman-was-arrested-in-philly-for-blocking-a-delivery-robot",
+      "source": "The Verge",
+      "publishedAt": "2026-10-18T18:28:10Z",
+      "snippet": "Carolyn Marvin was arrested and charged with disorderly conduct after blocking the path of an Uber delivery robot and refusing to get out of the way. Marvin told Philadelphia's ABC13 \"I know they're t"
+    },
     {
       "title": "Disney agrees to hire the majority of Character.AI\u2019s workforce",
       "url": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
       "source": "TechCrunch",
       "publishedAt": "2026-10-18T16:30:00Z",
-      "snippet": "After chatbot startup Character.AI filed for bankruptcy earlier this week, many of its employees will have the opportunity to take jobs at Disney. Character.AI\u2019s former CEO Karandeep Anand recently be"
+      "snippet": "The filing also says that the \u201cvast majority\u201d of Character.AI employees who were offered jobs at Disney accepted them. However, this is a stalking horse bid, so another company could come forward with"
     },
     {
       "title": "Meta removes language that raised scraping and AI training concerns",
@@ -168,13 +175,6 @@
       "source": "TechCrunch",
       "publishedAt": "2026-10-15T19:55:25Z",
       "snippet": "Speaking at TechCrunch Disrupt, Amazon devices chief Panos Panay described a future where ambient AI devices work in the background, anticipating users' needs instead of waiting for commands."
-    },
-    {
-      "title": "Meta and Apple team up to make Muse AI models run better on Macs",
-      "url": "https://www.theverge.com/news/1012293/meta-apple-muse-spark-open-ai-model-mlx",
-      "source": "The Verge",
-      "publishedAt": "2026-10-15T18:15:36Z",
-      "snippet": "Meta announced the Muse Spark Open AI model today, claiming that it's the \"most capable US open-weight model to date.\" But the company also says that it's the \"the first model in its class\" that can \""
     }
   ],
   "trending": [
@@ -189,14 +189,14 @@
       "downloads": 2661687
     },
     {
-      "id": "ConwayResearch/Underdog-Saluki-27B-1.0",
-      "displayName": "Underdog Saluki 27B 1.0",
-      "downloads": 410558
-    },
-    {
       "id": "LiquidAI/LFM2.5-24B-A2B-GGUF",
       "displayName": "LFM2.5 24B A2B",
       "downloads": 107599
+    },
+    {
+      "id": "ConwayResearch/Underdog-Saluki-27B-1.0",
+      "displayName": "Underdog Saluki 27B 1.0",
+      "downloads": 410558
     },
     {
       "id": "AtomicChat/Qwen-Image-2.1-Turbo-Uncensored-GGUF",
