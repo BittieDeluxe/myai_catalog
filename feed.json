@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-18T02:47:27Z",
+  "updated": "2026-10-18T08:29:49Z",
   "news": [
     {
       "title": "Meta removes language that raised scraping and AI training concerns",
@@ -224,9 +224,9 @@
       "downloads": 786638
     },
     {
-      "id": "ISTA-DASLab/Qwen3.8-Flash-Next-GSQ-RCO-GGUF",
-      "displayName": "Qwen3.8 Flash Next GSQ RCO",
-      "downloads": 5587239
+      "id": "unsloth/Qwen3.8-27B-GGUF",
+      "displayName": "Qwen3.8 27B",
+      "downloads": 6768984
     }
   ]
 }
