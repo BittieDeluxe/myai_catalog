@@ -1,6 +1,13 @@
 {
-  "updated": "2026-10-18T13:43:49Z",
+  "updated": "2026-10-18T17:02:23Z",
   "news": [
+    {
+      "title": "Disney agrees to hire the majority of Character.AI\u2019s workforce",
+      "url": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-10-18T16:30:00Z",
+      "snippet": "After chatbot startup Character.AI filed for bankruptcy earlier this week, many of its employees will have the opportunity to take jobs at Disney. Character.AI\u2019s former CEO Karandeep Anand recently be"
+    },
     {
       "title": "Meta removes language that raised scraping and AI training concerns",
       "url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
@@ -163,13 +170,6 @@
       "snippet": "Speaking at TechCrunch Disrupt, Amazon devices chief Panos Panay described a future where ambient AI devices work in the background, anticipating users' needs instead of waiting for commands."
     },
     {
-      "title": "Anthropic is letting METR researchers look under the hood with employee-level access",
-      "url": "https://techcrunch.com/2026/10/15/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-10-15T19:14:26Z",
-      "snippet": "METR will publish its own assessments of Anthropic\u2019s risks, incidents, and practices, and the frontier AI model maker has given up the right to block them."
-    },
-    {
       "title": "Meta and Apple team up to make Muse AI models run better on Macs",
       "url": "https://www.theverge.com/news/1012293/meta-apple-muse-spark-open-ai-model-mlx",
       "source": "The Verge",
@@ -194,14 +194,14 @@
       "downloads": 410558
     },
     {
-      "id": "AtomicChat/Qwen-Image-2.1-Turbo-Uncensored-GGUF",
-      "displayName": "Qwen Image 2.1 Turbo Uncensored",
-      "downloads": 387254
-    },
-    {
       "id": "LiquidAI/LFM2.5-24B-A2B-GGUF",
       "displayName": "LFM2.5 24B A2B",
       "downloads": 107599
+    },
+    {
+      "id": "AtomicChat/Qwen-Image-2.1-Turbo-Uncensored-GGUF",
+      "displayName": "Qwen Image 2.1 Turbo Uncensored",
+      "downloads": 387254
     },
     {
       "id": "nerkyor/Qwen3.8-27B-Coder390-EfficientThink-Opus5.5-GPT6Astra-Grok4.7-DSV4Pro-K3-SFT-RLOO-MTP-DFlash2",
