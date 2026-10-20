@@ -1,6 +1,34 @@
 {
-  "updated": "2026-10-20T07:03:53Z",
+  "updated": "2026-10-20T13:15:05Z",
   "news": [
+    {
+      "title": "US orders federal agencies to remove China\u2019s DeepSeek AI from their systems",
+      "url": "https://techcrunch.com/2026/10/20/us-orders-federal-agencies-to-remove-chinas-deepseek-ai-from-their-systems/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-10-20T13:07:24Z",
+      "snippet": "The US has ordered federal civilian agencies to remove DeepSeek products and third-party services built using its technology, citing national security concerns."
+    },
+    {
+      "title": "Eka is worth $1.45B thanks to a physical AI model that has experts raving",
+      "url": "https://techcrunch.com/2026/10/20/eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-10-20T13:00:00Z",
+      "snippet": "Eka Robotics may be the first robotic arm that is actually good at picking a wide range of objects up, and it is so smooth and human-like, it is wowing the industry."
+    },
+    {
+      "title": "Yelp can now call on your behalf to check wait times at a restaurant",
+      "url": "https://techcrunch.com/2026/10/20/yelp-can-now-call-on-your-behalf-to-check-wait-times-at-a-restaurant/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-10-20T11:00:00Z",
+      "snippet": "Yelp is embedding numerous new AI features into its app that can do everything from call to check on restaurant wait times to create personalized recommendations that remember your preferences."
+    },
+    {
+      "title": "Otter.ai raises $320 million from General Catalyst\u2019s growth fund for its meeting tool",
+      "url": "https://techcrunch.com/2026/10/20/otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-10-20T11:00:00Z",
+      "snippet": "Meeting note-taking tool Otter.ai announced on Tuesday that it has raised $320 million from General Catalyst\u2019s Customer Value Fund (CVF), which provides capital to startups without diluting equity and"
+    },
     {
       "title": "Mamdani says feds have abdicated on AI, urges New Yorkers to push back",
       "url": "https://techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back/",
@@ -107,13 +135,6 @@
       "snippet": "A hacker broke into more than 100 websites using an army of AI agents that mostly operated on their own, according to findings from the AI security firm Norforge. Though Norforge doesn't name the targ"
     },
     {
-      "title": "Laplace Intelligence red-teams robots and self-driving cars before they hit the real world",
-      "url": "https://techcrunch.com/2026/10/19/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-10-19T12:30:00Z",
-      "snippet": "University of Michigan spinout Laplace Intelligence uses AI agents and interactive simulation to stress-test robots and self-driving vehicles before deployment. The profitable startup is competing in "
-    },
-    {
       "title": "Democrats think cracking down on AI could give them an edge",
       "url": "https://www.theverge.com/policy/1013113/democrats-ai-midterms",
       "source": "The Verge",
@@ -121,32 +142,11 @@
       "snippet": "Democrats could win back control of Congress this November, and if they do, they'll need to decide how to approach one of the country's newest and thorniest political issues: AI. Polls predict Democra"
     },
     {
-      "title": "Anthropic says it\u2019s committing 5% of its shares to a \u2018public benefit fund\u2019",
-      "url": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-10-18T20:37:40Z",
-      "snippet": "The company offered some broad-strokes ideas for how this money might actually be used, such as \u201clarge donations to traditional nonprofits or direct distributions to specific populations.\u201d"
-    },
-    {
       "title": "A woman was arrested in Philly for blocking a delivery robot",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1013541/a-woman-was-arrested-in-philly-for-blocking-a-delivery-robot",
       "source": "The Verge",
       "publishedAt": "2026-10-18T18:28:10Z",
       "snippet": "Carolyn Marvin was arrested and charged with disorderly conduct after blocking the path of an Uber delivery robot and refusing to get out of the way. Marvin told Philadelphia's ABC13 \"I know they're t"
-    },
-    {
-      "title": "Disney agrees to hire the majority of Character AI\u2019s workforce",
-      "url": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-10-18T16:30:00Z",
-      "snippet": "The filing also says that the \u201cvast majority\u201d of Character.AI employees who were offered jobs at Disney accepted them. However, this is a stalking horse bid, so another company could come forward with"
-    },
-    {
-      "title": "Meta removes language that raised scraping and AI training concerns",
-      "url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-10-17T21:31:32Z",
-      "snippet": "A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web."
     },
     {
       "title": "Meta removes language that may have allowed it to scrape news sites",
@@ -181,52 +181,52 @@
     {
       "id": "jialinyyzz/humanizer",
       "displayName": "humanizer",
-      "downloads": 109937
+      "downloads": 115341
     },
     {
       "id": "abenzerps/Qwen-Image-2.1-Uncensored-Quantized",
       "displayName": "Qwen Image 2.1 Uncensored Quantized",
-      "downloads": 2739572
+      "downloads": 2788283
     },
     {
       "id": "LiquidAI/LFM2.5-24B-A2B-GGUF",
       "displayName": "LFM2.5 24B A2B",
-      "downloads": 120509
+      "downloads": 132848
     },
     {
       "id": "ConwayResearch/Underdog-Saluki-27B-1.0",
       "displayName": "Underdog Saluki 27B 1.0",
-      "downloads": 425513
-    },
-    {
-      "id": "AtomicChat/Qwen-Image-2.1-Turbo-Uncensored-GGUF",
-      "displayName": "Qwen Image 2.1 Turbo Uncensored",
-      "downloads": 407270
+      "downloads": 449274
     },
     {
       "id": "DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
       "displayName": "Qwen3.8 27B TURBO Fable Cold Fusion 735 882 Heretic Uncensored NEO CODER MAX MTP",
-      "downloads": 1748391
+      "downloads": 1737441
     },
     {
-      "id": "nerkyor/Qwen3.8-27B-Coder390-EfficientThink-Opus5.5-GPT6Astra-Grok4.7-DSV4Pro-K3-SFT-RLOO-MTP-DFlash2",
-      "displayName": "Qwen3.8 27B Coder390 EfficientThink Opus5.5 GPT6Astra Grok4.7 DSV4Pro K3 SFT RLOO MTP DFlash2",
-      "downloads": 290020
-    },
-    {
-      "id": "openbmb/MiniCPM-V-4.7-35B-A3B-gguf",
-      "displayName": "MiniCPM V 4.7 35B A3B",
-      "downloads": 170728
+      "id": "AtomicChat/Qwen-Image-2.1-Turbo-Uncensored-GGUF",
+      "displayName": "Qwen Image 2.1 Turbo Uncensored",
+      "downloads": 428455
     },
     {
       "id": "orcarouter/OrcaCyber-Nano-1.0",
       "displayName": "OrcaCyber Nano 1.0",
-      "downloads": 10383
+      "downloads": 18606
+    },
+    {
+      "id": "nerkyor/Qwen3.8-27B-Coder390-EfficientThink-Opus5.5-GPT6Astra-Grok4.7-DSV4Pro-K3-SFT-RLOO-MTP-DFlash2",
+      "displayName": "Qwen3.8 27B Coder390 EfficientThink Opus5.5 GPT6Astra Grok4.7 DSV4Pro K3 SFT RLOO MTP DFlash2",
+      "downloads": 318292
+    },
+    {
+      "id": "HauhauCS/Qwen3.8-27B-Uncensored-HauhauCS-Aggressive-MTP-GGUF",
+      "displayName": "Qwen3.8 27B Uncensored HauhauCS Aggressive MTP",
+      "downloads": 2359355
     },
     {
       "id": "unsloth/Qwen3.8-27B-GGUF",
       "displayName": "Qwen3.8 27B",
-      "downloads": 6656041
+      "downloads": 6408192
     }
   ]
 }
