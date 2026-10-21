@@ -1,6 +1,27 @@
 {
-  "updated": "2026-10-21T14:48:46Z",
+  "updated": "2026-10-21T19:53:26Z",
   "news": [
+    {
+      "title": "Walmart is inviting AI agents to shop for you",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1015715/walmart-ai-shopping-agents",
+      "source": "The Verge",
+      "publishedAt": "2026-10-21T19:30:00Z",
+      "snippet": "Walmart will soon let AI agents shop on its website for you. Next month, the retail giant will allow you to connect your own AI agent to the site, with systems in place to let you approve and review p"
+    },
+    {
+      "title": "While Amazon blocks AI agents, Walmart rolls out the welcome mat",
+      "url": "https://techcrunch.com/2026/10/21/while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-10-21T19:30:00Z",
+      "snippet": "As Amazon blocks AI agents from shopping on its site, Walmart is taking the opposite approach, introducing new technology that lets AI agents make purchases on customers' behalf, with controls over sp"
+    },
+    {
+      "title": "Conversational Gemini navigation comes to Apple CarPlay",
+      "url": "https://www.theverge.com/transportation/1015281/gemini-ai-apple-carplay-voice-google-maps",
+      "source": "The Verge",
+      "publishedAt": "2026-10-21T15:00:00Z",
+      "snippet": "After introducing its Gemini AI assistant to Android Auto last year, Google is now bringing it to Apple CarPlay users. The conversational Gemini in navigation is available today for US drivers, with \""
+    },
     {
       "title": "AI promises productivity, but for managers, it\u2019s mostly a headache for now",
       "url": "https://techcrunch.com/2026/10/21/ai-promises-productivity-but-for-managers-its-mostly-a-headache-for-now-says-new-survey/",
@@ -142,13 +163,6 @@
       "snippet": "Adobe announced yesterday that the mobile version of Lightroom, available for iOS, iPadOS, and Android, can now open closed eyes in photos using generative AI with just a single tap. When the app dete"
     },
     {
-      "title": "Eka is worth $1.45B thanks to a physical AI model that has experts raving",
-      "url": "https://techcrunch.com/2026/10/20/eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-10-20T13:00:00Z",
-      "snippet": "Eka Robotics may be the first robotic arm that is actually good at picking up a wide range of objects, and it is so smooth and human-like, it is wowing the industry."
-    },
-    {
       "title": "The fossil fuel comeback is here",
       "url": "https://www.theverge.com/science/1013954/fossil-fuel-power-infrastructure-data-centers-report",
       "source": "The Verge",
@@ -161,20 +175,6 @@
       "source": "The Verge",
       "publishedAt": "2026-10-19T21:28:20Z",
       "snippet": "CoreWeave had a bad week last week. Its bonds slipped into distressed territory by a common definition - when investors demand 1,000 basis points more in yield than they'd get from government bonds. L"
-    },
-    {
-      "title": "JB Pritzker thinks AI could help us live to 100 \u2014 or threaten us like nukes",
-      "url": "https://www.theverge.com/podcast/1012839/pritzker-ai-privacy-data-centers-flock-congress-laws",
-      "source": "The Verge",
-      "publishedAt": "2026-10-19T14:30:00Z",
-      "snippet": "Today, I\u2019m talking with Illinois Gov. JB Pritzker, who has a lot of thoughts about AI, tech, and privacy. If you\u2019ve been listening to the show, you know that one of my running theories is that those i"
-    },
-    {
-      "title": "A hacker broke into John Deere and SharkNinja with an army of AI agents",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins",
-      "source": "The Verge",
-      "publishedAt": "2026-10-19T13:58:41Z",
-      "snippet": "A hacker broke into more than 100 websites using an army of AI agents that mostly operated on their own, according to findings from the AI security firm Norforge. Though Norforge doesn't name the targ"
     }
   ],
   "trending": [
@@ -209,9 +209,9 @@
       "downloads": 2354693
     },
     {
-      "id": "LiquidAI/LFM2.5-24B-A2B-GGUF",
-      "displayName": "LFM2.5 24B A2B",
-      "downloads": 143838
+      "id": "unsloth/DeepSeek-V4.1-Flash-1017-GGUF",
+      "displayName": "DeepSeek V4.1 Flash 1017",
+      "downloads": 18769
     },
     {
       "id": "ConwayResearch/Underdog-Saluki-27B-1.0",
@@ -219,14 +219,14 @@
       "downloads": 483698
     },
     {
-      "id": "unsloth/DeepSeek-V4.1-Flash-1017-GGUF",
-      "displayName": "DeepSeek V4.1 Flash 1017",
-      "downloads": 18769
+      "id": "orcarouter/Qwen3.8-Flash-Next-Uncensored-GGUF",
+      "displayName": "Qwen3.8 Flash Next Uncensored",
+      "downloads": 877264
     },
     {
-      "id": "AtomicChat/Qwen-Image-2.1-Turbo-Uncensored-GGUF",
-      "displayName": "Qwen Image 2.1 Turbo Uncensored",
-      "downloads": 444083
+      "id": "prism-ml/Ternary-Bonsai-2-9B-gguf",
+      "displayName": "Ternary Bonsai 2 9B",
+      "downloads": 96490
     }
   ]
 }
