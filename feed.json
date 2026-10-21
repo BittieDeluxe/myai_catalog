@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-21T03:05:11Z",
+  "updated": "2026-10-21T09:04:08Z",
   "news": [
     {
       "title": "Judge dismisses Sam Altman\u2019s sister\u2019s sexual abuse lawsuit",
@@ -13,14 +13,14 @@
       "url": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
       "source": "TechCrunch",
       "publishedAt": "2026-10-20T23:01:23Z",
-      "snippet": "The proposed policy seems to offer protections against AI run amok but actually forbids federal agencies from blocking a model's release without the permission of a judge."
+      "snippet": "The proposed policy seems to offer protections against AI running amok but actually forbids federal agencies from blocking a model's release without the permission of a judge."
     },
     {
       "title": "Hugging Face CEO warns that Netflix\u2019s OpenAI hack documentary isn\u2019t accurate",
       "url": "https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/",
       "source": "TechCrunch",
       "publishedAt": "2026-10-20T22:24:02Z",
-      "snippet": "Before you share the Netflix documentary \"AI Gone Rogue\" take note. Clem Delangue, Hugging Face's co-founder who is featured in the film, says it went \"full doomer mode\" and isn't accurate."
+      "snippet": "Before you share the Netflix documentary \"AI Gone Rogue,\" take note. Clem Delangue, Hugging Face's co-founder who is featured in the film, says it went \"full doomer mode\" and isn't accurate."
     },
     {
       "title": "Google\u2019s more personalized Gemini AI is heading to your car",
@@ -41,7 +41,7 @@
       "url": "https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/",
       "source": "TechCrunch",
       "publishedAt": "2026-10-20T20:40:41Z",
-      "snippet": "SpaceX hit profitably in the third-quarter, with net income of $4.4 billion. AI was the engine."
+      "snippet": "SpaceX hit profitability in the third quarter, with net income of $4.4 billion. AI was the engine."
     },
     {
       "title": "OpenAI acquires startup Orchestra Bio\u2060 to beef up its biotech business",
@@ -199,19 +199,9 @@
       "downloads": 132848
     },
     {
-      "id": "AtomicChat/Qwen-Image-2.1-Turbo-Uncensored-GGUF",
-      "displayName": "Qwen Image 2.1 Turbo Uncensored",
-      "downloads": 428455
-    },
-    {
       "id": "DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
       "displayName": "Qwen3.8 27B TURBO Fable Cold Fusion 735 882 Heretic Uncensored NEO CODER MAX MTP",
       "downloads": 1737441
-    },
-    {
-      "id": "ConwayResearch/Underdog-Saluki-27B-1.0",
-      "displayName": "Underdog Saluki 27B 1.0",
-      "downloads": 449274
     },
     {
       "id": "unsloth/Qwen3.8-27B-GGUF",
@@ -224,9 +214,19 @@
       "downloads": 2359355
     },
     {
-      "id": "nerkyor/Qwen3.8-27B-Coder390-EfficientThink-Opus5.5-GPT6Astra-Grok4.7-DSV4Pro-K3-SFT-RLOO-MTP-DFlash2",
-      "displayName": "Qwen3.8 27B Coder390 EfficientThink Opus5.5 GPT6Astra Grok4.7 DSV4Pro K3 SFT RLOO MTP DFlash2",
-      "downloads": 318292
+      "id": "ConwayResearch/Underdog-Saluki-27B-1.0",
+      "displayName": "Underdog Saluki 27B 1.0",
+      "downloads": 449274
+    },
+    {
+      "id": "AtomicChat/Qwen-Image-2.1-Turbo-Uncensored-GGUF",
+      "displayName": "Qwen Image 2.1 Turbo Uncensored",
+      "downloads": 428455
+    },
+    {
+      "id": "orcarouter/Qwen3.8-Flash-Next-Uncensored-GGUF",
+      "displayName": "Qwen3.8 Flash Next Uncensored",
+      "downloads": 869081
     }
   ]
 }
