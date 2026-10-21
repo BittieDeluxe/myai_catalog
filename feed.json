@@ -1,6 +1,41 @@
 {
-  "updated": "2026-10-21T19:53:26Z",
+  "updated": "2026-10-21T22:59:03Z",
   "news": [
+    {
+      "title": "Blackstone\u2019s Jas Khaira says fears over AI-buildout debt are overblown",
+      "url": "https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-10-21T22:51:22Z",
+      "snippet": "Blackstone\u2019s AI head on why the PE giant isn't panicked by market jitters."
+    },
+    {
+      "title": "TechCrunch Founder Summit 2026: Everything you need to know",
+      "url": "https://techcrunch.com/2026/10/21/techcrunch-founder-summit-2026-everything-you-need-to-know/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-10-21T21:16:20Z",
+      "snippet": "TechCrunch Founder Summit is a full-day gathering in Boston on November 4 where founders across all stages connect with top VCs and experienced entrepreneurs to gain tactical insights on building and "
+    },
+    {
+      "title": "Meta says Muse has over 10M users, with shopping a top activity",
+      "url": "https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-10-21T21:14:19Z",
+      "snippet": "Meta Muse users are adopting the app for shopping and personal productivity, the company said during Q3 earnings. The AI app now has over 10M users."
+    },
+    {
+      "title": "Recursive launches Flint, a laptop coding model it says was largely built by AI",
+      "url": "https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-10-21T20:27:41Z",
+      "snippet": "Startup Recursive has released Flint, a free, laptop-sized coding model built largely by its own AI research system, as an early test of AI that improves itself."
+    },
+    {
+      "title": "Anthropic takes on Muse with Claude Duet, its new AI agent",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1015843/anthropic-claude-duet-ai-agent",
+      "source": "The Verge",
+      "publishedAt": "2026-10-21T19:53:20Z",
+      "snippet": "Anthropic just announced an AI agent competitor to Meta's Muse and OpenAI's Dots: Claude Duet. The new agent, designed for professionals and small business owners, is launching as a \"research preview,"
+    },
     {
       "title": "Walmart is inviting AI agents to shop for you",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1015715/walmart-ai-shopping-agents",
@@ -14,6 +49,13 @@
       "source": "TechCrunch",
       "publishedAt": "2026-10-21T19:30:00Z",
       "snippet": "As Amazon blocks AI agents from shopping on its site, Walmart is taking the opposite approach, introducing new technology that lets AI agents make purchases on customers' behalf, with controls over sp"
+    },
+    {
+      "title": "Blacksmith hits unicorn valuation after Sequoia leads Series C",
+      "url": "https://techcrunch.com/2026/10/21/blacksmith-hits-unicorn-valuation-after-sequoia-leads-series-c/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-10-21T17:18:27Z",
+      "snippet": "Blacksmith, a platform that lets companies build and test AI code more effectively, just announced a $66 million Series C round led by Sequoia that values the company at $1 billion."
     },
     {
       "title": "Conversational Gemini navigation comes to Apple CarPlay",
@@ -114,46 +156,11 @@
       "snippet": "Eric Schmidt\u2019s fortune is about to get even bigger."
     },
     {
-      "title": "Meta\u2019s Muse hits 10M US downloads in 40 days, a milestone reached by only 11 other apps",
-      "url": "https://techcrunch.com/2026/10/20/metas-muse-hits-10m-u-s-downloads-in-40-days-a-milestone-reached-by-only-11-other-apps/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-10-20T17:12:48Z",
-      "snippet": "New data also shows Muse is retaining users at higher rates than its AI rivals."
-    },
-    {
-      "title": "Ex-Nvidia-turned-VC Amulya Vishwanath: \u2018Physical AI is in its LEGO era\u2019",
-      "url": "https://techcrunch.com/2026/10/20/ex-nvidia-turned-vc-amulya-vishwanath-physical-ai-is-in-its-lego-era/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-10-20T16:20:06Z",
-      "snippet": "It\u2019s the moment everyone is waiting for \u2014 the ChatGPT moment for robotics, Amulya Vishwanath explained to TechCrunch\u2019s Equity."
-    },
-    {
-      "title": "Plants can speak using electricity, so this startup built an AI model to decipher their language",
-      "url": "https://techcrunch.com/2026/10/20/plants-can-speak-using-electricity-so-this-startup-built-an-ai-model-to-decipher-their-language/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-10-20T16:00:00Z",
-      "snippet": "Electric Plant has built an AI-powered translator to help humans listen to what plants are saying with the subtle electricity coursing through their stems."
-    },
-    {
       "title": "Spotify pulled 50 million AI slop and spam tracks from its recommendations",
       "url": "https://www.theverge.com/entertainment/1014284/spotify-ai-slop-spam-songs-removed",
       "source": "The Verge",
       "publishedAt": "2026-10-20T14:18:37Z",
       "snippet": "Spotify says it has removed more than 50 million songs considered AI-generated slop or spam from user recommendations over the past year. That's according to an announcement on Tuesday that says Spoti"
-    },
-    {
-      "title": "Figma co-founder Dylan Field thinks MCP is not a perfect protocol",
-      "url": "https://techcrunch.com/2026/10/20/figma-co-founder-dylan-field-thinks-mcp-is-not-a-perfect-protocol/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-10-20T14:13:32Z",
-      "snippet": "Figma said it plans to support as many standards as possible without exposing all of its data."
-    },
-    {
-      "title": "US orders federal agencies to remove China\u2019s DeepSeek AI from their systems",
-      "url": "https://techcrunch.com/2026/10/20/us-orders-federal-agencies-to-remove-chinas-deepseek-ai-from-their-systems/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-10-20T13:07:24Z",
-      "snippet": "The U.S. has ordered federal civilian agencies to remove DeepSeek products and third-party services built using its technology, citing national security concerns."
     },
     {
       "title": "Adobe Lightroom mobile can now open closed eyes in photos with a simple tap",
@@ -168,13 +175,6 @@
       "source": "The Verge",
       "publishedAt": "2026-10-19T21:48:01Z",
       "snippet": "The US is building more fossil fuel infrastructure than it has in a decade while renewable energy growth slows down, a new report shows. Electricity demand is also climbing faster than it has in more "
-    },
-    {
-      "title": "CoreWeave\u2019s debt is becoming the whole AI industry\u2019s problem",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1014045/coreweave-stock-debt-sector-ai",
-      "source": "The Verge",
-      "publishedAt": "2026-10-19T21:28:20Z",
-      "snippet": "CoreWeave had a bad week last week. Its bonds slipped into distressed territory by a common definition - when investors demand 1,000 basis points more in yield than they'd get from government bonds. L"
     }
   ],
   "trending": [
@@ -194,14 +194,14 @@
       "downloads": 19697
     },
     {
-      "id": "DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
-      "displayName": "Qwen3.8 27B TURBO Fable Cold Fusion 735 882 Heretic Uncensored NEO CODER MAX MTP",
-      "downloads": 1726519
-    },
-    {
       "id": "unsloth/Qwen3.8-27B-GGUF",
       "displayName": "Qwen3.8 27B",
       "downloads": 6291461
+    },
+    {
+      "id": "DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
+      "displayName": "Qwen3.8 27B TURBO Fable Cold Fusion 735 882 Heretic Uncensored NEO CODER MAX MTP",
+      "downloads": 1726519
     },
     {
       "id": "HauhauCS/Qwen3.8-27B-Uncensored-HauhauCS-Aggressive-MTP-GGUF",
@@ -214,11 +214,6 @@
       "downloads": 18769
     },
     {
-      "id": "ConwayResearch/Underdog-Saluki-27B-1.0",
-      "displayName": "Underdog Saluki 27B 1.0",
-      "downloads": 483698
-    },
-    {
       "id": "orcarouter/Qwen3.8-Flash-Next-Uncensored-GGUF",
       "displayName": "Qwen3.8 Flash Next Uncensored",
       "downloads": 877264
@@ -227,6 +222,11 @@
       "id": "prism-ml/Ternary-Bonsai-2-9B-gguf",
       "displayName": "Ternary Bonsai 2 9B",
       "downloads": 96490
+    },
+    {
+      "id": "ConwayResearch/Underdog-Saluki-27B-1.0",
+      "displayName": "Underdog Saluki 27B 1.0",
+      "downloads": 483698
     }
   ]
 }
