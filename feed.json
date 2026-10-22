@@ -1,19 +1,47 @@
 {
-  "updated": "2026-10-22T19:42:08Z",
+  "updated": "2026-10-22T22:56:00Z",
   "news": [
+    {
+      "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
+      "url": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-10-22T22:08:24Z",
+      "snippet": "Should OpenAI command an over $1 trillion valuation with this round, it would break records as the most highly valued private company ever."
+    },
+    {
+      "title": "Canva\u2019s first AI image model plans designs before generating them",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model",
+      "source": "The Verge",
+      "publishedAt": "2026-10-22T21:51:25Z",
+      "snippet": "Canva is diving even deeper into AI with the launch of an image generation model that competes directly with those from OpenAI, Microsoft, and Google. The model, called Canva Craft, uses a two-stage a"
+    },
+    {
+      "title": "Meta\u2019s AI could still scrape news sites, legal experts say",
+      "url": "https://www.theverge.com/tech/1017082/meta-terms-update-ai-training-concerns",
+      "source": "The Verge",
+      "publishedAt": "2026-10-22T20:32:05Z",
+      "snippet": "Meta has tweaked its business terms to remove language suggesting that it could freely train its AI models on news sites, like The Verge - but legal experts say these changes aren't enough to address "
+    },
+    {
+      "title": "Meta turns Muse sharing back on",
+      "url": "https://www.theverge.com/tech/1017066/meta-muse-sharing-back-on-artifiacts",
+      "source": "The Verge",
+      "publishedAt": "2026-10-22T20:24:04Z",
+      "snippet": "Meta has re-enabled Muse sharing after security researchers had reported that public conversation links could be easy to find. The researchers said they had been able to find Muse pages like a marketi"
+    },
+    {
+      "title": "Sure, let\u2019s smoosh SpaceX and Tesla together, who cares",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1016879/spacex-tesla-cursed-katamari",
+      "source": "The Verge",
+      "publishedAt": "2026-10-22T19:45:00Z",
+      "snippet": "Oh sure, SpaceX's credit risk is pretty high because it's about to borrow another $40 billion to spend on Nvidia chips, but who cares about that? SpaceX and Tesla have formed special committees to dis"
+    },
     {
       "title": "1Password launches a way for AI agents to log in on your behalf without seeing your password",
       "url": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/",
       "source": "TechCrunch",
       "publishedAt": "2026-10-22T19:07:09Z",
       "snippet": "The new feature allows agents to log into a customer's personal accounts while still protecting the private credentials that secure those accounts."
-    },
-    {
-      "title": "Canva releases its first image generation model",
-      "url": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-10-22T19:00:00Z",
-      "snippet": "Canva is making its new image model available to all users, promising better, more customizable performance at lower costs."
     },
     {
       "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
@@ -23,11 +51,32 @@
       "snippet": "OpenAI is launching its decision model to the world. Can it compete with the original Jev?"
     },
     {
+      "title": "Canva releases its first image generation model",
+      "url": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-10-22T19:00:00Z",
+      "snippet": "Canva is making its new image model available to all users, promising better, more customizable performance at lower costs."
+    },
+    {
+      "title": "Discord now formats Markdown previews right",
+      "url": "https://www.theverge.com/news/1017012/discord-markdown-previews-organize-servers-channels",
+      "source": "The Verge",
+      "publishedAt": "2026-10-22T18:58:19Z",
+      "snippet": "Discord's latest update released today has a big improvement for Markdown previews: they should now render correctly instead of with \"a bunch of symbols,\" according to the company. LLMs and AI agents "
+    },
+    {
       "title": "Microsoft\u2019s Mustafa Suleyman says its AI outperforms doctors on hard cases as he chases \u2018medical superintelligence\u2019",
       "url": "https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/",
       "source": "TechCrunch",
       "publishedAt": "2026-10-22T18:43:53Z",
       "snippet": "Microsoft\u2019s new AI diagnostic system beat generalist doctors on hard cases, according to a study in Science. But most of the improvement seems to come from the AI models underneath, not from Microsoft"
+    },
+    {
+      "title": "In Meta\u2019s version of the future, I\u2019ll have my Muse call your Muse",
+      "url": "https://www.theverge.com/tech/1016905/meta-earnings-fall-2026-muse-network",
+      "source": "The Verge",
+      "publishedAt": "2026-10-22T18:15:00Z",
+      "snippet": "Mark Zuckerberg is barrelling toward a future in which an autonomous network of AI agents will run our lives - shopping for us, working for us, talking to other people's AI agents for us. Are humans r"
     },
     {
       "title": "Microsoft says its AI tool is better than doctors at diagnosing conditions",
@@ -72,25 +121,11 @@
       "snippet": "It was a busy summer for AI lobbyists. Anthropic, OpenAI, and Nvidia each had their highest-spending lobbying quarter between July and September, federal disclosures show. Nvidia spent the most of the"
     },
     {
-      "title": "PHP: The three little letters wreaking havoc across the web",
-      "url": "https://www.theverge.com/tech/1016574/php2shell-security-vulnerability-websites-down",
-      "source": "The Verge",
-      "publishedAt": "2026-10-22T15:12:27Z",
-      "snippet": "Two vulnerabilities found in the programming language PHP put enormous swaths of the internet in danger. By some accounts, up to 70 percent of websites use PHP in some capacity. It powers Wikipedia, W"
-    },
-    {
       "title": "Spotify\u2019s current AI bet is about being the music service that agents choose",
       "url": "https://techcrunch.com/2026/10/22/spotifys-current-ai-bet-is-about-being-the-music-service-that-agents-choose/",
       "source": "TechCrunch",
       "publishedAt": "2026-10-22T15:03:58Z",
       "snippet": "Spotify co-CEO Gustav S\u00f6derstr\u00f6m explains why the rise of AI agents could be good news for the music service."
-    },
-    {
-      "title": "Bill Gates says to prepare for 20 years of \u2018tumultuous\u2019 AI disruption",
-      "url": "https://www.theverge.com/podcast/1015408/bill-gates-ai-interview-microsoft-openai-anthropic-risk-policy-regulation",
-      "source": "The Verge",
-      "publishedAt": "2026-10-22T14:00:00Z",
-      "snippet": "Today, I\u2019m talking to Bill Gates, cofounder and former CEO of Microsoft and chairman of the Gates Foundation. You may have noticed Bill in the news more lately \u2014 he\u2019s been on something of a tour for t"
     },
     {
       "title": "Claude Duet app is Anthropic\u2019s bet on agents",
@@ -112,34 +147,6 @@
       "source": "TechCrunch",
       "publishedAt": "2026-10-22T13:11:13Z",
       "snippet": "DeepSeek has reportedly raised $15 billion in one of China's largest funding rounds, just days after the U.S. ordered federal agencies to remove its technology over national security concerns."
-    },
-    {
-      "title": "1Password lets AI agents use your passwords without seeing them",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1016399/1password-ai-agent-password-sign-in",
-      "source": "The Verge",
-      "publishedAt": "2026-10-22T13:00:00Z",
-      "snippet": "1Password is introducing a new feature that allows AI agents to sign into your accounts without actually seeing or handling your passwords. The aptly named 1Password for Agents doesn't give bots free "
-    },
-    {
-      "title": "AI agents are ready to shop. Some retailers are wary",
-      "url": "https://www.theverge.com/report/1015811/ai-shopping-agents-blocked-amazon-the-realreal-target-meta-muse",
-      "source": "The Verge",
-      "publishedAt": "2026-10-22T12:30:00Z",
-      "snippet": "Using an AI agent to shop for you is a strange experience. Tech companies have marketed them as personal assistants - the democratizing of labor that ordinarily would only be available to the rich and"
-    },
-    {
-      "title": "Claude did not invent scorpion antivenom",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1016443/anthropic-claude-citrini-vibecoding-scorpion-antivenom",
-      "source": "The Verge",
-      "publishedAt": "2026-10-22T12:21:07Z",
-      "snippet": "An investment research firm wanted to prove AI could revolutionize drug development. So they teamed up with Anthropic to see whether an unreleased version of Claude could make scorpion antivenom. It c"
-    },
-    {
-      "title": "Eiliko maker says it\u2019s hiring an \u2018independent security firm\u2019 after Verge report on its insecure robots",
-      "url": "https://www.theverge.com/news/1015824/eiliko-energize-lab-statement-on-robot-hack-breach",
-      "source": "The Verge",
-      "publishedAt": "2026-10-22T11:00:00Z",
-      "snippet": "Eiliko, a cute robot charm you can hang on your bag with built-in AI conversations, turned out to be a security nightmare. It told owners that \"your secrets are safe with me,\" but hackers could easily"
     },
     {
       "title": "Blackstone\u2019s Jas Khaira says fears over AI-buildout debt are overblown",
@@ -168,13 +175,6 @@
       "source": "TechCrunch",
       "publishedAt": "2026-10-21T21:14:19Z",
       "snippet": "Meta Muse users are adopting the app for shopping and personal productivity, the company said during its Q3 earnings call. The AI app now has over 10M users."
-    },
-    {
-      "title": "Recursive launches Flint, a laptop coding model it says was largely built by AI",
-      "url": "https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-10-21T20:27:41Z",
-      "snippet": "Startup Recursive has released Flint, a free, laptop-sized coding model built largely by its own AI research system, as an early test of AI that improves itself."
     }
   ],
   "trending": [
@@ -219,14 +219,14 @@
       "downloads": 2315548
     },
     {
-      "id": "prism-ml/Ternary-Bonsai-2-9B-gguf",
-      "displayName": "Ternary Bonsai 2 9B",
-      "downloads": 104143
-    },
-    {
       "id": "orcarouter/Qwen3.8-Flash-Next-Uncensored-GGUF",
       "displayName": "Qwen3.8 Flash Next Uncensored",
       "downloads": 886817
+    },
+    {
+      "id": "prism-ml/Ternary-Bonsai-2-9B-gguf",
+      "displayName": "Ternary Bonsai 2 9B",
+      "downloads": 104143
     }
   ]
 }
