@@ -1,6 +1,90 @@
 {
-  "updated": "2026-10-22T14:50:12Z",
+  "updated": "2026-10-22T19:42:08Z",
   "news": [
+    {
+      "title": "1Password launches a way for AI agents to log in on your behalf without seeing your password",
+      "url": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-10-22T19:07:09Z",
+      "snippet": "The new feature allows agents to log into a customer's personal accounts while still protecting the private credentials that secure those accounts."
+    },
+    {
+      "title": "Canva releases its first image generation model",
+      "url": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-10-22T19:00:00Z",
+      "snippet": "Canva is making its new image model available to all users, promising better, more customizable performance at lower costs."
+    },
+    {
+      "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
+      "url": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-10-22T19:00:00Z",
+      "snippet": "OpenAI is launching its decision model to the world. Can it compete with the original Jev?"
+    },
+    {
+      "title": "Microsoft\u2019s Mustafa Suleyman says its AI outperforms doctors on hard cases as he chases \u2018medical superintelligence\u2019",
+      "url": "https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-10-22T18:43:53Z",
+      "snippet": "Microsoft\u2019s new AI diagnostic system beat generalist doctors on hard cases, according to a study in Science. But most of the improvement seems to come from the AI models underneath, not from Microsoft"
+    },
+    {
+      "title": "Microsoft says its AI tool is better than doctors at diagnosing conditions",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1016690/suleyman-microsoft-diagnostic-orchestrator-science-medical-superintelligence",
+      "source": "The Verge",
+      "publishedAt": "2026-10-22T18:00:00Z",
+      "snippet": "For years, AI leaders have touted healthcare as one of the clearest examples of where their technology will improve lives. Now \"it is finally here,\" Microsoft AI CEO Mustafa Suleyman tells The Verge. "
+    },
+    {
+      "title": "Someone hacked the Switch 2 by using an old game and AI",
+      "url": "https://www.theverge.com/games/1016862/nintendo-switch-2-jailbreak-ai",
+      "source": "The Verge",
+      "publishedAt": "2026-10-22T17:21:31Z",
+      "snippet": "The Nintendo Switch 2 has apparently been jailbroken, and a modder has already shown the console running a custom version of Mario Kart World featuring new playable characters like Cinnamoroll, the re"
+    },
+    {
+      "title": "Chinese hackers spied on thousands of companies after breaching IT giant ConnectWise",
+      "url": "https://techcrunch.com/2026/10/22/chinese-hackers-spied-on-thousands-of-companies-after-breaching-it-giant-connectwise/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-10-22T16:47:17Z",
+      "snippet": "Microsoft points the blame for ConnectWise's breach at a China-aligned hacker, which relied on AI agents to rapidly hack into thousands of its customers."
+    },
+    {
+      "title": "Wildwood\u2019s director says AI is \u2018antithetical to everything that we are at this studio\u2019",
+      "url": "https://www.theverge.com/entertainment/1016647/wildwood-travis-knight-interview-ai-laika-stop-motion",
+      "source": "The Verge",
+      "publishedAt": "2026-10-22T16:16:15Z",
+      "snippet": "Wildwood is the most ambitious film yet from Laika, the stop-motion studio best known for the likes of Coraline and ParaNorman. It's a sprawling fantasy adventure that took five years to complete. The"
+    },
+    {
+      "title": "Uber puts all 30,000 employees on ChatGPT Work",
+      "url": "https://techcrunch.com/2026/10/22/uber-puts-all-30000-employees-on-chatgpt-work/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-10-22T16:00:00Z",
+      "snippet": "The ride-share giant previously deployed a much smaller pilot for ChatGPT Work but is now taking the enterprise agent company-wide."
+    },
+    {
+      "title": "OpenAI, Anthropic, and Nvidia had record lobbying quarters",
+      "url": "https://www.theverge.com/policy/1016585/openai-anthropic-nvidia-lobbying-records",
+      "source": "The Verge",
+      "publishedAt": "2026-10-22T15:50:30Z",
+      "snippet": "It was a busy summer for AI lobbyists. Anthropic, OpenAI, and Nvidia each had their highest-spending lobbying quarter between July and September, federal disclosures show. Nvidia spent the most of the"
+    },
+    {
+      "title": "PHP: The three little letters wreaking havoc across the web",
+      "url": "https://www.theverge.com/tech/1016574/php2shell-security-vulnerability-websites-down",
+      "source": "The Verge",
+      "publishedAt": "2026-10-22T15:12:27Z",
+      "snippet": "Two vulnerabilities found in the programming language PHP put enormous swaths of the internet in danger. By some accounts, up to 70 percent of websites use PHP in some capacity. It powers Wikipedia, W"
+    },
+    {
+      "title": "Spotify\u2019s current AI bet is about being the music service that agents choose",
+      "url": "https://techcrunch.com/2026/10/22/spotifys-current-ai-bet-is-about-being-the-music-service-that-agents-choose/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-10-22T15:03:58Z",
+      "snippet": "Spotify co-CEO Gustav S\u00f6derstr\u00f6m explains why the rise of AI agents could be good news for the music service."
+    },
     {
       "title": "Bill Gates says to prepare for 20 years of \u2018tumultuous\u2019 AI disruption",
       "url": "https://www.theverge.com/podcast/1015408/bill-gates-ai-interview-microsoft-openai-anthropic-risk-policy-regulation",
@@ -13,7 +97,7 @@
       "url": "https://techcrunch.com/2026/10/22/claude-duet-app-is-anthropics-bet-on-agents/",
       "source": "TechCrunch",
       "publishedAt": "2026-10-22T13:53:26Z",
-      "snippet": "Claude Duet is available through waitlist for Pro and Max plan users"
+      "snippet": "Claude Duet is available through waitlist for Pro and Max plan users."
     },
     {
       "title": "Nirva raises $33M for a pendant that only listens to you",
@@ -27,7 +111,7 @@
       "url": "https://techcrunch.com/2026/10/22/deepseek-reportedly-raises-15b-days-after-us-restrictions/",
       "source": "TechCrunch",
       "publishedAt": "2026-10-22T13:11:13Z",
-      "snippet": "DeepSeek has reportedly raised $15 billion in one of China's largest funding rounds, just days after the US ordered federal agencies to remove its technology over national security concerns."
+      "snippet": "DeepSeek has reportedly raised $15 billion in one of China's largest funding rounds, just days after the U.S. ordered federal agencies to remove its technology over national security concerns."
     },
     {
       "title": "1Password lets AI agents use your passwords without seeing them",
@@ -37,7 +121,7 @@
       "snippet": "1Password is introducing a new feature that allows AI agents to sign into your accounts without actually seeing or handling your passwords. The aptly named 1Password for Agents doesn't give bots free "
     },
     {
-      "title": "AI agents are ready to shop. Some retailers are wary.",
+      "title": "AI agents are ready to shop. Some retailers are wary",
       "url": "https://www.theverge.com/report/1015811/ai-shopping-agents-blocked-amazon-the-realreal-target-meta-muse",
       "source": "The Verge",
       "publishedAt": "2026-10-22T12:30:00Z",
@@ -65,18 +149,11 @@
       "snippet": "Blackstone\u2019s AI head on why the PE giant isn't panicked by market jitters."
     },
     {
-      "title": "Data centers could erase decades of air quality gains",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1015958/data-center-pollution-rising-report",
-      "source": "The Verge",
-      "publishedAt": "2026-10-21T22:33:44Z",
-      "snippet": "A rush of new data centers could bring air pollution roaring back to levels not seen since the 2000s in Texas, which has become ground zero for the physical infrastructure behind generative AI. New an"
-    },
-    {
-      "title": "Meta to create a new class of shares to fund AI push",
-      "url": "https://www.theverge.com/tech/1015799/meta-shares-class-ai-q3-2026-earnings",
-      "source": "The Verge",
-      "publishedAt": "2026-10-21T21:30:02Z",
-      "snippet": "Meta says it's issuing a new class of shares to fund its AI initiatives. As part of its third-quarter earnings report released on Wednesday, the company says the non-voting stock will also go toward p"
+      "title": "Meta wants to pay for its broad AI buildout with a newly created class of stock",
+      "url": "https://techcrunch.com/2026/10/21/meta-wants-to-pay-for-its-broad-ai-buildout-with-a-newly-created-class-of-stock/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-10-21T22:45:34Z",
+      "snippet": "The social media giant is planning a new stock strategy to help power its broad investments in AI models and services."
     },
     {
       "title": "TechCrunch Founder Summit 2026: Everything you need to know",
@@ -98,83 +175,6 @@
       "source": "TechCrunch",
       "publishedAt": "2026-10-21T20:27:41Z",
       "snippet": "Startup Recursive has released Flint, a free, laptop-sized coding model built largely by its own AI research system, as an early test of AI that improves itself."
-    },
-    {
-      "title": "Anthropic takes on Muse with Claude Duet, its new AI agent",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1015843/anthropic-claude-duet-ai-agent",
-      "source": "The Verge",
-      "publishedAt": "2026-10-21T19:53:20Z",
-      "snippet": "Anthropic just announced an AI agent competitor to Meta's Muse and OpenAI's Dots: Claude Duet. The new agent, designed for professionals and small business owners, is launching as a \"research preview,"
-    },
-    {
-      "title": "Walmart is inviting AI agents to shop for you",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1015715/walmart-ai-shopping-agents",
-      "source": "The Verge",
-      "publishedAt": "2026-10-21T19:30:00Z",
-      "snippet": "Walmart will soon let AI agents shop on its website for you. Next month, the retail giant will allow you to use an AI agent on the site, with systems in place to let you approve and review purchases a"
-    },
-    {
-      "title": "While Amazon blocks AI agents, Walmart rolls out the welcome mat",
-      "url": "https://techcrunch.com/2026/10/21/while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-10-21T19:30:00Z",
-      "snippet": "As Amazon blocks AI agents from shopping on its site, Walmart is taking the opposite approach, introducing new technology that lets AI agents make purchases on customers' behalf, with controls over sp"
-    },
-    {
-      "title": "PHP Armageddon: OpenAI, Google\u2019s Wiz find ancient holes, panicking the internet",
-      "url": "https://techcrunch.com/2026/10/21/php-armageddon-openai-googles-wiz-find-ancient-holes-panicking-the-internet/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-10-21T17:59:12Z",
-      "snippet": "This is the kind of security issue that was found and prevented by AI, but is also a high risk because of AI."
-    },
-    {
-      "title": "Blacksmith hits unicorn valuation after Sequoia leads Series C",
-      "url": "https://techcrunch.com/2026/10/21/blacksmith-hits-unicorn-valuation-after-sequoia-leads-series-c/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-10-21T17:18:27Z",
-      "snippet": "Blacksmith, a platform that lets companies build and test AI code more effectively, just announced a $66 million Series C round led by Sequoia that values the company at $1 billion."
-    },
-    {
-      "title": "Conversational Gemini navigation comes to Apple CarPlay",
-      "url": "https://www.theverge.com/transportation/1015281/gemini-ai-apple-carplay-voice-google-maps",
-      "source": "The Verge",
-      "publishedAt": "2026-10-21T15:00:00Z",
-      "snippet": "After introducing its Gemini AI assistant to Android Auto last year, Google is now bringing it to Apple CarPlay users. The conversational Gemini in navigation is available today for US drivers, with \""
-    },
-    {
-      "title": "AI promises productivity, but for managers, it\u2019s mostly a headache for now",
-      "url": "https://techcrunch.com/2026/10/21/ai-promises-productivity-but-for-managers-its-mostly-a-headache-for-now-says-new-survey/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-10-21T14:00:00Z",
-      "snippet": "More than 50% of managers say they're finding it harder to evaluate employees' work after adopting AI, according to a new survey."
-    },
-    {
-      "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
-      "url": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-10-20T23:01:23Z",
-      "snippet": "The proposed policy seems to offer protections against AI running amok but actually forbids federal agencies from blocking a model's release without the permission of a judge."
-    },
-    {
-      "title": "Hugging Face CEO warns that Netflix\u2019s OpenAI hack documentary isn\u2019t accurate",
-      "url": "https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-10-20T22:24:02Z",
-      "snippet": "Before you share the Netflix documentary \"AI Gone Rogue,\" take note. Clem Delangue, Hugging Face's co-founder who is featured in the film, says it went \"full doomer mode\" and isn't accurate."
-    },
-    {
-      "title": "Anthropic\u2019s cloud partnerships are getting messy",
-      "url": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-10-20T21:25:22Z",
-      "snippet": "Anthropic is reportedly struggling to secure enough compute from cloud providers that increasingly view it as a competitor, even as its infrastructure spending balloons ahead of a planned November IPO"
-    },
-    {
-      "title": "SpaceX\u2019s AI business is beating expectations",
-      "url": "https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-10-20T20:40:41Z",
-      "snippet": "SpaceX hit profitability in the third quarter, with net income of $4.4 billion. AI was the engine."
     }
   ],
   "trending": [
@@ -194,6 +194,11 @@
       "downloads": 21727
     },
     {
+      "id": "unsloth/flint-GGUF",
+      "displayName": "flint",
+      "downloads": 7401
+    },
+    {
       "id": "DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
       "displayName": "Qwen3.8 27B TURBO Fable Cold Fusion 735 882 Heretic Uncensored NEO CODER MAX MTP",
       "downloads": 1692261
@@ -202,11 +207,6 @@
       "id": "unsloth/Qwen3.8-27B-GGUF",
       "displayName": "Qwen3.8 27B",
       "downloads": 5937802
-    },
-    {
-      "id": "unsloth/flint-GGUF",
-      "displayName": "flint",
-      "downloads": 7401
     },
     {
       "id": "unsloth/DeepSeek-V4.1-Flash-1017-GGUF",
@@ -224,9 +224,9 @@
       "downloads": 104143
     },
     {
-      "id": "nvidia/NVIDIA-Nemotron-3.5-Bolt-74B-A9B-24GB-GGUF",
-      "displayName": "NVIDIA Nemotron 3.5 Bolt 74B A9B 24GB",
-      "downloads": 101881
+      "id": "orcarouter/Qwen3.8-Flash-Next-Uncensored-GGUF",
+      "displayName": "Qwen3.8 Flash Next Uncensored",
+      "downloads": 886817
     }
   ]
 }
