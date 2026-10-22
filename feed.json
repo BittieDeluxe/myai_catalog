@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-22T03:03:37Z",
+  "updated": "2026-10-22T09:06:37Z",
   "news": [
     {
       "title": "Blackstone\u2019s Jas Khaira says fears over AI-buildout debt are overblown",
@@ -34,7 +34,7 @@
       "url": "https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity/",
       "source": "TechCrunch",
       "publishedAt": "2026-10-21T21:14:19Z",
-      "snippet": "Meta Muse users are adopting the app for shopping and personal productivity, the company said during Q3 earnings. The AI app now has over 10M users."
+      "snippet": "Meta Muse users are adopting the app for shopping and personal productivity, the company said during its Q3 earnings call. The AI app now has over 10M users."
     },
     {
       "title": "Recursive launches Flint, a laptop coding model it says was largely built by AI",
@@ -194,19 +194,14 @@
       "downloads": 19697
     },
     {
-      "id": "unsloth/Qwen3.8-27B-GGUF",
-      "displayName": "Qwen3.8 27B",
-      "downloads": 6291461
-    },
-    {
       "id": "DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
       "displayName": "Qwen3.8 27B TURBO Fable Cold Fusion 735 882 Heretic Uncensored NEO CODER MAX MTP",
       "downloads": 1726519
     },
     {
-      "id": "HauhauCS/Qwen3.8-27B-Uncensored-HauhauCS-Aggressive-MTP-GGUF",
-      "displayName": "Qwen3.8 27B Uncensored HauhauCS Aggressive MTP",
-      "downloads": 2354693
+      "id": "unsloth/Qwen3.8-27B-GGUF",
+      "displayName": "Qwen3.8 27B",
+      "downloads": 6291461
     },
     {
       "id": "unsloth/DeepSeek-V4.1-Flash-1017-GGUF",
@@ -214,19 +209,24 @@
       "downloads": 18769
     },
     {
+      "id": "HauhauCS/Qwen3.8-27B-Uncensored-HauhauCS-Aggressive-MTP-GGUF",
+      "displayName": "Qwen3.8 27B Uncensored HauhauCS Aggressive MTP",
+      "downloads": 2354693
+    },
+    {
+      "id": "unsloth/flint-GGUF",
+      "displayName": "flint",
+      "downloads": 11
+    },
+    {
       "id": "prism-ml/Ternary-Bonsai-2-9B-gguf",
       "displayName": "Ternary Bonsai 2 9B",
       "downloads": 96490
     },
     {
-      "id": "orcarouter/Qwen3.8-Flash-Next-Uncensored-GGUF",
-      "displayName": "Qwen3.8 Flash Next Uncensored",
-      "downloads": 877264
-    },
-    {
-      "id": "ConwayResearch/Underdog-Saluki-27B-1.0",
-      "displayName": "Underdog Saluki 27B 1.0",
-      "downloads": 483698
+      "id": "nvidia/NVIDIA-Nemotron-3.5-Bolt-74B-A9B-24GB-GGUF",
+      "displayName": "NVIDIA Nemotron 3.5 Bolt 74B A9B 24GB",
+      "downloads": 92763
     }
   ]
 }
