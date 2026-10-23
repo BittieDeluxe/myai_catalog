@@ -1,6 +1,13 @@
 {
-  "updated": "2026-10-23T09:02:20Z",
+  "updated": "2026-10-23T14:36:44Z",
   "news": [
+    {
+      "title": "Retro gaming is being overrun with AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1015430/ai-retro-games-decomp-recomp-port",
+      "source": "The Verge",
+      "publishedAt": "2026-10-23T12:00:00Z",
+      "snippet": "Retro video games are everywhere lately - especially in places where they aren't supposed to be. Halo in a web browser, Wind Waker on the iPhone, Super Smash Bros. in mixed reality. Over the past mont"
+    },
     {
       "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony.ai and Nvidia",
       "url": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/",
@@ -128,13 +135,6 @@
       "snippet": "The ride-share giant previously deployed a much smaller pilot for ChatGPT Work but is now taking the enterprise agent company-wide."
     },
     {
-      "title": "OpenAI, Anthropic, and Nvidia had record lobbying quarters",
-      "url": "https://www.theverge.com/policy/1016585/openai-anthropic-nvidia-lobbying-records",
-      "source": "The Verge",
-      "publishedAt": "2026-10-22T15:50:30Z",
-      "snippet": "It was a busy summer for AI lobbyists. Anthropic, OpenAI, and Nvidia each had their highest-spending lobbying quarter between July and September, federal disclosures show. Nvidia spent the most of the"
-    },
-    {
       "title": "Spotify\u2019s current AI bet is about being the music service that agents choose",
       "url": "https://techcrunch.com/2026/10/22/spotifys-current-ai-bet-is-about-being-the-music-service-that-agents-choose/",
       "source": "TechCrunch",
@@ -181,52 +181,52 @@
     {
       "id": "abenzerps/Qwen-Image-2.1-Uncensored-Quantized",
       "displayName": "Qwen Image 2.1 Uncensored Quantized",
-      "downloads": 2665585
+      "downloads": 2398071
     },
     {
       "id": "jialinyyzz/humanizer",
       "displayName": "humanizer",
-      "downloads": 124773
+      "downloads": 129025
     },
     {
       "id": "orcarouter/OrcaCyber-Nano-1.0",
       "displayName": "OrcaCyber Nano 1.0",
-      "downloads": 21727
+      "downloads": 22314
     },
     {
       "id": "unsloth/flint-GGUF",
       "displayName": "flint",
-      "downloads": 7401
+      "downloads": 33277
     },
     {
       "id": "DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
       "displayName": "Qwen3.8 27B TURBO Fable Cold Fusion 735 882 Heretic Uncensored NEO CODER MAX MTP",
-      "downloads": 1692261
+      "downloads": 1679145
     },
     {
       "id": "unsloth/Qwen3.8-27B-GGUF",
       "displayName": "Qwen3.8 27B",
-      "downloads": 5937802
+      "downloads": 5751118
     },
     {
       "id": "unsloth/DeepSeek-V4.1-Flash-1017-GGUF",
       "displayName": "DeepSeek V4.1 Flash 1017",
-      "downloads": 24733
+      "downloads": 29212
     },
     {
       "id": "HauhauCS/Qwen3.8-27B-Uncensored-HauhauCS-Aggressive-MTP-GGUF",
       "displayName": "Qwen3.8 27B Uncensored HauhauCS Aggressive MTP",
-      "downloads": 2315548
+      "downloads": 2277012
     },
     {
       "id": "orcarouter/Qwen3.8-Flash-Next-Uncensored-GGUF",
       "displayName": "Qwen3.8 Flash Next Uncensored",
-      "downloads": 886817
+      "downloads": 899289
     },
     {
-      "id": "ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF",
-      "displayName": "Qwen3.8 27B GSQ RCO",
-      "downloads": 1250222
+      "id": "ttindall/Qwen3.8-27B-Defiance-Uncensored-MTP-GGUF",
+      "displayName": "Qwen3.8 27B Defiance Uncensored MTP",
+      "downloads": 19177
     }
   ]
 }
