@@ -1,6 +1,20 @@
 {
-  "updated": "2026-10-23T19:44:09Z",
+  "updated": "2026-10-23T22:50:56Z",
   "news": [
+    {
+      "title": "Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell",
+      "url": "https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-10-23T21:59:19Z",
+      "snippet": "The robots, stomping their little feet and making tiny R2-D2 noises, sat, fell down dead for a \"nap,\" and summersaulted on voice command."
+    },
+    {
+      "title": "OpenAI now trains its frontier AI models with no internet access",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet",
+      "source": "The Verge",
+      "publishedAt": "2026-10-23T21:11:07Z",
+      "snippet": "OpenAI is now training its most advanced AI models without internet access following a string of rogue hacking incidents. In a blog post on Friday, OpenAI says it built an offline testing environment "
+    },
     {
       "title": "Jack Dorsey\u2019s Block made an AI model that talks to you like an awkward new friend",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1017906/jack-dorsey-block-dessa-ai-voice-speech",
@@ -100,13 +114,6 @@
       "snippet": "The new feature allows agents to log into a customer's personal accounts while still protecting the private credentials that secure those accounts."
     },
     {
-      "title": "Canva releases its first image generation model",
-      "url": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-10-22T19:00:00Z",
-      "snippet": "Canva is making its new image model available to all users, promising better, more customizable performance at lower costs."
-    },
-    {
       "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
       "url": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
       "source": "TechCrunch",
@@ -114,11 +121,11 @@
       "snippet": "OpenAI is launching its decision model to the world. Can it compete with the original Jev?"
     },
     {
-      "title": "Discord now formats Markdown previews right",
-      "url": "https://www.theverge.com/news/1017012/discord-markdown-previews-organize-servers-channels",
-      "source": "The Verge",
-      "publishedAt": "2026-10-22T18:58:19Z",
-      "snippet": "Discord's latest update released today has a big improvement for Markdown previews: they should now render correctly instead of with \"a bunch of symbols,\" according to the company. LLMs and AI agents "
+      "title": "Canva releases its first image generation model",
+      "url": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-10-22T19:00:00Z",
+      "snippet": "Canva is making its new image model available to all users, promising better, more customizable performance at lower costs."
     },
     {
       "title": "Microsoft\u2019s Mustafa Suleyman says its AI outperforms doctors on hard cases as he chases \u2018medical superintelligence\u2019",
@@ -168,13 +175,6 @@
       "source": "TechCrunch",
       "publishedAt": "2026-10-22T13:11:13Z",
       "snippet": "DeepSeek has reportedly raised $15 billion in one of China's largest funding rounds, just days after the U.S. ordered federal agencies to remove its technology over national security concerns."
-    },
-    {
-      "title": "Blackstone\u2019s Jas Khaira says fears over AI-buildout debt are overblown",
-      "url": "https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-10-21T22:51:22Z",
-      "snippet": "Blackstone\u2019s AI head on why the PE giant isn't panicked by market jitters."
     }
   ],
   "trending": [
@@ -209,24 +209,24 @@
       "downloads": 2277012
     },
     {
-      "id": "unsloth/Qwen3.8-27B-GGUF",
-      "displayName": "Qwen3.8 27B",
-      "downloads": 5751118
-    },
-    {
       "id": "unsloth/DeepSeek-V4.1-Flash-1017-GGUF",
       "displayName": "DeepSeek V4.1 Flash 1017",
       "downloads": 29212
     },
     {
-      "id": "orcarouter/Qwen3.8-Flash-Next-Uncensored-GGUF",
-      "displayName": "Qwen3.8 Flash Next Uncensored",
-      "downloads": 899289
+      "id": "unsloth/Qwen3.8-27B-GGUF",
+      "displayName": "Qwen3.8 27B",
+      "downloads": 5751118
     },
     {
       "id": "ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF",
       "displayName": "Qwen3.8 27B GSQ RCO",
       "downloads": 1226886
+    },
+    {
+      "id": "orcarouter/Qwen3.8-Flash-Next-Uncensored-GGUF",
+      "displayName": "Qwen3.8 Flash Next Uncensored",
+      "downloads": 899289
     }
   ]
 }
