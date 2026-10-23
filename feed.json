@@ -1,6 +1,13 @@
 {
-  "updated": "2026-10-22T22:56:00Z",
+  "updated": "2026-10-23T03:08:19Z",
   "news": [
+    {
+      "title": "Left alone with nothing to do, AI agents started playing",
+      "url": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-10-23T00:45:37Z",
+      "snippet": "MIT researchers marooned 13 AIs on a virtual island, and they responded by inventing games, mourning a lost ring and, eventually, getting better at their jobs."
+    },
     {
       "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
       "url": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
@@ -168,25 +175,18 @@
       "source": "TechCrunch",
       "publishedAt": "2026-10-21T21:16:20Z",
       "snippet": "TechCrunch Founder Summit is a full-day gathering in Boston on November 4 where founders across all stages connect with top VCs and experienced entrepreneurs to gain tactical insights on building and "
-    },
-    {
-      "title": "Meta says Muse has over 10M users, with shopping a top activity",
-      "url": "https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-10-21T21:14:19Z",
-      "snippet": "Meta Muse users are adopting the app for shopping and personal productivity, the company said during its Q3 earnings call. The AI app now has over 10M users."
     }
   ],
   "trending": [
     {
-      "id": "jialinyyzz/humanizer",
-      "displayName": "humanizer",
-      "downloads": 124773
-    },
-    {
       "id": "abenzerps/Qwen-Image-2.1-Uncensored-Quantized",
       "displayName": "Qwen Image 2.1 Uncensored Quantized",
       "downloads": 2665585
+    },
+    {
+      "id": "jialinyyzz/humanizer",
+      "displayName": "humanizer",
+      "downloads": 124773
     },
     {
       "id": "orcarouter/OrcaCyber-Nano-1.0",
@@ -224,9 +224,9 @@
       "downloads": 886817
     },
     {
-      "id": "prism-ml/Ternary-Bonsai-2-9B-gguf",
-      "displayName": "Ternary Bonsai 2 9B",
-      "downloads": 104143
+      "id": "ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF",
+      "displayName": "Qwen3.8 27B GSQ RCO",
+      "downloads": 1250222
     }
   ]
 }
