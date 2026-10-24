@@ -1,6 +1,27 @@
 {
-  "updated": "2026-10-24T13:47:53Z",
+  "updated": "2026-10-24T17:09:40Z",
   "news": [
+    {
+      "title": "Block\u2019s new voice model sounds eerily human",
+      "url": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-10-24T16:00:00Z",
+      "snippet": "Block said that the voice model can run locally on a MacBook M4 Max"
+    },
+    {
+      "title": "Forced to pick, Grok\u2019s AI model chooses Republicans. OpenAI\u2019s picks Democrats.",
+      "url": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-10-24T15:00:00Z",
+      "snippet": "A new study found Grok's AI overwhelmingly recommends Republican candidates while OpenAI's GPT favors Democrats, with the two AI models disagreeing in more than 90% of nearly 500 election races."
+    },
+    {
+      "title": "Here are the top AI agents that can live in your text messages",
+      "url": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-10-24T14:00:00Z",
+      "snippet": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work."
+    },
     {
       "title": "OpenAI says it will no longer train its AI models on the live internet, citing \u201csignificant risks\u201d",
       "url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
@@ -121,18 +142,18 @@
       "snippet": "The new feature allows agents to log into a customer's personal accounts while still protecting the private credentials that secure those accounts."
     },
     {
-      "title": "Canva releases its first image generation model",
-      "url": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-10-22T19:00:00Z",
-      "snippet": "Canva is making its new image model available to all users, promising better, more customizable performance at lower costs."
-    },
-    {
       "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
       "url": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
       "source": "TechCrunch",
       "publishedAt": "2026-10-22T19:00:00Z",
       "snippet": "OpenAI is launching its decision model to the world. Can it compete with the original Jev?"
+    },
+    {
+      "title": "Canva releases its first image generation model",
+      "url": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-10-22T19:00:00Z",
+      "snippet": "Canva is making its new image model available to all users, promising better, more customizable performance at lower costs."
     },
     {
       "title": "Microsoft\u2019s Mustafa Suleyman says its AI outperforms doctors on hard cases as he chases \u2018medical superintelligence\u2019",
@@ -154,27 +175,6 @@
       "source": "TechCrunch",
       "publishedAt": "2026-10-22T16:00:00Z",
       "snippet": "The ride-share giant previously deployed a much smaller pilot for ChatGPT Work but is now taking the enterprise agent company-wide."
-    },
-    {
-      "title": "Spotify\u2019s current AI bet is about being the music service that agents choose",
-      "url": "https://techcrunch.com/2026/10/22/spotifys-current-ai-bet-is-about-being-the-music-service-that-agents-choose/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-10-22T15:03:58Z",
-      "snippet": "Spotify co-CEO Gustav S\u00f6derstr\u00f6m explains why the rise of AI agents could be good news for the music service."
-    },
-    {
-      "title": "Claude Duet app is Anthropic\u2019s bet on agents",
-      "url": "https://techcrunch.com/2026/10/22/claude-duet-app-is-anthropics-bet-on-agents/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-10-22T13:53:26Z",
-      "snippet": "Claude Duet is available through waitlist for Pro and Max plan users."
-    },
-    {
-      "title": "Nirva raises $33M for a pendant that only listens to you",
-      "url": "https://techcrunch.com/2026/10/22/nirva-raises-33m-for-a-pendant-that-only-listens-to-you/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-10-22T13:26:52Z",
-      "snippet": "Nirva will ship its $249 ambient AI pendant by the end of the year."
     }
   ],
   "trending": [
@@ -189,14 +189,14 @@
       "downloads": 138556
     },
     {
-      "id": "orcarouter/OrcaCyber-Nano-1.0",
-      "displayName": "OrcaCyber Nano 1.0",
-      "downloads": 27054
-    },
-    {
       "id": "unsloth/flint-GGUF",
       "displayName": "flint",
       "downloads": 78891
+    },
+    {
+      "id": "orcarouter/OrcaCyber-Nano-1.0",
+      "displayName": "OrcaCyber Nano 1.0",
+      "downloads": 27054
     },
     {
       "id": "DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
