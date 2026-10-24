@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-24T08:34:45Z",
+  "updated": "2026-10-24T13:47:53Z",
   "news": [
     {
       "title": "OpenAI says it will no longer train its AI models on the live internet, citing \u201csignificant risks\u201d",
@@ -181,52 +181,52 @@
     {
       "id": "abenzerps/Qwen-Image-2.1-Uncensored-Quantized",
       "displayName": "Qwen Image 2.1 Uncensored Quantized",
-      "downloads": 2398071
+      "downloads": 2303585
     },
     {
       "id": "jialinyyzz/humanizer",
       "displayName": "humanizer",
-      "downloads": 129025
+      "downloads": 138556
     },
     {
       "id": "orcarouter/OrcaCyber-Nano-1.0",
       "displayName": "OrcaCyber Nano 1.0",
-      "downloads": 22314
+      "downloads": 27054
     },
     {
       "id": "unsloth/flint-GGUF",
       "displayName": "flint",
-      "downloads": 33277
+      "downloads": 78891
     },
     {
       "id": "DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
       "displayName": "Qwen3.8 27B TURBO Fable Cold Fusion 735 882 Heretic Uncensored NEO CODER MAX MTP",
-      "downloads": 1679145
+      "downloads": 1679051
     },
     {
-      "id": "unsloth/DeepSeek-V4.1-Flash-1017-GGUF",
-      "displayName": "DeepSeek V4.1 Flash 1017",
-      "downloads": 29212
-    },
-    {
-      "id": "unsloth/Qwen3.8-27B-GGUF",
-      "displayName": "Qwen3.8 27B",
-      "downloads": 5751118
+      "id": "ISTA-DASLab/DeepSeek-V4.1-Flash-1017-GSQ-RCO-GGUF",
+      "displayName": "DeepSeek V4.1 Flash 1017 GSQ RCO",
+      "downloads": 32479
     },
     {
       "id": "HauhauCS/Qwen3.8-27B-Uncensored-HauhauCS-Aggressive-MTP-GGUF",
       "displayName": "Qwen3.8 27B Uncensored HauhauCS Aggressive MTP",
-      "downloads": 2277012
+      "downloads": 2319187
+    },
+    {
+      "id": "unsloth/DeepSeek-V4.1-Flash-1017-GGUF",
+      "displayName": "DeepSeek V4.1 Flash 1017",
+      "downloads": 41553
+    },
+    {
+      "id": "unsloth/Qwen3.8-27B-GGUF",
+      "displayName": "Qwen3.8 27B",
+      "downloads": 5804646
     },
     {
       "id": "XHToken/Spark-X2.6-4B-GGUF",
       "displayName": "Spark X2.6 4B",
-      "downloads": 9824
-    },
-    {
-      "id": "ttindall/Qwen3.8-27B-Defiance-Uncensored-MTP-GGUF",
-      "displayName": "Qwen3.8 27B Defiance Uncensored MTP",
-      "downloads": 19177
+      "downloads": 18556
     }
   ]
 }
