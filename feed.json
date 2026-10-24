@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-24T03:03:28Z",
+  "updated": "2026-10-24T08:34:45Z",
   "news": [
     {
       "title": "OpenAI says it will no longer train its AI models on the live internet, citing \u201csignificant risks\u201d",
@@ -209,24 +209,24 @@
       "downloads": 29212
     },
     {
-      "id": "HauhauCS/Qwen3.8-27B-Uncensored-HauhauCS-Aggressive-MTP-GGUF",
-      "displayName": "Qwen3.8 27B Uncensored HauhauCS Aggressive MTP",
-      "downloads": 2277012
-    },
-    {
       "id": "unsloth/Qwen3.8-27B-GGUF",
       "displayName": "Qwen3.8 27B",
       "downloads": 5751118
     },
     {
-      "id": "ttindall/Qwen3.8-27B-Defiance-Uncensored-MTP-GGUF",
-      "displayName": "Qwen3.8 27B Defiance Uncensored MTP",
-      "downloads": 19177
+      "id": "HauhauCS/Qwen3.8-27B-Uncensored-HauhauCS-Aggressive-MTP-GGUF",
+      "displayName": "Qwen3.8 27B Uncensored HauhauCS Aggressive MTP",
+      "downloads": 2277012
     },
     {
       "id": "XHToken/Spark-X2.6-4B-GGUF",
       "displayName": "Spark X2.6 4B",
       "downloads": 9824
+    },
+    {
+      "id": "ttindall/Qwen3.8-27B-Defiance-Uncensored-MTP-GGUF",
+      "displayName": "Qwen3.8 27B Defiance Uncensored MTP",
+      "downloads": 19177
     }
   ]
 }
