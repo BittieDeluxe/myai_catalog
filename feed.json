@@ -1,6 +1,20 @@
 {
-  "updated": "2026-10-25T14:03:45Z",
+  "updated": "2026-10-25T18:41:13Z",
   "news": [
+    {
+      "title": "AI delivers \u2018zero financial payoff\u2019 to most companies, Apollo economist says",
+      "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-10-25T16:57:32Z",
+      "snippet": "\"Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside of tech.\""
+    },
+    {
+      "title": "The hottest AI wearables and gadgets you should know about",
+      "url": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-10-25T14:10:00Z",
+      "snippet": "We compiled a list of all the hottest AI wearables, including Muse Charm, Bee, Friend, Plaud, and more."
+    },
     {
       "title": "r/opensource just banned AI, non-English speakers, and more",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban",
@@ -149,13 +163,6 @@
       "snippet": "The new feature allows agents to log into a customer's personal accounts while still protecting the private credentials that secure those accounts."
     },
     {
-      "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
-      "url": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-10-22T19:00:00Z",
-      "snippet": "OpenAI is launching its decision model to the world. Can it compete with the original Jev?"
-    },
-    {
       "title": "Canva releases its first image generation model",
       "url": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
       "source": "TechCrunch",
@@ -163,18 +170,11 @@
       "snippet": "Canva is making its new image model available to all users, promising better, more customizable performance at lower costs."
     },
     {
-      "title": "Microsoft\u2019s Mustafa Suleyman says its AI outperforms doctors on hard cases as he chases \u2018medical superintelligence\u2019",
-      "url": "https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/",
+      "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
+      "url": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
       "source": "TechCrunch",
-      "publishedAt": "2026-10-22T18:43:53Z",
-      "snippet": "Microsoft\u2019s new AI diagnostic system beat generalist doctors on hard cases, according to a study in Science. But most of the improvement seems to come from the AI models underneath, not from Microsoft"
-    },
-    {
-      "title": "Chinese hackers spied on thousands of companies after breaching IT giant ConnectWise",
-      "url": "https://techcrunch.com/2026/10/22/chinese-hackers-spied-on-thousands-of-companies-after-breaching-it-giant-connectwise/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-10-22T16:47:17Z",
-      "snippet": "Microsoft points the blame for ConnectWise's breach at a China-aligned hacker, which relied on AI agents to rapidly hack into thousands of its customers."
+      "publishedAt": "2026-10-22T19:00:00Z",
+      "snippet": "OpenAI is launching its decision model to the world. Can it compete with the original Jev?"
     }
   ],
   "trending": [
@@ -189,24 +189,24 @@
       "downloads": 412392
     },
     {
-      "id": "orcarouter/OrcaCyber-Nano-1.0",
-      "displayName": "OrcaCyber Nano 1.0",
-      "downloads": 30330
-    },
-    {
       "id": "unsloth/flint-GGUF",
       "displayName": "flint",
       "downloads": 103369
     },
     {
-      "id": "jialinyyzz/humanizer",
-      "displayName": "humanizer",
-      "downloads": 143152
+      "id": "orcarouter/OrcaCyber-Nano-1.0",
+      "displayName": "OrcaCyber Nano 1.0",
+      "downloads": 30330
     },
     {
       "id": "DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
       "displayName": "Qwen3.8 27B TURBO Fable Cold Fusion 735 882 Heretic Uncensored NEO CODER MAX MTP",
       "downloads": 1671015
+    },
+    {
+      "id": "jialinyyzz/humanizer",
+      "displayName": "humanizer",
+      "downloads": 143152
     },
     {
       "id": "orcarouter/DeepSeek-V4.1-Flash-1017-abliterated-GGUF",
@@ -219,14 +219,14 @@
       "downloads": 2310117
     },
     {
-      "id": "unsloth/Qwen3.8-27B-GGUF",
-      "displayName": "Qwen3.8 27B",
-      "downloads": 5857773
-    },
-    {
       "id": "ttindall/Qwen3.8-27B-Defiance-Uncensored-MTP-GGUF",
       "displayName": "Qwen3.8 27B Defiance Uncensored MTP",
       "downloads": 34862
+    },
+    {
+      "id": "XHToken/Spark-X2.6-4B-GGUF",
+      "displayName": "Spark X2.6 4B",
+      "downloads": 41378
     }
   ]
 }
