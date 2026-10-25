@@ -1,6 +1,13 @@
 {
-  "updated": "2026-10-25T18:41:13Z",
+  "updated": "2026-10-25T22:14:46Z",
   "news": [
+    {
+      "title": "Grok releases the first seven minutes of its AI-generated \u2018Odyssey\u2019",
+      "url": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-10-25T21:31:16Z",
+      "snippet": "The footage looks okay, as long as you're not seeking artistry, inspiration, or human interest."
+    },
     {
       "title": "AI delivers \u2018zero financial payoff\u2019 to most companies, Apollo economist says",
       "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
@@ -168,13 +175,6 @@
       "source": "TechCrunch",
       "publishedAt": "2026-10-22T19:00:00Z",
       "snippet": "Canva is making its new image model available to all users, promising better, more customizable performance at lower costs."
-    },
-    {
-      "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
-      "url": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-10-22T19:00:00Z",
-      "snippet": "OpenAI is launching its decision model to the world. Can it compete with the original Jev?"
     }
   ],
   "trending": [
@@ -199,6 +199,11 @@
       "downloads": 30330
     },
     {
+      "id": "orcarouter/DeepSeek-V4.1-Flash-1017-abliterated-GGUF",
+      "displayName": "DeepSeek V4.1 Flash 1017 abliterated",
+      "downloads": 7293
+    },
+    {
       "id": "DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
       "displayName": "Qwen3.8 27B TURBO Fable Cold Fusion 735 882 Heretic Uncensored NEO CODER MAX MTP",
       "downloads": 1671015
@@ -207,11 +212,6 @@
       "id": "jialinyyzz/humanizer",
       "displayName": "humanizer",
       "downloads": 143152
-    },
-    {
-      "id": "orcarouter/DeepSeek-V4.1-Flash-1017-abliterated-GGUF",
-      "displayName": "DeepSeek V4.1 Flash 1017 abliterated",
-      "downloads": 7293
     },
     {
       "id": "HauhauCS/Qwen3.8-27B-Uncensored-HauhauCS-Aggressive-MTP-GGUF",
