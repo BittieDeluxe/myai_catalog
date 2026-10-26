@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-26T02:56:26Z",
+  "updated": "2026-10-26T09:36:39Z",
   "news": [
     {
       "title": "Grok releases the first seven minutes of its AI-generated \u2018Odyssey\u2019",
@@ -201,7 +201,7 @@
     {
       "id": "DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
       "displayName": "Qwen3.8 27B TURBO Fable Cold Fusion 735 882 Heretic Uncensored NEO CODER MAX MTP",
-      "downloads": 1671015
+      "downloads": 1687633
     },
     {
       "id": "jialinyyzz/humanizer",
@@ -214,19 +214,19 @@
       "downloads": 30330
     },
     {
-      "id": "HauhauCS/Qwen3.8-27B-Uncensored-HauhauCS-Aggressive-MTP-GGUF",
-      "displayName": "Qwen3.8 27B Uncensored HauhauCS Aggressive MTP",
-      "downloads": 2310117
-    },
-    {
-      "id": "ttindall/Qwen3.8-27B-Defiance-Uncensored-MTP-GGUF",
-      "displayName": "Qwen3.8 27B Defiance Uncensored MTP",
-      "downloads": 34862
+      "id": "nvidia/NVIDIA-Nemotron-3.5-Bolt-E4B-4GB",
+      "displayName": "NVIDIA Nemotron 3.5 Bolt E4B 4GB",
+      "downloads": 17599
     },
     {
       "id": "XHToken/Spark-X2.6-4B-GGUF",
       "displayName": "Spark X2.6 4B",
       "downloads": 41378
+    },
+    {
+      "id": "HauhauCS/Qwen3.8-27B-Uncensored-HauhauCS-Aggressive-MTP-GGUF",
+      "displayName": "Qwen3.8 27B Uncensored HauhauCS Aggressive MTP",
+      "downloads": 2336649
     }
   ]
 }
