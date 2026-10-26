@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-25T22:14:46Z",
+  "updated": "2026-10-26T02:56:26Z",
   "news": [
     {
       "title": "Grok releases the first seven minutes of its AI-generated \u2018Odyssey\u2019",
@@ -194,11 +194,6 @@
       "downloads": 103369
     },
     {
-      "id": "orcarouter/OrcaCyber-Nano-1.0",
-      "displayName": "OrcaCyber Nano 1.0",
-      "downloads": 30330
-    },
-    {
       "id": "orcarouter/DeepSeek-V4.1-Flash-1017-abliterated-GGUF",
       "displayName": "DeepSeek V4.1 Flash 1017 abliterated",
       "downloads": 7293
@@ -212,6 +207,11 @@
       "id": "jialinyyzz/humanizer",
       "displayName": "humanizer",
       "downloads": 143152
+    },
+    {
+      "id": "orcarouter/OrcaCyber-Nano-1.0",
+      "displayName": "OrcaCyber Nano 1.0",
+      "downloads": 30330
     },
     {
       "id": "HauhauCS/Qwen3.8-27B-Uncensored-HauhauCS-Aggressive-MTP-GGUF",
