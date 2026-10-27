@@ -1,6 +1,27 @@
 {
-  "updated": "2026-10-26T22:13:19Z",
+  "updated": "2026-10-27T03:29:07Z",
   "news": [
+    {
+      "title": "How OpenAI turned its coding tools into dots, an always-on personal assistant",
+      "url": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-10-27T02:00:00Z",
+      "snippet": "Alexander Embiricos, the OpenAI executive responsible for dots, never wants to have a meeting with someone else's AI agent."
+    },
+    {
+      "title": "Cohere says Alibaba\u2019s Qwen model tried to send a file to Beijing",
+      "url": "https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-10-27T01:12:21Z",
+      "snippet": "An AI model said it wouldn\u2019t use any tools, then tried to send something to a server in Beijing anyway, and while researchers say it\u2019s probably a training quirk and not espionage, the whole thing has "
+    },
+    {
+      "title": "OpenAI announces three big science discoveries and a new way to work with academics",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1019143/openai-eth-kaseya-science-math-physics",
+      "source": "The Verge",
+      "publishedAt": "2026-10-26T23:34:58Z",
+      "snippet": "Less than a month after its mass release of hundreds of manuscripts that it said contained solutions to long-standing mathematics questions, OpenAI is back with three more \"major\" discoveries in math,"
+    },
     {
       "title": "Anthropic is burning gas to feed the AI boom",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1018994/anthropic-ipo-ai-data-center-energy-climate-risk",
@@ -107,13 +128,6 @@
       "snippet": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more about AI's impact on the web, follow Emma Roth. The Stepback arrives in our subscribers' inbox"
     },
     {
-      "title": "Blue Planet III is keeping the rough edges in the age of AI",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai",
-      "source": "The Verge",
-      "publishedAt": "2026-10-24T21:29:12Z",
-      "snippet": "BBC's Blue Planet III is looking to prove its authenticity by leaving in the less-than-perfect shots. Previous incarnations of the nature series were defined by their gorgeous, crystal-clear footage t"
-    },
-    {
       "title": "Will AI expose the rickety infrastructure of the internet?",
       "url": "https://techcrunch.com/2026/10/24/will-ai-expose-the-rickety-infrastructure-of-the-internet/",
       "source": "TechCrunch",
@@ -161,20 +175,6 @@
       "source": "TechCrunch",
       "publishedAt": "2026-10-23T21:59:19Z",
       "snippet": "The robots, stomping their little feet and making tiny R2-D2 noises, sat, fell down dead for a \"nap,\" and summersaulted on voice command."
-    },
-    {
-      "title": "From Toast to Bessemer: Who founders will hear from at TechCrunch Founder Summit 2026",
-      "url": "https://techcrunch.com/2026/10/23/from-toast-to-bessemer-who-founders-will-hear-from-at-techcrunch-founder-summit-2026/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-10-23T19:06:23Z",
-      "snippet": "Hosted by TechCrunch in partnership with Fidelity Private Shares, the full-day event goes beyond fundraising and AI to explore the realities of finding customers, building teams, sharpening a pitch, d"
-    },
-    {
-      "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony AI and Nvidia",
-      "url": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-10-23T04:00:00Z",
-      "snippet": "The company plans to begin testing Pony.ai's robotaxis in Kazakhstan's capital in the first half of 2027."
     }
   ],
   "trending": [
@@ -204,9 +204,9 @@
       "downloads": 1687633
     },
     {
-      "id": "jialinyyzz/humanizer",
-      "displayName": "humanizer",
-      "downloads": 157879
+      "id": "XHToken/Spark-X2.6-4B-GGUF",
+      "displayName": "Spark X2.6 4B",
+      "downloads": 69669
     },
     {
       "id": "nvidia/NVIDIA-Nemotron-3.5-Bolt-E4B-4GB",
@@ -214,9 +214,9 @@
       "downloads": 35608
     },
     {
-      "id": "XHToken/Spark-X2.6-4B-GGUF",
-      "displayName": "Spark X2.6 4B",
-      "downloads": 69669
+      "id": "jialinyyzz/humanizer",
+      "displayName": "humanizer",
+      "downloads": 157879
     },
     {
       "id": "orcarouter/OrcaCyber-Nano-1.0",
