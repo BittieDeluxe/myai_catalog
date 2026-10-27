@@ -1,6 +1,55 @@
 {
-  "updated": "2026-10-27T15:40:38Z",
+  "updated": "2026-10-27T20:22:55Z",
   "news": [
+    {
+      "title": "Disruptive raises $10B fund to make big bets on at least 10 companies",
+      "url": "https://techcrunch.com/2026/10/27/disruptive-raises-10b-fund-to-make-big-bets-on-at-least-10-companies/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-10-27T18:55:35Z",
+      "snippet": "Disruptive has made headlines in recent years for pouring money into companies like chip startup Groq and the AI voice-generation startup ElevenLabs."
+    },
+    {
+      "title": "VisionQuest is what happens when AI really goes rogue",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1017064/visionquest-marvel-rogue-ai",
+      "source": "The Verge",
+      "publishedAt": "2026-10-27T17:30:00Z",
+      "snippet": "In Marvel's VisionQuest, a superpowered robot tries to better understand humanity by getting lost in elaborate, digital daydreams in which he and other artificial intelligence-powered beings live toge"
+    },
+    {
+      "title": "Frontier AI labs say their models refuted the Exponential Time Hypothesis. What does that mean?",
+      "url": "https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-10-27T17:08:08Z",
+      "snippet": "TechCrunch spoke to the MIT computer scientist charged with explaining OpenAI's latest mind-bending discovery."
+    },
+    {
+      "title": "Anthropic\u2019s elaborate plan to keep Wall Street at bay",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1019470/anthropic-ipo-resist-investor-pressure-cut-corners-safety",
+      "source": "The Verge",
+      "publishedAt": "2026-10-27T16:51:22Z",
+      "snippet": "Anthropic wants to have it both ways. With its impending IPO, it wants to tap the vast riches of the public markets and insists it doesn't want to compromise its core mission of developing AI safely a"
+    },
+    {
+      "title": "Google\u2019s Genie 4 world model adds audio, more realistic worlds, and real-time steering",
+      "url": "https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-10-27T16:30:57Z",
+      "snippet": "Genie 4 can maintain a consistent scene for up to two minutes, double Genie 3's limit, and offers better physics and more humanlike characters."
+    },
+    {
+      "title": "Firefox\u2019s Smart Window adds AI form filling and webpage monitoring",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1019551/firefox-smart-window-ai-fill-forms",
+      "source": "The Verge",
+      "publishedAt": "2026-10-27T16:14:18Z",
+      "snippet": "Mozilla is updating Smart Window - Firefox's AI-powered browsing experience - with a new feature that can help you fill out online forms based on your open tabs. As an example, Mozilla says Smart Wind"
+    },
+    {
+      "title": "Google\u2019s next Genie AI model generates more realistic experiences",
+      "url": "https://www.theverge.com/tech/1019076/google-genie-4-ai-model",
+      "source": "The Verge",
+      "publishedAt": "2026-10-27T16:00:00Z",
+      "snippet": "Google announced today its Genie 4 world model for generating interactive experiences using AI. The company says the model has four main updates: It allows for more realistic worlds, lets users update"
+    },
     {
       "title": "Meta AI director Rohit Patel leaves to take on Microsoft Office and Google Workspace",
       "url": "https://techcrunch.com/2026/10/27/meta-ai-director-rohit-patel-leaves-to-take-on-microsoft-office-and-google-workspace/",
@@ -107,39 +156,11 @@
       "snippet": "The financing gives SpaceX another way to fund its rapidly expanding AI ambitions without relying solely on traditional debt markets."
     },
     {
-      "title": "Microsoft offers buyouts to 60,000 employees",
-      "url": "https://www.theverge.com/tech/1018666/microsoft-expands-buyouts-60000-employees-eligible",
-      "source": "The Verge",
-      "publishedAt": "2026-10-26T15:58:27Z",
-      "snippet": "Microsoft is offering voluntary buyouts to up to 60,000 employees across the US, UK, Canada, and India. In a message to employees, Microsoft chief people officer Amy Coleman writes that this gives sta"
-    },
-    {
       "title": "Anthropic officially files for its public debut",
       "url": "https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/",
       "source": "TechCrunch",
       "publishedAt": "2026-10-26T14:35:22Z",
       "snippet": "Anthropic has officially filed for an IPO, revealing soaring revenue, mounting losses, major enterprise adoption, and an unusual governance structure designed to preserve founder control and its AI sa"
-    },
-    {
-      "title": "Kevin Roose is AGI-pilled. Why aren\u2019t you?",
-      "url": "https://www.theverge.com/podcast/1018264/kevin-roose-the-agi-chronicles-machine-gods-podcast-youtube-openai-anthropic",
-      "source": "The Verge",
-      "publishedAt": "2026-10-26T14:00:00Z",
-      "snippet": "Today, I\u2019m talking to Kevin Roose, journalist and author of the new book The AGI Chronicles, which details the recent and explosive transformation of the AI industry. Kevin was a longtime New York Tim"
-    },
-    {
-      "title": "Anthropic\u2019s IPO filing lays out a plan to \u2018revolutionize every area of human endeavor\u2019 with AI",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1018476/anthropic-ipo-details-s1-filed-sec",
-      "source": "The Verge",
-      "publishedAt": "2026-10-26T13:32:49Z",
-      "snippet": "Anthropic has filed its S-1 prospectus with the Securities and Exchange Commission, preparing the company behind Claude to beat OpenAI to the punch with an IPO. In a filing with the SEC, Anthropic sai"
-    },
-    {
-      "title": "Can AI help solve the COBOL code crisis?",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1018434/cobol-migration-legacy-code-openai-anthropic",
-      "source": "The Verge",
-      "publishedAt": "2026-10-26T13:15:00Z",
-      "snippet": "What do the IRS, banks, airlines, and government infrastructure around the world have in common? They're all running on systems propped up by antique computer code that nobody dares touch, lest everyt"
     },
     {
       "title": "Grok releases the first seven minutes of its AI-generated \u2018Odyssey\u2019",
@@ -154,27 +175,6 @@
       "source": "TechCrunch",
       "publishedAt": "2026-10-25T16:57:32Z",
       "snippet": "\"Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside of tech.\""
-    },
-    {
-      "title": "The hottest AI wearables and gadgets you should know about",
-      "url": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-10-25T14:10:00Z",
-      "snippet": "We compiled a list of all the hottest AI wearables, including Muse Charm, Bee, Friend, Plaud, and more."
-    },
-    {
-      "title": "Will AI expose the rickety infrastructure of the internet?",
-      "url": "https://techcrunch.com/2026/10/24/will-ai-expose-the-rickety-infrastructure-of-the-internet/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-10-24T20:15:33Z",
-      "snippet": "The moment you realize the internet is \"held together by glue and dreams.\""
-    },
-    {
-      "title": "The AI graveyard: a running list of projects and startups that didn\u2019t make it",
-      "url": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-10-24T19:00:00Z",
-      "snippet": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations."
     }
   ],
   "trending": [
@@ -204,14 +204,14 @@
       "downloads": 1713544
     },
     {
-      "id": "XHToken/Spark-X2.6-4B-GGUF",
-      "displayName": "Spark X2.6 4B",
-      "downloads": 104927
-    },
-    {
       "id": "nvidia/NVIDIA-Nemotron-3.5-Bolt-E4B-4GB",
       "displayName": "NVIDIA Nemotron 3.5 Bolt E4B 4GB",
       "downloads": 44651
+    },
+    {
+      "id": "XHToken/Spark-X2.6-4B-GGUF",
+      "displayName": "Spark X2.6 4B",
+      "downloads": 104927
     },
     {
       "id": "ccore/Qwen3.5-4B-3D-Coder",
@@ -219,14 +219,14 @@
       "downloads": 3544
     },
     {
-      "id": "jialinyyzz/humanizer",
-      "displayName": "humanizer",
-      "downloads": 174633
-    },
-    {
       "id": "unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF",
       "displayName": "NVIDIA Nemotron 3.5 Bolt E4B",
       "downloads": 65011
+    },
+    {
+      "id": "jialinyyzz/humanizer",
+      "displayName": "humanizer",
+      "downloads": 174633
     }
   ]
 }
