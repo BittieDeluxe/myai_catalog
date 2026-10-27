@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-27T03:29:07Z",
+  "updated": "2026-10-27T09:32:39Z",
   "news": [
     {
       "title": "How OpenAI turned its coding tools into dots, an always-on personal assistant",
@@ -224,9 +224,9 @@
       "downloads": 32009
     },
     {
-      "id": "unsloth/Qwen3.8-27B-GGUF",
-      "displayName": "Qwen3.8 27B",
-      "downloads": 5900822
+      "id": "ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF",
+      "displayName": "Qwen3.8 27B GSQ RCO",
+      "downloads": 1244380
     }
   ]
 }
