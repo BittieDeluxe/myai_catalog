@@ -1,6 +1,55 @@
 {
-  "updated": "2026-10-27T09:32:39Z",
+  "updated": "2026-10-27T15:40:38Z",
   "news": [
+    {
+      "title": "Meta AI director Rohit Patel leaves to take on Microsoft Office and Google Workspace",
+      "url": "https://techcrunch.com/2026/10/27/meta-ai-director-rohit-patel-leaves-to-take-on-microsoft-office-and-google-workspace/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-10-27T14:59:09Z",
+      "snippet": "Rohit Patel is departing Meta after eight years working on AI evaluations and reinforcement learning, TechCrunch has exclusively learned. His startup, Ndoc, aims to take on Microsoft Office Suite."
+    },
+    {
+      "title": "Apple is adding an AI chatbot to Pages, Keynote, and Numbers",
+      "url": "https://www.theverge.com/tech/1019373/apple-pages-keynote-numbers-ai-chatbot-update",
+      "source": "The Verge",
+      "publishedAt": "2026-10-27T13:50:51Z",
+      "snippet": "Apple is bringing an AI assistant to its suite of productivity apps, including Keynote, Pages, and Numbers. The assistant, which is built on AI models from Apple and OpenAI, can understand a document'"
+    },
+    {
+      "title": "Japan internet giant GMO says hackers posted stolen customer data",
+      "url": "https://techcrunch.com/2026/10/27/japan-internet-giant-gmo-says-hackers-posted-stolen-customer-data/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-10-27T13:32:57Z",
+      "snippet": "Japan's GMO Internet is verifying alleged customer data posted by suspected hackers following a cloud service breach."
+    },
+    {
+      "title": "Opera introduces a new web standard to let users deploy AI locally in their browser",
+      "url": "https://techcrunch.com/2026/10/27/opera-introduces-a-new-web-standard-to-let-users-deploy-ai-locally-in-their-browser/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-10-27T13:00:00Z",
+      "snippet": "The new standard, WebAI, is designed to work with a variety of AI models."
+    },
+    {
+      "title": "General Compute raises $100 million Series A, countering the neocloud disaster narrative",
+      "url": "https://techcrunch.com/2026/10/27/general-compute-raises-100-million-series-a-countering-the-neocloud-disaster-narrative/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-10-27T13:00:00Z",
+      "snippet": "General Compute is betting on inference chips from outside the Nvidia ecosystem."
+    },
+    {
+      "title": "Nvidia backs Indian startup helping companies run AI models with fewer GPUs",
+      "url": "https://techcrunch.com/2026/10/27/nvidia-backs-indian-startup-helping-companies-run-ai-models-with-fewer-gpus/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-10-27T11:00:00Z",
+      "snippet": "Simplismart says its annualized revenue run rate has grown 14-fold in six months, with the U.S. accounting for more than half its revenue."
+    },
+    {
+      "title": "Data center backlash is uniting America",
+      "url": "https://www.theverge.com/policy/1019152/data-centers-midterm-elections",
+      "source": "The Verge",
+      "publishedAt": "2026-10-27T10:00:00Z",
+      "snippet": "If there's one issue that seems to activate all kinds of voters in 2026, it's data centers. The rapid buildout of these massive server storage facilities - and the infrastructure construction and expe"
+    },
     {
       "title": "How OpenAI turned its coding tools into dots, an always-on personal assistant",
       "url": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/",
@@ -114,20 +163,6 @@
       "snippet": "We compiled a list of all the hottest AI wearables, including Muse Charm, Bee, Friend, Plaud, and more."
     },
     {
-      "title": "r/opensource just banned AI, non-English speakers, and more",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban",
-      "source": "The Verge",
-      "publishedAt": "2026-10-25T13:25:32Z",
-      "snippet": "The mods at r/opensource posted new submission rules that, among other things, banned projects that use AI. The post made Saturday evening opens by saying, \"If your project uses AI, is made by AI, or "
-    },
-    {
-      "title": "Google\u2019s AI search changes upended online publishing",
-      "url": "https://www.theverge.com/column/1017983/google-ai-search-online-publishing",
-      "source": "The Verge",
-      "publishedAt": "2026-10-25T12:00:00Z",
-      "snippet": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more about AI's impact on the web, follow Emma Roth. The Stepback arrives in our subscribers' inbox"
-    },
-    {
       "title": "Will AI expose the rickety infrastructure of the internet?",
       "url": "https://techcrunch.com/2026/10/24/will-ai-expose-the-rickety-infrastructure-of-the-internet/",
       "source": "TechCrunch",
@@ -140,93 +175,58 @@
       "source": "TechCrunch",
       "publishedAt": "2026-10-24T19:00:00Z",
       "snippet": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations."
-    },
-    {
-      "title": "Block\u2019s new voice model sounds eerily human",
-      "url": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-10-24T16:00:00Z",
-      "snippet": "Typically, speech models are paired with a large language model for knowledge retrieval. Block said that Dessa's knowledge stems from the conversational data it has."
-    },
-    {
-      "title": "Forced to pick, Grok\u2019s AI model chooses Republicans. OpenAI\u2019s picks Democrats.",
-      "url": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-10-24T15:00:00Z",
-      "snippet": "A new study found Grok's AI overwhelmingly recommends Republican candidates while OpenAI's GPT favors Democrats, with the two AI models disagreeing in more than 90% of nearly 500 election races."
-    },
-    {
-      "title": "Here are the top AI agents that can live in your text messages",
-      "url": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-10-24T14:00:00Z",
-      "snippet": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work."
-    },
-    {
-      "title": "OpenAI says it will no longer train its AI models on the live internet, citing \u2018significant risks\u2019",
-      "url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-10-23T23:05:49Z",
-      "snippet": "OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work."
-    },
-    {
-      "title": "Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell",
-      "url": "https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-10-23T21:59:19Z",
-      "snippet": "The robots, stomping their little feet and making tiny R2-D2 noises, sat, fell down dead for a \"nap,\" and summersaulted on voice command."
     }
   ],
   "trending": [
     {
       "id": "ISTA-DASLab/DeepSeek-V4.1-Flash-1017-GSQ-RCO-GGUF",
       "displayName": "DeepSeek V4.1 Flash 1017 GSQ RCO",
-      "downloads": 891147
+      "downloads": 1105751
     },
     {
       "id": "abenzerps/Qwen-Image-2.1-Uncensored-Quantized",
       "displayName": "Qwen Image 2.1 Uncensored Quantized",
-      "downloads": 2207486
+      "downloads": 2201569
     },
     {
       "id": "unsloth/flint-GGUF",
       "displayName": "flint",
-      "downloads": 125188
+      "downloads": 149888
     },
     {
       "id": "orcarouter/DeepSeek-V4.1-Flash-1017-abliterated-GGUF",
       "displayName": "DeepSeek V4.1 Flash 1017 abliterated",
-      "downloads": 9022
+      "downloads": 13441
     },
     {
       "id": "DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
       "displayName": "Qwen3.8 27B TURBO Fable Cold Fusion 735 882 Heretic Uncensored NEO CODER MAX MTP",
-      "downloads": 1687633
+      "downloads": 1713544
     },
     {
       "id": "XHToken/Spark-X2.6-4B-GGUF",
       "displayName": "Spark X2.6 4B",
-      "downloads": 69669
+      "downloads": 104927
     },
     {
       "id": "nvidia/NVIDIA-Nemotron-3.5-Bolt-E4B-4GB",
       "displayName": "NVIDIA Nemotron 3.5 Bolt E4B 4GB",
-      "downloads": 35608
+      "downloads": 44651
+    },
+    {
+      "id": "ccore/Qwen3.5-4B-3D-Coder",
+      "displayName": "Qwen3.5 4B 3D Coder",
+      "downloads": 3544
     },
     {
       "id": "jialinyyzz/humanizer",
       "displayName": "humanizer",
-      "downloads": 157879
+      "downloads": 174633
     },
     {
-      "id": "orcarouter/OrcaCyber-Nano-1.0",
-      "displayName": "OrcaCyber Nano 1.0",
-      "downloads": 32009
-    },
-    {
-      "id": "ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF",
-      "displayName": "Qwen3.8 27B GSQ RCO",
-      "downloads": 1244380
+      "id": "unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF",
+      "displayName": "NVIDIA Nemotron 3.5 Bolt E4B",
+      "downloads": 65011
     }
   ]
 }
