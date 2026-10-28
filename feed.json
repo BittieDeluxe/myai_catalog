@@ -1,6 +1,34 @@
 {
-  "updated": "2026-10-28T07:51:39Z",
+  "updated": "2026-10-28T14:47:38Z",
   "news": [
+    {
+      "title": "xAI is buying out homeowners who promise not to sue over data center noise",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1020596/xai-mississippi-neighborhood-data-center-lawsuit",
+      "source": "The Verge",
+      "publishedAt": "2026-10-28T14:44:00Z",
+      "snippet": "A subsidiary of Elon Musk's xAI is offering to buy up homes in a Mississippi neighborhood, as long as residents don't join a lawsuit targeting the company's nearby data center and power plant, accordi"
+    },
+    {
+      "title": "7 days until TechCrunch Founder Summit: Save up to $100 on your pass before doors open",
+      "url": "https://techcrunch.com/2026/10/28/7-days-until-techcrunch-founder-summit-save-up-to-100-before-doors-open/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-10-28T13:00:00Z",
+      "snippet": "In just 7 days, TechCrunch Founder Summit takes over Boston\u2019s SoWa Power Station on November 4. Your chance to save up to $100 on tickets is running out, and the opportunity to learn and connect direc"
+    },
+    {
+      "title": "Voters in Texas agree: They hate data centers",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1018676/data-center-midterm-election-energy-water-texas",
+      "source": "The Verge",
+      "publishedAt": "2026-10-28T12:00:00Z",
+      "snippet": "Ask Texas NAACP president Gary Bledsoe what it's been like to see data center developers descend upon Austin and its surrounding suburbs and he can rattle off project after project facing opposition f"
+    },
+    {
+      "title": "Meta quietly launched an \u2018AI pet journal\u2019 app",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1020410/meta-launched-ai-pet-journal-app-waddle-world",
+      "source": "The Verge",
+      "publishedAt": "2026-10-28T11:27:30Z",
+      "snippet": "Meta has launched a \"tamagotchi-style\" pet game called Waddle World, with virtual creatures that chat with users and create doodles to illustrate conversations. According to its Apple and Play Store l"
+    },
     {
       "title": "VCs will make billions on Anthropic\u2019s IPO, but Amazon is set to make much (much) more",
       "url": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/",
@@ -147,86 +175,58 @@
       "source": "TechCrunch",
       "publishedAt": "2026-10-27T02:00:00Z",
       "snippet": "Alexander Embiricos, the OpenAI executive responsible for dots, never wants to have a meeting with someone else's AI agent."
-    },
-    {
-      "title": "Cohere says Alibaba\u2019s Qwen model tried to send a file to Beijing",
-      "url": "https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-10-27T01:12:21Z",
-      "snippet": "An AI model said it wouldn\u2019t use any tools, then tried to send something to a server in Beijing anyway, and while researchers say it\u2019s probably a training quirk and not espionage, the whole thing has "
-    },
-    {
-      "title": "OpenAI announces three big science discoveries and a new way to work with academics",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1019143/openai-eth-kaseya-science-math-physics",
-      "source": "The Verge",
-      "publishedAt": "2026-10-26T23:34:58Z",
-      "snippet": "Less than a month after its mass release of hundreds of manuscripts that it said contained solutions to long-standing mathematics questions, OpenAI is back with three more \"major\" discoveries in math,"
-    },
-    {
-      "title": "Anthropic is burning gas to feed the AI boom",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1018994/anthropic-ipo-ai-data-center-energy-climate-risk",
-      "source": "The Verge",
-      "publishedAt": "2026-10-26T21:45:31Z",
-      "snippet": "As it prepares to go public, Anthropic's S-1 filing makes generative AI's methane dependency glaringly obvious. \"Competition for access to electrical supply and data center locations with adequate pow"
-    },
-    {
-      "title": "The RealReal won\u2019t let AI agents hog designer clothing",
-      "url": "https://www.theverge.com/news/1018713/meta-muse-agentic-shopping-ai-the-realreal",
-      "source": "The Verge",
-      "publishedAt": "2026-10-26T17:30:55Z",
-      "snippet": "The RealReal, a secondhand luxury fashion consignment retailer, said it's updating its bot defense system, effectively making it harder for AI agents to shop on its site. The change comes days after T"
     }
   ],
   "trending": [
     {
       "id": "ISTA-DASLab/DeepSeek-V4.1-Flash-1017-GSQ-RCO-GGUF",
       "displayName": "DeepSeek V4.1 Flash 1017 GSQ RCO",
-      "downloads": 1105751
+      "downloads": 1377570
     },
     {
       "id": "abenzerps/Qwen-Image-2.1-Uncensored-Quantized",
       "displayName": "Qwen Image 2.1 Uncensored Quantized",
-      "downloads": 2201569
+      "downloads": 2182980
     },
     {
       "id": "unsloth/flint-GGUF",
       "displayName": "flint",
-      "downloads": 149888
+      "downloads": 178000
     },
     {
       "id": "orcarouter/DeepSeek-V4.1-Flash-1017-abliterated-GGUF",
       "displayName": "DeepSeek V4.1 Flash 1017 abliterated",
-      "downloads": 13441
+      "downloads": 27056
     },
     {
       "id": "DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
       "displayName": "Qwen3.8 27B TURBO Fable Cold Fusion 735 882 Heretic Uncensored NEO CODER MAX MTP",
-      "downloads": 1713544
-    },
-    {
-      "id": "nvidia/NVIDIA-Nemotron-3.5-Bolt-E4B-4GB",
-      "displayName": "NVIDIA Nemotron 3.5 Bolt E4B 4GB",
-      "downloads": 44651
+      "downloads": 1725108
     },
     {
       "id": "ccore/Qwen3.5-4B-3D-Coder",
       "displayName": "Qwen3.5 4B 3D Coder",
-      "downloads": 3544
+      "downloads": 6944
+    },
+    {
+      "id": "nvidia/NVIDIA-Nemotron-3.5-Bolt-E4B-4GB",
+      "displayName": "NVIDIA Nemotron 3.5 Bolt E4B 4GB",
+      "downloads": 51721
     },
     {
       "id": "XHToken/Spark-X2.6-4B-GGUF",
       "displayName": "Spark X2.6 4B",
-      "downloads": 104927
+      "downloads": 147273
     },
     {
       "id": "unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF",
       "displayName": "NVIDIA Nemotron 3.5 Bolt E4B",
-      "downloads": 65011
+      "downloads": 71929
     },
     {
       "id": "SC117/Qwen3.8-Flash-Next-GSQ-RCO-abliterated-GGUF",
       "displayName": "Qwen3.8 Flash Next GSQ RCO abliterated",
-      "downloads": 2786304
+      "downloads": 2921615
     }
   ]
 }
