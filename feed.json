@@ -1,6 +1,90 @@
 {
-  "updated": "2026-10-28T14:47:38Z",
+  "updated": "2026-10-28T20:44:05Z",
   "news": [
+    {
+      "title": "Google launches Gemini 4 Carbon with a \u2018significant leap\u2019 in cybersecurity",
+      "url": "https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier",
+      "source": "The Verge",
+      "publishedAt": "2026-10-28T20:03:00Z",
+      "snippet": "Google has released its latest frontier model, Gemini 4 Carbon, offering \"significant gains\" in coding, agentic tasks, and cybersecurity. In an announcement on Wednesday, Google highlights Carbon's to"
+    },
+    {
+      "title": "Anthropic just launched tools to show companies what their AI spending is buying",
+      "url": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-10-28T19:19:58Z",
+      "snippet": "The frontier lab is lifting the curtain on how users spend money on its models ahead of a planned IPO."
+    },
+    {
+      "title": "Wiz\u2019s CTO on PHP2Shell and the coming \u2018vulnpocalypse\u2019",
+      "url": "https://techcrunch.com/video/wizs-cto-on-php2shell-and-the-coming-vulnpocalypse/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-10-28T19:05:46Z",
+      "snippet": "The PHP scare may have faded from your feed, but the cleanup is far from over. Last week, two critical bugs in the open source language behind roughly 70% of websites left organizations scrambling to "
+    },
+    {
+      "title": "The \u2018Vulnpocalypse\u2019 is coming for the internet\u2019s aging code, says Wiz\u2019s CTO",
+      "url": "https://techcrunch.com/podcast/the-vulnpocalypse-is-coming-for-the-internets-aging-code-says-wizs-cto/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-10-28T18:50:39Z",
+      "snippet": "The PHP scare may have faded from your feed, but the cleanup is far from over. Last week, two critical bugs in the open source language behind roughly 70% of websites left organizations scrambling to "
+    },
+    {
+      "title": "Microsoft is ending Copilot support on smart TVs",
+      "url": "https://www.theverge.com/tech/1021143/microsoft-lg-samsung-copilot-ai-assistant-smart-tvs-ending",
+      "source": "The Verge",
+      "publishedAt": "2026-10-28T18:36:26Z",
+      "snippet": "Nearly two years after LG and Samsung announced at CES 2025 that their latest smart TVs would include access to Microsoft's Copilot, the company is ending support for the AI assistant's functionality "
+    },
+    {
+      "title": "Chrome\u2019s enhanced autofill can now pull info from Gmail to help you fill out forms",
+      "url": "https://www.theverge.com/tech/1020626/chrome-enhanced-autofill-gmail-forms-gemini-personal-intelligence",
+      "source": "The Verge",
+      "publishedAt": "2026-10-28T17:00:00Z",
+      "snippet": "Following improvements made to Chrome's enhanced autofill last year that included your name, passport number, email address, and physical addresses sourced from your Google Accounts and services like "
+    },
+    {
+      "title": "Chrome\u2019s AI-powered Autofill can now dig through your Gmail to fill out forms",
+      "url": "https://techcrunch.com/2026/10/28/chromes-ai-powered-autofill-can-now-dig-through-your-gmail-to-fill-out-forms/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-10-28T17:00:00Z",
+      "snippet": "The autofill update lets Chrome pull flight confirmations, tracking info, order details, and other information from your inbox, with your permission."
+    },
+    {
+      "title": "As AI agents reshape the web, Google opens Gemini and Search to more apps",
+      "url": "https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-10-28T17:00:00Z",
+      "snippet": "A new developer platform will let businesses bring their services to Google's AI experiences, potentially changing how consumers discover and use apps."
+    },
+    {
+      "title": "Meta says it\u2019ll probably delay its controversial new business terms again",
+      "url": "https://www.theverge.com/tech/1020769/meta-updated-business-terms-delay-indefinitely",
+      "source": "The Verge",
+      "publishedAt": "2026-10-28T16:15:30Z",
+      "snippet": "Meta says it may push the implementation of its new business terms past November 20th as it faces backlash from publishers over concerns about AI training. In a post on X, Meta communications head And"
+    },
+    {
+      "title": "AI execs may be too out of touch to build for the general public",
+      "url": "https://techcrunch.com/2026/10/28/ai-execs-may-be-too-out-of-touch-to-build-for-the-general-public/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-10-28T15:53:52Z",
+      "snippet": "Tech leaders are flaunting how out of touch they are when they brag about using AI to connect with their families."
+    },
+    {
+      "title": "South Korea\u2019s financial industry hit by fresh wave of cyberattacks",
+      "url": "https://techcrunch.com/2026/10/28/south-koreas-financial-industry-hit-by-fresh-wave-of-cyberattacks/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-10-28T15:41:18Z",
+      "snippet": "South Korea\u2019s financial institutions have been hit by another wave of cyberattacks, highlighting the growing risk of AI-driven hacking in Asia."
+    },
+    {
+      "title": "Voice AI in vogue: Nvidia releases new open transcription model",
+      "url": "https://techcrunch.com/2026/10/28/voice-ai-in-vogue-nvidia-releases-new-open-transcription-model/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-10-28T15:00:00Z",
+      "snippet": "Nvidia just released a free speech-to-text model that can transcribe up to 40 languages, but it only works on recordings, not live audio, so it\u2019s a big step for meeting and medical transcription tools"
+    },
     {
       "title": "xAI is buying out homeowners who promise not to sue over data center noise",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1020596/xai-mississippi-neighborhood-data-center-lawsuit",
@@ -86,95 +170,11 @@
       "snippet": "In Marvel's VisionQuest, a superpowered robot tries to better understand humanity by getting lost in elaborate, digital daydreams in which he and other artificial intelligence-powered beings live toge"
     },
     {
-      "title": "Frontier AI labs say their models refuted the Exponential Time Hypothesis. What does that mean?",
-      "url": "https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-10-27T17:08:08Z",
-      "snippet": "TechCrunch spoke to the MIT computer scientist charged with explaining OpenAI's latest mind-bending discovery."
-    },
-    {
       "title": "Anthropic\u2019s elaborate plan to keep Wall Street at bay",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1019470/anthropic-ipo-resist-investor-pressure-cut-corners-safety",
       "source": "The Verge",
       "publishedAt": "2026-10-27T16:51:22Z",
       "snippet": "Anthropic wants to have it both ways. With its impending IPO, it wants to tap the vast riches of the public markets and insists it doesn't want to compromise its core mission of developing AI safely a"
-    },
-    {
-      "title": "Google\u2019s Genie 4 world model adds audio, more realistic worlds, and real-time steering",
-      "url": "https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-10-27T16:30:57Z",
-      "snippet": "Genie 4 can maintain a consistent scene for up to two minutes, double Genie 3's limit, and offers better physics and more humanlike characters."
-    },
-    {
-      "title": "Firefox\u2019s Smart Window adds AI form filling and webpage monitoring",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1019551/firefox-smart-window-ai-fill-forms",
-      "source": "The Verge",
-      "publishedAt": "2026-10-27T16:14:18Z",
-      "snippet": "Mozilla is updating Smart Window - Firefox's AI-powered browsing experience - with a new feature that can help you fill out online forms based on your open tabs. As an example, Mozilla says Smart Wind"
-    },
-    {
-      "title": "Google\u2019s next Genie AI model generates more realistic experiences",
-      "url": "https://www.theverge.com/tech/1019076/google-genie-4-ai-model",
-      "source": "The Verge",
-      "publishedAt": "2026-10-27T16:00:00Z",
-      "snippet": "Google announced today its Genie 4 world model for generating interactive experiences using AI. The company says the model has four main updates: It allows for more realistic worlds, lets users update"
-    },
-    {
-      "title": "Meta AI director Rohit Patel leaves to take on Microsoft Office and Google Workspace",
-      "url": "https://techcrunch.com/2026/10/27/meta-ai-director-rohit-patel-leaves-to-take-on-microsoft-office-and-google-workspace/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-10-27T14:59:09Z",
-      "snippet": "Rohit Patel is departing Meta after eight years working on AI evaluations and reinforcement learning, TechCrunch has exclusively learned. His startup, Ndoc, aims to take on Microsoft Office Suite."
-    },
-    {
-      "title": "Apple is adding an AI chatbot to Pages, Keynote, and Numbers",
-      "url": "https://www.theverge.com/tech/1019373/apple-pages-keynote-numbers-ai-chatbot-update",
-      "source": "The Verge",
-      "publishedAt": "2026-10-27T13:50:51Z",
-      "snippet": "Apple is bringing an AI assistant to its suite of productivity apps, including Keynote, Pages, and Numbers. The assistant, which is built on AI models from Apple and OpenAI, can understand a document'"
-    },
-    {
-      "title": "Japan internet giant GMO says hackers posted stolen customer data",
-      "url": "https://techcrunch.com/2026/10/27/japan-internet-giant-gmo-says-hackers-posted-stolen-customer-data/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-10-27T13:32:57Z",
-      "snippet": "Japan's GMO Internet is verifying alleged customer data posted by suspected hackers following a cloud service breach."
-    },
-    {
-      "title": "Opera introduces a new web standard to let users deploy AI locally in their browser",
-      "url": "https://techcrunch.com/2026/10/27/opera-introduces-a-new-web-standard-to-let-users-deploy-ai-locally-in-their-browser/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-10-27T13:00:00Z",
-      "snippet": "The new standard, WebAI, is designed to work with a variety of AI models."
-    },
-    {
-      "title": "General Compute raises $100 million Series A, countering the neocloud disaster narrative",
-      "url": "https://techcrunch.com/2026/10/27/general-compute-raises-100-million-series-a-countering-the-neocloud-disaster-narrative/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-10-27T13:00:00Z",
-      "snippet": "General Compute is betting on inference chips from outside the Nvidia ecosystem."
-    },
-    {
-      "title": "Nvidia backs Indian startup helping companies run AI models with fewer GPUs",
-      "url": "https://techcrunch.com/2026/10/27/nvidia-backs-indian-startup-helping-companies-run-ai-models-with-fewer-gpus/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-10-27T11:00:00Z",
-      "snippet": "Simplismart says its annualized revenue run rate has grown fourteenfold in six months, with the U.S. accounting for more than half its revenue."
-    },
-    {
-      "title": "Data center backlash is uniting America",
-      "url": "https://www.theverge.com/policy/1019152/data-centers-midterm-elections",
-      "source": "The Verge",
-      "publishedAt": "2026-10-27T10:00:00Z",
-      "snippet": "If there's one issue that seems to activate all kinds of voters in 2026, it's data centers. The rapid buildout of these massive server storage facilities - and the infrastructure construction and expe"
-    },
-    {
-      "title": "How OpenAI turned its coding tools into dots, an always-on personal assistant",
-      "url": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-10-27T02:00:00Z",
-      "snippet": "Alexander Embiricos, the OpenAI executive responsible for dots, never wants to have a meeting with someone else's AI agent."
     }
   ],
   "trending": [
@@ -199,14 +199,14 @@
       "downloads": 27056
     },
     {
-      "id": "DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
-      "displayName": "Qwen3.8 27B TURBO Fable Cold Fusion 735 882 Heretic Uncensored NEO CODER MAX MTP",
-      "downloads": 1725108
-    },
-    {
       "id": "ccore/Qwen3.5-4B-3D-Coder",
       "displayName": "Qwen3.5 4B 3D Coder",
       "downloads": 6944
+    },
+    {
+      "id": "DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
+      "displayName": "Qwen3.8 27B TURBO Fable Cold Fusion 735 882 Heretic Uncensored NEO CODER MAX MTP",
+      "downloads": 1725108
     },
     {
       "id": "nvidia/NVIDIA-Nemotron-3.5-Bolt-E4B-4GB",
