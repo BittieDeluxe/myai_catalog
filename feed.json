@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-29T01:29:07Z",
+  "updated": "2026-10-29T07:56:51Z",
   "news": [
     {
       "title": "Adam Mosseri says negativity around AI is \u2018going to get worse\u2019",
@@ -194,11 +194,6 @@
       "downloads": 27056
     },
     {
-      "id": "unsloth/flint-GGUF",
-      "displayName": "flint",
-      "downloads": 178000
-    },
-    {
       "id": "ccore/Qwen3.5-4B-3D-Coder",
       "displayName": "Qwen3.5 4B 3D Coder",
       "downloads": 6944
@@ -212,6 +207,11 @@
       "id": "DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
       "displayName": "Qwen3.8 27B TURBO Fable Cold Fusion 735 882 Heretic Uncensored NEO CODER MAX MTP",
       "downloads": 1725108
+    },
+    {
+      "id": "unsloth/flint-GGUF",
+      "displayName": "flint",
+      "downloads": 178000
     },
     {
       "id": "XHToken/Spark-X2.6-4B-GGUF",
