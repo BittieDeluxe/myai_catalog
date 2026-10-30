@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30T01:30:16Z",
+  "updated": "2026-10-30T07:59:22Z",
   "news": [
     {
       "title": "You don\u2019t need to believe in a god to get a religious exemption from using AI at work",
@@ -9,7 +9,7 @@
       "snippet": "David Durman, a University of Kentucky administrator, recently earned a religious exemption from using AI in the workplace."
     },
     {
-      "title": "AWS will be a $1T business, Jassy says. But first, it will spend big.",
+      "title": "AWS will be a $1T business, Jassy says \u2014 but first, it will spend big",
       "url": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/",
       "source": "TechCrunch",
       "publishedAt": "2026-10-29T23:42:22Z",
@@ -209,19 +209,19 @@
       "downloads": 1726051
     },
     {
-      "id": "XHToken/Spark-X2.6-4B-GGUF",
-      "displayName": "Spark X2.6 4B",
-      "downloads": 179258
-    },
-    {
       "id": "unsloth/NVIDIA-Nemotron-3.5-Bolt-E4B-GGUF",
       "displayName": "NVIDIA Nemotron 3.5 Bolt E4B",
       "downloads": 90640
     },
     {
-      "id": "unsloth/flint-GGUF",
-      "displayName": "flint",
-      "downloads": 201035
+      "id": "XHToken/Spark-X2.6-4B-GGUF",
+      "displayName": "Spark X2.6 4B",
+      "downloads": 179258
+    },
+    {
+      "id": "LiquidAI/LFM3-1.7B-GGUF",
+      "displayName": "LFM3 1.7B",
+      "downloads": 61499
     },
     {
       "id": "SC117/Qwen3.8-Flash-Next-GSQ-RCO-abliterated-GGUF",
