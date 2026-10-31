@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-31T01:23:33Z",
+  "updated": "2026-10-31T07:56:03Z",
   "news": [
     {
       "title": "Nvidia weighs playing the cosigner for Nscale\u2019s AI data center in West Virginia",
@@ -184,6 +184,11 @@
       "downloads": 1747945
     },
     {
+      "id": "ccore/Qwen3.5-4B-3D-Coder",
+      "displayName": "Qwen3.5 4B 3D Coder",
+      "downloads": 20197
+    },
+    {
       "id": "abenzerps/Qwen-Image-2.1-Uncensored-Quantized",
       "displayName": "Qwen Image 2.1 Uncensored Quantized",
       "downloads": 2516721
@@ -192,11 +197,6 @@
       "id": "orcarouter/DeepSeek-V4.1-Flash-1017-abliterated-GGUF",
       "displayName": "DeepSeek V4.1 Flash 1017 abliterated",
       "downloads": 30433
-    },
-    {
-      "id": "ccore/Qwen3.5-4B-3D-Coder",
-      "displayName": "Qwen3.5 4B 3D Coder",
-      "downloads": 20197
     },
     {
       "id": "nvidia/NVIDIA-Nemotron-3.5-Bolt-E4B-4GB",
