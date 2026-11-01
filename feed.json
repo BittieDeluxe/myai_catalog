@@ -1,6 +1,20 @@
 {
-  "updated": "2026-11-01T18:42:57Z",
+  "updated": "2026-11-01T23:18:51Z",
   "news": [
+    {
+      "title": "OpenAI might rebrand its data centers as \u2018AI compute campuses\u2019",
+      "url": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-11-01T21:55:23Z",
+      "snippet": "Data centers are deeply unpopular. But what if we called them something else?"
+    },
+    {
+      "title": "AI can make tech CEOs\u2019 lives easier. What about everyone else?",
+      "url": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-11-01T20:57:58Z",
+      "snippet": "On Equity, we discuss why tech CEO statements can seem so tone deaf."
+    },
     {
       "title": "Apple CEO says the company doesn\u2019t \u2018want to ship AI for AI\u2019s sake\u2019",
       "url": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
@@ -142,20 +156,6 @@
       "snippet": "Pope Leo XIV says AI systems should be \"disarmed,\" adding that humans \"have the responsibility to guide, change and, when necessary, reject its applications.\" In Friday's Papal Address, Pope Leo encou"
     },
     {
-      "title": "Skip the small talk: Make game-changing connections at TechCrunch Founder Summit with Braindate",
-      "url": "https://techcrunch.com/2026/10/30/skip-the-small-talk-make-game-changing-connections-at-techcrunch-founder-summit-with-braindate/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-10-30T14:00:00Z",
-      "snippet": "At TechCrunch Founder Summit 2026, happening November 4 at SoWa Power Station in Boston, networking powered by Braindate is designed to make those conversations easier to find, whether they are in 1:1"
-    },
-    {
-      "title": "DoorDash said it\u2019s only received \u2018several hundred\u2019 orders from AI agents",
-      "url": "https://techcrunch.com/2026/10/30/doordash-said-its-only-received-several-hundred-orders-from-ai-agents/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-10-30T13:54:25Z",
-      "snippet": "DoorDash said that it is open to working with third-party agent makers."
-    },
-    {
       "title": "Silicon Valley wants you to invest in miracles",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1023070/anthropic-ipo-risk-factors-filing-miracles",
       "source": "The Verge",
@@ -209,24 +209,24 @@
       "downloads": 83901
     },
     {
-      "id": "DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
-      "displayName": "Qwen3.8 27B TURBO Fable Cold Fusion 735 882 Heretic Uncensored NEO CODER MAX MTP",
-      "downloads": 1451434
-    },
-    {
       "id": "SC117/Qwen3.8-Flash-Next-GSQ-RCO-abliterated-GGUF",
       "displayName": "Qwen3.8 Flash Next GSQ RCO abliterated",
       "downloads": 3425127
     },
     {
-      "id": "unsloth/DeepSeek-V4.1-Flash-1017-GGUF",
-      "displayName": "DeepSeek V4.1 Flash 1017",
-      "downloads": 429751
+      "id": "DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
+      "displayName": "Qwen3.8 27B TURBO Fable Cold Fusion 735 882 Heretic Uncensored NEO CODER MAX MTP",
+      "downloads": 1451434
     },
     {
       "id": "AtomicChat/DeepSeek-V4.1-Flash-1017-Uncensored-GSQ-RCO-GGUF",
       "displayName": "DeepSeek V4.1 Flash 1017 Uncensored GSQ RCO",
       "downloads": 17384
+    },
+    {
+      "id": "unsloth/DeepSeek-V4.1-Flash-1017-GGUF",
+      "displayName": "DeepSeek V4.1 Flash 1017",
+      "downloads": 429751
     }
   ]
 }
