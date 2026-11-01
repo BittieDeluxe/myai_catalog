@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-01T12:34:51Z",
+  "updated": "2026-11-01T18:42:57Z",
   "news": [
     {
       "title": "Apple CEO says the company doesn\u2019t \u2018want to ship AI for AI\u2019s sake\u2019",
@@ -194,9 +194,9 @@
       "downloads": 2294642
     },
     {
-      "id": "DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
-      "displayName": "Qwen3.8 27B TURBO Fable Cold Fusion 735 882 Heretic Uncensored NEO CODER MAX MTP",
-      "downloads": 1451434
+      "id": "AtomicChat/LFM3-1.7B-Uncensored-GGUF",
+      "displayName": "LFM3 1.7B Uncensored",
+      "downloads": 46155
     },
     {
       "id": "LiquidAI/LFM3-1.7B-GGUF",
@@ -204,14 +204,14 @@
       "downloads": 150260
     },
     {
-      "id": "AtomicChat/LFM3-1.7B-Uncensored-GGUF",
-      "displayName": "LFM3 1.7B Uncensored",
-      "downloads": 46155
-    },
-    {
       "id": "nvidia/NVIDIA-Nemotron-3.5-Bolt-E4B-4GB",
       "displayName": "NVIDIA Nemotron 3.5 Bolt E4B 4GB",
       "downloads": 83901
+    },
+    {
+      "id": "DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
+      "displayName": "Qwen3.8 27B TURBO Fable Cold Fusion 735 882 Heretic Uncensored NEO CODER MAX MTP",
+      "downloads": 1451434
     },
     {
       "id": "SC117/Qwen3.8-Flash-Next-GSQ-RCO-abliterated-GGUF",
@@ -219,14 +219,14 @@
       "downloads": 3425127
     },
     {
-      "id": "orcarouter/DeepSeek-V4.1-Flash-1017-abliterated-GGUF",
-      "displayName": "DeepSeek V4.1 Flash 1017 abliterated",
-      "downloads": 32156
-    },
-    {
       "id": "unsloth/DeepSeek-V4.1-Flash-1017-GGUF",
       "displayName": "DeepSeek V4.1 Flash 1017",
       "downloads": 429751
+    },
+    {
+      "id": "AtomicChat/DeepSeek-V4.1-Flash-1017-Uncensored-GSQ-RCO-GGUF",
+      "displayName": "DeepSeek V4.1 Flash 1017 Uncensored GSQ RCO",
+      "downloads": 17384
     }
   ]
 }
