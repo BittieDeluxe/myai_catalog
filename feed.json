@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-01T23:18:51Z",
+  "updated": "2026-11-02T04:05:11Z",
   "news": [
     {
       "title": "OpenAI might rebrand its data centers as \u2018AI compute campuses\u2019",
@@ -209,14 +209,14 @@
       "downloads": 83901
     },
     {
-      "id": "SC117/Qwen3.8-Flash-Next-GSQ-RCO-abliterated-GGUF",
-      "displayName": "Qwen3.8 Flash Next GSQ RCO abliterated",
-      "downloads": 3425127
-    },
-    {
       "id": "DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
       "displayName": "Qwen3.8 27B TURBO Fable Cold Fusion 735 882 Heretic Uncensored NEO CODER MAX MTP",
       "downloads": 1451434
+    },
+    {
+      "id": "SC117/Qwen3.8-Flash-Next-GSQ-RCO-abliterated-GGUF",
+      "displayName": "Qwen3.8 Flash Next GSQ RCO abliterated",
+      "downloads": 3425127
     },
     {
       "id": "AtomicChat/DeepSeek-V4.1-Flash-1017-Uncensored-GSQ-RCO-GGUF",
