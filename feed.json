@@ -1,6 +1,20 @@
 {
-  "updated": "2026-11-02T04:05:11Z",
+  "updated": "2026-11-02T14:37:41Z",
   "news": [
+    {
+      "title": "2 days till TechCrunch Founder Summit: Boston founders don\u2019t need a Silicon Valley address to build something big",
+      "url": "https://techcrunch.com/2026/11/02/2-days-till-techcrunch-founder-summit-boston-founders-dont-need-a-silicon-valley-address-to-build-something-big/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-11-02T14:00:00Z",
+      "snippet": "TechCrunch Founder Summit happens on November 4 in Boston for a founder-focused agenda and impactful connections. Save up to $100 or get discounts with group passes."
+    },
+    {
+      "title": "OpenAI is finally merging ChatGPT\u2019s chat and Work tabs",
+      "url": "https://techcrunch.com/2026/11/02/openai-is-finally-merging-chatgpts-chat-and-work-tabs/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-11-02T13:57:53Z",
+      "snippet": "OpenAI said that ChatGPT and Codex will draw usage from the same allocation pool after this change."
+    },
     {
       "title": "OpenAI might rebrand its data centers as \u2018AI compute campuses\u2019",
       "url": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
@@ -135,20 +149,6 @@
       "snippet": "Starbucks could eventually show you a personalized digital menu when you pull up to the drive-thru. During an earnings call on Thursday, Starbucks CEO Brian Niccol said the company is going to explore"
     },
     {
-      "title": "Google\u2019s first data center satellite is online and writing poetry",
-      "url": "https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-10-30T17:00:00Z",
-      "snippet": "The first TPU in space is running a Google DeepMind Gemma 4 model and writing cheesy poetry."
-    },
-    {
-      "title": "Theranos whistleblower Tyler Shultz warns that the AI boom is \u2018a great opportunity to go deceive people\u2019",
-      "url": "https://techcrunch.com/2026/10/30/theranos-whistleblower-tyler-shultz-warns-that-the-ai-boom-is-a-great-opportunity-to-go-deceive-people/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-10-30T16:03:45Z",
-      "snippet": "The cautionary Theranos tale takes on a new significance in the AI era, when companies that have never turned a profit are raising capital at trillion-dollar valuations."
-    },
-    {
       "title": "Pope Leo calls for the disarmament of AI: \u2018Machines are tools, not persons\u2019",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1023188/pope-leo-disarm-ai",
       "source": "The Verge",
@@ -181,52 +181,52 @@
     {
       "id": "ccore/Qwen3.5-4B-3D-Coder",
       "displayName": "Qwen3.5 4B 3D Coder",
-      "downloads": 44825
+      "downloads": 63499
     },
     {
       "id": "abenzerps/Qwen-Image-2.1-Uncensored-Quantized",
       "displayName": "Qwen Image 2.1 Uncensored Quantized",
-      "downloads": 2548468
-    },
-    {
-      "id": "ISTA-DASLab/DeepSeek-V4.1-Flash-1017-GSQ-RCO-GGUF",
-      "displayName": "DeepSeek V4.1 Flash 1017 GSQ RCO",
-      "downloads": 2294642
+      "downloads": 2516622
     },
     {
       "id": "AtomicChat/LFM3-1.7B-Uncensored-GGUF",
       "displayName": "LFM3 1.7B Uncensored",
-      "downloads": 46155
+      "downloads": 59832
+    },
+    {
+      "id": "ISTA-DASLab/DeepSeek-V4.1-Flash-1017-GSQ-RCO-GGUF",
+      "displayName": "DeepSeek V4.1 Flash 1017 GSQ RCO",
+      "downloads": 2408000
     },
     {
       "id": "LiquidAI/LFM3-1.7B-GGUF",
       "displayName": "LFM3 1.7B",
-      "downloads": 150260
-    },
-    {
-      "id": "nvidia/NVIDIA-Nemotron-3.5-Bolt-E4B-4GB",
-      "displayName": "NVIDIA Nemotron 3.5 Bolt E4B 4GB",
-      "downloads": 83901
-    },
-    {
-      "id": "DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
-      "displayName": "Qwen3.8 27B TURBO Fable Cold Fusion 735 882 Heretic Uncensored NEO CODER MAX MTP",
-      "downloads": 1451434
-    },
-    {
-      "id": "SC117/Qwen3.8-Flash-Next-GSQ-RCO-abliterated-GGUF",
-      "displayName": "Qwen3.8 Flash Next GSQ RCO abliterated",
-      "downloads": 3425127
+      "downloads": 174177
     },
     {
       "id": "AtomicChat/DeepSeek-V4.1-Flash-1017-Uncensored-GSQ-RCO-GGUF",
       "displayName": "DeepSeek V4.1 Flash 1017 Uncensored GSQ RCO",
-      "downloads": 17384
+      "downloads": 30284
+    },
+    {
+      "id": "SC117/Qwen3.8-Flash-Next-GSQ-RCO-abliterated-GGUF",
+      "displayName": "Qwen3.8 Flash Next GSQ RCO abliterated",
+      "downloads": 3553530
+    },
+    {
+      "id": "DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
+      "displayName": "Qwen3.8 27B TURBO Fable Cold Fusion 735 882 Heretic Uncensored NEO CODER MAX MTP",
+      "downloads": 1356658
+    },
+    {
+      "id": "nvidia/NVIDIA-Nemotron-3.5-Bolt-E4B-4GB",
+      "displayName": "NVIDIA Nemotron 3.5 Bolt E4B 4GB",
+      "downloads": 92742
     },
     {
       "id": "unsloth/DeepSeek-V4.1-Flash-1017-GGUF",
       "displayName": "DeepSeek V4.1 Flash 1017",
-      "downloads": 429751
+      "downloads": 510726
     }
   ]
 }
