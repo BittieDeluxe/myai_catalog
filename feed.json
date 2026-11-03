@@ -1,6 +1,118 @@
 {
-  "updated": "2026-11-03T13:30:38Z",
+  "updated": "2026-11-03T20:22:48Z",
   "news": [
+    {
+      "title": "Apple starts giving Siri AI access to third-party apps",
+      "url": "https://www.theverge.com/tech/1025694/apple-siri-ai-third-party-apps",
+      "source": "The Verge",
+      "publishedAt": "2026-11-03T20:16:17Z",
+      "snippet": "Apple will now let Siri AI perform actions across third-party apps. As part of the iOS 27.3 update rolling out on Tuesday, Apple announced developers can now integrate Siri AI's new features in \"all a"
+    },
+    {
+      "title": "AI inference startup Fal doubles its valuation to $16B as demand surges",
+      "url": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-11-03T19:34:43Z",
+      "snippet": "The five-year-old startup raised a $1.3  billion round led by Bessemer."
+    },
+    {
+      "title": "Netflix\u2019s new AI Discover tab helps you find something to watch based on your mood",
+      "url": "https://techcrunch.com/2026/11/03/netflixs-new-ai-discover-tab-helps-you-find-something-to-watch-based-on-your-mood/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-11-03T18:42:16Z",
+      "snippet": "The first experimental feature under the tab will allow users to get recommendations based on what they're currently in the mood for."
+    },
+    {
+      "title": "Apple\u2019s latest watchOS beta includes its new always-on Audio Intelligence features",
+      "url": "https://www.theverge.com/tech/1025002/apple-watch-audio-intelligence-watchos-beta",
+      "source": "The Verge",
+      "publishedAt": "2026-11-03T18:31:00Z",
+      "snippet": "Starting today, Siri can tune into the Apple Watch's mic with Audio Intelligence features that are available in the new watchOS 27.3 developer beta rolling out now. The two new additions are Siri Reca"
+    },
+    {
+      "title": "OpenAI says ChatGPT is catching up to Google in search",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1025482/openai-says-chatgpt-is-catching-up-to-google-in-search",
+      "source": "The Verge",
+      "publishedAt": "2026-11-03T18:30:42Z",
+      "snippet": "In many circles, \"Ask Chat\" has replaced \"Google it,\" and that's reflected in a new announcement from OpenAI: the volume of search queries run through ChatGPT now equals 20 percent of the volume run t"
+    },
+    {
+      "title": "Indie games are missing launch dates because Steam is backed up",
+      "url": "https://www.theverge.com/games/1025596/valve-steam-indie-games-missing-launch-dates",
+      "source": "The Verge",
+      "publishedAt": "2026-11-03T18:14:50Z",
+      "snippet": "Many indie game developers have recently posted on social media about unexpectedly long approval wait times for their game submissions on Steam, with some of the approvals causing developers to miss t"
+    },
+    {
+      "title": "Netflix will show you themed recommendations through a new \u2018AI Discover\u2019 tab",
+      "url": "https://www.theverge.com/streaming/1025029/netflix-ai-discover-recommendations",
+      "source": "The Verge",
+      "publishedAt": "2026-11-03T18:00:00Z",
+      "snippet": "Netflix's TV app is getting a new \"AI Discover\" tab where the company will show experimental, AI-powered features to help you find new shows and movies to watch. The first of these experiments surface"
+    },
+    {
+      "title": "Anthropic is still grappling with the economics of compute",
+      "url": "https://techcrunch.com/2026/11/03/anthropic-is-still-grappling-with-the-economics-of-compute/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-11-03T17:07:01Z",
+      "snippet": "At a moment when Anthropic's compute margins should be getting better, they\u2019re getting worse."
+    },
+    {
+      "title": "Google is entirely disabling Search in schools that don\u2019t want AI",
+      "url": "https://www.theverge.com/tech/1025411/google-turn-off-search-ai-features",
+      "source": "The Verge",
+      "publishedAt": "2026-11-03T17:00:04Z",
+      "snippet": "Google is completely turning off Search in schools that reject its AI features, the company told The New York Times. The decision was also shared in a broader education-related update from Google on T"
+    },
+    {
+      "title": "Google will let schools disable its AI tools, but not without sacrificing Search",
+      "url": "https://techcrunch.com/2026/11/03/google-will-let-schools-disable-its-ai-tools-but-not-without-sacrificing-search/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-11-03T16:30:34Z",
+      "snippet": "Schools choosing to restrict AI altogether will no longer be able to access Google Search, as AI features are now integrated into the search engine."
+    },
+    {
+      "title": "Midterm elections 2026: all the news",
+      "url": "https://www.theverge.com/policy/1020640/midterm-elections-2026-all-the-news",
+      "source": "The Verge",
+      "publishedAt": "2026-11-03T15:58:39Z",
+      "snippet": "The 2026 midterm elections will determine the scope of President Donald Trump\u2019s power in his final two years in office, and signal what voters care about going into the 2028 presidential election. Whi"
+    },
+    {
+      "title": "Apple restricts dating apps and AI companions to users 18 and up",
+      "url": "https://techcrunch.com/2026/11/03/apple-restricts-dating-apps-and-ai-companions-to-users-18-and-up/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-11-03T15:38:27Z",
+      "snippet": "Apple's new App Store rules will require 18+ ratings for dating apps and AI companions that offer sexual or romantic content."
+    },
+    {
+      "title": "Apple is all in on AI \u2014 its own and everyone else\u2019s",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1025245/apple-earnings-q4-ai",
+      "source": "The Verge",
+      "publishedAt": "2026-11-03T15:24:51Z",
+      "snippet": "Apple's latest earnings show how it's continuing to capitalize on the AI boom without busting its budget on the infrastructure spending consuming its competitors. Overall, Apple posted its best-ever f"
+    },
+    {
+      "title": "OpenAI is quietly renaming data centers \u2018compute campuses\u2019",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1025242/openai-quietly-renames-data-centers-as-compute-campuses",
+      "source": "The Verge",
+      "publishedAt": "2026-11-03T15:00:44Z",
+      "snippet": "People hate data centers. They're loud, resource-hungry eyesores that are so profoundly unpopular they have managed to achieve the near-impossible in today's polarized political landscape: genuine bip"
+    },
+    {
+      "title": "The TechCrunch Founder Summit agenda is only half the reason to be in Boston on Nov. 4",
+      "url": "https://techcrunch.com/2026/11/03/the-techcrunch-founder-summit-agenda-is-only-half-the-reason-to-be-in-boston-on-nov-4/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-11-03T14:30:00Z",
+      "snippet": "On Nov. 4, TechCrunch Founder Summit 2026 brings founders and VCs to Boston's SoWa Power Station for practical insights and connections. Register before prices increase at the door."
+    },
+    {
+      "title": "Tomorrow: TechCrunch Founder Summit takes over Boston and when pass rates increase",
+      "url": "https://techcrunch.com/2026/11/03/tomorrow-techcrunch-founder-summit-takes-over-boston-and-when-pass-rates-increase/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-11-03T14:00:00Z",
+      "snippet": "Secure your TechCrunch Founder Summit pass savings before prices increase tomorrow at 9 a.m. ET. Save up to $100 on your pass, and get a second for free."
+    },
     {
       "title": "Apple Watch\u2019s AI features for rewinding and recapping conversations begin beta testing",
       "url": "https://techcrunch.com/2026/11/02/apple-watchs-ai-features-for-rewinding-and-recapping-conversations-begin-beta-testing/",
@@ -63,118 +175,6 @@
       "source": "The Verge",
       "publishedAt": "2026-11-02T18:56:02Z",
       "snippet": "Anthropic has updated Claude Code's system prompt to prevent the AI tool from being used to re-create existing video games, as reported by Tom's Hardware. Retro gaming is currently being overrun with "
-    },
-    {
-      "title": "OpenAI pitches data center power plants as a way to protect nearby areas",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1024604/openai-data-center-grid-protection-program",
-      "source": "The Verge",
-      "publishedAt": "2026-11-02T18:01:30Z",
-      "snippet": "In an announcement on Monday, OpenAI says it will pilot its \"Grid Protectors Program\" at an upcoming data center in Effingham County, Georgia, where the company promises to free up to 1,000 megawatts "
-    },
-    {
-      "title": "The New York Times sues Brave web browser for AI scraping and bypassing paywalls",
-      "url": "https://www.theverge.com/tech/1024588/brave-lawsuit-ai-scraping-new-york-times",
-      "source": "The Verge",
-      "publishedAt": "2026-11-02T17:51:19Z",
-      "snippet": "The New York Times and a group of other publications have filed lawsuits against the company that makes the Brave web browser over alleged unlawful scraping to train AI and also letting users bypass t"
-    },
-    {
-      "title": "42AI comes out of stealth with $62.5M and a world model that can \u2018predict human behavior\u2019",
-      "url": "https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-11-02T16:30:00Z",
-      "snippet": "Here's a question straight out of sci-fi: What if AI could predict what you were going to do before you decided to, even in a completely new situation?"
-    },
-    {
-      "title": "Elon Musk throttles Grok Bot limits due to \u2018unsustainably high\u2019 costs",
-      "url": "https://techcrunch.com/2026/11/02/elon-musk-throttles-grok-bot-limits-due-to-unsustainably-high-costs/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-11-02T16:23:21Z",
-      "snippet": "Musk recently referred to Grok Bot as having \"the fastest growth of a product that I've ever seen in my life.\""
-    },
-    {
-      "title": "Omen AI adds liquid know-how in $16 million Aquatic Labs acquisition",
-      "url": "https://techcrunch.com/2026/11/02/omen-ai-adds-liquid-know-how-in-16-million-aquatic-labs-acquisition/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-11-02T15:00:00Z",
-      "snippet": "Two startups tackling the data center water problem are joining forces in a $16 million deal."
-    },
-    {
-      "title": "2 days till TechCrunch Founder Summit: Boston founders don\u2019t need a Silicon Valley address to build something big",
-      "url": "https://techcrunch.com/2026/11/02/2-days-till-techcrunch-founder-summit-boston-founders-dont-need-a-silicon-valley-address-to-build-something-big/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-11-02T14:00:00Z",
-      "snippet": "TechCrunch Founder Summit happens on November 4 in Boston for a founder-focused agenda and impactful connections. Save up to $100 or get discounts with group passes."
-    },
-    {
-      "title": "OpenAI is finally merging ChatGPT\u2019s Chat and Work tabs",
-      "url": "https://techcrunch.com/2026/11/02/openai-is-finally-merging-chatgpts-chat-and-work-tabs/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-11-02T13:57:53Z",
-      "snippet": "OpenAI said that ChatGPT and Codex will draw usage from the same allocation pool after this change."
-    },
-    {
-      "title": "OpenAI might rebrand its data centers as \u2018AI compute campuses\u2019",
-      "url": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-11-01T21:55:23Z",
-      "snippet": "Data centers are deeply unpopular. But what if we called them something else?"
-    },
-    {
-      "title": "AI can make tech CEOs\u2019 lives easier. What about everyone else?",
-      "url": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-11-01T20:57:58Z",
-      "snippet": "On Equity, we discuss why tech CEO statements can seem so tone deaf."
-    },
-    {
-      "title": "I built an AI Tamagotchi before Meta could",
-      "url": "https://www.theverge.com/gadgets/1013375/muse-charm-gadgets-preview-waveshare-esp32-claude-vibe-code",
-      "source": "The Verge",
-      "publishedAt": "2026-10-31T16:05:00Z",
-      "snippet": "Mark Zuckerberg's Meta made AI look so stinking cute by giving it a squishy little face - and this holiday season, he wants to sell you a Muse Charm so you can carry your jolly AI helper around like a"
-    },
-    {
-      "title": "Apple Intelligence is finally coming to China with iOS 27.3",
-      "url": "https://www.theverge.com/tech/1023974/apple-intelligence-china-ios-27-3",
-      "source": "The Verge",
-      "publishedAt": "2026-10-30T22:32:53Z",
-      "snippet": "Apple will launch Apple Intelligence in China with iOS 27.3, the company announced on its Chinese newsroom website, as reported by MacRumors. The Apple Intelligence features will be available first in"
-    },
-    {
-      "title": "Sam Altman says it\u2019s better for RAM to be in a data center than on your desk",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1023820/sam-altman-ram-shortage-cloud-servers",
-      "source": "The Verge",
-      "publishedAt": "2026-10-30T20:48:43Z",
-      "snippet": "Asked about supply chain shortages, like the ongoing RAM shortage, OpenAI CEO Sam Altman said in an interview that it's \"terrible\" to have RAM in personal PCs instead of data centers. During his appea"
-    },
-    {
-      "title": "The biggest names in AI are backing a new way to opt out of scraping",
-      "url": "https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out",
-      "source": "The Verge",
-      "publishedAt": "2026-10-30T20:26:10Z",
-      "snippet": "OpenAI, Google, Microsoft, and Anthropic say they will adopt a new standard that publishers can use to opt out of being scraped by AI, as reported earlier by Search Engine Roundtable. With this contro"
-    },
-    {
-      "title": "Google\u2019s satellite AI server transmits its first response to Earth",
-      "url": "https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission",
-      "source": "The Verge",
-      "publishedAt": "2026-10-30T18:21:38Z",
-      "snippet": "Google's AI chip-equipped satellite has generated its first response from space. In a blog post on Friday, Google says it successfully booted up the satellite's Tensor Processing Units (TPUs), allowin"
-    },
-    {
-      "title": "Starbucks wants to use AI to show you a \u2018personalized digital menu\u2019 at the drive-thru",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1023440/starbucks-ai-personalized-menu-drive-thru",
-      "source": "The Verge",
-      "publishedAt": "2026-10-30T17:38:04Z",
-      "snippet": "Starbucks could eventually show you a personalized digital menu when you pull up to the drive-thru. During an earnings call on Thursday, Starbucks CEO Brian Niccol said the company is going to explore"
-    },
-    {
-      "title": "Pope Leo calls for the disarmament of AI: \u2018Machines are tools, not persons\u2019",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1023188/pope-leo-disarm-ai",
-      "source": "The Verge",
-      "publishedAt": "2026-10-30T14:58:06Z",
-      "snippet": "Pope Leo XIV says AI systems should be \"disarmed,\" adding that humans \"have the responsibility to guide, change and, when necessary, reject its applications.\" In Friday's Papal Address, Pope Leo encou"
     }
   ],
   "trending": [
@@ -199,6 +199,11 @@
       "downloads": 72919
     },
     {
+      "id": "unsloth/DeepSeek-V4.1-Flash-1017-GGUF",
+      "displayName": "DeepSeek V4.1 Flash 1017",
+      "downloads": 596039
+    },
+    {
       "id": "LiquidAI/LFM3-1.7B-GGUF",
       "displayName": "LFM3 1.7B",
       "downloads": 194039
@@ -207,11 +212,6 @@
       "id": "DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
       "displayName": "Qwen3.8 27B TURBO Fable Cold Fusion 735 882 Heretic Uncensored NEO CODER MAX MTP",
       "downloads": 1371484
-    },
-    {
-      "id": "unsloth/DeepSeek-V4.1-Flash-1017-GGUF",
-      "displayName": "DeepSeek V4.1 Flash 1017",
-      "downloads": 596039
     },
     {
       "id": "ISTA-DASLab/DeepSeek-V4.1-Flash-1017-GSQ-RCO-GGUF",
