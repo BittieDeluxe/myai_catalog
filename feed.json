@@ -1,6 +1,27 @@
 {
-  "updated": "2026-11-02T23:16:49Z",
+  "updated": "2026-11-03T05:05:18Z",
   "news": [
+    {
+      "title": "Google takes Dreambeans to India in bid to bring AI-generated personal stories to the masses",
+      "url": "https://techcrunch.com/2026/11/02/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-masses/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-11-03T03:30:00Z",
+      "snippet": "Google's Dreambeans, its latest AI experiment, now supports 13 Indian languages."
+    },
+    {
+      "title": "Apple may try to increase revenue by doing\u2026something with third-party AI apps",
+      "url": "https://techcrunch.com/2026/11/02/apple-may-try-to-increase-revenue-by-doing-something-with-third-party-ai-apps/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-11-03T01:49:52Z",
+      "snippet": "Apple hinted at ways that it could spur revenue through third-party \"opportunities\" during its Monday night earnings call."
+    },
+    {
+      "title": "Y Combinator\u2019s Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
+      "url": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-11-03T00:35:52Z",
+      "snippet": "Y Combinator Garry Tan has jokingly admitted that he's suffered from \"cyber psychosis\u201d and barely sleeps sometimes because he\u2019s so excited to be working with his AI agents. On a new episode of Walter "
+    },
     {
       "title": "Trajectory raises $45M to make AI model training accessible to nontechnical experts",
       "url": "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/",
@@ -107,27 +128,6 @@
       "snippet": "At a Brooklyn midterm party five days before Election Day, every conversation, from a council member\u2019s fireside chat to a debate about the Democratic Party, kept circling back to AI and data centers."
     },
     {
-      "title": "Apple CEO says the company doesn\u2019t \u2018want to ship AI for AI\u2019s sake\u2019",
-      "url": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-10-31T21:41:00Z",
-      "snippet": "Apple's new CEO defended the company's current position in the AI landscape."
-    },
-    {
-      "title": "4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale",
-      "url": "https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-10-31T21:36:07Z",
-      "snippet": "On November 4 at Boston\u2019s SoWa Power Station, get ready for a full day packed with meaningful networking opportunities, actionable insights, and connections that could change the trajectory of your id"
-    },
-    {
-      "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
-      "url": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-10-31T21:17:03Z",
-      "snippet": "An NAACP lawsuit accuses the SpaceX-owned AI company of violating the Clean Air Act."
-    },
-    {
       "title": "I built an AI Tamagotchi before Meta could",
       "url": "https://www.theverge.com/gadgets/1013375/muse-charm-gadgets-preview-waveshare-esp32-claude-vibe-code",
       "source": "The Verge",
@@ -189,6 +189,11 @@
       "downloads": 2516622
     },
     {
+      "id": "AtomicChat/DeepSeek-V4.1-Flash-1017-Uncensored-GSQ-RCO-GGUF",
+      "displayName": "DeepSeek V4.1 Flash 1017 Uncensored GSQ RCO",
+      "downloads": 30284
+    },
+    {
       "id": "AtomicChat/LFM3-1.7B-Uncensored-GGUF",
       "displayName": "LFM3 1.7B Uncensored",
       "downloads": 59832
@@ -197,11 +202,6 @@
       "id": "LiquidAI/LFM3-1.7B-GGUF",
       "displayName": "LFM3 1.7B",
       "downloads": 174177
-    },
-    {
-      "id": "AtomicChat/DeepSeek-V4.1-Flash-1017-Uncensored-GSQ-RCO-GGUF",
-      "displayName": "DeepSeek V4.1 Flash 1017 Uncensored GSQ RCO",
-      "downloads": 30284
     },
     {
       "id": "ISTA-DASLab/DeepSeek-V4.1-Flash-1017-GSQ-RCO-GGUF",
