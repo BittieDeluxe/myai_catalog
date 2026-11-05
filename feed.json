@@ -1,6 +1,27 @@
 {
-  "updated": "2026-11-05T04:52:51Z",
+  "updated": "2026-11-05T13:54:16Z",
   "news": [
+    {
+      "title": "A YC startup is putting $1M behind five unsolved materials science problems for AI",
+      "url": "https://techcrunch.com/2026/11/05/a-yc-startup-is-putting-1m-behind-five-unsolved-materials-science-problems-for-ai/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-11-05T13:00:00Z",
+      "snippet": "Discovered Materials, a months-old YC startup that uses AI to find chip materials, is offering $200,000 for each solution to five open materials science problems."
+    },
+    {
+      "title": "Agility is the first pure humanoid robot company on the stock market. Are you buying?",
+      "url": "https://techcrunch.com/2026/11/05/agility-is-the-first-pure-humanoid-robot-company-on-the-stock-market-are-you-buying/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-11-05T12:00:00Z",
+      "snippet": "Agility arrives on the Nasdaq today as the first publicly-traded pure-play humanoid robotics company."
+    },
+    {
+      "title": "Big Tech\u2019s big AI buildout will not end until someone stops it",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1027344/amazon-microsoft-alphabet-google-meta-data-centers-earnings-q3",
+      "source": "The Verge",
+      "publishedAt": "2026-11-05T10:45:00Z",
+      "snippet": "After four of the biggest competitors in the AI race held quarterly earnings calls late last month, two things are clear: Big Tech is not done spending record amounts on the AI data center buildout, a"
+    },
     {
       "title": "Apple is reportedly cutting budgets for its internal AI usage",
       "url": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/",
@@ -154,79 +175,58 @@
       "source": "TechCrunch",
       "publishedAt": "2026-11-04T13:00:00Z",
       "snippet": "Today is the day to join TechCrunch Founder Summit 2026 in Boston's SoWa Power Station. Register now to join this founder-focused conference today."
-    },
-    {
-      "title": "Google hasn\u2019t figured out how to make AI pay like its search engine",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1024862/google-search-ai-overviews-alphabet-earnings-q3",
-      "source": "The Verge",
-      "publishedAt": "2026-11-04T12:00:00Z",
-      "snippet": "Search queries are growing at their fastest rate in five years, Google parent Alphabet said in its earnings report last week. However, Google's Search revenue growth slowed to 12 percent year over yea"
-    },
-    {
-      "title": "Anthropic is working on a system to prove AI models\u2019 identity",
-      "url": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-11-03T22:41:03Z",
-      "snippet": "Called FlashProve, the system would let anyone check that an AI response really came from the model it claims to be from."
-    },
-    {
-      "title": "Data centers are turning to old jet engines as the wait for power grows",
-      "url": "https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-11-03T22:19:53Z",
-      "snippet": "The years-long wait for access to the grid and new turbines is causing data center builders to turn to an unusual, less-efficient and less environmentally friendly solution: once-discarded jet engines"
     }
   ],
   "trending": [
     {
       "id": "ccore/Qwen3.5-4B-3D-Coder",
       "displayName": "Qwen3.5 4B 3D Coder",
-      "downloads": 123321
-    },
-    {
-      "id": "abenzerps/Qwen-Image-2.1-Turbo-Quantized",
-      "displayName": "Qwen Image 2.1 Turbo Quantized",
-      "downloads": 305860
+      "downloads": 157157
     },
     {
       "id": "AtomicChat/DeepSeek-V4.1-Flash-1017-Uncensored-GSQ-RCO-GGUF",
       "displayName": "DeepSeek V4.1 Flash 1017 Uncensored GSQ RCO",
-      "downloads": 73659
+      "downloads": 92333
+    },
+    {
+      "id": "abenzerps/Qwen-Image-2.1-Turbo-Quantized",
+      "displayName": "Qwen Image 2.1 Turbo Quantized",
+      "downloads": 233059
     },
     {
       "id": "DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
       "displayName": "Qwen3.8 27B TURBO Fable Cold Fusion 735 882 Heretic Uncensored NEO CODER MAX MTP",
-      "downloads": 1403315
+      "downloads": 1457791
     },
     {
       "id": "unsloth/DeepSeek-V4.1-Flash-1017-GGUF",
       "displayName": "DeepSeek V4.1 Flash 1017",
-      "downloads": 690137
+      "downloads": 777689
     },
     {
       "id": "SC117/Qwen3.8-Flash-Next-GSQ-RCO-abliterated-GGUF",
       "displayName": "Qwen3.8 Flash Next GSQ RCO abliterated",
-      "downloads": 3553512
+      "downloads": 3880611
     },
     {
       "id": "ISTA-DASLab/DeepSeek-V4.1-Flash-1017-GSQ-RCO-Coder-GGUF",
       "displayName": "DeepSeek V4.1 Flash 1017 GSQ RCO Coder",
-      "downloads": 73282
+      "downloads": 127948
     },
     {
       "id": "ccore/Qwen3.5-4B-GLB-3D-Coder",
       "displayName": "Qwen3.5 4B GLB 3D Coder",
-      "downloads": 8652
+      "downloads": 12206
     },
     {
       "id": "huihui-ai/Huihui-Qwen3.8-27B-abliterated-GGUF",
       "displayName": "Huihui Qwen3.8 27B abliterated",
-      "downloads": 3476597
+      "downloads": 3534588
     },
     {
-      "id": "AtomicChat/LFM3-1.7B-Uncensored-GGUF",
-      "displayName": "LFM3 1.7B Uncensored",
-      "downloads": 84188
+      "id": "unsloth/Qwen3.8-Flash-Next-GGUF",
+      "displayName": "Qwen3.8 Flash Next",
+      "downloads": 1219436
     }
   ]
 }
