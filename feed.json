@@ -1,12 +1,33 @@
 {
-  "updated": "2026-11-04T23:07:41Z",
+  "updated": "2026-11-05T04:52:51Z",
   "news": [
+    {
+      "title": "Apple is reportedly cutting budgets for its internal AI usage",
+      "url": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-11-05T01:26:22Z",
+      "snippet": "The company is said to be significantly dropping the amount it's spending on AI for its engineering teams."
+    },
+    {
+      "title": "After the midterms, a bigger clash over data centers could be coming",
+      "url": "https://techcrunch.com/2026/11/04/after-the-midterms-a-bigger-clash-over-data-centers-could-be-coming/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-11-05T01:02:14Z",
+      "snippet": "Data center opposition crossed party lines in Tuesday\u2019s midterms."
+    },
     {
       "title": "AI PACs spent millions trying to shape Congress \u2014 here\u2019s how they fared",
       "url": "https://techcrunch.com/2026/11/04/ai-pacs-spent-millions-trying-to-shape-congress-heres-how-they-fared/",
       "source": "TechCrunch",
       "publishedAt": "2026-11-04T22:45:09Z",
       "snippet": "AI industry PACs spent millions influencing the 2026 midterms, with mixed results. Political groups are already looking toward the next election cycle."
+    },
+    {
+      "title": "Qualcomm is betting big on data centers as smartphone sales sink",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1026867/qualcomm-earnings-data-centers",
+      "source": "The Verge",
+      "publishedAt": "2026-11-04T22:42:15Z",
+      "snippet": "With smartphone sales tanking by around 20 percent compared to 2025, Qualcomm is looking to data centers to help boost its bottom line. During its Q4 2026 earnings call, the company laid out its plans"
     },
     {
       "title": "Nothing CEO says company\u2019s mysterious AI-first device is dropping next month",
@@ -23,6 +44,13 @@
       "snippet": "During its busiest week last quarter, Uber said only four people booked a ride using an AI agent."
     },
     {
+      "title": "17 better ways Elon Musk could have wasted $446 million",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1026878/not-even-good-at-being-rich",
+      "source": "The Verge",
+      "publishedAt": "2026-11-04T21:45:00Z",
+      "snippet": "One of the basic problems of spending too much time on social media is that you are cooking your brain by reading posts from a pack of attention-seeking lunatics. If your social media of choice is the"
+    },
+    {
       "title": "OpenAI is already trying to shape the 2028 election",
       "url": "https://techcrunch.com/2026/11/04/openai-is-already-trying-to-shape-the-2028-election/",
       "source": "TechCrunch",
@@ -35,6 +63,13 @@
       "source": "TechCrunch",
       "publishedAt": "2026-11-04T21:10:56Z",
       "snippet": "The startup allows software engineers to deploy teams of agents to work on various aspects of a project simultaneously."
+    },
+    {
+      "title": "Gemini for Home now plugs into AT&T\u2019s smart security system",
+      "url": "https://www.theverge.com/tech/1026787/att-gemini-for-home-connected-life-security-system",
+      "source": "The Verge",
+      "publishedAt": "2026-11-04T20:23:24Z",
+      "snippet": "AT&T's smart home security system now integrates with Gemini for Home. The company says its Connected Life system is the \"first\" home security product to integrate with Google Home Premium, enabling a"
     },
     {
       "title": "Open source AI is booming. Hugging Face explains who profits.",
@@ -128,20 +163,6 @@
       "snippet": "Search queries are growing at their fastest rate in five years, Google parent Alphabet said in its earnings report last week. However, Google's Search revenue growth slowed to 12 percent year over yea"
     },
     {
-      "title": "The biggest modding site in PC gaming is taking a stance on AI",
-      "url": "https://www.theverge.com/games/1026085/nexus-mods-ai-disclosures",
-      "source": "The Verge",
-      "publishedAt": "2026-11-04T00:42:10Z",
-      "snippet": "The PC gaming mods repository Nexus Mods is making disclosures about AI mandatory for uploads of new mods, meaning that mod authors will have to declare \"whether AI has been used in their work,\" the s"
-    },
-    {
-      "title": "Please stop asking me when the AI bubble will pop",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1025826/ai-bubble-pimco-apollo-bonds",
-      "source": "The Verge",
-      "publishedAt": "2026-11-03T23:37:45Z",
-      "snippet": "People, including on this staff, keep asking me with varying degrees of excitement or trepidation when the AI bubble will burst. I'll tell you what I tell them: If I knew that, I would make a life-cha"
-    },
-    {
       "title": "Anthropic is working on a system to prove AI models\u2019 identity",
       "url": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
       "source": "TechCrunch",
@@ -154,27 +175,6 @@
       "source": "TechCrunch",
       "publishedAt": "2026-11-03T22:19:53Z",
       "snippet": "The years-long wait for access to the grid and new turbines is causing data center builders to turn to an unusual, less-efficient and less environmentally friendly solution: once-discarded jet engines"
-    },
-    {
-      "title": "Ted Schlein\u2019s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom",
-      "url": "https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-11-03T21:43:08Z",
-      "snippet": "Cybersecurity-focused Ballistic Ventures is seeking to raise $360 million for a new flagship fund and another $130 million for a separate investment vehicle."
-    },
-    {
-      "title": "Hiding inside Palantir\u2019s skyrocketing quarter is a foreboding signal",
-      "url": "https://techcrunch.com/2026/11/03/hiding-inside-palantirs-skyrocketing-quarter-is-a-foreboding-signal/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-11-03T21:05:55Z",
-      "snippet": "Palantir's U.S. commercial revenue surpassed U.S. government revenue for the first time ever."
-    },
-    {
-      "title": "Those Jeff Bezos hair transplant photos are very fake",
-      "url": "https://www.theverge.com/tech/1025745/fake-jeff-bezos-hair-replacement-photos-debunk",
-      "source": "The Verge",
-      "publishedAt": "2026-11-03T21:01:07Z",
-      "snippet": "Amazon founder Jeff Bezos and actor Jason Statham have a distinctive feature in common: They're both famously bald, and that definitely hasn't changed in the last few days. However, there are some ima"
     }
   ],
   "trending": [
@@ -219,14 +219,14 @@
       "downloads": 8652
     },
     {
+      "id": "huihui-ai/Huihui-Qwen3.8-27B-abliterated-GGUF",
+      "displayName": "Huihui Qwen3.8 27B abliterated",
+      "downloads": 3476597
+    },
+    {
       "id": "AtomicChat/LFM3-1.7B-Uncensored-GGUF",
       "displayName": "LFM3 1.7B Uncensored",
       "downloads": 84188
-    },
-    {
-      "id": "ISTA-DASLab/DeepSeek-V4.1-Flash-1017-GSQ-RCO-GGUF",
-      "displayName": "DeepSeek V4.1 Flash 1017 GSQ RCO",
-      "downloads": 2650934
     }
   ]
 }
