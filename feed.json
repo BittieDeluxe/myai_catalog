@@ -1,6 +1,62 @@
 {
-  "updated": "2026-11-06T09:00:16Z",
+  "updated": "2026-11-06T17:07:05Z",
   "news": [
+    {
+      "title": "Big Tech lost big in the 2026 election",
+      "url": "https://www.theverge.com/podcast/1028731/2026-midterms-tech-ai-vergecast",
+      "source": "The Verge",
+      "publishedAt": "2026-11-06T16:38:02Z",
+      "snippet": "On Tuesday, millions of American voters went to the polls and voted overwhelmingly for Democrats and against AI. The fight against Big Tech is about to come roaring back, and the fight over data cente"
+    },
+    {
+      "title": "How Akai and Moog are embracing vibe-coded mods",
+      "url": "https://www.theverge.com/tech/1028720/vibe-coding-open-source-inmusic-akai",
+      "source": "The Verge",
+      "publishedAt": "2026-11-06T16:34:39Z",
+      "snippet": "inMusic, the parent company of Akai, Moog, Native Instruments, and more, has decided to embrace the modding community. In an interview with The Verge, inMusic CEO Jack O'Donnell said, \"We're going to "
+    },
+    {
+      "title": "Ramp data shows AI spending stalling just as Anthropic nears its IPO",
+      "url": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-11-06T15:54:47Z",
+      "snippet": "AI usage keeps climbing, but spending has stalled. Price cuts and smarter cost controls among the biggest spenders could challenge investor assumptions about AI hypergrowth."
+    },
+    {
+      "title": "After blocking Muse, Amazon now lets users text Alexa to help them shop",
+      "url": "https://techcrunch.com/2026/11/06/after-blocking-muse-amazon-now-lets-users-text-alexa-to-help-them-shop/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-11-06T14:10:00Z",
+      "snippet": "Amazon said that the feature will roll out to millions of users in coming weeks."
+    },
+    {
+      "title": "Amazon will let you text Alexa your shopping list",
+      "url": "https://www.theverge.com/tech/1028587/amazon-alexa-shopping-ai-text-orders",
+      "source": "The Verge",
+      "publishedAt": "2026-11-06T14:00:00Z",
+      "snippet": "Amazon is adding a new feature to Alexa for Shopping that allows customers to purchase items by texting the AI shopping assistant. Users can describe the products they're looking to buy and/or provide"
+    },
+    {
+      "title": "Underdog shows off a 32MB speech model in new demo",
+      "url": "https://techcrunch.com/2026/11/06/underdog-shows-off-a-32mb-speech-model-in-new-demo/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-11-06T13:02:16Z",
+      "snippet": "Despite its small size, Underdog's new model can generate both speech and music."
+    },
+    {
+      "title": "Physicl raises $10M to make the digital world real enough for robots",
+      "url": "https://techcrunch.com/2026/11/06/physicl-raises-10m-to-make-the-digital-world-real-enough-for-robots/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-11-06T13:00:00Z",
+      "snippet": "Physicl is trying to solve the sim-to-real gap with a pipeline originally built to market goods online."
+    },
+    {
+      "title": "Protesters break into Microsoft data center site in Amsterdam",
+      "url": "https://www.theverge.com/news/1028549/protesters-microsoft-data-center-site-amsterdam",
+      "source": "The Verge",
+      "publishedAt": "2026-11-06T11:55:19Z",
+      "snippet": "Protesters have broken into a construction site of a new Microsoft data center in Amsterdam this morning. Members of the Geef Tegengas group helped organize the protest against the construction of thr"
+    },
     {
       "title": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
       "url": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/",
@@ -93,20 +149,6 @@
       "snippet": "On Tuesday night, Democrats made history as they took control of the House and the Senate, and a blue wave swept through traditionally red and swing states - with the nation's first Black woman govern"
     },
     {
-      "title": "Grimes is going to star in an AI movie that\u2019s coming to theaters",
-      "url": "https://www.theverge.com/entertainment/1026282/grimes-ai-movie",
-      "source": "The Verge",
-      "publishedAt": "2026-11-05T17:00:00Z",
-      "snippet": "The AI-generated sci-fi film Gods Don't Give Gifts has added a bit of star power: Pop star Grimes is going to appear in the movie. Billed as \"the first AI film to come to theatres,\" Gods Don't Give Gi"
-    },
-    {
-      "title": "OpenAI says its new cybersecurity model is better at not hacking other companies",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1027599/openai-gpt-6-cyber-launch",
-      "source": "The Verge",
-      "publishedAt": "2026-11-05T17:00:00Z",
-      "snippet": "OpenAI is launching GPT-6 Cyber, the latest version of its cybersecurity AI model, which it says is better at finding vulnerabilities and less likely to go rogue and hack other platforms in the proces"
-    },
-    {
       "title": "Axiom Math wants to keep AI slop out of mathematics",
       "url": "https://techcrunch.com/2026/11/05/axiom-math-wants-to-keep-ai-slop-out-of-mathematics/",
       "source": "TechCrunch",
@@ -121,20 +163,6 @@
       "snippet": "The deal is expected to support the development of DBX Agent Cloud, a new storage platform aimed at developers building AI models and agents."
     },
     {
-      "title": "The hidden supply chain costs of the AI boom",
-      "url": "https://www.theverge.com/podcast/1024438/willy-shih-supply-chain-ai-chips-ram-where-does-my-stuff-come-from-book",
-      "source": "The Verge",
-      "publishedAt": "2026-11-05T15:00:00Z",
-      "snippet": "Today, I\u2019m talking with Willy Shih, an economist, a professor of management practice at Harvard Business School, and the author of the upcoming book, Where Does My Stuff Come From? The Powerful Econom"
-    },
-    {
-      "title": "You can post AI music straight to SoundCloud from ElevenLabs",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1027427/ai-music-soundcloud-elevenlabs",
-      "source": "The Verge",
-      "publishedAt": "2026-11-05T15:00:00Z",
-      "snippet": "After partnering with Moises earlier this year, SoundCloud is now adding integration with another AI music platform, ElevenLabs. Now, rather than having to export and download your outputs from Eleven"
-    },
-    {
       "title": "Aina\u2019s smart ring has a screen, a joystick, and a mic so you can talk to AI agents",
       "url": "https://techcrunch.com/2026/11/05/ainas-smart-ring-has-a-screen-a-joystick-and-a-mic-so-you-can-talk-to-ai-agents/",
       "source": "TechCrunch",
@@ -147,86 +175,58 @@
       "source": "TechCrunch",
       "publishedAt": "2026-11-05T14:00:00Z",
       "snippet": "The system can supposedly answer queries four times faster, with 20% fewer errors and 90% fewer tokens used."
-    },
-    {
-      "title": "A YC startup is putting $1M behind 5 unsolved materials science problems for AI",
-      "url": "https://techcrunch.com/2026/11/05/a-yc-startup-is-putting-1m-behind-five-unsolved-materials-science-problems-for-ai/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-11-05T13:00:00Z",
-      "snippet": "While frontier AI models have solved a remarkable series of outstanding mathematics problems and made progress in the life sciences, they have yet to truly plumb the complex physics in advanced materi"
-    },
-    {
-      "title": "Agility is the first pure humanoid robot company on the stock market. Are you buying?",
-      "url": "https://techcrunch.com/2026/11/05/agility-is-the-first-pure-humanoid-robot-company-on-the-stock-market-are-you-buying/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-11-05T12:00:00Z",
-      "snippet": "Agility arrives on the Nasdaq today as the first publicly traded pure-play humanoid robotics company."
-    },
-    {
-      "title": "Apple is reportedly cutting budgets for its internal AI usage",
-      "url": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-11-05T01:26:22Z",
-      "snippet": "The tokenmaxxing frenzy has been short-lived as bills for said tokens came due, and companies decided that token rationing might be a more fiscally sensible approach."
-    },
-    {
-      "title": "After the midterms, a bigger clash over data centers could be coming",
-      "url": "https://techcrunch.com/2026/11/04/after-the-midterms-a-bigger-clash-over-data-centers-could-be-coming/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-11-05T01:02:14Z",
-      "snippet": "Data center opposition crossed party lines in Tuesday\u2019s midterms."
     }
   ],
   "trending": [
     {
       "id": "ccore/Qwen3.5-4B-3D-Coder",
       "displayName": "Qwen3.5 4B 3D Coder",
-      "downloads": 157157
+      "downloads": 190243
     },
     {
       "id": "AtomicChat/DeepSeek-V4.1-Flash-1017-Uncensored-GSQ-RCO-GGUF",
       "displayName": "DeepSeek V4.1 Flash 1017 Uncensored GSQ RCO",
-      "downloads": 92333
+      "downloads": 108162
     },
     {
       "id": "DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
       "displayName": "Qwen3.8 27B TURBO Fable Cold Fusion 735 882 Heretic Uncensored NEO CODER MAX MTP",
-      "downloads": 1457791
+      "downloads": 1518569
     },
     {
       "id": "abenzerps/Qwen-Image-2.1-Turbo-Quantized",
       "displayName": "Qwen Image 2.1 Turbo Quantized",
-      "downloads": 233059
+      "downloads": 135850
     },
     {
       "id": "ccore/Qwen3.5-4B-GLB-3D-Coder",
       "displayName": "Qwen3.5 4B GLB 3D Coder",
-      "downloads": 12206
-    },
-    {
-      "id": "unsloth/DeepSeek-V4.1-Flash-1017-GGUF",
-      "displayName": "DeepSeek V4.1 Flash 1017",
-      "downloads": 777689
-    },
-    {
-      "id": "SC117/Qwen3.8-Flash-Next-GSQ-RCO-abliterated-GGUF",
-      "displayName": "Qwen3.8 Flash Next GSQ RCO abliterated",
-      "downloads": 3880611
-    },
-    {
-      "id": "ISTA-DASLab/DeepSeek-V4.1-Flash-1017-GSQ-RCO-Coder-GGUF",
-      "displayName": "DeepSeek V4.1 Flash 1017 GSQ RCO Coder",
-      "downloads": 127948
-    },
-    {
-      "id": "unsloth/Qwen3.8-Flash-Next-GGUF",
-      "displayName": "Qwen3.8 Flash Next",
-      "downloads": 1219436
+      "downloads": 20256
     },
     {
       "id": "webAI-Official/TwIL-8B",
       "displayName": "TwIL 8B",
-      "downloads": 3563
+      "downloads": 8209
+    },
+    {
+      "id": "unsloth/Qwen3.8-Flash-Next-GGUF",
+      "displayName": "Qwen3.8 Flash Next",
+      "downloads": 1309045
+    },
+    {
+      "id": "ISTA-DASLab/DeepSeek-V4.1-Flash-1017-GSQ-RCO-Coder-GGUF",
+      "displayName": "DeepSeek V4.1 Flash 1017 GSQ RCO Coder",
+      "downloads": 222222
+    },
+    {
+      "id": "SC117/Qwen3.8-Flash-Next-GSQ-RCO-abliterated-GGUF",
+      "displayName": "Qwen3.8 Flash Next GSQ RCO abliterated",
+      "downloads": 4015818
+    },
+    {
+      "id": "unsloth/DeepSeek-V4.1-Flash-1017-GGUF",
+      "displayName": "DeepSeek V4.1 Flash 1017",
+      "downloads": 867526
     }
   ]
 }
