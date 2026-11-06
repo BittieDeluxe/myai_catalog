@@ -1,6 +1,13 @@
 {
-  "updated": "2026-11-06T01:57:36Z",
+  "updated": "2026-11-06T09:00:16Z",
   "news": [
+    {
+      "title": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
+      "url": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-11-06T06:28:32Z",
+      "snippet": "Clutch, backed by Lightspeed and SignalFire, was last valued at $85 million, according to a source."
+    },
     {
       "title": "OpenAI is stepping back from NDAs for data center projects",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1028454/openai-data-center-nda",
@@ -168,13 +175,6 @@
       "source": "TechCrunch",
       "publishedAt": "2026-11-05T01:02:14Z",
       "snippet": "Data center opposition crossed party lines in Tuesday\u2019s midterms."
-    },
-    {
-      "title": "AI PACs spent millions trying to shape Congress \u2014 here\u2019s how they fared",
-      "url": "https://techcrunch.com/2026/11/04/ai-pacs-spent-millions-trying-to-shape-congress-heres-how-they-fared/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-11-04T22:45:09Z",
-      "snippet": "AI industry PACs spent millions influencing the 2026 midterms, with mixed results. Political groups are already looking toward the next election cycle."
     }
   ],
   "trending": [
@@ -189,24 +189,24 @@
       "downloads": 92333
     },
     {
-      "id": "abenzerps/Qwen-Image-2.1-Turbo-Quantized",
-      "displayName": "Qwen Image 2.1 Turbo Quantized",
-      "downloads": 233059
-    },
-    {
       "id": "DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
       "displayName": "Qwen3.8 27B TURBO Fable Cold Fusion 735 882 Heretic Uncensored NEO CODER MAX MTP",
       "downloads": 1457791
     },
     {
-      "id": "unsloth/DeepSeek-V4.1-Flash-1017-GGUF",
-      "displayName": "DeepSeek V4.1 Flash 1017",
-      "downloads": 777689
+      "id": "abenzerps/Qwen-Image-2.1-Turbo-Quantized",
+      "displayName": "Qwen Image 2.1 Turbo Quantized",
+      "downloads": 233059
     },
     {
       "id": "ccore/Qwen3.5-4B-GLB-3D-Coder",
       "displayName": "Qwen3.5 4B GLB 3D Coder",
       "downloads": 12206
+    },
+    {
+      "id": "unsloth/DeepSeek-V4.1-Flash-1017-GGUF",
+      "displayName": "DeepSeek V4.1 Flash 1017",
+      "downloads": 777689
     },
     {
       "id": "SC117/Qwen3.8-Flash-Next-GSQ-RCO-abliterated-GGUF",
