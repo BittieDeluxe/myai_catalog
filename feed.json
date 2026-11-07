@@ -1,6 +1,34 @@
 {
-  "updated": "2026-11-07T12:20:21Z",
+  "updated": "2026-11-07T18:26:28Z",
   "news": [
+    {
+      "title": "NYT Cooking\u2019s AI assistant saved my weeknight chicken, but almost ruined my cake",
+      "url": "https://www.theverge.com/tech/1029489/nyt-cooking-ai-assistant-review",
+      "source": "The Verge",
+      "publishedAt": "2026-11-07T15:50:00Z",
+      "snippet": "Around 7PM each weeknight, I find myself standing in front of the fridge, trying to decide on something for dinner that won't make my husband complain, \"Chicken again?\" Yes, I should meal plan more, b"
+    },
+    {
+      "title": "The US let Nvidia sell chips to an empty office in China",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government",
+      "source": "The Verge",
+      "publishedAt": "2026-11-07T15:43:45Z",
+      "snippet": "Concerns are being raised that neither the Commerce Department nor Nvidia are doing their due diligence when it comes to vetting Chinese firms cleared to handle the company's H200 AI chips. According "
+    },
+    {
+      "title": "AI broke the cybersecurity world. What\u2019s next?",
+      "url": "https://www.theverge.com/podcast/1029038/ai-cybersecurity-hackers-data-breach-dark-age-alex-stamos",
+      "source": "The Verge",
+      "publishedAt": "2026-11-07T15:00:00Z",
+      "snippet": "Today, I\u2019m talking with Alex Stamos, chief security officer at Cognition and longtime cybersecurity expert, about what a mess cybersecurity is right now. This episode is part one of a special series l"
+    },
+    {
+      "title": "Why a new report on Anthropic automating AI development is alarming researchers",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development",
+      "source": "The Verge",
+      "publishedAt": "2026-11-07T12:30:00Z",
+      "snippet": "Anthropic is using AI to build more powerful AI. And it appears to be working remarkably well, with the company's models improving roughly twice as quickly as a year ago, with little indication of slo"
+    },
     {
       "title": "Crusoe sells troubled Wyoming data center project to Google",
       "url": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
@@ -86,13 +114,6 @@
       "snippet": "On Tuesday, millions of American voters went to the polls and voted overwhelmingly for Democrats and against AI. The fight against Big Tech is about to come roaring back, and the fight over data cente"
     },
     {
-      "title": "How Akai and Moog are embracing vibe-coded mods",
-      "url": "https://www.theverge.com/tech/1028720/vibe-coding-open-source-inmusic-akai",
-      "source": "The Verge",
-      "publishedAt": "2026-11-06T16:34:39Z",
-      "snippet": "inMusic, the parent company of Akai, Moog, Native Instruments, and more, has decided to embrace the modding community. In an interview with The Verge, inMusic CEO Jack O'Donnell said, \"We're going to "
-    },
-    {
       "title": "Ramp data shows AI spending stalling just as Anthropic nears its IPO",
       "url": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/",
       "source": "TechCrunch",
@@ -105,13 +126,6 @@
       "source": "TechCrunch",
       "publishedAt": "2026-11-06T14:10:00Z",
       "snippet": "Amazon said that the feature will roll out to millions of users in coming weeks."
-    },
-    {
-      "title": "Amazon will let you text Alexa your shopping list",
-      "url": "https://www.theverge.com/tech/1028587/amazon-alexa-shopping-ai-text-orders",
-      "source": "The Verge",
-      "publishedAt": "2026-11-06T14:00:00Z",
-      "snippet": "Amazon is adding a new feature to Alexa for Shopping that allows customers to purchase items by texting the AI shopping assistant. Users can describe the products they're looking to buy and/or provide"
     },
     {
       "title": "Underdog shows off a 32MB speech model in new demo",
@@ -128,25 +142,11 @@
       "snippet": "Physicl is trying to solve the sim-to-real gap with a pipeline originally built to market goods online."
     },
     {
-      "title": "Protesters break into Microsoft data center site in Amsterdam",
-      "url": "https://www.theverge.com/news/1028549/protesters-microsoft-data-center-site-amsterdam",
-      "source": "The Verge",
-      "publishedAt": "2026-11-06T11:55:19Z",
-      "snippet": "Protesters have broken into a construction site of a new Microsoft data center in Amsterdam this morning. Members of the Geef Tegengas group helped organize the protest against the construction of thr"
-    },
-    {
       "title": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
       "url": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/",
       "source": "TechCrunch",
       "publishedAt": "2026-11-06T06:28:32Z",
       "snippet": "Clutch, backed by Lightspeed and SignalFire, was last valued at $85 million, according to a source."
-    },
-    {
-      "title": "OpenAI is stepping back from NDAs for data center projects",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1028454/openai-data-center-nda",
-      "source": "The Verge",
-      "publishedAt": "2026-11-06T00:37:56Z",
-      "snippet": "Following this week's midterms where voters resoundingly voiced their opposition to data center expansion, OpenAI today announced new commitments to communities where it is working on data center proj"
     },
     {
       "title": "Airbnb says it\u2019s launching an AI travel agent in the first half of 2027",
@@ -194,14 +194,14 @@
       "downloads": 117016
     },
     {
-      "id": "abenzerps/Qwen-Image-2.1-Turbo-Quantized",
-      "displayName": "Qwen Image 2.1 Turbo Quantized",
-      "downloads": 65099
-    },
-    {
       "id": "ccore/Qwen3.5-4B-GLB-3D-Coder",
       "displayName": "Qwen3.5 4B GLB 3D Coder",
       "downloads": 24479
+    },
+    {
+      "id": "abenzerps/Qwen-Image-2.1-Turbo-Quantized",
+      "displayName": "Qwen Image 2.1 Turbo Quantized",
+      "downloads": 65099
     },
     {
       "id": "unsloth/Qwen3.8-Flash-Next-GGUF",
