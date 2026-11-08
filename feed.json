@@ -1,6 +1,13 @@
 {
-  "updated": "2026-11-08T12:39:46Z",
+  "updated": "2026-11-08T18:37:27Z",
   "news": [
+    {
+      "title": "Elvis and Eminem rights holders are suing Suno",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029533/elvis-eminem-suno-ai-music-clone-lawsuit",
+      "source": "The Verge",
+      "publishedAt": "2026-11-08T17:23:19Z",
+      "snippet": "Suno is facing yet another pair of lawsuits. A group of rights holders of Elvis Presley's music and the publisher of some of Eminem's biggest records are suing the AI music company, claiming it illega"
+    },
     {
       "title": "After the midterms, things are looking rocky for Elon Musk and data centers",
       "url": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/",
@@ -121,13 +128,6 @@
       "snippet": "When Irene moved to San Francisco last year, she started using dating apps as a way to meet new people, get to know her new city, and connect with others who care about the things she does. After the "
     },
     {
-      "title": "Big Tech lost big in the 2026 election",
-      "url": "https://www.theverge.com/podcast/1028731/2026-midterms-tech-ai-vergecast",
-      "source": "The Verge",
-      "publishedAt": "2026-11-06T16:38:02Z",
-      "snippet": "On Tuesday, millions of American voters went to the polls and voted overwhelmingly for Democrats and against AI. The fight against Big Tech is about to come roaring back, and the fight over data cente"
-    },
-    {
       "title": "Ramp data shows AI spending stalling just as Anthropic nears its IPO",
       "url": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/",
       "source": "TechCrunch",
@@ -194,9 +194,9 @@
       "downloads": 33641
     },
     {
-      "id": "AtomicChat/DeepSeek-V4.1-Flash-1017-Uncensored-GSQ-RCO-GGUF",
-      "displayName": "DeepSeek V4.1 Flash 1017 Uncensored GSQ RCO",
-      "downloads": 130020
+      "id": "webAI-Official/TwIL-8B",
+      "displayName": "TwIL 8B",
+      "downloads": 22737
     },
     {
       "id": "unsloth/Qwen3.8-Flash-Next-GGUF",
@@ -204,9 +204,9 @@
       "downloads": 1548621
     },
     {
-      "id": "webAI-Official/TwIL-8B",
-      "displayName": "TwIL 8B",
-      "downloads": 22737
+      "id": "AtomicChat/DeepSeek-V4.1-Flash-1017-Uncensored-GSQ-RCO-GGUF",
+      "displayName": "DeepSeek V4.1 Flash 1017 Uncensored GSQ RCO",
+      "downloads": 130020
     },
     {
       "id": "abenzerps/Qwen-Image-2.1-Turbo-Quantized",
@@ -214,14 +214,14 @@
       "downloads": 76804
     },
     {
-      "id": "ISTA-DASLab/DeepSeek-V4.1-Flash-1017-GSQ-RCO-Coder-GGUF",
-      "displayName": "DeepSeek V4.1 Flash 1017 GSQ RCO Coder",
-      "downloads": 258719
-    },
-    {
       "id": "Viggle/Viggle-Remake",
       "displayName": "Viggle Remake",
       "downloads": 76308
+    },
+    {
+      "id": "ISTA-DASLab/DeepSeek-V4.1-Flash-1017-GSQ-RCO-Coder-GGUF",
+      "displayName": "DeepSeek V4.1 Flash 1017 GSQ RCO Coder",
+      "downloads": 258719
     },
     {
       "id": "mradermacher/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic-i1-GGUF",
