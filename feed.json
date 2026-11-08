@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-07T23:22:29Z",
+  "updated": "2026-11-08T04:06:14Z",
   "news": [
     {
       "title": "After the midterms, things are looking rocky for Elon Musk and data centers",
@@ -189,19 +189,14 @@
       "downloads": 1545313
     },
     {
-      "id": "AtomicChat/DeepSeek-V4.1-Flash-1017-Uncensored-GSQ-RCO-GGUF",
-      "displayName": "DeepSeek V4.1 Flash 1017 Uncensored GSQ RCO",
-      "downloads": 117016
-    },
-    {
       "id": "ccore/Qwen3.5-4B-GLB-3D-Coder",
       "displayName": "Qwen3.5 4B GLB 3D Coder",
       "downloads": 24479
     },
     {
-      "id": "abenzerps/Qwen-Image-2.1-Turbo-Quantized",
-      "displayName": "Qwen Image 2.1 Turbo Quantized",
-      "downloads": 65099
+      "id": "AtomicChat/DeepSeek-V4.1-Flash-1017-Uncensored-GSQ-RCO-GGUF",
+      "displayName": "DeepSeek V4.1 Flash 1017 Uncensored GSQ RCO",
+      "downloads": 117016
     },
     {
       "id": "unsloth/Qwen3.8-Flash-Next-GGUF",
@@ -212,6 +207,11 @@
       "id": "webAI-Official/TwIL-8B",
       "displayName": "TwIL 8B",
       "downloads": 15324
+    },
+    {
+      "id": "abenzerps/Qwen-Image-2.1-Turbo-Quantized",
+      "displayName": "Qwen Image 2.1 Turbo Quantized",
+      "downloads": 65099
     },
     {
       "id": "ISTA-DASLab/DeepSeek-V4.1-Flash-1017-GSQ-RCO-Coder-GGUF",
