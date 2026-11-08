@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-08T04:06:14Z",
+  "updated": "2026-11-08T12:39:46Z",
   "news": [
     {
       "title": "After the midterms, things are looking rocky for Elon Musk and data centers",
@@ -181,52 +181,52 @@
     {
       "id": "ccore/Qwen3.5-4B-3D-Coder",
       "displayName": "Qwen3.5 4B 3D Coder",
-      "downloads": 221506
+      "downloads": 254053
     },
     {
       "id": "DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
       "displayName": "Qwen3.8 27B TURBO Fable Cold Fusion 735 882 Heretic Uncensored NEO CODER MAX MTP",
-      "downloads": 1545313
+      "downloads": 1553252
     },
     {
       "id": "ccore/Qwen3.5-4B-GLB-3D-Coder",
       "displayName": "Qwen3.5 4B GLB 3D Coder",
-      "downloads": 24479
+      "downloads": 33641
     },
     {
       "id": "AtomicChat/DeepSeek-V4.1-Flash-1017-Uncensored-GSQ-RCO-GGUF",
       "displayName": "DeepSeek V4.1 Flash 1017 Uncensored GSQ RCO",
-      "downloads": 117016
+      "downloads": 130020
     },
     {
       "id": "unsloth/Qwen3.8-Flash-Next-GGUF",
       "displayName": "Qwen3.8 Flash Next",
-      "downloads": 1423501
+      "downloads": 1548621
     },
     {
       "id": "webAI-Official/TwIL-8B",
       "displayName": "TwIL 8B",
-      "downloads": 15324
+      "downloads": 22737
     },
     {
       "id": "abenzerps/Qwen-Image-2.1-Turbo-Quantized",
       "displayName": "Qwen Image 2.1 Turbo Quantized",
-      "downloads": 65099
+      "downloads": 76804
     },
     {
       "id": "ISTA-DASLab/DeepSeek-V4.1-Flash-1017-GSQ-RCO-Coder-GGUF",
       "displayName": "DeepSeek V4.1 Flash 1017 GSQ RCO Coder",
-      "downloads": 243190
+      "downloads": 258719
     },
     {
       "id": "Viggle/Viggle-Remake",
       "displayName": "Viggle Remake",
-      "downloads": 64942
+      "downloads": 76308
     },
     {
-      "id": "SC117/Qwen3.8-Flash-Next-GSQ-RCO-abliterated-GGUF",
-      "displayName": "Qwen3.8 Flash Next GSQ RCO abliterated",
-      "downloads": 4132544
+      "id": "mradermacher/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic-i1-GGUF",
+      "displayName": "DeepSeek V4 Pro Qwen3.5 9B UNCENSORED heretic i1",
+      "downloads": 136706
     }
   ]
 }
