@@ -1,6 +1,34 @@
 {
-  "updated": "2026-11-08T18:37:27Z",
+  "updated": "2026-11-08T23:23:25Z",
   "news": [
+    {
+      "title": "Here\u2019s the full text of Jensen Huang\u2019s memo to Nvidia",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029595/full-text-jensen-huang-affair-memo-nvidia",
+      "source": "The Verge",
+      "publishedAt": "2026-11-08T22:54:50Z",
+      "snippet": "On Sunday, Nvidia announced it was launching an investigation into CEO Jensen Huang's relationship with Alice Huang, an AI executive and agent of the Chinese government. In addition to the Board of Di"
+    },
+    {
+      "title": "Nvidia will investigate CEO Jensen Huang\u2019s relationship with possible Chinese spy",
+      "url": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-11-08T21:00:11Z",
+      "snippet": "In a memo to the company, Huang admitted that he had an affair."
+    },
+    {
+      "title": "Nvidia is investigating Jensen Huang\u2019s relationship with a Chinese spy",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029562/nvidia-investigating-jensen-huang-relationship-chinese-spy",
+      "source": "The Verge",
+      "publishedAt": "2026-11-08T20:22:39Z",
+      "snippet": "Nvidia has announced that it is opening an investigation into CEO Jensen Huang and his relationship with Megaspeed executive Alice Huang, who was reportedly recruited by China's Ministry of State Secu"
+    },
+    {
+      "title": "Apple is racing to make Siri more agentic",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic",
+      "source": "The Verge",
+      "publishedAt": "2026-11-08T19:18:19Z",
+      "snippet": "Bloomberg's Mark Gurman says CEO John Ternus is pressuring AI czar Craig Federighi to accelerate the Siri roadmap and deliver a powerful AI agent that can compete with OpenAI's Dots or Meta's Muse. Wh"
+    },
     {
       "title": "Elvis and Eminem rights holders are suing Suno",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1029533/elvis-eminem-suno-ai-music-clone-lawsuit",
@@ -79,13 +107,6 @@
       "snippet": "OpenAI has reportedly raised an additional $11 billion as part of a funding round that hasn't closed yet but is expected to in the coming weeks."
     },
     {
-      "title": "All the latest updates on AI data centers",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy",
-      "source": "The Verge",
-      "publishedAt": "2026-11-06T20:02:22Z",
-      "snippet": "Massive new data centers are the physical foundation for tech companies\u2019 hopes and dreams for AI. But the rush to expand warehouses full of energy-hungry servers has also kicked up fights across the w"
-    },
-    {
       "title": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
       "url": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/",
       "source": "TechCrunch",
@@ -100,13 +121,6 @@
       "snippet": "Meta's Muse agents continue to get new features and integrations. Spaces promises to be a new way to interact with the AI helpers."
     },
     {
-      "title": "Meta\u2019s Muse AI can create custom \u2018spaces\u2019 for the version of the app you need right now",
-      "url": "https://www.theverge.com/tech/1028871/meta-muse-ai-spaces",
-      "source": "The Verge",
-      "publishedAt": "2026-11-06T18:10:10Z",
-      "snippet": "Meta will now allow you to build customized, app-like experiences within Muse. The new feature, called \"spaces,\" allows its AI assistant to build things like a shopping hub, school dashboard, music tr"
-    },
-    {
       "title": "How a Blue Wave midterm might reshape the AI industry",
       "url": "https://techcrunch.com/podcast/how-a-blue-wave-midterm-might-reshape-the-ai-industry/",
       "source": "TechCrunch",
@@ -119,13 +133,6 @@
       "source": "TechCrunch",
       "publishedAt": "2026-11-06T17:23:52Z",
       "snippet": "Democrats\u2019 historic victories in this week\u2019s U.S. midterm elections could also transform the tech industry. The public voted on 41 data center-related ballot measures on Tuesday \u2014 in all but one, the "
-    },
-    {
-      "title": "AI is the new dating dealbreaker",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1028609/ai-dating-feelings-doomers-singularity",
-      "source": "The Verge",
-      "publishedAt": "2026-11-06T17:00:00Z",
-      "snippet": "When Irene moved to San Francisco last year, she started using dating apps as a way to meet new people, get to know her new city, and connect with others who care about the things she does. After the "
     },
     {
       "title": "Ramp data shows AI spending stalling just as Anthropic nears its IPO",
@@ -168,13 +175,6 @@
       "source": "TechCrunch",
       "publishedAt": "2026-11-05T22:40:55Z",
       "snippet": "Airbnb says its upcoming AI agent will help travelers plan trips, compare options, manage bookings, and get assistance throughout their stay."
-    },
-    {
-      "title": "Meta says US users can now video chat with their Muse AI avatar",
-      "url": "https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-11-05T19:48:28Z",
-      "snippet": "Meta's AI agent can now take calls as a customizable animated avatar, ahead of the launch of a Tamagotchi-like wearable designed to bring Muse to life."
     }
   ],
   "trending": [
@@ -209,14 +209,14 @@
       "downloads": 130020
     },
     {
-      "id": "abenzerps/Qwen-Image-2.1-Turbo-Quantized",
-      "displayName": "Qwen Image 2.1 Turbo Quantized",
-      "downloads": 76804
-    },
-    {
       "id": "Viggle/Viggle-Remake",
       "displayName": "Viggle Remake",
       "downloads": 76308
+    },
+    {
+      "id": "abenzerps/Qwen-Image-2.1-Turbo-Quantized",
+      "displayName": "Qwen Image 2.1 Turbo Quantized",
+      "downloads": 76804
     },
     {
       "id": "ISTA-DASLab/DeepSeek-V4.1-Flash-1017-GSQ-RCO-Coder-GGUF",
@@ -224,9 +224,9 @@
       "downloads": 258719
     },
     {
-      "id": "mradermacher/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic-i1-GGUF",
-      "displayName": "DeepSeek V4 Pro Qwen3.5 9B UNCENSORED heretic i1",
-      "downloads": 136706
+      "id": "Scantist/GLM-5.3-SLIM-GGUF",
+      "displayName": "GLM 5.3 SLIM",
+      "downloads": 4938
     }
   ]
 }
