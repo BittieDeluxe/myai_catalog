@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-08T23:23:25Z",
+  "updated": "2026-11-09T04:21:41Z",
   "news": [
     {
       "title": "Here\u2019s the full text of Jensen Huang\u2019s memo to Nvidia",
@@ -204,19 +204,14 @@
       "downloads": 1548621
     },
     {
-      "id": "AtomicChat/DeepSeek-V4.1-Flash-1017-Uncensored-GSQ-RCO-GGUF",
-      "displayName": "DeepSeek V4.1 Flash 1017 Uncensored GSQ RCO",
-      "downloads": 130020
-    },
-    {
       "id": "Viggle/Viggle-Remake",
       "displayName": "Viggle Remake",
       "downloads": 76308
     },
     {
-      "id": "abenzerps/Qwen-Image-2.1-Turbo-Quantized",
-      "displayName": "Qwen Image 2.1 Turbo Quantized",
-      "downloads": 76804
+      "id": "AtomicChat/DeepSeek-V4.1-Flash-1017-Uncensored-GSQ-RCO-GGUF",
+      "displayName": "DeepSeek V4.1 Flash 1017 Uncensored GSQ RCO",
+      "downloads": 130020
     },
     {
       "id": "ISTA-DASLab/DeepSeek-V4.1-Flash-1017-GSQ-RCO-Coder-GGUF",
@@ -227,6 +222,11 @@
       "id": "Scantist/GLM-5.3-SLIM-GGUF",
       "displayName": "GLM 5.3 SLIM",
       "downloads": 4938
+    },
+    {
+      "id": "abenzerps/Qwen-Image-2.1-Turbo-Quantized",
+      "displayName": "Qwen Image 2.1 Turbo Quantized",
+      "downloads": 76804
     }
   ]
 }
