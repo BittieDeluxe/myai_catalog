@@ -1,6 +1,20 @@
 {
-  "updated": "2026-11-09T04:21:41Z",
+  "updated": "2026-11-09T14:59:33Z",
   "news": [
+    {
+      "title": "Automattic debuts a platform to deploy vibe coding apps amid a changing internet",
+      "url": "https://techcrunch.com/2026/11/09/automattic-debuts-a-platform-to-deploy-vibe-coding-apps-amid-a-changing-internet/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-11-09T14:00:00Z",
+      "snippet": "Automattic aims to compete with likes of Lovable with Spacefast"
+    },
+    {
+      "title": "Is Jensen Huang\u2019s job on the line? Yale\u2019s Jeffrey Sonnenfeld estimates it\u2019s \u201cabout a 50-50\u201d",
+      "url": "https://techcrunch.com/2026/11/08/is-jensen-huangs-job-on-the-line-yales-jeffrey-sonnenfeld-estimates-its-about-a-50-50/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-11-09T05:26:29Z",
+      "snippet": "Nvidia\u2019s board is investigating Jensen Huang over his relationship with a suspected Chinese spy, and Yale\u2019s Jeffrey Sonnenfeld thinks it\u2019s roughly a coin flip whether Huang stays on as CEO."
+    },
     {
       "title": "Here\u2019s the full text of Jensen Huang\u2019s memo to Nvidia",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1029595/full-text-jensen-huang-affair-memo-nvidia",
@@ -16,7 +30,7 @@
       "snippet": "In a memo to the company, Huang admitted that he had an affair."
     },
     {
-      "title": "Nvidia is investigating Jensen Huang\u2019s relationship with a Chinese spy",
+      "title": "Nvidia is investigating Jensen Huang\u2019s relationship with an alleged Chinese spy",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1029562/nvidia-investigating-jensen-huang-relationship-chinese-spy",
       "source": "The Verge",
       "publishedAt": "2026-11-08T20:22:39Z",
@@ -161,72 +175,58 @@
       "source": "TechCrunch",
       "publishedAt": "2026-11-06T13:00:00Z",
       "snippet": "Physicl is trying to solve the sim-to-real gap with a pipeline originally built to market goods online."
-    },
-    {
-      "title": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
-      "url": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-11-06T06:28:32Z",
-      "snippet": "Clutch, backed by Lightspeed and SignalFire, was last valued at $85 million, according to a source."
-    },
-    {
-      "title": "Airbnb says it\u2019s launching an AI travel agent in the first half of 2027",
-      "url": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-11-05T22:40:55Z",
-      "snippet": "Airbnb says its upcoming AI agent will help travelers plan trips, compare options, manage bookings, and get assistance throughout their stay."
     }
   ],
   "trending": [
     {
       "id": "ccore/Qwen3.5-4B-3D-Coder",
       "displayName": "Qwen3.5 4B 3D Coder",
-      "downloads": 254053
+      "downloads": 289466
     },
     {
       "id": "DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
       "displayName": "Qwen3.8 27B TURBO Fable Cold Fusion 735 882 Heretic Uncensored NEO CODER MAX MTP",
-      "downloads": 1553252
-    },
-    {
-      "id": "ccore/Qwen3.5-4B-GLB-3D-Coder",
-      "displayName": "Qwen3.5 4B GLB 3D Coder",
-      "downloads": 33641
+      "downloads": 1530688
     },
     {
       "id": "webAI-Official/TwIL-8B",
       "displayName": "TwIL 8B",
-      "downloads": 22737
+      "downloads": 34546
     },
     {
       "id": "unsloth/Qwen3.8-Flash-Next-GGUF",
       "displayName": "Qwen3.8 Flash Next",
-      "downloads": 1548621
+      "downloads": 1694090
     },
     {
       "id": "Viggle/Viggle-Remake",
       "displayName": "Viggle Remake",
-      "downloads": 76308
+      "downloads": 97356
     },
     {
-      "id": "AtomicChat/DeepSeek-V4.1-Flash-1017-Uncensored-GSQ-RCO-GGUF",
-      "displayName": "DeepSeek V4.1 Flash 1017 Uncensored GSQ RCO",
-      "downloads": 130020
-    },
-    {
-      "id": "ISTA-DASLab/DeepSeek-V4.1-Flash-1017-GSQ-RCO-Coder-GGUF",
-      "displayName": "DeepSeek V4.1 Flash 1017 GSQ RCO Coder",
-      "downloads": 258719
+      "id": "ccore/Qwen3.5-4B-GLB-3D-Coder",
+      "displayName": "Qwen3.5 4B GLB 3D Coder",
+      "downloads": 38696
     },
     {
       "id": "Scantist/GLM-5.3-SLIM-GGUF",
       "displayName": "GLM 5.3 SLIM",
-      "downloads": 4938
+      "downloads": 7884
     },
     {
-      "id": "abenzerps/Qwen-Image-2.1-Turbo-Quantized",
-      "displayName": "Qwen Image 2.1 Turbo Quantized",
-      "downloads": 76804
+      "id": "AtomicChat/DeepSeek-V4.1-Flash-1017-Uncensored-GSQ-RCO-GGUF",
+      "displayName": "DeepSeek V4.1 Flash 1017 Uncensored GSQ RCO",
+      "downloads": 137288
+    },
+    {
+      "id": "ISTA-DASLab/DeepSeek-V4.1-Flash-1017-GSQ-RCO-Coder-GGUF",
+      "displayName": "DeepSeek V4.1 Flash 1017 GSQ RCO Coder",
+      "downloads": 273578
+    },
+    {
+      "id": "mradermacher/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic-i1-GGUF",
+      "displayName": "DeepSeek V4 Pro Qwen3.5 9B UNCENSORED heretic i1",
+      "downloads": 217408
     }
   ]
 }
