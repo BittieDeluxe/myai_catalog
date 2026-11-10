@@ -1,12 +1,40 @@
 {
-  "updated": "2026-11-09T23:56:12Z",
+  "updated": "2026-11-10T05:59:41Z",
   "news": [
+    {
+      "title": "Anthropic reportedly plans to move forward with IPO plans",
+      "url": "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-11-10T01:27:12Z",
+      "snippet": "The AI company is expected to set its valuation range this week, the Wall Street Journal reported."
+    },
+    {
+      "title": "David Ellison says AI could be the \u2018biggest creative unlock in modern history\u2019",
+      "url": "https://www.theverge.com/entertainment/1030510/paramount-skydance-david-ellison-ai",
+      "source": "The Verge",
+      "publishedAt": "2026-11-10T00:28:49Z",
+      "snippet": "During Paramount Skydance's latest earnings call, CEO David Ellison said \"it's hard to imagine\" AI won't have a bigger impact on the film industry than CGI. In response to a question about the company"
+    },
+    {
+      "title": "What could China get from Jensen Huang?",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1030328/what-could-china-get-from-jensen-huang",
+      "source": "The Verge",
+      "publishedAt": "2026-11-09T23:51:58Z",
+      "snippet": "It's difficult to overstate Nvidia's power in today's AI landscape. The company's chips are the bedrock upon which advanced AI technology in the US is being built, and demand has consistently outpaced"
+    },
+    {
+      "title": "Here\u2019s what Trump said he knew about Jensen Huang",
+      "url": "https://www.theverge.com/tech/1030446/trump-jensen-huang-press-conference",
+      "source": "The Verge",
+      "publishedAt": "2026-11-09T23:47:46Z",
+      "snippet": "President Trump held a White House press briefing earlier today and responded to several questions about his knowledge of Nvidia CEO Jensen Huang's affair with an alleged Chinese spy. Huang said this "
+    },
     {
       "title": "Jensen Huang reportedly engaged a PR firm with a history of handling  high-profile sex scandals a year ago",
       "url": "https://techcrunch.com/2026/11/09/jensen-huang-reportedly-engaged-a-pr-firm-with-a-history-of-handling-high-profile-sex-scandals-a-year-ago/",
       "source": "TechCrunch",
       "publishedAt": "2026-11-09T23:28:37Z",
-      "snippet": "The PR firm was enlisted shortly after an Oct. 2025 New York Times report described Alice Huang's business dealings with Jensen Huang, Wired reported."
+      "snippet": "The PR firm was enlisted shortly after an October 2025 New York Times report described Alice Huang's business dealings with Jensen Huang, Wired reported."
     },
     {
       "title": "Everything we know so far about the Nvidia spy scandal targeting CEO Jensen Huang",
@@ -114,20 +142,6 @@
       "snippet": "The Walt Disney Company has teamed up with Adobe to develop proprietary \"artist-led\" generative AI models to support Disney's production pipeline. The multiyear partnership was announced today at Adob"
     },
     {
-      "title": "Hold up \u2014 I had a great time talking to the RIAA guy",
-      "url": "https://www.theverge.com/podcast/1029684/riaa-mitch-glazier-napster-ai-labels-music",
-      "source": "The Verge",
-      "publishedAt": "2026-11-09T15:30:00Z",
-      "snippet": "Today, I\u2019m talking with Mitch Glazier, who is CEO and chairman of the RIAA. This conversation was a real full-circle moment for me: I was in college when Napster hit, and the RIAA became everyone\u2019s vi"
-    },
-    {
-      "title": "Jonathan Kanter is using AI to take on Big Tech",
-      "url": "https://www.theverge.com/policy/1029652/kanter-doj-biden-legal-tech",
-      "source": "The Verge",
-      "publishedAt": "2026-11-09T14:30:00Z",
-      "snippet": "When Jonathan Kanter stepped down as head of the Justice Department's Antitrust Division in 2024, he set out to keep fighting to dismantle illegal monopolies. But this time, he's continuing the fight "
-    },
-    {
       "title": "Automattic debuts a platform to deploy vibe-coding apps amid a changing internet",
       "url": "https://techcrunch.com/2026/11/09/automattic-debuts-a-platform-to-deploy-vibe-coding-apps-amid-a-changing-internet/",
       "source": "TechCrunch",
@@ -140,13 +154,6 @@
       "source": "TechCrunch",
       "publishedAt": "2026-11-09T05:26:29Z",
       "snippet": "Nvidia\u2019s board is investigating Jensen Huang over his relationship with a suspected Chinese spy, and Yale\u2019s Jeffrey Sonnenfeld thinks it\u2019s roughly a coin flip whether Huang stays on as CEO."
-    },
-    {
-      "title": "Here\u2019s the full text of Jensen Huang\u2019s memo to Nvidia",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1029595/full-text-jensen-huang-affair-memo-nvidia",
-      "source": "The Verge",
-      "publishedAt": "2026-11-08T22:54:50Z",
-      "snippet": "On Sunday, Nvidia announced it was launching an investigation into CEO Jensen Huang's relationship with Alice Huang, an AI executive and agent of the Chinese government. In addition to the Board of Di"
     },
     {
       "title": "Nvidia will investigate CEO Jensen Huang\u2019s relationship with possible Chinese spy",
@@ -168,13 +175,6 @@
       "source": "TechCrunch",
       "publishedAt": "2026-11-07T21:17:08Z",
       "snippet": "A memo circulated earlier this year reportedly claimed that China\u2019s Ministry of State Security recruited a female technology executive to spy on Nvidia's CEO."
-    },
-    {
-      "title": "From the front row to the hot seat \u2014 what the midterms mean for Big Tech",
-      "url": "https://techcrunch.com/2026/11/06/from-the-front-row-to-the-hot-seat-what-the-midterms-mean-for-big-tech/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-11-07T04:16:43Z",
-      "snippet": "After spending two years getting cozy with the White House, Big Tech is suddenly trying to make friends with Democrats, and the open question is whether that image makeover can hold up against what st"
     }
   ],
   "trending": [
@@ -204,19 +204,14 @@
       "downloads": 97356
     },
     {
-      "id": "ccore/Qwen3.5-4B-GLB-3D-Coder",
-      "displayName": "Qwen3.5 4B GLB 3D Coder",
-      "downloads": 38696
-    },
-    {
       "id": "Scantist/GLM-5.3-SLIM-GGUF",
       "displayName": "GLM 5.3 SLIM",
       "downloads": 7884
     },
     {
-      "id": "AtomicChat/DeepSeek-V4.1-Flash-1017-Uncensored-GSQ-RCO-GGUF",
-      "displayName": "DeepSeek V4.1 Flash 1017 Uncensored GSQ RCO",
-      "downloads": 137288
+      "id": "ccore/Qwen3.5-4B-GLB-3D-Coder",
+      "displayName": "Qwen3.5 4B GLB 3D Coder",
+      "downloads": 38696
     },
     {
       "id": "mradermacher/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic-i1-GGUF",
@@ -224,9 +219,14 @@
       "downloads": 217408
     },
     {
-      "id": "abenzerps/Qwen-Image-2.1-Turbo-Quantized",
-      "displayName": "Qwen Image 2.1 Turbo Quantized",
-      "downloads": 89977
+      "id": "AtomicChat/DeepSeek-V4.1-Flash-1017-Uncensored-GSQ-RCO-GGUF",
+      "displayName": "DeepSeek V4.1 Flash 1017 Uncensored GSQ RCO",
+      "downloads": 137288
+    },
+    {
+      "id": "SC117/Qwen3.8-Flash-Next-GSQ-RCO-abliterated-GGUF",
+      "displayName": "Qwen3.8 Flash Next GSQ RCO abliterated",
+      "downloads": 4215003
     }
   ]
 }
