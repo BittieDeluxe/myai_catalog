@@ -1,6 +1,55 @@
 {
-  "updated": "2026-11-11T08:46:31Z",
+  "updated": "2026-11-11T17:39:20Z",
   "news": [
+    {
+      "title": "Is Jensen Huang\u2019s bad behavior more commonplace than it seems?",
+      "url": "https://techcrunch.com/2026/11/11/is-jensen-huangs-bad-behavior-more-commonplace-than-it-seems/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-11-11T16:16:07Z",
+      "snippet": "\u201cThere are a lot of senior people in the industry that know this is happening, and are effectively condoning it,\u201d an investment intel consultant said."
+    },
+    {
+      "title": "OpenAI\u2019s quarterly revenue reportedly crosses $10B for the first time",
+      "url": "https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-11-11T16:14:44Z",
+      "snippet": "Sales of $10B represents an almost 50% jump from revenue of $6.7 billion the company recorded in the second quarter."
+    },
+    {
+      "title": "Google\u2019s Tabletop AI experiment lets you build custom collaboration apps",
+      "url": "https://www.theverge.com/tech/1031526/google-tabletop-ai-experiment-waitlist-availability",
+      "source": "The Verge",
+      "publishedAt": "2026-11-11T16:00:00Z",
+      "snippet": "Google has cooked up a new experimental AI tool called Tabletop that generates customized collaborative hubs to help you coordinate with family, and friends. The Tabletop platform shares some visual s"
+    },
+    {
+      "title": "Google\u2019s AlphaGenome 2 zooms in on the cellular roots of disease",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1031524/google-deepmind-alphagenome-2-genetic-ai-model",
+      "source": "The Verge",
+      "publishedAt": "2026-11-11T15:00:00Z",
+      "snippet": "Researchers at Google DeepMind have unveiled a new AI model designed to unravel how changes in our DNA affect different cells, giving scientists a more detailed view of a notoriously difficult problem"
+    },
+    {
+      "title": "Databricks\u2019 new AI agent tells CEO Ali Ghodsi the unvarnished truth",
+      "url": "https://techcrunch.com/2026/11/11/databricks-new-ai-agent-tells-ceo-ali-ghodsi-the-unvarnished-truth/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-11-11T15:00:00Z",
+      "snippet": "At 12,000 employees, AI Ghodsi is the first to admit that he can't know everyone and that they are unlikely to confess the things that go wrong to him. But he doesn't need them to. He uses Databricks'"
+    },
+    {
+      "title": "Adobe\u2019s AI experiments let you walk around in photos and interview your characters",
+      "url": "https://www.theverge.com/tech/1031505/adobe-max-2026-sneaks-experiments-ai",
+      "source": "The Verge",
+      "publishedAt": "2026-11-11T14:00:00Z",
+      "snippet": "Some of the most impressive tech that Adobe showcases at its annual Max conference each year is the experimental features it's developing, and the latest of those tools are being announced today: they"
+    },
+    {
+      "title": "Plurai wants to help AI agents work better using the same approach that helped get self-driving cars to roads",
+      "url": "https://techcrunch.com/2026/11/11/plurai-wants-to-help-ai-agents-work-better-using-the-same-approach-that-helped-get-self-driving-cars-to-roads/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-11-11T14:00:00Z",
+      "snippet": "Like the end-to-end models trained to drive cars, AI agents are probabilistic systems operating in unpredictable environments."
+    },
     {
       "title": "Nvidia\u2019s crisis has corporate governance experts reaching for the popcorn",
       "url": "https://techcrunch.com/2026/11/10/nvidias-crisis-has-corporate-governance-experts-reaching-for-the-popcorn/",
@@ -126,107 +175,58 @@
       "source": "The Verge",
       "publishedAt": "2026-11-10T14:06:54Z",
       "snippet": "Anthropic confirmed on Tuesday that its IPO could be one of the biggest ever, even while falling short of previous expectations. Its IPO price is expected to be between $70.00 and $78.00 per share, wh"
-    },
-    {
-      "title": "Adobe brings AI agents and new creative tools to Photoshop, Premiere, and Firefly",
-      "url": "https://techcrunch.com/2026/11/10/adobe-adds-more-ai-to-its-products-and-launches-an-mcp/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-11-10T14:05:10Z",
-      "snippet": "Adobe is taking on Figma with a new prototype builder tool in Firefly."
-    },
-    {
-      "title": "Anthropic sets IPO price range of $70 to $78 per share to reach an implied valuation of $1.404 trillion",
-      "url": "https://techcrunch.com/2026/11/10/anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuation-of-1-404-trillion/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-11-10T14:01:39Z",
-      "snippet": "The company could end up being worth a hefty $1.404 trillion if its shares list at the top of the price range, on a fully diluted basis."
-    },
-    {
-      "title": "Adobe is going all in on agentic AI",
-      "url": "https://www.theverge.com/tech/1030593/adobe-max-ai-agents-mcp-firefly-assistant-updates",
-      "source": "The Verge",
-      "publishedAt": "2026-11-10T14:00:00Z",
-      "snippet": "Adobe is committing itself to the notion that chatbots and AI agents could be your next design assistant, or even automate creative workflows and repetitive tasks on your behalf. Some of the tools and"
-    },
-    {
-      "title": "Photoshop, Lightroom, and Premiere are making it easier to remove things",
-      "url": "https://www.theverge.com/tech/1030653/adobe-max-2026-photoshop-premiere-removal-updates",
-      "source": "The Verge",
-      "publishedAt": "2026-11-10T14:00:00Z",
-      "snippet": "Adobe is expanding its Creative Cloud apps and Firefly AI platform with new capabilities that aim to make design and editing projects faster and less complicated. Some of the announcements from Adobe'"
-    },
-    {
-      "title": "After challenging Google\u2019s Android with Cyanogen, its co-founder takes aim at Windows for AI era",
-      "url": "https://techcrunch.com/2026/11/10/after-challenging-googles-android-with-cyanogen-its-co-founder-takes-aim-at-windows-for-ai-era/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-11-10T14:00:00Z",
-      "snippet": "Kora is set to launch as a free-to-use alternative to Windows, targeting users who rely heavily on AI models and agents."
-    },
-    {
-      "title": "Spotify\u2019s AI DJ gets new voices, personalities, and an option for less chatter",
-      "url": "https://techcrunch.com/2026/11/10/spotifys-ai-dj-gets-new-voices-personalities-and-an-option-for-less-chatter/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-11-10T14:00:00Z",
-      "snippet": "Spotify Premium users can now customize their AI DJ with new voices with different personalities, or turn off the commentary between songs."
-    },
-    {
-      "title": "Hands-on with Ring\u2019s new AI drone camera for your home",
-      "url": "https://www.theverge.com/tech/1030601/ring-drone-cam-hands-on-price-release-date-ai-pilot",
-      "source": "The Verge",
-      "publishedAt": "2026-11-10T13:30:00Z",
-      "snippet": "Ring is finally shipping a flying indoor drone camera. For real this time. The Ring Drone Cam will arrive on January 27th, 2027, for $249.99, Ring founder Jamie Siminoff said at a launch event in New "
     }
   ],
   "trending": [
     {
       "id": "DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
       "displayName": "Qwen3.8 27B TURBO Fable Cold Fusion 735 882 Heretic Uncensored NEO CODER MAX MTP",
-      "downloads": 1459029
+      "downloads": 1532273
     },
     {
       "id": "ccore/Qwen3.5-4B-3D-Coder",
       "displayName": "Qwen3.5 4B 3D Coder",
-      "downloads": 319405
+      "downloads": 344727
     },
     {
       "id": "webAI-Official/TwIL-8B",
       "displayName": "TwIL 8B",
-      "downloads": 43175
+      "downloads": 47087
     },
     {
       "id": "Viggle/Viggle-Remake",
       "displayName": "Viggle Remake",
-      "downloads": 115384
+      "downloads": 136241
     },
     {
       "id": "unsloth/Qwen3.8-Flash-Next-GGUF",
       "displayName": "Qwen3.8 Flash Next",
-      "downloads": 1816522
+      "downloads": 1968774
     },
     {
       "id": "VideoRebirthAI/hyperflow-h3-flash",
       "displayName": "hyperflow h3 flash",
-      "downloads": 110752
+      "downloads": 241579
     },
     {
       "id": "mradermacher/gemma-4-31B-it-ARA-heretic-GGUF",
       "displayName": "gemma 4 31B ARA heretic",
-      "downloads": 42215
-    },
-    {
-      "id": "ccore/Qwen3.5-4B-GLB-3D-Coder",
-      "displayName": "Qwen3.5 4B GLB 3D Coder",
-      "downloads": 43008
+      "downloads": 78183
     },
     {
       "id": "mradermacher/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic-i1-GGUF",
       "displayName": "DeepSeek V4 Pro Qwen3.5 9B UNCENSORED heretic i1",
-      "downloads": 249249
+      "downloads": 290001
+    },
+    {
+      "id": "ccore/Qwen3.5-4B-GLB-3D-Coder",
+      "displayName": "Qwen3.5 4B GLB 3D Coder",
+      "downloads": 46272
     },
     {
       "id": "Scantist/GLM-5.3-SLIM-GGUF",
       "displayName": "GLM 5.3 SLIM",
-      "downloads": 11066
+      "downloads": 13488
     }
   ]
 }
