@@ -1,6 +1,83 @@
 {
-  "updated": "2026-11-11T17:39:20Z",
+  "updated": "2026-11-11T23:58:29Z",
   "news": [
+    {
+      "title": "The unfolding Jensen Huang scandal: a timeline",
+      "url": "https://techcrunch.com/2026/11/11/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-11-11T23:50:00Z",
+      "snippet": "The affair could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure."
+    },
+    {
+      "title": "Nvidia\u2019s stock drops as board reportedly preps to oust CEO Jensen Huang",
+      "url": "https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-11-11T23:28:45Z",
+      "snippet": "As soon as Wednesday evening, Nvidia's board could decide to remove its founder and CEO of 33 years."
+    },
+    {
+      "title": "Jensen Huang accused of having another affair \u2014 with an Nvidia exec",
+      "url": "https://techcrunch.com/2026/11/11/jensen-huang-accused-of-having-another-affair-with-a-nvidia-exec/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-11-11T23:17:05Z",
+      "snippet": "Jensen Huang, who has come under fire for admitting to an affair with a woman accused of being a Chinese intelligence agent, has been accused of having a separate affair with an Nvidia subordinate."
+    },
+    {
+      "title": "Nvidia is reportedly preparing to fire Jensen Huang",
+      "url": "https://www.theverge.com/tech/1031652/jensen-huang-rumor",
+      "source": "The Verge",
+      "publishedAt": "2026-11-11T22:44:36Z",
+      "snippet": "Nvidia's board is preparing to dismiss CEO Jensen Huang following a report from the New York Times about a second alleged extramarital affair, just days after he admitted to a separate affair with a w"
+    },
+    {
+      "title": "United won\u2019t let your AI agent book your flight",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1031623/united-unauthorized-ai-agents",
+      "source": "The Verge",
+      "publishedAt": "2026-11-11T21:54:21Z",
+      "snippet": "United says it won't let personal AI assistants book tickets on the airline, citing both privacy and regulatory concerns. The company says it hasn't yet seen many people try to use AI agents to book t"
+    },
+    {
+      "title": "Why the data center you dread might never even be built",
+      "url": "https://techcrunch.com/video/why-the-data-center-you-dread-might-never-even-be-built/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-11-11T20:15:15Z",
+      "snippet": "The data center boom is running into serious real-world obstacles, from widespread local opposition and permitting delays to a scramble for electricity. Before those challenges even come into play, th"
+    },
+    {
+      "title": "Meta is losing its longtime head of  infrastructure",
+      "url": "https://techcrunch.com/2026/11/11/meta-is-losing-its-longtime-head-of-infrastructure/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-11-11T20:12:01Z",
+      "snippet": "Santosh Janardhan, who originally joined the company in 2009, will be stepping down from his role."
+    },
+    {
+      "title": "How backlash and red tape continue to slow data centers post-Blue Wave",
+      "url": "https://techcrunch.com/podcast/how-backlash-and-red-tape-continue-to-slow-data-centers-post-blue-wave/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-11-11T20:02:14Z",
+      "snippet": "The data center boom is running into serious real-world obstacles, from widespread local opposition and permitting delays to a scramble for electricity. Before those challenges even come into play, th"
+    },
+    {
+      "title": "CoreWeave turns to customer prepayments, shorter contracts to fund AI growth",
+      "url": "https://techcrunch.com/2026/11/11/coreweave-turns-to-customer-prepayments-shorter-contracts-to-fund-ai-growth/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-11-11T19:54:00Z",
+      "snippet": "CoreWeave is increasingly asking customers to pay upfront, borrowing against specific contracts, and even looking to short-term deals that could lead to higher prices, according to the company\u2019s third"
+    },
+    {
+      "title": "With $720M round, Britain\u2019s Fractile gets a leg up in the race for AI chips",
+      "url": "https://techcrunch.com/2026/11/11/with-720m-round-britains-fractile-gets-a-leg-up-in-the-race-for-ai-chips/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-11-11T19:34:55Z",
+      "snippet": "Fractile has now become one of the top-funded players in the race for purpose-built AI chips."
+    },
+    {
+      "title": "Congress to call Jensen Huang in to answer for alleged Chinese spy affair",
+      "url": "https://techcrunch.com/2026/11/11/congress-to-call-jensen-huang-in-to-answer-for-alleged-chinese-spy-affair/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-11-11T19:22:22Z",
+      "snippet": "Nvidia CEO Jensen Huang has until the end of the day Wednesday to answer a call from House Republicans for a closed-door briefing on his affair with alleged Chinese spy."
+    },
     {
       "title": "Is Jensen Huang\u2019s bad behavior more commonplace than it seems?",
       "url": "https://techcrunch.com/2026/11/11/is-jensen-huangs-bad-behavior-more-commonplace-than-it-seems/",
@@ -13,7 +90,7 @@
       "url": "https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time/",
       "source": "TechCrunch",
       "publishedAt": "2026-11-11T16:14:44Z",
-      "snippet": "Sales of $10B represents an almost 50% jump from revenue of $6.7 billion the company recorded in the second quarter."
+      "snippet": "Sales of $10 billion represents an almost 50% jump from revenue of $6.7 billion the company recorded in the second quarter."
     },
     {
       "title": "Google\u2019s Tabletop AI experiment lets you build custom collaboration apps",
@@ -34,7 +111,7 @@
       "url": "https://techcrunch.com/2026/11/11/databricks-new-ai-agent-tells-ceo-ali-ghodsi-the-unvarnished-truth/",
       "source": "TechCrunch",
       "publishedAt": "2026-11-11T15:00:00Z",
-      "snippet": "At 12,000 employees, AI Ghodsi is the first to admit that he can't know everyone and that they are unlikely to confess the things that go wrong to him. But he doesn't need them to. He uses Databricks'"
+      "snippet": "With Databricks at 12,000 employees, AI Ghodsi is the first to admit that he can't know everyone and that they are unlikely to confess the things that go wrong to him. But he doesn't need them to. He "
     },
     {
       "title": "Adobe\u2019s AI experiments let you walk around in photos and interview your characters",
@@ -65,46 +142,11 @@
       "snippet": "OpenAI has not yet said what its plans are for the future of travel. But Sonder founder Francis Davidson is a well-known figure in the travel industry."
     },
     {
-      "title": "OpenAI, Anthropic face new oversight as New York\u2019s AI safety law takes effect",
-      "url": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-11-10T20:52:13Z",
-      "snippet": "New York is preparing to enforce its sweeping AI safety law, requiring major developers like OpenAI and Anthropic to register, disclose safety practices, and report critical incidents or face fines."
-    },
-    {
-      "title": "All 7 Anthropic founders will each cash out about $250M in IPO",
-      "url": "https://techcrunch.com/2026/11/10/all-7-anthropic-founders-will-each-cash-out-about-250m-in-ipo/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-11-10T19:57:52Z",
-      "snippet": "Each of the seven co-founders plans to sell exactly the same number of shares in the IPO, which would bring each of them about $250 million in cash at the midpoint of the price range while leaving the"
-    },
-    {
-      "title": "Oura to acquire AI-native primary care startup Counsel Health for $625M",
-      "url": "https://techcrunch.com/2026/11/10/oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-11-10T19:23:34Z",
-      "snippet": "The deal comes a few weeks after Oura postponed its up to $2.2 billion IPO indefinitely, citing \u201cuncertainty in the IPO market.\u201d"
-    },
-    {
       "title": "The US is winning the AI race. Jensen Huang could have blown it",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1031063/jensen-huang-ai-race-us-china-spy",
       "source": "The Verge",
       "publishedAt": "2026-11-10T19:04:05Z",
       "snippet": "As espionage targets go, Jensen Huang is perhaps one of the least surprising on Earth. The Nvidia CEO runs one of the world's most valuable companies, controls the in-demand technology fueling the AI "
-    },
-    {
-      "title": "PSI is trying to make a business out of AI-driven scientific discovery",
-      "url": "https://techcrunch.com/2026/11/10/psi-is-trying-to-make-a-business-out-of-ai-driven-scientific-discovery/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-11-10T19:03:52Z",
-      "snippet": "PSI used an unreleased Anthropic model to answer a fundamental question about quantum computing that scientists have pursued for nearly two decades."
-    },
-    {
-      "title": "OpenAI rolls out new business profiles, making ChatGPT just a little bit more like Google",
-      "url": "https://techcrunch.com/2026/11/10/openai-rolls-out-new-business-profiles-making-chatgpt-just-a-little-bit-more-like-google/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-11-10T18:49:52Z",
-      "snippet": "OpenAI is looking to make ChatGPT a more robust consumer discovery engine, and a host of new features seek to empower businesses to help it do that."
     },
     {
       "title": "ChatGPT is getting verified AI \u2018Business Agents\u2019",
@@ -128,53 +170,11 @@
       "snippet": "For years, Anthropic has been known for its focus on enterprise and coding tools that attract high-flying corporate clients, inspiring competing frontier labs - like OpenAI, SpaceXSI, and Meta - to co"
     },
     {
-      "title": "Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks",
-      "url": "https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-11-10T17:30:00Z",
-      "snippet": "As participants talk, Claude can draft the plan being discussed, map out a timeline on a whiteboard, answer questions in the meeting chat, and access connected work apps to retrieve information, such "
-    },
-    {
-      "title": "Nvidia CEO Jensen Huang\u2019s affair with alleged Chinese spy: a timeline",
-      "url": "https://techcrunch.com/2026/11/10/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-11-10T17:04:19Z",
-      "snippet": "The affair could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure."
-    },
-    {
       "title": "eBay appears to have shut the door on third-party AI agents",
       "url": "https://www.theverge.com/tech/1030838/ebay-ai-agents-meta-muse-agentic-shopping",
       "source": "The Verge",
       "publishedAt": "2026-11-10T16:20:30Z",
       "snippet": "eBay appears to have blocked AI agents, including Meta's Muse, from browsing on the platform - the latest speed bump in the AI agent race. A reader tells The Verge that for several weeks he's had his "
-    },
-    {
-      "title": "Google releases Gemini 4 Carbon with agent \u2018swarm\u2019 feature",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1030787/google-gemini-4-carbon-public-rollout",
-      "source": "The Verge",
-      "publishedAt": "2026-11-10T16:00:00Z",
-      "snippet": "Google is rolling out its latest AI model, Gemini 4 Carbon, to the general public after releasing it to a select group of \"cybersecurity defenders\" two weeks ago. Google claims Carbon is its \"stronges"
-    },
-    {
-      "title": "Google broadens its AI hardware portfolio with two new specialized chips",
-      "url": "https://techcrunch.com/2026/11/10/google-broadens-its-ai-hardware-portfolio-with-two-new-specialized-chips/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-11-10T15:54:08Z",
-      "snippet": "Google's new tensor processing units (TPUs) broaden its chip portfolio to more use cases: confidential model training and more memory capacity."
-    },
-    {
-      "title": "Meta\u2019s AI agent Muse lands on Apple Watch and Android Wear OS",
-      "url": "https://techcrunch.com/2026/11/10/metas-ai-agent-muse-lands-on-apple-watch-and-wear-os/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-11-10T15:29:30Z",
-      "snippet": "Users can now interact with Meta\u2019s AI assistant through voice calls, text messages, or dictation on their Apple Watch."
-    },
-    {
-      "title": "Anthropic targets $1.4 trillion IPO",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1030703/anthropic-ipo-1-4-trillion",
-      "source": "The Verge",
-      "publishedAt": "2026-11-10T14:06:54Z",
-      "snippet": "Anthropic confirmed on Tuesday that its IPO could be one of the biggest ever, even while falling short of previous expectations. Its IPO price is expected to be between $70.00 and $78.00 per share, wh"
     }
   ],
   "trending": [
@@ -189,14 +189,14 @@
       "downloads": 344727
     },
     {
-      "id": "webAI-Official/TwIL-8B",
-      "displayName": "TwIL 8B",
-      "downloads": 47087
-    },
-    {
       "id": "Viggle/Viggle-Remake",
       "displayName": "Viggle Remake",
       "downloads": 136241
+    },
+    {
+      "id": "webAI-Official/TwIL-8B",
+      "displayName": "TwIL 8B",
+      "downloads": 47087
     },
     {
       "id": "unsloth/Qwen3.8-Flash-Next-GGUF",
@@ -224,9 +224,9 @@
       "downloads": 46272
     },
     {
-      "id": "Scantist/GLM-5.3-SLIM-GGUF",
-      "displayName": "GLM 5.3 SLIM",
-      "downloads": 13488
+      "id": "unsloth/Qwen3.8-27B-GGUF",
+      "displayName": "Qwen3.8 27B",
+      "downloads": 5924720
     }
   ]
 }
