@@ -1,19 +1,82 @@
 {
-  "updated": "2026-11-12T06:37:03Z",
+  "updated": "2026-11-12T16:30:39Z",
   "news": [
+    {
+      "title": "Trump floats Apple chairman Tim Cook as Jensen Huang\u2019s successor",
+      "url": "https://techcrunch.com/2026/11/12/trump-floats-apple-chairman-tim-cook-as-jensen-huangs-successor/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-11-12T16:12:44Z",
+      "snippet": "In a post on Truth Social, President Trump says only one man can take Jensen Huang's place as head of Nvidia: Tim Cook."
+    },
+    {
+      "title": "Read Nvidia\u2019s internal emails about the \u2018extraordinarily difficult period\u2019 amid CEO shakeup",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1032028/read-nvidias-internal-emails-jensen-huang",
+      "source": "The Verge",
+      "publishedAt": "2026-11-12T15:48:12Z",
+      "snippet": "Jensen Huang resigned as CEO of Nvidia this morning, a company he co-founded in 1993. The decision came following the company's board opening an investigation into multiple extramarital affairs Huang "
+    },
+    {
+      "title": "Jensen Huang is out at Nvidia \u2014 who is Colette Kress, his interim replacement?",
+      "url": "https://techcrunch.com/2026/11/12/jensen-huang-is-out-at-nvidia-who-is-colette-kress-his-interim-replacement/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-11-12T15:37:29Z",
+      "snippet": "Nvidia CFO Colette Kress is taking over as an interim replacement for longtime CEO Jensen Huang, who is embroiled in scandal."
+    },
+    {
+      "title": "Norwest pushes deeper into AI with new $4B fund",
+      "url": "https://techcrunch.com/2026/11/12/norwest-pushes-deeper-into-ai-with-new-4b-fund/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-11-12T15:18:14Z",
+      "snippet": "This is the investment firm's largest fund to date."
+    },
+    {
+      "title": "Cyberattack on Fireworks AI allowed hackers to access Notion customers\u2019 chat transcripts",
+      "url": "https://techcrunch.com/2026/11/12/cyberattack-on-fireworks-ai-allowed-hackers-to-access-notion-customers-chat-transcripts/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-11-12T15:02:28Z",
+      "snippet": "This is Fireworks' second data breach in as many months."
+    },
+    {
+      "title": "Nvidia CEO Jensen Huang has resigned. What happens next?",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
+      "source": "The Verge",
+      "publishedAt": "2026-11-12T15:01:31Z",
+      "snippet": "After the leather-jacketed CEO, president, and co-founder of Nvidia, Jensen Huang, acknowledged an affair with Megaspeed exec Alice Huang, his company initially announced an investigation. However, Th"
+    },
+    {
+      "title": "The unfolding Jensen Huang scandal: a timeline",
+      "url": "https://techcrunch.com/2026/11/12/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-11-12T14:30:01Z",
+      "snippet": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure."
+    },
+    {
+      "title": "I reviewed the Apple HomeView, ask me anything",
+      "url": "https://www.theverge.com/tech/1031868/i-reviewed-the-apple-homeview-ask-me-anything",
+      "source": "The Verge",
+      "publishedAt": "2026-11-12T14:10:00Z",
+      "snippet": "Hi! I'm Jen Tuohy, The Verge's senior smart home reviewer. I've tested every smart display Amazon and Google have ever made, and for the past week I've been testing Apple's first: The $299 HomeView. I"
+    },
+    {
+      "title": "Nvidia CEO Jensen Huang resigns amid spy, affair scandals",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1031689/jensen-huang-nvidia-ceo-resigns",
+      "source": "The Verge",
+      "publishedAt": "2026-11-12T13:53:16Z",
+      "snippet": "Nvidia's board announced that Jensen Huang - its longtime co-founder, president, and CEO - has resigned after reports of two extramarital affairs, one with an alleged Chinese spy and one with an Nvidi"
+    },
+    {
+      "title": "Nine Korean startups vie for a spot in Disrupt 2027\u2019s Startup Battlefield 200 competition",
+      "url": "https://techcrunch.com/2026/11/12/nine-korean-startups-vie-for-a-spot-in-disrupt-2027s-startup-battlefield-200-competition/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-11-12T13:26:25Z",
+      "snippet": "The startups work across the deep tech sector, including healthcare, fintech, energy, semiconductors, and AI. All nine are looking to enter the US."
+    },
     {
       "title": "Who could replace Jensen Huang? A highly unscientific list of possible successors",
       "url": "https://techcrunch.com/2026/11/11/who-could-replace-jensen-huang-a-highly-unscientific-list-of-possible-successors/",
       "source": "TechCrunch",
       "publishedAt": "2026-11-12T03:13:10Z",
       "snippet": "Nvidia has no succession plan and a CEO in hot water, so we\u2019ve drafted a shortlist."
-    },
-    {
-      "title": "The unfolding Jensen Huang scandal: a timeline",
-      "url": "https://techcrunch.com/2026/11/11/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-11-11T23:50:00Z",
-      "snippet": "The affair could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure."
     },
     {
       "title": "Nvidia\u2019s stock drops as board reportedly preps to oust CEO Jensen Huang",
@@ -34,7 +97,7 @@
       "url": "https://www.theverge.com/tech/1031652/jensen-huang-rumor",
       "source": "The Verge",
       "publishedAt": "2026-11-11T22:44:36Z",
-      "snippet": "Nvidia's board is preparing to dismiss CEO Jensen Huang following a report from the New York Times about a second alleged extramarital affair, just days after he admitted to a separate affair with a w"
+      "snippet": "Nvidia's board is preparing to dismiss CEO Jensen Huang following a report from The New York Times about a second alleged extramarital affair, just days after he admitted to a separate affair with a w"
     },
     {
       "title": "United won\u2019t let your AI agent book your flight",
@@ -86,20 +149,6 @@
       "snippet": "Nvidia CEO Jensen Huang has until the end of the day Wednesday to answer a call from House Republicans for a closed-door briefing on his affair with alleged Chinese spy."
     },
     {
-      "title": "Is Jensen Huang\u2019s bad behavior more commonplace than it seems?",
-      "url": "https://techcrunch.com/2026/11/11/is-jensen-huangs-bad-behavior-more-commonplace-than-it-seems/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-11-11T16:16:07Z",
-      "snippet": "\u201cThere are a lot of senior people in the industry that know this is happening, and are effectively condoning it,\u201d an investment intel consultant said."
-    },
-    {
-      "title": "OpenAI\u2019s quarterly revenue reportedly crosses $10B for the first time",
-      "url": "https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-11-11T16:14:44Z",
-      "snippet": "Sales of $10 billion represents an almost 50% jump from revenue of $6.7 billion the company recorded in the second quarter."
-    },
-    {
       "title": "Google\u2019s Tabletop AI experiment lets you build custom collaboration apps",
       "url": "https://www.theverge.com/tech/1031526/google-tabletop-ai-experiment-waitlist-availability",
       "source": "The Verge",
@@ -114,13 +163,6 @@
       "snippet": "Researchers at Google DeepMind have unveiled a new AI model designed to unravel how changes in our DNA affect different cells, giving scientists a more detailed view of a notoriously difficult problem"
     },
     {
-      "title": "Databricks\u2019 new AI agent tells CEO Ali Ghodsi the unvarnished truth",
-      "url": "https://techcrunch.com/2026/11/11/databricks-new-ai-agent-tells-ceo-ali-ghodsi-the-unvarnished-truth/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-11-11T15:00:00Z",
-      "snippet": "With Databricks at 12,000 employees, AI Ghodsi is the first to admit that he can't know everyone and that they are unlikely to confess the things that go wrong to him. But he doesn't need them to. He "
-    },
-    {
       "title": "Adobe\u2019s AI experiments let you walk around in photos and interview your characters",
       "url": "https://www.theverge.com/tech/1031505/adobe-max-2026-sneaks-experiments-ai",
       "source": "The Verge",
@@ -128,105 +170,63 @@
       "snippet": "Some of the most impressive tech that Adobe showcases at its annual Max conference each year is the experimental features it's developing, and the latest of those tools are being announced today: they"
     },
     {
-      "title": "Plurai wants to help AI agents work better using the same approach that helped get self-driving cars to roads",
-      "url": "https://techcrunch.com/2026/11/11/plurai-wants-to-help-ai-agents-work-better-using-the-same-approach-that-helped-get-self-driving-cars-to-roads/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-11-11T14:00:00Z",
-      "snippet": "Like the end-to-end models trained to drive cars, AI agents are probabilistic systems operating in unpredictable environments."
-    },
-    {
-      "title": "Nvidia\u2019s crisis has corporate governance experts reaching for the popcorn",
-      "url": "https://techcrunch.com/2026/11/10/nvidias-crisis-has-corporate-governance-experts-reaching-for-the-popcorn/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-11-11T07:30:51Z",
-      "snippet": "The governance experts we talked to say nobody has seen anything like what's unfolding right now."
-    },
-    {
       "title": "The US is winning the AI race. Jensen Huang could have blown it",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1031063/jensen-huang-ai-race-us-china-spy",
       "source": "The Verge",
       "publishedAt": "2026-11-10T19:04:05Z",
       "snippet": "As espionage targets go, Jensen Huang is perhaps one of the least surprising on Earth. The Nvidia CEO runs one of the world's most valuable companies, controls the in-demand technology fueling the AI "
-    },
-    {
-      "title": "ChatGPT is getting verified AI \u2018Business Agents\u2019",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1030552/openai-chatgpt-business-agents-hub",
-      "source": "The Verge",
-      "publishedAt": "2026-11-10T18:00:00Z",
-      "snippet": "ChatGPT is going to let you chat with verified \"Business Agents\" that represent a brand to help you with things like comparison shopping. The feature, available first to \"eligible\" e-commerce and onli"
-    },
-    {
-      "title": "The indie game community is in disarray over AI and Big Walk",
-      "url": "https://www.theverge.com/games/1030994/big-walk-independent-games-festival-igf-ai",
-      "source": "The Verge",
-      "publishedAt": "2026-11-10T17:32:47Z",
-      "snippet": "Some Independent Games Festival (IGF) jurors published a statement yesterday saying they would not vote for games that use generative AI in \"any capacity.\" Soon after, the developer of indie hit Big W"
-    },
-    {
-      "title": "Anthropic has its own AI-powered office suite now",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1030709/anthropic-has-its-own-ai-powered-office-suite-now",
-      "source": "The Verge",
-      "publishedAt": "2026-11-10T17:30:00Z",
-      "snippet": "For years, Anthropic has been known for its focus on enterprise and coding tools that attract high-flying corporate clients, inspiring competing frontier labs - like OpenAI, SpaceXSI, and Meta - to co"
-    },
-    {
-      "title": "eBay appears to have shut the door on third-party AI agents",
-      "url": "https://www.theverge.com/tech/1030838/ebay-ai-agents-meta-muse-agentic-shopping",
-      "source": "The Verge",
-      "publishedAt": "2026-11-10T16:20:30Z",
-      "snippet": "eBay appears to have blocked AI agents, including Meta's Muse, from browsing on the platform - the latest speed bump in the AI agent race. A reader tells The Verge that for several weeks he's had his "
     }
   ],
   "trending": [
     {
       "id": "DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
       "displayName": "Qwen3.8 27B TURBO Fable Cold Fusion 735 882 Heretic Uncensored NEO CODER MAX MTP",
-      "downloads": 1532273
+      "downloads": 1599836
     },
     {
       "id": "ccore/Qwen3.5-4B-3D-Coder",
       "displayName": "Qwen3.5 4B 3D Coder",
-      "downloads": 344727
+      "downloads": 368236
     },
     {
       "id": "Viggle/Viggle-Remake",
       "displayName": "Viggle Remake",
-      "downloads": 136241
-    },
-    {
-      "id": "webAI-Official/TwIL-8B",
-      "displayName": "TwIL 8B",
-      "downloads": 47087
-    },
-    {
-      "id": "unsloth/Qwen3.8-Flash-Next-GGUF",
-      "displayName": "Qwen3.8 Flash Next",
-      "downloads": 1968774
-    },
-    {
-      "id": "mradermacher/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic-i1-GGUF",
-      "displayName": "DeepSeek V4 Pro Qwen3.5 9B UNCENSORED heretic i1",
-      "downloads": 290001
+      "downloads": 152819
     },
     {
       "id": "VideoRebirthAI/hyperflow-h3-flash",
       "displayName": "hyperflow h3 flash",
-      "downloads": 241579
+      "downloads": 326487
+    },
+    {
+      "id": "unsloth/Qwen3.8-Flash-Next-GGUF",
+      "displayName": "Qwen3.8 Flash Next",
+      "downloads": 2146470
     },
     {
       "id": "mradermacher/gemma-4-31B-it-ARA-heretic-GGUF",
       "displayName": "gemma 4 31B ARA heretic",
-      "downloads": 78183
+      "downloads": 96342
+    },
+    {
+      "id": "webAI-Official/TwIL-8B",
+      "displayName": "TwIL 8B",
+      "downloads": 49861
     },
     {
       "id": "unsloth/Qwen3.8-27B-GGUF",
       "displayName": "Qwen3.8 27B",
-      "downloads": 5924720
+      "downloads": 6097719
     },
     {
-      "id": "ccore/Qwen3.5-4B-GLB-3D-Coder",
-      "displayName": "Qwen3.5 4B GLB 3D Coder",
-      "downloads": 46272
+      "id": "Zyphra/ZONOS3-Mini",
+      "displayName": "ZONOS3 Mini",
+      "downloads": 8543
+    },
+    {
+      "id": "SC117/Qwen3.8-Flash-Next-GSQ-RCO-abliterated-GGUF",
+      "displayName": "Qwen3.8 Flash Next GSQ RCO abliterated",
+      "downloads": 4120281
     }
   ]
 }
