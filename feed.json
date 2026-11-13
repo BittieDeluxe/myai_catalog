@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-12T23:08:03Z",
+  "updated": "2026-11-13T04:49:39Z",
   "news": [
     {
       "title": "Democrats launch Nvidia investigation, write scathing letter on Huang\u2019s \u2018scheme\u2019 with Trump",
@@ -9,11 +9,11 @@
       "snippet": "This Congressional investigation into Nvidia's China sales and its dealings with Trump is the second one, so far, since news of the alleged spy affair broke."
     },
     {
-      "title": "Muse can now place calls to U.S. businesses \u2014 if you pay",
+      "title": "Muse can now place calls to US businesses \u2014 if you pay",
       "url": "https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay/",
       "source": "TechCrunch",
       "publishedAt": "2026-11-12T22:22:28Z",
-      "snippet": "Muse's AI can now place outbound calls to US businesses \u2014 but it's not free."
+      "snippet": "Muse's AI can now place outbound calls to U.S. businesses \u2014 but it's not free."
     },
     {
       "title": "Google\u2019s new Gemini model is better at understanding complicated questions",
@@ -189,19 +189,14 @@
       "downloads": 368236
     },
     {
-      "id": "Viggle/Viggle-Remake",
-      "displayName": "Viggle Remake",
-      "downloads": 152819
-    },
-    {
       "id": "VideoRebirthAI/hyperflow-h3-flash",
       "displayName": "hyperflow h3 flash",
       "downloads": 326487
     },
     {
-      "id": "mradermacher/gemma-4-31B-it-ARA-heretic-GGUF",
-      "displayName": "gemma 4 31B ARA heretic",
-      "downloads": 96342
+      "id": "Viggle/Viggle-Remake",
+      "displayName": "Viggle Remake",
+      "downloads": 152819
     },
     {
       "id": "unsloth/Qwen3.8-27B-GGUF",
@@ -209,14 +204,19 @@
       "downloads": 6097719
     },
     {
-      "id": "unsloth/Qwen3.8-Flash-Next-GGUF",
-      "displayName": "Qwen3.8 Flash Next",
-      "downloads": 2146470
-    },
-    {
       "id": "Zyphra/ZONOS3-Mini",
       "displayName": "ZONOS3 Mini",
       "downloads": 8543
+    },
+    {
+      "id": "mradermacher/gemma-4-31B-it-ARA-heretic-GGUF",
+      "displayName": "gemma 4 31B ARA heretic",
+      "downloads": 96342
+    },
+    {
+      "id": "unsloth/Qwen3.8-Flash-Next-GGUF",
+      "displayName": "Qwen3.8 Flash Next",
+      "downloads": 2146470
     },
     {
       "id": "webAI-Official/TwIL-8B",
