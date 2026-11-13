@@ -1,6 +1,55 @@
 {
-  "updated": "2026-11-13T13:50:22Z",
+  "updated": "2026-11-13T20:44:00Z",
   "news": [
+    {
+      "title": "AI agent startup LangChain hits $3B valuation",
+      "url": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-11-13T19:37:57Z",
+      "snippet": "LangChain now claims 7,000 customers of its model and platform agnostic agent management tool LangSmith."
+    },
+    {
+      "title": "Export-banned Nvidia chips are behind China\u2019s most powerful AI models \u2014 uh oh, Jensen!",
+      "url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-11-13T18:40:30Z",
+      "snippet": "New research shows the most advanced AI models from China were trained on banned Nvidia chips."
+    },
+    {
+      "title": "ChatGPT\u2019s new Wallet lets AI agents shop and check out for you",
+      "url": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-11-13T16:00:12Z",
+      "snippet": "ChatGPT Wallet lets AI agents shop and check out on users' behalf, starting with a limited rollout to U.S. Pro subscribers."
+    },
+    {
+      "title": "The unfolding Jensen Huang scandal: a timeline",
+      "url": "https://techcrunch.com/2026/11/13/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-11-13T15:58:00Z",
+      "snippet": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure."
+    },
+    {
+      "title": "What\u2019s really at stake in the Jensen Huang saga",
+      "url": "https://www.theverge.com/podcast/1032866/jensen-huang-nvidia-china-trump-vergecast",
+      "source": "The Verge",
+      "publishedAt": "2026-11-13T14:47:16Z",
+      "snippet": "One part of the saga surrounding Nvidia CEO Jensen Huang ended on Thursday, when Huang resigned from his position at the top of AI's most important company. But in the coming weeks and months, a much "
+    },
+    {
+      "title": "ElevenLabs\u2019 new app combines meeting note-taking and dictation for teams",
+      "url": "https://techcrunch.com/2026/11/13/elevenlabs-new-app-combines-meeting-note-taking-and-dictation-for-teams/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-11-13T14:44:48Z",
+      "snippet": "ElevenAI is a new meeting notetaker and dictation app aimed at teams and enterprises."
+    },
+    {
+      "title": "Claude\u2019s Duet agent is a little neurotic and surprisingly helpful",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1032518/claude-duet-ai-agent-hands-on",
+      "source": "The Verge",
+      "publishedAt": "2026-11-13T14:00:00Z",
+      "snippet": "Normally, the products I test don't offer to help me write up my experience with them. Duet is different. Claude Duet is Anthropic's AI agent for consumers, the latest attempt by an AI company to try "
+    },
     {
       "title": "Israel\u2019s VCs see opportunity for challengers in Nvidia\u2019s turmoil",
       "url": "https://techcrunch.com/2026/11/13/israels-vcs-see-opportunity-for-challengers-in-nvidias-turmoil/",
@@ -42,13 +91,6 @@
       "source": "The Verge",
       "publishedAt": "2026-11-12T21:55:32Z",
       "snippet": "Google says its new Gemini 4 Hydrogen model can give more helpful answers to complex questions, including \"questions with multiple parts, hard-to-understand typos, or highly specific requests.\" The ne"
-    },
-    {
-      "title": "The unfolding Jensen Huang scandal: a timeline",
-      "url": "https://techcrunch.com/2026/11/12/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-11-12T21:35:00Z",
-      "snippet": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure."
     },
     {
       "title": "Nebius tests the neocloud playbook with $40 billion in planned spending",
@@ -114,20 +156,6 @@
       "snippet": "Hugging Face's CEO pledged to keep fighting for open source AI after Huang's exit, raising questions about Nvidia's $12.9 billion acquisition."
     },
     {
-      "title": "United Airlines blocks AI agents from booking flights, citing cybersecurity risks",
-      "url": "https://techcrunch.com/2026/11/12/united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecurity-risks/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-11-12T17:17:58Z",
-      "snippet": "The airline said it will not allow customers to use AI agents to book flights and manage reservations."
-    },
-    {
-      "title": "SoftBank\u2019s billion-dollar loss may have put a cap on AI\u2019s natural gas ambitions",
-      "url": "https://techcrunch.com/2026/11/12/softbanks-billion-dollar-loss-may-have-put-a-cap-on-ais-natural-gas-ambitions/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-11-12T17:00:52Z",
-      "snippet": "SoftBank lost over $3 billion preordering natural gas turbines to power AI data centers. Here's what the loss means to power markets."
-    },
-    {
       "title": "AI chatbots are recommending fake retail websites, study finds",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1032020/gemini-chatgpt-perplexity-shopping-test-risky-fake-websites-citations",
       "source": "The Verge",
@@ -142,39 +170,11 @@
       "snippet": "More video game developers are using generative AI tools in their jobs compared to last year, according to the GDC Festival of Gaming's latest annual industry survey. Forty percent of developers surve"
     },
     {
-      "title": "Phota Labs uses AI to turn everyday photos into professional-looking shots",
-      "url": "https://techcrunch.com/2026/11/12/phota-labs-uses-ai-to-turn-everyday-photos-into-professional-looking-shots/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-11-12T17:00:00Z",
-      "snippet": "Rather than giving consumers yet another photo-editing tool, Phota Labs aims to use advances in AI to automate the editing process so it\u2019s easier for anyone to turn everyday moments into better photos"
-    },
-    {
-      "title": "Jensen Huang agrees to testify before Congress",
-      "url": "https://techcrunch.com/2026/11/12/jensen-huang-agrees-to-testify-before-congress/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-11-12T16:36:37Z",
-      "snippet": "Huang, who was ousted as CEO following reports of an alleged affair with a woman suspected of spying for China, agreed to testify Wednesday after several senior lawmakers threatened to subpoena him."
-    },
-    {
       "title": "Jensen Huang is out. What did China want from him?",
       "url": "https://www.theverge.com/podcast/1031260/nvidia-jensen-huang-resign-china-spy-scandal-ai-chips-trump",
       "source": "The Verge",
       "publishedAt": "2026-11-12T16:30:00Z",
       "snippet": "Today, we\u2019re talking about the Jensen Huang scandal at Nvidia, which is developing so quickly that we had to do an emergency update of this intro minutes before publishing this episode. Huang just res"
-    },
-    {
-      "title": "Read Nvidia\u2019s internal emails about the \u2018extraordinarily difficult period\u2019 amid CEO shakeup",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1032028/read-nvidias-internal-emails-jensen-huang",
-      "source": "The Verge",
-      "publishedAt": "2026-11-12T15:48:12Z",
-      "snippet": "Jensen Huang resigned as CEO of Nvidia this morning, a company he co-founded in 1993. The decision came following the company's board opening an investigation into multiple extramarital affairs Huang "
-    },
-    {
-      "title": "Nvidia CEO Jensen Huang has resigned. What happens next?",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
-      "source": "The Verge",
-      "publishedAt": "2026-11-12T15:01:31Z",
-      "snippet": "After the leather-jacketed CEO, president, and co-founder of Nvidia, Jensen Huang, acknowledged an affair with Megaspeed exec Alice Huang, his company initially announced an investigation. However, Th"
     }
   ],
   "trending": [
@@ -189,11 +189,6 @@
       "downloads": 392582
     },
     {
-      "id": "VideoRebirthAI/hyperflow-h3-flash",
-      "displayName": "hyperflow h3 flash",
-      "downloads": 389065
-    },
-    {
       "id": "Zyphra/ZONOS3-Mini",
       "displayName": "ZONOS3 Mini",
       "downloads": 13068
@@ -202,6 +197,11 @@
       "id": "unsloth/Qwen3.8-27B-GGUF",
       "displayName": "Qwen3.8 27B",
       "downloads": 6253865
+    },
+    {
+      "id": "VideoRebirthAI/hyperflow-h3-flash",
+      "displayName": "hyperflow h3 flash",
+      "downloads": 389065
     },
     {
       "id": "Viggle/Viggle-Remake",
