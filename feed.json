@@ -1,6 +1,27 @@
 {
-  "updated": "2026-11-13T04:49:39Z",
+  "updated": "2026-11-13T13:50:22Z",
   "news": [
+    {
+      "title": "Israel\u2019s VCs see opportunity for challengers in Nvidia\u2019s turmoil",
+      "url": "https://techcrunch.com/2026/11/13/israels-vcs-see-opportunity-for-challengers-in-nvidias-turmoil/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-11-13T12:52:19Z",
+      "snippet": "Given Nvidia\u2019s stronghold on AI and its importance in Israel, many in the country's startup ecosystem are worried about the impact of his departure."
+    },
+    {
+      "title": "Jensen Huang didn\u2019t show confidence in his successor, report says",
+      "url": "https://techcrunch.com/2026/11/13/jensen-huang-didnt-show-confidence-in-his-successor-report-says/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-11-13T12:28:23Z",
+      "snippet": "Huang described Kress as a \"deer in the headlights\" during a meeting in summer."
+    },
+    {
+      "title": "Let\u2019s talk about Jensen Huang\u2019s many affairs!",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1032339/lets-talk-about-the-nvidia-shitshow",
+      "source": "The Verge",
+      "publishedAt": "2026-11-13T12:00:00Z",
+      "snippet": "Usually, we'd be offering to answer your questions about a news event, but honestly we don't really have any answers about what the hell is going on over at Nvidia. I can't speak for Nilay but at the "
+    },
     {
       "title": "Democrats launch Nvidia investigation, write scathing letter on Huang\u2019s \u2018scheme\u2019 with Trump",
       "url": "https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/",
@@ -135,25 +156,11 @@
       "snippet": "Huang, who was ousted as CEO following reports of an alleged affair with a woman suspected of spying for China, agreed to testify Wednesday after several senior lawmakers threatened to subpoena him."
     },
     {
-      "title": "Five ways Jensen Huang\u2019s ouster from Nvidia could damage the AI industry",
-      "url": "https://techcrunch.com/2026/11/12/five-ways-jensen-huangs-ouster-from-nvidia-could-damage-the-ai-industry/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-11-12T16:32:33Z",
-      "snippet": "Nvidia's ousted CEO Jensen Huang's downfall isn\u2019t just your run-of-the-mill salacious billionaire sex scandal. He was using his influence to push the AI industry in some very specific ways."
-    },
-    {
       "title": "Jensen Huang is out. What did China want from him?",
       "url": "https://www.theverge.com/podcast/1031260/nvidia-jensen-huang-resign-china-spy-scandal-ai-chips-trump",
       "source": "The Verge",
       "publishedAt": "2026-11-12T16:30:00Z",
       "snippet": "Today, we\u2019re talking about the Jensen Huang scandal at Nvidia, which is developing so quickly that we had to do an emergency update of this intro minutes before publishing this episode. Huang just res"
-    },
-    {
-      "title": "Trump floats Apple chairman Tim Cook as Jensen Huang\u2019s successor",
-      "url": "https://techcrunch.com/2026/11/12/trump-floats-apple-chairman-tim-cook-as-jensen-huangs-successor/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-11-12T16:12:44Z",
-      "snippet": "In a post on Truth Social, President Trump says only one man can take Jensen Huang's place as head of Nvidia: Tim Cook."
     },
     {
       "title": "Read Nvidia\u2019s internal emails about the \u2018extraordinarily difficult period\u2019 amid CEO shakeup",
@@ -168,65 +175,58 @@
       "source": "The Verge",
       "publishedAt": "2026-11-12T15:01:31Z",
       "snippet": "After the leather-jacketed CEO, president, and co-founder of Nvidia, Jensen Huang, acknowledged an affair with Megaspeed exec Alice Huang, his company initially announced an investigation. However, Th"
-    },
-    {
-      "title": "I reviewed the Apple HomeView, ask me anything",
-      "url": "https://www.theverge.com/tech/1031868/i-reviewed-the-apple-homeview-ask-me-anything",
-      "source": "The Verge",
-      "publishedAt": "2026-11-12T14:10:00Z",
-      "snippet": "Hi! I'm Jen Tuohy, The Verge's senior smart home reviewer. I've tested every smart display Amazon and Google have ever made, and for the past week I've been testing Apple's first: The $299 HomeView. I"
     }
   ],
   "trending": [
     {
       "id": "DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
       "displayName": "Qwen3.8 27B TURBO Fable Cold Fusion 735 882 Heretic Uncensored NEO CODER MAX MTP",
-      "downloads": 1599836
+      "downloads": 1639400
     },
     {
       "id": "ccore/Qwen3.5-4B-3D-Coder",
       "displayName": "Qwen3.5 4B 3D Coder",
-      "downloads": 368236
+      "downloads": 392582
     },
     {
       "id": "VideoRebirthAI/hyperflow-h3-flash",
       "displayName": "hyperflow h3 flash",
-      "downloads": 326487
-    },
-    {
-      "id": "Viggle/Viggle-Remake",
-      "displayName": "Viggle Remake",
-      "downloads": 152819
-    },
-    {
-      "id": "unsloth/Qwen3.8-27B-GGUF",
-      "displayName": "Qwen3.8 27B",
-      "downloads": 6097719
+      "downloads": 389065
     },
     {
       "id": "Zyphra/ZONOS3-Mini",
       "displayName": "ZONOS3 Mini",
-      "downloads": 8543
+      "downloads": 13068
+    },
+    {
+      "id": "unsloth/Qwen3.8-27B-GGUF",
+      "displayName": "Qwen3.8 27B",
+      "downloads": 6253865
+    },
+    {
+      "id": "Viggle/Viggle-Remake",
+      "displayName": "Viggle Remake",
+      "downloads": 183188
     },
     {
       "id": "mradermacher/gemma-4-31B-it-ARA-heretic-GGUF",
       "displayName": "gemma 4 31B ARA heretic",
-      "downloads": 96342
+      "downloads": 105256
     },
     {
       "id": "unsloth/Qwen3.8-Flash-Next-GGUF",
       "displayName": "Qwen3.8 Flash Next",
-      "downloads": 2146470
-    },
-    {
-      "id": "webAI-Official/TwIL-8B",
-      "displayName": "TwIL 8B",
-      "downloads": 49861
+      "downloads": 2322693
     },
     {
       "id": "Scantist/GLM-5.3-SLIM-GGUF",
       "displayName": "GLM 5.3 SLIM",
-      "downloads": 15693
+      "downloads": 18066
+    },
+    {
+      "id": "SC117/Qwen3.8-Flash-Next-GSQ-RCO-abliterated-GGUF",
+      "displayName": "Qwen3.8 Flash Next GSQ RCO abliterated",
+      "downloads": 4081896
     }
   ]
 }
