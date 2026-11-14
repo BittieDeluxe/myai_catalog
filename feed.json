@@ -1,6 +1,27 @@
 {
-  "updated": "2026-11-13T20:44:00Z",
+  "updated": "2026-11-14T01:56:51Z",
   "news": [
+    {
+      "title": "Amazon has a plan to index the world\u2019s online shopping data",
+      "url": "https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search",
+      "source": "The Verge",
+      "publishedAt": "2026-11-13T23:49:11Z",
+      "snippet": "Amazon has plans to build a vault of data on every product sold anywhere on the internet, even products Amazon doesn't sell, and make the information available through its own site, according to Reute"
+    },
+    {
+      "title": "Jensen Huang\u2019s departure blasts big hole in AI startup funding, VCs and founders say",
+      "url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-11-13T22:43:00Z",
+      "snippet": "Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations."
+    },
+    {
+      "title": "ChatGPT Wallet lets OpenAI\u2019s Dots agents make purchases for you",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet",
+      "source": "The Verge",
+      "publishedAt": "2026-11-13T20:45:10Z",
+      "snippet": "After launching its Dots AI agents platform earlier this year, OpenAI is launching a wallet for the agents. ChatGPT Wallet is rolling out starting today for ChatGPT Pro subscribers in the US aged 18 a"
+    },
     {
       "title": "AI agent startup LangChain hits $3B valuation",
       "url": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
@@ -9,7 +30,7 @@
       "snippet": "LangChain now claims 7,000 customers of its model and platform agnostic agent management tool LangSmith."
     },
     {
-      "title": "Export-banned Nvidia chips are behind China\u2019s most powerful AI models \u2014 uh oh, Jensen!",
+      "title": "Export-banned Nvidia chips are behind China\u2019s most powerful AI models \u2014 uh-oh, Jensen!",
       "url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
       "source": "TechCrunch",
       "publishedAt": "2026-11-13T18:40:30Z",
@@ -149,32 +170,11 @@
       "snippet": "I was certain, until the story of Jensen Huang's second affair hit, that Huang was bulletproof. After all, why wouldn't he be? He's placed himself indispensably at the center of the AI industry and fa"
     },
     {
-      "title": "Hugging Face CEO vows to keep fighting for open source AI after Jensen Huang\u2019s exit",
-      "url": "https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-11-12T17:36:40Z",
-      "snippet": "Hugging Face's CEO pledged to keep fighting for open source AI after Huang's exit, raising questions about Nvidia's $12.9 billion acquisition."
-    },
-    {
       "title": "AI chatbots are recommending fake retail websites, study finds",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1032020/gemini-chatgpt-perplexity-shopping-test-risky-fake-websites-citations",
       "source": "The Verge",
       "publishedAt": "2026-11-12T17:00:00Z",
       "snippet": "Shoppers using AI chatbots to research products or find places to buy items could be directed to imposters and other risky websites, a new study found. The study conducted by IP protection firm Podqi "
-    },
-    {
-      "title": "More game developers are starting to use generative AI",
-      "url": "https://www.theverge.com/games/1032085/gdc-festival-of-gaming-annual-survey-ai-layoffs",
-      "source": "The Verge",
-      "publishedAt": "2026-11-12T17:00:00Z",
-      "snippet": "More video game developers are using generative AI tools in their jobs compared to last year, according to the GDC Festival of Gaming's latest annual industry survey. Forty percent of developers surve"
-    },
-    {
-      "title": "Jensen Huang is out. What did China want from him?",
-      "url": "https://www.theverge.com/podcast/1031260/nvidia-jensen-huang-resign-china-spy-scandal-ai-chips-trump",
-      "source": "The Verge",
-      "publishedAt": "2026-11-12T16:30:00Z",
-      "snippet": "Today, we\u2019re talking about the Jensen Huang scandal at Nvidia, which is developing so quickly that we had to do an emergency update of this intro minutes before publishing this episode. Huang just res"
     }
   ],
   "trending": [
@@ -184,19 +184,24 @@
       "downloads": 1639400
     },
     {
-      "id": "ccore/Qwen3.5-4B-3D-Coder",
-      "displayName": "Qwen3.5 4B 3D Coder",
-      "downloads": 392582
-    },
-    {
       "id": "Zyphra/ZONOS3-Mini",
       "displayName": "ZONOS3 Mini",
       "downloads": 13068
     },
     {
+      "id": "ccore/Qwen3.5-4B-3D-Coder",
+      "displayName": "Qwen3.5 4B 3D Coder",
+      "downloads": 392582
+    },
+    {
       "id": "unsloth/Qwen3.8-27B-GGUF",
       "displayName": "Qwen3.8 27B",
       "downloads": 6253865
+    },
+    {
+      "id": "mradermacher/gemma-4-31B-it-ARA-heretic-GGUF",
+      "displayName": "gemma 4 31B ARA heretic",
+      "downloads": 105256
     },
     {
       "id": "VideoRebirthAI/hyperflow-h3-flash",
@@ -209,24 +214,19 @@
       "downloads": 183188
     },
     {
-      "id": "mradermacher/gemma-4-31B-it-ARA-heretic-GGUF",
-      "displayName": "gemma 4 31B ARA heretic",
-      "downloads": 105256
-    },
-    {
       "id": "unsloth/Qwen3.8-Flash-Next-GGUF",
       "displayName": "Qwen3.8 Flash Next",
       "downloads": 2322693
     },
     {
-      "id": "Scantist/GLM-5.3-SLIM-GGUF",
-      "displayName": "GLM 5.3 SLIM",
-      "downloads": 18066
-    },
-    {
       "id": "SC117/Qwen3.8-Flash-Next-GSQ-RCO-abliterated-GGUF",
       "displayName": "Qwen3.8 Flash Next GSQ RCO abliterated",
       "downloads": 4081896
+    },
+    {
+      "id": "huihui-ai/Huihui-Qwen3.8-27B-abliterated-GGUF",
+      "displayName": "Huihui Qwen3.8 27B abliterated",
+      "downloads": 4051917
     }
   ]
 }
