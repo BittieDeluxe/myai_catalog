@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-14T01:56:51Z",
+  "updated": "2026-11-14T08:40:01Z",
   "news": [
     {
       "title": "Amazon has a plan to index the world\u2019s online shopping data",
@@ -214,19 +214,19 @@
       "downloads": 183188
     },
     {
-      "id": "unsloth/Qwen3.8-Flash-Next-GGUF",
-      "displayName": "Qwen3.8 Flash Next",
-      "downloads": 2322693
+      "id": "chatrlabs/Qwen-Image-2.1-Uncensored-Omni-Quantized",
+      "displayName": "Qwen Image 2.1 Uncensored Omni Quantized",
+      "downloads": 68096
     },
     {
-      "id": "SC117/Qwen3.8-Flash-Next-GSQ-RCO-abliterated-GGUF",
-      "displayName": "Qwen3.8 Flash Next GSQ RCO abliterated",
-      "downloads": 4081896
+      "id": "Edge0/Edge0-145B-NVFP4",
+      "displayName": "Edge0 145B NVFP4",
+      "downloads": 14134
     },
     {
-      "id": "huihui-ai/Huihui-Qwen3.8-27B-abliterated-GGUF",
-      "displayName": "Huihui Qwen3.8 27B abliterated",
-      "downloads": 4051917
+      "id": "DavidAU/Qwen3.5-9B-The-Defiant-Fable-Uncensored-Heretic-NEO-IMATRIX-MAX-MTP-GGUF",
+      "displayName": "Qwen3.5 9B The Defiant Fable Uncensored Heretic NEO IMATRIX MAX MTP",
+      "downloads": 2137747
     }
   ]
 }
