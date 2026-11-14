@@ -1,6 +1,27 @@
 {
-  "updated": "2026-11-14T16:19:49Z",
+  "updated": "2026-11-14T21:55:07Z",
   "news": [
+    {
+      "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
+      "url": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-11-14T21:41:22Z",
+      "snippet": "The petition had attracted more than 115,000 signatures as of Saturday afternoon."
+    },
+    {
+      "title": "The AI graveyard: a running list of projects and startups that didn\u2019t make it",
+      "url": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-11-14T17:30:00Z",
+      "snippet": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations."
+    },
+    {
+      "title": "Asian governments react to Nvidia CEO Jensen Huang\u2019s exit",
+      "url": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-11-14T16:34:15Z",
+      "snippet": "Some governments moved to confirm chip supply commitments, while others are monitoring the impact on local projects or addressing ongoing investigations."
+    },
     {
       "title": "The OpenAI board member who fired Sam Altman says we still can\u2019t trust AI CEOs",
       "url": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview",
@@ -149,27 +170,6 @@
       "snippet": "Armed with a team of AI agents, Google researcher Pietro Miotti claimed earlier this week to have discovered a potentially unmapped Maya site in Mexico. There was just one problem: The site had alread"
     },
     {
-      "title": "Google\u2019s latest Search upgrade promises better answers to your most complicated questions",
-      "url": "https://techcrunch.com/2026/11/12/googles-latest-search-upgrade-promises-better-answers-to-your-most-complicated-questions/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-11-12T19:27:45Z",
-      "snippet": "Powered by Gemini 4 Hydrogen, Google's AI Mode is getting better at understanding complex queries, surfacing relevant links, and delivering richer visual responses."
-    },
-    {
-      "title": "Nectar launches an AI agent to automate creator discovery and outreach for brands",
-      "url": "https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-11-12T19:11:00Z",
-      "snippet": "Nectar's new AI agent automates influencer marketing, helping brands discover creators, manage outreach and partnerships, and track campaign results."
-    },
-    {
-      "title": "Jensen Huang\u2019s exit puts Nvidia\u2019s support for open source in question",
-      "url": "https://techcrunch.com/2026/11/12/jensen-huangs-exit-puts-nvidias-support-for-open-source-in-question/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-11-12T18:39:23Z",
-      "snippet": "Jensen Huang\u2019s resignation raises questions about Nvidia\u2019s commitment to open source AI, including its Hugging Face acquisition, open-weight models, and advocacy against restrictions, as the company n"
-    },
-    {
       "title": "Oh, Palantir is \u2018progressive\u2019 now, is it?",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1032126/alex-baby-you-were-recorded-on-video",
       "source": "The Verge",
@@ -209,11 +209,6 @@
       "downloads": 96251
     },
     {
-      "id": "ccore/Qwen3.5-4B-3D-Coder",
-      "displayName": "Qwen3.5 4B 3D Coder",
-      "downloads": 416680
-    },
-    {
       "id": "Viggle/Viggle-Remake",
       "displayName": "Viggle Remake",
       "downloads": 196821
@@ -222,6 +217,11 @@
       "id": "VideoRebirthAI/hyperflow-h3-flash",
       "displayName": "hyperflow h3 flash",
       "downloads": 440150
+    },
+    {
+      "id": "DavidAU/Qwen3.5-9B-The-Defiant-Fable-Uncensored-Heretic-NEO-IMATRIX-MAX-MTP-GGUF",
+      "displayName": "Qwen3.5 9B The Defiant Fable Uncensored Heretic NEO IMATRIX MAX MTP",
+      "downloads": 2139868
     },
     {
       "id": "huihui-ai/Huihui-Qwen3.8-27B-abliterated-GGUF",
