@@ -1,6 +1,13 @@
 {
-  "updated": "2026-11-15T08:45:19Z",
+  "updated": "2026-11-15T16:45:32Z",
   "news": [
+    {
+      "title": "An overview of Jensen Huang\u2019s messy days",
+      "url": "https://www.theverge.com/column/1033943/jensen-huang-nvidia-china-spying-scandal-resignation",
+      "source": "The Verge",
+      "publishedAt": "2026-11-15T13:00:00Z",
+      "snippet": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on Jensen Huang's resignation and the fallout from Nvidia's leadership crisis, follow Terrence"
+    },
     {
       "title": "Where was Nvidia\u2019s security team?",
       "url": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
@@ -168,65 +175,58 @@
       "source": "The Verge",
       "publishedAt": "2026-11-12T19:42:40Z",
       "snippet": "Armed with a team of AI agents, Google researcher Pietro Miotti claimed earlier this week to have discovered a potentially unmapped Maya site in Mexico. There was just one problem: The site had alread"
-    },
-    {
-      "title": "Oh, Palantir is \u2018progressive\u2019 now, is it?",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1032126/alex-baby-you-were-recorded-on-video",
-      "source": "The Verge",
-      "publishedAt": "2026-11-12T18:06:54Z",
-      "snippet": "I had other things to do today, but Alex Karp's pathetic attempt to pivot back to the left gave me no choice but to put them on hold. Last week's elections were a bloodbath for the right, a problem fo"
     }
   ],
   "trending": [
     {
       "id": "DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
       "displayName": "Qwen3.8 27B TURBO Fable Cold Fusion 735 882 Heretic Uncensored NEO CODER MAX MTP",
-      "downloads": 1657783
+      "downloads": 1708637
     },
     {
       "id": "Zyphra/ZONOS3-Mini",
       "displayName": "ZONOS3 Mini",
-      "downloads": 19743
+      "downloads": 39862
     },
     {
       "id": "unsloth/Qwen3.8-27B-GGUF",
       "displayName": "Qwen3.8 27B",
-      "downloads": 6422783
+      "downloads": 6566295
     },
     {
       "id": "Edge0/Edge0-145B-NVFP4",
       "displayName": "Edge0 145B NVFP4",
-      "downloads": 33819
+      "downloads": 41606
     },
     {
       "id": "mradermacher/gemma-4-31B-it-ARA-heretic-GGUF",
       "displayName": "gemma 4 31B ARA heretic",
-      "downloads": 116423
+      "downloads": 149532
     },
     {
       "id": "chatrlabs/Qwen-Image-2.1-Uncensored-Omni-Quantized",
       "displayName": "Qwen Image 2.1 Uncensored Omni Quantized",
-      "downloads": 96251
+      "downloads": 120618
     },
     {
       "id": "DavidAU/Qwen3.5-9B-The-Defiant-Fable-Uncensored-Heretic-NEO-IMATRIX-MAX-MTP-GGUF",
       "displayName": "Qwen3.5 9B The Defiant Fable Uncensored Heretic NEO IMATRIX MAX MTP",
-      "downloads": 2139868
+      "downloads": 2139859
+    },
+    {
+      "id": "Abiray/MiniMax-H3-Image-GGUF",
+      "displayName": "MiniMax H3 Image",
+      "downloads": 127803
     },
     {
       "id": "huihui-ai/Huihui-Qwen3.8-27B-abliterated-GGUF",
       "displayName": "Huihui Qwen3.8 27B abliterated",
-      "downloads": 4094475
+      "downloads": 4202683
     },
     {
       "id": "ConceptCountry/qwen-concept-27b",
       "displayName": "qwen concept 27b",
-      "downloads": 63439
-    },
-    {
-      "id": "Viggle/Viggle-Remake",
-      "displayName": "Viggle Remake",
-      "downloads": 196821
+      "downloads": 63964
     }
   ]
 }
