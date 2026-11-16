@@ -1,6 +1,34 @@
 {
-  "updated": "2026-11-16T04:30:51Z",
+  "updated": "2026-11-16T14:36:24Z",
   "news": [
+    {
+      "title": "Audible is trying to make it easier to find audiobooks you\u2019ll actually like",
+      "url": "https://www.theverge.com/tech/1034083/audible-audio-discovery-ai-feature-availability",
+      "source": "The Verge",
+      "publishedAt": "2026-11-16T14:00:00Z",
+      "snippet": "Audible is introducing an AI-assisted synopsis feature that's designed to help users determine whether they'll enjoy an audiobook before they jump in and start listening to it. The new audio discovery"
+    },
+    {
+      "title": "Google Maps can now create trip itineraries for you",
+      "url": "https://www.theverge.com/tech/1034110/google-ask-maps-ai-trip-planning",
+      "source": "The Verge",
+      "publishedAt": "2026-11-16T14:00:00Z",
+      "snippet": "Google is launching a new AI trip-planning feature for Maps that allows the app to create custom itineraries for you and provide real-time details about each stop. The update, which is rolling out to "
+    },
+    {
+      "title": "The Nvidia scandal isn\u2019t slowing down",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1031740/jensen-huang-nvidia-scandal-isnt-slowing-down",
+      "source": "The Verge",
+      "publishedAt": "2026-11-16T13:00:00Z",
+      "snippet": "For years, Jensen Huang has had an almost unprecedented power to shape AI's advancement as Nvidia's CEO, cofounder, and president. As The Verge wrote last week, Nvidia's chips are \"the bedrock upon wh"
+    },
+    {
+      "title": "Freshworks alums raise $53M to take on Salesforce, HubSpot with AI-native CRM",
+      "url": "https://techcrunch.com/2026/11/16/freshworks-alums-raise-53m-to-take-on-salesforce-hubspot-with-ai-native-crm/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-11-16T12:30:00Z",
+      "snippet": "Dreamteam has signed up more than 100 customers across 13 countries, with some businesses switching from established CRMs."
+    },
     {
       "title": "Apple launches new app to study how people use AI for health",
       "url": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/",
@@ -114,13 +142,6 @@
       "snippet": "Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations."
     },
     {
-      "title": "ChatGPT Wallet lets OpenAI\u2019s Dots agents make purchases for you",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet",
-      "source": "The Verge",
-      "publishedAt": "2026-11-13T20:45:10Z",
-      "snippet": "After launching its Dots AI agents platform earlier this year, OpenAI is launching a wallet for the agents. ChatGPT Wallet is rolling out starting today for ChatGPT Pro subscribers in the US aged 18 a"
-    },
-    {
       "title": "AI agent startup LangChain hits $3B valuation",
       "url": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
       "source": "TechCrunch",
@@ -149,84 +170,63 @@
       "snippet": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure."
     },
     {
-      "title": "What\u2019s really at stake in the Jensen Huang saga",
-      "url": "https://www.theverge.com/podcast/1032866/jensen-huang-nvidia-china-trump-vergecast",
-      "source": "The Verge",
-      "publishedAt": "2026-11-13T14:47:16Z",
-      "snippet": "One part of the saga surrounding Nvidia CEO Jensen Huang ended on Thursday, when Huang resigned from his position at the top of AI's most important company. But in the coming weeks and months, a much "
-    },
-    {
       "title": "ElevenLabs\u2019 new app combines meeting note-taking and dictation for teams",
       "url": "https://techcrunch.com/2026/11/13/elevenlabs-new-app-combines-meeting-note-taking-and-dictation-for-teams/",
       "source": "TechCrunch",
       "publishedAt": "2026-11-13T14:44:48Z",
       "snippet": "ElevenAI is a new meeting notetaker and dictation app aimed at teams and enterprises."
-    },
-    {
-      "title": "Claude\u2019s Duet agent is a little neurotic and surprisingly helpful",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1032518/claude-duet-ai-agent-hands-on",
-      "source": "The Verge",
-      "publishedAt": "2026-11-13T14:00:00Z",
-      "snippet": "Normally, the products I test don't offer to help me write up my experience with them. Duet is different. Claude Duet is Anthropic's AI agent for consumers, the latest attempt by an AI company to try "
-    },
-    {
-      "title": "Israel\u2019s VCs see opportunity for challengers in Nvidia\u2019s turmoil",
-      "url": "https://techcrunch.com/2026/11/13/israels-vcs-see-opportunity-for-challengers-in-nvidias-turmoil/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-11-13T12:52:19Z",
-      "snippet": "Given Nvidia\u2019s stronghold on AI and its importance in Israel, many in the country's startup ecosystem are worried about the impact of his departure."
     }
   ],
   "trending": [
     {
       "id": "Zyphra/ZONOS3-Mini",
       "displayName": "ZONOS3 Mini",
-      "downloads": 39862
-    },
-    {
-      "id": "DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
-      "displayName": "Qwen3.8 27B TURBO Fable Cold Fusion 735 882 Heretic Uncensored NEO CODER MAX MTP",
-      "downloads": 1708637
+      "downloads": 69946
     },
     {
       "id": "unsloth/Qwen3.8-27B-GGUF",
       "displayName": "Qwen3.8 27B",
-      "downloads": 6566295
+      "downloads": 6666734
     },
     {
       "id": "Edge0/Edge0-145B-NVFP4",
       "displayName": "Edge0 145B NVFP4",
-      "downloads": 41606
+      "downloads": 55335
     },
     {
-      "id": "chatrlabs/Qwen-Image-2.1-Uncensored-Omni-Quantized",
-      "displayName": "Qwen Image 2.1 Uncensored Omni Quantized",
-      "downloads": 120618
-    },
-    {
-      "id": "mradermacher/gemma-4-31B-it-ARA-heretic-GGUF",
-      "displayName": "gemma 4 31B ARA heretic",
-      "downloads": 149532
+      "id": "DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
+      "displayName": "Qwen3.8 27B TURBO Fable Cold Fusion 735 882 Heretic Uncensored NEO CODER MAX MTP",
+      "downloads": 1746935
     },
     {
       "id": "Abiray/MiniMax-H3-Image-GGUF",
       "displayName": "MiniMax H3 Image",
-      "downloads": 127803
+      "downloads": 155475
     },
     {
-      "id": "DavidAU/Qwen3.5-9B-The-Defiant-Fable-Uncensored-Heretic-NEO-IMATRIX-MAX-MTP-GGUF",
-      "displayName": "Qwen3.5 9B The Defiant Fable Uncensored Heretic NEO IMATRIX MAX MTP",
-      "downloads": 2139859
+      "id": "chatrlabs/Qwen-Image-2.1-Uncensored-Omni-Quantized",
+      "displayName": "Qwen Image 2.1 Uncensored Omni Quantized",
+      "downloads": 142901
     },
     {
-      "id": "ConceptCountry/qwen-concept-27b",
-      "displayName": "qwen concept 27b",
-      "downloads": 63964
+      "id": "Viggle/Viggle-Remake",
+      "displayName": "Viggle Remake",
+      "downloads": 218765
     },
     {
-      "id": "huihui-ai/Huihui-Qwen3.8-27B-abliterated-GGUF",
-      "displayName": "Huihui Qwen3.8 27B abliterated",
-      "downloads": 4202683
+      "id": "unsloth/Qwen3.8-Flash-Next-GGUF",
+      "displayName": "Qwen3.8 Flash Next",
+      "downloads": 2673551
+    },
+    {
+      "id": "VideoRebirthAI/hyperflow-h3-flash",
+      "displayName": "hyperflow h3 flash",
+      "downloads": 572345
+    },
+    {
+      "id": "mradermacher/gemma-4-31B-it-ARA-heretic-GGUF",
+      "displayName": "gemma 4 31B ARA heretic",
+      "downloads": 161317
     }
   ]
 }
