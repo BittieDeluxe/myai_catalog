@@ -1,6 +1,13 @@
 {
-  "updated": "2026-11-16T23:57:14Z",
+  "updated": "2026-11-17T06:55:49Z",
   "news": [
+    {
+      "title": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
+      "url": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-11-16T23:32:32Z",
+      "snippet": "Three months since introducing its product, AI cybersecurity startup Corba has raised a $125 million Series A at a $1 billion valuation led by NEA."
+    },
     {
       "title": "Tech leaders are convinced that Jensen Huang\u2019s exit was a plot against him",
       "url": "https://www.theverge.com/tech/1035027/tech-leaders-nvidia-jensen-huang-theories",
@@ -168,13 +175,6 @@
       "source": "TechCrunch",
       "publishedAt": "2026-11-15T23:30:00Z",
       "snippet": "Bharat Semi says it has secured design wins for its AI-enabled sensor technology with companies, including General Atomics."
-    },
-    {
-      "title": "Is bad news for Jensen Huang also bad news for the AI industry?",
-      "url": "https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-11-15T21:56:35Z",
-      "snippet": "\"Jensen is Nvidia, right? And so much of this economy is riding on Nvidia.\""
     }
   ],
   "trending": [
@@ -204,16 +204,6 @@
       "downloads": 142901
     },
     {
-      "id": "Viggle/Viggle-Remake",
-      "displayName": "Viggle Remake",
-      "downloads": 218765
-    },
-    {
-      "id": "mradermacher/gemma-4-31B-it-ARA-heretic-GGUF",
-      "displayName": "gemma 4 31B ARA heretic",
-      "downloads": 161317
-    },
-    {
       "id": "DavidAU/Qwen3.5-9B-The-Defiant-Fable-Uncensored-Heretic-NEO-IMATRIX-MAX-MTP-GGUF",
       "displayName": "Qwen3.5 9B The Defiant Fable Uncensored Heretic NEO IMATRIX MAX MTP",
       "downloads": 2178238
@@ -224,9 +214,19 @@
       "downloads": 4253987
     },
     {
+      "id": "mradermacher/gemma-4-31B-it-ARA-heretic-GGUF",
+      "displayName": "gemma 4 31B ARA heretic",
+      "downloads": 161317
+    },
+    {
       "id": "n4ze3m/tiny-voca",
       "displayName": "tiny voca",
       "downloads": 860
+    },
+    {
+      "id": "Edge0/Edge0-145B-NVFP4",
+      "displayName": "Edge0 145B NVFP4",
+      "downloads": 55335
     }
   ]
 }
