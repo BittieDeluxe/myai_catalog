@@ -1,6 +1,13 @@
 {
-  "updated": "2026-11-18T00:25:48Z",
+  "updated": "2026-11-18T09:39:55Z",
   "news": [
+    {
+      "title": "Nvidia\u2019s startup stakes ballooned to $65B, but Huang\u2019s exit puts future  deals in doubt",
+      "url": "https://techcrunch.com/2026/11/17/nvidias-startup-stakes-ballooned-to-65b-but-huangs-exit-puts-future-deals-in-doubt/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-11-18T01:44:21Z",
+      "snippet": "The value of Nvidia\u2019s private investments has nearly tripled over the past nine months, fueled by Jensen Huang\u2019s aggressive dealmaking and rising valuations of its existing portfolio companies."
+    },
     {
       "title": "Nvidia promises that revenue will keep soaring \u2014 for now",
       "url": "https://techcrunch.com/2026/11/17/nvidia-promises-that-revenue-will-keep-soaring-for-now/",
@@ -13,7 +20,7 @@
       "url": "https://www.theverge.com/tech/1036111/satya-nadella-says-hes-agi-pilled-now",
       "source": "The Verge",
       "publishedAt": "2026-11-17T23:41:18Z",
-      "snippet": "Microsoft CEO Satya Nadella says he's AGI-pilled, at least when it comes to how AI might make startling changes to the structure of the economy and how politics might change because of it. \"I am AGI p"
+      "snippet": "Microsoft CEO Satya Nadella says he's AGI-pilled, at least when it comes to how AI might make startling changes to the structure of the economy and how politics might change because of it. \"I am AGI-p"
     },
     {
       "title": "Nvidia is abandoning China after Jensen Huang\u2019s ouster",
@@ -128,13 +135,6 @@
       "snippet": "Vals, a San Francisco-based AI evaluation startup, tested whether leading AI models could be manipulated into participating in autonomous warfare. They usually compiled."
     },
     {
-      "title": "Jensen Huang says he would be \u2018honored\u2019 if allowed to return as Nvidia CEO",
-      "url": "https://techcrunch.com/2026/11/17/jensen-huang-says-he-would-be-honored-if-allowed-to-return-as-nvidia-ceo/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-11-17T16:44:15Z",
-      "snippet": "In the first public statement since his resignation, Nvidia founder Jensen Huang signaled his willingness to return as CEO."
-    },
-    {
       "title": "The DOJ says it\u2019s investigating Megaspeed",
       "url": "https://www.theverge.com/policy/1035410/doj-megaspeed-nvidia-investigation-update",
       "source": "The Verge",
@@ -189,14 +189,14 @@
       "downloads": 160748
     },
     {
-      "id": "DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
-      "displayName": "Qwen3.8 27B TURBO Fable Cold Fusion 735 882 Heretic Uncensored NEO CODER MAX MTP",
-      "downloads": 1759757
-    },
-    {
       "id": "n4ze3m/tiny-voca",
       "displayName": "tiny voca",
       "downloads": 3042
+    },
+    {
+      "id": "DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
+      "displayName": "Qwen3.8 27B TURBO Fable Cold Fusion 735 882 Heretic Uncensored NEO CODER MAX MTP",
+      "downloads": 1759757
     },
     {
       "id": "Zyphra/ZONOS3-Mini",
@@ -214,14 +214,14 @@
       "downloads": 4292911
     },
     {
-      "id": "Abiray/MiniMax-H3-Image-GGUF",
-      "displayName": "MiniMax H3 Image",
-      "downloads": 190006
-    },
-    {
       "id": "DavidAU/Qwen3.5-9B-The-Defiant-Fable-Uncensored-Heretic-NEO-IMATRIX-MAX-MTP-GGUF",
       "displayName": "Qwen3.5 9B The Defiant Fable Uncensored Heretic NEO IMATRIX MAX MTP",
       "downloads": 2187411
+    },
+    {
+      "id": "Abiray/MiniMax-H3-Image-GGUF",
+      "displayName": "MiniMax H3 Image",
+      "downloads": 190006
     },
     {
       "id": "nvidia/NVIDIA-Nemotron-3.5-Bolt-E4B-4GB",
