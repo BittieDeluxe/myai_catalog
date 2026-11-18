@@ -1,61 +1,152 @@
 {
-  "updated": "2026-11-17T17:18:52Z",
+  "updated": "2026-11-18T00:25:48Z",
   "news": [
+    {
+      "title": "Nvidia promises that revenue will keep soaring \u2014 for now",
+      "url": "https://techcrunch.com/2026/11/17/nvidia-promises-that-revenue-will-keep-soaring-for-now/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-11-18T00:16:50Z",
+      "snippet": "Despite the turmoil Nvidia is in after the departure of its disgraced founder and CEO Jensen Huang, the company projected that its streak of record-breaking revenue isn't about to stop."
+    },
+    {
+      "title": "Satya Nadella says he\u2019s AGI-pilled now",
+      "url": "https://www.theverge.com/tech/1036111/satya-nadella-says-hes-agi-pilled-now",
+      "source": "The Verge",
+      "publishedAt": "2026-11-17T23:41:18Z",
+      "snippet": "Microsoft CEO Satya Nadella says he's AGI-pilled, at least when it comes to how AI might make startling changes to the structure of the economy and how politics might change because of it. \"I am AGI p"
+    },
+    {
+      "title": "Nvidia is abandoning China after Jensen Huang\u2019s ouster",
+      "url": "https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-11-17T23:37:48Z",
+      "snippet": "Nvidia's interim CEO says the company is done selling chips to China. How much will that cost?"
+    },
+    {
+      "title": "Nvidia says its open source AI strategy remains intact after Jensen Huang\u2019s exit",
+      "url": "https://techcrunch.com/2026/11/17/nvidia-says-its-open-source-ai-strategy-remains-intact-after-jensen-huangs-exit/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-11-17T23:04:35Z",
+      "snippet": "Nvidia's interim CEO reaffirmed its open source AI strategy and plans to acquire Hugging Face, despite Jensen Huang's sudden departure."
+    },
+    {
+      "title": "Nvidia says it doesn\u2019t plan to reappoint Jensen Huang as CEO",
+      "url": "https://techcrunch.com/2026/11/17/nvidia-says-it-doesnt-plan-to-reappoint-jensen-huang-as-ceo/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-11-17T22:42:27Z",
+      "snippet": "The former CEO offered to return to his top role at the company after his resignation last week."
+    },
+    {
+      "title": "Amazon and Google will together own nearly 30% of Anthropic after its IPO",
+      "url": "https://techcrunch.com/2026/11/17/amazon-and-google-will-together-own-nearly-30-of-anthropic-after-its-ipo/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-11-17T22:29:05Z",
+      "snippet": "Amazon will own just under 15% of Anthropic after the IPO, with the option to go much higher. Google is a close second with holdings of nearly 14%."
+    },
+    {
+      "title": "SEC reportedly investigating Nvidia amid Huang exit",
+      "url": "https://techcrunch.com/2026/11/17/sec-reportedly-investigating-nvidia-amid-huang-exit/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-11-17T21:48:07Z",
+      "snippet": "The SEC is opening a probe into Nvidia following the departure of CEO Jensen Huang, who admitted to an affair with an alleged Chinese spy, reports The Wall Street Journal."
+    },
+    {
+      "title": "Nvidia\u2019s Q3 earnings hit the mark, without mentioning the whole Jensen Huang thing",
+      "url": "https://www.theverge.com/tech/1036032/nvidia-q3-2027-jensen-huang",
+      "source": "The Verge",
+      "publishedAt": "2026-11-17T21:40:59Z",
+      "snippet": "Interim Nvidia CEO Colette Kress announced the company's Q3 earnings on Tuesday, without initially mentioning former CEO Jensen Huang or the details of his departure, or possible attempt at a return. "
+    },
+    {
+      "title": "Google joins the tech outage trend by announcing it\u2019s not having one",
+      "url": "https://techcrunch.com/2026/11/17/google-joins-the-tech-outage-trend-by-announcing-its-not-having-one/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-11-17T21:34:50Z",
+      "snippet": "With tech outages seemingly everywhere, Google took the unusual step of announcing that Gmail is working just fine, actually."
+    },
+    {
+      "title": "Not even Sam Altman is safe from AI deepfakes on Instagram",
+      "url": "https://www.theverge.com/news/1035957/meta-alexandr-wang-sam-altman-instagram-ai-deepfake",
+      "source": "The Verge",
+      "publishedAt": "2026-11-17T21:00:55Z",
+      "snippet": "Instagram is filled with people posting deepfaked content - including, as of late, from one of Meta's most prominent executives. Earlier in November, Alexandr Wang, Meta's chief AI officer, shared a s"
+    },
+    {
+      "title": "Model ML raises $250M to automate investment banking grunt work",
+      "url": "https://techcrunch.com/2026/11/17/model-ml-raises-250m-to-automate-investment-banking-grunt-work/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-11-17T19:32:11Z",
+      "snippet": "The startup says its agents understand the full context of deals that bankers and consultants are working on and can automatically update financial models and presentations when new developments affec"
+    },
+    {
+      "title": "Google expands access to Gemini Tasks, which can help with calls, purchases",
+      "url": "https://techcrunch.com/2026/11/17/google-expands-access-to-gemini-tasks-which-can-help-with-calls-purchases/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-11-17T19:02:20Z",
+      "snippet": "Gemini's Task mode can help users coordinate calls, log into websites, and even make purchases on the user's behalf."
+    },
+    {
+      "title": "Google\u2019s Spark AI agent becomes \u2018Tasks\u2019 \u2014 and now it\u2019s free",
+      "url": "https://www.theverge.com/tech/1035756/google-spark-ai-tasks-free",
+      "source": "The Verge",
+      "publishedAt": "2026-11-17T18:58:01Z",
+      "snippet": "Google is rebranding its Spark AI agent as \"Tasks\" and making it free to use. The feature, which is powered by Google's new Gemini 4 Hydrogen AI model, can do things like create meal plans, manage you"
+    },
+    {
+      "title": "Google to keep Gemini chats for 2 months, up from 72 hours, even with history off",
+      "url": "https://techcrunch.com/2026/11/17/google-to-keep-gemini-chats-for-two-months-up-from-72-hours-even-with-history-off/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-11-17T18:48:23Z",
+      "snippet": "Google's Gemini update extending chat retention will roll out globally over the coming weeks."
+    },
+    {
+      "title": "As decision model use skyrockets, is customization the next frontier?",
+      "url": "https://techcrunch.com/2026/11/17/as-decision-model-use-skyrockets-is-customization-is-the-next-frontier/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-11-17T18:10:00Z",
+      "snippet": "Sqwish Labs has a new wrinkle on the decision model: Train it with your own data to max its capabilities."
+    },
+    {
+      "title": "Pedestal AI raises $4.7 million to agentify the supply chain",
+      "url": "https://techcrunch.com/2026/11/17/pedestal-ai-raises-4-7-million-to-agentify-the-supply-chain/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-11-17T18:04:16Z",
+      "snippet": "The company uses agentic AI to make supply chains faster and more reliable."
+    },
+    {
+      "title": "Proton\u2019s Lumo, a privacy-focused alternative to ChatGPT and Claude, arrives on desktop",
+      "url": "https://techcrunch.com/2026/11/17/protons-lumo-a-privacy-focused-alternative-to-chatgpt-and-claude-arrives-on-desktop/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-11-17T17:32:25Z",
+      "snippet": "Proton's new Lumo Desktop app for Windows, Mac, and Linux lets users automate tasks across files and connected apps, with granular controls over what its AI can access."
+    },
+    {
+      "title": "AI models can be tricked into identifying civilians as military targets by telling them it\u2019s a game",
+      "url": "https://techcrunch.com/2026/11/17/ai-models-can-be-tricked-into-identifying-civilians-as-military-targets-by-telling-them-its-a-game/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-11-17T17:20:41Z",
+      "snippet": "Vals, a San Francisco-based AI evaluation startup, tested whether leading AI models could be manipulated into participating in autonomous warfare. They usually compiled."
+    },
     {
       "title": "Jensen Huang says he would be \u2018honored\u2019 if allowed to return as Nvidia CEO",
       "url": "https://techcrunch.com/2026/11/17/jensen-huang-says-he-would-be-honored-if-allowed-to-return-as-nvidia-ceo/",
       "source": "TechCrunch",
       "publishedAt": "2026-11-17T16:44:15Z",
-      "snippet": "In the first public statement since his resignation, Nvidia founder Jensen Huang signalled his willingness to return as CEO."
+      "snippet": "In the first public statement since his resignation, Nvidia founder Jensen Huang signaled his willingness to return as CEO."
     },
     {
-      "title": "Daydream\u2019s new AI agent acts as your personal stylist \u2014 and can shop for you, too",
-      "url": "https://techcrunch.com/2026/11/17/daydreams-new-ai-agent-acts-as-your-personal-stylist-and-can-shop-for-you-too/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-11-17T16:32:55Z",
-      "snippet": "Daydream's new AI shopping agent can remember your style, virtually try on clothes, plan outfits around your wardrobe, track sales, and complete purchases."
+      "title": "The DOJ says it\u2019s investigating Megaspeed",
+      "url": "https://www.theverge.com/policy/1035410/doj-megaspeed-nvidia-investigation-update",
+      "source": "The Verge",
+      "publishedAt": "2026-11-17T16:19:03Z",
+      "snippet": "The Justice and Commerce Departments said that they are investigating Megaspeed, the Singapore-based data center company intertwined with the resignation of Nvidia CEO Jensen Huang, after reporting su"
     },
     {
-      "title": "Voyage Labs raises $12 million for a specialized AI travel assistant",
-      "url": "https://techcrunch.com/2026/11/17/voyage-labs-raises-12-million-for-a-specialized-ai-travel-assistant/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-11-17T15:00:00Z",
-      "snippet": "Voyage Labs\u2019 flagship product is called Atlas, meant to work as a personal assistant for your trip-planning, available today in private beta."
-    },
-    {
-      "title": "Isomorphic Labs raises $5B as it looks to take drug candidates to clinical trials",
-      "url": "https://techcrunch.com/2026/11/17/isomorphic-labs-raises-5b-as-it-looks-to-take-drug-candidates-to-clinical-trials/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-11-17T14:50:58Z",
-      "snippet": "Isomorphic Labs, the AI drug-discovery platform that was spun out of Google\u2019s DeepMind in 2021, has raised $5 billion in a Series C funding round."
-    },
-    {
-      "title": "Science Corporation\u2019s brain tech is worth $3.5 billion after new funding",
-      "url": "https://techcrunch.com/2026/11/17/science-corporations-brain-tech-is-worth-3-5-billion-after-new-funding/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-11-17T14:26:46Z",
-      "snippet": "Science Corp. raised a $400 million Series D to scale up its anti-blindness business."
-    },
-    {
-      "title": "Nvidia\u2019s first big move after Jensen Huang\u2019s exit targets national security",
-      "url": "https://techcrunch.com/2026/11/17/nvidias-first-big-move-after-jensen-huangs-exit-targets-national-security/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-11-17T14:05:30Z",
-      "snippet": "The new standing committee will give board-level oversight of national security policies, export control compliance, and global trade risks, the company said."
-    },
-    {
-      "title": "Spotify\u2019s new tool aims to stop deepfakes from being attributed to real artists",
-      "url": "https://techcrunch.com/2026/11/17/spotifys-new-tool-aims-to-stop-deepfakes-from-being-attributed-to-real-artists/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-11-17T14:00:00Z",
-      "snippet": "The update comes as Billboard reported last month that Sony Music had requested the removal of more than 260,000 deepfake songs from digital platforms, nearly double the number the label disclosed in "
-    },
-    {
-      "title": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
-      "url": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-11-16T23:32:32Z",
-      "snippet": "Three months since introducing its product, AI cybersecurity startup Corba has raised a $125 million Series A at a $1 billion valuation led by NEA."
+      "title": "Jensen Huang says he\u2019s willing to return as Nvidia CEO",
+      "url": "https://www.theverge.com/tech/1035420/jensen-huang-nvidia-return-as-ceo-statement",
+      "source": "The Verge",
+      "publishedAt": "2026-11-17T16:09:57Z",
+      "snippet": "Jensen Huang, who resigned as Nvidia's CEO last week, would be willing to return as CEO if the company's board of directors wanted it, he said in a statement reported on by The Wall Street Journal. \"S"
     },
     {
       "title": "Tech leaders are convinced that Jensen Huang\u2019s exit was a plot against him",
@@ -63,13 +154,6 @@
       "source": "The Verge",
       "publishedAt": "2026-11-16T23:17:34Z",
       "snippet": "Jensen Huang's stunning resignation from Nvidia after more than 33 years has sent shockwaves throughout the tech industry. Now prominent figures are calling for Huang's reinstatement, and many are als"
-    },
-    {
-      "title": "All the questions Nvidia should answer on Tuesday \u2014 but probably won\u2019t",
-      "url": "https://techcrunch.com/2026/11/16/all-the-questions-nvidia-should-answer-on-tuesday-but-probably-wont/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-11-16T22:03:02Z",
-      "snippet": "Nvidia interim CEO and longtime CFO Colette Kress is about to have one of the biggest days of her career on Tuesday when the company reports its third-quarter results. Given the turmoil Nvidia is in, "
     },
     {
       "title": "California sues OpenAI over rogue AI hacking incidents",
@@ -91,90 +175,6 @@
       "source": "The Verge",
       "publishedAt": "2026-11-16T20:29:37Z",
       "snippet": "Constellation Energy - America's largest operator of nuclear power plants - does not share Wall Street's concerns that the Democrats will slow down data center development. On the company's third-quar"
-    },
-    {
-      "title": "US data centers now burn more electricity than a midsized country",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1034668/data-centers-electricity-climate-pollution-study-harvard",
-      "source": "The Verge",
-      "publishedAt": "2026-11-16T20:27:58Z",
-      "snippet": "Fossil fuels are still the biggest source of electricity for hyperscale data centers in the US, a new paper published in the journal Nature Sustainability shows. They likely burn through more electric"
-    },
-    {
-      "title": "California state AG sues OpenAI over rogue agent incidents",
-      "url": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-11-16T20:07:13Z",
-      "snippet": "The California lawsuit represents one of the first attempts to hold an AI lab legally accountable for a rogue agent incident."
-    },
-    {
-      "title": "Apple is testing daily usage limits for more complex Siri AI interactions",
-      "url": "https://www.theverge.com/tech/1034581/apple-intelligence-siri-ai-daily-usage-limits-icloud-subscription",
-      "source": "The Verge",
-      "publishedAt": "2026-11-16T19:24:40Z",
-      "snippet": "Apple released betas of iOS 27.3, iPadOS 27.3, and macOS 27.3 today, and the company is using the update to test new per device daily usage limits for some Siri AI and Apple Intelligence features, acc"
-    },
-    {
-      "title": "OpenAI wants to stop deepfakes from overwhelming child abuse tiplines",
-      "url": "https://www.theverge.com/policy/1034527/openai-csam-classifier",
-      "source": "The Verge",
-      "publishedAt": "2026-11-16T19:23:45Z",
-      "snippet": "OpenAI is announcing a tool that it says will help child sexual abuse investigators cut through the noise to find harmful material they can act on quickly. At a Monday press briefing in Washington, DC"
-    },
-    {
-      "title": "Trump says ex-Nvidia CEO Jensen Huang\u2019s affair with an alleged Chinese spy did not threaten national security",
-      "url": "https://techcrunch.com/2026/11/16/trump-says-ex-nvidia-ceo-jensen-huangs-affair-with-an-alleged-chinese-spy-did-not-threaten-national-security/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-11-16T19:12:02Z",
-      "snippet": "Trump contradicted his own government's intelligence officials, who reportedly concluded that Alice Huang is a Chinese spy."
-    },
-    {
-      "title": "Nvidia\u2019s board is reportedly \u2018not considering\u2019 hiring Jensen Huang back",
-      "url": "https://www.theverge.com/tech/1034501/nvidia-board-jensen-huang-not-bringing-back",
-      "source": "The Verge",
-      "publishedAt": "2026-11-16T18:43:35Z",
-      "snippet": "Nvidia's board of directors \"isn't considering\" having Jensen Huang return as CEO, according to a report from CNBC. A source tells the outlet the board \"is focused on an investigation into Huang, and "
-    },
-    {
-      "title": "Sam Altman on Nvidia without Jensen Huang: The industry will be \u2018fine\u2019",
-      "url": "https://techcrunch.com/2026/11/16/sam-altman-on-nvidia-without-jensen-huang-the-industry-will-be-fine/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-11-16T18:11:10Z",
-      "snippet": "OpenAI CEO Sam Altman acknowledged the special role Nvidia CEO Jensen Huang has played in the AI boom, but ultimately thinks the industry will be \u201cfine\u201d without him at the helm."
-    },
-    {
-      "title": "FBI says Artex AI open source hacking tool used to breach networks in \u2018under three hours\u2019",
-      "url": "https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-11-16T17:36:43Z",
-      "snippet": "The FBI says that the open source hacking tool was used in cyberattacks targeting a U.S. IT giant and the South Korean financial industry."
-    },
-    {
-      "title": "Jordan Belfort\u2019s new AI voice startup, Tone, wants to sell like the \u2018Wolf of Wall Street\u2019",
-      "url": "https://techcrunch.com/2026/11/16/jordan-belforts-new-ai-voice-startup-tone-wants-to-sell-like-the-wolf-of-wall-street/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-11-16T17:10:00Z",
-      "snippet": "Belfort claims his AI sales voice can already close deals almost as well as the best human salespeople, and he thinks it will catch up in a year."
-    },
-    {
-      "title": "OpenAI will embed safety researchers to investigate AI subversion",
-      "url": "https://techcrunch.com/2026/11/16/openai-will-embed-apollo-researchers-to-investigate-ai-subversion/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-11-16T17:02:43Z",
-      "snippet": "OpenAI will embed six Apollo Research evaluators to investigate whether its AI models engage in subversive behavior, but restrictions on access and disclosure raise questions about their independence."
-    },
-    {
-      "title": "Audible is trying to make it easier to find audiobooks you\u2019ll actually like",
-      "url": "https://www.theverge.com/tech/1034083/audible-audio-discovery-ai-feature-availability",
-      "source": "The Verge",
-      "publishedAt": "2026-11-16T14:00:00Z",
-      "snippet": "Audible is introducing an AI-assisted synopsis feature that's designed to help users determine whether they'll enjoy an audiobook before they jump in and start listening to it. The new audio discovery"
-    },
-    {
-      "title": "Google Maps can now create trip itineraries for you",
-      "url": "https://www.theverge.com/tech/1034110/google-ask-maps-ai-trip-planning",
-      "source": "The Verge",
-      "publishedAt": "2026-11-16T14:00:00Z",
-      "snippet": "Google is launching a new AI trip-planning feature for Maps that allows the app to create custom itineraries for you and provide real-time details about each stop. The update, which is rolling out to "
     }
   ],
   "trending": [
@@ -182,11 +182,6 @@
       "id": "unsloth/Qwen3.8-27B-GGUF",
       "displayName": "Qwen3.8 27B",
       "downloads": 6827598
-    },
-    {
-      "id": "Zyphra/ZONOS3-Mini",
-      "displayName": "ZONOS3 Mini",
-      "downloads": 93909
     },
     {
       "id": "chatrlabs/Qwen-Image-2.1-Uncensored-Omni-Quantized",
@@ -202,6 +197,11 @@
       "id": "n4ze3m/tiny-voca",
       "displayName": "tiny voca",
       "downloads": 3042
+    },
+    {
+      "id": "Zyphra/ZONOS3-Mini",
+      "displayName": "ZONOS3 Mini",
+      "downloads": 93909
     },
     {
       "id": "Edge0/Edge0-145B-NVFP4",
@@ -224,9 +224,9 @@
       "downloads": 2187411
     },
     {
-      "id": "SC117/Qwen3.8-Flash-Next-GSQ-RCO-abliterated-GGUF",
-      "displayName": "Qwen3.8 Flash Next GSQ RCO abliterated",
-      "downloads": 4212417
+      "id": "nvidia/NVIDIA-Nemotron-3.5-Bolt-E4B-4GB",
+      "displayName": "NVIDIA Nemotron 3.5 Bolt E4B 4GB",
+      "downloads": 157536
     }
   ]
 }
