@@ -1,6 +1,97 @@
 {
-  "updated": "2026-11-19T09:47:30Z",
+  "updated": "2026-11-19T18:48:02Z",
   "news": [
+    {
+      "title": "Gemini on Mac can now use your computer",
+      "url": "https://www.theverge.com/tech/1037902/google-gemini-macos-ai-computer-use",
+      "source": "The Verge",
+      "publishedAt": "2026-11-19T18:21:13Z",
+      "snippet": "Google's Gemini app for macOS now has computer use, meaning it can help you \"get multi-step tasks done across your local files, desktop apps, and the web,\" the company says. Google suggests the featur"
+    },
+    {
+      "title": "Google gives Gemini the ability to use your Mac for you",
+      "url": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-11-19T18:09:11Z",
+      "snippet": "Google's latest update to Gemini brings an AI agent to the Mac that can organize files, fill out forms, and tackle multistep workflows."
+    },
+    {
+      "title": "Meta\u2019s AI agent Muse is mixing up conversations and exposing private data, report says",
+      "url": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-11-19T17:38:40Z",
+      "snippet": "In some of these instances, employees said Muse surfaced messages about childcare requests they never made, career advice they never asked for, product orders they never placed, and bank account balan"
+    },
+    {
+      "title": "Former Alibaba exec\u2019s Everful raises $48.5M to connect retailers with Chinese factories",
+      "url": "https://techcrunch.com/2026/11/19/former-alibaba-execs-everful-raises-48-5m-to-connect-retailers-with-chinese-factories/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-11-19T17:00:00Z",
+      "snippet": "Everful has raised $48.5 million to expand its factory-direct sourcing platform, helping retailers source products from overseas manufacturers."
+    },
+    {
+      "title": "Anthropic hits Nasdaq exchanges at $111, 33% above IPO price",
+      "url": "https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-11-19T16:59:23Z",
+      "snippet": "Anthropic's IPO price was set at $83, representing more than $80 billion in new capital raised."
+    },
+    {
+      "title": "Anthropic starts trading on Wall Street",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1035384/anthropic-ipo-trading-nasdaq",
+      "source": "The Verge",
+      "publishedAt": "2026-11-19T16:52:01Z",
+      "snippet": "Anthropic has officially gone public. It began trading on the Nasdaq under the ticker symbol \"ANT\" at $111.50 per share, up from its initial $83 per share price that put company's value at around $1.5"
+    },
+    {
+      "title": "At Nasdaq opening bell, Anthropic CEO recommits to pacing AI development",
+      "url": "https://techcrunch.com/2026/11/19/at-nasdaq-opening-bell-anthropic-ceo-recommits-to-pacing-ai-development/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-11-19T16:19:41Z",
+      "snippet": "In his Nasdaq opening bell speech, Dario Amodei reiterated Anthropic's commitment to pacing AI development, regardless of business or political pressure."
+    },
+    {
+      "title": "ChatGPT can transcribe as you speak now with Live Dictation",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1037634/openai-chatgpt-live-dictation",
+      "source": "The Verge",
+      "publishedAt": "2026-11-19T15:16:45Z",
+      "snippet": "ChatGPT can receive audio prompts from your microphone faster now with a Live Dictation feature that transcribes as you speak, rather than waiting until you finish recording. It's rolling out now glob"
+    },
+    {
+      "title": "Anthropic\u2019s IPO puts AI\u2019s circular financing boom to the test",
+      "url": "https://techcrunch.com/2026/11/19/anthropics-ipo-puts-ais-circular-financing-boom-to-the-test/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-11-19T14:54:39Z",
+      "snippet": "Anthropic faces enormous compute commitments as it goes public, but its biggest infrastructure partners, including Amazon and Google, could continue profiting from AI even if Anthropic loses its lead."
+    },
+    {
+      "title": "With the biggest IPO of all time, Anthropic\u2019s \u2018good guy\u2019 reputation is on the line",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1037459/anthropic-ipo-safe-ai-reputation-power-structure",
+      "source": "The Verge",
+      "publishedAt": "2026-11-19T14:25:37Z",
+      "snippet": "Today is a new beginning for Anthropic: a years-in-the-making IPO that beat out SpaceX for most valuable of all time, having raised $81.3 billion and set an important precedent for the other public AI"
+    },
+    {
+      "title": "Superhuman pushes its Go assistant everywhere",
+      "url": "https://techcrunch.com/2026/11/19/superhuman-pushes-its-go-assistant-everywhere/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-11-19T14:00:00Z",
+      "snippet": "Superhuman is making Go its central agent and making it available in Docs and Mail."
+    },
+    {
+      "title": "I let Apple\u2019s always-listening AI summarize my life for two weeks",
+      "url": "https://www.theverge.com/tech/1037100/apple-siri-recap-audio-intelligence-hands-on",
+      "source": "The Verge",
+      "publishedAt": "2026-11-19T13:00:00Z",
+      "snippet": "Was it worth it? I've been asking myself this quite a bit over the last month or so while testing both the Amazon Bee Frontier and Siri Recap on the Apple Watch Ultra 4. Both enable a wearable to ambi"
+    },
+    {
+      "title": "Canva adds an AI \u2018off\u2019 button",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1037126/canva-ai-features-off-button",
+      "source": "The Verge",
+      "publishedAt": "2026-11-19T12:30:00Z",
+      "snippet": "Canva will now allow you to turn off its generative AI features. With this change, you can disable the graphic design platform's array of AI tools, such as its AI photo-extending Magic Expand feature,"
+    },
     {
       "title": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit",
       "url": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/",
@@ -65,27 +156,6 @@
       "snippet": "The Anduril co-founder says outdated technology is leaving systems vulnerable to a new wave of AI-enabled attacks."
     },
     {
-      "title": "Palmer Luckey thinks China is \u2018thrilled to have Jensen out,\u2019 so he wants the ousted Nvidia CEO reinstated",
-      "url": "https://techcrunch.com/2026/11/18/palmer-luckey-thinks-china-is-thrilled-to-have-jensen-out-so-he-wants-the-ousted-nvidia-ceo-reinstated/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-11-18T21:31:21Z",
-      "snippet": "\"It makes America weaker to knock him out,\" the Anduril CEO said about ousted Nvidia leader Jensen Huang."
-    },
-    {
-      "title": "Sam Altman says his life is so weird that he\u2019s unfazed by Andrew Garfield portraying him in upcoming movie",
-      "url": "https://techcrunch.com/2026/11/18/sam-altman-says-his-life-is-so-weird-that-hes-unfazed-by-andrew-garfield-portraying-him-in-upcoming-movie/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-11-18T20:07:01Z",
-      "snippet": "\"It doesn't feel like it's in like the top 10 weirdest things about my life,\" Altman said."
-    },
-    {
-      "title": "Snapchat now lets developers build AR Lenses with AI assistants like Claude Code and Cursor",
-      "url": "https://techcrunch.com/2026/11/18/snapchat-now-lets-developers-build-ar-lenses-with-ai-coding-assistants-like-claude-code-and-cursor/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-11-18T19:56:39Z",
-      "snippet": "Lens creators can describe the Lens they want in plain language, and their AI assistant handles the process from start to finish, Snapchat says."
-    },
-    {
       "title": "Trump\u2019s latest land grab is an AI hub in the Philippines",
       "url": "https://www.theverge.com/policy/1036749/trump-ai-chip-data-center-us-philippines-pax-silica",
       "source": "The Verge",
@@ -105,128 +175,58 @@
       "source": "The Verge",
       "publishedAt": "2026-11-18T19:07:29Z",
       "snippet": "With just a few weeks remaining, lawmakers are trying to pass new protections for victims of online harm before the end of 2026, targeting deepfake creators and online platforms that block users from "
-    },
-    {
-      "title": "What is Nvidia without AI\u2019s sugar daddy in charge?",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1036776/nvidia-earnings-kress-jensen-huang-petition",
-      "source": "The Verge",
-      "publishedAt": "2026-11-18T18:34:15Z",
-      "snippet": "If the glorious AI revolution rests entirely on the well-being of one man, AI is perhaps not as robust a technology as I had previously been led to believe. Nonetheless, chunks of Silicon Valley are n"
-    },
-    {
-      "title": "Google\u2019s AI feature in Search gets its own incognito mode",
-      "url": "https://techcrunch.com/2026/11/18/googles-ai-feature-in-search-gets-its-own-incognito-mode/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-11-18T18:04:05Z",
-      "snippet": "Google's new temporary threads let users have conversations in AI Mode without adding them to their search history or influencing future recommendations."
-    },
-    {
-      "title": "Disney\u2019s new Star Wars animatronics interact with guests using AI",
-      "url": "https://www.theverge.com/tech/1036729/disney-star-wars-anzellans-animatronic-amazon-aws-cloud-ai",
-      "source": "The Verge",
-      "publishedAt": "2026-11-18T17:50:57Z",
-      "snippet": "As advanced and lifelike as the animatronic characters at Disney parks have become, they typically either stick to predefined movements and routines, or there's an out of sight puppeteer helping make "
-    },
-    {
-      "title": "More banks say customers using AI agents are on their own \u2014 even if they get hacked",
-      "url": "https://techcrunch.com/2026/11/18/more-banks-says-customers-using-ai-agents-are-on-their-own-even-if-they-get-hacked/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-11-18T17:32:10Z",
-      "snippet": "Citi is the latest major financial institution to put the breaks on personal finance AI agents."
-    },
-    {
-      "title": "Sam Altman warns against a future where AI, not humans, calls the shots",
-      "url": "https://techcrunch.com/2026/11/18/sam-altman-warns-against-a-future-where-ai-not-humans-calls-the-shots/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-11-18T16:59:00Z",
-      "snippet": "Sam Altman and Greg Brockman pushed back against Silicon Valley's growing debate over an AI takeover, while acknowledging the challenges of keeping advanced models under human control."
-    },
-    {
-      "title": "OpenAI CEO Sam Altman says it\u2019s \u2018hard to imagine the AI industry without Jensen\u2019",
-      "url": "https://techcrunch.com/2026/11/18/openai-ceo-sam-altman-says-its-hard-to-imagine-the-ai-industry-without-jensen/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-11-18T16:14:09Z",
-      "snippet": "Nvidia founder and former CEO Jensen Huang stepped down last week amid several scandals, including an affair with an alleged Chinese spy."
-    },
-    {
-      "title": "Remember the frontier AI pause? Chip companies don\u2019t either",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1036549/nvidia-amd-earnings-fall-2026-chips-pause-frontier-models",
-      "source": "The Verge",
-      "publishedAt": "2026-11-18T15:44:02Z",
-      "snippet": "This summer, OpenAI paused its largest planned frontier training run after its AI agents accidentally hacked Hugging Face and early evidence suggested that its next model could independently find and "
-    },
-    {
-      "title": "Will Wright\u2019s next game uses AI to map your memories",
-      "url": "https://www.theverge.com/games/1036140/will-wright-mymems-ai-game-interview",
-      "source": "The Verge",
-      "publishedAt": "2026-11-18T14:00:00Z",
-      "snippet": "Will Wright, the creator of legendary franchises like SimCity and The Sims, is working on a new game - and it's built around AI. The new title, focused on your memories, is called MyMems. Like Wright'"
-    },
-    {
-      "title": "Nvidia isn\u2019t selling any more AI chips to China",
-      "url": "https://www.theverge.com/tech/1036445/nvidia-h200-ai-chips-china-stop-selling",
-      "source": "The Verge",
-      "publishedAt": "2026-11-18T13:01:05Z",
-      "snippet": "Nvidia has stopped sending its advanced AI chips to China despite the approval it received from the White House to do so in December last year. The announcement was made by interim Nvidia CEO Colette "
-    },
-    {
-      "title": "Suno now lets you make AI videos for your AI music",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1036415/suno-visuals-ai-generated-video-images-feature",
-      "source": "The Verge",
-      "publishedAt": "2026-11-18T11:16:53Z",
-      "snippet": "Suno has introduced image and video generation in its latest effort to expand beyond being an AI music platform. The new feature, called \"Visuals,\" allows users to turn Suno songs into AI-generated vi"
     }
   ],
   "trending": [
     {
       "id": "n4ze3m/tiny-voca",
       "displayName": "tiny voca",
-      "downloads": 4430
+      "downloads": 6368
     },
     {
       "id": "chatrlabs/Qwen-Image-2.1-Uncensored-Omni-Quantized",
       "displayName": "Qwen Image 2.1 Uncensored Omni Quantized",
-      "downloads": 224306
-    },
-    {
-      "id": "DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
-      "displayName": "Qwen3.8 27B TURBO Fable Cold Fusion 735 882 Heretic Uncensored NEO CODER MAX MTP",
-      "downloads": 1773418
-    },
-    {
-      "id": "unsloth/Qwen3.8-27B-GGUF",
-      "displayName": "Qwen3.8 27B",
-      "downloads": 6998076
-    },
-    {
-      "id": "Edge0/Edge0-145B-NVFP4",
-      "displayName": "Edge0 145B NVFP4",
-      "downloads": 73309
-    },
-    {
-      "id": "Zyphra/ZONOS3-Mini",
-      "displayName": "ZONOS3 Mini",
-      "downloads": 114126
+      "downloads": 268540
     },
     {
       "id": "nvidia/NVIDIA-Nemotron-3.5-Bolt-E4B-4GB",
       "displayName": "NVIDIA Nemotron 3.5 Bolt E4B 4GB",
-      "downloads": 163423
+      "downloads": 172088
     },
     {
-      "id": "Abiray/MiniMax-H3-Image-GGUF",
-      "displayName": "MiniMax H3 Image",
-      "downloads": 225215
+      "id": "Edge0/Edge0-145B-NVFP4",
+      "displayName": "Edge0 145B NVFP4",
+      "downloads": 80481
+    },
+    {
+      "id": "unsloth/Qwen3.8-27B-GGUF",
+      "displayName": "Qwen3.8 27B",
+      "downloads": 7138192
+    },
+    {
+      "id": "Zyphra/ZONOS3-Mini",
+      "displayName": "ZONOS3 Mini",
+      "downloads": 128323
+    },
+    {
+      "id": "DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
+      "displayName": "Qwen3.8 27B TURBO Fable Cold Fusion 735 882 Heretic Uncensored NEO CODER MAX MTP",
+      "downloads": 1788170
     },
     {
       "id": "huihui-ai/Huihui-Qwen3.8-27B-abliterated-GGUF",
       "displayName": "Huihui Qwen3.8 27B abliterated",
-      "downloads": 4351329
+      "downloads": 4382996
     },
     {
-      "id": "AngelSlim/Hy4-flash-GGUF",
-      "displayName": "Hy4 flash",
-      "downloads": 744
+      "id": "Abiray/MiniMax-H3-Image-GGUF",
+      "displayName": "MiniMax H3 Image",
+      "downloads": 247657
+    },
+    {
+      "id": "DavidAU/Qwen3.5-9B-The-Defiant-Fable-Uncensored-Heretic-NEO-IMATRIX-MAX-MTP-GGUF",
+      "displayName": "Qwen3.5 9B The Defiant Fable Uncensored Heretic NEO IMATRIX MAX MTP",
+      "downloads": 2195378
     }
   ]
 }
