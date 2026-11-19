@@ -1,6 +1,118 @@
 {
-  "updated": "2026-11-18T18:35:50Z",
+  "updated": "2026-11-19T01:39:11Z",
   "news": [
+    {
+      "title": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit",
+      "url": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-11-19T00:42:56Z",
+      "snippet": "Microsoft CEO Satya Nadella explained why he offered buyouts to 60,000 of his employees in October, essentially urging them to voluntarily quit, rather than reducing the workforce via another massive "
+    },
+    {
+      "title": "Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is \u2018unpatchable\u2019",
+      "url": "https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-11-18T23:45:00Z",
+      "snippet": "The Microsoft CEO downplayed the recent Outlook outage while noting that AI was causing both opportunities and new challenges for securing much of the connected world."
+    },
+    {
+      "title": "Elon Musk says ousting Jensen Huang is like \u2018kicking Michael Jordan off your team\u2019",
+      "url": "https://techcrunch.com/2026/11/18/elon-musk-says-ousting-jensen-huang-is-like-kicking-michael-jordan-off-your-team/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-11-18T23:25:17Z",
+      "snippet": "\u201cI don\u2019t think [Huang is] disloyal to the United States,\" Musk said."
+    },
+    {
+      "title": "The nation\u2019s largest school districts consider ditching Google Search",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1037151/school-districts-ditching-google",
+      "source": "The Verge",
+      "publishedAt": "2026-11-18T23:18:35Z",
+      "snippet": "New York, Los Angeles, and Chicago schools are considering Google alternatives after the company said it will disable Search for schools that opt out of its AI features, according to The New York Time"
+    },
+    {
+      "title": "Microsoft CEO Satya Nadella remains confident in Nvidia after Huang\u2019s exit",
+      "url": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-remains-confident-in-nvidia-after-huangs-exit/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-11-18T23:17:28Z",
+      "snippet": "Microsoft CEO Satya Nadella expressed confidence in Jensen Huang's successor Colette Kress, who is serving as Nvidia's interim CEO."
+    },
+    {
+      "title": "Satya Nadella predicts AI agents will reshuffle the economics of the web",
+      "url": "https://techcrunch.com/2026/11/18/satya-nadella-predicts-ai-agents-will-reshuffle-the-economics-of-the-web/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-11-18T22:58:11Z",
+      "snippet": "Microsoft's CEO says AI agents could disrupt advertising-driven business models, forcing companies like Amazon to rethink how they compete for customers."
+    },
+    {
+      "title": "Anthropic reportedly prices IPO at $83 a share, above projected range",
+      "url": "https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-11-18T22:11:15Z",
+      "snippet": "The long-awaited IPO reportedly values the company at $1.5 trillion on a fully diluted basis."
+    },
+    {
+      "title": "Nvidia created a weird bit of intrigue by not filing a routine SEC report",
+      "url": "https://techcrunch.com/2026/11/18/nvidia-created-a-weird-bit-of-intrigue-by-not-filing-a-routine-sec-report/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-11-18T21:57:40Z",
+      "snippet": "One Wall Street analyst got to the bottom of Nvidia's surprise announcement that it wouldn't be filing its formal quarterly results document, the 10-Q, for weeks."
+    },
+    {
+      "title": "Palmer Luckey warns AI-powered cyberattacks are outpacing defenses: \u2018It\u2019s time to start running\u2019",
+      "url": "https://techcrunch.com/2026/11/18/palmer-luckey-warns-ai-powered-cyberattacks-are-outpacing-defenses-its-time-to-start-running/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-11-18T21:34:13Z",
+      "snippet": "The Anduril co-founder says outdated technology is leaving systems vulnerable to a new wave of AI-enabled attacks."
+    },
+    {
+      "title": "Palmer Luckey thinks China is \u2018thrilled to have Jensen out,\u2019 so he wants the ousted Nvidia CEO reinstated",
+      "url": "https://techcrunch.com/2026/11/18/palmer-luckey-thinks-china-is-thrilled-to-have-jensen-out-so-he-wants-the-ousted-nvidia-ceo-reinstated/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-11-18T21:31:21Z",
+      "snippet": "\"It makes America weaker to knock him out,\" the Anduril CEO said about ousted Nvidia leader Jensen Huang."
+    },
+    {
+      "title": "Sam Altman says his life is so weird that he\u2019s unfazed by Andrew Garfield portraying him in upcoming movie",
+      "url": "https://techcrunch.com/2026/11/18/sam-altman-says-his-life-is-so-weird-that-hes-unfazed-by-andrew-garfield-portraying-him-in-upcoming-movie/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-11-18T20:07:01Z",
+      "snippet": "\"It doesn't feel like it's in like the top 10 weirdest things about my life,\" Altman said."
+    },
+    {
+      "title": "Snapchat now lets developers build AR Lenses with AI assistants like Claude Code and Cursor",
+      "url": "https://techcrunch.com/2026/11/18/snapchat-now-lets-developers-build-ar-lenses-with-ai-coding-assistants-like-claude-code-and-cursor/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-11-18T19:56:39Z",
+      "snippet": "Lens creators can describe the Lens they want in plain language, and their AI assistant handles the process from start to finish, Snapchat says."
+    },
+    {
+      "title": "Trump\u2019s latest land grab is an AI hub in the Philippines",
+      "url": "https://www.theverge.com/policy/1036749/trump-ai-chip-data-center-us-philippines-pax-silica",
+      "source": "The Verge",
+      "publishedAt": "2026-11-18T19:40:36Z",
+      "snippet": "President Donald Trump was greeted by no less than five beauty queens when he landed in the Philippines on Tuesday, according to local news outlet Rappler. As he stepped onto the tarmac, a child hande"
+    },
+    {
+      "title": "Nvidia\u2019s rise, visualized",
+      "url": "https://www.theverge.com/tech/1035924/nvidia-visualized-revenue-profit-earnings-after-huang",
+      "source": "The Verge",
+      "publishedAt": "2026-11-18T19:30:00Z",
+      "snippet": "If someone handed you $8,300 every second, what would you do? That's how much pure profit Nvidia now makes. By the time you finish reading this paragraph, Nvidia will likely have cleared $45,000 and c"
+    },
+    {
+      "title": "Tech lawsuits defined 2026 \u2014 and lawmakers want more",
+      "url": "https://www.theverge.com/policy/1036935/congress-forced-arbitration-deepfakes-defiance-act",
+      "source": "The Verge",
+      "publishedAt": "2026-11-18T19:07:29Z",
+      "snippet": "With just a few weeks remaining, lawmakers are trying to pass new protections for victims of online harm before the end of 2026, targeting deepfake creators and online platforms that block users from "
+    },
+    {
+      "title": "What is Nvidia without AI\u2019s sugar daddy in charge?",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1036776/nvidia-earnings-kress-jensen-huang-petition",
+      "source": "The Verge",
+      "publishedAt": "2026-11-18T18:34:15Z",
+      "snippet": "If the glorious AI revolution rests entirely on the well-being of one man, AI is perhaps not as robust a technology as I had previously been led to believe. Nonetheless, chunks of Silicon Valley are n"
+    },
     {
       "title": "Google\u2019s AI feature in Search gets its own incognito mode",
       "url": "https://techcrunch.com/2026/11/18/googles-ai-feature-in-search-gets-its-own-incognito-mode/",
@@ -58,123 +170,11 @@
       "snippet": "Nvidia has stopped sending its advanced AI chips to China despite the approval it received from the White House to do so in December last year. The announcement was made by interim Nvidia CEO Colette "
     },
     {
-      "title": "Nvidia clarifies when it will \u2014 and won\u2019t \u2014 keep financing neoclouds",
-      "url": "https://techcrunch.com/2026/11/18/nvidia-clarifies-when-it-will-and-wont-keep-financing-neoclouds/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-11-18T13:00:00Z",
-      "snippet": "If Nvidia is backstopping a data center loan, it won't be on the hook unless the neocould has independent financing and gets the facility built, with Nvidia gear installed, interim CEO Colette Kress e"
-    },
-    {
-      "title": "Felicis leads $7.5M bet on Unsiloed AI to make enterprise documents usable by AI agents",
-      "url": "https://techcrunch.com/2026/11/18/felicis-leads-7-5m-bet-on-unsiloed-ai-to-make-enterprise-documents-usable-by-ai-agents/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-11-18T12:00:00Z",
-      "snippet": "With a team of just seven, Unsiloed AI plans to compete with tech giants and specialized startups in the crowded AI document-processing market."
-    },
-    {
-      "title": "India\u2019s Humyn Labs raises $47M to feed US robotics companies the data they need",
-      "url": "https://techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-11-18T11:30:00Z",
-      "snippet": "Founded in February, Humyn Labs competes with startups such as Mecka AI and XDOF, with about 90% of its revenue coming from the U.S."
-    },
-    {
       "title": "Suno now lets you make AI videos for your AI music",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1036415/suno-visuals-ai-generated-video-images-feature",
       "source": "The Verge",
       "publishedAt": "2026-11-18T11:16:53Z",
       "snippet": "Suno has introduced image and video generation in its latest effort to expand beyond being an AI music platform. The new feature, called \"Visuals,\" allows users to turn Suno songs into AI-generated vi"
-    },
-    {
-      "title": "Nvidia\u2019s startup stakes ballooned to $65B, but Huang\u2019s exit puts future  deals in doubt",
-      "url": "https://techcrunch.com/2026/11/17/nvidias-startup-stakes-ballooned-to-65b-but-huangs-exit-puts-future-deals-in-doubt/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-11-18T01:44:21Z",
-      "snippet": "The value of Nvidia\u2019s private investments has nearly tripled over the past nine months, fueled by Jensen Huang\u2019s aggressive dealmaking and rising valuations of its existing portfolio companies."
-    },
-    {
-      "title": "Nvidia promises that revenue will keep soaring \u2014 for now",
-      "url": "https://techcrunch.com/2026/11/17/nvidia-promises-that-revenue-will-keep-soaring-for-now/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-11-18T00:16:50Z",
-      "snippet": "Despite the turmoil Nvidia is in after the departure of its disgraced founder and CEO Jensen Huang, the company projected that its streak of record-breaking revenue isn't about to stop."
-    },
-    {
-      "title": "Satya Nadella says he\u2019s AGI-pilled now",
-      "url": "https://www.theverge.com/tech/1036111/satya-nadella-says-hes-agi-pilled-now",
-      "source": "The Verge",
-      "publishedAt": "2026-11-17T23:41:18Z",
-      "snippet": "Microsoft CEO Satya Nadella says he's AGI-pilled, at least when it comes to how AI might make startling changes to the structure of the economy and how politics might change because of it. \"I am AGI-p"
-    },
-    {
-      "title": "Nvidia is abandoning China after Jensen Huang\u2019s ouster",
-      "url": "https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-11-17T23:37:48Z",
-      "snippet": "Nvidia's interim CEO says the company is done selling chips to China. How much will that cost?"
-    },
-    {
-      "title": "Nvidia says its open source AI strategy remains intact after Jensen Huang\u2019s exit",
-      "url": "https://techcrunch.com/2026/11/17/nvidia-says-its-open-source-ai-strategy-remains-intact-after-jensen-huangs-exit/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-11-17T23:04:35Z",
-      "snippet": "Nvidia's interim CEO reaffirmed its open source AI strategy and plans to acquire Hugging Face, despite Jensen Huang's sudden departure."
-    },
-    {
-      "title": "Nvidia says it doesn\u2019t plan to reappoint Jensen Huang as CEO",
-      "url": "https://techcrunch.com/2026/11/17/nvidia-says-it-doesnt-plan-to-reappoint-jensen-huang-as-ceo/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-11-17T22:42:27Z",
-      "snippet": "The former CEO offered to return to his top role at the company after his resignation last week."
-    },
-    {
-      "title": "Amazon and Google will together own nearly 30% of Anthropic after its IPO",
-      "url": "https://techcrunch.com/2026/11/17/amazon-and-google-will-together-own-nearly-30-of-anthropic-after-its-ipo/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-11-17T22:29:05Z",
-      "snippet": "Amazon will own just under 15% of Anthropic after the IPO, with the option to go much higher. Google is a close second with holdings of nearly 14%."
-    },
-    {
-      "title": "SEC reportedly investigating Nvidia amid Huang exit",
-      "url": "https://techcrunch.com/2026/11/17/sec-reportedly-investigating-nvidia-amid-huang-exit/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-11-17T21:48:07Z",
-      "snippet": "The SEC is opening a probe into Nvidia following the departure of CEO Jensen Huang, who admitted to an affair with an alleged Chinese spy, reports The Wall Street Journal."
-    },
-    {
-      "title": "Nvidia\u2019s Q3 earnings hit the mark, without mentioning the whole Jensen Huang thing",
-      "url": "https://www.theverge.com/tech/1036032/nvidia-q3-2027-jensen-huang",
-      "source": "The Verge",
-      "publishedAt": "2026-11-17T21:40:59Z",
-      "snippet": "Interim Nvidia CEO Colette Kress announced the company's Q3 earnings on Tuesday, without initially mentioning former CEO Jensen Huang or the details of his departure, or possible attempt at a return. "
-    },
-    {
-      "title": "Google joins the tech outage trend by announcing it\u2019s not having one",
-      "url": "https://techcrunch.com/2026/11/17/google-joins-the-tech-outage-trend-by-announcing-its-not-having-one/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-11-17T21:34:50Z",
-      "snippet": "With tech outages seemingly everywhere, Google took the unusual step of announcing that Gmail is working just fine, actually."
-    },
-    {
-      "title": "Not even Sam Altman is safe from AI deepfakes on Instagram",
-      "url": "https://www.theverge.com/news/1035957/meta-alexandr-wang-sam-altman-instagram-ai-deepfake",
-      "source": "The Verge",
-      "publishedAt": "2026-11-17T21:00:55Z",
-      "snippet": "Instagram is filled with people posting deepfaked content - including, as of late, from one of Meta's most prominent executives. Earlier in November, Alexandr Wang, Meta's chief AI officer, shared a s"
-    },
-    {
-      "title": "Google\u2019s Spark AI agent becomes \u2018Tasks\u2019 \u2014 and now it\u2019s free",
-      "url": "https://www.theverge.com/tech/1035756/google-spark-ai-tasks-free",
-      "source": "The Verge",
-      "publishedAt": "2026-11-17T18:58:01Z",
-      "snippet": "Google is rebranding its Spark AI agent as \"Tasks\" and making it free to use. The feature, which is powered by Google's new Gemini 4 Hydrogen AI model, can do things like create meal plans, manage you"
-    },
-    {
-      "title": "The DOJ says it\u2019s investigating Megaspeed",
-      "url": "https://www.theverge.com/policy/1035410/doj-megaspeed-nvidia-investigation-update",
-      "source": "The Verge",
-      "publishedAt": "2026-11-17T16:19:03Z",
-      "snippet": "The Justice and Commerce Departments said that they are investigating Megaspeed, the Singapore-based data center company intertwined with the resignation of Nvidia CEO Jensen Huang, after reporting su"
     }
   ],
   "trending": [
@@ -199,14 +199,14 @@
       "downloads": 6998076
     },
     {
-      "id": "Zyphra/ZONOS3-Mini",
-      "displayName": "ZONOS3 Mini",
-      "downloads": 114126
-    },
-    {
       "id": "Edge0/Edge0-145B-NVFP4",
       "displayName": "Edge0 145B NVFP4",
       "downloads": 73309
+    },
+    {
+      "id": "Zyphra/ZONOS3-Mini",
+      "displayName": "ZONOS3 Mini",
+      "downloads": 114126
     },
     {
       "id": "nvidia/NVIDIA-Nemotron-3.5-Bolt-E4B-4GB",
@@ -224,9 +224,9 @@
       "downloads": 4351329
     },
     {
-      "id": "SC117/Qwen3.8-Flash-Next-GSQ-RCO-abliterated-GGUF",
-      "displayName": "Qwen3.8 Flash Next GSQ RCO abliterated",
-      "downloads": 4217023
+      "id": "unsloth/Qwen3.8-Flash-Next-GGUF",
+      "displayName": "Qwen3.8 Flash Next",
+      "downloads": 2902027
     }
   ]
 }
