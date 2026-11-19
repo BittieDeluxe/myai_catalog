@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-19T01:39:11Z",
+  "updated": "2026-11-19T09:47:30Z",
   "news": [
     {
       "title": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit",
@@ -44,7 +44,7 @@
       "snippet": "Microsoft's CEO says AI agents could disrupt advertising-driven business models, forcing companies like Amazon to rethink how they compete for customers."
     },
     {
-      "title": "Anthropic reportedly prices IPO at $83 a share, above projected range",
+      "title": "Anthropic prices IPO at $83 a share, above projected range",
       "url": "https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/",
       "source": "TechCrunch",
       "publishedAt": "2026-11-18T22:11:15Z",
@@ -224,9 +224,9 @@
       "downloads": 4351329
     },
     {
-      "id": "unsloth/Qwen3.8-Flash-Next-GGUF",
-      "displayName": "Qwen3.8 Flash Next",
-      "downloads": 2902027
+      "id": "AngelSlim/Hy4-flash-GGUF",
+      "displayName": "Hy4 flash",
+      "downloads": 744
     }
   ]
 }
