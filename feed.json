@@ -1,6 +1,48 @@
 {
-  "updated": "2026-11-20T09:34:56Z",
+  "updated": "2026-11-20T18:13:55Z",
   "news": [
+    {
+      "title": "Chips can survive the space environment. Can their financing?",
+      "url": "https://techcrunch.com/2026/11/20/chips-can-survive-the-space-environment-can-their-financing/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-11-20T17:40:01Z",
+      "snippet": "Lenders don't want SpaceX shooting their collateral into orbit. What does that mean for space data centers writ large?"
+    },
+    {
+      "title": "Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem",
+      "source": "The Verge",
+      "publishedAt": "2026-11-20T16:34:13Z",
+      "snippet": "Anthropic mathematician Levent Alp\u00f6ge claims he has proved the Riemann hypothesis, one of mathematics's most notoriously difficult problems, with the help of Claude, cracking a puzzle that has eluded "
+    },
+    {
+      "title": "The fallout from Nvidia\u2019s Jensen Huang scandal continues",
+      "url": "https://techcrunch.com/podcast/the-fallout-from-nvidias-jensen-huang-scandal-continues/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-11-20T14:55:44Z",
+      "snippet": "In the midst of dealing with the fallout from its ouster of CEO Jensen Huang, Nvidia delivered its latest earnings report this week, with healthy growth and promises that the good times will continue."
+    },
+    {
+      "title": "The week everything fell apart",
+      "url": "https://www.theverge.com/podcast/1038419/outage-outlook-ground-stop-tech-failure-vergecast",
+      "source": "The Verge",
+      "publishedAt": "2026-11-20T14:06:59Z",
+      "snippet": "There was a dayslong Outlook outage. A nationwide ground stop for only the second time in 25 years. Banks seemed to suddenly stop working. Even iCloud couldn't stay up and running. This week, it felt "
+    },
+    {
+      "title": "Six AI-powered gadgets that could make your home office smarter",
+      "url": "https://techcrunch.com/2026/11/20/6-ai-powered-gadgets-that-could-make-your-home-office-smarter/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-11-20T14:00:00Z",
+      "snippet": "From notetakers to webcams, here are six AI-powered gadgets to upgrade your workspace."
+    },
+    {
+      "title": "Signal is blocking Gemini and Siri AI from reading your screen",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1038390/signal-blocking-ai-agent-screenshots-mobile-app",
+      "source": "The Verge",
+      "publishedAt": "2026-11-20T12:30:47Z",
+      "snippet": "Signal is restricting the ability to take screenshots on Android and iOS devices in an effort to prevent AI agents from reading users' messages and other data. The agentic AI capabilities built into o"
+    },
     {
       "title": "Apple may be developing its own AI agent that runs your Mac",
       "url": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
@@ -20,7 +62,7 @@
       "url": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing",
       "source": "The Verge",
       "publishedAt": "2026-11-19T22:31:41Z",
-      "snippet": "Apple is working on its own AI agent that can perform a range of tasks for you, including browsing the web, working across apps, writing code, and calling services. That's according to a job listing s"
+      "snippet": "Apple is working on its own AI agent that can perform a range of tasks for you, including browsing the web, working across apps, writing code, and calling services. That's according to a now-removed j"
     },
     {
       "title": "A brief history of Nvidia\u2019s recent stock fluctuations",
@@ -133,100 +175,58 @@
       "source": "TechCrunch",
       "publishedAt": "2026-11-19T14:54:39Z",
       "snippet": "Anthropic faces enormous compute commitments as it goes public, but its biggest infrastructure partners, including Amazon and Google, could continue profiting from AI even if Anthropic loses its lead."
-    },
-    {
-      "title": "With the biggest IPO of all time, Anthropic\u2019s \u2018good guy\u2019 reputation is on the line",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1037459/anthropic-ipo-safe-ai-reputation-power-structure",
-      "source": "The Verge",
-      "publishedAt": "2026-11-19T14:25:37Z",
-      "snippet": "Today is a new beginning for Anthropic: a years-in-the-making IPO that beat out SpaceX for most valuable of all time, having raised $81.3 billion and set an important precedent for the other public AI"
-    },
-    {
-      "title": "Superhuman pushes its Go assistant everywhere",
-      "url": "https://techcrunch.com/2026/11/19/superhuman-pushes-its-go-assistant-everywhere/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-11-19T14:00:00Z",
-      "snippet": "Superhuman is making Go its central agent and making it available in Docs and Mail."
-    },
-    {
-      "title": "I let Apple\u2019s always-listening AI summarize my life for two weeks",
-      "url": "https://www.theverge.com/tech/1037100/apple-siri-recap-audio-intelligence-hands-on",
-      "source": "The Verge",
-      "publishedAt": "2026-11-19T13:00:00Z",
-      "snippet": "Was it worth it? I've been asking myself this quite a bit over the last month or so while testing both the Amazon Bee Frontier and Siri Recap on the Apple Watch Ultra 4. Both enable a wearable to ambi"
-    },
-    {
-      "title": "Canva adds an AI \u2018off\u2019 button",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1037126/canva-ai-features-off-button",
-      "source": "The Verge",
-      "publishedAt": "2026-11-19T12:30:00Z",
-      "snippet": "Canva will now allow you to turn off its generative AI features. With this change, you can disable the graphic design platform's array of AI tools, such as its AI photo-extending Magic Expand feature,"
-    },
-    {
-      "title": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit",
-      "url": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-11-19T00:42:56Z",
-      "snippet": "Microsoft CEO Satya Nadella explained why he offered buyouts to 60,000 of his employees in October, essentially urging them to voluntarily quit, rather than reducing the workforce via another massive "
-    },
-    {
-      "title": "Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is \u2018unpatchable\u2019",
-      "url": "https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-11-18T23:45:00Z",
-      "snippet": "The Microsoft CEO downplayed the recent Outlook outage while noting that AI was causing both opportunities and new challenges for securing much of the connected world."
     }
   ],
   "trending": [
     {
       "id": "chatrlabs/Qwen-Image-2.1-Uncensored-Omni-Quantized",
       "displayName": "Qwen Image 2.1 Uncensored Omni Quantized",
-      "downloads": 268540
+      "downloads": 309394
     },
     {
       "id": "nvidia/NVIDIA-Nemotron-3.5-Bolt-E4B-4GB",
       "displayName": "NVIDIA Nemotron 3.5 Bolt E4B 4GB",
-      "downloads": 172088
+      "downloads": 183617
     },
     {
       "id": "n4ze3m/tiny-voca",
       "displayName": "tiny voca",
-      "downloads": 6368
+      "downloads": 7949
     },
     {
       "id": "unsloth/Qwen3.8-27B-GGUF",
       "displayName": "Qwen3.8 27B",
-      "downloads": 7138192
+      "downloads": 7383193
     },
     {
       "id": "DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
       "displayName": "Qwen3.8 27B TURBO Fable Cold Fusion 735 882 Heretic Uncensored NEO CODER MAX MTP",
-      "downloads": 1788170
+      "downloads": 1807159
     },
     {
       "id": "Zyphra/ZONOS3-Mini",
       "displayName": "ZONOS3 Mini",
-      "downloads": 128323
+      "downloads": 142778
     },
     {
       "id": "Edge0/Edge0-145B-NVFP4",
       "displayName": "Edge0 145B NVFP4",
-      "downloads": 80481
+      "downloads": 85400
     },
     {
       "id": "huihui-ai/Huihui-Qwen3.8-27B-abliterated-GGUF",
       "displayName": "Huihui Qwen3.8 27B abliterated",
-      "downloads": 4382996
+      "downloads": 4448225
     },
     {
-      "id": "AngelSlim/Hy4-flash-GGUF",
-      "displayName": "Hy4 flash",
-      "downloads": 55872
+      "id": "DavidAU/Qwen3.5-9B-The-Defiant-Fable-Uncensored-Heretic-NEO-IMATRIX-MAX-MTP-GGUF",
+      "displayName": "Qwen3.5 9B The Defiant Fable Uncensored Heretic NEO IMATRIX MAX MTP",
+      "downloads": 2218018
     },
     {
       "id": "Abiray/MiniMax-H3-Image-GGUF",
       "displayName": "MiniMax H3 Image",
-      "downloads": 247657
+      "downloads": 274880
     }
   ]
 }
