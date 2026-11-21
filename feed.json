@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-21T01:01:38Z",
+  "updated": "2026-11-21T09:07:12Z",
   "news": [
     {
       "title": "Daniel Ek backs AI researcher\u2019s fusion power startup. Here\u2019s what they\u2019re building.",
@@ -184,6 +184,11 @@
       "downloads": 0
     },
     {
+      "id": "nvidia/NVIDIA-Nemotron-3.5-Bolt-E4B-4GB",
+      "displayName": "NVIDIA Nemotron 3.5 Bolt E4B 4GB",
+      "downloads": 183617
+    },
+    {
       "id": "chatrlabs/Qwen-Image-2.1-Uncensored-Omni-Quantized",
       "displayName": "Qwen Image 2.1 Uncensored Omni Quantized",
       "downloads": 309394
@@ -209,24 +214,19 @@
       "downloads": 142778
     },
     {
-      "id": "nvidia/NVIDIA-Nemotron-3.5-Bolt-E4B-4GB",
-      "displayName": "NVIDIA Nemotron 3.5 Bolt E4B 4GB",
-      "downloads": 183617
-    },
-    {
       "id": "huihui-ai/Huihui-Qwen3.8-27B-abliterated-GGUF",
       "displayName": "Huihui Qwen3.8 27B abliterated",
       "downloads": 4448225
     },
     {
-      "id": "Edge0/Edge0-145B-NVFP4",
-      "displayName": "Edge0 145B NVFP4",
-      "downloads": 85400
-    },
-    {
       "id": "DavidAU/Qwen3.5-9B-The-Defiant-Fable-Uncensored-Heretic-NEO-IMATRIX-MAX-MTP-GGUF",
       "displayName": "Qwen3.5 9B The Defiant Fable Uncensored Heretic NEO IMATRIX MAX MTP",
       "downloads": 2218018
+    },
+    {
+      "id": "Edge0/Edge0-145B-NVFP4",
+      "displayName": "Edge0 145B NVFP4",
+      "downloads": 85400
     }
   ]
 }
