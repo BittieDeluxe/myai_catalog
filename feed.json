@@ -1,6 +1,34 @@
 {
-  "updated": "2026-11-21T17:03:20Z",
+  "updated": "2026-11-21T22:42:32Z",
   "news": [
+    {
+      "title": "Signal restricts mobile screenshots as it confronts \u2018existential threat\u2019 of AI surveillance",
+      "url": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-11-21T21:37:10Z",
+      "snippet": "Signal is limiting users' ability to take screenshots in both its Android and iOS apps."
+    },
+    {
+      "title": "A tale of two Nvidias",
+      "url": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-11-21T21:07:42Z",
+      "snippet": "We got two very different pictures of Nvidia \u2014  the company\u2019s latest earnings report vs. the tech executives loudly calling for Jensen Huang\u2019s return."
+    },
+    {
+      "title": "The UN fails to agree on rules regulating \u2018killer robots\u2019",
+      "url": "https://www.theverge.com/tech/1039554/un-regulations-killer-robots",
+      "source": "The Verge",
+      "publishedAt": "2026-11-21T20:03:37Z",
+      "snippet": "One of the items on the agenda for UN diplomats meeting in Geneva this week was working towards rules regarding the use of autonomous weapons, or so-called \"killer robots.\" Eventually, representatives"
+    },
+    {
+      "title": "Here are the top AI agents that can live in your text messages",
+      "url": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-11-21T17:00:00Z",
+      "snippet": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work."
+    },
     {
       "title": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
       "url": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/",
@@ -142,39 +170,11 @@
       "snippet": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure."
     },
     {
-      "title": "Google is putting AI chats right on the homepage",
-      "url": "https://www.theverge.com/tech/1038059/google-search-homepage-ai-chats",
-      "source": "The Verge",
-      "publishedAt": "2026-11-19T20:05:06Z",
-      "snippet": "Google is updating its homepage to include AI searches. In a post on X, Google's vice president of product, Robby Stein, shows how you can now open a collapsible sidebar to view and continue your AI c"
-    },
-    {
       "title": "Anthropic\u2019s IPO could deliver $156B to charity",
       "url": "https://techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity/",
       "source": "TechCrunch",
       "publishedAt": "2026-11-19T19:10:45Z",
       "snippet": "At a stock price of $95, the frontier lab's Public Benefit Foundation, its employee donations, and the company's match tot up to $156 billion."
-    },
-    {
-      "title": "Google gives Gemini the ability to use your Mac for you",
-      "url": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-11-19T18:09:11Z",
-      "snippet": "Google's latest update to Gemini brings an AI agent to the Mac that can organize files, fill out forms, and tackle multistep workflows."
-    },
-    {
-      "title": "Meta\u2019s AI agent Muse is mixing up conversations and could be exposing private data, report says",
-      "url": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-11-19T17:38:40Z",
-      "snippet": "In some of these instances, employees said Muse surfaced messages about childcare requests they never made, career advice they never asked for, product orders they never placed, and bank account balan"
-    },
-    {
-      "title": "Former Alibaba exec\u2019s Everful raises $48.5M to connect retailers with Chinese factories",
-      "url": "https://techcrunch.com/2026/11/19/former-alibaba-execs-everful-raises-48-5m-to-connect-retailers-with-chinese-factories/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-11-19T17:00:00Z",
-      "snippet": "Everful has raised $48.5 million to expand its factory-direct sourcing platform, helping retailers source products from overseas manufacturers."
     }
   ],
   "trending": [
@@ -184,19 +184,19 @@
       "downloads": 238152
     },
     {
-      "id": "n4ze3m/tiny-voca",
-      "displayName": "tiny voca",
-      "downloads": 9323
-    },
-    {
-      "id": "nvidia/NVIDIA-Nemotron-3.5-Bolt-E4B-4GB",
-      "displayName": "NVIDIA Nemotron 3.5 Bolt E4B 4GB",
-      "downloads": 195916
-    },
-    {
       "id": "chatrlabs/Qwen-Image-2.1-Uncensored-Omni-Quantized",
       "displayName": "Qwen Image 2.1 Uncensored Omni Quantized",
       "downloads": 339903
+    },
+    {
+      "id": "AtomicChat/Inkling-2-Mini-Uncensored-GGUF",
+      "displayName": "Inkling 2 Mini Uncensored",
+      "downloads": 9540
+    },
+    {
+      "id": "n4ze3m/tiny-voca",
+      "displayName": "tiny voca",
+      "downloads": 9323
     },
     {
       "id": "DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
@@ -209,24 +209,24 @@
       "downloads": 7532043
     },
     {
+      "id": "nvidia/NVIDIA-Nemotron-3.5-Bolt-E4B-4GB",
+      "displayName": "NVIDIA Nemotron 3.5 Bolt E4B 4GB",
+      "downloads": 195916
+    },
+    {
       "id": "Zyphra/ZONOS3-Mini",
       "displayName": "ZONOS3 Mini",
       "downloads": 154251
     },
     {
-      "id": "AtomicChat/Inkling-2-Mini-Uncensored-GGUF",
-      "displayName": "Inkling 2 Mini Uncensored",
-      "downloads": 9540
-    },
-    {
-      "id": "AngelSlim/Hy4-flash-GGUF",
-      "displayName": "Hy4 flash",
-      "downloads": 94791
-    },
-    {
       "id": "DavidAU/Qwen3.5-9B-The-Defiant-Fable-Uncensored-Heretic-NEO-IMATRIX-MAX-MTP-GGUF",
       "displayName": "Qwen3.5 9B The Defiant Fable Uncensored Heretic NEO IMATRIX MAX MTP",
       "downloads": 2242769
+    },
+    {
+      "id": "huihui-ai/Huihui-Qwen3.8-27B-abliterated-GGUF",
+      "displayName": "Huihui Qwen3.8 27B abliterated",
+      "downloads": 4489052
     }
   ]
 }
