@@ -1,6 +1,27 @@
 {
-  "updated": "2026-11-21T09:07:12Z",
+  "updated": "2026-11-21T17:03:20Z",
   "news": [
+    {
+      "title": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
+      "url": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-11-21T16:00:00Z",
+      "snippet": "An actor has licensed his face to a microdrama startup \u2014 in a trend that's already popular in China. Experts question the long-term consequences if this becomes a trend in Hollywood, too."
+    },
+    {
+      "title": "Can Anthropic afford to put safety first?",
+      "url": "https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure",
+      "source": "The Verge",
+      "publishedAt": "2026-11-21T15:00:00Z",
+      "snippet": "Today, I\u2019m talking with Hayden Field, The Verge\u2019s senior AI reporter, about the Anthropic IPO for the third and final episode in our series about AI in real life. The AI lab behind Claude went public "
+    },
+    {
+      "title": "Chess.com\u2019s next move is a new hub for classic games, from mahjong to sudoku",
+      "url": "https://www.theverge.com/games/1038099/chess-classic-games-expansion-ai",
+      "source": "The Verge",
+      "publishedAt": "2026-11-21T14:00:00Z",
+      "snippet": "Chess.com is ready to go a lot bigger than chess. After launching Gambit, a gambling-free poker site, earlier this year, the company is now adding 10 more games: backgammon, checkers, go, hearts, mahj"
+    },
     {
       "title": "Daniel Ek backs AI researcher\u2019s fusion power startup. Here\u2019s what they\u2019re building.",
       "url": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/",
@@ -135,13 +156,6 @@
       "snippet": "At a stock price of $95, the frontier lab's Public Benefit Foundation, its employee donations, and the company's match tot up to $156 billion."
     },
     {
-      "title": "Gemini on Mac can now use your computer",
-      "url": "https://www.theverge.com/tech/1037902/google-gemini-macos-ai-computer-use",
-      "source": "The Verge",
-      "publishedAt": "2026-11-19T18:21:13Z",
-      "snippet": "Google's Gemini app for macOS now has computer use, meaning it can help you \"get multi-step tasks done across your local files, desktop apps, and the web,\" the company says. Google suggests the featur"
-    },
-    {
       "title": "Google gives Gemini the ability to use your Mac for you",
       "url": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/",
       "source": "TechCrunch",
@@ -161,72 +175,58 @@
       "source": "TechCrunch",
       "publishedAt": "2026-11-19T17:00:00Z",
       "snippet": "Everful has raised $48.5 million to expand its factory-direct sourcing platform, helping retailers source products from overseas manufacturers."
-    },
-    {
-      "title": "Anthropic hits Nasdaq exchanges at $111, 33% above IPO price",
-      "url": "https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-11-19T16:59:23Z",
-      "snippet": "Anthropic's IPO price was set at $83, representing more than $80 billion in new capital raised."
-    },
-    {
-      "title": "Anthropic starts trading on Wall Street",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1035384/anthropic-ipo-trading-nasdaq",
-      "source": "The Verge",
-      "publishedAt": "2026-11-19T16:52:01Z",
-      "snippet": "Anthropic has officially gone public. It began trading on the Nasdaq under the ticker symbol \"ANT\" at $111.50 per share, up from its initial $83 per share price that put company's value at around $1.5"
     }
   ],
   "trending": [
     {
       "id": "unsloth/Inkling-2-Mini-GGUF",
       "displayName": "Inkling 2 Mini",
-      "downloads": 0
-    },
-    {
-      "id": "nvidia/NVIDIA-Nemotron-3.5-Bolt-E4B-4GB",
-      "displayName": "NVIDIA Nemotron 3.5 Bolt E4B 4GB",
-      "downloads": 183617
-    },
-    {
-      "id": "chatrlabs/Qwen-Image-2.1-Uncensored-Omni-Quantized",
-      "displayName": "Qwen Image 2.1 Uncensored Omni Quantized",
-      "downloads": 309394
+      "downloads": 238152
     },
     {
       "id": "n4ze3m/tiny-voca",
       "displayName": "tiny voca",
-      "downloads": 7949
+      "downloads": 9323
     },
     {
-      "id": "unsloth/Qwen3.8-27B-GGUF",
-      "displayName": "Qwen3.8 27B",
-      "downloads": 7383193
+      "id": "nvidia/NVIDIA-Nemotron-3.5-Bolt-E4B-4GB",
+      "displayName": "NVIDIA Nemotron 3.5 Bolt E4B 4GB",
+      "downloads": 195916
+    },
+    {
+      "id": "chatrlabs/Qwen-Image-2.1-Uncensored-Omni-Quantized",
+      "displayName": "Qwen Image 2.1 Uncensored Omni Quantized",
+      "downloads": 339903
     },
     {
       "id": "DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
       "displayName": "Qwen3.8 27B TURBO Fable Cold Fusion 735 882 Heretic Uncensored NEO CODER MAX MTP",
-      "downloads": 1807159
+      "downloads": 1787788
+    },
+    {
+      "id": "unsloth/Qwen3.8-27B-GGUF",
+      "displayName": "Qwen3.8 27B",
+      "downloads": 7532043
     },
     {
       "id": "Zyphra/ZONOS3-Mini",
       "displayName": "ZONOS3 Mini",
-      "downloads": 142778
+      "downloads": 154251
     },
     {
-      "id": "huihui-ai/Huihui-Qwen3.8-27B-abliterated-GGUF",
-      "displayName": "Huihui Qwen3.8 27B abliterated",
-      "downloads": 4448225
+      "id": "AtomicChat/Inkling-2-Mini-Uncensored-GGUF",
+      "displayName": "Inkling 2 Mini Uncensored",
+      "downloads": 9540
+    },
+    {
+      "id": "AngelSlim/Hy4-flash-GGUF",
+      "displayName": "Hy4 flash",
+      "downloads": 94791
     },
     {
       "id": "DavidAU/Qwen3.5-9B-The-Defiant-Fable-Uncensored-Heretic-NEO-IMATRIX-MAX-MTP-GGUF",
       "displayName": "Qwen3.5 9B The Defiant Fable Uncensored Heretic NEO IMATRIX MAX MTP",
-      "downloads": 2218018
-    },
-    {
-      "id": "Edge0/Edge0-145B-NVFP4",
-      "displayName": "Edge0 145B NVFP4",
-      "downloads": 85400
+      "downloads": 2242769
     }
   ]
 }
