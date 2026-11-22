@@ -1,6 +1,20 @@
 {
-  "updated": "2026-11-22T13:57:21Z",
+  "updated": "2026-11-22T20:36:14Z",
   "news": [
+    {
+      "title": "Why data centers are at the center of the Big Tech backlash",
+      "url": "https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-11-22T18:08:43Z",
+      "snippet": "Journalist Paris Marx unpacks his new book \"Hyperscale.\""
+    },
+    {
+      "title": "Binding of Isaac developer removes AI music from Repentance Plus",
+      "url": "https://www.theverge.com/games/1039770/binding-of-isaac-ai-music",
+      "source": "The Verge",
+      "publishedAt": "2026-11-22T17:25:20Z",
+      "snippet": "The Binding of Isaac: Repentance Plus has spent the last few days getting review-bombed on Steam after it was discovered that a particular segment of the game used AI music. Reddit user ShweetsStuff d"
+    },
     {
       "title": "The vibe-coding revolution is coming to all the gadgets",
       "url": "https://www.theverge.com/column/1039139/vibe-coding-gadgets-tv-camera",
@@ -142,13 +156,6 @@
       "snippet": "Apple is working on its own AI agent that can perform a range of tasks for you, including browsing the web, working across apps, writing code, and calling services. That's according to a now-removed j"
     },
     {
-      "title": "A brief history of Nvidia\u2019s recent stock fluctuations",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1038063/nvidia-stock-market-price-earnings",
-      "source": "The Verge",
-      "publishedAt": "2026-11-19T21:59:35Z",
-      "snippet": "\"We've got this,\" Colette Kress, interim CEO of Nvidia, said Tuesday night as she closed out the embattled chip company's third quarter earnings call. By Thursday, the company's stock price was hoveri"
-    },
-    {
       "title": "Meta\u2019s new Muse Charm device may cost $300",
       "url": "https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300/",
       "source": "TechCrunch",
@@ -168,13 +175,6 @@
       "source": "TechCrunch",
       "publishedAt": "2026-11-19T20:18:49Z",
       "snippet": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure."
-    },
-    {
-      "title": "Anthropic\u2019s IPO could deliver $156B to charity",
-      "url": "https://techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-11-19T19:10:45Z",
-      "snippet": "At a stock price of $95, the frontier lab's Public Benefit Foundation, its employee donations, and the company's match tot up to $156 billion."
     }
   ],
   "trending": [
@@ -194,14 +194,14 @@
       "downloads": 381769
     },
     {
-      "id": "n4ze3m/tiny-voca",
-      "displayName": "tiny voca",
-      "downloads": 10768
-    },
-    {
       "id": "DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
       "displayName": "Qwen3.8 27B TURBO Fable Cold Fusion 735 882 Heretic Uncensored NEO CODER MAX MTP",
       "downloads": 1827784
+    },
+    {
+      "id": "n4ze3m/tiny-voca",
+      "displayName": "tiny voca",
+      "downloads": 10768
     },
     {
       "id": "unsloth/Qwen3.8-27B-GGUF",
