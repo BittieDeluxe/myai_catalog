@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-21T22:42:32Z",
+  "updated": "2026-11-22T04:49:23Z",
   "news": [
     {
       "title": "Signal restricts mobile screenshots as it confronts \u2018existential threat\u2019 of AI surveillance",
@@ -184,14 +184,14 @@
       "downloads": 238152
     },
     {
-      "id": "chatrlabs/Qwen-Image-2.1-Uncensored-Omni-Quantized",
-      "displayName": "Qwen Image 2.1 Uncensored Omni Quantized",
-      "downloads": 339903
-    },
-    {
       "id": "AtomicChat/Inkling-2-Mini-Uncensored-GGUF",
       "displayName": "Inkling 2 Mini Uncensored",
       "downloads": 9540
+    },
+    {
+      "id": "chatrlabs/Qwen-Image-2.1-Uncensored-Omni-Quantized",
+      "displayName": "Qwen Image 2.1 Uncensored Omni Quantized",
+      "downloads": 339903
     },
     {
       "id": "n4ze3m/tiny-voca",
