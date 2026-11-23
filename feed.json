@@ -1,6 +1,13 @@
 {
-  "updated": "2026-11-23T02:09:33Z",
+  "updated": "2026-11-23T13:58:11Z",
   "news": [
+    {
+      "title": "Meta Muse can do your Black Friday shopping at Walmart",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1039874/walmart-agent-gateway-meta-muse-black-friday",
+      "source": "The Verge",
+      "publishedAt": "2026-11-23T11:00:00Z",
+      "snippet": "Walmart will let Meta's Muse shop on its website on your behalf, allowing the AI agent to find and purchase Black Friday deals. Tomorrow, on Tuesday November 24th, the retail giant will roll out a liv"
+    },
     {
       "title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
       "url": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/",
@@ -149,13 +156,6 @@
       "snippet": "From notetakers to webcams, here are six AI-powered gadgets to upgrade your workspace."
     },
     {
-      "title": "Signal is blocking Gemini and Siri AI from reading your screen",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1038390/signal-blocking-ai-agent-screenshots-mobile-app",
-      "source": "The Verge",
-      "publishedAt": "2026-11-20T12:30:47Z",
-      "snippet": "Signal is restricting the ability to take screenshots on Android and iOS devices in an effort to prevent AI agents from reading users' messages and other data. The agentic AI capabilities built into o"
-    },
-    {
       "title": "Apple may be developing its own AI agent that runs your Mac",
       "url": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
       "source": "TechCrunch",
@@ -181,52 +181,52 @@
     {
       "id": "unsloth/Inkling-2-Mini-GGUF",
       "displayName": "Inkling 2 Mini",
-      "downloads": 805993
+      "downloads": 1292888
     },
     {
       "id": "AtomicChat/Inkling-2-Mini-Uncensored-GGUF",
       "displayName": "Inkling 2 Mini Uncensored",
-      "downloads": 129693
+      "downloads": 329497
     },
     {
       "id": "chatrlabs/Qwen-Image-2.1-Uncensored-Omni-Quantized",
       "displayName": "Qwen Image 2.1 Uncensored Omni Quantized",
-      "downloads": 381769
+      "downloads": 427005
     },
     {
       "id": "DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
       "displayName": "Qwen3.8 27B TURBO Fable Cold Fusion 735 882 Heretic Uncensored NEO CODER MAX MTP",
-      "downloads": 1827784
-    },
-    {
-      "id": "n4ze3m/tiny-voca",
-      "displayName": "tiny voca",
-      "downloads": 10768
+      "downloads": 1833410
     },
     {
       "id": "unsloth/Qwen3.8-27B-GGUF",
       "displayName": "Qwen3.8 27B",
-      "downloads": 7683660
+      "downloads": 7848375
+    },
+    {
+      "id": "n4ze3m/tiny-voca",
+      "displayName": "tiny voca",
+      "downloads": 12310
     },
     {
       "id": "nvidia/NVIDIA-Nemotron-3.5-Bolt-E4B-4GB",
       "displayName": "NVIDIA Nemotron 3.5 Bolt E4B 4GB",
-      "downloads": 203420
-    },
-    {
-      "id": "DavidAU/Qwen3.5-9B-The-Defiant-Fable-Uncensored-Heretic-NEO-IMATRIX-MAX-MTP-GGUF",
-      "displayName": "Qwen3.5 9B The Defiant Fable Uncensored Heretic NEO IMATRIX MAX MTP",
-      "downloads": 2266182
+      "downloads": 206652
     },
     {
       "id": "huihui-ai/Huihui-Qwen3.8-27B-abliterated-GGUF",
       "displayName": "Huihui Qwen3.8 27B abliterated",
-      "downloads": 4534445
+      "downloads": 4501257
     },
     {
-      "id": "Zyphra/ZONOS3-Mini",
-      "displayName": "ZONOS3 Mini",
-      "downloads": 164668
+      "id": "DavidAU/Qwen3.5-9B-The-Defiant-Fable-Uncensored-Heretic-NEO-IMATRIX-MAX-MTP-GGUF",
+      "displayName": "Qwen3.5 9B The Defiant Fable Uncensored Heretic NEO IMATRIX MAX MTP",
+      "downloads": 2285682
+    },
+    {
+      "id": "CaryPalmer/Kintsugi-27B",
+      "displayName": "Kintsugi 27B",
+      "downloads": 7312
     }
   ]
 }
