@@ -1,6 +1,62 @@
 {
-  "updated": "2026-11-24T21:56:58Z",
+  "updated": "2026-11-25T16:42:31Z",
   "news": [
+    {
+      "title": "Nothing offers a full look at its AI earbuds and charging case",
+      "url": "https://www.theverge.com/gadgets/1042162/nothing-ear-note-ai-earbuds-reveal",
+      "source": "The Verge",
+      "publishedAt": "2026-11-25T16:00:59Z",
+      "snippet": "Nothing is showing off a much more detailed look at its upcoming AI earbuds ahead of their December 8th release. The Ear Note buds can record your calls, while their charging case can record, transcri"
+    },
+    {
+      "title": "AI data centers are becoming harder to build, and neoclouds are feeling it",
+      "url": "https://techcrunch.com/podcast/ai-data-centers-are-becoming-harder-to-build-and-neoclouds-are-feeling-it/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-11-25T15:41:43Z",
+      "snippet": "\u2060Nvidia has made clear\u2060 it won\u2019t backstop an AI data center until it\u2019s nearly ready to run, and that\u2019s landing just as neoclouds report construction delays and more expensive debt. The message to deve"
+    },
+    {
+      "title": "Amazon is reportedly in talks to end Muse AI shopping block",
+      "url": "https://www.theverge.com/tech/1042071/meta-amazon-muse-ai-shopping-discussions",
+      "source": "The Verge",
+      "publishedAt": "2026-11-25T14:12:33Z",
+      "snippet": "Amazon has held talks about letting Meta's Muse AI agent shop on its online marketplace, according to a report from Fortune. The discussions, which could end Amazon's block on Muse, reportedly center "
+    },
+    {
+      "title": "Amazon and Meta reportedly in talks to lift blockade on AI agent Muse",
+      "url": "https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-11-25T14:10:18Z",
+      "snippet": "Amazon and Meta are discussing a potential deal that would end a two-month-long blockade of Muse."
+    },
+    {
+      "title": "Has vibe coding made open source the new normal for synths?",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1040081/vibe-coding-open-source-music-firmware",
+      "source": "The Verge",
+      "publishedAt": "2026-11-25T13:00:00Z",
+      "snippet": "The emergence of powerful vibe-coding agents and tools like Reverse Engineer Anything has caused chaos in the music gear world, leaving companies scrambling to figure out how to respond. While some, l"
+    },
+    {
+      "title": "The questions Jensen Huang and Nvidia will still have to answer about Megaspeed",
+      "url": "https://techcrunch.com/2026/11/25/the-questions-jensen-huang-and-nvidia-will-still-have-to-answer-about-megaspeed/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-11-25T13:00:00Z",
+      "snippet": "Huang still faces questions from Congress and his own board about his romantic relationship with an alleged chip smuggler."
+    },
+    {
+      "title": "Yale\u2019s Sonnenfeld: Nvidia is a \u2018detriment\u2019 to US industrial might \u2014 not a champion",
+      "url": "https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-11-25T00:12:02Z",
+      "snippet": "Yale's Jeffrey Sonnenfeld warns that what the market cheered Monday, Jensen Huang's White House\u2013backed return as Nvidia's CEO and board member, could prove a giant mistake, exposing the directors to \""
+    },
+    {
+      "title": "Jensen Huang still thinks a succession plan creates unnecessary hierarchy",
+      "url": "https://techcrunch.com/2026/11/24/jensen-huang-still-thinks-a-succession-plan-creates-unnecessary-hierarchy/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-11-24T22:27:52Z",
+      "snippet": "It's a remarkable stance for a company that spent the last two weeks finding out what happens without its founder."
+    },
     {
       "title": "In all-hands meeting, Jensen Huang thanks White House and says he\u2019s in therapy",
       "url": "https://techcrunch.com/2026/11/24/in-all-hands-meeting-jensen-huang-thanks-white-house-and-says-hes-in-therapy/",
@@ -107,13 +163,6 @@
       "snippet": "While other social platforms have focused on restricting teens' access to AI chatbots, Pinterest is addressing the AI content filling their feeds."
     },
     {
-      "title": "Amazon\u2019s Decart acquisition is a bet on using software to narrow the silicon gap with Nvidia",
-      "url": "https://techcrunch.com/2026/11/24/amazons-decart-acquisition-is-a-bet-on-using-software-to-narrow-the-gap-with-nvidia-in-the-ai-chip-race/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-11-24T15:51:07Z",
-      "snippet": "Amazon\u2019s decision to acquire Decart for a reported $7.5 billion is part of its efforts to improve the efficiency of its Trainium chips."
-    },
-    {
       "title": "Trump engineered a risky comeback for Jensen Huang",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1040652/jensen-huang-nvidia-trump-reinstated",
       "source": "The Verge",
@@ -126,107 +175,58 @@
       "source": "The Verge",
       "publishedAt": "2026-11-23T22:10:32Z",
       "snippet": "After the leather-jacketed CEO, president, and co-founder of Nvidia, Jensen Huang, acknowledged an affair with Megaspeed exec Alice Huang, his company initially announced an investigation. However, af"
-    },
-    {
-      "title": "Welcome to elite impunity, Jensen Huang",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1040819/welcome-to-elite-impunity-jensen-huang",
-      "source": "The Verge",
-      "publishedAt": "2026-11-23T22:09:26Z",
-      "snippet": "I suppose I must issue a hearty congratulations to Jensen Huang. Huang is CEO of Nvidia again, to the surprise of basically everyone except President Donald Trump and Vice President JD Vance, who made"
-    },
-    {
-      "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
-      "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-11-23T22:05:50Z",
-      "snippet": "As AI-generated code piles up, Anthropic's new developer tools aim to eliminate another bottleneck by letting agents handle routine approvals."
-    },
-    {
-      "title": "Supertake raises $20M to let AI agents turn your market predictions into stock portfolios",
-      "url": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-11-23T22:02:05Z",
-      "snippet": "Think you know where the market is headed? A startup called Supertake lets you put money behind your ideas without having to pick the stocks yourself."
-    },
-    {
-      "title": "Elon Musk and others rejoice as Jensen Huang is reinstated at Nvidia amid scandal",
-      "url": "https://techcrunch.com/2026/11/23/elon-musk-and-others-rejoice-as-jensen-huang-is-reinstated-at-nvidia-amid-scandal/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-11-23T21:47:41Z",
-      "snippet": "\"The mistake has been corrected,\" Elon Musk chimed in."
-    },
-    {
-      "title": "Megaspeed, the company at the center of the Jensen Huang scandal, appears headed for a US blacklist",
-      "url": "https://techcrunch.com/2026/11/23/megaspeed-the-company-at-the-center-of-the-jensen-huang-scandal-appears-headed-for-a-u-s-blacklist/",
-      "source": "TechCrunch",
-      "publishedAt": "2026-11-23T21:25:42Z",
-      "snippet": "Megaspeed, which was previously led by Alice Huang, would be barred from doing business with U.S. companies unless those companies attained a special license from the federal government."
-    },
-    {
-      "title": "AI data centers throw another wrench into chaotic UN climate talks",
-      "url": "https://www.theverge.com/science/1040497/ai-data-centers-electricity-un-climate-summit",
-      "source": "The Verge",
-      "publishedAt": "2026-11-23T21:09:37Z",
-      "snippet": "The clean energy revolution hinges on electrifying the entire global economy just as power-hungry data centers are surging. It's a challenge delegates from all over the world had to grapple with durin"
-    },
-    {
-      "title": "Claude AI can review pull requests and ship fixes on its own now",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1040134/anthropic-claude-ship-ai-pull-requests",
-      "source": "The Verge",
-      "publishedAt": "2026-11-23T20:00:00Z",
-      "snippet": "Anthropic is launching some new Claude AI features to help software engineers ship code. As part of a new Claude Ship product being announced today, Claude now can review, fix, and approve pull reques"
     }
   ],
   "trending": [
     {
       "id": "unsloth/Inkling-2-Mini-GGUF",
       "displayName": "Inkling 2 Mini",
-      "downloads": 1913407
+      "downloads": 2445633
     },
     {
       "id": "AtomicChat/Inkling-2-Mini-Uncensored-GGUF",
       "displayName": "Inkling 2 Mini Uncensored",
-      "downloads": 573775
+      "downloads": 762491
     },
     {
-      "id": "chatrlabs/Qwen-Image-2.1-Uncensored-Omni-Quantized",
-      "displayName": "Qwen Image 2.1 Uncensored Omni Quantized",
-      "downloads": 474726
+      "id": "prism-ml/Ternary-Bonsai-2.5-27B-GGUF",
+      "displayName": "Ternary Bonsai 2.5 27B",
+      "downloads": 59366
     },
     {
       "id": "nari-labs/Qwen3.8-27B-NariQ-GGUF",
       "displayName": "Qwen3.8 27B NariQ",
-      "downloads": 8795
-    },
-    {
-      "id": "DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
-      "displayName": "Qwen3.8 27B TURBO Fable Cold Fusion 735 882 Heretic Uncensored NEO CODER MAX MTP",
-      "downloads": 1851836
+      "downloads": 14337
     },
     {
       "id": "orcarouter/Inkling-2-Mini-abliterated-GGUF",
       "displayName": "Inkling 2 Mini abliterated",
-      "downloads": 5446
+      "downloads": 12157
+    },
+    {
+      "id": "chatrlabs/Qwen-Image-2.1-Uncensored-Omni-Quantized",
+      "displayName": "Qwen Image 2.1 Uncensored Omni Quantized",
+      "downloads": 515591
+    },
+    {
+      "id": "DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
+      "displayName": "Qwen3.8 27B TURBO Fable Cold Fusion 735 882 Heretic Uncensored NEO CODER MAX MTP",
+      "downloads": 1873950
     },
     {
       "id": "huihui-ai/Huihui-Qwen3.8-27B-abliterated-GGUF",
       "displayName": "Huihui Qwen3.8 27B abliterated",
-      "downloads": 4526259
+      "downloads": 4628141
     },
     {
-      "id": "nvidia/NVIDIA-Nemotron-3.5-Bolt-E4B-4GB",
-      "displayName": "NVIDIA Nemotron 3.5 Bolt E4B 4GB",
-      "downloads": 196409
-    },
-    {
-      "id": "unsloth/Qwen3.8-27B-GGUF",
-      "displayName": "Qwen3.8 27B",
-      "downloads": 8019028
+      "id": "CaryPalmer/Kintsugi-27B",
+      "displayName": "Kintsugi 27B",
+      "downloads": 14793
     },
     {
       "id": "DavidAU/Qwen3.5-9B-The-Defiant-Fable-Uncensored-Heretic-NEO-IMATRIX-MAX-MTP-GGUF",
       "displayName": "Qwen3.5 9B The Defiant Fable Uncensored Heretic NEO IMATRIX MAX MTP",
-      "downloads": 2280374
+      "downloads": 2236527
     }
   ]
 }
