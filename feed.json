@@ -1,6 +1,13 @@
 {
-  "updated": "2026-11-26T01:28:35Z",
+  "updated": "2026-11-26T10:22:18Z",
   "news": [
+    {
+      "title": "42 state AGs are trying to stop Character.AI from selling users\u2019 chats",
+      "url": "https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats",
+      "source": "The Verge",
+      "publishedAt": "2026-11-26T09:54:40Z",
+      "snippet": "A coalition of 42 state attorneys general is trying to prevent Character.AI from selling off user data as it navigates Chapter 11 bankruptcy proceedings. In a deluge of nearly identical press releases"
+    },
     {
       "title": "S&P considers Nvidia credit downgrade over governance and \u2018key man\u2019 risks",
       "url": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/",
@@ -168,13 +175,6 @@
       "source": "The Verge",
       "publishedAt": "2026-11-24T16:30:00Z",
       "snippet": "Jensen Huang is partying it up in Ibiza. In a video with nearly 6 million views on Instagram, the former CEO of Nvidia is dancing in a crowded club, champagne glass in hand, still wearing his signatur"
-    },
-    {
-      "title": "The New York Times warns photographers not to update Photoshop over AI features",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
-      "source": "The Verge",
-      "publishedAt": "2026-11-24T16:09:23Z",
-      "snippet": "The New York Times is asking freelance photographers not to use the newest version of Adobe Photoshop because features in the 2027 update use AI \"in ways that may not be apparent to users.\" In an emai"
     }
   ],
   "trending": [
@@ -214,19 +214,19 @@
       "downloads": 515591
     },
     {
-      "id": "huihui-ai/Huihui-Qwen3.8-27B-abliterated-GGUF",
-      "displayName": "Huihui Qwen3.8 27B abliterated",
-      "downloads": 4628141
-    },
-    {
       "id": "DavidAU/Qwen3.5-9B-The-Defiant-Fable-Uncensored-Heretic-NEO-IMATRIX-MAX-MTP-GGUF",
       "displayName": "Qwen3.5 9B The Defiant Fable Uncensored Heretic NEO IMATRIX MAX MTP",
       "downloads": 2236527
     },
     {
-      "id": "unsloth/Qwen3.8-27B-GGUF",
-      "displayName": "Qwen3.8 27B",
-      "downloads": 8181570
+      "id": "huihui-ai/Huihui-Qwen3.8-27B-abliterated-GGUF",
+      "displayName": "Huihui Qwen3.8 27B abliterated",
+      "downloads": 4628141
+    },
+    {
+      "id": "ggml-org/Inkling-2-Mini-GGUF",
+      "displayName": "Inkling 2 Mini",
+      "downloads": 762906
     }
   ]
 }
