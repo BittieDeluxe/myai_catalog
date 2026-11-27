@@ -1,6 +1,13 @@
 {
-  "updated": "2026-11-27T13:26:10Z",
+  "updated": "2026-11-27T22:27:26Z",
   "news": [
+    {
+      "title": "Android\u2019s DIY widgets are a bit of vibe-coding fun",
+      "url": "https://www.theverge.com/tech/1041801/android-intelligence-create-my-widget-gemini",
+      "source": "The Verge",
+      "publishedAt": "2026-11-27T14:00:00Z",
+      "snippet": "Aside from dealing with my calendar, there's one thing I want AI to do: tell me if I'm about to miss the bus. What I need is a widget. It needs to tell me real-time arrivals for the bus stop near my h"
+    },
     {
       "title": "Nvidia hits pause on chip shipments to Southeast Asia",
       "url": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
@@ -168,13 +175,6 @@
       "source": "The Verge",
       "publishedAt": "2026-11-24T17:17:09Z",
       "snippet": "Tidal is officially banning AI-generated music on December 9th. As a result of this change, Tidal will delete around 29 million AI-generated songs and reject an estimated 80,000 to 85,000 tracks per d"
-    },
-    {
-      "title": "Jensen Huang deepfakes are the hot new AI slop",
-      "url": "https://www.theverge.com/tech/1041222/jensen-huang-nvidia-scandal-deepfakes",
-      "source": "The Verge",
-      "publishedAt": "2026-11-24T16:30:00Z",
-      "snippet": "Jensen Huang is partying it up in Ibiza. In a video with nearly 6 million views on Instagram, the former CEO of Nvidia is dancing in a crowded club, champagne glass in hand, still wearing his signatur"
     }
   ],
   "trending": [
@@ -194,11 +194,6 @@
       "downloads": 382546
     },
     {
-      "id": "nari-labs/Qwen3.8-27B-NariQ-GGUF",
-      "displayName": "Qwen3.8 27B NariQ",
-      "downloads": 30849
-    },
-    {
       "id": "ISTA-DASLab/Inkling-2-Mini-GSQ-RCO-GGUF",
       "displayName": "Inkling 2 Mini GSQ RCO",
       "downloads": 24931
@@ -214,19 +209,24 @@
       "downloads": 1919755
     },
     {
+      "id": "nari-labs/Qwen3.8-27B-NariQ-GGUF",
+      "displayName": "Qwen3.8 27B NariQ",
+      "downloads": 30849
+    },
+    {
       "id": "chatrlabs/Qwen-Image-2.1-Uncensored-Omni-Quantized",
       "displayName": "Qwen Image 2.1 Uncensored Omni Quantized",
       "downloads": 602227
     },
     {
+      "id": "huihui-ai/Huihui-Qwen3.8-27B-abliterated-GGUF",
+      "displayName": "Huihui Qwen3.8 27B abliterated",
+      "downloads": 4694969
+    },
+    {
       "id": "DavidAU/Qwen3.5-9B-The-Defiant-Fable-Uncensored-Heretic-NEO-IMATRIX-MAX-MTP-GGUF",
       "displayName": "Qwen3.5 9B The Defiant Fable Uncensored Heretic NEO IMATRIX MAX MTP",
       "downloads": 2180957
-    },
-    {
-      "id": "ccore/CCORE-Web-Coder-4B",
-      "displayName": "CCORE Web Coder 4B",
-      "downloads": 8810
     }
   ]
 }
